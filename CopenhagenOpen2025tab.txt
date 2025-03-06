@@ -1,0 +1,602 @@
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Oxford A		1st	1st	1st	2nd	1st	14	824	4	1
+2	LSE stands for Library Sex Enjoyers (a		1st	1st	1st	1st	3rd	13	817	4	0
+3	Cambridge A		1st	1st	2nd	3rd	1st	12	824	3	1
+4	Ljubljana Hej Slovani	ESL	1st	3rd	1st	1st	2nd	12	812	3	1
+5	Oxford B		3rd	1st	1st	2nd	1st	12	784	3	1
+6	EUDU Wurdaan in Copenhagen? The west ha		1st	1st	2nd	4th	1st	11	803	3	1
+7	Separate but equal……… speeches	ESL	1st	2nd	2nd	2nd	2nd	11	798	1	4
+8	Cambridge Copenhagen was a prep comp for Cop		2nd	1st	4th	1st	1st	11	785	3	1
+9	Newydd Aburestvičevci A		2nd	1st	1st	3rd	3rd	10	801	2	1
+10	Daan did leg day for a year just t	ESL	1st	2nd	3rd	2nd	2nd	10	801	1	3
+11	Tartu A	ESL	1st	2nd	3rd	2nd	2nd	10	792	1	3
+12	Tallinn unseen university a	ESL	3rd	2nd	1st	1st	3rd	10	779	2	1
+13	baltic quota fillers	ESL	2nd	1st	4th	2nd	1st	10	776	2	2
+14	Belgrade BK	ESL	1st	1st	3rd	4th	1st	10	772	3	0
+15	WSDC Denmark Coach Laura is abusive please help		1st	3rd	1st	1st	4th	10	768	3	0
+16	our lovechild would look like jame		2nd	2nd	2nd	4th	1st	9	788	1	3
+17	München tja	ESL	2nd	3rd	1st	1st	4th	9	786	2	1
+18	Leiden Peter Singer enjoyers	ESL	2nd	2nd	2nd	3rd	2nd	9	781	0	4
+19	WSDC Denmark Peter &amp; Haniya	ESL	2nd	2nd	2nd	1st	4th	9	767	1	3
+20	INSEAD FT#3	ESL	3rd	1st	3rd	3rd	1st	9	762	2	0
+21	Chronos We are here for Natalie&#x27;s crush	ESL	3rd	3rd	1st	1st	3rd	9	758	2	0
+22	Debate partners with drawbacks		3rd	2nd	3rd	1st	2nd	9	753	1	2
+23	Stockholm Vasa&#x27;s Verbal Broadsides		3rd	4th	2nd	1st	1st	9	749	2	1
+24	München Munich🍺	ESL	3rd	2nd	1st	3rd	2nd	9	748	1	2
+25	Pärnu Passat Division Σ	ESL	1st	4th	3rd	1st	3rd	8	762	2	0
+26	One of us can get killed by a cook	ESL	1st	2nd	4th	4th	1st	8	761	2	1
+27	WSDC Denmark Sam &amp; Marcus		3rd	1st	4th	1st	3rd	8	761	2	0
+28	München DC Garching is the real Munich	ESL	1st	3rd	4th	2nd	2nd	8	761	1	2
+29	LSE KS		3rd	1st	3rd	1st	4th	8	757	2	0
+30	Leiden Coping in the Hagen		1st	4th	2nd	3rd	2nd	8	754	1	2
+31	Altaylardan Tunaya	ESL	4th	1st	4th	2nd	1st	8	753	2	1
+32	Oxford C		2nd	4th	1st	2nd	3rd	8	748	1	2
+33	DK Wien Dom &amp; sub situationship	ESL	2nd	3rd	2nd	3rd	3rd	7	779	0	2
+34	CDS e me rolling, they hating	ESL	1st	4th	2nd	4th	2nd	7	761	1	2
+35	2 Germans 1 Kebab	ESL	2nd	2nd	4th	3rd	2nd	7	759	0	3
+36	München Just here for the Kanelsnegle	ESL	1st	4th	2nd	2nd	4th	7	751	1	2
+37	Berlin π	ESL	2nd	3rd	1st	4th	3rd	7	748	1	1
+38	Budapest BanDia	ESL	4th	1st	1st	3rd	4th	7	747	2	0
+39	Aachen Fishy fingers		3rd	2nd	2nd	2nd	4th	7	740	0	3
+40	SSE Riga Auh auh auuuu	ESL	3rd	4th	1st	3rd	2nd	7	733	1	1
+41	WSDC Denmark Aatish &amp; Tanish		4th	1st	4th	1st	3rd	7	721	2	0
+42	Stockholm I&#x27;m Mid AF FML	ESL	2nd	4th	3rd	3rd	1st	7	716	1	1
+43	Stockholm C		4th	3rd	2nd	3rd	1st	7	712	1	1
+44	CDS TBD		2nd	1st	3rd	4th	4th	6	771	1	1
+45	CDS The deliberators		4th	2nd	2nd	2nd	4th	6	755	0	3
+46	Tartu Vi farede vild, hvor er Aarhus?	ESL	2nd	3rd	3rd	3rd	3rd	6	745	0	1
+47	CDS Straight Outta Balkans	ESL	1st	4th	3rd	3rd	3rd	6	742	1	0
+48	Berlin ö to the ø	ESL	2nd	4th	4th	2nd	2nd	6	736	0	3
+49	ihj nincs nagyon	ESL	4th	2nd	3rd	4th	1st	6	735	1	1
+50	CDS Taking a 1st in socials	ESL	2nd	3rd	4th	2nd	3rd	6	734	0	2
+51	Aachen DCAC RAY	ESL	3rd	3rd	1st	4th	4th	5	749	1	0
+52	LSE Take De Bait		3rd	3rd	4th	1st	4th	5	736	1	0
+53	Vilnius One and a half Greek men	ESL	2nd	3rd	4th	4th	2nd	5	734	0	2
+54	Corvinus High taxes &amp; government deficit...		3rd	3rd	3rd	4th	2nd	5	721	0	1
+55	WP Sanssouci Speakers	ESL	3rd	2nd	3rd	4th	3rd	5	719	0	1
+56	Berlin the newbies		4th	3rd	2nd	2nd	4th	5	714	0	2
+57	Imperial Su		4th	4th	2nd	1st	—	5	586	1	1
+58	Berlin KaiserDAMN!	ESL	4th	2nd	2nd	4th	4th	4	726	0	2
+59	SSE Riga Valga		4th	3rd	3rd	4th	2nd	4	692	0	1
+60	CDS The Debatinators		3rd	4th	4th	—	1st	4	577	1	0
+61	Corvinus ... led to governmental collapse i	ESL	3rd	4th	3rd	4th	3rd	3	700	0	0
+62	WANTED: Witch Mommy	ESL	4th	3rd	4th	2nd	4th	3	699	0	1
+63	Berlin Osclear and Belaevable	ESL	4th	4th	3rd	3rd	3rd	3	697	0	0
+64	Sorbonne Tvgirlies		4th	2nd	4th	3rd	4th	3	683	0	1
+65	Sorbonne The pookies	ESL	4th	4th	1st	4th	—	3	571	1	0
+66	Swing 1		4th	4th	1st	—	—	3	443	1	0
+67	Sorbonne The economist	ESL	4th	1st	4th	—	—	3	436	1	0
+68	Tartu Kuulilennuteetunneliluuk	ESL	4th	4th	4th	—	—	0	408	0	0
+69	Swing 2		—	—	—	—	4th	0	142	0	0
+70=	Swing 3		—	—	—	—	—	—	—	0	0
+70=	Swing X		—	—	—	—	—	—	—	0	0
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Max Rosen		Cambridge A	83	82	83	84	83	415	83.00	0.63
+2=	Gareth Lim Yefeng		Oxford A	79	83	84	85	81	412	82.40	2.15
+2=	Bharath Anantham		Oxford A	79	83	82	86	82	412	82.40	2.24
+4=	Aniket Godbole		LSE stands for Library Sex Enjoyers (a	84	79	81	87	79	410	82.00	3.10
+4=	David Safro	ESL	Ljubljana Hej Slovani	83	77	85	84	81	410	82.00	2.83
+6	Sophie Hannigan	Novice	Cambridge A	82	82	82	82	81	409	81.80	0.40
+7	Stefan-Christian Milicescu	ESL	LSE stands for Library Sex Enjoyers (a	83	79	81	86	78	407	81.40	2.87
+8=	Maj Hrovatin	ESL	Ljubljana Hej Slovani	82	77	83	81	79	402	80.40	2.15
+8=	Wurdaan Kashif		EUDU Wurdaan in Copenhagen? The west ha	80	80	80	82	80	402	80.40	0.80
+8=	Daan Spackler	ESL	Daan did leg day for a year just t	82	80	80	81	79	402	80.40	1.02
+8=	Lovro Marušić	ESL	Newydd Aburestvičevci A	79	85	82	78	78	402	80.40	2.73
+12=	Tom Milling		EUDU Wurdaan in Copenhagen? The west ha	79	81	80	82	79	401	80.20	1.17
+12=	Victor Bervoets	ESL	Separate but equal……… speeches	81	78	80	81	81	401	80.20	1.17
+14=	Martijn Logtenberg	ESL	Daan did leg day for a year just t	80	81	80	81	77	399	79.80	1.47
+14=	Zach Godley-McAvoy		Newydd Aburestvičevci A	78	84	81	78	78	399	79.80	2.40
+16=	Fraser McConachie		Cambridge Copenhagen was a prep comp for Cop	80	81	76	78	82	397	79.40	2.15
+16=	Kristjan Suuder	ESL	Tartu A	80	80	78	80	79	397	79.40	0.80
+16=	Uzair Tajuddin	ESL	Separate but equal……… speeches	81	77	80	80	79	397	79.40	1.36
+19	Krish Singh		our lovechild would look like jame	78	84	84	70	80	396	79.20	5.15
+20	Tanel Mütt	ESL	Tartu A	79	79	78	80	79	395	79.00	0.63
+21	Philipp Steen	ESL	München tja	79	76	82	82	75	394	78.80	2.93
+22=	Nicole Wong		Oxford B	77	77	81	75	82	392	78.40	2.65
+22=	Alex Chan	ESL	Oxford B	76	77	81	75	83	392	78.40	3.07
+22=	Adora Sabau	ESL	München tja	77	76	82	82	75	392	78.40	3.01
+22=	Alex Steinmetz	ESL	our lovechild would look like jame	78	83	83	70	78	392	78.40	4.76
+26=	Jakub Michalski	ESL	Leiden Peter Singer enjoyers	78	74	80	80	79	391	78.20	2.23
+26=	Barbara Neuworth	ESL	DK Wien Dom &amp; sub situationship	79	81	80	75	76	391	78.20	2.32
+28=	Daan Koning	ESL	Leiden Peter Singer enjoyers	79	75	79	79	78	390	78.00	1.55
+28=	Richard Käsper	ESL	Tallinn unseen university a	77	77	78	81	77	390	78.00	1.55
+28=	Mirtel Etverk	ESL	baltic quota fillers	82	79	77	75	77	390	78.00	2.37
+31	Ellen Roper	ESL	Tallinn unseen university a	77	76	79	81	76	389	77.80	1.94
+32=	Olivia Arbour	Novice	Cambridge Copenhagen was a prep comp for Cop	78	79	75	77	79	388	77.60	1.50
+32=	Anton Gonta	ESL	DK Wien Dom &amp; sub situationship	78	81	78	75	76	388	77.60	2.06
+34=	Darin Mansurbeg	ESL	WSDC Denmark Coach Laura is abusive please help	75	78	81	76	77	387	77.40	2.06
+34=	Peter Nyvold Bojsen-Møller	Novice, ESL	WSDC Denmark Peter &amp; Haniya	75	77	79	82	74	387	77.40	2.87
+34=	Alisa Popova		CDS TBD	79	77	80	78	73	387	77.40	2.42
+34=	Obrad Kostic	ESL	Belgrade BK	80	77	78	75	77	387	77.40	1.62
+38	Tommi Valgma	ESL	baltic quota fillers	81	77	76	76	76	386	77.20	1.94
+39=	Zhangyang Shen	ESL	INSEAD FT#3	75	78	79	76	77	385	77.00	1.41
+39=	Strahinja Batanjski	ESL	Belgrade BK	79	78	77	75	76	385	77.00	1.41
+41	Lars Bum Laugesen	ESL	CDS TBD	79	78	79	77	71	384	76.80	2.99
+42	Michele Liu		LSE KS	76	81	80	75	71	383	76.60	3.61
+43=	Jola Schmidt	ESL	München DC Garching is the real Munich	75	76	76	77	78	382	76.40	1.02
+43=	Lina Fefer	Novice, ESL	One of us can get killed by a cook	79	78	76	74	75	382	76.40	1.85
+45=	Daniël Hooimeijer	ESL	Leiden Coping in the Hagen	78	77	75	73	78	381	76.20	1.94
+45=	Maria Bahar Alamgiralam	Novice, ESL	WSDC Denmark Coach Laura is abusive please help	75	77	78	75	76	381	76.20	1.17
+45=	Marcus Carl Christofer Johansson*	Novice	WSDC Denmark Sam &amp; Marcus	76	79	75	78	73	381	76.20	2.14
+45=	Alexander L. Q. Chen-Florea	ESL	CDS e me rolling, they hating	76	77	78	74	76	381	76.20	1.33
+45=	Finn Mescher	ESL	2 Germans 1 Kebab	76	77	77	75	76	381	76.20	0.75
+45=	Arp Harald Tamm	ESL	Pärnu Passat Division Σ	79	75	74	78	75	381	76.20	1.94
+45=	Ramon Gelkov	ESL	Pärnu Passat Division Σ	80	75	74	78	74	381	76.20	2.40
+52=	Haniya Yusuf*	Novice, ESL	WSDC Denmark Peter &amp; Haniya	73	76	79	80	72	380	76.00	3.16
+52=	Samuel Studsgarth*	Novice	WSDC Denmark Sam &amp; Marcus	75	79	75	77	74	380	76.00	1.79
+54=	Natalia Beboshvili	ESL	Chronos We are here for Natalie&#x27;s crush	74	74	79	77	75	379	75.80	1.94
+54=	Leon Kersten	ESL	Chronos We are here for Natalie&#x27;s crush	74	73	80	77	75	379	75.80	2.48
+54=	Julia Kirzinger	ESL	München DC Garching is the real Munich	74	77	75	76	77	379	75.80	1.17
+54=	Lana Avramović	Novice, ESL	One of us can get killed by a cook	78	77	75	75	74	379	75.80	1.47
+58=	Dhairya Sanghavi		CDS The deliberators	73	78	78	74	75	378	75.60	2.06
+58=	Enes Taha Erdogan	ESL	2 Germans 1 Kebab	76	76	76	75	75	378	75.60	0.49
+60=	Terry Yang	Novice	Oxford C	74	73	77	79	74	377	75.40	2.24
+60=	Avinash Pulugurtha	ESL	INSEAD FT#3	73	78	76	74	76	377	75.40	1.74
+60=	Kshitij Aggarwal	ESL	CDS The deliberators	73	78	77	75	74	377	75.40	1.85
+60=	Tarık Denizhan	Novice, ESL	Altaylardan Tunaya	76	80	77	68	76	377	75.40	3.98
+60=	Amanda Vilén		Debate partners with drawbacks	73	79	73	78	74	377	75.40	2.58
+65=	Inga Peters	ESL	Berlin π	74	74	77	74	77	376	75.20	1.47
+65=	Benjamin Dekker		Stockholm Vasa&#x27;s Verbal Broadsides	74	73	73	77	79	376	75.20	2.40
+65=	Leander Mathissen	ESL	München Just here for the Kanelsnegle	79	74	76	74	73	376	75.20	2.14
+65=	Ahmet Nadir Akgül	Novice, ESL	Altaylardan Tunaya	76	79	76	68	77	376	75.20	3.76
+65=	Adian Roman	ESL	Debate partners with drawbacks	73	78	73	78	74	376	75.20	2.32
+70=	Diána Pásztor	ESL	Budapest BanDia	77	74	79	77	68	375	75.00	3.85
+70=	Yiyang Qian	ESL	Aachen DCAC RAY	79	74	76	72	74	375	75.00	2.37
+70=	Max Gasslitter Strobl	ESL	München Just here for the Kanelsnegle	78	75	75	74	73	375	75.00	1.67
+70=	Linus Kienmoser	ESL	München Munich🍺	73	78	77	72	75	375	75.00	2.28
+74=	Aaron Wilkens	Novice, ESL	Aachen DCAC RAY	77	75	75	73	74	374	74.80	1.33
+74=	Karis Mcintyre	Novice	LSE KS	76	77	78	74	69	374	74.80	3.19
+74=	Breca Borga	ESL	Tartu Vi farede vild, hvor er Aarhus?	76	76	75	73	74	374	74.80	1.17
+77=	Katrina Cassar		Leiden Coping in the Hagen	77	75	76	70	75	373	74.60	2.42
+77=	Elena Kalema	ESL	CDS Straight Outta Balkans	78	74	78	74	69	373	74.60	3.32
+77=	Edward Vilbern	Novice, ESL	Stockholm Vasa&#x27;s Verbal Broadsides	73	73	73	76	78	373	74.60	2.06
+77=	Sebastian Krauch	Novice, ESL	München Munich🍺	73	77	76	72	75	373	74.60	1.85
+81=	András Meleg	ESL	Budapest BanDia	76	74	78	76	68	372	74.40	3.44
+81=	Mees Hendriks		Aachen Fishy fingers	73	77	75	74	73	372	74.40	1.50
+81=	Pavel Kalinnikov	ESL	Berlin π	74	75	75	73	75	372	74.40	0.80
+84=	Cattleya Lai	Novice, ESL	LSE Take De Bait	73	76	76	73	73	371	74.20	1.47
+84=	Austin Andrews	Novice	Oxford C	72	72	76	79	72	371	74.20	2.86
+84=	Triinu Vaher	ESL	Tartu Vi farede vild, hvor er Aarhus?	75	75	74	73	74	371	74.20	0.75
+87	Lotte Tõnupärt	ESL	SSE Riga Auh auh auuuu	76	74	74	72	74	370	74.00	1.26
+88=	Julian Hesse	ESL	Berlin ö to the ø	75	78	72	72	72	369	73.80	2.40
+88=	Dimi Kostadinov	ESL	CDS Straight Outta Balkans	75	73	77	74	70	369	73.80	2.32
+90=	Xy Wang		Aachen Fishy fingers	73	73	74	74	74	368	73.60	0.49
+90=	Douros Nikolaos	ESL	Vilnius One and a half Greek men	75	74	73	73	73	368	73.60	0.80
+90=	Lívia Horváth	ESL	ihj nincs nagyon	71	73	74	72	78	368	73.60	2.42
+93=	Martin Kliemank	ESL	Berlin ö to the ø	75	78	70	71	73	367	73.40	2.87
+93=	Márton Hudáky	ESL	ihj nincs nagyon	71	73	75	71	77	367	73.40	2.33
+95=	Grace Graham	Novice	Corvinus High taxes &amp; government deficit...	75	76	77	65	73	366	73.20	4.31
+95=	Zilvinas Zilinskas	Novice, ESL	Vilnius One and a half Greek men	73	73	73	73	74	366	73.20	0.40
+95=	Emmeli Rose	ESL	CDS Taking a 1st in socials	76	74	71	74	71	366	73.20	1.94
+98=	Mayra Hobrok	Novice	LSE Take De Bait	71	75	75	71	73	365	73.00	1.79
+98=	Valeriia Malashenko	Novice, ESL	Berlin KaiserDAMN!	73	77	76	70	69	365	73.00	3.16
+100	Sten Martin Kabrits	Novice, ESL	SSE Riga Auh auh auuuu	75	73	71	72	72	363	72.60	1.36
+101=	Ferdinand Ermel	ESL	Berlin KaiserDAMN!	72	76	74	70	69	361	72.20	2.56
+101=	Tanish Joshi*	Novice	WSDC Denmark Aatish &amp; Tanish	75	77	66	69	74	361	72.20	4.07
+103=	Lais Chaioko Benjamin Campos	Novice	Berlin the newbies	71	72	72	76	69	360	72.00	2.28
+103=	Aatish Joshi*	Novice	WSDC Denmark Aatish &amp; Tanish	74	76	66	68	76	360	72.00	4.20
+103=	Ulrich Wiebe	Novice, ESL	WP Sanssouci Speakers	74	76	73	68	69	360	72.00	3.03
+103=	Amanda Sandberg	Novice, ESL	Stockholm I&#x27;m Mid AF FML	76	71	73	66	74	360	72.00	3.41
+107	Adrian Buchwald	ESL	WP Sanssouci Speakers	74	76	73	68	68	359	71.80	3.25
+108=	Ferdinand Montpaz	Novice, ESL	Stockholm C	71	66	73	73	73	356	71.20	2.71
+108=	Susan Astorga Kemp	Novice	Stockholm C	72	65	74	72	73	356	71.20	3.19
+108=	Magda Minica	Novice, ESL	Stockholm I&#x27;m Mid AF FML	75	72	71	65	73	356	71.20	3.37
+111	Botond Gergely Buday	Novice, ESL	Corvinus High taxes &amp; government deficit...	74	74	75	64	68	355	71.00	4.29
+112	Paula Heymann	Novice, ESL	Berlin the newbies	70	72	69	76	67	354	70.80	3.06
+113	Samuel Sinkovics	Novice, ESL	Corvinus ... led to governmental collapse i	71	75	70	64	72	352	70.40	3.61
+114=	Oskar Suckow	Novice, ESL	Berlin Osclear and Belaevable	68	65	74	70	73	350	70.00	3.29
+114=	Anna Shkilenok	ESL	WANTED: Witch Mommy	69	74	66	69	72	350	70.00	2.76
+116	Stepan Sodel	ESL	WANTED: Witch Mommy	69	74	66	71	69	349	69.80	2.64
+117	Ákos Bálint	Novice, ESL	Corvinus ... led to governmental collapse i	72	74	69	61	72	348	69.60	4.59
+118	Béla von Roëll	Novice, ESL	Berlin Osclear and Belaevable	68	65	72	69	73	347	69.40	2.87
+119	Rūta Švarcbaha	Novice	SSE Riga Valga	63	75	68	64	73	343	68.60	4.76
+120	Alexandrine Jouanno	Novice, ESL	Sorbonne Tvgirlies	70	68	71	66	67	342	68.40	1.85
+121	Hildegard Nicholson	Novice	Sorbonne Tvgirlies	69	68	71	65	68	341	68.20	1.94
+122	Kai Zhang	ESL	CDS e me rolling, they hating	77	—	78	74	75	304	76.00	1.58
+123	Kristian Lindved Jensen	ESL	CDS Taking a 1st in socials	76	74	72	75	—	297	74.25	1.48
+124	Youyou Yu	Novice	Imperial Su	75	73	74	74	—	296	74.00	0.71
+125	Louis Carl Aagaard Schou	Novice	CDS The Debatinators	76	74	67	—	75	292	73.00	3.54
+126	Akash Subramanian	Novice	Imperial Su	73	73	73	71	—	290	72.50	0.87
+127	Petro Semenikhin	ESL	SSE Riga Valga	—	77	72	65	73	287	71.75	4.32
+128	Julius Juhl	Novice	CDS The Debatinators	70	74	69	—	72	285	71.25	1.92
+129	Speaker 1		Swing 1	72	75	75	—	—	222	74.00	1.41
+130	Speaker 2		Swing 1	72	75	74	—	—	221	73.67	1.25
+131	Akoako	Novice, ESL	Sorbonne The economist	69	78	72	—	—	219	73.00	3.74
+132	Raphael Kollegger-Steger	Novice, ESL	Sorbonne The economist	69	76	72	—	—	217	72.33	2.87
+133	Shree Niveditha Jayakumar	Novice, ESL	Sorbonne The pookies	70	70	—	71	—	211	70.33	0.47
+134	Hans Marten	ESL	Tartu Kuulilennuteetunneliluuk	74	64	67	—	—	205	68.33	4.19
+135	Kaur Saarits	ESL	Tartu Kuulilennuteetunneliluuk	72	66	65	—	—	203	67.67	3.09
+136	Mathilde Guaresi	Novice, ESL	Sorbonne The pookies	72	70	—	—	—	142	71.00	1.00
+137=	Speaker 1		Swing 2	—	—	—	—	71	71	71.00	0.00
+137=	Speaker 2		Swing 2	—	—	—	—	71	71	71.00	0.00
+139=	Speaker 1		Swing 3	—	—	—	—	—	—	—	—
+139=	Speaker 2		Swing 3	—	—	—	—	—	—	—	—
+139=	Nicolai Rehn		Swing X	—	—	—	—	—	—	—	—
+
+team	result	side	ballot	adjudicators
+München tja	2nd	Opening Government	View Ballot	Annie SchwartzⒸ , Dora GnadigⓉ
+Tartu Kuulilennuteetunneliluuk	4th	Opening Opposition	View Ballot	Annie SchwartzⒸ , Dora GnadigⓉ
+Tartu A	1st	Closing Government	View Ballot	Annie SchwartzⒸ , Dora GnadigⓉ
+Oxford B	3rd	Closing Opposition	View Ballot	Annie SchwartzⒸ , Dora GnadigⓉ
+Debate partners with drawbacks	3rd	Opening Government	View Ballot	Lucy MurphyⒸ , Max Papaioannides
+Vilnius One and a half Greek men	2nd	Opening Opposition	View Ballot	Lucy MurphyⒸ , Max Papaioannides
+Berlin Osclear and Belaevable	4th	Closing Government	View Ballot	Lucy MurphyⒸ , Max Papaioannides
+Ljubljana Hej Slovani	1st	Closing Opposition	View Ballot	Lucy MurphyⒸ , Max Papaioannides
+München Munich🍺	3rd	Opening Government	View Ballot	Martha Johanne SchouⒸ
+München DC Garching is the real Munich	1st	Opening Opposition	View Ballot	Martha Johanne SchouⒸ
+Swing 1	4th	Closing Government	View Ballot	Martha Johanne SchouⒸ
+Berlin π	2nd	Closing Opposition	View Ballot	Martha Johanne SchouⒸ
+Tallinn unseen university a	3rd	Opening Government	View Ballot	Velina AndonovaⒸ , Aafke MoltzerⓉ , Yauheniya YakubikⓉ
+CDS TBD	2nd	Opening Opposition	View Ballot	Velina AndonovaⒸ , Aafke MoltzerⓉ , Yauheniya YakubikⓉ
+Belgrade BK	1st	Closing Government	View Ballot	Velina AndonovaⒸ , Aafke MoltzerⓉ , Yauheniya YakubikⓉ
+Budapest BanDia	4th	Closing Opposition	View Ballot	Velina AndonovaⒸ , Aafke MoltzerⓉ , Yauheniya YakubikⓉ
+WANTED: Witch Mommy	4th	Opening Government	View Ballot	Jack StanleyⒸ , Felipe PoviñaⓉ , Rasmus SchadeⓉ
+WP Sanssouci Speakers	3rd	Opening Opposition	View Ballot	Jack StanleyⒸ , Felipe PoviñaⓉ , Rasmus SchadeⓉ
+CDS Taking a 1st in socials	2nd	Closing Government	View Ballot	Jack StanleyⒸ , Felipe PoviñaⓉ , Rasmus SchadeⓉ
+CDS Straight Outta Balkans	1st	Closing Opposition	View Ballot	Jack StanleyⒸ , Felipe PoviñaⓉ , Rasmus SchadeⓉ
+Corvinus High taxes &amp; government deficit...	3rd	Opening Government	View Ballot	Alex McCreadieⒸ , Naomi AdamⓉ
+baltic quota fillers	2nd	Opening Opposition	View Ballot	Alex McCreadieⒸ , Naomi AdamⓉ
+CDS The deliberators	4th	Closing Government	View Ballot	Alex McCreadieⒸ , Naomi AdamⓉ
+LSE stands for Library Sex Enjoyers (a	1st	Closing Opposition	View Ballot	Alex McCreadieⒸ , Naomi AdamⓉ
+Cambridge A	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Amelie HeimpoldⓉ
+Aachen DCAC RAY	3rd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Amelie HeimpoldⓉ
+DK Wien Dom &amp; sub situationship	2nd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Amelie HeimpoldⓉ
+Altaylardan Tunaya	4th	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Amelie HeimpoldⓉ
+Leiden Peter Singer enjoyers	2nd	Opening Government	View Ballot	Lara DragojevićⒸ , Veronika HofmannⓉ
+Pärnu Passat Division Σ	1st	Opening Opposition	View Ballot	Lara DragojevićⒸ , Veronika HofmannⓉ
+Sorbonne The pookies	4th	Closing Government	View Ballot	Lara DragojevićⒸ , Veronika HofmannⓉ
+LSE KS	3rd	Closing Opposition	View Ballot	Lara DragojevićⒸ , Veronika HofmannⓉ
+Berlin ö to the ø	2nd	Opening Government	View Ballot	Laura PilmarkⒸ , Toni TeschkeⓉ
+Berlin the newbies	4th	Opening Opposition	View Ballot	Laura PilmarkⒸ , Toni TeschkeⓉ
+INSEAD FT#3	3rd	Closing Government	View Ballot	Laura PilmarkⒸ , Toni TeschkeⓉ
+EUDU Wurdaan in Copenhagen? The west ha	1st	Closing Opposition	View Ballot	Laura PilmarkⒸ , Toni TeschkeⓉ
+Cambridge Copenhagen was a prep comp for Cop	2nd	Opening Government	View Ballot	Ana ComanⒸ , Evangelia NtziokaⓉ
+CDS The Debatinators	3rd	Opening Opposition	View Ballot	Ana ComanⒸ , Evangelia NtziokaⓉ
+Berlin KaiserDAMN!	4th	Closing Government	View Ballot	Ana ComanⒸ , Evangelia NtziokaⓉ
+Separate but equal……… speeches	1st	Closing Opposition	View Ballot	Ana ComanⒸ , Evangelia NtziokaⓉ
+Newydd Aburestvičevci A	2nd	Opening Government	View Ballot	Parth PandyaⒸ , Jonathan Krapp
+SSE Riga Valga	4th	Opening Opposition	View Ballot	Parth PandyaⒸ , Jonathan Krapp
+Chronos We are here for Natalie&#x27;s crush	3rd	Closing Government	View Ballot	Parth PandyaⒸ , Jonathan Krapp
+Daan did leg day for a year just t	1st	Closing Opposition	View Ballot	Parth PandyaⒸ , Jonathan Krapp
+Aachen Fishy fingers	3rd	Opening Government	View Ballot	Thang TranⒸ , Marília Montenegro , Tóth MarcellⓉ
+Tartu Vi farede vild, hvor er Aarhus?	2nd	Opening Opposition	View Ballot	Thang TranⒸ , Marília Montenegro , Tóth MarcellⓉ
+CDS e me rolling, they hating	1st	Closing Government	View Ballot	Thang TranⒸ , Marília Montenegro , Tóth MarcellⓉ
+Sorbonne Tvgirlies	4th	Closing Opposition	View Ballot	Thang TranⒸ , Marília Montenegro , Tóth MarcellⓉ
+SSE Riga Auh auh auuuu	3rd	Opening Government	View Ballot	Heleriin OtsⒸ , Leonie Doerr , Jacob Rønde BerggreenⓉ
+Leiden Coping in the Hagen	1st	Opening Opposition	View Ballot	Heleriin OtsⒸ , Leonie Doerr , Jacob Rønde BerggreenⓉ
+2 Germans 1 Kebab	2nd	Closing Government	View Ballot	Heleriin OtsⒸ , Leonie Doerr , Jacob Rønde BerggreenⓉ
+Imperial Su	4th	Closing Opposition	View Ballot	Heleriin OtsⒸ , Leonie Doerr , Jacob Rønde BerggreenⓉ
+Corvinus ... led to governmental collapse i	3rd	Opening Government	View Ballot	Sharon WangⒸ , Saman A. HussainⓉ
+WSDC Denmark Coach Laura is abusive please help	1st	Opening Opposition	View Ballot	Sharon WangⒸ , Saman A. HussainⓉ
+WSDC Denmark Peter &amp; Haniya	2nd	Closing Government	View Ballot	Sharon WangⒸ , Saman A. HussainⓉ
+ihj nincs nagyon	4th	Closing Opposition	View Ballot	Sharon WangⒸ , Saman A. HussainⓉ
+our lovechild would look like jame	2nd	Opening Government	View Ballot	Stefan JosipovićⒸ , Karlin Tabbara , Daryna IvanitskaⓉ
+WSDC Denmark Aatish &amp; Tanish	4th	Opening Opposition	View Ballot	Stefan JosipovićⒸ , Karlin Tabbara , Daryna IvanitskaⓉ
+München Just here for the Kanelsnegle	1st	Closing Government	View Ballot	Stefan JosipovićⒸ , Karlin Tabbara , Daryna IvanitskaⓉ
+WSDC Denmark Sam &amp; Marcus	3rd	Closing Opposition	View Ballot	Stefan JosipovićⒸ , Karlin Tabbara , Daryna IvanitskaⓉ
+Stockholm I&#x27;m Mid AF FML	2nd	Opening Government	View Ballot	Mikolaj JablonskiⒸ , Leo Marinopoulos , Amalie Bøgh-SørensenⓉ
+One of us can get killed by a cook	1st	Opening Opposition	View Ballot	Mikolaj JablonskiⒸ , Leo Marinopoulos , Amalie Bøgh-SørensenⓉ
+Stockholm C	4th	Closing Government	View Ballot	Mikolaj JablonskiⒸ , Leo Marinopoulos , Amalie Bøgh-SørensenⓉ
+Stockholm Vasa&#x27;s Verbal Broadsides	3rd	Closing Opposition	View Ballot	Mikolaj JablonskiⒸ , Leo Marinopoulos , Amalie Bøgh-SørensenⓉ
+LSE Take De Bait	3rd	Opening Government	View Ballot	Maša PopeskovićⒸ , Andrew Mabon
+Oxford C	2nd	Opening Opposition	View Ballot	Maša PopeskovićⒸ , Andrew Mabon
+Sorbonne The economist	4th	Closing Government	View Ballot	Maša PopeskovićⒸ , Andrew Mabon
+Oxford A	1st	Closing Opposition	View Ballot	Maša PopeskovićⒸ , Andrew Mabon
+
+
+team	result	side	ballot	adjudicators
+WP Sanssouci Speakers	2nd	Opening Government	View Ballot	Heleriin OtsⒸ , Felipe PoviñaⓉ
+INSEAD FT#3	1st	Opening Opposition	View Ballot	Heleriin OtsⒸ , Felipe PoviñaⓉ
+Corvinus ... led to governmental collapse i	4th	Closing Government	View Ballot	Heleriin OtsⒸ , Felipe PoviñaⓉ
+Corvinus High taxes &amp; government deficit...	3rd	Closing Opposition	View Ballot	Heleriin OtsⒸ , Felipe PoviñaⓉ
+Belgrade BK	1st	Opening Government	View Ballot	Ana ComanⒸ , Aafke MoltzerⓉ
+2 Germans 1 Kebab	2nd	Opening Opposition	View Ballot	Ana ComanⒸ , Aafke MoltzerⓉ
+CDS Straight Outta Balkans	4th	Closing Government	View Ballot	Ana ComanⒸ , Aafke MoltzerⓉ
+München tja	3rd	Closing Opposition	View Ballot	Ana ComanⒸ , Aafke MoltzerⓉ
+baltic quota fillers	1st	Opening Government	View Ballot	Martha Johanne SchouⒸ , Marília Montenegro
+Stockholm Vasa&#x27;s Verbal Broadsides	4th	Opening Opposition	View Ballot	Martha Johanne SchouⒸ , Marília Montenegro
+Leiden Peter Singer enjoyers	2nd	Closing Government	View Ballot	Martha Johanne SchouⒸ , Marília Montenegro
+Vilnius One and a half Greek men	3rd	Closing Opposition	View Ballot	Martha Johanne SchouⒸ , Marília Montenegro
+Sorbonne Tvgirlies	2nd	Opening Government	View Ballot	Max PapaioannidesⒸ , Toni TeschkeⓉ
+Stockholm C	3rd	Opening Opposition	View Ballot	Max PapaioannidesⒸ , Toni TeschkeⓉ
+WSDC Denmark Aatish &amp; Tanish	1st	Closing Government	View Ballot	Max PapaioannidesⒸ , Toni TeschkeⓉ
+Berlin Osclear and Belaevable	4th	Closing Opposition	View Ballot	Max PapaioannidesⒸ , Toni TeschkeⓉ
+CDS e me rolling, they hating	4th	Opening Government	View Ballot	Jack StanleyⒸ , Karlin Tabbara , Saman A. HussainⓉ
+Tartu A	2nd	Opening Opposition	View Ballot	Jack StanleyⒸ , Karlin Tabbara , Saman A. HussainⓉ
+WSDC Denmark Coach Laura is abusive please help	3rd	Closing Government	View Ballot	Jack StanleyⒸ , Karlin Tabbara , Saman A. HussainⓉ
+Cambridge A	1st	Closing Opposition	View Ballot	Jack StanleyⒸ , Karlin Tabbara , Saman A. HussainⓉ
+CDS The Debatinators	4th	Opening Government	View Ballot	Mikolaj JablonskiⒸ , Tóth MarcellⓉ
+WSDC Denmark Sam &amp; Marcus	1st	Opening Opposition	View Ballot	Mikolaj JablonskiⒸ , Tóth MarcellⓉ
+München Munich🍺	2nd	Closing Government	View Ballot	Mikolaj JablonskiⒸ , Tóth MarcellⓉ
+LSE Take De Bait	3rd	Closing Opposition	View Ballot	Mikolaj JablonskiⒸ , Tóth MarcellⓉ
+Berlin π	3rd	Opening Government	View Ballot	Lucy MurphyⒸ , Andrew Mabon
+Aachen Fishy fingers	2nd	Opening Opposition	View Ballot	Lucy MurphyⒸ , Andrew Mabon
+Cambridge Copenhagen was a prep comp for Cop	1st	Closing Government	View Ballot	Lucy MurphyⒸ , Andrew Mabon
+Oxford C	4th	Closing Opposition	View Ballot	Lucy MurphyⒸ , Andrew Mabon
+Swing 1	4th	Opening Government	View Ballot	Stefan JosipovićⒸ , Naomi AdamⓉ
+Altaylardan Tunaya	1st	Opening Opposition	View Ballot	Stefan JosipovićⒸ , Naomi AdamⓉ
+SSE Riga Valga	3rd	Closing Government	View Ballot	Stefan JosipovićⒸ , Naomi AdamⓉ
+CDS The deliberators	2nd	Closing Opposition	View Ballot	Stefan JosipovićⒸ , Naomi AdamⓉ
+Berlin KaiserDAMN!	2nd	Opening Government	View Ballot	Leo MarinopoulosⒸ , Amelie HeimpoldⓉ
+Sorbonne The economist	1st	Opening Opposition	View Ballot	Leo MarinopoulosⒸ , Amelie HeimpoldⓉ
+Imperial Su	4th	Closing Government	View Ballot	Leo MarinopoulosⒸ , Amelie HeimpoldⓉ
+WANTED: Witch Mommy	3rd	Closing Opposition	View Ballot	Leo MarinopoulosⒸ , Amelie HeimpoldⓉ
+Oxford A	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Leonie Doerr , Rasmus SchadeⓉ
+Daan did leg day for a year just t	2nd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Leonie Doerr , Rasmus SchadeⓉ
+Leiden Coping in the Hagen	4th	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Leonie Doerr , Rasmus SchadeⓉ
+München DC Garching is the real Munich	3rd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Leonie Doerr , Rasmus SchadeⓉ
+WSDC Denmark Peter &amp; Haniya	2nd	Opening Government	View Ballot	Parth PandyaⒸ , Thang Tran
+CDS Taking a 1st in socials	3rd	Opening Opposition	View Ballot	Parth PandyaⒸ , Thang Tran
+Stockholm I&#x27;m Mid AF FML	4th	Closing Government	View Ballot	Parth PandyaⒸ , Thang Tran
+CDS TBD	1st	Closing Opposition	View Ballot	Parth PandyaⒸ , Thang Tran
+Budapest BanDia	1st	Opening Government	View Ballot	Jonathan KrappⒸ , Jacob Rønde BerggreenⓉ
+ihj nincs nagyon	2nd	Opening Opposition	View Ballot	Jonathan KrappⒸ , Jacob Rønde BerggreenⓉ
+Berlin the newbies	3rd	Closing Government	View Ballot	Jonathan KrappⒸ , Jacob Rønde BerggreenⓉ
+Tartu Kuulilennuteetunneliluuk	4th	Closing Opposition	View Ballot	Jonathan KrappⒸ , Jacob Rønde BerggreenⓉ
+Aachen DCAC RAY	3rd	Opening Government	View Ballot	Sharon WangⒸ , Veronika HofmannⓉ
+Debate partners with drawbacks	2nd	Opening Opposition	View Ballot	Sharon WangⒸ , Veronika HofmannⓉ
+LSE KS	1st	Closing Government	View Ballot	Sharon WangⒸ , Veronika HofmannⓉ
+SSE Riga Auh auh auuuu	4th	Closing Opposition	View Ballot	Sharon WangⒸ , Veronika HofmannⓉ
+Tartu Vi farede vild, hvor er Aarhus?	3rd	Opening Government	View Ballot	Alex McCreadieⒸ , Amalie Bøgh-SørensenⓉ , Yauheniya YakubikⓉ
+EUDU Wurdaan in Copenhagen? The west ha	1st	Opening Opposition	View Ballot	Alex McCreadieⒸ , Amalie Bøgh-SørensenⓉ , Yauheniya YakubikⓉ
+One of us can get killed by a cook	2nd	Closing Government	View Ballot	Alex McCreadieⒸ , Amalie Bøgh-SørensenⓉ , Yauheniya YakubikⓉ
+München Just here for the Kanelsnegle	4th	Closing Opposition	View Ballot	Alex McCreadieⒸ , Amalie Bøgh-SørensenⓉ , Yauheniya YakubikⓉ
+DK Wien Dom &amp; sub situationship	3rd	Opening Government	View Ballot	Velina AndonovaⒸ , Dora GnadigⓉ
+our lovechild would look like jame	2nd	Opening Opposition	View Ballot	Velina AndonovaⒸ , Dora GnadigⓉ
+Berlin ö to the ø	4th	Closing Government	View Ballot	Velina AndonovaⒸ , Dora GnadigⓉ
+Newydd Aburestvičevci A	1st	Closing Opposition	View Ballot	Velina AndonovaⒸ , Dora GnadigⓉ
+Separate but equal……… speeches	2nd	Opening Government	View Ballot	Lara DragojevićⒸ , Annie Schwartz , Daryna IvanitskaⓉ
+LSE stands for Library Sex Enjoyers (a	1st	Opening Opposition	View Ballot	Lara DragojevićⒸ , Annie Schwartz , Daryna IvanitskaⓉ
+Ljubljana Hej Slovani	3rd	Closing Government	View Ballot	Lara DragojevićⒸ , Annie Schwartz , Daryna IvanitskaⓉ
+Pärnu Passat Division Σ	4th	Closing Opposition	View Ballot	Lara DragojevićⒸ , Annie Schwartz , Daryna IvanitskaⓉ
+Sorbonne The pookies	4th	Opening Government	View Ballot	Maša PopeskovićⒸ , Evangelia NtziokaⓉ
+Chronos We are here for Natalie&#x27;s crush	3rd	Opening Opposition	View Ballot	Maša PopeskovićⒸ , Evangelia NtziokaⓉ
+Oxford B	1st	Closing Government	View Ballot	Maša PopeskovićⒸ , Evangelia NtziokaⓉ
+Tallinn unseen university a	2nd	Closing Opposition	View Ballot	Maša PopeskovićⒸ , Evangelia NtziokaⓉ
+
+team	result	side	ballot	adjudicators
+Daan did leg day for a year just t	3rd	Opening Government	View Ballot	Lucy MurphyⒸ , Marília Montenegro
+Cambridge A	2nd	Opening Opposition	View Ballot	Lucy MurphyⒸ , Marília Montenegro
+Oxford A	1st	Closing Government	View Ballot	Lucy MurphyⒸ , Marília Montenegro
+One of us can get killed by a cook	4th	Closing Opposition	View Ballot	Lucy MurphyⒸ , Marília Montenegro
+SSE Riga Valga	3rd	Opening Government	View Ballot	Andrew MabonⒸ , Tóth MarcellⓉ
+SSE Riga Auh auh auuuu	1st	Opening Opposition	View Ballot	Andrew MabonⒸ , Tóth MarcellⓉ
+CDS The Debatinators	4th	Closing Government	View Ballot	Andrew MabonⒸ , Tóth MarcellⓉ
+Berlin the newbies	2nd	Closing Opposition	View Ballot	Andrew MabonⒸ , Tóth MarcellⓉ
+Tartu A	3rd	Opening Government	View Ballot	Mikolaj JablonskiⒸ , Parth Pandya , Yauheniya YakubikⓉ
+Newydd Aburestvičevci A	1st	Opening Opposition	View Ballot	Mikolaj JablonskiⒸ , Parth Pandya , Yauheniya YakubikⓉ
+Separate but equal……… speeches	2nd	Closing Government	View Ballot	Mikolaj JablonskiⒸ , Parth Pandya , Yauheniya YakubikⓉ
+Cambridge Copenhagen was a prep comp for Cop	4th	Closing Opposition	View Ballot	Mikolaj JablonskiⒸ , Parth Pandya , Yauheniya YakubikⓉ
+Stockholm C	2nd	Opening Government	View Ballot	Leo MarinopoulosⒸ , Jacob Rønde BerggreenⓉ
+Sorbonne The pookies	1st	Opening Opposition	View Ballot	Leo MarinopoulosⒸ , Jacob Rønde BerggreenⓉ
+WANTED: Witch Mommy	4th	Closing Government	View Ballot	Leo MarinopoulosⒸ , Jacob Rønde BerggreenⓉ
+Corvinus ... led to governmental collapse i	3rd	Closing Opposition	View Ballot	Leo MarinopoulosⒸ , Jacob Rønde BerggreenⓉ
+INSEAD FT#3	3rd	Opening Government	View Ballot	Alex McCreadieⒸ , Karlin Tabbara
+WSDC Denmark Peter &amp; Haniya	2nd	Opening Opposition	View Ballot	Alex McCreadieⒸ , Karlin Tabbara
+München DC Garching is the real Munich	4th	Closing Government	View Ballot	Alex McCreadieⒸ , Karlin Tabbara
+WSDC Denmark Coach Laura is abusive please help	1st	Closing Opposition	View Ballot	Alex McCreadieⒸ , Karlin Tabbara
+Oxford B	1st	Opening Government	View Ballot	Heleriin OtsⒸ , Annie Schwartz
+LSE KS	3rd	Opening Opposition	View Ballot	Heleriin OtsⒸ , Annie Schwartz
+WSDC Denmark Sam &amp; Marcus	4th	Closing Government	View Ballot	Heleriin OtsⒸ , Annie Schwartz
+Leiden Peter Singer enjoyers	2nd	Closing Opposition	View Ballot	Heleriin OtsⒸ , Annie Schwartz
+2 Germans 1 Kebab	4th	Opening Government	View Ballot	Velina AndonovaⒸ , Leonie Doerr , Daryna IvanitskaⓉ
+Ljubljana Hej Slovani	1st	Opening Opposition	View Ballot	Velina AndonovaⒸ , Leonie Doerr , Daryna IvanitskaⓉ
+CDS TBD	3rd	Closing Government	View Ballot	Velina AndonovaⒸ , Leonie Doerr , Daryna IvanitskaⓉ
+our lovechild would look like jame	2nd	Closing Opposition	View Ballot	Velina AndonovaⒸ , Leonie Doerr , Daryna IvanitskaⓉ
+Vilnius One and a half Greek men	4th	Opening Government	View Ballot	Stefan JosipovićⒸ , Rasmus SchadeⓉ
+München Munich🍺	1st	Opening Opposition	View Ballot	Stefan JosipovićⒸ , Rasmus SchadeⓉ
+Pärnu Passat Division Σ	3rd	Closing Government	View Ballot	Stefan JosipovićⒸ , Rasmus SchadeⓉ
+Aachen Fishy fingers	2nd	Closing Opposition	View Ballot	Stefan JosipovićⒸ , Rasmus SchadeⓉ
+München Just here for the Kanelsnegle	2nd	Opening Government	View Ballot	Ana ComanⒸ , Aafke Moltzer
+Berlin π	1st	Opening Opposition	View Ballot	Ana ComanⒸ , Aafke Moltzer
+Debate partners with drawbacks	3rd	Closing Government	View Ballot	Ana ComanⒸ , Aafke Moltzer
+CDS Taking a 1st in socials	4th	Closing Opposition	View Ballot	Ana ComanⒸ , Aafke Moltzer
+WSDC Denmark Aatish &amp; Tanish	4th	Opening Government	View Ballot	Jack StanleyⒸ , Toni TeschkeⓉ
+CDS e me rolling, they hating	2nd	Opening Opposition	View Ballot	Jack StanleyⒸ , Toni TeschkeⓉ
+Budapest BanDia	1st	Closing Government	View Ballot	Jack StanleyⒸ , Toni TeschkeⓉ
+Tartu Vi farede vild, hvor er Aarhus?	3rd	Closing Opposition	View Ballot	Jack StanleyⒸ , Toni TeschkeⓉ
+CDS Straight Outta Balkans	3rd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Dora GnadigⓉ
+München tja	1st	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Dora GnadigⓉ
+Altaylardan Tunaya	4th	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Dora GnadigⓉ
+DK Wien Dom &amp; sub situationship	2nd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Dora GnadigⓉ
+ihj nincs nagyon	3rd	Opening Government	View Ballot	Jonathan KrappⒸ , Saman A. HussainⓉ
+Berlin KaiserDAMN!	2nd	Opening Opposition	View Ballot	Jonathan KrappⒸ , Saman A. HussainⓉ
+Oxford C	1st	Closing Government	View Ballot	Jonathan KrappⒸ , Saman A. HussainⓉ
+Berlin ö to the ø	4th	Closing Opposition	View Ballot	Jonathan KrappⒸ , Saman A. HussainⓉ
+CDS The deliberators	2nd	Opening Government	View Ballot	Max PapaioannidesⒸ , Felipe PoviñaⓉ
+Corvinus High taxes &amp; government deficit...	3rd	Opening Opposition	View Ballot	Max PapaioannidesⒸ , Felipe PoviñaⓉ
+LSE Take De Bait	4th	Closing Government	View Ballot	Max PapaioannidesⒸ , Felipe PoviñaⓉ
+Chronos We are here for Natalie&#x27;s crush	1st	Closing Opposition	View Ballot	Max PapaioannidesⒸ , Felipe PoviñaⓉ
+Sorbonne The economist	4th	Opening Government	View Ballot	Lara DragojevićⒸ , Amalie Bøgh-Sørensen
+Tallinn unseen university a	1st	Opening Opposition	View Ballot	Lara DragojevićⒸ , Amalie Bøgh-Sørensen
+WP Sanssouci Speakers	3rd	Closing Government	View Ballot	Lara DragojevićⒸ , Amalie Bøgh-Sørensen
+Leiden Coping in the Hagen	2nd	Closing Opposition	View Ballot	Lara DragojevićⒸ , Amalie Bøgh-Sørensen
+Imperial Su	2nd	Opening Government	View Ballot	Thang TranⒸ , Veronika HofmannⓉ
+Berlin Osclear and Belaevable	3rd	Opening Opposition	View Ballot	Thang TranⒸ , Veronika HofmannⓉ
+Tartu Kuulilennuteetunneliluuk	4th	Closing Government	View Ballot	Thang TranⒸ , Veronika HofmannⓉ
+Swing 1	1st	Closing Opposition	View Ballot	Thang TranⒸ , Veronika HofmannⓉ
+Stockholm Vasa&#x27;s Verbal Broadsides	2nd	Opening Government	View Ballot	Sharon WangⒸ , Evangelia NtziokaⓉ , Naomi AdamⓉ
+Sorbonne Tvgirlies	4th	Opening Opposition	View Ballot	Sharon WangⒸ , Evangelia NtziokaⓉ , Naomi AdamⓉ
+Aachen DCAC RAY	1st	Closing Government	View Ballot	Sharon WangⒸ , Evangelia NtziokaⓉ , Naomi AdamⓉ
+Stockholm I&#x27;m Mid AF FML	3rd	Closing Opposition	View Ballot	Sharon WangⒸ , Evangelia NtziokaⓉ , Naomi AdamⓉ
+EUDU Wurdaan in Copenhagen? The west ha	2nd	Opening Government	View Ballot	Maša PopeskovićⒸ , Martha Johanne Schou , Amelie HeimpoldⓉ
+Belgrade BK	3rd	Opening Opposition	View Ballot	Maša PopeskovićⒸ , Martha Johanne Schou , Amelie HeimpoldⓉ
+LSE stands for Library Sex Enjoyers (a	1st	Closing Government	View Ballot	Maša PopeskovićⒸ , Martha Johanne Schou , Amelie HeimpoldⓉ
+baltic quota fillers	4th	Closing Opposition	View Ballot	Maša PopeskovićⒸ , Martha Johanne Schou , Amelie HeimpoldⓉ
+
+
+team	result	side	ballot	adjudicators
+Altaylardan Tunaya	2nd	Opening Government	View Ballot	Marília MontenegroⒸ
+Stockholm I&#x27;m Mid AF FML	3rd	Opening Opposition	View Ballot	Marília MontenegroⒸ
+Corvinus High taxes &amp; government deficit...	4th	Closing Government	View Ballot	Marília MontenegroⒸ
+WSDC Denmark Aatish &amp; Tanish	1st	Closing Opposition	View Ballot	Marília MontenegroⒸ
+Berlin Osclear and Belaevable	3rd	Opening Government	View Ballot	Thang TranⒸ , Evangelia NtziokaⓉ
+Corvinus ... led to governmental collapse i	4th	Opening Opposition	View Ballot	Thang TranⒸ , Evangelia NtziokaⓉ
+WANTED: Witch Mommy	2nd	Closing Government	View Ballot	Thang TranⒸ , Evangelia NtziokaⓉ
+LSE Take De Bait	1st	Closing Opposition	View Ballot	Thang TranⒸ , Evangelia NtziokaⓉ
+Pärnu Passat Division Σ	1st	Opening Government	View Ballot	Max PapaioannidesⒸ , Amelie Heimpold
+CDS The deliberators	2nd	Opening Opposition	View Ballot	Max PapaioannidesⒸ , Amelie Heimpold
+SSE Riga Auh auh auuuu	3rd	Closing Government	View Ballot	Max PapaioannidesⒸ , Amelie Heimpold
+Berlin KaiserDAMN!	4th	Closing Opposition	View Ballot	Max PapaioannidesⒸ , Amelie Heimpold
+WSDC Denmark Sam &amp; Marcus	1st	Opening Government	View Ballot	Mikolaj JablonskiⒸ , Saman A. HussainⓉ
+München DC Garching is the real Munich	2nd	Opening Opposition	View Ballot	Mikolaj JablonskiⒸ , Saman A. HussainⓉ
+Vilnius One and a half Greek men	4th	Closing Government	View Ballot	Mikolaj JablonskiⒸ , Saman A. HussainⓉ
+2 Germans 1 Kebab	3rd	Closing Opposition	View Ballot	Mikolaj JablonskiⒸ , Saman A. HussainⓉ
+CDS TBD	4th	Opening Government	View Ballot	Ana ComanⒸ , Leonie Doerr
+Leiden Peter Singer enjoyers	3rd	Opening Opposition	View Ballot	Ana ComanⒸ , Leonie Doerr
+Tallinn unseen university a	1st	Closing Government	View Ballot	Ana ComanⒸ , Leonie Doerr
+Tartu A	2nd	Closing Opposition	View Ballot	Ana ComanⒸ , Leonie Doerr
+Berlin ö to the ø	2nd	Opening Government	View Ballot	Andrew MabonⒸ , Yauheniya YakubikⓉ
+Imperial Su	1st	Opening Opposition	View Ballot	Andrew MabonⒸ , Yauheniya YakubikⓉ
+Sorbonne Tvgirlies	3rd	Closing Government	View Ballot	Andrew MabonⒸ , Yauheniya YakubikⓉ
+SSE Riga Valga	4th	Closing Opposition	View Ballot	Andrew MabonⒸ , Yauheniya YakubikⓉ
+Ljubljana Hej Slovani	1st	Opening Government	View Ballot	Parth PandyaⒸ , Sharon Wang , Toni TeschkeⓉ
+Separate but equal……… speeches	2nd	Opening Opposition	View Ballot	Parth PandyaⒸ , Sharon Wang , Toni TeschkeⓉ
+Newydd Aburestvičevci A	3rd	Closing Government	View Ballot	Parth PandyaⒸ , Sharon Wang , Toni TeschkeⓉ
+Belgrade BK	4th	Closing Opposition	View Ballot	Parth PandyaⒸ , Sharon Wang , Toni TeschkeⓉ
+WSDC Denmark Coach Laura is abusive please help	1st	Opening Government	View Ballot	Velina AndonovaⒸ , Lucy Murphy , Daryna IvanitskaⓉ
+Oxford B	2nd	Opening Opposition	View Ballot	Velina AndonovaⒸ , Lucy Murphy , Daryna IvanitskaⓉ
+our lovechild would look like jame	4th	Closing Government	View Ballot	Velina AndonovaⒸ , Lucy Murphy , Daryna IvanitskaⓉ
+München Munich🍺	3rd	Closing Opposition	View Ballot	Velina AndonovaⒸ , Lucy Murphy , Daryna IvanitskaⓉ
+LSE KS	1st	Opening Government	View Ballot	Martha Johanne SchouⒸ , Tóth Marcell
+München Just here for the Kanelsnegle	2nd	Opening Opposition	View Ballot	Martha Johanne SchouⒸ , Tóth Marcell
+Tartu Vi farede vild, hvor er Aarhus?	3rd	Closing Government	View Ballot	Martha Johanne SchouⒸ , Tóth Marcell
+Aachen DCAC RAY	4th	Closing Opposition	View Ballot	Martha Johanne SchouⒸ , Tóth Marcell
+One of us can get killed by a cook	4th	Opening Government	View Ballot	Jack StanleyⒸ , Aafke Moltzer , Amalie Bøgh-Sørensen
+München tja	1st	Opening Opposition	View Ballot	Jack StanleyⒸ , Aafke Moltzer , Amalie Bøgh-Sørensen
+Daan did leg day for a year just t	2nd	Closing Government	View Ballot	Jack StanleyⒸ , Aafke Moltzer , Amalie Bøgh-Sørensen
+INSEAD FT#3	3rd	Closing Opposition	View Ballot	Jack StanleyⒸ , Aafke Moltzer , Amalie Bøgh-Sørensen
+Berlin the newbies	2nd	Opening Government	View Ballot	Jonathan KrappⒸ , Veronika HofmannⓉ
+Sorbonne The pookies	4th	Opening Opposition	View Ballot	Jonathan KrappⒸ , Veronika HofmannⓉ
+Stockholm Vasa&#x27;s Verbal Broadsides	1st	Closing Government	View Ballot	Jonathan KrappⒸ , Veronika HofmannⓉ
+Stockholm C	3rd	Closing Opposition	View Ballot	Jonathan KrappⒸ , Veronika HofmannⓉ
+Chronos We are here for Natalie&#x27;s crush	1st	Opening Government	View Ballot	Alex McCreadieⒸ , Leo Marinopoulos , Naomi AdamⓉ
+DK Wien Dom &amp; sub situationship	3rd	Opening Opposition	View Ballot	Alex McCreadieⒸ , Leo Marinopoulos , Naomi AdamⓉ
+baltic quota fillers	2nd	Closing Government	View Ballot	Alex McCreadieⒸ , Leo Marinopoulos , Naomi AdamⓉ
+CDS e me rolling, they hating	4th	Closing Opposition	View Ballot	Alex McCreadieⒸ , Leo Marinopoulos , Naomi AdamⓉ
+LSE stands for Library Sex Enjoyers (a	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Karlin Tabbara
+Oxford A	2nd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Karlin Tabbara
+Cambridge A	3rd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Karlin Tabbara
+EUDU Wurdaan in Copenhagen? The west ha	4th	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Karlin Tabbara
+Oxford C	2nd	Opening Government	View Ballot	Stefan JosipovićⒸ , Annie Schwartz , Jacob Rønde Berggreen
+Budapest BanDia	3rd	Opening Opposition	View Ballot	Stefan JosipovićⒸ , Annie Schwartz , Jacob Rønde Berggreen
+Berlin π	4th	Closing Government	View Ballot	Stefan JosipovićⒸ , Annie Schwartz , Jacob Rønde Berggreen
+WSDC Denmark Peter &amp; Haniya	1st	Closing Opposition	View Ballot	Stefan JosipovićⒸ , Annie Schwartz , Jacob Rønde Berggreen
+Leiden Coping in the Hagen	3rd	Opening Government	View Ballot	Maša PopeskovićⒸ , Dora Gnadig
+Cambridge Copenhagen was a prep comp for Cop	1st	Opening Opposition	View Ballot	Maša PopeskovićⒸ , Dora Gnadig
+Aachen Fishy fingers	2nd	Closing Government	View Ballot	Maša PopeskovićⒸ , Dora Gnadig
+WP Sanssouci Speakers	4th	Closing Opposition	View Ballot	Maša PopeskovićⒸ , Dora Gnadig
+CDS Taking a 1st in socials	2nd	Opening Government	View Ballot	Heleriin OtsⒸ , Felipe PoviñaⓉ
+CDS Straight Outta Balkans	3rd	Opening Opposition	View Ballot	Heleriin OtsⒸ , Felipe PoviñaⓉ
+ihj nincs nagyon	4th	Closing Government	View Ballot	Heleriin OtsⒸ , Felipe PoviñaⓉ
+Debate partners with drawbacks	1st	Closing Opposition	View Ballot	Heleriin OtsⒸ , Felipe PoviñaⓉ
+
+team	result	side	ballot	adjudicators
+LSE stands for Library Sex Enjoyers (a	3rd	Opening Government	View Ballot	Maša PopeskovićⒸ , Annie Schwartz , Karlin Tabbara
+Ljubljana Hej Slovani	2nd	Opening Opposition	View Ballot	Maša PopeskovićⒸ , Annie Schwartz , Karlin Tabbara
+Oxford A	1st	Closing Government	View Ballot	Maša PopeskovićⒸ , Annie Schwartz , Karlin Tabbara
+WSDC Denmark Coach Laura is abusive please help	4th	Closing Opposition	View Ballot	Maša PopeskovićⒸ , Annie Schwartz , Karlin Tabbara
+Chronos We are here for Natalie&#x27;s crush	3rd	Opening Government	View Ballot	Sharon WangⒸ , Lucy Murphy , Rasmus Schade
+Cambridge Copenhagen was a prep comp for Cop	1st	Opening Opposition	View Ballot	Sharon WangⒸ , Lucy Murphy , Rasmus Schade
+Leiden Peter Singer enjoyers	2nd	Closing Government	View Ballot	Sharon WangⒸ , Lucy Murphy , Rasmus Schade
+München Just here for the Kanelsnegle	4th	Closing Opposition	View Ballot	Sharon WangⒸ , Lucy Murphy , Rasmus Schade
+DK Wien Dom &amp; sub situationship	3rd	Opening Government	View Ballot	Heleriin OtsⒸ , Thang Tran , Saman A. HussainⓉ
+Stockholm Vasa&#x27;s Verbal Broadsides	1st	Opening Opposition	View Ballot	Heleriin OtsⒸ , Thang Tran , Saman A. HussainⓉ
+Leiden Coping in the Hagen	2nd	Closing Government	View Ballot	Heleriin OtsⒸ , Thang Tran , Saman A. HussainⓉ
+CDS TBD	4th	Closing Opposition	View Ballot	Heleriin OtsⒸ , Thang Tran , Saman A. HussainⓉ
+Stockholm C	1st	Opening Government	View Ballot	Leonie DoerrⒸ , Jacob Rønde Berggreen
+Sorbonne Tvgirlies	4th	Opening Opposition	View Ballot	Leonie DoerrⒸ , Jacob Rønde Berggreen
+Corvinus High taxes &amp; government deficit...	2nd	Closing Government	View Ballot	Leonie DoerrⒸ , Jacob Rønde Berggreen
+WP Sanssouci Speakers	3rd	Closing Opposition	View Ballot	Leonie DoerrⒸ , Jacob Rønde Berggreen
+Pärnu Passat Division Σ	3rd	Opening Government	View Ballot	Velina AndonovaⒸ , Amalie Bøgh-Sørensen , Daryna IvanitskaⓉ
+München Munich🍺	2nd	Opening Opposition	View Ballot	Velina AndonovaⒸ , Amalie Bøgh-Sørensen , Daryna IvanitskaⓉ
+Belgrade BK	1st	Closing Government	View Ballot	Velina AndonovaⒸ , Amalie Bøgh-Sørensen , Daryna IvanitskaⓉ
+Aachen Fishy fingers	4th	Closing Opposition	View Ballot	Velina AndonovaⒸ , Amalie Bøgh-Sørensen , Daryna IvanitskaⓉ
+Altaylardan Tunaya	1st	Opening Government	View Ballot	Laura PilmarkⒸ
+LSE Take De Bait	4th	Opening Opposition	View Ballot	Laura PilmarkⒸ
+2 Germans 1 Kebab	2nd	Closing Government	View Ballot	Laura PilmarkⒸ
+Tartu Vi farede vild, hvor er Aarhus?	3rd	Closing Opposition	View Ballot	Laura PilmarkⒸ
+München DC Garching is the real Munich	2nd	Opening Government	View Ballot	Lara DragojevićⒸ , Mikolaj Jablonski
+CDS The deliberators	4th	Opening Opposition	View Ballot	Lara DragojevićⒸ , Mikolaj Jablonski
+our lovechild would look like jame	1st	Closing Government	View Ballot	Lara DragojevićⒸ , Mikolaj Jablonski
+Berlin π	3rd	Closing Opposition	View Ballot	Lara DragojevićⒸ , Mikolaj Jablonski
+SSE Riga Valga	2nd	Opening Government	View Ballot	Amelie HeimpoldⒸ
+Swing 2	4th	Opening Opposition	View Ballot	Amelie HeimpoldⒸ
+Corvinus ... led to governmental collapse i	3rd	Closing Government	View Ballot	Amelie HeimpoldⒸ
+CDS The Debatinators	1st	Closing Opposition	View Ballot	Amelie HeimpoldⒸ
+WSDC Denmark Aatish &amp; Tanish	3rd	Opening Government	View Ballot	Max PapaioannidesⒸ , Naomi Adam
+Aachen DCAC RAY	4th	Opening Opposition	View Ballot	Max PapaioannidesⒸ , Naomi Adam
+CDS e me rolling, they hating	2nd	Closing Government	View Ballot	Max PapaioannidesⒸ , Naomi Adam
+INSEAD FT#3	1st	Closing Opposition	View Ballot	Max PapaioannidesⒸ , Naomi Adam
+Debate partners with drawbacks	2nd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Leo Marinopoulos
+WSDC Denmark Sam &amp; Marcus	3rd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Leo Marinopoulos
+baltic quota fillers	1st	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Leo Marinopoulos
+Budapest BanDia	4th	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Leo Marinopoulos
+Cambridge A	1st	Opening Government	View Ballot	Stefan JosipovićⒸ , Jack Stanley
+Tallinn unseen university a	3rd	Opening Opposition	View Ballot	Stefan JosipovićⒸ , Jack Stanley
+WSDC Denmark Peter &amp; Haniya	4th	Closing Government	View Ballot	Stefan JosipovićⒸ , Jack Stanley
+Tartu A	2nd	Closing Opposition	View Ballot	Stefan JosipovićⒸ , Jack Stanley
+Stockholm I&#x27;m Mid AF FML	1st	Opening Government	View Ballot	Marília MontenegroⒸ , Tóth Marcell , Evangelia NtziokaⓉ
+Berlin ö to the ø	2nd	Opening Opposition	View Ballot	Marília MontenegroⒸ , Tóth Marcell , Evangelia NtziokaⓉ
+Berlin the newbies	4th	Closing Government	View Ballot	Marília MontenegroⒸ , Tóth Marcell , Evangelia NtziokaⓉ
+CDS Taking a 1st in socials	3rd	Closing Opposition	View Ballot	Marília MontenegroⒸ , Tóth Marcell , Evangelia NtziokaⓉ
+Berlin Osclear and Belaevable	3rd	Opening Government	View Ballot	Jonathan KrappⒸ , Dora Gnadig , Toni TeschkeⓉ
+WANTED: Witch Mommy	4th	Opening Opposition	View Ballot	Jonathan KrappⒸ , Dora Gnadig , Toni TeschkeⓉ
+ihj nincs nagyon	1st	Closing Government	View Ballot	Jonathan KrappⒸ , Dora Gnadig , Toni TeschkeⓉ
+Vilnius One and a half Greek men	2nd	Closing Opposition	View Ballot	Jonathan KrappⒸ , Dora Gnadig , Toni TeschkeⓉ
+Oxford C	3rd	Opening Government	View Ballot	Alex McCreadieⒸ , Martha Johanne Schou
+Daan did leg day for a year just t	2nd	Opening Opposition	View Ballot	Alex McCreadieⒸ , Martha Johanne Schou
+EUDU Wurdaan in Copenhagen? The west ha	1st	Closing Government	View Ballot	Alex McCreadieⒸ , Martha Johanne Schou
+LSE KS	4th	Closing Opposition	View Ballot	Alex McCreadieⒸ , Martha Johanne Schou
+Separate but equal……… speeches	2nd	Opening Government	View Ballot	Ana ComanⒸ , Aafke Moltzer , Parth Pandya
+Newydd Aburestvičevci A	3rd	Opening Opposition	View Ballot	Ana ComanⒸ , Aafke Moltzer , Parth Pandya
+München tja	4th	Closing Government	View Ballot	Ana ComanⒸ , Aafke Moltzer , Parth Pandya
+Oxford B	1st	Closing Opposition	View Ballot	Ana ComanⒸ , Aafke Moltzer , Parth Pandya
+CDS Straight Outta Balkans	3rd	Opening Government	View Ballot	Andrew MabonⒸ , Yauheniya Yakubik , Felipe PoviñaⓉ
+One of us can get killed by a cook	1st	Opening Opposition	View Ballot	Andrew MabonⒸ , Yauheniya Yakubik , Felipe PoviñaⓉ
+Berlin KaiserDAMN!	4th	Closing Government	View Ballot	Andrew MabonⒸ , Yauheniya Yakubik , Felipe PoviñaⓉ
+SSE Riga Auh auh auuuu	2nd	Closing Opposition	View Ballot	Andrew MabonⒸ , Yauheniya Yakubik , Felipe PoviñaⓉ
+
+team	result	side	adjudicators
+Cambridge Copenhagen was a prep comp for Cop	eliminated	Opening Government	Stefan JosipovićⒸ , Aafke Moltzer , Jack Stanley
+Newydd Aburestvičevci A	advancing	Opening Opposition	Stefan JosipovićⒸ , Aafke Moltzer , Jack Stanley
+our lovechild would look like jame	eliminated	Closing Government	Stefan JosipovićⒸ , Aafke Moltzer , Jack Stanley
+Oxford A	advancing	Closing Opposition	Stefan JosipovićⒸ , Aafke Moltzer , Jack Stanley
+WSDC Denmark Coach Laura is abusive please help	advancing	Opening Government	Lara DragojevićⒸ , Max Papaioannides , Parth Pandya
+Separate but equal……… speeches	eliminated	Opening Opposition	Lara DragojevićⒸ , Max Papaioannides , Parth Pandya
+LSE stands for Library Sex Enjoyers (a	advancing	Closing Government	Lara DragojevićⒸ , Max Papaioannides , Parth Pandya
+Daan did leg day for a year just t	eliminated	Closing Opposition	Lara DragojevićⒸ , Max Papaioannides , Parth Pandya
+Cambridge A	advancing	Opening Government	Velina AndonovaⒸ , Leo Marinopoulos , Marília Montenegro
+Belgrade BK	advancing	Opening Opposition	Velina AndonovaⒸ , Leo Marinopoulos , Marília Montenegro
+EUDU Wurdaan in Copenhagen? The west ha	eliminated	Closing Government	Velina AndonovaⒸ , Leo Marinopoulos , Marília Montenegro
+Tartu A	eliminated	Closing Opposition	Velina AndonovaⒸ , Leo Marinopoulos , Marília Montenegro
+Tallinn unseen university a	advancing	Opening Government	Maša PopeskovićⒸ , Ana Coman , Jonathan Krapp
+Ljubljana Hej Slovani	advancing	Opening Opposition	Maša PopeskovićⒸ , Ana Coman , Jonathan Krapp
+baltic quota fillers	eliminated	Closing Government	Maša PopeskovićⒸ , Ana Coman , Jonathan Krapp
+Oxford B	eliminated	Closing Opposition	Maša PopeskovićⒸ , Ana Coman , Jonathan Krapp
+
+team	result	side	adjudicators
+Oxford A	advancing	Opening Government	Ana ComanⒸ , Andrew Mabon , Annie Schwartz , Martha McKinney-Perry , Mikolaj Jablonski
+Ljubljana Hej Slovani	advancing	Opening Opposition	Ana ComanⒸ , Andrew Mabon , Annie Schwartz , Martha McKinney-Perry , Mikolaj Jablonski
+Tallinn unseen university a	eliminated	Closing Government	Ana ComanⒸ , Andrew Mabon , Annie Schwartz , Martha McKinney-Perry , Mikolaj Jablonski
+Newydd Aburestvičevci A	eliminated	Closing Opposition	Ana ComanⒸ , Andrew Mabon , Annie Schwartz , Martha McKinney-Perry , Mikolaj Jablonski
+WSDC Denmark Coach Laura is abusive please help	eliminated	Opening Government	Jack StanleyⒸ , Lara Dragojević , Leo Marinopoulos , Lucy Murphy , Sharon Wang
+LSE stands for Library Sex Enjoyers (a	advancing	Opening Opposition	Jack StanleyⒸ , Lara Dragojević , Leo Marinopoulos , Lucy Murphy , Sharon Wang
+Cambridge A	advancing	Closing Government	Jack StanleyⒸ , Lara Dragojević , Leo Marinopoulos , Lucy Murphy , Sharon Wang
+Belgrade BK	eliminated	Closing Opposition	Jack StanleyⒸ , Lara Dragojević , Leo Marinopoulos , Lucy Murphy , Sharon Wang
+
+
+team	result	side	adjudicators
+LSE stands for Library Sex Enjoyers (a	eliminated	Opening Government	Martha McKinney-PerryⒸ , Lara Dragojević , Maša Popesković , Parth Pandya , Stefan Josipović
+Oxford A	eliminated	Opening Opposition	Martha McKinney-PerryⒸ , Lara Dragojević , Maša Popesković , Parth Pandya , Stefan Josipović
+Cambridge A	advancing	Closing Government	Martha McKinney-PerryⒸ , Lara Dragojević , Maša Popesković , Parth Pandya , Stefan Josipović
+Ljubljana Hej Slovani	eliminated	Closing Opposition	Martha McKinney-PerryⒸ , Lara Dragojević , Maša Popesković , Parth Pandya , Stefan Josipović
+
+team	result	side	adjudicators
+München tja	advancing	Opening Government	Alex McCreadieⒸ , Amalie Bøgh-Sørensen , Heleriin Ots , Thang Tran , Velina Andonova
+WSDC Denmark Peter &amp; Haniya	eliminated	Opening Opposition	Alex McCreadieⒸ , Amalie Bøgh-Sørensen , Heleriin Ots , Thang Tran , Velina Andonova
+INSEAD FT#3	eliminated	Closing Government	Alex McCreadieⒸ , Amalie Bøgh-Sørensen , Heleriin Ots , Thang Tran , Velina Andonova
+Leiden Peter Singer enjoyers	eliminated	Closing Opposition	Alex McCreadieⒸ , Amalie Bøgh-Sørensen , Heleriin Ots , Thang Tran , Velina Andonova
+
+
