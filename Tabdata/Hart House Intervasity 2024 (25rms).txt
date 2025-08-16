@@ -1,0 +1,881 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Chrono-Synclastic Infundibulum		1st	2nd	1st	1st	2nd	13	805	3	2
+2	we were going to get married		1st	1st	3rd	1st	1st	13	804	4	0
+3	Croc and Ball Torture		1st	2nd	2nd	1st	1st	13	796	3	2
+4	Clash Royale		1st	2nd	1st	3rd	1st	12	813	3	1
+5	Washedasaurus Rex		1st	1st	1st	4th	1st	12	805	4	0
+6	Debate, I Need Out! (DINO)		1st	1st	2nd	1st	3rd	12	805	3	1
+7	Stanford LS		1st	3rd	1st	1st	3rd	11	815	3	0
+8	Western disproving the Oxford study		1st	1st	1st	2nd	4th	11	805	3	1
+9	Mostly Harmless		2nd	2nd	1st	2nd	2nd	11	790	1	4
+10	Milei neutrality		1st	3rd	1st	2nd	2nd	11	789	2	2
+11	moo deng and pesto		1st	1st	4th	2nd	1st	11	788	3	1
+12	SDOWU	Novice	1st	3rd	2nd	1st	2nd	11	788	2	2
+13	Harvard GG		2nd	1st	2nd	2nd	3rd	10	799	1	3
+14	Harvard A(llowed to go to worlds)		1st	2nd	1st	2nd	4th	10	797	2	2
+15	Cornell A		3rd	2nd	1st	2nd	2nd	10	793	1	3
+16	Channeling our Inner Bazooka		1st	1st	3rd	4th	1st	10	791	3	0
+17	Average Homunculus Torturers		1st	1st	2nd	3rd	3rd	10	789	2	1
+18	USC SV		4th	1st	2nd	1st	2nd	10	779	2	2
+19	rip 1989 limited edition theme		2nd	1st	4th	1st	2nd	10	777	2	2
+20	EDS KP		1st	4th	1st	3rd	1st	10	776	3	0
+21	Emni		3rd	1st	2nd	3rd	1st	10	774	2	1
+22	Versatile Goats		2nd	4th	2nd	1st	1st	10	772	2	2
+23	BRAT		4th	1st	2nd	2nd	1st	10	768	2	2
+24	woman enjoyers		3rd	1st	2nd	1st	4th	9	792	2	1
+25	Stanford TC		4th	2nd	1st	1st	3rd	9	781	2	1
+26=	Chief Mousers		2nd	3rd	1st	2nd	3rd	9	776	1	2
+26=	Falling American Male		3rd	2nd	3rd	2nd	1st	9	776	1	2
+28	debaters in name only (DINO)		1st	2nd	3rd	3rd	2nd	9	774	1	2
+29	EMILY (and warren)		3rd	2nd	3rd	2nd	1st	9	770	1	2
+30	Bard The Spleen Eaters		2nd	3rd	2nd	2nd	2nd	9	769	0	4
+31	charlie and tao		4th	1st	2nd	1st	3rd	9	763	2	1
+32	Grand Strategy		4th	2nd	2nd	2nd	1st	9	763	1	3
+33	Nova + Vortex		2nd	1st	3rd	4th	1st	9	760	2	1
+34	UBC Verba Invicta		1st	2nd	3rd	3rd	2nd	9	760	1	2
+35	Fordham B		3rd	3rd	3rd	1st	1st	9	740	2	0
+36	Whimsical Penguins		2nd	2nd	1st	3rd	4th	8	774	1	2
+37	i dont want to do this anymore		3rd	2nd	2nd	4th	1st	8	772	1	2
+38=	545 miles on the road		3rd	1st	4th	1st	3rd	8	770	2	0
+38=	Waterloo B		1st	3rd	1st	3rd	4th	8	770	2	0
+38=	H&amp;M Aparrel		1st	3rd	4th	1st	3rd	8	770	2	0
+41	rawdogging exams	Novice	2nd	3rd	2nd	3rd	2nd	8	770	0	3
+42	USC LD		1st	2nd	4th	1st	4th	8	768	2	1
+43	USC JW	Novice	3rd	3rd	3rd	1st	2nd	8	767	1	1
+44	Ford F1-50 🛻		2nd	2nd	2nd	4th	2nd	8	756	0	4
+45	Princeton BB		4th	1st	1st	4th	2nd	8	752	2	1
+46	W		3rd	3rd	4th	1st	1st	8	752	2	0
+47=	The Book of Marsupials		4th	2nd	2nd	1st	3rd	8	743	1	2
+47=	Busted Sub		3rd	4th	2nd	2nd	1st	8	743	1	2
+49	EDS BK	Novice	1st	3rd	4th	2nd	2nd	8	739	1	2
+50	tweaking yet locked in		2nd	3rd	3rd	2nd	3rd	7	775	0	2
+51	Styne is the name		3rd	2nd	1st	4th	3rd	7	774	1	1
+52	Swing A		2nd	1st	2nd	4th	4th	7	772	1	2
+53	Wisconsin HN		2nd	4th	1st	2nd	4th	7	770	1	2
+54	UBC TW	Novice	3rd	1st	3rd	3rd	3rd	7	766	1	0
+55=	Queen&#x27;s 4		2nd	2nd	3rd	4th	2nd	7	763	0	3
+55=	concepts of a plan		2nd	2nd	3rd	2nd	4th	7	763	0	3
+57=	Cornell B		2nd	1st	4th	3rd	3rd	7	759	1	1
+57=	Fordham C		3rd	4th	1st	3rd	2nd	7	759	1	1
+59	Timothy Dwight IV		2nd	4th	2nd	1st	4th	7	756	1	2
+60	wooden spoon survivors		3rd	2nd	4th	3rd	1st	7	752	1	1
+61	EDS hhiv bottom tab champs 🔥🔥🔥		3rd	3rd	4th	2nd	1st	7	751	1	1
+62	Duke RS	Novice	3rd	1st	3rd	4th	2nd	7	747	1	1
+63	Bard KO		2nd	3rd	3rd	4th	1st	7	744	1	1
+64	Fracking 😍		4th	2nd	3rd	2nd	2nd	7	738	0	3
+65	Bard MM	Novice	4th	3rd	4th	1st	1st	7	721	2	0
+66	HWS A		2nd	1st	4th	3rd	4th	6	766	1	1
+67	Princeton Sleepy Joes	Novice	1st	4th	4th	1st	4th	6	762	2	0
+68	Cornell C		2nd	4th	1st	4th	3rd	6	760	1	1
+69	Wisconsin GP		1st	4th	2nd	3rd	4th	6	759	1	1
+70	Queen&#x27;s 3		3rd	3rd	1st	4th	3rd	6	759	1	0
+71	Cornell D	Novice	2nd	4th	1st	4th	3rd	6	753	1	1
+72	Open to Network	Novice	4th	1st	4th	2nd	3rd	6	751	1	1
+73	Middlebury KM		4th	3rd	2nd	3rd	2nd	6	750	0	2
+74	Lassies		1st	4th	4th	1st	4th	6	745	2	0
+75	paul&#x27;s silicone oven glove		3rd	1st	4th	4th	2nd	6	745	1	1
+76	Carleton We Will Bribe You		4th	3rd	4th	1st	2nd	6	740	1	1
+77	The Noodle Dream Team		4th	3rd	2nd	2nd	3rd	6	735	0	2
+78	EDS Extraordinarily Dense Squires	Novice	4th	1st	4th	4th	1st	6	733	2	0
+79	Ben &amp; Jerry&#x27;s		4th	2nd	3rd	1st	4th	6	732	1	1
+80	Middlebury LS	Novice	2nd	4th	4th	3rd	1st	6	720	1	1
+81	Mile		2nd	4th	3rd	3rd	3rd	5	749	0	1
+82	Fordham A		3rd	4th	1st	3rd	4th	5	747	1	0
+83	Middlebury RY	Novice	4th	3rd	2nd	2nd	4th	5	745	0	2
+84	Debatable Decisions	Novice	3rd	4th	1st	3rd	4th	5	743	1	0
+85	HWS D		2nd	3rd	3rd	3rd	4th	5	743	0	1
+86	HWS B		3rd	4th	3rd	3rd	2nd	5	742	0	1
+87	Wax		1st	4th	3rd	4th	3rd	5	737	1	0
+88	Carleton sorority girl and engineer	Novice	4th	4th	1st	4th	2nd	5	733	1	1
+89	Joris Bohnson	Novice	2nd	3rd	4th	3rd	4th	4	746	0	1
+90	Carleton OBJECTIVELY reddit saved my life		3rd	2nd	4th	4th	3rd	4	739	0	1
+91	HWS C		4th	3rd	4th	4th	1st	4	723	1	0
+92	UoG Baddies		4th	3rd	1st	4th	4th	4	712	1	0
+93	Odette 1	Novice	4th	4th	3rd	2nd	3rd	4	699	0	1
+94	Space Ninjas		4th	4th	3rd	3rd	3rd	3	731	0	0
+95	RUN SS		4th	4th	2nd	4th	3rd	3	730	0	1
+96	guess which one of us is bi		3rd	4th	4th	2nd	4th	3	725	0	1
+97	RUN YD	Novice	3rd	4th	3rd	4th	4th	2	718	0	0
+98	Middlebury CC	Novice	4th	2nd	4th	4th	4th	2	714	0	1
+99	Speakeasy		4th	4th	3rd	3rd	4th	2	699	0	0
+100	Swing B		—	—	—	—	2nd	2	150	0	1
+101	Odette 2	Novice	4th	4th	4th	4th	—	0	562	0	0
+102	Swing C		—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Tejas Subramaniam		Stanford LS	85	81	82	83	79	410	82.00	2.00
+2	Ale Perri		Clash Royale	84	82	81	81	79	407	81.40	1.62
+3=	Emma Jones		Washedasaurus Rex	80	82	82	82	80	406	81.20	0.98
+3=	Roy Tiefer		Clash Royale	84	79	80	83	80	406	81.20	1.94
+5	Elizabeth Li		Stanford LS	83	81	81	82	78	405	81.00	1.67
+6	Rhys Nickerson		we were going to get married	82	83	78	81	80	404	80.80	1.72
+7=	Helen Wu		Chrono-Synclastic Infundibulum	80	81	82	82	78	403	80.60	1.50
+7=	Daniel Svirsky		Western disproving the Oxford study	81	81	82	83	76	403	80.60	2.42
+7=	Vivek Gala		Debate, I Need Out! (DINO)	82	81	80	83	77	403	80.60	2.06
+10=	Ethan Jiang		Chrono-Synclastic Infundibulum	80	81	82	81	78	402	80.40	1.36
+10=	Hao Ni	Novice	Western disproving the Oxford study	81	82	80	82	77	402	80.40	1.85
+10=	Lochlann Kerr		Debate, I Need Out! (DINO)	81	81	79	83	78	402	80.40	1.74
+13=	Ananya Ganesh		Harvard GG	83	80	78	81	78	400	80.00	1.90
+13=	Eve Pigat		woman enjoyers	80	81	80	81	78	400	80.00	1.10
+13=	Rahul Kalavagunta		Channeling our Inner Bazooka	79	82	79	78	82	400	80.00	1.67
+13=	Jacob Silcoff		Croc and Ball Torture	80	80	79	80	81	400	80.00	0.63
+13=	Lily Mckay-De Carvalho		we were going to get married	78	83	76	83	80	400	80.00	2.76
+18=	Ambika Grover		Harvard GG	83	79	77	82	78	399	79.80	2.32
+18=	Karel Brandenbarg		Washedasaurus Rex	79	81	81	80	78	399	79.80	1.17
+18=	Ted Chang		Harvard A(llowed to go to worlds)	81	82	78	80	78	399	79.80	1.60
+21	Matt Mauriello		Harvard A(llowed to go to worlds)	81	81	79	79	78	398	79.60	1.20
+22=	Barron Ren	Novice	Cornell A	77	78	80	81	81	397	79.40	1.62
+22=	Naz Soysal		Milei neutrality	78	81	79	79	80	397	79.40	1.02
+24=	Ram Orfanel		Cornell A	79	78	80	80	79	396	79.20	0.75
+24=	Emma Blemaster		Mostly Harmless	81	78	80	79	78	396	79.20	1.17
+24=	Belle Ho		Average Homunculus Torturers	81	83	78	79	75	396	79.20	2.71
+24=	Anders Woodruff		Croc and Ball Torture	79	80	78	79	80	396	79.20	0.75
+24=	Alex Zhu		moo deng and pesto	79	81	78	77	81	396	79.20	1.60
+29	Kevin Chen	Novice	SDOWU	78	77	79	82	79	395	79.00	1.67
+30	Seamus Allen		Mostly Harmless	80	79	80	79	76	394	78.80	1.47
+31=	Tony Chen	Novice	SDOWU	78	77	78	81	79	393	78.60	1.36
+31=	Will Ryan		Average Homunculus Torturers	80	81	79	78	75	393	78.60	2.06
+33=	John Washburn		woman enjoyers	78	81	78	79	76	392	78.40	1.62
+33=	Amy Chang		Stanford TC	77	78	79	79	79	392	78.40	0.80
+33=	Guo Chen		moo deng and pesto	78	80	77	77	80	392	78.40	1.36
+33=	Teddy Tawil		Milei neutrality	77	79	79	78	79	392	78.40	0.80
+37	Justin Wu		Channeling our Inner Bazooka	77	79	79	77	79	391	78.20	0.98
+38=	Anthony Galipeau		Falling American Male	76	78	78	80	78	390	78.00	1.26
+38=	Veer Juneja		USC SV	76	77	79	78	80	390	78.00	1.41
+40=	Vijay Tupper		rip 1989 limited edition theme	77	80	75	80	77	389	77.80	1.94
+40=	Benjamin Thomas		Stanford TC	76	76	80	79	78	389	77.80	1.60
+40=	Adrian Wattamaniuk		debaters in name only (DINO)	76	80	77	79	77	389	77.80	1.47
+40=	Jesenia Parthasarathy		Chief Mousers	77	77	79	77	79	389	77.80	0.98
+40=	Sherissa Wu		USC SV	76	79	77	77	80	389	77.80	1.47
+45=	Diego Castillo		545 miles on the road	78	79	76	79	76	388	77.60	1.36
+45=	Bridget Li		rip 1989 limited edition theme	77	81	74	80	76	388	77.60	2.58
+45=	Emily Paulin		Whimsical Penguins	78	79	79	78	74	388	77.60	1.85
+45=	Gabriel Frank-McPheter		Versatile Goats	76	78	76	80	78	388	77.60	1.50
+45=	Netra Easwaran		tweaking yet locked in	78	78	77	79	76	388	77.60	1.02
+45=	Charles Ndlovu		Styne is the name	77	78	80	77	76	388	77.60	1.36
+51=	Nilabh Agrawal		Emni	77	78	78	76	78	387	77.40	0.80
+51=	Emily Chen		Emni	77	78	77	77	78	387	77.40	0.49
+51=	Feifei Mei	Novice	Chief Mousers	77	76	80	77	77	387	77.40	1.36
+51=	William Berry		tweaking yet locked in	79	78	77	77	76	387	77.40	1.02
+51=	Ricky Zhou	Novice	rawdogging exams	77	78	78	77	77	387	77.40	0.49
+51=	Andrew Liu		i dont want to do this anymore	77	78	77	75	80	387	77.40	1.62
+51=	Speaker 1		Swing A	78	79	79	77	74	387	77.40	1.85
+58=	Warren Chen		EMILY (and warren)	77	76	77	78	78	386	77.20	0.75
+58=	Caitlin Hodge	Novice	Whimsical Penguins	77	79	77	78	75	386	77.20	1.33
+58=	Eyas Valdez		Falling American Male	75	77	78	79	77	386	77.20	1.33
+58=	Abhi Wadhwa	Novice	USC JW	77	77	77	78	77	386	77.20	0.40
+58=	Faith Liu		Styne is the name	78	78	79	76	75	386	77.20	1.47
+63=	William Lock		Cornell C	78	79	77	77	74	385	77.00	1.67
+63=	William Chen	Novice	UBC TW	76	80	77	76	76	385	77.00	1.55
+63=	Ken Tieu		debaters in name only (DINO)	75	80	76	78	76	385	77.00	1.79
+63=	Victoria Moldovan	Novice	BRAT	74	80	77	77	77	385	77.00	1.90
+63=	Annaliese Simons		Bard The Spleen Eaters	77	78	77	77	76	385	77.00	0.63
+63=	Pedro Proano		EDS KP	78	75	78	78	76	385	77.00	1.26
+63=	Heba Haq		Wisconsin HN	79	77	76	78	75	385	77.00	1.41
+63=	Sandy Nayar		Wisconsin HN	78	77	76	79	75	385	77.00	1.41
+63=	Ananya Bose		Waterloo B	78	76	80	77	74	385	77.00	2.00
+63=	Inqiyad Patwary		Waterloo B	78	75	79	79	74	385	77.00	2.10
+63=	Sherry Shu		i dont want to do this anymore	75	77	79	75	79	385	77.00	1.79
+63=	Aidan Healy		H&amp;M Aparrel	78	78	76	78	75	385	77.00	1.26
+63=	Maya Mufson		H&amp;M Aparrel	78	78	76	78	75	385	77.00	1.26
+76=	Emily Hardie	Novice	EMILY (and warren)	76	76	77	77	78	384	76.80	0.75
+76=	Bess Olshen		Versatile Goats	75	77	75	79	78	384	76.80	1.60
+76=	Tom Chitwood		Bard The Spleen Eaters	76	78	77	76	77	384	76.80	0.75
+76=	Sanjana Kumar	Novice	Princeton Sleepy Joes	79	75	75	80	75	384	76.80	2.23
+76=	Anna Liu		USC LD	77	81	73	80	73	384	76.80	3.37
+76=	Harshitha Dasari		USC LD	78	80	73	80	73	384	76.80	3.19
+76=	Lamia Nur Rahman		HWS A	78	79	75	77	75	384	76.80	1.60
+83=	Parker Keeley		BRAT	73	79	78	76	77	383	76.60	2.06
+83=	Advait Sangle		charlie and tao	76	79	77	77	74	383	76.60	1.62
+83=	Annika Frankiss		Queen&#x27;s 4	75	77	78	78	75	383	76.60	1.36
+83=	Nirvan Bose	Novice	rawdogging exams	77	77	77	77	75	383	76.60	0.80
+83=	Midhun Sadanand	Novice	Grand Strategy	72	77	79	76	79	383	76.60	2.58
+83=	Jacqueline Huang	Novice	Queen&#x27;s 3	76	77	79	77	74	383	76.60	1.62
+89=	James Afford		545 miles on the road	76	78	75	78	75	382	76.40	1.36
+89=	Taira Mehta		concepts of a plan	77	79	76	76	74	382	76.40	1.62
+89=	Dheeraj Pasikanti		Wisconsin GP	79	74	79	76	74	382	76.40	2.24
+89=	Hudson Chou		HWS A	77	78	75	77	75	382	76.40	1.20
+93=	Alex Zhang		Cornell B	77	81	75	76	72	381	76.20	2.93
+93=	Sanket Bhalotia		Fordham C	75	74	77	78	77	381	76.20	1.47
+93=	Thien Lam Nguyen	Novice	UBC TW	76	79	75	76	75	381	76.20	1.47
+93=	Elaine Zhao		concepts of a plan	75	79	77	76	74	381	76.20	1.72
+93=	Katie Jack	Novice	USC JW	77	75	75	77	77	381	76.20	0.98
+98=	Kat Rutkowski		Nova + Vortex	77	76	75	76	76	380	76.00	0.63
+98=	Neil Rohan		Nova + Vortex	78	75	75	76	76	380	76.00	1.10
+98=	Annabelle Katz	Novice	UBC Verba Invicta	78	77	76	72	77	380	76.00	2.10
+98=	Manon Melkonyan		UBC Verba Invicta	79	77	76	72	76	380	76.00	2.28
+98=	Ted Ren		charlie and tao	76	78	77	76	73	380	76.00	1.67
+98=	Fefe Montalvo		Timothy Dwight IV	75	74	75	78	78	380	76.00	1.67
+98=	Sawsan Haider		Queen&#x27;s 4	76	75	77	78	74	380	76.00	1.41
+98=	Ryan Gumlia		Grand Strategy	72	76	77	77	78	380	76.00	2.10
+98=	Yashar Khan		Bard KO	76	75	77	74	78	380	76.00	1.41
+107=	Skylar Kleinman		Cornell B	77	80	76	74	71	378	75.60	3.01
+107=	Melinda Huspen		Fordham C	75	75	76	76	76	378	75.60	0.49
+107=	Fiona Bray	Novice	Princeton BB	76	77	81	68	76	378	75.60	4.22
+107=	Jacob Tombs		Ford F1-50 🛻	77	75	76	73	77	378	75.60	1.50
+107=	Dhruv Kairon		Ford F1-50 🛻	76	75	77	74	76	378	75.60	1.02
+107=	Ziya Merchant	Novice	Princeton Sleepy Joes	77	75	74	78	74	378	75.60	1.62
+107=	Addison Baker	Novice	Joris Bohnson	82	73	74	76	73	378	75.60	3.38
+114=	Soren Jensen	Novice	Cornell D	78	73	77	75	74	377	75.40	1.85
+114=	Aubrey Nan		wooden spoon survivors	73	79	74	74	77	377	75.40	2.24
+114=	Michael Matheson		Middlebury KM	76	74	73	77	77	377	75.40	1.62
+114=	Sim Singh	Novice	Debatable Decisions	78	74	79	73	73	377	75.40	2.58
+114=	Aph Guvenen		Wisconsin GP	78	73	78	75	73	377	75.40	2.24
+114=	Angela Zhou	Novice	Open to Network	75	77	76	75	74	377	75.40	1.02
+120=	Kyle Mayers		Mile	77	76	75	74	74	376	75.20	1.17
+120=	Eamin Ahmed	Novice	Cornell D	78	72	76	76	74	376	75.20	2.04
+120=	Eyasu Yakob		W	76	75	69	79	77	376	75.20	3.37
+120=	Jingyi He		W	77	76	69	76	78	376	75.20	3.19
+120=	Alex Bavalsky		Timothy Dwight IV	75	72	75	77	77	376	75.20	1.83
+120=	Adrienne Liu		EDS hhiv bottom tab champs 🔥🔥🔥	75	75	74	76	76	376	75.20	0.75
+120=	Amylee Bourgault	Novice	EDS BK	75	78	75	74	74	376	75.20	1.47
+120=	Khaled Rajan		Queen&#x27;s 3	74	75	77	76	74	376	75.20	1.17
+120=	Adam Binns		The Book of Marsupials	75	77	73	75	76	376	75.20	1.33
+129=	Nicolas Jaimes		Cornell C	75	75	76	76	73	375	75.00	1.10
+129=	Thomas Bowes		wooden spoon survivors	73	79	73	74	76	375	75.00	2.28
+129=	Dante Reyno	Novice	Middlebury RY	70	77	77	76	75	375	75.00	2.61
+129=	Eric Peng		EDS hhiv bottom tab champs 🔥🔥🔥	76	75	73	76	75	375	75.00	1.10
+129=	Jacob Franchi		HWS B	78	75	75	76	71	375	75.00	2.28
+134=	Ethan Duninsky		Fordham A	76	75	75	75	73	374	74.80	0.98
+134=	Nitin Alagu		Carleton We Will Bribe You	72	76	76	77	73	374	74.80	1.94
+134=	Ryan Si	Novice	Duke RS	73	77	75	74	75	374	74.80	1.33
+134=	Eric Zou	Novice	Open to Network	74	76	76	75	73	374	74.80	1.17
+138=	Will Koszegi		Wax	77	73	76	74	73	373	74.60	1.62
+138=	Milo Austin		Mile	76	76	73	75	73	373	74.60	1.36
+138=	Sasya Koneru		Fordham A	75	75	74	77	72	373	74.60	1.62
+138=	Haruyuki Kawashima	Novice	Middlebury KM	75	76	74	74	74	373	74.60	0.80
+138=	Lily Wyckoff		Lassies	78	76	74	74	71	373	74.60	2.33
+138=	Nathanael Ren	Novice	Duke RS	74	77	74	73	75	373	74.60	1.36
+138=	Tessa Smith		paul&#x27;s silicone oven glove	76	76	73	74	74	373	74.60	1.20
+145=	Aidan Thompson		Fordham B	67	75	74	78	78	372	74.40	4.03
+145=	Agnes Shales		Lassies	77	77	74	73	71	372	74.40	2.33
+145=	Emily Sakash		Busted Sub	72	73	73	77	77	372	74.40	2.15
+145=	Jacky Li		paul&#x27;s silicone oven glove	75	78	73	72	74	372	74.40	2.06
+145=	Michelle Mangione		HWS D	76	75	74	74	73	372	74.40	1.02
+150=	Skye Whalen		Busted Sub	73	73	73	77	75	371	74.20	1.60
+150=	Carter Schmitt		The Noodle Dream Team	71	75	77	72	76	371	74.20	2.32
+150=	Leo Bonacci		HWS D	77	75	74	74	71	371	74.20	1.94
+153=	Sierra Yee	Novice	Middlebury RY	70	73	77	76	74	370	74.00	2.45
+153=	Kyla Silva		Carleton OBJECTIVELY reddit saved my life	76	75	75	73	71	370	74.00	1.79
+153=	Martin Leduc	Novice	EDS Extraordinarily Dense Squires	72	74	73	75	76	370	74.00	1.41
+156=	Jainam Shah	Novice	RUN SS	75	74	71	75	74	369	73.80	1.47
+156=	Serena Buono		Ben &amp; Jerry&#x27;s	74	76	70	76	73	369	73.80	2.23
+156=	Tomek Botwicz		Space Ninjas	74	75	72	73	75	369	73.80	1.17
+156=	Eamon Tan		Fracking 😍	74	70	74	74	77	369	73.80	2.23
+156=	Bruce Tong		Fracking 😍	74	71	74	75	75	369	73.80	1.47
+156=	Madeleine Gordon		Carleton OBJECTIVELY reddit saved my life	75	75	75	74	70	369	73.80	1.94
+162=	Margaret Wasco		Fordham B	67	75	73	77	76	368	73.60	3.56
+162=	Victoria Bubina	Novice	Joris Bohnson	76	73	72	75	72	368	73.60	1.62
+164=	Erika Cordeiro	Novice	Carleton sorority girl and engineer	72	74	73	74	74	367	73.40	0.80
+164=	Sophie Ng		The Book of Marsupials	69	75	74	75	74	367	73.40	2.24
+164=	Luis Gontes		HWS B	75	74	74	74	70	367	73.40	1.74
+167=	Dylan Case	Novice	Debatable Decisions	73	73	78	70	72	366	73.20	2.64
+167=	Ashley Shea		Carleton We Will Bribe You	73	75	71	75	72	366	73.20	1.60
+167=	Felix Zhang	Novice	Carleton sorority girl and engineer	72	74	72	74	74	366	73.20	0.98
+170	Justin Dixon		guess which one of us is bi	73	71	75	75	71	365	73.00	1.79
+171=	Max Beck	Novice	Wax	72	71	75	74	72	364	72.80	1.47
+171=	Japneet Singh	Novice	The Noodle Dream Team	71	74	73	72	74	364	72.80	1.17
+171=	Lachlan Ondre		Bard KO	72	73	76	68	75	364	72.80	2.79
+174=	Carissa Mahoney	Novice	Bard MM	74	73	65	77	74	363	72.60	4.03
+174=	Gavin Alberts		Ben &amp; Jerry&#x27;s	72	75	70	75	71	363	72.60	2.06
+174=	Ethan van Kessel	Novice	EDS Extraordinarily Dense Squires	70	73	72	74	74	363	72.60	1.50
+174=	Sahil Khokhar	Novice	EDS BK	73	70	74	72	74	363	72.60	1.50
+174=	Ryan Coe		HWS C	73	74	71	70	75	363	72.60	1.85
+179	Alisa Halchenko	Novice	Space Ninjas	72	75	70	73	72	362	72.40	1.62
+180=	Siya Srivastava		RUN SS	74	74	68	72	73	361	72.20	2.23
+180=	Kristal Lin	Novice	Middlebury LS	73	69	73	71	75	361	72.20	2.04
+182=	Piya Parmar		guess which one of us is bi	74	72	74	72	68	360	72.00	2.19
+182=	Owen Burstein		HWS C	72	71	70	71	76	360	72.00	2.10
+184=	Skyler  Shooer-Sampson	Novice	Middlebury LS	72	70	73	71	73	359	71.80	1.17
+184=	Chelsea Yang	Novice	RUN YD	74	72	76	69	68	359	71.80	2.99
+184=	Simran Dabas	Novice	RUN YD	74	72	76	69	68	359	71.80	2.99
+187	Marriana Maloney	Novice	Bard MM	73	73	64	75	73	358	71.60	3.88
+188=	Ryan Chicirda	Novice	Middlebury CC	73	76	69	66	73	357	71.40	3.50
+188=	Kayleigh Christley	Novice	Middlebury CC	74	75	69	66	73	357	71.40	3.38
+188=	George Dumitru		UoG Baddies	72	65	78	74	68	357	71.40	4.54
+191	Hope MacPherson	Novice	UoG Baddies	72	65	77	72	69	355	71.00	3.95
+192	Kieran Narang	Novice	Odette 1	74	63	69	75	71	352	70.40	4.27
+193	Grace O&#x27;Bryan	Novice	Speakeasy	63	72	69	74	72	350	70.00	3.85
+194	Miles Bretherton		Speakeasy	63	72	69	73	72	349	69.80	3.66
+195	Erley Lafleur	Novice	Odette 1	73	63	68	74	69	347	69.40	3.93
+196=	Matthew Livingstone	Novice	Odette 2	73	72	66	70	—	281	70.25	2.68
+196=	David Mailloux	Novice	Odette 2	73	72	65	71	—	281	70.25	3.11
+198	Anais Kneppers		EDS KP	—	—	80	78	81	239	79.67	1.25
+199	Speaker 2		Swing A	—	79	78	—	75	232	77.33	1.70
+200	Speaker 3		Swing B	—	—	—	—	75	75	75.00	0.00
+201=	Speaker 4		Swing B	—	—	—	—	—	—	—	—
+201=	Speaker 5		Swing C	—	—	—	—	—	—	—	—
+201=	Speaker 6		Swing C	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+EMILY (and warren)	3rd	Closing Opposition	View Ballot	Omesh Dhar DwivediⒸ , Varun Lodaya 🐉 , Briana ReyesⓉ , Jesse McCormickⓉ
+Middlebury RY	4th	Closing Government	View Ballot	Omesh Dhar DwivediⒸ , Varun Lodaya 🐉 , Briana ReyesⓉ , Jesse McCormickⓉ
+USC LD	1st	Opening Government	View Ballot	Omesh Dhar DwivediⒸ , Varun Lodaya 🐉 , Briana ReyesⓉ , Jesse McCormickⓉ
+rawdogging exams	2nd	Opening Opposition	View Ballot	Omesh Dhar DwivediⒸ , Varun Lodaya 🐉 , Briana ReyesⓉ , Jesse McCormickⓉ
+RUN SS	4th	Closing Government	View Ballot	Bobo WongⒸ , Hargun Rekhi , Adrian Jimenez MoyaⓉ , Basil BobⓉ
+Bard The Spleen Eaters	2nd	Closing Opposition	View Ballot	Bobo WongⒸ , Hargun Rekhi , Adrian Jimenez MoyaⓉ , Basil BobⓉ
+Falling American Male	3rd	Opening Government	View Ballot	Bobo WongⒸ , Hargun Rekhi , Adrian Jimenez MoyaⓉ , Basil BobⓉ
+Milei neutrality	1st	Opening Opposition	View Ballot	Bobo WongⒸ , Hargun Rekhi , Adrian Jimenez MoyaⓉ , Basil BobⓉ
+wooden spoon survivors	3rd	Closing Opposition	View Ballot	Adam UrsenbachⒸ , Jack Zhu , Aria SainesⓉ , Julian HenryⓉ
+Chief Mousers	2nd	Opening Opposition	View Ballot	Adam UrsenbachⒸ , Jack Zhu , Aria SainesⓉ , Julian HenryⓉ
+we were going to get married	1st	Closing Government	View Ballot	Adam UrsenbachⒸ , Jack Zhu , Aria SainesⓉ , Julian HenryⓉ
+The Book of Marsupials	4th	Opening Government	View Ballot	Adam UrsenbachⒸ , Jack Zhu , Aria SainesⓉ , Julian HenryⓉ
+Channeling our Inner Bazooka	1st	Closing Government	View Ballot	Arpi YangⒸ , Nyx Kucharski , Jasmeet RandhawaⓉ , LavanyaⓉ
+Debatable Decisions	3rd	Closing Opposition	View Ballot	Arpi YangⒸ , Nyx Kucharski , Jasmeet RandhawaⓉ , LavanyaⓉ
+Odette 2	4th	Opening Opposition	View Ballot	Arpi YangⒸ , Nyx Kucharski , Jasmeet RandhawaⓉ , LavanyaⓉ
+Swing A	2nd	Opening Government	View Ballot	Arpi YangⒸ , Nyx Kucharski , Jasmeet RandhawaⓉ , LavanyaⓉ
+545 miles on the road	3rd	Closing Opposition	View Ballot	Danté Cecilio FosterdelmundoⒸ , Saad Khan , Jerry ZhangⓉ , Maja GrandinettiⓉ
+Cornell D	2nd	Opening Government	View Ballot	Danté Cecilio FosterdelmundoⒸ , Saad Khan , Jerry ZhangⓉ , Maja GrandinettiⓉ
+Middlebury KM	4th	Closing Government	View Ballot	Danté Cecilio FosterdelmundoⒸ , Saad Khan , Jerry ZhangⓉ , Maja GrandinettiⓉ
+Croc and Ball Torture	1st	Opening Opposition	View Ballot	Danté Cecilio FosterdelmundoⒸ , Saad Khan , Jerry ZhangⓉ , Maja GrandinettiⓉ
+rip 1989 limited edition theme	2nd	Opening Government	View Ballot	Dennis SuⒸ , Julia Van Damme , Maya NicholsⓉ
+W	3rd	Closing Government	View Ballot	Dennis SuⒸ , Julia Van Damme , Maya NicholsⓉ
+EDS KP	1st	Opening Opposition	View Ballot	Dennis SuⒸ , Julia Van Damme , Maya NicholsⓉ
+charlie and tao	4th	Closing Opposition	View Ballot	Dennis SuⒸ , Julia Van Damme , Maya NicholsⓉ
+Stanford TC	4th	Closing Government	View Ballot	Nick AbernethyⒸ , Theodore Yohalem Shouse , Kelly RibeiroⓉ , Nathaniel TesfayeⓉ
+Clash Royale	1st	Opening Opposition	View Ballot	Nick AbernethyⒸ , Theodore Yohalem Shouse , Kelly RibeiroⓉ , Nathaniel TesfayeⓉ
+Styne is the name	3rd	Opening Government	View Ballot	Nick AbernethyⒸ , Theodore Yohalem Shouse , Kelly RibeiroⓉ , Nathaniel TesfayeⓉ
+Joris Bohnson	2nd	Closing Opposition	View Ballot	Nick AbernethyⒸ , Theodore Yohalem Shouse , Kelly RibeiroⓉ , Nathaniel TesfayeⓉ
+Versatile Goats	2nd	Opening Government	View Ballot	Adam BanihaniⒸ , Vasu Kamra , Fenya Lyn WalterⓉ , Grace ReubenⓉ
+guess which one of us is bi	3rd	Opening Opposition	View Ballot	Adam BanihaniⒸ , Vasu Kamra , Fenya Lyn WalterⓉ , Grace ReubenⓉ
+Waterloo B	1st	Closing Opposition	View Ballot	Adam BanihaniⒸ , Vasu Kamra , Fenya Lyn WalterⓉ , Grace ReubenⓉ
+The Noodle Dream Team	4th	Closing Government	View Ballot	Adam BanihaniⒸ , Vasu Kamra , Fenya Lyn WalterⓉ , Grace ReubenⓉ
+Space Ninjas	4th	Closing Opposition	View Ballot	Clarence BrontëⒸ , Greg Kwok , Alice QiⓉ , Jason ShanⓉ
+debaters in name only (DINO)	1st	Closing Government	View Ballot	Clarence BrontëⒸ , Greg Kwok , Alice QiⓉ , Jason ShanⓉ
+Timothy Dwight IV	2nd	Opening Government	View Ballot	Clarence BrontëⒸ , Greg Kwok , Alice QiⓉ , Jason ShanⓉ
+RUN YD	3rd	Opening Opposition	View Ballot	Clarence BrontëⒸ , Greg Kwok , Alice QiⓉ , Jason ShanⓉ
+UBC TW	3rd	Closing Government	View Ballot	Caitlin MahⒸ , Kyle Cook , Cleo ShawⓉ , alicja wolinskaⓉ
+Average Homunculus Torturers	1st	Opening Government	View Ballot	Caitlin MahⒸ , Kyle Cook , Cleo ShawⓉ , alicja wolinskaⓉ
+tweaking yet locked in	2nd	Opening Opposition	View Ballot	Caitlin MahⒸ , Kyle Cook , Cleo ShawⓉ , alicja wolinskaⓉ
+HWS C	4th	Closing Opposition	View Ballot	Caitlin MahⒸ , Kyle Cook , Cleo ShawⓉ , alicja wolinskaⓉ
+Mile	2nd	Closing Government	View Ballot	Tarun RuschmeierⒸ , Valerie Pang , Faadel AsfariⓉ , Maisy CoffeyⓉ
+Carleton OBJECTIVELY reddit saved my life	3rd	Closing Opposition	View Ballot	Tarun RuschmeierⒸ , Valerie Pang , Faadel AsfariⓉ , Maisy CoffeyⓉ
+moo deng and pesto	1st	Opening Opposition	View Ballot	Tarun RuschmeierⒸ , Valerie Pang , Faadel AsfariⓉ , Maisy CoffeyⓉ
+Open to Network	4th	Opening Government	View Ballot	Tarun RuschmeierⒸ , Valerie Pang , Faadel AsfariⓉ , Maisy CoffeyⓉ
+BRAT	4th	Closing Government	View Ballot	Micaela LewisⒸ , Zuzanna Godzinska , Evelyn BaiⓉ , Mirabel RaphaelⓉ
+Princeton Sleepy Joes	1st	Opening Opposition	View Ballot	Micaela LewisⒸ , Zuzanna Godzinska , Evelyn BaiⓉ , Mirabel RaphaelⓉ
+EDS hhiv bottom tab champs 🔥🔥🔥	3rd	Closing Opposition	View Ballot	Micaela LewisⒸ , Zuzanna Godzinska , Evelyn BaiⓉ , Mirabel RaphaelⓉ
+HWS A	2nd	Opening Government	View Ballot	Micaela LewisⒸ , Zuzanna Godzinska , Evelyn BaiⓉ , Mirabel RaphaelⓉ
+Cornell B	2nd	Closing Opposition	View Ballot	Xiao-ke Lu 🦭Ⓒ , Hamza Aziz , Neil Roy Choudhury , Desiree RigaudⓉ
+Lassies	1st	Opening Opposition	View Ballot	Xiao-ke Lu 🦭Ⓒ , Hamza Aziz , Neil Roy Choudhury , Desiree RigaudⓉ
+i dont want to do this anymore	3rd	Closing Government	View Ballot	Xiao-ke Lu 🦭Ⓒ , Hamza Aziz , Neil Roy Choudhury , Desiree RigaudⓉ
+Grand Strategy	4th	Opening Government	View Ballot	Xiao-ke Lu 🦭Ⓒ , Hamza Aziz , Neil Roy Choudhury , Desiree RigaudⓉ
+Cornell C	2nd	Closing Opposition	View Ballot	Navreet SidhuⒸ , George Macauley , Giuseppe Di MassaⓉ , Rachel KussickⓉ
+UBC Verba Invicta	1st	Opening Opposition	View Ballot	Navreet SidhuⒸ , George Macauley , Giuseppe Di MassaⓉ , Rachel KussickⓉ
+EDS Extraordinarily Dense Squires	4th	Closing Government	View Ballot	Navreet SidhuⒸ , George Macauley , Giuseppe Di MassaⓉ , Rachel KussickⓉ
+paul&#x27;s silicone oven glove	3rd	Opening Government	View Ballot	Navreet SidhuⒸ , George Macauley , Giuseppe Di MassaⓉ , Rachel KussickⓉ
+woman enjoyers	3rd	Closing Government	View Ballot	Wajeeh MaazⒸ , William Shi , Emma NolanⓉ , Gianluca LoportoⓉ
+Mostly Harmless	2nd	Closing Opposition	View Ballot	Wajeeh MaazⒸ , William Shi , Emma NolanⓉ , Gianluca LoportoⓉ
+Ben &amp; Jerry&#x27;s	4th	Opening Opposition	View Ballot	Wajeeh MaazⒸ , William Shi , Emma NolanⓉ , Gianluca LoportoⓉ
+Western disproving the Oxford study	1st	Opening Government	View Ballot	Wajeeh MaazⒸ , William Shi , Emma NolanⓉ , Gianluca LoportoⓉ
+Wax	1st	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Aarian Bhakoo , Journey HoreisⓉ , Kira WaldhalmⓉ
+Duke RS	3rd	Closing Government	View Ballot	Tanvir ShahriarⒸ , Aarian Bhakoo , Journey HoreisⓉ , Kira WaldhalmⓉ
+UoG Baddies	4th	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Aarian Bhakoo , Journey HoreisⓉ , Kira WaldhalmⓉ
+Bard KO	2nd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Aarian Bhakoo , Journey HoreisⓉ , Kira WaldhalmⓉ
+Busted Sub	3rd	Opening Opposition	View Ballot	Reana YanⒸ , Alain Humura , Brandon Zi Mo Zhang , James CampⓉ
+Carleton sorority girl and engineer	4th	Opening Government	View Ballot	Reana YanⒸ , Alain Humura , Brandon Zi Mo Zhang , James CampⓉ
+Harvard A(llowed to go to worlds)	1st	Closing Opposition	View Ballot	Reana YanⒸ , Alain Humura , Brandon Zi Mo Zhang , James CampⓉ
+concepts of a plan	2nd	Closing Government	View Ballot	Reana YanⒸ , Alain Humura , Brandon Zi Mo Zhang , James CampⓉ
+Fordham A	3rd	Opening Government	View Ballot	Simon YuⒸ , Stine Isak , Dylan BallardⓉ , Gage Matthew GerenⓉ
+SDOWU	1st	Opening Opposition	View Ballot	Simon YuⒸ , Stine Isak , Dylan BallardⓉ , Gage Matthew GerenⓉ
+Ford F1-50 🛻	2nd	Closing Opposition	View Ballot	Simon YuⒸ , Stine Isak , Dylan BallardⓉ , Gage Matthew GerenⓉ
+Fracking 😍	4th	Closing Government	View Ballot	Simon YuⒸ , Stine Isak , Dylan BallardⓉ , Gage Matthew GerenⓉ
+Cornell A	3rd	Closing Opposition	View Ballot	Jaleelah AmmarⒸ , McEwen Reil , Safo Kwame OhenebaⓉ
+Harvard GG	2nd	Opening Government	View Ballot	Jaleelah AmmarⒸ , McEwen Reil , Safo Kwame OhenebaⓉ
+Princeton BB	4th	Closing Government	View Ballot	Jaleelah AmmarⒸ , McEwen Reil , Safo Kwame OhenebaⓉ
+Stanford LS	1st	Opening Opposition	View Ballot	Jaleelah AmmarⒸ , McEwen Reil , Safo Kwame OhenebaⓉ
+Washedasaurus Rex	1st	Opening Government	View Ballot	Humam AzizⒸ , Sophie Zhang , Kitana HudgensⓉ , Vivian YeⓉ
+Middlebury CC	4th	Opening Opposition	View Ballot	Humam AzizⒸ , Sophie Zhang , Kitana HudgensⓉ , Vivian YeⓉ
+Whimsical Penguins	2nd	Closing Opposition	View Ballot	Humam AzizⒸ , Sophie Zhang , Kitana HudgensⓉ , Vivian YeⓉ
+Emni	3rd	Closing Government	View Ballot	Humam AzizⒸ , Sophie Zhang , Kitana HudgensⓉ , Vivian YeⓉ
+Fordham B	3rd	Opening Government	View Ballot	Crystal ZhangⒸ , Noah Aldinger , Benjamin EllisⓉ , Christina HarrahⓉ
+Middlebury LS	2nd	Opening Opposition	View Ballot	Crystal ZhangⒸ , Noah Aldinger , Benjamin EllisⓉ , Christina HarrahⓉ
+Speakeasy	4th	Closing Government	View Ballot	Crystal ZhangⒸ , Noah Aldinger , Benjamin EllisⓉ , Christina HarrahⓉ
+EDS BK	1st	Closing Opposition	View Ballot	Crystal ZhangⒸ , Noah Aldinger , Benjamin EllisⓉ , Christina HarrahⓉ
+Carleton We Will Bribe You	4th	Closing Government	View Ballot	Maria XuⒸ , Wandy , Aine CaseyⓉ , Shravani SubhedarⓉ
+Queen&#x27;s 4	2nd	Closing Opposition	View Ballot	Maria XuⒸ , Wandy , Aine CaseyⓉ , Shravani SubhedarⓉ
+Queen&#x27;s 3	3rd	Opening Government	View Ballot	Maria XuⒸ , Wandy , Aine CaseyⓉ , Shravani SubhedarⓉ
+H&amp;M Aparrel	1st	Opening Opposition	View Ballot	Maria XuⒸ , Wandy , Aine CaseyⓉ , Shravani SubhedarⓉ
+Nova + Vortex	2nd	Closing Government	View Ballot	Audrey MelodyⒸ , Cameron Miranda-Radbord , Siyoomie Roseisa WeeraratneⓉ , Willie JohnsonⓉ
+Wisconsin GP	1st	Opening Opposition	View Ballot	Audrey MelodyⒸ , Cameron Miranda-Radbord , Siyoomie Roseisa WeeraratneⓉ , Willie JohnsonⓉ
+USC JW	3rd	Closing Opposition	View Ballot	Audrey MelodyⒸ , Cameron Miranda-Radbord , Siyoomie Roseisa WeeraratneⓉ , Willie JohnsonⓉ
+Odette 1	4th	Opening Government	View Ballot	Audrey MelodyⒸ , Cameron Miranda-Radbord , Siyoomie Roseisa WeeraratneⓉ , Willie JohnsonⓉ
+Chrono-Synclastic Infundibulum	1st	Opening Government	View Ballot	Sarenna McKellarⒸ , Balraj Toor , Jonathan EatonⓉ , Rintaro KodairaⓉ
+Wisconsin HN	2nd	Closing Opposition	View Ballot	Sarenna McKellarⒸ , Balraj Toor , Jonathan EatonⓉ , Rintaro KodairaⓉ
+USC SV	4th	Closing Government	View Ballot	Sarenna McKellarⒸ , Balraj Toor , Jonathan EatonⓉ , Rintaro KodairaⓉ
+HWS B	3rd	Opening Opposition	View Ballot	Sarenna McKellarⒸ , Balraj Toor , Jonathan EatonⓉ , Rintaro KodairaⓉ
+Bard MM	4th	Closing Government	View Ballot	Ollie BradenⒸ , Isabel Birney , Erica FirouzbehiⓉ
+Fordham C	3rd	Closing Opposition	View Ballot	Ollie BradenⒸ , Isabel Birney , Erica FirouzbehiⓉ
+Debate, I Need Out! (DINO)	1st	Opening Government	View Ballot	Ollie BradenⒸ , Isabel Birney , Erica FirouzbehiⓉ
+HWS D	2nd	Opening Opposition	View Ballot	Ollie BradenⒸ , Isabel Birney , Erica FirouzbehiⓉ
+
+
+team	result	side	ballot	adjudicators
+wooden spoon survivors	2nd	Opening Government	View Ballot	Tarun RuschmeierⒸ , Brenden Han , Willie Johnson , Cleo ShawⓉ
+UBC TW	1st	Opening Opposition	View Ballot	Tarun RuschmeierⒸ , Brenden Han , Willie Johnson , Cleo ShawⓉ
+USC JW	3rd	Closing Government	View Ballot	Tarun RuschmeierⒸ , Brenden Han , Willie Johnson , Cleo ShawⓉ
+HWS B	4th	Closing Opposition	View Ballot	Tarun RuschmeierⒸ , Brenden Han , Willie Johnson , Cleo ShawⓉ
+SDOWU	3rd	Closing Government	View Ballot	Arpi YangⒸ , Stine Isak , Briana ReyesⓉ , Kitana HudgensⓉ
+Channeling our Inner Bazooka	1st	Opening Opposition	View Ballot	Arpi YangⒸ , Stine Isak , Briana ReyesⓉ , Kitana HudgensⓉ
+Croc and Ball Torture	2nd	Opening Government	View Ballot	Arpi YangⒸ , Stine Isak , Briana ReyesⓉ , Kitana HudgensⓉ
+EDS KP	4th	Closing Opposition	View Ballot	Arpi YangⒸ , Stine Isak , Briana ReyesⓉ , Kitana HudgensⓉ
+Lassies	4th	Closing Opposition	View Ballot	Humam AzizⒸ , George Macauley , Sophie Zhang , Shravani SubhedarⓉ
+USC LD	2nd	Closing Government	View Ballot	Humam AzizⒸ , George Macauley , Sophie Zhang , Shravani SubhedarⓉ
+H&amp;M Aparrel	3rd	Opening Government	View Ballot	Humam AzizⒸ , George Macauley , Sophie Zhang , Shravani SubhedarⓉ
+Debate, I Need Out! (DINO)	1st	Opening Opposition	View Ballot	Humam AzizⒸ , George Macauley , Sophie Zhang , Shravani SubhedarⓉ
+Clash Royale	2nd	Closing Government	View Ballot	Jaleelah AmmarⒸ , Kyle Cook , Valerie Pang , Grace ReubenⓉ , Jasmeet RandhawaⓉ
+Princeton Sleepy Joes	4th	Closing Opposition	View Ballot	Jaleelah AmmarⒸ , Kyle Cook , Valerie Pang , Grace ReubenⓉ , Jasmeet RandhawaⓉ
+Milei neutrality	3rd	Opening Government	View Ballot	Jaleelah AmmarⒸ , Kyle Cook , Valerie Pang , Grace ReubenⓉ , Jasmeet RandhawaⓉ
+we were going to get married	1st	Opening Opposition	View Ballot	Jaleelah AmmarⒸ , Kyle Cook , Valerie Pang , Grace ReubenⓉ , Jasmeet RandhawaⓉ
+Fordham B	3rd	Closing Opposition	View Ballot	Maria XuⒸ , Emma Nolan , Saad Khan , Vivian YeⓉ
+EMILY (and warren)	2nd	Opening Government	View Ballot	Maria XuⒸ , Emma Nolan , Saad Khan , Vivian YeⓉ
+Debatable Decisions	4th	Opening Opposition	View Ballot	Maria XuⒸ , Emma Nolan , Saad Khan , Vivian YeⓉ
+paul&#x27;s silicone oven glove	1st	Closing Government	View Ballot	Maria XuⒸ , Emma Nolan , Saad Khan , Vivian YeⓉ
+Versatile Goats	4th	Closing Government	View Ballot	Wajeeh MaazⒸ , Ollie Braden , Alice QiⓉ , Jesse McCormickⓉ
+debaters in name only (DINO)	2nd	Opening Government	View Ballot	Wajeeh MaazⒸ , Ollie Braden , Alice QiⓉ , Jesse McCormickⓉ
+Bard The Spleen Eaters	3rd	Opening Opposition	View Ballot	Wajeeh MaazⒸ , Ollie Braden , Alice QiⓉ , Jesse McCormickⓉ
+Western disproving the Oxford study	1st	Closing Opposition	View Ballot	Wajeeh MaazⒸ , Ollie Braden , Alice QiⓉ , Jesse McCormickⓉ
+Cornell D	4th	Closing Government	View Ballot	Tanay PatriⒸ , Alain Humura , Kiera Toussaint , Maisy CoffeyⓉ
+Queen&#x27;s 4	2nd	Opening Government	View Ballot	Tanay PatriⒸ , Alain Humura , Kiera Toussaint , Maisy CoffeyⓉ
+Joris Bohnson	3rd	Opening Opposition	View Ballot	Tanay PatriⒸ , Alain Humura , Kiera Toussaint , Maisy CoffeyⓉ
+Swing A	1st	Closing Opposition	View Ballot	Tanay PatriⒸ , Alain Humura , Kiera Toussaint , Maisy CoffeyⓉ
+Fracking 😍	2nd	Opening Government	View Ballot	Varun Lodaya 🐉Ⓒ , Nyx Kucharski , Jonathan EatonⓉ , Kira WaldhalmⓉ
+UoG Baddies	3rd	Closing Opposition	View Ballot	Varun Lodaya 🐉Ⓒ , Nyx Kucharski , Jonathan EatonⓉ , Kira WaldhalmⓉ
+EDS Extraordinarily Dense Squires	1st	Opening Opposition	View Ballot	Varun Lodaya 🐉Ⓒ , Nyx Kucharski , Jonathan EatonⓉ , Kira WaldhalmⓉ
+Odette 1	4th	Closing Government	View Ballot	Varun Lodaya 🐉Ⓒ , Nyx Kucharski , Jonathan EatonⓉ , Kira WaldhalmⓉ
+Fordham C	4th	Closing Government	View Ballot	Greg KwokⒸ , Balraj Toor , Desiree RigaudⓉ , Fenya Lyn WalterⓉ
+Emni	1st	Closing Opposition	View Ballot	Greg KwokⒸ , Balraj Toor , Desiree RigaudⓉ , Fenya Lyn WalterⓉ
+W	3rd	Opening Opposition	View Ballot	Greg KwokⒸ , Balraj Toor , Desiree RigaudⓉ , Fenya Lyn WalterⓉ
+i dont want to do this anymore	2nd	Opening Government	View Ballot	Greg KwokⒸ , Balraj Toor , Desiree RigaudⓉ , Fenya Lyn WalterⓉ
+Cornell C	4th	Closing Government	View Ballot	Micaela LewisⒸ , Wandy , Maya NicholsⓉ , alicja wolinskaⓉ
+Stanford LS	3rd	Opening Government	View Ballot	Micaela LewisⒸ , Wandy , Maya NicholsⓉ , alicja wolinskaⓉ
+Average Homunculus Torturers	1st	Closing Opposition	View Ballot	Micaela LewisⒸ , Wandy , Maya NicholsⓉ , alicja wolinskaⓉ
+Harvard A(llowed to go to worlds)	2nd	Opening Opposition	View Ballot	Micaela LewisⒸ , Wandy , Maya NicholsⓉ , alicja wolinskaⓉ
+Stanford TC	2nd	Opening Government	View Ballot	Audrey MelodyⒸ , Aarian Bhakoo , Erica FirouzbehiⓉ , Evelyn BaiⓉ
+Space Ninjas	4th	Closing Government	View Ballot	Audrey MelodyⒸ , Aarian Bhakoo , Erica FirouzbehiⓉ , Evelyn BaiⓉ
+BRAT	1st	Closing Opposition	View Ballot	Audrey MelodyⒸ , Aarian Bhakoo , Erica FirouzbehiⓉ , Evelyn BaiⓉ
+Carleton We Will Bribe You	3rd	Opening Opposition	View Ballot	Audrey MelodyⒸ , Aarian Bhakoo , Erica FirouzbehiⓉ , Evelyn BaiⓉ
+Ben &amp; Jerry&#x27;s	2nd	Closing Government	View Ballot	Danté Cecilio FosterdelmundoⒸ , Julia Van Damme , Giuseppe Di MassaⓉ
+Speakeasy	4th	Opening Opposition	View Ballot	Danté Cecilio FosterdelmundoⒸ , Julia Van Damme , Giuseppe Di MassaⓉ
+USC SV	1st	Closing Opposition	View Ballot	Danté Cecilio FosterdelmundoⒸ , Julia Van Damme , Giuseppe Di MassaⓉ
+HWS C	3rd	Opening Government	View Ballot	Danté Cecilio FosterdelmundoⒸ , Julia Van Damme , Giuseppe Di MassaⓉ
+Wax	4th	Closing Government	View Ballot	Navreet SidhuⒸ , David Zu , Noah Aldinger , Jerry ZhangⓉ
+UBC Verba Invicta	2nd	Opening Government	View Ballot	Navreet SidhuⒸ , David Zu , Noah Aldinger , Jerry ZhangⓉ
+moo deng and pesto	1st	Closing Opposition	View Ballot	Navreet SidhuⒸ , David Zu , Noah Aldinger , Jerry ZhangⓉ
+Waterloo B	3rd	Opening Opposition	View Ballot	Navreet SidhuⒸ , David Zu , Noah Aldinger , Jerry ZhangⓉ
+Middlebury KM	3rd	Opening Opposition	View Ballot	Simon YuⒸ , Neil Roy Choudhury , Jason ShanⓉ , Maja GrandinettiⓉ
+Princeton BB	1st	Opening Government	View Ballot	Simon YuⒸ , Neil Roy Choudhury , Jason ShanⓉ , Maja GrandinettiⓉ
+Carleton sorority girl and engineer	4th	Closing Opposition	View Ballot	Simon YuⒸ , Neil Roy Choudhury , Jason ShanⓉ , Maja GrandinettiⓉ
+The Book of Marsupials	2nd	Closing Government	View Ballot	Simon YuⒸ , Neil Roy Choudhury , Jason ShanⓉ , Maja GrandinettiⓉ
+Washedasaurus Rex	1st	Closing Government	View Ballot	Nick AbernethyⒸ , Safo Kwame Oheneba , Mary LarkinⓉ , Rachel KussickⓉ
+Chrono-Synclastic Infundibulum	2nd	Opening Opposition	View Ballot	Nick AbernethyⒸ , Safo Kwame Oheneba , Mary LarkinⓉ , Rachel KussickⓉ
+Wisconsin GP	4th	Closing Opposition	View Ballot	Nick AbernethyⒸ , Safo Kwame Oheneba , Mary LarkinⓉ , Rachel KussickⓉ
+EDS BK	3rd	Opening Government	View Ballot	Nick AbernethyⒸ , Safo Kwame Oheneba , Mary LarkinⓉ , Rachel KussickⓉ
+Falling American Male	2nd	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Hamza Aziz , Adrian Jimenez MoyaⓉ , Gage Matthew GerenⓉ
+RUN YD	4th	Closing Government	View Ballot	Tanvir ShahriarⒸ , Hamza Aziz , Adrian Jimenez MoyaⓉ , Gage Matthew GerenⓉ
+HWS A	1st	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Hamza Aziz , Adrian Jimenez MoyaⓉ , Gage Matthew GerenⓉ
+HWS D	3rd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Hamza Aziz , Adrian Jimenez MoyaⓉ , Gage Matthew GerenⓉ
+Harvard GG	1st	Closing Opposition	View Ballot	Caitlin MahⒸ , Theodore Yohalem Shouse , Siyoomie Roseisa WeeraratneⓉ
+Mostly Harmless	2nd	Opening Opposition	View Ballot	Caitlin MahⒸ , Theodore Yohalem Shouse , Siyoomie Roseisa WeeraratneⓉ
+Chief Mousers	3rd	Opening Government	View Ballot	Caitlin MahⒸ , Theodore Yohalem Shouse , Siyoomie Roseisa WeeraratneⓉ
+Timothy Dwight IV	4th	Closing Government	View Ballot	Caitlin MahⒸ , Theodore Yohalem Shouse , Siyoomie Roseisa WeeraratneⓉ
+Middlebury LS	4th	Closing Opposition	View Ballot	Reana YanⒸ , Bobo Wong , Zuzanna Godzinska , Christina HarrahⓉ , Mirabel RaphaelⓉ
+Nova + Vortex	1st	Opening Opposition	View Ballot	Reana YanⒸ , Bobo Wong , Zuzanna Godzinska , Christina HarrahⓉ , Mirabel RaphaelⓉ
+Ford F1-50 🛻	2nd	Opening Government	View Ballot	Reana YanⒸ , Bobo Wong , Zuzanna Godzinska , Christina HarrahⓉ , Mirabel RaphaelⓉ
+Bard KO	3rd	Closing Government	View Ballot	Reana YanⒸ , Bobo Wong , Zuzanna Godzinska , Christina HarrahⓉ , Mirabel RaphaelⓉ
+RUN SS	4th	Opening Government	View Ballot	Vasu KamraⒸ , Hargun Rekhi , Faadel AsfariⓉ
+charlie and tao	1st	Closing Government	View Ballot	Vasu KamraⒸ , Hargun Rekhi , Faadel AsfariⓉ
+The Noodle Dream Team	3rd	Opening Opposition	View Ballot	Vasu KamraⒸ , Hargun Rekhi , Faadel AsfariⓉ
+Grand Strategy	2nd	Closing Opposition	View Ballot	Vasu KamraⒸ , Hargun Rekhi , Faadel AsfariⓉ
+545 miles on the road	1st	Opening Opposition	View Ballot	Clarence BrontëⒸ , Brandon Zi Mo Zhang , James CampⓉ , Journey HoreisⓉ
+Cornell A	2nd	Opening Government	View Ballot	Clarence BrontëⒸ , Brandon Zi Mo Zhang , James CampⓉ , Journey HoreisⓉ
+Fordham A	4th	Closing Opposition	View Ballot	Clarence BrontëⒸ , Brandon Zi Mo Zhang , James CampⓉ , Journey HoreisⓉ
+Queen&#x27;s 3	3rd	Closing Government	View Ballot	Clarence BrontëⒸ , Brandon Zi Mo Zhang , James CampⓉ , Journey HoreisⓉ
+Middlebury CC	2nd	Opening Government	View Ballot	Omesh Dhar DwivediⒸ , Aria SainesⓉ
+Middlebury RY	3rd	Closing Opposition	View Ballot	Omesh Dhar DwivediⒸ , Aria SainesⓉ
+Open to Network	1st	Opening Opposition	View Ballot	Omesh Dhar DwivediⒸ , Aria SainesⓉ
+Odette 2	4th	Closing Government	View Ballot	Omesh Dhar DwivediⒸ , Aria SainesⓉ
+Mile	4th	Opening Government	View Ballot	Dennis SuⒸ , Ahwar Khan , Benjamin EllisⓉ , LavanyaⓉ , Rintaro KodairaⓉ
+rip 1989 limited edition theme	1st	Opening Opposition	View Ballot	Dennis SuⒸ , Ahwar Khan , Benjamin EllisⓉ , LavanyaⓉ , Rintaro KodairaⓉ
+concepts of a plan	2nd	Closing Opposition	View Ballot	Dennis SuⒸ , Ahwar Khan , Benjamin EllisⓉ , LavanyaⓉ , Rintaro KodairaⓉ
+rawdogging exams	3rd	Closing Government	View Ballot	Dennis SuⒸ , Ahwar Khan , Benjamin EllisⓉ , LavanyaⓉ , Rintaro KodairaⓉ
+Cornell B	1st	Opening Opposition	View Ballot	Sarenna McKellarⒸ , Diana Liu , William Shi , Aine CaseyⓉ , Nathaniel TesfayeⓉ
+Whimsical Penguins	2nd	Opening Government	View Ballot	Sarenna McKellarⒸ , Diana Liu , William Shi , Aine CaseyⓉ , Nathaniel TesfayeⓉ
+Wisconsin HN	4th	Closing Government	View Ballot	Sarenna McKellarⒸ , Diana Liu , William Shi , Aine CaseyⓉ , Nathaniel TesfayeⓉ
+tweaking yet locked in	3rd	Closing Opposition	View Ballot	Sarenna McKellarⒸ , Diana Liu , William Shi , Aine CaseyⓉ , Nathaniel TesfayeⓉ
+woman enjoyers	1st	Opening Opposition	View Ballot	Cameron Miranda-RadbordⒸ , Gianluca Loporto , Julian HenryⓉ
+Busted Sub	4th	Closing Government	View Ballot	Cameron Miranda-RadbordⒸ , Gianluca Loporto , Julian HenryⓉ
+EDS hhiv bottom tab champs 🔥🔥🔥	3rd	Opening Government	View Ballot	Cameron Miranda-RadbordⒸ , Gianluca Loporto , Julian HenryⓉ
+Styne is the name	2nd	Closing Opposition	View Ballot	Cameron Miranda-RadbordⒸ , Gianluca Loporto , Julian HenryⓉ
+Bard MM	3rd	Closing Opposition	View Ballot	Adam UrsenbachⒸ , Jack Zhu , McEwen Reil , Kelly RibeiroⓉ
+guess which one of us is bi	4th	Opening Government	View Ballot	Adam UrsenbachⒸ , Jack Zhu , McEwen Reil , Kelly RibeiroⓉ
+Duke RS	1st	Opening Opposition	View Ballot	Adam UrsenbachⒸ , Jack Zhu , McEwen Reil , Kelly RibeiroⓉ
+Carleton OBJECTIVELY reddit saved my life	2nd	Closing Government	View Ballot	Adam UrsenbachⒸ , Jack Zhu , McEwen Reil , Kelly RibeiroⓉ
+
+
+team	result	side	ballot	adjudicators
+RUN SS	2nd	Opening Opposition	View Ballot	Simon YuⒸ , Erica Firouzbehi , Julia Van Damme , Jesse McCormickⓉ
+Speakeasy	3rd	Closing Opposition	View Ballot	Simon YuⒸ , Erica Firouzbehi , Julia Van Damme , Jesse McCormickⓉ
+Carleton sorority girl and engineer	1st	Closing Government	View Ballot	Simon YuⒸ , Erica Firouzbehi , Julia Van Damme , Jesse McCormickⓉ
+Odette 2	4th	Opening Government	View Ballot	Simon YuⒸ , Erica Firouzbehi , Julia Van Damme , Jesse McCormickⓉ
+UBC TW	3rd	Closing Opposition	View Ballot	Kiana Saint-MacaryⒸ , Vasu Kamra , Rachel KussickⓉ
+Ford F1-50 🛻	2nd	Opening Opposition	View Ballot	Kiana Saint-MacaryⒸ , Vasu Kamra , Rachel KussickⓉ
+Princeton Sleepy Joes	4th	Opening Government	View Ballot	Kiana Saint-MacaryⒸ , Vasu Kamra , Rachel KussickⓉ
+Milei neutrality	1st	Closing Government	View Ballot	Kiana Saint-MacaryⒸ , Vasu Kamra , Rachel KussickⓉ
+Whimsical Penguins	1st	Closing Government	View Ballot	Dennis SuⒸ , Omesh Dhar Dwivedi , Dylan BallardⓉ , Mary LarkinⓉ
+Emni	2nd	Opening Opposition	View Ballot	Dennis SuⒸ , Omesh Dhar Dwivedi , Dylan BallardⓉ , Mary LarkinⓉ
+Duke RS	3rd	Opening Government	View Ballot	Dennis SuⒸ , Omesh Dhar Dwivedi , Dylan BallardⓉ , Mary LarkinⓉ
+paul&#x27;s silicone oven glove	4th	Closing Opposition	View Ballot	Dennis SuⒸ , Omesh Dhar Dwivedi , Dylan BallardⓉ , Mary LarkinⓉ
+Mostly Harmless	1st	Closing Government	View Ballot	Arpi YangⒸ , Aarian Bhakoo , Christina Harrah , Isabel Birney
+Queen&#x27;s 4	3rd	Opening Opposition	View Ballot	Arpi YangⒸ , Aarian Bhakoo , Christina Harrah , Isabel Birney
+USC SV	2nd	Opening Government	View Ballot	Arpi YangⒸ , Aarian Bhakoo , Christina Harrah , Isabel Birney
+H&amp;M Aparrel	4th	Closing Opposition	View Ballot	Arpi YangⒸ , Aarian Bhakoo , Christina Harrah , Isabel Birney
+Mile	3rd	Closing Opposition	View Ballot	Caitlin MahⒸ , Safo Kwame Oheneba , James CampⓉ , Shravani SubhedarⓉ
+Cornell C	1st	Opening Government	View Ballot	Caitlin MahⒸ , Safo Kwame Oheneba , James CampⓉ , Shravani SubhedarⓉ
+Versatile Goats	2nd	Opening Opposition	View Ballot	Caitlin MahⒸ , Safo Kwame Oheneba , James CampⓉ , Shravani SubhedarⓉ
+EDS hhiv bottom tab champs 🔥🔥🔥	4th	Closing Government	View Ballot	Caitlin MahⒸ , Safo Kwame Oheneba , James CampⓉ , Shravani SubhedarⓉ
+rip 1989 limited edition theme	4th	Closing Government	View Ballot	Jaleelah AmmarⒸ , Adam Ursenbach , Saad Khan , Julian HenryⓉ , Kelly RibeiroⓉ
+Washedasaurus Rex	1st	Closing Opposition	View Ballot	Jaleelah AmmarⒸ , Adam Ursenbach , Saad Khan , Julian HenryⓉ , Kelly RibeiroⓉ
+Average Homunculus Torturers	2nd	Opening Opposition	View Ballot	Jaleelah AmmarⒸ , Adam Ursenbach , Saad Khan , Julian HenryⓉ , Kelly RibeiroⓉ
+we were going to get married	3rd	Opening Government	View Ballot	Jaleelah AmmarⒸ , Adam Ursenbach , Saad Khan , Julian HenryⓉ , Kelly RibeiroⓉ
+Middlebury LS	4th	Opening Government	View Ballot	Nick AbernethyⒸ , Desiree Rigaud , McEwen Reil , Willie Johnson
+Stanford TC	1st	Closing Opposition	View Ballot	Nick AbernethyⒸ , Desiree Rigaud , McEwen Reil , Willie Johnson
+Fracking 😍	3rd	Opening Opposition	View Ballot	Nick AbernethyⒸ , Desiree Rigaud , McEwen Reil , Willie Johnson
+Grand Strategy	2nd	Closing Government	View Ballot	Nick AbernethyⒸ , Desiree Rigaud , McEwen Reil , Willie Johnson
+Wax	3rd	Opening Government	View Ballot	Ollie BradenⒸ , George Macauley , Gianluca Loporto , Kitana HudgensⓉ
+Bard The Spleen Eaters	2nd	Closing Government	View Ballot	Ollie BradenⒸ , George Macauley , Gianluca Loporto , Kitana HudgensⓉ
+Carleton OBJECTIVELY reddit saved my life	4th	Opening Opposition	View Ballot	Ollie BradenⒸ , George Macauley , Gianluca Loporto , Kitana HudgensⓉ
+Queen&#x27;s 3	1st	Closing Opposition	View Ballot	Ollie BradenⒸ , George Macauley , Gianluca Loporto , Kitana HudgensⓉ
+woman enjoyers	2nd	Closing Opposition	View Ballot	Emily Yinchang ShiⒸ , Stine Isak , Jerry ZhangⓉ , Jonathan EatonⓉ
+concepts of a plan	3rd	Opening Government	View Ballot	Emily Yinchang ShiⒸ , Stine Isak , Jerry ZhangⓉ , Jonathan EatonⓉ
+EDS BK	4th	Opening Opposition	View Ballot	Emily Yinchang ShiⒸ , Stine Isak , Jerry ZhangⓉ , Jonathan EatonⓉ
+Waterloo B	1st	Closing Government	View Ballot	Emily Yinchang ShiⒸ , Stine Isak , Jerry ZhangⓉ , Jonathan EatonⓉ
+Fordham C	1st	Opening Opposition	View Ballot	Micaela LewisⒸ , Ahwar Khan , Balraj Toor
+Carleton We Will Bribe You	4th	Closing Opposition	View Ballot	Micaela LewisⒸ , Ahwar Khan , Balraj Toor
+The Noodle Dream Team	2nd	Opening Government	View Ballot	Micaela LewisⒸ , Ahwar Khan , Balraj Toor
+HWS B	3rd	Closing Government	View Ballot	Micaela LewisⒸ , Ahwar Khan , Balraj Toor
+Cornell D	1st	Opening Opposition	View Ballot	Adam BanihaniⒸ , Alain Humura , Adrian Jimenez MoyaⓉ , Nathaniel TesfayeⓉ
+Middlebury CC	4th	Closing Government	View Ballot	Adam BanihaniⒸ , Alain Humura , Adrian Jimenez MoyaⓉ , Nathaniel TesfayeⓉ
+Ben &amp; Jerry&#x27;s	3rd	Opening Government	View Ballot	Adam BanihaniⒸ , Alain Humura , Adrian Jimenez MoyaⓉ , Nathaniel TesfayeⓉ
+The Book of Marsupials	2nd	Closing Opposition	View Ballot	Adam BanihaniⒸ , Alain Humura , Adrian Jimenez MoyaⓉ , Nathaniel TesfayeⓉ
+Channeling our Inner Bazooka	3rd	Closing Opposition	View Ballot	Sarenna McKellarⒸ , Isabelle Feng , Kira WaldhalmⓉ , Maya NicholsⓉ
+moo deng and pesto	4th	Opening Government	View Ballot	Sarenna McKellarⒸ , Isabelle Feng , Kira WaldhalmⓉ , Maya NicholsⓉ
+Western disproving the Oxford study	1st	Opening Opposition	View Ballot	Sarenna McKellarⒸ , Isabelle Feng , Kira WaldhalmⓉ , Maya NicholsⓉ
+Debate, I Need Out! (DINO)	2nd	Closing Government	View Ballot	Sarenna McKellarⒸ , Isabelle Feng , Kira WaldhalmⓉ , Maya NicholsⓉ
+Falling American Male	3rd	Opening Opposition	View Ballot	Audrey MelodyⒸ , William Shi , Rintaro KodairaⓉ , Vivian YeⓉ
+Wisconsin GP	2nd	Opening Government	View Ballot	Audrey MelodyⒸ , William Shi , Rintaro KodairaⓉ , Vivian YeⓉ
+Styne is the name	1st	Closing Government	View Ballot	Audrey MelodyⒸ , William Shi , Rintaro KodairaⓉ , Vivian YeⓉ
+Open to Network	4th	Closing Opposition	View Ballot	Audrey MelodyⒸ , William Shi , Rintaro KodairaⓉ , Vivian YeⓉ
+Cornell B	4th	Opening Government	View Ballot	Maria XuⒸ , Kiera Toussaint , Wajeeh Maaz , Mirabel RaphaelⓉ
+debaters in name only (DINO)	3rd	Opening Opposition	View Ballot	Maria XuⒸ , Kiera Toussaint , Wajeeh Maaz , Mirabel RaphaelⓉ
+Chrono-Synclastic Infundibulum	1st	Closing Government	View Ballot	Maria XuⒸ , Kiera Toussaint , Wajeeh Maaz , Mirabel RaphaelⓉ
+Croc and Ball Torture	2nd	Closing Opposition	View Ballot	Maria XuⒸ , Kiera Toussaint , Wajeeh Maaz , Mirabel RaphaelⓉ
+Cornell A	1st	Closing Government	View Ballot	Humam AzizⒸ , Brandon Zi Mo Zhang , Giuseppe Di MassaⓉ , Maja GrandinettiⓉ
+EDS Extraordinarily Dense Squires	4th	Opening Government	View Ballot	Humam AzizⒸ , Brandon Zi Mo Zhang , Giuseppe Di MassaⓉ , Maja GrandinettiⓉ
+rawdogging exams	2nd	Closing Opposition	View Ballot	Humam AzizⒸ , Brandon Zi Mo Zhang , Giuseppe Di MassaⓉ , Maja GrandinettiⓉ
+Bard KO	3rd	Opening Opposition	View Ballot	Humam AzizⒸ , Brandon Zi Mo Zhang , Giuseppe Di MassaⓉ , Maja GrandinettiⓉ
+Fordham A	1st	Opening Opposition	View Ballot	Bobo WongⒸ , Valerie Pang , Benjamin EllisⓉ , Jason ShanⓉ
+Space Ninjas	3rd	Opening Government	View Ballot	Bobo WongⒸ , Valerie Pang , Benjamin EllisⓉ , Jason ShanⓉ
+Busted Sub	2nd	Closing Opposition	View Ballot	Bobo WongⒸ , Valerie Pang , Benjamin EllisⓉ , Jason ShanⓉ
+HWS C	4th	Closing Government	View Ballot	Bobo WongⒸ , Valerie Pang , Benjamin EllisⓉ , Jason ShanⓉ
+Nova + Vortex	3rd	Opening Government	View Ballot	Tarun RuschmeierⒸ , Greg Kwok , Reana Yan , Journey HoreisⓉ
+Clash Royale	1st	Closing Opposition	View Ballot	Tarun RuschmeierⒸ , Greg Kwok , Reana Yan , Journey HoreisⓉ
+USC LD	4th	Opening Opposition	View Ballot	Tarun RuschmeierⒸ , Greg Kwok , Reana Yan , Journey HoreisⓉ
+Swing A	2nd	Closing Government	View Ballot	Tarun RuschmeierⒸ , Greg Kwok , Reana Yan , Journey HoreisⓉ
+Lassies	4th	Closing Government	View Ballot	Clarence BrontëⒸ , Diana Liu , Basil BobⓉ , Briana ReyesⓉ
+Chief Mousers	1st	Closing Opposition	View Ballot	Clarence BrontëⒸ , Diana Liu , Basil BobⓉ , Briana ReyesⓉ
+tweaking yet locked in	3rd	Opening Government	View Ballot	Clarence BrontëⒸ , Diana Liu , Basil BobⓉ , Briana ReyesⓉ
+i dont want to do this anymore	2nd	Opening Opposition	View Ballot	Clarence BrontëⒸ , Diana Liu , Basil BobⓉ , Briana ReyesⓉ
+Middlebury RY	2nd	Opening Opposition	View Ballot	David ZuⒸ , Emma Nolan , Faadel AsfariⓉ , Jasmeet RandhawaⓉ
+guess which one of us is bi	4th	Closing Opposition	View Ballot	David ZuⒸ , Emma Nolan , Faadel AsfariⓉ , Jasmeet RandhawaⓉ
+UoG Baddies	1st	Closing Government	View Ballot	David ZuⒸ , Emma Nolan , Faadel AsfariⓉ , Jasmeet RandhawaⓉ
+RUN YD	3rd	Opening Government	View Ballot	David ZuⒸ , Emma Nolan , Faadel AsfariⓉ , Jasmeet RandhawaⓉ
+wooden spoon survivors	4th	Closing Government	View Ballot	Crystal ZhangⒸ , Neil Roy Choudhury , Grace ReubenⓉ , Zuzanna GodzinskaⓉ
+Princeton BB	1st	Closing Opposition	View Ballot	Crystal ZhangⒸ , Neil Roy Choudhury , Grace ReubenⓉ , Zuzanna GodzinskaⓉ
+BRAT	2nd	Opening Government	View Ballot	Crystal ZhangⒸ , Neil Roy Choudhury , Grace ReubenⓉ , Zuzanna GodzinskaⓉ
+USC JW	3rd	Opening Opposition	View Ballot	Crystal ZhangⒸ , Neil Roy Choudhury , Grace ReubenⓉ , Zuzanna GodzinskaⓉ
+Fordham B	3rd	Closing Government	View Ballot	Cameron Miranda-RadbordⒸ , Theodore Yohalem Shouse , Aine CaseyⓉ , Aria SainesⓉ
+W	4th	Closing Opposition	View Ballot	Cameron Miranda-RadbordⒸ , Theodore Yohalem Shouse , Aine CaseyⓉ , Aria SainesⓉ
+Wisconsin HN	1st	Opening Government	View Ballot	Cameron Miranda-RadbordⒸ , Theodore Yohalem Shouse , Aine CaseyⓉ , Aria SainesⓉ
+Timothy Dwight IV	2nd	Opening Opposition	View Ballot	Cameron Miranda-RadbordⒸ , Theodore Yohalem Shouse , Aine CaseyⓉ , Aria SainesⓉ
+545 miles on the road	4th	Opening Government	View Ballot	Tanay PatriⒸ , Alice Qi , Wandy , Gage Matthew GerenⓉ
+SDOWU	2nd	Closing Opposition	View Ballot	Tanay PatriⒸ , Alice Qi , Wandy , Gage Matthew GerenⓉ
+EMILY (and warren)	3rd	Opening Opposition	View Ballot	Tanay PatriⒸ , Alice Qi , Wandy , Gage Matthew GerenⓉ
+Stanford LS	1st	Closing Government	View Ballot	Tanay PatriⒸ , Alice Qi , Wandy , Gage Matthew GerenⓉ
+Harvard GG	2nd	Opening Opposition	View Ballot	Xiao-ke Lu 🦭Ⓒ , Danté Cecilio Fosterdelmundo , Evelyn BaiⓉ , alicja wolinskaⓉ
+UBC Verba Invicta	3rd	Closing Government	View Ballot	Xiao-ke Lu 🦭Ⓒ , Danté Cecilio Fosterdelmundo , Evelyn BaiⓉ , alicja wolinskaⓉ
+Harvard A(llowed to go to worlds)	1st	Opening Government	View Ballot	Xiao-ke Lu 🦭Ⓒ , Danté Cecilio Fosterdelmundo , Evelyn BaiⓉ , alicja wolinskaⓉ
+HWS A	4th	Closing Opposition	View Ballot	Xiao-ke Lu 🦭Ⓒ , Danté Cecilio Fosterdelmundo , Evelyn BaiⓉ , alicja wolinskaⓉ
+Bard MM	4th	Opening Opposition	View Ballot	Varun Lodaya 🐉Ⓒ , Nyx Kucharski , LavanyaⓉ , Maisy CoffeyⓉ
+Middlebury KM	2nd	Opening Government	View Ballot	Varun Lodaya 🐉Ⓒ , Nyx Kucharski , LavanyaⓉ , Maisy CoffeyⓉ
+Debatable Decisions	1st	Closing Government	View Ballot	Varun Lodaya 🐉Ⓒ , Nyx Kucharski , LavanyaⓉ , Maisy CoffeyⓉ
+Odette 1	3rd	Closing Opposition	View Ballot	Varun Lodaya 🐉Ⓒ , Nyx Kucharski , LavanyaⓉ , Maisy CoffeyⓉ
+EDS KP	1st	Closing Government	View Ballot	Navreet SidhuⒸ , Kyle Cook , Cleo ShawⓉ , Siyoomie Roseisa WeeraratneⓉ
+charlie and tao	2nd	Opening Opposition	View Ballot	Navreet SidhuⒸ , Kyle Cook , Cleo ShawⓉ , Siyoomie Roseisa WeeraratneⓉ
+Joris Bohnson	4th	Opening Government	View Ballot	Navreet SidhuⒸ , Kyle Cook , Cleo ShawⓉ , Siyoomie Roseisa WeeraratneⓉ
+HWS D	3rd	Closing Opposition	View Ballot	Navreet SidhuⒸ , Kyle Cook , Cleo ShawⓉ , Siyoomie Roseisa WeeraratneⓉ
+
+
+team	result	side	ballot	adjudicators
+Channeling our Inner Bazooka	4th	Opening Government	View Ballot	Kiana Saint-MacaryⒸ , Julia Van Damme , Noah Aldinger , Briana ReyesⓉ
+Chrono-Synclastic Infundibulum	1st	Closing Opposition	View Ballot	Kiana Saint-MacaryⒸ , Julia Van Damme , Noah Aldinger , Briana ReyesⓉ
+Average Homunculus Torturers	3rd	Closing Government	View Ballot	Kiana Saint-MacaryⒸ , Julia Van Damme , Noah Aldinger , Briana ReyesⓉ
+Harvard A(llowed to go to worlds)	2nd	Opening Opposition	View Ballot	Kiana Saint-MacaryⒸ , Julia Van Damme , Noah Aldinger , Briana ReyesⓉ
+RUN SS	4th	Closing Opposition	View Ballot	George MacauleyⒸ , Rachel Kussick , Ashok PandeyⓉ , James CampⓉ
+W	1st	Closing Government	View Ballot	George MacauleyⒸ , Rachel Kussick , Ashok PandeyⓉ , James CampⓉ
+EDS hhiv bottom tab champs 🔥🔥🔥	2nd	Opening Opposition	View Ballot	George MacauleyⒸ , Rachel Kussick , Ashok PandeyⓉ , James CampⓉ
+HWS B	3rd	Opening Government	View Ballot	George MacauleyⒸ , Rachel Kussick , Ashok PandeyⓉ , James CampⓉ
+Cornell B	3rd	Closing Government	View Ballot	Maria XuⒸ , Adam Ursenbach , Isabelle Feng , Jesse McCormickⓉ
+Duke RS	4th	Closing Opposition	View Ballot	Maria XuⒸ , Adam Ursenbach , Isabelle Feng , Jesse McCormickⓉ
+concepts of a plan	2nd	Opening Opposition	View Ballot	Maria XuⒸ , Adam Ursenbach , Isabelle Feng , Jesse McCormickⓉ
+charlie and tao	1st	Opening Government	View Ballot	Maria XuⒸ , Adam Ursenbach , Isabelle Feng , Jesse McCormickⓉ
+Whimsical Penguins	3rd	Opening Opposition	View Ballot	Navreet SidhuⒸ , Hargun Rekhi , Reana Yan , Aria SainesⓉ , Kira WaldhalmⓉ
+Mostly Harmless	2nd	Opening Government	View Ballot	Navreet SidhuⒸ , Hargun Rekhi , Reana Yan , Aria SainesⓉ , Kira WaldhalmⓉ
+Stanford LS	1st	Closing Opposition	View Ballot	Navreet SidhuⒸ , Hargun Rekhi , Reana Yan , Aria SainesⓉ , Kira WaldhalmⓉ
+Ford F1-50 🛻	4th	Closing Government	View Ballot	Navreet SidhuⒸ , Hargun Rekhi , Reana Yan , Aria SainesⓉ , Kira WaldhalmⓉ
+Cornell C	4th	Opening Opposition	View Ballot	Ollie BradenⒸ , William Shi , Aine CaseyⓉ , Gianluca LoportoⓉ
+Falling American Male	2nd	Closing Government	View Ballot	Ollie BradenⒸ , William Shi , Aine CaseyⓉ , Gianluca LoportoⓉ
+USC LD	1st	Closing Opposition	View Ballot	Ollie BradenⒸ , William Shi , Aine CaseyⓉ , Gianluca LoportoⓉ
+rawdogging exams	3rd	Opening Government	View Ballot	Ollie BradenⒸ , William Shi , Aine CaseyⓉ , Gianluca LoportoⓉ
+woman enjoyers	1st	Opening Government	View Ballot	Adam BanihaniⒸ , Jaleelah Ammar , Faadel AsfariⓉ
+Princeton BB	4th	Opening Opposition	View Ballot	Adam BanihaniⒸ , Jaleelah Ammar , Faadel AsfariⓉ
+Chief Mousers	2nd	Closing Government	View Ballot	Adam BanihaniⒸ , Jaleelah Ammar , Faadel AsfariⓉ
+UBC Verba Invicta	3rd	Closing Opposition	View Ballot	Adam BanihaniⒸ , Jaleelah Ammar , Faadel AsfariⓉ
+Middlebury KM	3rd	Closing Opposition	View Ballot	Danté Cecilio FosterdelmundoⒸ , Alice Qi , Kelly RibeiroⓉ
+Busted Sub	2nd	Opening Government	View Ballot	Danté Cecilio FosterdelmundoⒸ , Alice Qi , Kelly RibeiroⓉ
+Princeton Sleepy Joes	1st	Closing Government	View Ballot	Danté Cecilio FosterdelmundoⒸ , Alice Qi , Kelly RibeiroⓉ
+Carleton sorority girl and engineer	4th	Opening Opposition	View Ballot	Danté Cecilio FosterdelmundoⒸ , Alice Qi , Kelly RibeiroⓉ
+rip 1989 limited edition theme	1st	Closing Opposition	View Ballot	Caitlin MahⒸ , Clarence Brontë , Tanay Patri , Jasmeet RandhawaⓉ
+Wisconsin HN	2nd	Opening Opposition	View Ballot	Caitlin MahⒸ , Clarence Brontë , Tanay Patri , Jasmeet RandhawaⓉ
+Queen&#x27;s 3	4th	Opening Government	View Ballot	Caitlin MahⒸ , Clarence Brontë , Tanay Patri , Jasmeet RandhawaⓉ
+HWS A	3rd	Closing Government	View Ballot	Caitlin MahⒸ , Clarence Brontë , Tanay Patri , Jasmeet RandhawaⓉ
+Space Ninjas	3rd	Opening Opposition	View Ballot	Greg KwokⒸ , Mary Larkin , Nathaniel TesfayeⓉ
+guess which one of us is bi	2nd	Closing Government	View Ballot	Greg KwokⒸ , Mary Larkin , Nathaniel TesfayeⓉ
+Carleton We Will Bribe You	1st	Opening Government	View Ballot	Greg KwokⒸ , Mary Larkin , Nathaniel TesfayeⓉ
+Odette 2	4th	Closing Opposition	View Ballot	Greg KwokⒸ , Mary Larkin , Nathaniel TesfayeⓉ
+wooden spoon survivors	3rd	Opening Opposition	View Ballot	Bobo WongⒸ , Fenya Lyn Walter , Shravani SubhedarⓉ
+Fracking 😍	2nd	Closing Government	View Ballot	Bobo WongⒸ , Fenya Lyn Walter , Shravani SubhedarⓉ
+USC JW	1st	Opening Government	View Ballot	Bobo WongⒸ , Fenya Lyn Walter , Shravani SubhedarⓉ
+RUN YD	4th	Closing Opposition	View Ballot	Bobo WongⒸ , Fenya Lyn Walter , Shravani SubhedarⓉ
+Cornell D	4th	Closing Opposition	View Ballot	David ZuⒸ , Isabel Birney , Cleo ShawⓉ , Jerry ZhangⓉ
+UBC TW	3rd	Opening Government	View Ballot	David ZuⒸ , Isabel Birney , Cleo ShawⓉ , Jerry ZhangⓉ
+BRAT	2nd	Opening Opposition	View Ballot	David ZuⒸ , Isabel Birney , Cleo ShawⓉ , Jerry ZhangⓉ
+H&amp;M Aparrel	1st	Closing Government	View Ballot	David ZuⒸ , Isabel Birney , Cleo ShawⓉ , Jerry ZhangⓉ
+Middlebury CC	4th	Opening Opposition	View Ballot	Cameron Miranda-RadbordⒸ , Alain Humura , Adrian Jimenez MoyaⓉ , Maya NicholsⓉ
+Middlebury LS	3rd	Closing Government	View Ballot	Cameron Miranda-RadbordⒸ , Alain Humura , Adrian Jimenez MoyaⓉ , Maya NicholsⓉ
+Lassies	1st	Opening Government	View Ballot	Cameron Miranda-RadbordⒸ , Alain Humura , Adrian Jimenez MoyaⓉ , Maya NicholsⓉ
+The Noodle Dream Team	2nd	Closing Opposition	View Ballot	Cameron Miranda-RadbordⒸ , Alain Humura , Adrian Jimenez MoyaⓉ , Maya NicholsⓉ
+Wax	4th	Opening Opposition	View Ballot	Tarun RuschmeierⒸ , Valerie Pang , Gage Matthew GerenⓉ , Julian HenryⓉ
+Fordham C	3rd	Opening Government	View Ballot	Tarun RuschmeierⒸ , Valerie Pang , Gage Matthew GerenⓉ , Julian HenryⓉ
+EMILY (and warren)	2nd	Closing Government	View Ballot	Tarun RuschmeierⒸ , Valerie Pang , Gage Matthew GerenⓉ , Julian HenryⓉ
+Versatile Goats	1st	Closing Opposition	View Ballot	Tarun RuschmeierⒸ , Valerie Pang , Gage Matthew GerenⓉ , Julian HenryⓉ
+Bard MM	1st	Opening Government	View Ballot	WandyⒸ , Zuzanna Godzinska , LavanyaⓉ , Mirabel RaphaelⓉ
+Speakeasy	3rd	Closing Opposition	View Ballot	WandyⒸ , Zuzanna Godzinska , LavanyaⓉ , Mirabel RaphaelⓉ
+Odette 1	2nd	Opening Opposition	View Ballot	WandyⒸ , Zuzanna Godzinska , LavanyaⓉ , Mirabel RaphaelⓉ
+HWS C	4th	Closing Government	View Ballot	WandyⒸ , Zuzanna Godzinska , LavanyaⓉ , Mirabel RaphaelⓉ
+Fordham B	1st	Opening Opposition	View Ballot	Saad KhanⒸ , Safo Kwame Oheneba , Christina HarrahⓉ , Grace ReubenⓉ
+Middlebury RY	2nd	Opening Government	View Ballot	Saad KhanⒸ , Safo Kwame Oheneba , Christina HarrahⓉ , Grace ReubenⓉ
+EDS Extraordinarily Dense Squires	4th	Closing Opposition	View Ballot	Saad KhanⒸ , Safo Kwame Oheneba , Christina HarrahⓉ , Grace ReubenⓉ
+Joris Bohnson	3rd	Closing Government	View Ballot	Saad KhanⒸ , Safo Kwame Oheneba , Christina HarrahⓉ , Grace ReubenⓉ
+Stanford TC	1st	Opening Opposition	View Ballot	Humam AzizⒸ , Dennis Su , Varun Lodaya 🐉 , Kitana HudgensⓉ , Vivian YeⓉ
+Bard The Spleen Eaters	2nd	Opening Government	View Ballot	Humam AzizⒸ , Dennis Su , Varun Lodaya 🐉 , Kitana HudgensⓉ , Vivian YeⓉ
+Wisconsin GP	3rd	Closing Government	View Ballot	Humam AzizⒸ , Dennis Su , Varun Lodaya 🐉 , Kitana HudgensⓉ , Vivian YeⓉ
+i dont want to do this anymore	4th	Closing Opposition	View Ballot	Humam AzizⒸ , Dennis Su , Varun Lodaya 🐉 , Kitana HudgensⓉ , Vivian YeⓉ
+Fordham A	3rd	Closing Government	View Ballot	Emily Yinchang ShiⒸ , Stine Isak , Theodore Yohalem Shouse , Maja GrandinettiⓉ
+UoG Baddies	4th	Opening Government	View Ballot	Emily Yinchang ShiⒸ , Stine Isak , Theodore Yohalem Shouse , Maja GrandinettiⓉ
+Timothy Dwight IV	1st	Closing Opposition	View Ballot	Emily Yinchang ShiⒸ , Stine Isak , Theodore Yohalem Shouse , Maja GrandinettiⓉ
+Grand Strategy	2nd	Opening Opposition	View Ballot	Emily Yinchang ShiⒸ , Stine Isak , Theodore Yohalem Shouse , Maja GrandinettiⓉ
+Mile	3rd	Opening Opposition	View Ballot	Vasu KamraⒸ , Neil Roy Choudhury , Erica FirouzbehiⓉ , Jason ShanⓉ
+Ben &amp; Jerry&#x27;s	1st	Closing Opposition	View Ballot	Vasu KamraⒸ , Neil Roy Choudhury , Erica FirouzbehiⓉ , Jason ShanⓉ
+Carleton OBJECTIVELY reddit saved my life	4th	Opening Government	View Ballot	Vasu KamraⒸ , Neil Roy Choudhury , Erica FirouzbehiⓉ , Jason ShanⓉ
+Open to Network	2nd	Closing Government	View Ballot	Vasu KamraⒸ , Neil Roy Choudhury , Erica FirouzbehiⓉ , Jason ShanⓉ
+545 miles on the road	1st	Opening Government	View Ballot	Omesh Dhar DwivediⒸ , Kyle Cook , Emma NolanⓉ , Rintaro KodairaⓉ
+paul&#x27;s silicone oven glove	4th	Opening Opposition	View Ballot	Omesh Dhar DwivediⒸ , Kyle Cook , Emma NolanⓉ , Rintaro KodairaⓉ
+tweaking yet locked in	2nd	Closing Government	View Ballot	Omesh Dhar DwivediⒸ , Kyle Cook , Emma NolanⓉ , Rintaro KodairaⓉ
+HWS D	3rd	Closing Opposition	View Ballot	Omesh Dhar DwivediⒸ , Kyle Cook , Emma NolanⓉ , Rintaro KodairaⓉ
+Harvard GG	2nd	Closing Government	View Ballot	Arpi YangⒸ , Willie Johnson , Jonathan EatonⓉ , Journey HoreisⓉ
+Waterloo B	3rd	Opening Government	View Ballot	Arpi YangⒸ , Willie Johnson , Jonathan EatonⓉ , Journey HoreisⓉ
+we were going to get married	1st	Closing Opposition	View Ballot	Arpi YangⒸ , Willie Johnson , Jonathan EatonⓉ , Journey HoreisⓉ
+Swing A	4th	Opening Opposition	View Ballot	Arpi YangⒸ , Willie Johnson , Jonathan EatonⓉ , Journey HoreisⓉ
+Cornell A	2nd	Opening Opposition	View Ballot	Allie McGowanⒸ , Desiree Rigaud , Diana Liu , Siyoomie Roseisa WeeraratneⓉ
+SDOWU	1st	Opening Government	View Ballot	Allie McGowanⒸ , Desiree Rigaud , Diana Liu , Siyoomie Roseisa WeeraratneⓉ
+debaters in name only (DINO)	3rd	Closing Opposition	View Ballot	Allie McGowanⒸ , Desiree Rigaud , Diana Liu , Siyoomie Roseisa WeeraratneⓉ
+Queen&#x27;s 4	4th	Closing Government	View Ballot	Allie McGowanⒸ , Desiree Rigaud , Diana Liu , Siyoomie Roseisa WeeraratneⓉ
+Debatable Decisions	3rd	Opening Government	View Ballot	Micaela LewisⒸ , Kiera Toussaint , Evelyn BaiⓉ , alicja wolinskaⓉ
+EDS BK	2nd	Closing Government	View Ballot	Micaela LewisⒸ , Kiera Toussaint , Evelyn BaiⓉ , alicja wolinskaⓉ
+The Book of Marsupials	1st	Opening Opposition	View Ballot	Micaela LewisⒸ , Kiera Toussaint , Evelyn BaiⓉ , alicja wolinskaⓉ
+Bard KO	4th	Closing Opposition	View Ballot	Micaela LewisⒸ , Kiera Toussaint , Evelyn BaiⓉ , alicja wolinskaⓉ
+Croc and Ball Torture	1st	Closing Government	View Ballot	Audrey MelodyⒸ , Aarian Bhakoo , Wajeeh Maaz , Benjamin EllisⓉ
+EDS KP	3rd	Opening Government	View Ballot	Audrey MelodyⒸ , Aarian Bhakoo , Wajeeh Maaz , Benjamin EllisⓉ
+Styne is the name	4th	Opening Opposition	View Ballot	Audrey MelodyⒸ , Aarian Bhakoo , Wajeeh Maaz , Benjamin EllisⓉ
+Milei neutrality	2nd	Closing Opposition	View Ballot	Audrey MelodyⒸ , Aarian Bhakoo , Wajeeh Maaz , Benjamin EllisⓉ
+Washedasaurus Rex	4th	Opening Opposition	View Ballot	Nick AbernethyⒸ , Simon Yu , Xiao-ke Lu 🦭 , Maisy CoffeyⓉ
+Clash Royale	3rd	Opening Government	View Ballot	Nick AbernethyⒸ , Simon Yu , Xiao-ke Lu 🦭 , Maisy CoffeyⓉ
+Western disproving the Oxford study	2nd	Closing Government	View Ballot	Nick AbernethyⒸ , Simon Yu , Xiao-ke Lu 🦭 , Maisy CoffeyⓉ
+Debate, I Need Out! (DINO)	1st	Closing Opposition	View Ballot	Nick AbernethyⒸ , Simon Yu , Xiao-ke Lu 🦭 , Maisy CoffeyⓉ
+Nova + Vortex	4th	Closing Opposition	View Ballot	Sarenna McKellarⒸ , Balraj Toor , Nyx Kucharski , Basil BobⓉ , Giuseppe Di MassaⓉ
+Emni	3rd	Opening Government	View Ballot	Sarenna McKellarⒸ , Balraj Toor , Nyx Kucharski , Basil BobⓉ , Giuseppe Di MassaⓉ
+moo deng and pesto	2nd	Closing Government	View Ballot	Sarenna McKellarⒸ , Balraj Toor , Nyx Kucharski , Basil BobⓉ , Giuseppe Di MassaⓉ
+USC SV	1st	Opening Opposition	View Ballot	Sarenna McKellarⒸ , Balraj Toor , Nyx Kucharski , Basil BobⓉ , Giuseppe Di MassaⓉ
+
+
+team	result	side	ballot	adjudicators
+Whimsical Penguins	4th	Opening Opposition	View Ballot	Sarenna McKellarⒸ , Dennis Su , Kyle Cook , Grace ReubenⓉ
+Stanford TC	3rd	Opening Government	View Ballot	Sarenna McKellarⒸ , Dennis Su , Kyle Cook , Grace ReubenⓉ
+moo deng and pesto	1st	Closing Opposition	View Ballot	Sarenna McKellarⒸ , Dennis Su , Kyle Cook , Grace ReubenⓉ
+USC SV	2nd	Closing Government	View Ballot	Sarenna McKellarⒸ , Dennis Su , Kyle Cook , Grace ReubenⓉ
+Ben &amp; Jerry&#x27;s	4th	Closing Government	View Ballot	Micaela LewisⒸ , Hargun Rekhi , LavanyaⓉ , Siyoomie Roseisa WeeraratneⓉ
+Falling American Male	1st	Opening Government	View Ballot	Micaela LewisⒸ , Hargun Rekhi , LavanyaⓉ , Siyoomie Roseisa WeeraratneⓉ
+rawdogging exams	2nd	Closing Opposition	View Ballot	Micaela LewisⒸ , Hargun Rekhi , LavanyaⓉ , Siyoomie Roseisa WeeraratneⓉ
+Queen&#x27;s 3	3rd	Opening Opposition	View Ballot	Micaela LewisⒸ , Hargun Rekhi , LavanyaⓉ , Siyoomie Roseisa WeeraratneⓉ
+Chrono-Synclastic Infundibulum	2nd	Opening Government	View Ballot	Caitlin MahⒸ , Clarence Brontë , Jaleelah Ammar , Gage Matthew GerenⓉ
+we were going to get married	1st	Closing Government	View Ballot	Caitlin MahⒸ , Clarence Brontë , Jaleelah Ammar , Gage Matthew GerenⓉ
+Western disproving the Oxford study	4th	Closing Opposition	View Ballot	Caitlin MahⒸ , Clarence Brontë , Jaleelah Ammar , Gage Matthew GerenⓉ
+Debate, I Need Out! (DINO)	3rd	Opening Opposition	View Ballot	Caitlin MahⒸ , Clarence Brontë , Jaleelah Ammar , Gage Matthew GerenⓉ
+Fordham A	4th	Opening Opposition	View Ballot	Nick AbernethyⒸ , McEwen Reil , Cleo ShawⓉ , Jason ShanⓉ
+Fracking 😍	2nd	Closing Opposition	View Ballot	Nick AbernethyⒸ , McEwen Reil , Cleo ShawⓉ , Jason ShanⓉ
+Open to Network	3rd	Opening Government	View Ballot	Nick AbernethyⒸ , McEwen Reil , Cleo ShawⓉ , Jason ShanⓉ
+Bard KO	1st	Closing Government	View Ballot	Nick AbernethyⒸ , McEwen Reil , Cleo ShawⓉ , Jason ShanⓉ
+Wax	3rd	Opening Opposition	View Ballot	WandyⒸ , Isabel Birney , Emma NolanⓉ , Kira WaldhalmⓉ
+UoG Baddies	4th	Opening Government	View Ballot	WandyⒸ , Isabel Birney , Emma NolanⓉ , Kira WaldhalmⓉ
+paul&#x27;s silicone oven glove	2nd	Closing Opposition	View Ballot	WandyⒸ , Isabel Birney , Emma NolanⓉ , Kira WaldhalmⓉ
+EDS hhiv bottom tab champs 🔥🔥🔥	1st	Closing Government	View Ballot	WandyⒸ , Isabel Birney , Emma NolanⓉ , Kira WaldhalmⓉ
+Middlebury LS	1st	Closing Opposition	View Ballot	Valerie PangⒸ , Isabelle Feng , Kelly RibeiroⓉ , Rintaro KodairaⓉ
+Odette 1	3rd	Opening Opposition	View Ballot	Valerie PangⒸ , Isabelle Feng , Kelly RibeiroⓉ , Rintaro KodairaⓉ
+RUN YD	4th	Closing Government	View Ballot	Valerie PangⒸ , Isabelle Feng , Kelly RibeiroⓉ , Rintaro KodairaⓉ
+HWS B	2nd	Opening Government	View Ballot	Valerie PangⒸ , Isabelle Feng , Kelly RibeiroⓉ , Rintaro KodairaⓉ
+RUN SS	3rd	Opening Government	View Ballot	Brandon Zi Mo ZhangⒸ , Sophie Zhang , Jesse McCormickⓉ , Rachel KussickⓉ
+Middlebury CC	4th	Closing Opposition	View Ballot	Brandon Zi Mo ZhangⒸ , Sophie Zhang , Jesse McCormickⓉ , Rachel KussickⓉ
+HWS C	1st	Opening Opposition	View Ballot	Brandon Zi Mo ZhangⒸ , Sophie Zhang , Jesse McCormickⓉ , Rachel KussickⓉ
+Swing B	2nd	Closing Government	View Ballot	Brandon Zi Mo ZhangⒸ , Sophie Zhang , Jesse McCormickⓉ , Rachel KussickⓉ
+Stanford LS	3rd	Closing Opposition	View Ballot	Arpi YangⒸ , Kiera Toussaint , Nyx Kucharski , Maja GrandinettiⓉ , Vivian YeⓉ
+Croc and Ball Torture	1st	Opening Government	View Ballot	Arpi YangⒸ , Kiera Toussaint , Nyx Kucharski , Maja GrandinettiⓉ , Vivian YeⓉ
+Harvard A(llowed to go to worlds)	4th	Closing Government	View Ballot	Arpi YangⒸ , Kiera Toussaint , Nyx Kucharski , Maja GrandinettiⓉ , Vivian YeⓉ
+Milei neutrality	2nd	Opening Opposition	View Ballot	Arpi YangⒸ , Kiera Toussaint , Nyx Kucharski , Maja GrandinettiⓉ , Vivian YeⓉ
+Bard The Spleen Eaters	2nd	Closing Government	View Ballot	Tanay PatriⒸ , David Zu , Reana Yan , Jasmeet RandhawaⓉ
+EDS KP	1st	Opening Government	View Ballot	Tanay PatriⒸ , David Zu , Reana Yan , Jasmeet RandhawaⓉ
+concepts of a plan	4th	Opening Opposition	View Ballot	Tanay PatriⒸ , David Zu , Reana Yan , Jasmeet RandhawaⓉ
+The Book of Marsupials	3rd	Closing Opposition	View Ballot	Tanay PatriⒸ , David Zu , Reana Yan , Jasmeet RandhawaⓉ
+Cornell A	2nd	Closing Government	View Ballot	Maria XuⒸ , Danté Cecilio Fosterdelmundo , Safo Kwame Oheneba , James CampⓉ
+Channeling our Inner Bazooka	1st	Opening Government	View Ballot	Maria XuⒸ , Danté Cecilio Fosterdelmundo , Safo Kwame Oheneba , James CampⓉ
+Chief Mousers	3rd	Closing Opposition	View Ballot	Maria XuⒸ , Danté Cecilio Fosterdelmundo , Safo Kwame Oheneba , James CampⓉ
+Timothy Dwight IV	4th	Opening Opposition	View Ballot	Maria XuⒸ , Danté Cecilio Fosterdelmundo , Safo Kwame Oheneba , James CampⓉ
+rip 1989 limited edition theme	2nd	Closing Opposition	View Ballot	Crystal ZhangⒸ , Stine Isak , Wajeeh Maaz , Basil BobⓉ
+BRAT	1st	Opening Government	View Ballot	Crystal ZhangⒸ , Stine Isak , Wajeeh Maaz , Basil BobⓉ
+charlie and tao	3rd	Opening Opposition	View Ballot	Crystal ZhangⒸ , Stine Isak , Wajeeh Maaz , Basil BobⓉ
+USC LD	4th	Closing Government	View Ballot	Crystal ZhangⒸ , Stine Isak , Wajeeh Maaz , Basil BobⓉ
+Harvard GG	3rd	Closing Government	View Ballot	Allie McGowanⒸ , Saad Khan , Maisy CoffeyⓉ
+SDOWU	2nd	Opening Opposition	View Ballot	Allie McGowanⒸ , Saad Khan , Maisy CoffeyⓉ
+woman enjoyers	4th	Closing Opposition	View Ballot	Allie McGowanⒸ , Saad Khan , Maisy CoffeyⓉ
+Clash Royale	1st	Opening Government	View Ballot	Allie McGowanⒸ , Saad Khan , Maisy CoffeyⓉ
+Princeton BB	2nd	Opening Opposition	View Ballot	Humam AzizⒸ , Vasu Kamra , Christina HarrahⓉ
+Princeton Sleepy Joes	4th	Opening Government	View Ballot	Humam AzizⒸ , Vasu Kamra , Christina HarrahⓉ
+Styne is the name	3rd	Closing Opposition	View Ballot	Humam AzizⒸ , Vasu Kamra , Christina HarrahⓉ
+Grand Strategy	1st	Closing Government	View Ballot	Humam AzizⒸ , Vasu Kamra , Christina HarrahⓉ
+Space Ninjas	3rd	Closing Opposition	View Ballot	Alice QiⒸ , Neil Roy Choudhury , Zuzanna Godzinska , Evelyn BaiⓉ , Maya NicholsⓉ
+Speakeasy	4th	Opening Government	View Ballot	Alice QiⒸ , Neil Roy Choudhury , Zuzanna Godzinska , Evelyn BaiⓉ , Maya NicholsⓉ
+Carleton sorority girl and engineer	2nd	Closing Government	View Ballot	Alice QiⒸ , Neil Roy Choudhury , Zuzanna Godzinska , Evelyn BaiⓉ , Maya NicholsⓉ
+EDS Extraordinarily Dense Squires	1st	Opening Opposition	View Ballot	Alice QiⒸ , Neil Roy Choudhury , Zuzanna Godzinska , Evelyn BaiⓉ , Maya NicholsⓉ
+EMILY (and warren)	1st	Opening Government	View Ballot	Greg KwokⒸ , Balraj Toor , Aria SainesⓉ
+USC JW	2nd	Closing Government	View Ballot	Greg KwokⒸ , Balraj Toor , Aria SainesⓉ
+tweaking yet locked in	3rd	Opening Opposition	View Ballot	Greg KwokⒸ , Balraj Toor , Aria SainesⓉ
+HWS A	4th	Closing Opposition	View Ballot	Greg KwokⒸ , Balraj Toor , Aria SainesⓉ
+Bard MM	1st	Closing Opposition	View Ballot	Bobo WongⒸ , Diana Liu , Fenya Lyn Walter , Gianluca LoportoⓉ
+guess which one of us is bi	4th	Opening Opposition	View Ballot	Bobo WongⒸ , Diana Liu , Fenya Lyn Walter , Gianluca LoportoⓉ
+Carleton We Will Bribe You	2nd	Closing Government	View Ballot	Bobo WongⒸ , Diana Liu , Fenya Lyn Walter , Gianluca LoportoⓉ
+Carleton OBJECTIVELY reddit saved my life	3rd	Opening Government	View Ballot	Bobo WongⒸ , Diana Liu , Fenya Lyn Walter , Gianluca LoportoⓉ
+Cornell C	3rd	Closing Opposition	View Ballot	Simon YuⒸ , Alain Humura , Nathaniel TesfayeⓉ , alicja wolinskaⓉ
+Debatable Decisions	4th	Opening Opposition	View Ballot	Simon YuⒸ , Alain Humura , Nathaniel TesfayeⓉ , alicja wolinskaⓉ
+Busted Sub	1st	Opening Government	View Ballot	Simon YuⒸ , Alain Humura , Nathaniel TesfayeⓉ , alicja wolinskaⓉ
+Duke RS	2nd	Closing Government	View Ballot	Simon YuⒸ , Alain Humura , Nathaniel TesfayeⓉ , alicja wolinskaⓉ
+545 miles on the road	3rd	Closing Government	View Ballot	Ollie BradenⒸ , Navreet Sidhu , Theodore Yohalem Shouse , Benjamin EllisⓉ
+Emni	1st	Closing Opposition	View Ballot	Ollie BradenⒸ , Navreet Sidhu , Theodore Yohalem Shouse , Benjamin EllisⓉ
+debaters in name only (DINO)	2nd	Opening Opposition	View Ballot	Ollie BradenⒸ , Navreet Sidhu , Theodore Yohalem Shouse , Benjamin EllisⓉ
+Wisconsin HN	4th	Opening Government	View Ballot	Ollie BradenⒸ , Navreet Sidhu , Theodore Yohalem Shouse , Benjamin EllisⓉ
+Fordham B	1st	Closing Opposition	View Ballot	Audrey MelodyⒸ , Mary Larkin , Erica FirouzbehiⓉ , Willie JohnsonⓉ
+UBC TW	3rd	Opening Government	View Ballot	Audrey MelodyⒸ , Mary Larkin , Erica FirouzbehiⓉ , Willie JohnsonⓉ
+Ford F1-50 🛻	2nd	Opening Opposition	View Ballot	Audrey MelodyⒸ , Mary Larkin , Erica FirouzbehiⓉ , Willie JohnsonⓉ
+Wisconsin GP	4th	Closing Government	View Ballot	Audrey MelodyⒸ , Mary Larkin , Erica FirouzbehiⓉ , Willie JohnsonⓉ
+Cornell D	3rd	Opening Government	View Ballot	Adam BanihaniⒸ , Mirabel Raphael , Giuseppe Di MassaⓉ , Kitana HudgensⓉ
+Queen&#x27;s 4	2nd	Opening Opposition	View Ballot	Adam BanihaniⒸ , Mirabel Raphael , Giuseppe Di MassaⓉ , Kitana HudgensⓉ
+i dont want to do this anymore	1st	Closing Opposition	View Ballot	Adam BanihaniⒸ , Mirabel Raphael , Giuseppe Di MassaⓉ , Kitana HudgensⓉ
+HWS D	4th	Closing Government	View Ballot	Adam BanihaniⒸ , Mirabel Raphael , Giuseppe Di MassaⓉ , Kitana HudgensⓉ
+Cornell B	3rd	Closing Government	View Ballot	Omesh Dhar DwivediⒸ , Desiree Rigaud , Jonathan Eaton , Shravani SubhedarⓉ
+Lassies	4th	Opening Government	View Ballot	Omesh Dhar DwivediⒸ , Desiree Rigaud , Jonathan Eaton , Shravani SubhedarⓉ
+Nova + Vortex	1st	Opening Opposition	View Ballot	Omesh Dhar DwivediⒸ , Desiree Rigaud , Jonathan Eaton , Shravani SubhedarⓉ
+EDS BK	2nd	Closing Opposition	View Ballot	Omesh Dhar DwivediⒸ , Desiree Rigaud , Jonathan Eaton , Shravani SubhedarⓉ
+Mile	3rd	Closing Government	View Ballot	Adam UrsenbachⒸ , Julia Van Damme , Briana ReyesⓉ , Julian HenryⓉ
+wooden spoon survivors	1st	Opening Government	View Ballot	Adam UrsenbachⒸ , Julia Van Damme , Briana ReyesⓉ , Julian HenryⓉ
+Middlebury KM	2nd	Closing Opposition	View Ballot	Adam UrsenbachⒸ , Julia Van Damme , Briana ReyesⓉ , Julian HenryⓉ
+Joris Bohnson	4th	Opening Opposition	View Ballot	Adam UrsenbachⒸ , Julia Van Damme , Briana ReyesⓉ , Julian HenryⓉ
+Fordham C	2nd	Opening Opposition	View Ballot	Tarun RuschmeierⒸ , George Macauley , Faadel AsfariⓉ , Journey HoreisⓉ
+Middlebury RY	4th	Closing Government	View Ballot	Tarun RuschmeierⒸ , George Macauley , Faadel AsfariⓉ , Journey HoreisⓉ
+W	1st	Opening Government	View Ballot	Tarun RuschmeierⒸ , George Macauley , Faadel AsfariⓉ , Journey HoreisⓉ
+The Noodle Dream Team	3rd	Closing Opposition	View Ballot	Tarun RuschmeierⒸ , George Macauley , Faadel AsfariⓉ , Journey HoreisⓉ
+Versatile Goats	1st	Closing Opposition	View Ballot	Emily Yinchang ShiⒸ , Noah Aldinger , Xiao-ke Lu 🦭 , Adrian Jimenez MoyaⓉ , Aine CaseyⓉ
+UBC Verba Invicta	2nd	Opening Opposition	View Ballot	Emily Yinchang ShiⒸ , Noah Aldinger , Xiao-ke Lu 🦭 , Adrian Jimenez MoyaⓉ , Aine CaseyⓉ
+H&amp;M Aparrel	3rd	Opening Government	View Ballot	Emily Yinchang ShiⒸ , Noah Aldinger , Xiao-ke Lu 🦭 , Adrian Jimenez MoyaⓉ , Aine CaseyⓉ
+Swing A	4th	Closing Government	View Ballot	Emily Yinchang ShiⒸ , Noah Aldinger , Xiao-ke Lu 🦭 , Adrian Jimenez MoyaⓉ , Aine CaseyⓉ
+Washedasaurus Rex	1st	Opening Opposition	View Ballot	Kiana Saint-MacaryⒸ , Aarian Bhakoo , Varun Lodaya 🐉 , Jerry ZhangⓉ
+Mostly Harmless	2nd	Closing Opposition	View Ballot	Kiana Saint-MacaryⒸ , Aarian Bhakoo , Varun Lodaya 🐉 , Jerry ZhangⓉ
+Average Homunculus Torturers	3rd	Opening Government	View Ballot	Kiana Saint-MacaryⒸ , Aarian Bhakoo , Varun Lodaya 🐉 , Jerry ZhangⓉ
+Waterloo B	4th	Closing Government	View Ballot	Kiana Saint-MacaryⒸ , Aarian Bhakoo , Varun Lodaya 🐉 , Jerry ZhangⓉ
+
+
+team	result	side	adjudicators
+Cornell A	eliminated	Opening Opposition	Emily Yinchang ShiⒸ , Kyle Cook , Tanay Patri
+Stanford LS	advancing	Closing Opposition	Emily Yinchang ShiⒸ , Kyle Cook , Tanay Patri
+Milei neutrality	advancing	Opening Government	Emily Yinchang ShiⒸ , Kyle Cook , Tanay Patri
+we were going to get married	eliminated	Closing Government	Emily Yinchang ShiⒸ , Kyle Cook , Tanay Patri
+Harvard GG	eliminated	Closing Government	Crystal ZhangⒸ , Danté Cecilio Fosterdelmundo , Xiao-ke Lu 🦭
+SDOWU	eliminated	Closing Opposition	Crystal ZhangⒸ , Danté Cecilio Fosterdelmundo , Xiao-ke Lu 🦭
+Washedasaurus Rex	advancing	Opening Government	Crystal ZhangⒸ , Danté Cecilio Fosterdelmundo , Xiao-ke Lu 🦭
+Clash Royale	advancing	Opening Opposition	Crystal ZhangⒸ , Danté Cecilio Fosterdelmundo , Xiao-ke Lu 🦭
+Channeling our Inner Bazooka	eliminated	Opening Government	Caitlin MahⒸ , Omesh Dhar Dwivedi , Sarenna McKellar
+Mostly Harmless	eliminated	Closing Government	Caitlin MahⒸ , Omesh Dhar Dwivedi , Sarenna McKellar
+Chrono-Synclastic Infundibulum	advancing	Opening Opposition	Caitlin MahⒸ , Omesh Dhar Dwivedi , Sarenna McKellar
+Western disproving the Oxford study	advancing	Closing Opposition	Caitlin MahⒸ , Omesh Dhar Dwivedi , Sarenna McKellar
+Croc and Ball Torture	advancing	Opening Opposition	Tarun RuschmeierⒸ , Arpi Yang , Greg Kwok
+Harvard A(llowed to go to worlds)	eliminated	Opening Government	Tarun RuschmeierⒸ , Arpi Yang , Greg Kwok
+moo deng and pesto	advancing	Closing Government	Tarun RuschmeierⒸ , Arpi Yang , Greg Kwok
+Debate, I Need Out! (DINO)	eliminated	Closing Opposition	Tarun RuschmeierⒸ , Arpi Yang , Greg Kwok
+
+
+team	result	side	adjudicators
+Washedasaurus Rex	eliminated	Opening Government	Caitlin MahⒸ , Emily Yinchang Shi , Maria Xu , Tanay Patri , Tarun Ruschmeier
+Clash Royale	advancing	Closing Opposition	Caitlin MahⒸ , Emily Yinchang Shi , Maria Xu , Tanay Patri , Tarun Ruschmeier
+Chrono-Synclastic Infundibulum	advancing	Opening Opposition	Caitlin MahⒸ , Emily Yinchang Shi , Maria Xu , Tanay Patri , Tarun Ruschmeier
+Western disproving the Oxford study	eliminated	Closing Government	Caitlin MahⒸ , Emily Yinchang Shi , Maria Xu , Tanay Patri , Tarun Ruschmeier
+Stanford LS	advancing	Opening Government	Arpi YangⒸ , Bobo Wong , Jaleelah Ammar , Navreet Sidhu , Ollie Braden
+Croc and Ball Torture	advancing	Closing Opposition	Arpi YangⒸ , Bobo Wong , Jaleelah Ammar , Navreet Sidhu , Ollie Braden
+moo deng and pesto	eliminated	Opening Opposition	Arpi YangⒸ , Bobo Wong , Jaleelah Ammar , Navreet Sidhu , Ollie Braden
+Milei neutrality	eliminated	Closing Government	Arpi YangⒸ , Bobo Wong , Jaleelah Ammar , Navreet Sidhu , Ollie Braden
+
+
+team	result	side	adjudicators
+Stanford LS	eliminated	Closing Government	Tanay PatriⒸ , Arpi Yang , Jaleelah Ammar , Maria Xu , Tarun Ruschmeier
+Clash Royale	eliminated	Opening Opposition	Tanay PatriⒸ , Arpi Yang , Jaleelah Ammar , Maria Xu , Tarun Ruschmeier
+Chrono-Synclastic Infundibulum	eliminated	Closing Opposition	Tanay PatriⒸ , Arpi Yang , Jaleelah Ammar , Maria Xu , Tarun Ruschmeier
+Croc and Ball Torture	advancing	Opening Government	Tanay PatriⒸ , Arpi Yang , Jaleelah Ammar , Maria Xu , Tarun Ruschmeier
+
+
+team	result	side	adjudicators
+Bard MM	advancing	Opening Opposition	Maria XuⒸ , Audrey Melody , David Zu
+Princeton Sleepy Joes	advancing	Closing Opposition	Maria XuⒸ , Audrey Melody , David Zu
+USC JW	eliminated	Opening Government	Maria XuⒸ , Audrey Melody , David Zu
+EDS BK	eliminated	Closing Government	Maria XuⒸ , Audrey Melody , David Zu
+Cornell D	eliminated	Opening Government	Ollie BradenⒸ , Clarence Brontë , Varun Lodaya 🐉
+UBC TW	advancing	Closing Opposition	Ollie BradenⒸ , Clarence Brontë , Varun Lodaya 🐉
+Duke RS	advancing	Opening Opposition	Ollie BradenⒸ , Clarence Brontë , Varun Lodaya 🐉
+rawdogging exams	eliminated	Closing Government	Ollie BradenⒸ , Clarence Brontë , Varun Lodaya 🐉
+
+
+team	result	side	adjudicators
+Bard MM	eliminated	Closing Government	Nick AbernethyⒸ , Dennis Su , Humam Aziz , Micaela Lewis , Noah Aldinger , Simon Yu , Vasu Kamra
+UBC TW	eliminated	Closing Opposition	Nick AbernethyⒸ , Dennis Su , Humam Aziz , Micaela Lewis , Noah Aldinger , Simon Yu , Vasu Kamra
+Princeton Sleepy Joes	eliminated	Opening Opposition	Nick AbernethyⒸ , Dennis Su , Humam Aziz , Micaela Lewis , Noah Aldinger , Simon Yu , Vasu Kamra
+Duke RS	advancing	Opening Government	Nick AbernethyⒸ , Dennis Su , Humam Aziz , Micaela Lewis , Noah Aldinger , Simon Yu , Vasu Kamra
+

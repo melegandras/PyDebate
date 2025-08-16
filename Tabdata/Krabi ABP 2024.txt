@@ -1,0 +1,820 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	R6	Pts	Spk	1sts	2nds	PU
+1	NUS Tay &amp; Ang		1st	1st	1st	1st	1st	1st	18	979	6	0	0
+2	BINUS Ongkojoyo &amp; Haqqani		1st	2nd	1st	2nd	2nd	2nd	14	965	2	4	1
+3	Tokyo Tsuchiya &amp; Yoshida	EFL	3rd	1st	2nd	2nd	1st	1st	14	961	3	2	1
+4	UPD Alcañeses &amp; Legaspi		1st	1st	3rd	3rd	2nd	1st	13	964	3	1	2
+5	IGNOU Chadha &amp; Chawla		1st	1st	2nd	2nd	3rd	2nd	13	958	2	3	3
+6	NTU Soh &amp; Ha		2nd	1st	3rd	1st	1st	3rd	13	957	3	1	1
+7	De La Salle Haduca &amp; David		2nd	1st	4th	1st	2nd	1st	13	948	3	2	1
+8	IIUM WS &amp; Zaharim		2nd	4th	1st	1st	1st	2nd	13	942	3	2	0
+9	ATENEO Ypil &amp; Reyes		2nd	2nd	3rd	2nd	1st	1st	13	936	2	3	0
+10	NUS Dillon &amp; Chai		1st	1st	1st	4th	4th	1st	12	965	4	0	1
+11	NTU Neo &amp; Wong		2nd	1st	4th	1st	1st	3rd	12	965	3	1	2
+12	NTU Lim &amp; Bajrai		2nd	4th	1st	1st	3rd	1st	12	959	3	1	0
+13	ATENEO Fong &amp; Go		1st	2nd	3rd	1st	1st	4th	12	958	3	1	4
+14	NUS Tay &amp; Wee		2nd	1st	2nd	1st	2nd	4th	12	950	2	3	1
+15	IGNOU Sayiram &amp; Das		1st	3rd	1st	3rd	2nd	2nd	12	948	2	2	0
+16	ATENEO Largo &amp; Tiangco		3rd	1st	1st	1st	4th	2nd	12	947	3	1	2
+17	ATENEO Neri &amp; Tango		1st	3rd	2nd	1st	4th	2nd	11	953	2	2	0
+18	Malaya Ahsan &amp; Pu		3rd	1st	4th	3rd	1st	1st	11	945	3	0	2
+19	UPD Castro &amp; Bengzon		1st	2nd	2nd	2nd	3rd	3rd	11	945	1	3	2
+20	NTU Qiu &amp; Huang		1st	3rd	2nd	4th	1st	2nd	11	942	2	2	0
+21	NUS Lee &amp; Yeo		2nd	3rd	1st	2nd	4th	1st	11	940	2	2	0
+22	IGNOU Patra &amp; Jha		2nd	2nd	3rd	2nd	1st	3rd	11	934	1	3	1
+23	NSU Khan Chowdhury &amp; Safin		2nd	3rd	2nd	2nd	3rd	1st	11	927	1	3	0
+24	Malaya Pillay &amp; Karttikeyn		1st	1st	2nd	4th	3rd	3rd	10	951	2	1	1
+25	De La Salle Lopez &amp; Lababidi		2nd	1st	1st	3rd	3rd	4th	10	949	2	1	1
+26	UPD Mencias &amp; Cual		1st	3rd	4th	1st	4th	1st	10	948	3	0	1
+27	PKU Yu &amp; Wang	EFL	2nd	3rd	4th	1st	1st	3rd	10	944	2	1	0
+28	ATENEO Ventura &amp; Fernandez		1st	4th	1st	2nd	2nd	4th	10	943	2	2	1
+29	ATENEO Bejarin &amp; Salazar		2nd	3rd	1st	3rd	3rd	2nd	10	942	1	2	2
+30	BFSU Xu &amp; Tang	EFL	3rd	1st	3rd	2nd	1st	4th	10	938	2	1	0
+31	IITB Chakraborty &amp; Khona		3rd	1st	3rd	3rd	2nd	2nd	10	935	1	2	0
+32	Tokyo Kajitani &amp; Saito	EFL	1st	2nd	4th	1st	3rd	3rd	10	934	2	1	0
+33	NUS Vilas &amp; Nga		3rd	2nd	1st	4th	3rd	1st	10	923	2	1	0
+34	Keio Sadaoka &amp; Smith	EFL	3rd	3rd	2nd	2nd	2nd	2nd	10	922	0	4	0
+35	De La Salle Espiritu &amp; Varela		4th	1st	2nd	4th	2nd	1st	10	911	2	2	0
+36	UP Los Baños Bensali &amp; Tan		3rd	2nd	1st	3rd	2nd	4th	9	953	1	2	1
+37	Tokyo Matsuda &amp; Takahashi	EFL	1st	3rd	3rd	3rd	2nd	3rd	9	941	1	1	1
+38	NUS Chen &amp; Wong		2nd	4th	1st	2nd	4th	2nd	9	937	1	3	1
+39	VIT K Sharma &amp; Modi		2nd	2nd	2nd	4th	1st	4th	9	934	1	3	1
+40	DAV Nguyen &amp; Vu	EFL	2nd	2nd	4th	4th	2nd	1st	9	931	1	3	1
+41	NTU Wang &amp; Abiera		1st	2nd	4th	4th	1st	3rd	9	930	2	1	2
+42	Fudan Zhang &amp; Jin	EFL	3rd	4th	1st	1st	3rd	3rd	9	926	2	0	0
+43=	BFSU Yang &amp; Han	EFL	1st	4th	2nd	4th	3rd	1st	9	923	2	1	0
+43=	Fulbright Le &amp; LE		1st	4th	4th	1st	3rd	2nd	9	923	2	1	0
+45	GCU Ahmad Khan &amp; Zeeshan Awan	EFL	4th	1st	3rd	3rd	3rd	1st	9	923	2	0	0
+46	BINUS Chen &amp; Marcellyn Cen	EFL	1st	4th	1st	4th	3rd	2nd	9	912	2	1	0
+47	Taylors Chow &amp; Nidzam		2nd	2nd	4th	1st	4th	3rd	8	932	1	2	0
+48	Tokyo Watanabe &amp; Fujikawa	EFL	4th	1st	2nd	3rd	2nd	4th	8	931	1	2	0
+49	UT MARA Aiman &amp; Mukmin		4th	1st	2nd	3rd	4th	2nd	8	925	1	2	1
+50	Dr. RMLNLU . &amp; Verma		2nd	4th	1st	4th	2nd	3rd	8	920	1	2	0
+51	IIUM Haniki &amp; Arwaa		4th	1st	4th	1st	2nd	4th	8	918	2	1	1
+52	IIUM Abdullah &amp; Rizwan		3rd	3rd	3rd	2nd	4th	1st	8	918	1	1	0
+53	UT MARA Aripin &amp; Camela		3rd	4th	1st	2nd	4th	2nd	8	917	1	2	0
+54	SMU Poon &amp; Sia		4th	2nd	2nd	3rd	1st	4th	8	915	1	2	0
+55	UT MARA Madihah &amp; Haikal		4th	3rd	3rd	3rd	1st	2nd	8	911	1	1	2
+56	NSU Ismam &amp; Masud	EFL	3rd	2nd	3rd	4th	1st	3rd	8	908	1	1	0
+57	Swing 1		4th	4th	1st	4th	2nd	1st	8	905	2	1	0
+58	TSUKUBA. Hata &amp; Kato	EFL	2nd	3rd	1st	3rd	4th	4th	7	926	1	1	0
+59	MUST Shen &amp; Gao	EFL	1st	4th	3rd	4th	1st	4th	7	921	2	0	0
+60=	IITB Mehta &amp; Raghav Raj		3rd	4th	2nd	4th	3rd	1st	7	916	1	1	0
+60=	Tokyo Mimura &amp; Negita	EFL	2nd	4th	4th	3rd	1st	3rd	7	916	1	1	1
+62	Malaya Akasyah &amp; Sundrasagar		4th	3rd	3rd	2nd	3rd	2nd	7	914	0	2	1
+63	MUST Zhou &amp; Xu	EFL	4th	2nd	3rd	2nd	4th	2nd	7	912	0	3	0
+64	Taylors Firdaus &amp; Lim		4th	4th	2nd	1st	3rd	3rd	7	910	1	1	0
+65	SMU Lim &amp; Lim		3rd	3rd	3rd	2nd	2nd	4th	7	909	0	2	1
+66	CHULA Shrestha &amp; Nuqui		3rd	3rd	2nd	2nd	4th	4th	6	922	0	2	0
+67	Mahidol Dutta &amp; Dawoodjee		4th	2nd	2nd	4th	2nd	4th	6	908	0	3	0
+68	HKPU Chan &amp; SALEKIN		4th	2nd	4th	2nd	4th	2nd	6	904	0	3	0
+69	ICU Kagazume &amp; Kumano	EFL	4th	4th	2nd	3rd	2nd	3rd	6	904	0	2	1
+70	Mahidol Yadav &amp; Htun		4th	2nd	4th	4th	1st	3rd	6	903	1	1	2
+71	IIUM Hany &amp; Alhabshi		3rd	3rd	4th	3rd	4th	2nd	5	913	0	1	0
+72	UGM Vito &amp; Rosyada	EFL	3rd	4th	3rd	3rd	3rd	3rd	5	907	0	0	3
+73	Keio Yamagiwa &amp; Iida	EFL	4th	3rd	3rd	1st	4th	4th	5	904	1	0	1
+74	TSUKUBA. Haraguchi &amp; Masumitsu	EFL	3rd	2nd	3rd	3rd	4th	4th	5	903	0	1	1
+75	RMIT Tạ &amp; Madej		3rd	2nd	4th	4th	3rd	4th	4	903	0	1	1
+76	Mahidol Songsomphan &amp; Sachdev		3rd	4th	4th	4th	4th	1st	4	898	1	0	5
+77	RMIT Huynh &amp; Nguyen	EFL	4th	4th	3rd	3rd	3rd	3rd	4	896	0	0	1
+78	Mahidol Boonprasong &amp; Sagaekhao	EFL	4th	3rd	4th	1st	4th	4th	4	895	1	0	0
+79	RMIT Mahamongkol &amp; Nguyen	EFL	4th	4th	4th	4th	2nd	3rd	3	888	0	1	4
+80	RMIT Duong Quoc &amp; Diem	EFL	4th	3rd	4th	2nd	4th	4th	3	885	0	1	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	R6	Total	Avg	Stdev
+1	Lois Naomi Ang		NUS Tay &amp; Ang	82	81	82	82	82	83	492	82.00	0.58
+2	Cavan Tay		NUS Tay &amp; Ang	82	78	82	81	81	83	487	81.17	1.57
+3	Tengku Omar Azfar Haqqani		BINUS Ongkojoyo &amp; Haqqani	81	81	81	79	80	83	485	80.83	1.21
+4=	Neo Way De		NTU Neo &amp; Wong	80	79	79	82	82	81	483	80.50	1.26
+4=	Rdu Dillon		NUS Dillon &amp; Chai	82	82	80	79	78	82	483	80.50	1.61
+4=	Bea Legaspi		UPD Alcañeses &amp; Legaspi	81	81	81	78	81	81	483	80.50	1.12
+7=	Lit Wen Wong		NTU Neo &amp; Wong	78	80	79	82	82	81	482	80.33	1.49
+7=	Ian Dylan Chai		NUS Dillon &amp; Chai	82	81	80	79	78	82	482	80.33	1.49
+9=	Wayne Lim		NTU Lim &amp; Bajrai	81	78	78	81	80	83	481	80.17	1.77
+9=	Riva Fong		ATENEO Fong &amp; Go	80	81	79	80	81	80	481	80.17	0.69
+9=	Nasa Tsuchiya	EFL	Tokyo Tsuchiya &amp; Yoshida	80	82	78	78	81	82	481	80.17	1.67
+9=	Luigi Alcañeses		UPD Alcañeses &amp; Legaspi	80	83	79	78	81	80	481	80.17	1.57
+13=	Duy Thanh Ha		NTU Soh &amp; Ha	78	80	79	80	82	81	480	80.00	1.29
+13=	Kotaro Yoshida	EFL	Tokyo Tsuchiya &amp; Yoshida	80	81	79	78	80	82	480	80.00	1.29
+13=	Bobby Ongkojoyo		BINUS Ongkojoyo &amp; Haqqani	80	81	79	78	80	82	480	80.00	1.29
+16=	Angad Singh Chawla		IGNOU Chadha &amp; Chawla	80	79	81	80	78	81	479	79.83	1.07
+16=	Vansh Chadha		IGNOU Chadha &amp; Chawla	79	79	81	80	78	82	479	79.83	1.34
+18=	Hana Bajrai		NTU Lim &amp; Bajrai	80	78	78	81	79	82	478	79.67	1.49
+18=	Justin Tay		NUS Tay &amp; Wee	79	80	80	80	79	80	478	79.67	0.47
+18=	Ben Nadzmier Bensali		UP Los Baños Bensali &amp; Tan	77	80	83	78	79	81	478	79.67	1.97
+21=	Alyssa Lorine David		De La Salle Haduca &amp; David	80	78	78	81	79	81	477	79.50	1.26
+21=	Kay Boon Soh		NTU Soh &amp; Ha	77	80	78	80	82	80	477	79.50	1.61
+21=	Sam Tango		ATENEO Neri &amp; Tango	80	76	80	79	80	82	477	79.50	1.80
+21=	Kyle Go		ATENEO Fong &amp; Go	80	80	79	79	80	79	477	79.50	0.50
+21=	Kuhan Karttikeyn		Malaya Pillay &amp; Karttikeyn	81	80	80	78	79	79	477	79.50	0.96
+26	Ines Neri		ATENEO Neri &amp; Tango	80	76	80	79	79	82	476	79.33	1.80
+27=	Mezen Lababidi		De La Salle Lopez &amp; Lababidi	80	80	80	79	80	76	475	79.17	1.46
+27=	Lia Denise Tan		UP Los Baños Bensali &amp; Tan	77	79	83	77	79	80	475	79.17	2.03
+27=	David Holandez Mencias		UPD Mencias &amp; Cual	80	80	78	78	78	81	475	79.17	1.21
+30=	Marie Lilac Kimberly Lopez		De La Salle Lopez &amp; Lababidi	79	80	80	80	80	75	474	79.00	1.83
+30=	Raymond Qiu		NTU Qiu &amp; Huang	80	75	82	77	79	81	474	79.00	2.38
+30=	Ivy Yu	EFL	PKU Yu &amp; Wang	79	79	75	78	81	82	474	79.00	2.24
+30=	Rogelio Largo		ATENEO Largo &amp; Tiangco	78	78	81	79	78	80	474	79.00	1.15
+30=	Rashrvin Pillay		Malaya Pillay &amp; Karttikeyn	80	80	79	77	79	79	474	79.00	1.00
+30=	Manasija Das		IGNOU Sayiram &amp; Das	80	77	80	78	80	79	474	79.00	1.15
+30=	V Sayiram		IGNOU Sayiram &amp; Das	80	77	80	78	80	79	474	79.00	1.15
+37=	Adriane Zen Tiangco		ATENEO Largo &amp; Tiangco	79	78	80	79	77	80	473	78.83	1.07
+37=	Pio Ventura		ATENEO Ventura &amp; Fernandez	79	78	78	79	81	78	473	78.83	1.07
+37=	Wesley Pu		Malaya Ahsan &amp; Pu	78	80	78	80	78	79	473	78.83	0.90
+37=	Jaed Bengzon		UPD Castro &amp; Bengzon	78	77	79	79	80	80	473	78.83	1.07
+37=	Matcha Cual		UPD Mencias &amp; Cual	80	78	78	78	78	81	473	78.83	1.21
+37=	Carol Yuheng Xu	EFL	BFSU Xu &amp; Tang	77	78	79	81	80	78	473	78.83	1.34
+43=	Ashley Wee		NUS Tay &amp; Wee	79	79	78	79	78	79	472	78.67	0.47
+43=	Wei Le Lee		NUS Lee &amp; Yeo	80	79	78	78	77	80	472	78.67	1.11
+43=	Anas Zaharim		IIUM WS &amp; Zaharim	80	78	77	77	80	80	472	78.67	1.37
+43=	Muhyuddin Ahsan		Malaya Ahsan &amp; Pu	77	80	77	80	78	80	472	78.67	1.37
+43=	Jaime Castro		UPD Castro &amp; Bengzon	78	78	79	79	79	79	472	78.67	0.47
+48=	Daniel Christopher Haduca		De La Salle Haduca &amp; David	79	78	77	79	78	80	471	78.50	0.96
+48=	Alyssa Salazar		ATENEO Bejarin &amp; Salazar	78	79	80	77	78	79	471	78.50	0.96
+48=	David Benjamin W. Bejarin		ATENEO Bejarin &amp; Salazar	78	78	82	77	77	79	471	78.50	1.71
+48=	Rina Kajitani	EFL	Tokyo Kajitani &amp; Saito	78	78	78	78	78	81	471	78.50	1.12
+48=	Takeshi Matsuda	EFL	Tokyo Matsuda &amp; Takahashi	79	78	78	80	78	78	471	78.50	0.76
+53=	Ray Wang	EFL	PKU Yu &amp; Wang	78	78	75	77	82	80	470	78.33	2.21
+53=	Atifa WS		IIUM WS &amp; Zaharim	79	77	78	77	79	80	470	78.33	1.11
+53=	Chelsea Fernandez		ATENEO Ventura &amp; Fernandez	79	78	77	79	79	78	470	78.33	0.75
+53=	Riho Takahashi	EFL	Tokyo Matsuda &amp; Takahashi	80	77	79	79	78	77	470	78.33	1.11
+57=	Zed Wong		NUS Chen &amp; Wong	77	78	79	80	78	77	469	78.17	1.07
+57=	Alexandra Ypil		ATENEO Ypil &amp; Reyes	78	80	79	76	77	79	469	78.17	1.34
+57=	Anton Abiera		NTU Wang &amp; Abiera	77	78	78	80	78	78	469	78.17	0.90
+60=	Shaurya K Sharma		VIT K Sharma &amp; Modi	77	77	79	77	79	79	468	78.00	1.00
+60=	Gautam Khona		IITB Chakraborty &amp; Khona	77	77	80	76	80	78	468	78.00	1.53
+60=	Yi Chen Huang		NTU Qiu &amp; Huang	79	75	81	76	77	80	468	78.00	2.16
+60=	Zixuan Yeo		NUS Lee &amp; Yeo	80	78	77	78	76	79	468	78.00	1.29
+60=	Rachel Chen (RC)		NUS Chen &amp; Wong	77	77	79	81	77	77	468	78.00	1.53
+65=	Pranjal Chakraborty		IITB Chakraborty &amp; Khona	76	78	80	75	79	79	467	77.83	1.77
+65=	Cara Reyes		ATENEO Ypil &amp; Reyes	76	79	78	77	77	80	467	77.83	1.34
+65=	Daisuke Fujikawa	EFL	Tokyo Watanabe &amp; Fujikawa	78	79	77	77	79	77	467	77.83	0.90
+65=	Aniket Patra		IGNOU Patra &amp; Jha	76	79	78	77	81	76	467	77.83	1.77
+65=	Aditya Jha		IGNOU Patra &amp; Jha	76	79	79	77	80	76	467	77.83	1.57
+70=	Namay Modi		VIT K Sharma &amp; Modi	77	76	79	77	79	78	466	77.67	1.11
+70=	Hoang Anh Vu	EFL	DAV Nguyen &amp; Vu	76	78	77	79	77	79	466	77.67	1.11
+70=	Salleh Nidzam		Taylors Chow &amp; Nidzam	78	79	79	79	74	77	466	77.67	1.80
+70=	Andrea Chow		Taylors Chow &amp; Nidzam	77	79	80	79	75	76	466	77.67	1.80
+74=	Khanh Linh Nguyen	EFL	DAV Nguyen &amp; Vu	76	78	76	79	77	79	465	77.50	1.26
+74=	Rafiush Safin		NSU Khan Chowdhury &amp; Safin	76	76	77	80	76	80	465	77.50	1.80
+74=	Elle Ketian Tang	EFL	BFSU Xu &amp; Tang	76	76	76	80	79	78	465	77.50	1.61
+77=	Jo Watanabe	EFL	Tokyo Watanabe &amp; Fujikawa	78	79	76	76	78	77	464	77.33	1.11
+77=	Lehan Jin	EFL	Fudan Zhang &amp; Jin	79	76	76	78	78	77	464	77.33	1.11
+79=	Ji Yang Nga		NUS Vilas &amp; Nga	75	78	78	76	78	78	463	77.17	1.21
+79=	Yuki Saito	EFL	Tokyo Kajitani &amp; Saito	77	75	77	78	77	79	463	77.17	1.21
+79=	Ikhwan Mukmin		UT MARA Aiman &amp; Mukmin	78	78	75	78	77	77	463	77.17	1.07
+79=	Yuki Kato	EFL	TSUKUBA. Hata &amp; Kato	79	77	78	78	76	75	463	77.17	1.34
+79=	Yuichiro Hata	EFL	TSUKUBA. Hata &amp; Kato	78	76	77	79	77	76	463	77.17	1.07
+84=	TAM LE		Fulbright Le &amp; LE	77	76	75	78	78	78	462	77.00	1.15
+84=	Shadman Khan Chowdhury		NSU Khan Chowdhury &amp; Safin	76	76	77	79	75	79	462	77.00	1.53
+84=	Aryan Shrestha		CHULA Shrestha &amp; Nuqui	76	76	78	79	77	76	462	77.00	1.15
+84=	Airil Aiman		UT MARA Aiman &amp; Mukmin	77	77	76	78	77	77	462	77.00	0.58
+84=	Betty Han	EFL	BFSU Yang &amp; Han	77	76	76	78	76	79	462	77.00	1.15
+84=	Anran Zhang	EFL	Fudan Zhang &amp; Jin	78	75	77	78	77	77	462	77.00	1.00
+84=	Jazib Ud Din Ahmad Khan	EFL	GCU Ahmad Khan &amp; Zeeshan Awan	76	78	75	78	77	78	462	77.00	1.15
+91=	Lisa Smith	EFL	Keio Sadaoka &amp; Smith	77	76	77	77	77	77	461	76.83	0.37
+91=	Natsumi Sadaoka	EFL	Keio Sadaoka &amp; Smith	76	76	77	77	78	77	461	76.83	0.69
+91=	Tanya Verma		Dr. RMLNLU . &amp; Verma	77	76	78	76	77	77	461	76.83	0.69
+91=	Tu Le		Fulbright Le &amp; LE	78	76	75	77	77	78	461	76.83	1.07
+91=	Stacy Wang	EFL	NTU Wang &amp; Abiera	76	77	78	78	77	75	461	76.83	1.07
+91=	Andy Zhuoran Yang	EFL	BFSU Yang &amp; Han	76	75	77	77	77	79	461	76.83	1.21
+91=	Huzaifa Zeeshan Awan	EFL	GCU Ahmad Khan &amp; Zeeshan Awan	76	77	76	78	77	77	461	76.83	0.69
+91=	Musky Shen	EFL	MUST Shen &amp; Gao	79	77	76	78	77	74	461	76.83	1.57
+99=	Francisco Javier Bermejo Vilas		NUS Vilas &amp; Nga	76	77	77	75	77	78	460	76.67	0.94
+99=	Aaron Luke Reyes Nuqui		CHULA Shrestha &amp; Nuqui	76	77	77	78	77	75	460	76.67	0.94
+99=	Alex Gao	EFL	MUST Shen &amp; Gao	78	77	76	77	78	74	460	76.67	1.37
+102=	Vishwa Raghav Raj		IITB Mehta &amp; Raghav Raj	78	76	76	75	77	77	459	76.50	0.96
+102=	Aoishi .		Dr. RMLNLU . &amp; Verma	77	75	77	76	77	77	459	76.50	0.76
+102=	Hazim Rizwan		IIUM Abdullah &amp; Rizwan	76	76	76	77	76	78	459	76.50	0.76
+102=	Munirah Abdullah		IIUM Abdullah &amp; Rizwan	77	75	77	77	76	77	459	76.50	0.76
+102=	Subaita Arwaa		IIUM Haniki &amp; Arwaa	77	77	75	77	76	77	459	76.50	0.76
+102=	Hanafie Haniki		IIUM Haniki &amp; Arwaa	77	78	75	77	76	76	459	76.50	0.96
+102=	Emi Negita	EFL	Tokyo Mimura &amp; Negita	78	75	76	76	79	75	459	76.50	1.50
+102=	Ashley Sia		SMU Poon &amp; Sia	75	77	77	76	79	75	459	76.50	1.38
+102=	Nurin Camela		UT MARA Aripin &amp; Camela	76	74	78	77	76	78	459	76.50	1.38
+111=	Ibrahim Alhabshi		IIUM Hany &amp; Alhabshi	78	77	76	76	76	75	458	76.33	0.94
+111=	Syed Akasyah		Malaya Akasyah &amp; Sundrasagar	75	78	77	77	75	76	458	76.33	1.11
+111=	Emma Aripin		UT MARA Aripin &amp; Camela	77	75	75	78	76	77	458	76.33	1.11
+111=	Yang Zhou	EFL	MUST Zhou &amp; Xu	76	77	77	77	76	75	458	76.33	0.75
+115=	Manan Mehta		IITB Mehta &amp; Raghav Raj	78	75	76	75	77	76	457	76.17	1.07
+115=	Riko Mimura	EFL	Tokyo Mimura &amp; Negita	76	75	76	76	78	76	457	76.17	0.90
+115=	Jennifer Marcellyn Cen	EFL	BINUS Chen &amp; Marcellyn Cen	76	75	79	75	77	75	457	76.17	1.46
+118=	Lorenzo Espiritu		De La Salle Espiritu &amp; Varela	74	77	77	74	78	76	456	76.00	1.53
+118=	Md Zahid Hoshen Masud	EFL	NSU Ismam &amp; Masud	76	77	76	75	77	75	456	76.00	0.82
+118=	Daniel Si Chuan Lim		SMU Lim &amp; Lim	77	76	76	77	77	73	456	76.00	1.41
+118=	Elizabeth Nicole Poon		SMU Poon &amp; Sia	74	77	77	76	77	75	456	76.00	1.15
+118=	Vigneshwaran Sundrasagar		Malaya Akasyah &amp; Sundrasagar	75	77	76	77	75	76	456	76.00	0.82
+118=	Harisjo Haikal		UT MARA Madihah &amp; Haikal	75	76	76	75	78	76	456	76.00	1.00
+124=	Santino Varela		De La Salle Espiritu &amp; Varela	74	77	77	74	77	76	455	75.83	1.34
+124=	Nabil Hany		IIUM Hany &amp; Alhabshi	77	76	76	76	76	74	455	75.83	0.90
+124=	Ibrahim O Dawoodjee		Mahidol Dutta &amp; Dawoodjee	75	79	78	76	75	72	455	75.83	2.27
+124=	Adriana Firdaus		Taylors Firdaus &amp; Lim	73	76	76	77	77	76	455	75.83	1.34
+124=	Yan Cheng Lim		Taylors Firdaus &amp; Lim	74	76	76	78	75	76	455	75.83	1.21
+124=	Rachel Chen	EFL	BINUS Chen &amp; Marcellyn Cen	77	74	77	75	77	75	455	75.83	1.21
+124=	Fauzan Madihah		UT MARA Madihah &amp; Haikal	75	76	75	75	77	77	455	75.83	0.90
+124=	SHAKRAN SALEKIN		HKPU Chan &amp; SALEKIN	76	77	76	76	74	76	455	75.83	0.90
+132=	Yehezkiel Vito	EFL	UGM Vito &amp; Rosyada	75	76	75	76	76	76	454	75.67	0.47
+132=	Huy Hiếu Tạ	EFL	RMIT Tạ &amp; Madej	76	77	75	76	76	74	454	75.67	0.94
+132=	Ke Xu	EFL	MUST Zhou &amp; Xu	75	77	76	76	75	75	454	75.67	0.75
+135=	Nahdatu Rosyada	EFL	UGM Vito &amp; Rosyada	75	76	75	76	76	75	453	75.50	0.50
+135=	Aditya Dutta		Mahidol Dutta &amp; Dawoodjee	75	78	76	76	76	72	453	75.50	1.80
+135=	Rahul Yadav		Mahidol Yadav &amp; Htun	75	76	75	75	77	75	453	75.50	0.76
+135=	Daniel Yee Teck Lim		SMU Lim &amp; Lim	76	74	76	76	77	74	453	75.50	1.12
+139=	Ryuki Iida	EFL	Keio Yamagiwa &amp; Iida	73	76	74	77	77	75	452	75.33	1.49
+139=	Keisui Yamagiwa	EFL	Keio Yamagiwa &amp; Iida	73	76	75	76	77	75	452	75.33	1.25
+139=	Wasit Zawad Ismam	EFL	NSU Ismam &amp; Masud	75	77	75	74	77	74	452	75.33	1.25
+139=	Mitsuki Kumano	EFL	ICU Kagazume &amp; Kumano	77	74	75	75	76	75	452	75.33	0.94
+139=	Yuya Kagazume	EFL	ICU Kagazume &amp; Kumano	76	74	77	75	76	74	452	75.33	1.11
+139=	Hinano Haraguchi	EFL	TSUKUBA. Haraguchi &amp; Masumitsu	74	77	75	76	75	75	452	75.33	0.94
+145=	Krittiya Sagaekhao	EFL	Mahidol Boonprasong &amp; Sagaekhao	74	77	74	77	75	74	451	75.17	1.34
+145=	Haruto Masumitsu	EFL	TSUKUBA. Haraguchi &amp; Masumitsu	75	76	75	77	73	75	451	75.17	1.21
+147=	Sumit Sachdev		Mahidol Songsomphan &amp; Sachdev	77	74	75	74	74	76	450	75.00	1.15
+147=	Thalin Htun		Mahidol Yadav &amp; Htun	74	75	76	75	76	74	450	75.00	0.82
+149=	Tam Nguyen	EFL	RMIT Huynh &amp; Nguyen	74	76	75	74	75	75	449	74.83	0.69
+149=	Jakub Jan Madej		RMIT Tạ &amp; Madej	77	76	74	75	74	73	449	74.83	1.34
+149=	Lok Yiu Chan		HKPU Chan &amp; SALEKIN	74	76	75	75	74	75	449	74.83	0.69
+152	Ilana Songsomphan		Mahidol Songsomphan &amp; Sachdev	76	74	74	75	74	75	448	74.67	0.75
+153	Thinh Huynh	EFL	RMIT Huynh &amp; Nguyen	74	76	74	74	74	75	447	74.50	0.76
+154	Nguyen Diem	EFL	RMIT Duong Quoc &amp; Diem	75	75	74	76	74	72	446	74.33	1.25
+155	Vy Nguyen	EFL	RMIT Mahamongkol &amp; Nguyen	76	75	73	73	75	73	445	74.17	1.21
+156	Praopundeun Boonprasong	EFL	Mahidol Boonprasong &amp; Sagaekhao	72	76	72	76	74	74	444	74.00	1.63
+157	Da Quynh Mahamongkol	EFL	RMIT Mahamongkol &amp; Nguyen	74	75	73	73	76	72	443	73.83	1.34
+158	Viet Duong Quoc	EFL	RMIT Duong Quoc &amp; Diem	73	74	72	75	74	71	439	73.17	1.34
+159	Rishi Mukherjee		Swing 1	—	—	77	75	79	78	309	77.25	1.48
+160	Cho Ying Lee		Swing 1	—	—	—	74	77	77	228	76.00	1.41
+161	Xian Yii Lee		Swing 1	74	71	76	—	—	—	221	73.67	2.05
+162	Shanjit Chitphentom	EFL	Swing 1	75	72	—	—	—	—	147	73.50	1.50
+
+
+team	result	side	ballot	adjudicators
+De La Salle Lopez &amp; Lababidi	2nd	Opening Opposition	View Ballot	Wai Yin (Vincent) ChauⒸ , Abhyudya Sangwan , Yuichi Masaoka
+ATENEO Neri &amp; Tango	1st	Opening Government	View Ballot	Wai Yin (Vincent) ChauⒸ , Abhyudya Sangwan , Yuichi Masaoka
+SMU Lim &amp; Lim	3rd	Closing Opposition	View Ballot	Wai Yin (Vincent) ChauⒸ , Abhyudya Sangwan , Yuichi Masaoka
+HKPU Chan &amp; SALEKIN	4th	Closing Government	View Ballot	Wai Yin (Vincent) ChauⒸ , Abhyudya Sangwan , Yuichi Masaoka
+Keio Sadaoka &amp; Smith	3rd	Opening Opposition	View Ballot	Isabella FreelandⒸ , Xiye Jiang , Devashish TrivediⓉ
+NUS Lee &amp; Yeo	2nd	Closing Opposition	View Ballot	Isabella FreelandⒸ , Xiye Jiang , Devashish TrivediⓉ
+UPD Alcañeses &amp; Legaspi	1st	Opening Government	View Ballot	Isabella FreelandⒸ , Xiye Jiang , Devashish TrivediⓉ
+GCU Ahmad Khan &amp; Zeeshan Awan	4th	Closing Government	View Ballot	Isabella FreelandⒸ , Xiye Jiang , Devashish TrivediⓉ
+NUS Dillon &amp; Chai	1st	Opening Opposition	View Ballot	Charlie RyanⒸ , Russell Wang , Mahor NagdaⓉ
+PKU Yu &amp; Wang	2nd	Closing Government	View Ballot	Charlie RyanⒸ , Russell Wang , Mahor NagdaⓉ
+Mahidol Boonprasong &amp; Sagaekhao	4th	Closing Opposition	View Ballot	Charlie RyanⒸ , Russell Wang , Mahor NagdaⓉ
+Malaya Ahsan &amp; Pu	3rd	Opening Government	View Ballot	Charlie RyanⒸ , Russell Wang , Mahor NagdaⓉ
+DAV Nguyen &amp; Vu	2nd	Closing Opposition	View Ballot	Axcel France EcoⒸ , Chisato Kuwayama , The Phuong (Daniel)
+NUS Vilas &amp; Nga	3rd	Opening Opposition	View Ballot	Axcel France EcoⒸ , Chisato Kuwayama , The Phuong (Daniel)
+BFSU Yang &amp; Han	1st	Closing Government	View Ballot	Axcel France EcoⒸ , Chisato Kuwayama , The Phuong (Daniel)
+RMIT Duong Quoc &amp; Diem	4th	Opening Government	View Ballot	Axcel France EcoⒸ , Chisato Kuwayama , The Phuong (Daniel)
+Dr. RMLNLU . &amp; Verma	2nd	Opening Government	View Ballot	Diggory WaddleⒸ , Duong (Amy) Tran Mong Thuy , RedactedⓉ
+Mahidol Songsomphan &amp; Sachdev	3rd	Opening Opposition	View Ballot	Diggory WaddleⒸ , Duong (Amy) Tran Mong Thuy , RedactedⓉ
+Tokyo Matsuda &amp; Takahashi	1st	Closing Government	View Ballot	Diggory WaddleⒸ , Duong (Amy) Tran Mong Thuy , RedactedⓉ
+Malaya Akasyah &amp; Sundrasagar	4th	Closing Opposition	View Ballot	Diggory WaddleⒸ , Duong (Amy) Tran Mong Thuy , RedactedⓉ
+NTU Neo &amp; Wong	2nd	Closing Opposition	View Ballot	Deon KiewⒸ , Lan Tran , KAVYA DWIVEDIⓉ , Rishi MukherjeeⓉ
+ATENEO Largo &amp; Tiangco	3rd	Closing Government	View Ballot	Deon KiewⒸ , Lan Tran , KAVYA DWIVEDIⓉ , Rishi MukherjeeⓉ
+UPD Mencias &amp; Cual	1st	Opening Government	View Ballot	Deon KiewⒸ , Lan Tran , KAVYA DWIVEDIⓉ , Rishi MukherjeeⓉ
+UT MARA Aiman &amp; Mukmin	4th	Opening Opposition	View Ballot	Deon KiewⒸ , Lan Tran , KAVYA DWIVEDIⓉ , Rishi MukherjeeⓉ
+IITB Mehta &amp; Raghav Raj	3rd	Opening Government	View Ballot	Haikal DanielⒸ , Kei Kashioka , Luna Yael InventorⓉ
+IIUM Haniki &amp; Arwaa	4th	Closing Government	View Ballot	Haikal DanielⒸ , Kei Kashioka , Luna Yael InventorⓉ
+IIUM WS &amp; Zaharim	2nd	Opening Opposition	View Ballot	Haikal DanielⒸ , Kei Kashioka , Luna Yael InventorⓉ
+BINUS Ongkojoyo &amp; Haqqani	1st	Closing Opposition	View Ballot	Haikal DanielⒸ , Kei Kashioka , Luna Yael InventorⓉ
+IIUM Abdullah &amp; Rizwan	3rd	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Rachel Han , Sayyed Muhammed Ridzwan HarahapⓉ
+Swing 1	4th	Opening Government	View Ballot	Sunghyun ParkⒸ , Rachel Han , Sayyed Muhammed Ridzwan HarahapⓉ
+Taylors Chow &amp; Nidzam	2nd	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Rachel Han , Sayyed Muhammed Ridzwan HarahapⓉ
+ATENEO Ventura &amp; Fernandez	1st	Closing Government	View Ballot	Sunghyun ParkⒸ , Rachel Han , Sayyed Muhammed Ridzwan HarahapⓉ
+NTU Lim &amp; Bajrai	2nd	Closing Opposition	View Ballot	Sreyan KanungoⒸ , Martin Lim , Francis VendiolaⓉ
+NUS Tay &amp; Ang	1st	Opening Opposition	View Ballot	Sreyan KanungoⒸ , Martin Lim , Francis VendiolaⓉ
+Tokyo Tsuchiya &amp; Yoshida	3rd	Opening Government	View Ballot	Sreyan KanungoⒸ , Martin Lim , Francis VendiolaⓉ
+ICU Kagazume &amp; Kumano	4th	Closing Government	View Ballot	Sreyan KanungoⒸ , Martin Lim , Francis VendiolaⓉ
+De La Salle Espiritu &amp; Varela	4th	Closing Government	View Ballot	minami matsushimaⒸ , Odessa Julienne Rebaya , Aryamman BhatiaⓉ , Cho Ying LEEⓉ
+UGM Vito &amp; Rosyada	3rd	Opening Opposition	View Ballot	minami matsushimaⒸ , Odessa Julienne Rebaya , Aryamman BhatiaⓉ , Cho Ying LEEⓉ
+NTU Wang &amp; Abiera	1st	Opening Government	View Ballot	minami matsushimaⒸ , Odessa Julienne Rebaya , Aryamman BhatiaⓉ , Cho Ying LEEⓉ
+IGNOU Patra &amp; Jha	2nd	Closing Opposition	View Ballot	minami matsushimaⒸ , Odessa Julienne Rebaya , Aryamman BhatiaⓉ , Cho Ying LEEⓉ
+IIUM Hany &amp; Alhabshi	3rd	Opening Opposition	View Ballot	Sharun Nikesh GⒸ , Kentaro Kashiwagi , Li Han OngⓉ , SU LET YATI SOEⓉ
+ATENEO Bejarin &amp; Salazar	2nd	Closing Opposition	View Ballot	Sharun Nikesh GⒸ , Kentaro Kashiwagi , Li Han OngⓉ , SU LET YATI SOEⓉ
+ATENEO Fong &amp; Go	1st	Closing Government	View Ballot	Sharun Nikesh GⒸ , Kentaro Kashiwagi , Li Han OngⓉ , SU LET YATI SOEⓉ
+RMIT Mahamongkol &amp; Nguyen	4th	Opening Government	View Ballot	Sharun Nikesh GⒸ , Kentaro Kashiwagi , Li Han OngⓉ , SU LET YATI SOEⓉ
+NUS Tay &amp; Wee	2nd	Opening Government	View Ballot	Shireen AliⒸ , Trang Nguyen , Fatima AhmadⓉ , Uyên TạⓉ
+UP Los Baños Bensali &amp; Tan	3rd	Opening Opposition	View Ballot	Shireen AliⒸ , Trang Nguyen , Fatima AhmadⓉ , Uyên TạⓉ
+SMU Poon &amp; Sia	4th	Closing Opposition	View Ballot	Shireen AliⒸ , Trang Nguyen , Fatima AhmadⓉ , Uyên TạⓉ
+Malaya Pillay &amp; Karttikeyn	1st	Closing Government	View Ballot	Shireen AliⒸ , Trang Nguyen , Fatima AhmadⓉ , Uyên TạⓉ
+VIT K Sharma &amp; Modi	2nd	Opening Government	View Ballot	Shaun LeeⒸ , Cheng Zu Yee , Aki PeyraⓉ
+CHULA Shrestha &amp; Nuqui	3rd	Opening Opposition	View Ballot	Shaun LeeⒸ , Cheng Zu Yee , Aki PeyraⓉ
+Tokyo Kajitani &amp; Saito	1st	Closing Opposition	View Ballot	Shaun LeeⒸ , Cheng Zu Yee , Aki PeyraⓉ
+RMIT Huynh &amp; Nguyen	4th	Closing Government	View Ballot	Shaun LeeⒸ , Cheng Zu Yee , Aki PeyraⓉ
+IITB Chakraborty &amp; Khona	3rd	Closing Government	View Ballot	Auguste McNallyⒸ , Minh Do , Avjay BharⓉ
+Mahidol Yadav &amp; Htun	4th	Opening Government	View Ballot	Auguste McNallyⒸ , Minh Do , Avjay BharⓉ
+Tokyo Mimura &amp; Negita	2nd	Closing Opposition	View Ballot	Auguste McNallyⒸ , Minh Do , Avjay BharⓉ
+MUST Shen &amp; Gao	1st	Opening Opposition	View Ballot	Auguste McNallyⒸ , Minh Do , Avjay BharⓉ
+NUS Chen &amp; Wong	2nd	Opening Opposition	View Ballot	Robert LeungⒸ , Regina Stephanie Wuisana , Laurie DaoⓉ , Lloyd Andrei S. DaduloⓉ
+Fulbright Le &amp; LE	1st	Closing Opposition	View Ballot	Robert LeungⒸ , Regina Stephanie Wuisana , Laurie DaoⓉ , Lloyd Andrei S. DaduloⓉ
+MUST Zhou &amp; Xu	4th	Closing Government	View Ballot	Robert LeungⒸ , Regina Stephanie Wuisana , Laurie DaoⓉ , Lloyd Andrei S. DaduloⓉ
+UT MARA Aripin &amp; Camela	3rd	Opening Government	View Ballot	Robert LeungⒸ , Regina Stephanie Wuisana , Laurie DaoⓉ , Lloyd Andrei S. DaduloⓉ
+Mahidol Dutta &amp; Dawoodjee	4th	Closing Government	View Ballot	Alesandra BarrandaⒸ , Orlando Laudico , Harith Danial RosleeⓉ
+NSU Khan Chowdhury &amp; Safin	2nd	Opening Opposition	View Ballot	Alesandra BarrandaⒸ , Orlando Laudico , Harith Danial RosleeⓉ
+NSU Ismam &amp; Masud	3rd	Closing Opposition	View Ballot	Alesandra BarrandaⒸ , Orlando Laudico , Harith Danial RosleeⓉ
+BINUS Chen &amp; Marcellyn Cen	1st	Opening Government	View Ballot	Alesandra BarrandaⒸ , Orlando Laudico , Harith Danial RosleeⓉ
+De La Salle Haduca &amp; David	2nd	Closing Opposition	View Ballot	Rohan KapurⒸ , Mior Arif , Izzah RosliⓉ
+Tokyo Watanabe &amp; Fujikawa	4th	Opening Government	View Ballot	Rohan KapurⒸ , Mior Arif , Izzah RosliⓉ
+Fudan Zhang &amp; Jin	3rd	Closing Government	View Ballot	Rohan KapurⒸ , Mior Arif , Izzah RosliⓉ
+IGNOU Sayiram &amp; Das	1st	Opening Opposition	View Ballot	Rohan KapurⒸ , Mior Arif , Izzah RosliⓉ
+NTU Soh &amp; Ha	2nd	Opening Government	View Ballot	Ahmad Tousif JamiⒸ , Annika Chua , Yashovardhan Balakrishnan
+Taylors Firdaus &amp; Lim	4th	Opening Opposition	View Ballot	Ahmad Tousif JamiⒸ , Annika Chua , Yashovardhan Balakrishnan
+TSUKUBA. Haraguchi &amp; Masumitsu	3rd	Closing Government	View Ballot	Ahmad Tousif JamiⒸ , Annika Chua , Yashovardhan Balakrishnan
+IGNOU Chadha &amp; Chawla	1st	Closing Opposition	View Ballot	Ahmad Tousif JamiⒸ , Annika Chua , Yashovardhan Balakrishnan
+Keio Yamagiwa &amp; Iida	4th	Closing Opposition	View Ballot	RaymondⒸ , Tasha Daniella , Patsha DejarathⓉ
+ATENEO Ypil &amp; Reyes	2nd	Closing Government	View Ballot	RaymondⒸ , Tasha Daniella , Patsha DejarathⓉ
+UPD Castro &amp; Bengzon	1st	Opening Opposition	View Ballot	RaymondⒸ , Tasha Daniella , Patsha DejarathⓉ
+BFSU Xu &amp; Tang	3rd	Opening Government	View Ballot	RaymondⒸ , Tasha Daniella , Patsha DejarathⓉ
+NTU Qiu &amp; Huang	1st	Opening Government	View Ballot	﻿Mikkel NeriⒸ , Vani Bhardwaj , Muhammad Fasih Alam KhanⓉ
+UT MARA Madihah &amp; Haikal	4th	Closing Opposition	View Ballot	﻿Mikkel NeriⒸ , Vani Bhardwaj , Muhammad Fasih Alam KhanⓉ
+TSUKUBA. Hata &amp; Kato	2nd	Closing Government	View Ballot	﻿Mikkel NeriⒸ , Vani Bhardwaj , Muhammad Fasih Alam KhanⓉ
+RMIT Tạ &amp; Madej	3rd	Opening Opposition	View Ballot	﻿Mikkel NeriⒸ , Vani Bhardwaj , Muhammad Fasih Alam KhanⓉ
+
+
+team	result	side	ballot	adjudicators
+NUS Tay &amp; Ang	1st	Opening Government	View Ballot	Charlie RyanⒸ , Minh Do , Xiye Jiang , Rishi MukherjeeⓉ
+ATENEO Neri &amp; Tango	3rd	Closing Opposition	View Ballot	Charlie RyanⒸ , Minh Do , Xiye Jiang , Rishi MukherjeeⓉ
+Tokyo Kajitani &amp; Saito	2nd	Closing Government	View Ballot	Charlie RyanⒸ , Minh Do , Xiye Jiang , Rishi MukherjeeⓉ
+BFSU Yang &amp; Han	4th	Opening Opposition	View Ballot	Charlie RyanⒸ , Minh Do , Xiye Jiang , Rishi MukherjeeⓉ
+IITB Chakraborty &amp; Khona	1st	Opening Government	View Ballot	Diggory WaddleⒸ , Haikal Daniel , Lloyd Andrei S. Dadulo
+UGM Vito &amp; Rosyada	4th	Closing Government	View Ballot	Diggory WaddleⒸ , Haikal Daniel , Lloyd Andrei S. Dadulo
+IIUM Hany &amp; Alhabshi	3rd	Closing Opposition	View Ballot	Diggory WaddleⒸ , Haikal Daniel , Lloyd Andrei S. Dadulo
+NSU Ismam &amp; Masud	2nd	Opening Opposition	View Ballot	Diggory WaddleⒸ , Haikal Daniel , Lloyd Andrei S. Dadulo
+UP Los Baños Bensali &amp; Tan	2nd	Opening Government	View Ballot	﻿Mikkel NeriⒸ , Kentaro Kashiwagi , Lan Tran
+CHULA Shrestha &amp; Nuqui	3rd	Closing Government	View Ballot	﻿Mikkel NeriⒸ , Kentaro Kashiwagi , Lan Tran
+Malaya Ahsan &amp; Pu	1st	Closing Opposition	View Ballot	﻿Mikkel NeriⒸ , Kentaro Kashiwagi , Lan Tran
+Fudan Zhang &amp; Jin	4th	Opening Opposition	View Ballot	﻿Mikkel NeriⒸ , Kentaro Kashiwagi , Lan Tran
+Tokyo Tsuchiya &amp; Yoshida	1st	Closing Government	View Ballot	Isabella FreelandⒸ , Rachel Han , Russell Wang
+SMU Lim &amp; Lim	3rd	Opening Government	View Ballot	Isabella FreelandⒸ , Rachel Han , Russell Wang
+UT MARA Aripin &amp; Camela	4th	Closing Opposition	View Ballot	Isabella FreelandⒸ , Rachel Han , Russell Wang
+TSUKUBA. Haraguchi &amp; Masumitsu	2nd	Opening Opposition	View Ballot	Isabella FreelandⒸ , Rachel Han , Russell Wang
+De La Salle Espiritu &amp; Varela	1st	Closing Opposition	View Ballot	Cheng Zu YeeⒸ , Devashish Trivedi , Fatima Ahmad
+Mahidol Yadav &amp; Htun	2nd	Closing Government	View Ballot	Cheng Zu YeeⒸ , Devashish Trivedi , Fatima Ahmad
+ICU Kagazume &amp; Kumano	4th	Opening Government	View Ballot	Cheng Zu YeeⒸ , Devashish Trivedi , Fatima Ahmad
+RMIT Duong Quoc &amp; Diem	3rd	Opening Opposition	View Ballot	Cheng Zu YeeⒸ , Devashish Trivedi , Fatima Ahmad
+NTU Qiu &amp; Huang	3rd	Closing Opposition	View Ballot	Auguste McNallyⒸ , Duong (Amy) Tran Mong Thuy , Mahor NagdaⓉ
+BINUS Chen &amp; Marcellyn Cen	4th	Opening Opposition	View Ballot	Auguste McNallyⒸ , Duong (Amy) Tran Mong Thuy , Mahor NagdaⓉ
+Malaya Pillay &amp; Karttikeyn	1st	Opening Government	View Ballot	Auguste McNallyⒸ , Duong (Amy) Tran Mong Thuy , Mahor NagdaⓉ
+UPD Castro &amp; Bengzon	2nd	Closing Government	View Ballot	Auguste McNallyⒸ , Duong (Amy) Tran Mong Thuy , Mahor NagdaⓉ
+IIUM Haniki &amp; Arwaa	1st	Opening Opposition	View Ballot	Martin LimⒸ , Aryamman Bhatia , Trang Nguyen
+Swing 1	4th	Closing Opposition	View Ballot	Martin LimⒸ , Aryamman Bhatia , Trang Nguyen
+UT MARA Madihah &amp; Haikal	3rd	Closing Government	View Ballot	Martin LimⒸ , Aryamman Bhatia , Trang Nguyen
+HKPU Chan &amp; SALEKIN	2nd	Opening Government	View Ballot	Martin LimⒸ , Aryamman Bhatia , Trang Nguyen
+NTU Lim &amp; Bajrai	4th	Closing Government	View Ballot	Robert LeungⒸ , Tasha Daniella , Harith Danial RosleeⓉ
+NUS Tay &amp; Wee	1st	Closing Opposition	View Ballot	Robert LeungⒸ , Tasha Daniella , Harith Danial RosleeⓉ
+NUS Lee &amp; Yeo	3rd	Opening Government	View Ballot	Robert LeungⒸ , Tasha Daniella , Harith Danial RosleeⓉ
+Taylors Chow &amp; Nidzam	2nd	Opening Opposition	View Ballot	Robert LeungⒸ , Tasha Daniella , Harith Danial RosleeⓉ
+NTU Neo &amp; Wong	1st	Closing Government	View Ballot	Shaun LeeⒸ , Axcel France Eco , Izzah RosliⓉ
+PKU Yu &amp; Wang	3rd	Closing Opposition	View Ballot	Shaun LeeⒸ , Axcel France Eco , Izzah RosliⓉ
+IIUM WS &amp; Zaharim	4th	Opening Government	View Ballot	Shaun LeeⒸ , Axcel France Eco , Izzah RosliⓉ
+IGNOU Patra &amp; Jha	2nd	Opening Opposition	View Ballot	Shaun LeeⒸ , Axcel France Eco , Izzah RosliⓉ
+De La Salle Lopez &amp; Lababidi	1st	Closing Government	View Ballot	minami matsushimaⒸ , The Phuong (Daniel) , Li Han OngⓉ
+NUS Chen &amp; Wong	4th	Opening Government	View Ballot	minami matsushimaⒸ , The Phuong (Daniel) , Li Han OngⓉ
+ATENEO Bejarin &amp; Salazar	3rd	Opening Opposition	View Ballot	minami matsushimaⒸ , The Phuong (Daniel) , Li Han OngⓉ
+ATENEO Ypil &amp; Reyes	2nd	Closing Opposition	View Ballot	minami matsushimaⒸ , The Phuong (Daniel) , Li Han OngⓉ
+Fulbright Le &amp; LE	4th	Opening Government	View Ballot	Shireen AliⒸ , Yuichi Masaoka , Avjay BharⓉ
+NTU Wang &amp; Abiera	2nd	Closing Opposition	View Ballot	Shireen AliⒸ , Yuichi Masaoka , Avjay BharⓉ
+IGNOU Chadha &amp; Chawla	1st	Opening Opposition	View Ballot	Shireen AliⒸ , Yuichi Masaoka , Avjay BharⓉ
+IGNOU Sayiram &amp; Das	3rd	Closing Government	View Ballot	Shireen AliⒸ , Yuichi Masaoka , Avjay BharⓉ
+ATENEO Fong &amp; Go	2nd	Opening Government	View Ballot	Sreyan KanungoⒸ , Yashovardhan Balakrishnan , KAVYA DWIVEDIⓉ
+Tokyo Matsuda &amp; Takahashi	3rd	Closing Opposition	View Ballot	Sreyan KanungoⒸ , Yashovardhan Balakrishnan , KAVYA DWIVEDIⓉ
+MUST Shen &amp; Gao	4th	Closing Government	View Ballot	Sreyan KanungoⒸ , Yashovardhan Balakrishnan , KAVYA DWIVEDIⓉ
+UPD Alcañeses &amp; Legaspi	1st	Opening Opposition	View Ballot	Sreyan KanungoⒸ , Yashovardhan Balakrishnan , KAVYA DWIVEDIⓉ
+NUS Dillon &amp; Chai	1st	Closing Government	View Ballot	Sharun Nikesh GⒸ , Chisato Kuwayama
+ATENEO Ventura &amp; Fernandez	4th	Closing Opposition	View Ballot	Sharun Nikesh GⒸ , Chisato Kuwayama
+BINUS Ongkojoyo &amp; Haqqani	2nd	Opening Government	View Ballot	Sharun Nikesh GⒸ , Chisato Kuwayama
+UPD Mencias &amp; Cual	3rd	Opening Opposition	View Ballot	Sharun Nikesh GⒸ , Chisato Kuwayama
+DAV Nguyen &amp; Vu	2nd	Opening Opposition	View Ballot	Deon KiewⒸ , Aki Peyra , Muhammad Fasih Alam KhanⓉ
+NTU Soh &amp; Ha	1st	Closing Government	View Ballot	Deon KiewⒸ , Aki Peyra , Muhammad Fasih Alam KhanⓉ
+Dr. RMLNLU . &amp; Verma	4th	Closing Opposition	View Ballot	Deon KiewⒸ , Aki Peyra , Muhammad Fasih Alam KhanⓉ
+TSUKUBA. Hata &amp; Kato	3rd	Opening Government	View Ballot	Deon KiewⒸ , Aki Peyra , Muhammad Fasih Alam KhanⓉ
+IIUM Abdullah &amp; Rizwan	3rd	Closing Government	View Ballot	Rohan KapurⒸ , Francis Vendiola , SU LET YATI SOE , Luna Yael InventorⓉ
+Mahidol Songsomphan &amp; Sachdev	4th	Opening Government	View Ballot	Rohan KapurⒸ , Francis Vendiola , SU LET YATI SOE , Luna Yael InventorⓉ
+BFSU Xu &amp; Tang	1st	Opening Opposition	View Ballot	Rohan KapurⒸ , Francis Vendiola , SU LET YATI SOE , Luna Yael InventorⓉ
+RMIT Tạ &amp; Madej	2nd	Closing Opposition	View Ballot	Rohan KapurⒸ , Francis Vendiola , SU LET YATI SOE , Luna Yael InventorⓉ
+Keio Yamagiwa &amp; Iida	3rd	Closing Government	View Ballot	Wai Yin (Vincent) ChauⒸ , Annika Chua , Orlando Laudico
+MUST Zhou &amp; Xu	2nd	Closing Opposition	View Ballot	Wai Yin (Vincent) ChauⒸ , Annika Chua , Orlando Laudico
+UT MARA Aiman &amp; Mukmin	1st	Opening Government	View Ballot	Wai Yin (Vincent) ChauⒸ , Annika Chua , Orlando Laudico
+RMIT Mahamongkol &amp; Nguyen	4th	Opening Opposition	View Ballot	Wai Yin (Vincent) ChauⒸ , Annika Chua , Orlando Laudico
+Mahidol Boonprasong &amp; Sagaekhao	3rd	Opening Opposition	View Ballot	Alesandra BarrandaⒸ , Kei Kashioka , Mior Arif , Laurie DaoⓉ
+Taylors Firdaus &amp; Lim	4th	Closing Government	View Ballot	Alesandra BarrandaⒸ , Kei Kashioka , Mior Arif , Laurie DaoⓉ
+SMU Poon &amp; Sia	2nd	Opening Government	View Ballot	Alesandra BarrandaⒸ , Kei Kashioka , Mior Arif , Laurie DaoⓉ
+GCU Ahmad Khan &amp; Zeeshan Awan	1st	Closing Opposition	View Ballot	Alesandra BarrandaⒸ , Kei Kashioka , Mior Arif , Laurie DaoⓉ
+Mahidol Dutta &amp; Dawoodjee	2nd	Closing Opposition	View Ballot	Ahmad Tousif JamiⒸ , Abhyudya Sangwan , Odessa Julienne Rebaya , Sayyed Muhammed Ridzwan HarahapⓉ
+Tokyo Watanabe &amp; Fujikawa	1st	Opening Opposition	View Ballot	Ahmad Tousif JamiⒸ , Abhyudya Sangwan , Odessa Julienne Rebaya , Sayyed Muhammed Ridzwan HarahapⓉ
+Malaya Akasyah &amp; Sundrasagar	3rd	Closing Government	View Ballot	Ahmad Tousif JamiⒸ , Abhyudya Sangwan , Odessa Julienne Rebaya , Sayyed Muhammed Ridzwan HarahapⓉ
+RMIT Huynh &amp; Nguyen	4th	Opening Government	View Ballot	Ahmad Tousif JamiⒸ , Abhyudya Sangwan , Odessa Julienne Rebaya , Sayyed Muhammed Ridzwan HarahapⓉ
+VIT K Sharma &amp; Modi	2nd	Closing Government	View Ballot	RaymondⒸ , Regina Stephanie Wuisana , RedactedⓉ , Uyên TạⓉ
+De La Salle Haduca &amp; David	1st	Opening Opposition	View Ballot	RaymondⒸ , Regina Stephanie Wuisana , RedactedⓉ , Uyên TạⓉ
+NSU Khan Chowdhury &amp; Safin	3rd	Closing Opposition	View Ballot	RaymondⒸ , Regina Stephanie Wuisana , RedactedⓉ , Uyên TạⓉ
+Tokyo Mimura &amp; Negita	4th	Opening Government	View Ballot	RaymondⒸ , Regina Stephanie Wuisana , RedactedⓉ , Uyên TạⓉ
+IITB Mehta &amp; Raghav Raj	4th	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Cho Ying LEE , Vani Bhardwaj , Pornchanit ChinvittayakulⓉ
+Keio Sadaoka &amp; Smith	3rd	Closing Government	View Ballot	Sunghyun ParkⒸ , Cho Ying LEE , Vani Bhardwaj , Pornchanit ChinvittayakulⓉ
+NUS Vilas &amp; Nga	2nd	Opening Government	View Ballot	Sunghyun ParkⒸ , Cho Ying LEE , Vani Bhardwaj , Pornchanit ChinvittayakulⓉ
+ATENEO Largo &amp; Tiangco	1st	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Cho Ying LEE , Vani Bhardwaj , Pornchanit ChinvittayakulⓉ
+
+
+team	result	side	ballot	adjudicators
+NUS Vilas &amp; Nga	1st	Closing Government	View Ballot	Alesandra BarrandaⒸ , Annika Chua , Regina Stephanie Wuisana
+Mahidol Yadav &amp; Htun	4th	Closing Opposition	View Ballot	Alesandra BarrandaⒸ , Annika Chua , Regina Stephanie Wuisana
+SMU Lim &amp; Lim	3rd	Opening Opposition	View Ballot	Alesandra BarrandaⒸ , Annika Chua , Regina Stephanie Wuisana
+BFSU Yang &amp; Han	2nd	Opening Government	View Ballot	Alesandra BarrandaⒸ , Annika Chua , Regina Stephanie Wuisana
+ATENEO Largo &amp; Tiangco	1st	Closing Opposition	View Ballot	Francis VendiolaⒸ , Aryamman Bhatia , Avjay Bhar
+ATENEO Neri &amp; Tango	2nd	Closing Government	View Ballot	Francis VendiolaⒸ , Aryamman Bhatia , Avjay Bhar
+Tokyo Matsuda &amp; Takahashi	3rd	Opening Government	View Ballot	Francis VendiolaⒸ , Aryamman Bhatia , Avjay Bhar
+Malaya Ahsan &amp; Pu	4th	Opening Opposition	View Ballot	Francis VendiolaⒸ , Aryamman Bhatia , Avjay Bhar
+ATENEO Ventura &amp; Fernandez	1st	Opening Opposition	View Ballot	RaymondⒸ , Li Han OngⓉ , Patsha DejarathⓉ , RedactedⓉ
+UT MARA Aiman &amp; Mukmin	2nd	Closing Government	View Ballot	RaymondⒸ , Li Han OngⓉ , Patsha DejarathⓉ , RedactedⓉ
+TSUKUBA. Haraguchi &amp; Masumitsu	3rd	Closing Opposition	View Ballot	RaymondⒸ , Li Han OngⓉ , Patsha DejarathⓉ , RedactedⓉ
+RMIT Tạ &amp; Madej	4th	Opening Government	View Ballot	RaymondⒸ , Li Han OngⓉ , Patsha DejarathⓉ , RedactedⓉ
+De La Salle Haduca &amp; David	4th	Opening Government	View Ballot	Isabella FreelandⒸ , Cheng Zu Yee , Lan Tran , Minh DoⓉ
+De La Salle Lopez &amp; Lababidi	1st	Closing Opposition	View Ballot	Isabella FreelandⒸ , Cheng Zu Yee , Lan Tran , Minh DoⓉ
+NTU Soh &amp; Ha	3rd	Opening Opposition	View Ballot	Isabella FreelandⒸ , Cheng Zu Yee , Lan Tran , Minh DoⓉ
+NUS Tay &amp; Wee	2nd	Closing Government	View Ballot	Isabella FreelandⒸ , Cheng Zu Yee , Lan Tran , Minh DoⓉ
+Tokyo Kajitani &amp; Saito	4th	Opening Government	View Ballot	Deon KiewⒸ , Kentaro KashiwagiⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+BINUS Ongkojoyo &amp; Haqqani	1st	Opening Opposition	View Ballot	Deon KiewⒸ , Kentaro KashiwagiⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+UPD Castro &amp; Bengzon	2nd	Closing Opposition	View Ballot	Deon KiewⒸ , Kentaro KashiwagiⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+IGNOU Patra &amp; Jha	3rd	Closing Government	View Ballot	Deon KiewⒸ , Kentaro KashiwagiⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+NUS Dillon &amp; Chai	1st	Opening Government	View Ballot	Rohan KapurⒸ , Axcel France Eco , Orlando Laudico
+ATENEO Fong &amp; Go	3rd	Opening Opposition	View Ballot	Rohan KapurⒸ , Axcel France Eco , Orlando Laudico
+NTU Wang &amp; Abiera	4th	Closing Government	View Ballot	Rohan KapurⒸ , Axcel France Eco , Orlando Laudico
+Malaya Pillay &amp; Karttikeyn	2nd	Closing Opposition	View Ballot	Rohan KapurⒸ , Axcel France Eco , Orlando Laudico
+NTU Lim &amp; Bajrai	1st	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Mior ArifⓉ , Muhammad Fasih Alam KhanⓉ , Xian Yii LeeⓉ
+CHULA Shrestha &amp; Nuqui	2nd	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Mior ArifⓉ , Muhammad Fasih Alam KhanⓉ , Xian Yii LeeⓉ
+Tokyo Mimura &amp; Negita	4th	Closing Government	View Ballot	Sunghyun ParkⒸ , Mior ArifⓉ , Muhammad Fasih Alam KhanⓉ , Xian Yii LeeⓉ
+MUST Zhou &amp; Xu	3rd	Opening Government	View Ballot	Sunghyun ParkⒸ , Mior ArifⓉ , Muhammad Fasih Alam KhanⓉ , Xian Yii LeeⓉ
+IITB Chakraborty &amp; Khona	3rd	Opening Opposition	View Ballot	Martin LimⒸ , Ahmad Tousif Jami
+NTU Qiu &amp; Huang	2nd	Closing Government	View Ballot	Martin LimⒸ , Ahmad Tousif Jami
+UP Los Baños Bensali &amp; Tan	1st	Closing Opposition	View Ballot	Martin LimⒸ , Ahmad Tousif Jami
+Taylors Chow &amp; Nidzam	4th	Opening Government	View Ballot	Martin LimⒸ , Ahmad Tousif Jami
+IITB Mehta &amp; Raghav Raj	2nd	Opening Opposition	View Ballot	SU LET YATI SOEⒸ , Shaun Lee , The Phuong (Daniel)
+UGM Vito &amp; Rosyada	3rd	Opening Government	View Ballot	SU LET YATI SOEⒸ , Shaun Lee , The Phuong (Daniel)
+Mahidol Boonprasong &amp; Sagaekhao	4th	Closing Government	View Ballot	SU LET YATI SOEⒸ , Shaun Lee , The Phuong (Daniel)
+Fudan Zhang &amp; Jin	1st	Closing Opposition	View Ballot	SU LET YATI SOEⒸ , Shaun Lee , The Phuong (Daniel)
+Fulbright Le &amp; LE	4th	Opening Opposition	View Ballot	Odessa Julienne RebayaⒸ , Sharun Nikesh G , Shanjit ChitphentomⓉ , Tasha DaniellaⓉ
+NSU Khan Chowdhury &amp; Safin	2nd	Closing Government	View Ballot	Odessa Julienne RebayaⒸ , Sharun Nikesh G , Shanjit ChitphentomⓉ , Tasha DaniellaⓉ
+MUST Shen &amp; Gao	3rd	Opening Government	View Ballot	Odessa Julienne RebayaⒸ , Sharun Nikesh G , Shanjit ChitphentomⓉ , Tasha DaniellaⓉ
+BINUS Chen &amp; Marcellyn Cen	1st	Closing Opposition	View Ballot	Odessa Julienne RebayaⒸ , Sharun Nikesh G , Shanjit ChitphentomⓉ , Tasha DaniellaⓉ
+PKU Yu &amp; Wang	4th	Opening Opposition	View Ballot	Laurie DaoⒸ , Shireen Ali , Duong (Amy) Tran Mong ThuyⓉ , KAVYA DWIVEDIⓉ
+NSU Ismam &amp; Masud	3rd	Opening Government	View Ballot	Laurie DaoⒸ , Shireen Ali , Duong (Amy) Tran Mong ThuyⓉ , KAVYA DWIVEDIⓉ
+Tokyo Watanabe &amp; Fujikawa	2nd	Closing Government	View Ballot	Laurie DaoⒸ , Shireen Ali , Duong (Amy) Tran Mong ThuyⓉ , KAVYA DWIVEDIⓉ
+TSUKUBA. Hata &amp; Kato	1st	Closing Opposition	View Ballot	Laurie DaoⒸ , Shireen Ali , Duong (Amy) Tran Mong ThuyⓉ , KAVYA DWIVEDIⓉ
+IIUM Hany &amp; Alhabshi	4th	Opening Government	View Ballot	Chisato KuwayamaⒸ , Robert Leung , Mahor NagdaⓉ
+IIUM WS &amp; Zaharim	1st	Closing Opposition	View Ballot	Chisato KuwayamaⒸ , Robert Leung , Mahor NagdaⓉ
+SMU Poon &amp; Sia	2nd	Closing Government	View Ballot	Chisato KuwayamaⒸ , Robert Leung , Mahor NagdaⓉ
+Malaya Akasyah &amp; Sundrasagar	3rd	Opening Opposition	View Ballot	Chisato KuwayamaⒸ , Robert Leung , Mahor NagdaⓉ
+De La Salle Espiritu &amp; Varela	2nd	Opening Opposition	View Ballot	Yuichi MasaokaⒸ , Sreyan Kanungo , Izzah RosliⓉ , Uyên TạⓉ
+NUS Lee &amp; Yeo	1st	Closing Government	View Ballot	Yuichi MasaokaⒸ , Sreyan Kanungo , Izzah RosliⓉ , Uyên TạⓉ
+IIUM Haniki &amp; Arwaa	4th	Closing Opposition	View Ballot	Yuichi MasaokaⒸ , Sreyan Kanungo , Izzah RosliⓉ , Uyên TạⓉ
+GCU Ahmad Khan &amp; Zeeshan Awan	3rd	Opening Government	View Ballot	Yuichi MasaokaⒸ , Sreyan Kanungo , Izzah RosliⓉ , Uyên TạⓉ
+NTU Neo &amp; Wong	4th	Opening Opposition	View Ballot	Auguste McNallyⒸ , Kei Kashioka , Luna Yael InventorⓉ
+NUS Tay &amp; Ang	1st	Closing Opposition	View Ballot	Auguste McNallyⒸ , Kei Kashioka , Luna Yael InventorⓉ
+UPD Alcañeses &amp; Legaspi	3rd	Closing Government	View Ballot	Auguste McNallyⒸ , Kei Kashioka , Luna Yael InventorⓉ
+IGNOU Chadha &amp; Chawla	2nd	Opening Government	View Ballot	Auguste McNallyⒸ , Kei Kashioka , Luna Yael InventorⓉ
+Keio Yamagiwa &amp; Iida	3rd	Opening Government	View Ballot	Aki PeyraⒸ , minami matsushima
+ICU Kagazume &amp; Kumano	2nd	Closing Opposition	View Ballot	Aki PeyraⒸ , minami matsushima
+UT MARA Aripin &amp; Camela	1st	Opening Opposition	View Ballot	Aki PeyraⒸ , minami matsushima
+RMIT Duong Quoc &amp; Diem	4th	Closing Government	View Ballot	Aki PeyraⒸ , minami matsushima
+DAV Nguyen &amp; Vu	4th	Opening Government	View Ballot	﻿Mikkel NeriⒸ , Diggory Waddle , Vani Bhardwaj
+Tokyo Tsuchiya &amp; Yoshida	2nd	Opening Opposition	View Ballot	﻿Mikkel NeriⒸ , Diggory Waddle , Vani Bhardwaj
+BFSU Xu &amp; Tang	3rd	Closing Government	View Ballot	﻿Mikkel NeriⒸ , Diggory Waddle , Vani Bhardwaj
+IGNOU Sayiram &amp; Das	1st	Closing Opposition	View Ballot	﻿Mikkel NeriⒸ , Diggory Waddle , Vani Bhardwaj
+NUS Chen &amp; Wong	1st	Closing Government	View Ballot	Haikal DanielⒸ , Russell WangⓉ , Xiye JiangⓉ
+IIUM Abdullah &amp; Rizwan	3rd	Opening Government	View Ballot	Haikal DanielⒸ , Russell WangⓉ , Xiye JiangⓉ
+Mahidol Dutta &amp; Dawoodjee	2nd	Opening Opposition	View Ballot	Haikal DanielⒸ , Russell WangⓉ , Xiye JiangⓉ
+HKPU Chan &amp; SALEKIN	4th	Closing Opposition	View Ballot	Haikal DanielⒸ , Russell WangⓉ , Xiye JiangⓉ
+VIT K Sharma &amp; Modi	2nd	Opening Opposition	View Ballot	Wai Yin (Vincent) ChauⒸ , Fatima Ahmad , Trang Nguyen
+ATENEO Bejarin &amp; Salazar	1st	Closing Government	View Ballot	Wai Yin (Vincent) ChauⒸ , Fatima Ahmad , Trang Nguyen
+ATENEO Ypil &amp; Reyes	3rd	Opening Government	View Ballot	Wai Yin (Vincent) ChauⒸ , Fatima Ahmad , Trang Nguyen
+UPD Mencias &amp; Cual	4th	Closing Opposition	View Ballot	Wai Yin (Vincent) ChauⒸ , Fatima Ahmad , Trang Nguyen
+Swing 1	1st	Opening Opposition	View Ballot	Devashish TrivediⒸ , Harith Danial RosleeⓉ , Lloyd Andrei S. DaduloⓉ
+Taylors Firdaus &amp; Lim	2nd	Opening Government	View Ballot	Devashish TrivediⒸ , Harith Danial RosleeⓉ , Lloyd Andrei S. DaduloⓉ
+RMIT Mahamongkol &amp; Nguyen	4th	Closing Government	View Ballot	Devashish TrivediⒸ , Harith Danial RosleeⓉ , Lloyd Andrei S. DaduloⓉ
+RMIT Huynh &amp; Nguyen	3rd	Closing Opposition	View Ballot	Devashish TrivediⒸ , Harith Danial RosleeⓉ , Lloyd Andrei S. DaduloⓉ
+Keio Sadaoka &amp; Smith	2nd	Closing Opposition	View Ballot	Charlie RyanⒸ , Rachel HanⓉ , Yashovardhan BalakrishnanⓉ
+Dr. RMLNLU . &amp; Verma	1st	Opening Opposition	View Ballot	Charlie RyanⒸ , Rachel HanⓉ , Yashovardhan BalakrishnanⓉ
+Mahidol Songsomphan &amp; Sachdev	4th	Closing Government	View Ballot	Charlie RyanⒸ , Rachel HanⓉ , Yashovardhan BalakrishnanⓉ
+UT MARA Madihah &amp; Haikal	3rd	Opening Government	View Ballot	Charlie RyanⒸ , Rachel HanⓉ , Yashovardhan BalakrishnanⓉ
+
+
+team	result	side	ballot	adjudicators
+IIUM Hany &amp; Alhabshi	3rd	Closing Government	View Ballot	Wai Yin (Vincent) ChauⒸ , SU LET YATI SOE , ﻿Mikkel Neri
+Mahidol Yadav &amp; Htun	4th	Opening Opposition	View Ballot	Wai Yin (Vincent) ChauⒸ , SU LET YATI SOE , ﻿Mikkel Neri
+Taylors Firdaus &amp; Lim	1st	Closing Opposition	View Ballot	Wai Yin (Vincent) ChauⒸ , SU LET YATI SOE , ﻿Mikkel Neri
+Malaya Akasyah &amp; Sundrasagar	2nd	Opening Government	View Ballot	Wai Yin (Vincent) ChauⒸ , SU LET YATI SOE , ﻿Mikkel Neri
+NTU Soh &amp; Ha	1st	Closing Opposition	View Ballot	Auguste McNallyⒸ , Mior Arif , Tasha Daniella , RedactedⓉ
+NUS Vilas &amp; Nga	4th	Closing Government	View Ballot	Auguste McNallyⒸ , Mior Arif , Tasha Daniella , RedactedⓉ
+NUS Lee &amp; Yeo	2nd	Opening Opposition	View Ballot	Auguste McNallyⒸ , Mior Arif , Tasha Daniella , RedactedⓉ
+ATENEO Bejarin &amp; Salazar	3rd	Opening Government	View Ballot	Auguste McNallyⒸ , Mior Arif , Tasha Daniella , RedactedⓉ
+DAV Nguyen &amp; Vu	4th	Closing Government	View Ballot	Martin LimⒸ , Abhyudya Sangwan , Fatima Ahmad
+NTU Neo &amp; Wong	1st	Opening Government	View Ballot	Martin LimⒸ , Abhyudya Sangwan , Fatima Ahmad
+NUS Chen &amp; Wong	2nd	Closing Opposition	View Ballot	Martin LimⒸ , Abhyudya Sangwan , Fatima Ahmad
+Tokyo Matsuda &amp; Takahashi	3rd	Opening Opposition	View Ballot	Martin LimⒸ , Abhyudya Sangwan , Fatima Ahmad
+Keio Yamagiwa &amp; Iida	1st	Opening Opposition	View Ballot	Alesandra BarrandaⒸ , Russell WangⓉ , Uyên TạⓉ
+Mahidol Songsomphan &amp; Sachdev	4th	Closing Opposition	View Ballot	Alesandra BarrandaⒸ , Russell WangⓉ , Uyên TạⓉ
+ICU Kagazume &amp; Kumano	3rd	Opening Government	View Ballot	Alesandra BarrandaⒸ , Russell WangⓉ , Uyên TạⓉ
+HKPU Chan &amp; SALEKIN	2nd	Closing Government	View Ballot	Alesandra BarrandaⒸ , Russell WangⓉ , Uyên TạⓉ
+ATENEO Ventura &amp; Fernandez	2nd	Opening Government	View Ballot	Isabella FreelandⒸ , Kei Kashioka , Izzah RosliⓉ
+ATENEO Fong &amp; Go	1st	Closing Opposition	View Ballot	Isabella FreelandⒸ , Kei Kashioka , Izzah RosliⓉ
+BINUS Chen &amp; Marcellyn Cen	4th	Closing Government	View Ballot	Isabella FreelandⒸ , Kei Kashioka , Izzah RosliⓉ
+TSUKUBA. Hata &amp; Kato	3rd	Opening Opposition	View Ballot	Isabella FreelandⒸ , Kei Kashioka , Izzah RosliⓉ
+De La Salle Espiritu &amp; Varela	4th	Opening Government	View Ballot	Vani BhardwajⒸ , Deon Kiew , Lloyd Andrei S. Dadulo , Pornchanit ChinvittayakulⓉ
+IITB Chakraborty &amp; Khona	3rd	Closing Opposition	View Ballot	Vani BhardwajⒸ , Deon Kiew , Lloyd Andrei S. Dadulo , Pornchanit ChinvittayakulⓉ
+IIUM WS &amp; Zaharim	1st	Closing Government	View Ballot	Vani BhardwajⒸ , Deon Kiew , Lloyd Andrei S. Dadulo , Pornchanit ChinvittayakulⓉ
+ATENEO Ypil &amp; Reyes	2nd	Opening Opposition	View Ballot	Vani BhardwajⒸ , Deon Kiew , Lloyd Andrei S. Dadulo , Pornchanit ChinvittayakulⓉ
+Fulbright Le &amp; LE	1st	Closing Opposition	View Ballot	Cheng Zu YeeⒸ , Axcel France Eco , Luna Yael Inventor
+Swing 1	4th	Closing Government	View Ballot	Cheng Zu YeeⒸ , Axcel France Eco , Luna Yael Inventor
+SMU Lim &amp; Lim	2nd	Opening Government	View Ballot	Cheng Zu YeeⒸ , Axcel France Eco , Luna Yael Inventor
+UT MARA Madihah &amp; Haikal	3rd	Opening Opposition	View Ballot	Cheng Zu YeeⒸ , Axcel France Eco , Luna Yael Inventor
+Taylors Chow &amp; Nidzam	1st	Closing Government	View Ballot	Haikal DanielⒸ , Chisato Kuwayama , Kentaro Kashiwagi
+CHULA Shrestha &amp; Nuqui	2nd	Opening Government	View Ballot	Haikal DanielⒸ , Chisato Kuwayama , Kentaro Kashiwagi
+MUST Shen &amp; Gao	4th	Closing Opposition	View Ballot	Haikal DanielⒸ , Chisato Kuwayama , Kentaro Kashiwagi
+GCU Ahmad Khan &amp; Zeeshan Awan	3rd	Opening Opposition	View Ballot	Haikal DanielⒸ , Chisato Kuwayama , Kentaro Kashiwagi
+NTU Lim &amp; Bajrai	1st	Opening Government	View Ballot	Shaun LeeⒸ , KAVYA DWIVEDI , Patsha DejarathⓉ
+NTU Wang &amp; Abiera	4th	Opening Opposition	View Ballot	Shaun LeeⒸ , KAVYA DWIVEDI , Patsha DejarathⓉ
+Malaya Ahsan &amp; Pu	3rd	Closing Government	View Ballot	Shaun LeeⒸ , KAVYA DWIVEDI , Patsha DejarathⓉ
+BFSU Xu &amp; Tang	2nd	Closing Opposition	View Ballot	Shaun LeeⒸ , KAVYA DWIVEDI , Patsha DejarathⓉ
+NSU Ismam &amp; Masud	4th	Closing Government	View Ballot	Aryamman BhatiaⒸ , Minh Do , Sreyan Kanungo , Li Han OngⓉ
+SMU Poon &amp; Sia	3rd	Opening Opposition	View Ballot	Aryamman BhatiaⒸ , Minh Do , Sreyan Kanungo , Li Han OngⓉ
+UT MARA Aripin &amp; Camela	2nd	Closing Opposition	View Ballot	Aryamman BhatiaⒸ , Minh Do , Sreyan Kanungo , Li Han OngⓉ
+Fudan Zhang &amp; Jin	1st	Opening Government	View Ballot	Aryamman BhatiaⒸ , Minh Do , Sreyan Kanungo , Li Han OngⓉ
+Keio Sadaoka &amp; Smith	2nd	Opening Government	View Ballot	Avjay BharⒸ , Annika Chua , Robert Leung
+Mahidol Dutta &amp; Dawoodjee	4th	Closing Opposition	View Ballot	Avjay BharⒸ , Annika Chua , Robert Leung
+UPD Mencias &amp; Cual	1st	Closing Government	View Ballot	Avjay BharⒸ , Annika Chua , Robert Leung
+TSUKUBA. Haraguchi &amp; Masumitsu	3rd	Opening Opposition	View Ballot	Avjay BharⒸ , Annika Chua , Robert Leung
+IITB Mehta &amp; Raghav Raj	4th	Closing Government	View Ballot	Shireen AliⒸ , Regina Stephanie Wuisana , Yashovardhan Balakrishnan
+UGM Vito &amp; Rosyada	3rd	Closing Opposition	View Ballot	Shireen AliⒸ , Regina Stephanie Wuisana , Yashovardhan Balakrishnan
+IIUM Haniki &amp; Arwaa	1st	Opening Government	View Ballot	Shireen AliⒸ , Regina Stephanie Wuisana , Yashovardhan Balakrishnan
+MUST Zhou &amp; Xu	2nd	Opening Opposition	View Ballot	Shireen AliⒸ , Regina Stephanie Wuisana , Yashovardhan Balakrishnan
+Dr. RMLNLU . &amp; Verma	4th	Closing Government	View Ballot	Sharun Nikesh GⒸ , Lan Tran , Harith Danial RosleeⓉ , Xiye JiangⓉ
+Tokyo Watanabe &amp; Fujikawa	3rd	Closing Opposition	View Ballot	Sharun Nikesh GⒸ , Lan Tran , Harith Danial RosleeⓉ , Xiye JiangⓉ
+Tokyo Kajitani &amp; Saito	1st	Opening Opposition	View Ballot	Sharun Nikesh GⒸ , Lan Tran , Harith Danial RosleeⓉ , Xiye JiangⓉ
+IGNOU Patra &amp; Jha	2nd	Opening Government	View Ballot	Sharun Nikesh GⒸ , Lan Tran , Harith Danial RosleeⓉ , Xiye JiangⓉ
+De La Salle Haduca &amp; David	1st	Closing Government	View Ballot	Rohan KapurⒸ , Aki Peyra , Mahor Nagda
+NSU Khan Chowdhury &amp; Safin	2nd	Opening Government	View Ballot	Rohan KapurⒸ , Aki Peyra , Mahor Nagda
+UT MARA Aiman &amp; Mukmin	3rd	Closing Opposition	View Ballot	Rohan KapurⒸ , Aki Peyra , Mahor Nagda
+BFSU Yang &amp; Han	4th	Opening Opposition	View Ballot	Rohan KapurⒸ , Aki Peyra , Mahor Nagda
+Mahidol Boonprasong &amp; Sagaekhao	1st	Opening Government	View Ballot	Trang NguyenⒸ , Ahmad Tousif Jami , Francis Vendiola
+RMIT Mahamongkol &amp; Nguyen	4th	Closing Opposition	View Ballot	Trang NguyenⒸ , Ahmad Tousif Jami , Francis Vendiola
+RMIT Huynh &amp; Nguyen	3rd	Opening Opposition	View Ballot	Trang NguyenⒸ , Ahmad Tousif Jami , Francis Vendiola
+RMIT Duong Quoc &amp; Diem	2nd	Closing Government	View Ballot	Trang NguyenⒸ , Ahmad Tousif Jami , Francis Vendiola
+VIT K Sharma &amp; Modi	4th	Closing Opposition	View Ballot	Charlie RyanⒸ , The Phuong (Daniel) , Muhammad Fasih Alam KhanⓉ , Xian Yii LeeⓉ
+NUS Tay &amp; Wee	1st	Opening Opposition	View Ballot	Charlie RyanⒸ , The Phuong (Daniel) , Muhammad Fasih Alam KhanⓉ , Xian Yii LeeⓉ
+UPD Castro &amp; Bengzon	2nd	Closing Government	View Ballot	Charlie RyanⒸ , The Phuong (Daniel) , Muhammad Fasih Alam KhanⓉ , Xian Yii LeeⓉ
+IGNOU Sayiram &amp; Das	3rd	Opening Government	View Ballot	Charlie RyanⒸ , The Phuong (Daniel) , Muhammad Fasih Alam KhanⓉ , Xian Yii LeeⓉ
+NTU Qiu &amp; Huang	4th	Opening Government	View Ballot	RaymondⒸ , Laurie Dao , Shanjit ChitphentomⓉ
+UP Los Baños Bensali &amp; Tan	3rd	Closing Government	View Ballot	RaymondⒸ , Laurie Dao , Shanjit ChitphentomⓉ
+ATENEO Neri &amp; Tango	1st	Opening Opposition	View Ballot	RaymondⒸ , Laurie Dao , Shanjit ChitphentomⓉ
+Tokyo Tsuchiya &amp; Yoshida	2nd	Closing Opposition	View Ballot	RaymondⒸ , Laurie Dao , Shanjit ChitphentomⓉ
+PKU Yu &amp; Wang	1st	Opening Government	View Ballot	Devashish TrivediⒸ , Odessa Julienne Rebaya , Orlando Laudico
+IIUM Abdullah &amp; Rizwan	2nd	Closing Opposition	View Ballot	Devashish TrivediⒸ , Odessa Julienne Rebaya , Orlando Laudico
+Tokyo Mimura &amp; Negita	3rd	Opening Opposition	View Ballot	Devashish TrivediⒸ , Odessa Julienne Rebaya , Orlando Laudico
+RMIT Tạ &amp; Madej	4th	Closing Government	View Ballot	Devashish TrivediⒸ , Odessa Julienne Rebaya , Orlando Laudico
+De La Salle Lopez &amp; Lababidi	3rd	Opening Government	View Ballot	Sunghyun ParkⒸ , Duong (Amy) Tran Mong ThuyⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+NUS Dillon &amp; Chai	4th	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Duong (Amy) Tran Mong ThuyⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+NUS Tay &amp; Ang	1st	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Duong (Amy) Tran Mong ThuyⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+IGNOU Chadha &amp; Chawla	2nd	Closing Government	View Ballot	Sunghyun ParkⒸ , Duong (Amy) Tran Mong ThuyⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+ATENEO Largo &amp; Tiangco	1st	Opening Government	View Ballot	Yuichi MasaokaⒸ , Diggory Waddle , Rachel HanⓉ
+BINUS Ongkojoyo &amp; Haqqani	2nd	Closing Government	View Ballot	Yuichi MasaokaⒸ , Diggory Waddle , Rachel HanⓉ
+Malaya Pillay &amp; Karttikeyn	4th	Opening Opposition	View Ballot	Yuichi MasaokaⒸ , Diggory Waddle , Rachel HanⓉ
+UPD Alcañeses &amp; Legaspi	3rd	Closing Opposition	View Ballot	Yuichi MasaokaⒸ , Diggory Waddle , Rachel HanⓉ
+
+
+team	result	side	ballot	adjudicators
+IITB Chakraborty &amp; Khona	2nd	Closing Opposition	View Ballot	﻿Mikkel NeriⒸ , Fatima Ahmad , Yuichi Masaoka , Russell WangⓉ
+PKU Yu &amp; Wang	1st	Opening Opposition	View Ballot	﻿Mikkel NeriⒸ , Fatima Ahmad , Yuichi Masaoka , Russell WangⓉ
+Fulbright Le &amp; LE	3rd	Closing Government	View Ballot	﻿Mikkel NeriⒸ , Fatima Ahmad , Yuichi Masaoka , Russell WangⓉ
+CHULA Shrestha &amp; Nuqui	4th	Opening Government	View Ballot	﻿Mikkel NeriⒸ , Fatima Ahmad , Yuichi Masaoka , Russell WangⓉ
+Tokyo Matsuda &amp; Takahashi	2nd	Opening Opposition	View Ballot	Diggory WaddleⒸ , Axcel France Eco , Odessa Julienne Rebaya
+TSUKUBA. Hata &amp; Kato	4th	Opening Government	View Ballot	Diggory WaddleⒸ , Axcel France Eco , Odessa Julienne Rebaya
+Fudan Zhang &amp; Jin	3rd	Closing Government	View Ballot	Diggory WaddleⒸ , Axcel France Eco , Odessa Julienne Rebaya
+IGNOU Patra &amp; Jha	1st	Closing Opposition	View Ballot	Diggory WaddleⒸ , Axcel France Eco , Odessa Julienne Rebaya
+De La Salle Lopez &amp; Lababidi	3rd	Opening Opposition	View Ballot	Deon KiewⒸ , Uyên TạⓉ , Yashovardhan BalakrishnanⓉ
+NTU Soh &amp; Ha	1st	Closing Government	View Ballot	Deon KiewⒸ , Uyên TạⓉ , Yashovardhan BalakrishnanⓉ
+ATENEO Neri &amp; Tango	4th	Closing Opposition	View Ballot	Deon KiewⒸ , Uyên TạⓉ , Yashovardhan BalakrishnanⓉ
+UPD Alcañeses &amp; Legaspi	2nd	Opening Government	View Ballot	Deon KiewⒸ , Uyên TạⓉ , Yashovardhan BalakrishnanⓉ
+Mahidol Dutta &amp; Dawoodjee	2nd	Opening Government	View Ballot	Auguste McNallyⒸ , Orlando Laudico , The Phuong (Daniel)
+NSU Ismam &amp; Masud	1st	Closing Government	View Ballot	Auguste McNallyⒸ , Orlando Laudico , The Phuong (Daniel)
+Malaya Akasyah &amp; Sundrasagar	3rd	Closing Opposition	View Ballot	Auguste McNallyⒸ , Orlando Laudico , The Phuong (Daniel)
+HKPU Chan &amp; SALEKIN	4th	Opening Opposition	View Ballot	Auguste McNallyⒸ , Orlando Laudico , The Phuong (Daniel)
+ICU Kagazume &amp; Kumano	2nd	Opening Opposition	View Ballot	Aryamman BhatiaⒸ , Aki Peyra , Wai Yin (Vincent) Chau
+UT MARA Madihah &amp; Haikal	1st	Closing Government	View Ballot	Aryamman BhatiaⒸ , Aki Peyra , Wai Yin (Vincent) Chau
+RMIT Tạ &amp; Madej	3rd	Opening Government	View Ballot	Aryamman BhatiaⒸ , Aki Peyra , Wai Yin (Vincent) Chau
+RMIT Duong Quoc &amp; Diem	4th	Closing Opposition	View Ballot	Aryamman BhatiaⒸ , Aki Peyra , Wai Yin (Vincent) Chau
+DAV Nguyen &amp; Vu	2nd	Opening Opposition	View Ballot	Devashish TrivediⒸ , Annika Chua , Avjay Bhar , Muhammad Fasih Alam KhanⓉ
+UGM Vito &amp; Rosyada	3rd	Closing Government	View Ballot	Devashish TrivediⒸ , Annika Chua , Avjay Bhar , Muhammad Fasih Alam KhanⓉ
+Mahidol Boonprasong &amp; Sagaekhao	4th	Closing Opposition	View Ballot	Devashish TrivediⒸ , Annika Chua , Avjay Bhar , Muhammad Fasih Alam KhanⓉ
+MUST Shen &amp; Gao	1st	Opening Government	View Ballot	Devashish TrivediⒸ , Annika Chua , Avjay Bhar , Muhammad Fasih Alam KhanⓉ
+VIT K Sharma &amp; Modi	1st	Closing Government	View Ballot	Rohan KapurⒸ , Chisato Kuwayama , Martin Lim , Pornchanit ChinvittayakulⓉ
+Keio Yamagiwa &amp; Iida	4th	Opening Opposition	View Ballot	Rohan KapurⒸ , Chisato Kuwayama , Martin Lim , Pornchanit ChinvittayakulⓉ
+NUS Vilas &amp; Nga	3rd	Closing Opposition	View Ballot	Rohan KapurⒸ , Chisato Kuwayama , Martin Lim , Pornchanit ChinvittayakulⓉ
+Tokyo Watanabe &amp; Fujikawa	2nd	Opening Government	View Ballot	Rohan KapurⒸ , Chisato Kuwayama , Martin Lim , Pornchanit ChinvittayakulⓉ
+IIUM Haniki &amp; Arwaa	2nd	Opening Government	View Ballot	Charlie RyanⒸ , Patsha DejarathⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+NSU Khan Chowdhury &amp; Safin	3rd	Closing Opposition	View Ballot	Charlie RyanⒸ , Patsha DejarathⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+Taylors Chow &amp; Nidzam	4th	Opening Opposition	View Ballot	Charlie RyanⒸ , Patsha DejarathⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+ATENEO Ypil &amp; Reyes	1st	Closing Government	View Ballot	Charlie RyanⒸ , Patsha DejarathⓉ , Sayyed Muhammed Ridzwan HarahapⓉ
+UP Los Baños Bensali &amp; Tan	2nd	Opening Opposition	View Ballot	Sreyan KanungoⒸ , Luna Yael InventorⓉ , Rachel HanⓉ , Regina Stephanie WuisanaⓉ
+ATENEO Bejarin &amp; Salazar	3rd	Closing Opposition	View Ballot	Sreyan KanungoⒸ , Luna Yael InventorⓉ , Rachel HanⓉ , Regina Stephanie WuisanaⓉ
+UT MARA Aiman &amp; Mukmin	4th	Opening Government	View Ballot	Sreyan KanungoⒸ , Luna Yael InventorⓉ , Rachel HanⓉ , Regina Stephanie WuisanaⓉ
+BFSU Xu &amp; Tang	1st	Closing Government	View Ballot	Sreyan KanungoⒸ , Luna Yael InventorⓉ , Rachel HanⓉ , Regina Stephanie WuisanaⓉ
+Taylors Firdaus &amp; Lim	3rd	Closing Opposition	View Ballot	Isabella FreelandⒸ , Xian Yii LeeⓉ , Xiye JiangⓉ
+SMU Lim &amp; Lim	2nd	Closing Government	View Ballot	Isabella FreelandⒸ , Xian Yii LeeⓉ , Xiye JiangⓉ
+Malaya Ahsan &amp; Pu	1st	Opening Opposition	View Ballot	Isabella FreelandⒸ , Xian Yii LeeⓉ , Xiye JiangⓉ
+TSUKUBA. Haraguchi &amp; Masumitsu	4th	Opening Government	View Ballot	Isabella FreelandⒸ , Xian Yii LeeⓉ , Xiye JiangⓉ
+NTU Neo &amp; Wong	1st	Closing Opposition	View Ballot	minami matsushimaⒸ , Mahor Nagda , Mior Arif
+NTU Lim &amp; Bajrai	3rd	Opening Government	View Ballot	minami matsushimaⒸ , Mahor Nagda , Mior Arif
+ATENEO Ventura &amp; Fernandez	2nd	Opening Opposition	View Ballot	minami matsushimaⒸ , Mahor Nagda , Mior Arif
+UPD Mencias &amp; Cual	4th	Closing Government	View Ballot	minami matsushimaⒸ , Mahor Nagda , Mior Arif
+Keio Sadaoka &amp; Smith	2nd	Opening Government	View Ballot	Sharun Nikesh GⒸ , Lloyd Andrei S. DaduloⓉ , RedactedⓉ
+NTU Qiu &amp; Huang	1st	Opening Opposition	View Ballot	Sharun Nikesh GⒸ , Lloyd Andrei S. DaduloⓉ , RedactedⓉ
+BINUS Chen &amp; Marcellyn Cen	3rd	Closing Opposition	View Ballot	Sharun Nikesh GⒸ , Lloyd Andrei S. DaduloⓉ , RedactedⓉ
+UT MARA Aripin &amp; Camela	4th	Closing Government	View Ballot	Sharun Nikesh GⒸ , Lloyd Andrei S. DaduloⓉ , RedactedⓉ
+De La Salle Espiritu &amp; Varela	2nd	Closing Government	View Ballot	Shaun LeeⒸ , Duong (Amy) Tran Mong ThuyⓉ , Harith Danial RosleeⓉ
+IIUM Abdullah &amp; Rizwan	4th	Opening Government	View Ballot	Shaun LeeⒸ , Duong (Amy) Tran Mong ThuyⓉ , Harith Danial RosleeⓉ
+SMU Poon &amp; Sia	1st	Closing Opposition	View Ballot	Shaun LeeⒸ , Duong (Amy) Tran Mong ThuyⓉ , Harith Danial RosleeⓉ
+GCU Ahmad Khan &amp; Zeeshan Awan	3rd	Opening Opposition	View Ballot	Shaun LeeⒸ , Duong (Amy) Tran Mong ThuyⓉ , Harith Danial RosleeⓉ
+NUS Dillon &amp; Chai	4th	Closing Opposition	View Ballot	Haikal DanielⒸ , Shanjit Chitphentom , Vani Bhardwaj
+ATENEO Fong &amp; Go	1st	Opening Opposition	View Ballot	Haikal DanielⒸ , Shanjit Chitphentom , Vani Bhardwaj
+BINUS Ongkojoyo &amp; Haqqani	2nd	Closing Government	View Ballot	Haikal DanielⒸ , Shanjit Chitphentom , Vani Bhardwaj
+UPD Castro &amp; Bengzon	3rd	Opening Government	View Ballot	Haikal DanielⒸ , Shanjit Chitphentom , Vani Bhardwaj
+Dr. RMLNLU . &amp; Verma	2nd	Opening Opposition	View Ballot	Robert LeungⒸ , Izzah RosliⓉ , Li Han OngⓉ , Minh DoⓉ
+MUST Zhou &amp; Xu	4th	Closing Government	View Ballot	Robert LeungⒸ , Izzah RosliⓉ , Li Han OngⓉ , Minh DoⓉ
+NTU Wang &amp; Abiera	1st	Opening Government	View Ballot	Robert LeungⒸ , Izzah RosliⓉ , Li Han OngⓉ , Minh DoⓉ
+BFSU Yang &amp; Han	3rd	Closing Opposition	View Ballot	Robert LeungⒸ , Izzah RosliⓉ , Li Han OngⓉ , Minh DoⓉ
+De La Salle Haduca &amp; David	2nd	Opening Opposition	View Ballot	Alesandra BarrandaⒸ , Abhyudya Sangwan , SU LET YATI SOE
+NUS Lee &amp; Yeo	4th	Closing Opposition	View Ballot	Alesandra BarrandaⒸ , Abhyudya Sangwan , SU LET YATI SOE
+IIUM WS &amp; Zaharim	1st	Closing Government	View Ballot	Alesandra BarrandaⒸ , Abhyudya Sangwan , SU LET YATI SOE
+Tokyo Kajitani &amp; Saito	3rd	Opening Government	View Ballot	Alesandra BarrandaⒸ , Abhyudya Sangwan , SU LET YATI SOE
+IITB Mehta &amp; Raghav Raj	3rd	Opening Government	View Ballot	Ahmad Tousif JamiⒸ , Lan Tran , Laurie Dao
+IIUM Hany &amp; Alhabshi	4th	Closing Opposition	View Ballot	Ahmad Tousif JamiⒸ , Lan Tran , Laurie Dao
+Swing 1	2nd	Closing Government	View Ballot	Ahmad Tousif JamiⒸ , Lan Tran , Laurie Dao
+Tokyo Mimura &amp; Negita	1st	Opening Opposition	View Ballot	Ahmad Tousif JamiⒸ , Lan Tran , Laurie Dao
+Mahidol Songsomphan &amp; Sachdev	4th	Opening Government	View Ballot	Cheng Zu YeeⒸ , Kei Kashioka , Tasha Daniella
+Mahidol Yadav &amp; Htun	1st	Closing Government	View Ballot	Cheng Zu YeeⒸ , Kei Kashioka , Tasha Daniella
+RMIT Mahamongkol &amp; Nguyen	2nd	Opening Opposition	View Ballot	Cheng Zu YeeⒸ , Kei Kashioka , Tasha Daniella
+RMIT Huynh &amp; Nguyen	3rd	Closing Opposition	View Ballot	Cheng Zu YeeⒸ , Kei Kashioka , Tasha Daniella
+NUS Chen &amp; Wong	4th	Opening Opposition	View Ballot	Sunghyun ParkⒸ , KAVYA DWIVEDIⓉ , Kentaro KashiwagiⓉ
+Tokyo Tsuchiya &amp; Yoshida	1st	Opening Government	View Ballot	Sunghyun ParkⒸ , KAVYA DWIVEDIⓉ , Kentaro KashiwagiⓉ
+Malaya Pillay &amp; Karttikeyn	3rd	Closing Opposition	View Ballot	Sunghyun ParkⒸ , KAVYA DWIVEDIⓉ , Kentaro KashiwagiⓉ
+IGNOU Sayiram &amp; Das	2nd	Closing Government	View Ballot	Sunghyun ParkⒸ , KAVYA DWIVEDIⓉ , Kentaro KashiwagiⓉ
+NUS Tay &amp; Wee	2nd	Opening Opposition	View Ballot	RaymondⒸ , Francis Vendiola , Trang Nguyen
+NUS Tay &amp; Ang	1st	Closing Government	View Ballot	RaymondⒸ , Francis Vendiola , Trang Nguyen
+ATENEO Largo &amp; Tiangco	4th	Opening Government	View Ballot	RaymondⒸ , Francis Vendiola , Trang Nguyen
+IGNOU Chadha &amp; Chawla	3rd	Closing Opposition	View Ballot	RaymondⒸ , Francis Vendiola , Trang Nguyen
+
+
+team	result	side	ballot	adjudicators
+Taylors Firdaus &amp; Lim	3rd	Opening Government	View Ballot	Devashish TrivediⒸ , Chisato Kuwayama , The Phuong (Daniel) , Rachel HanⓉ
+CHULA Shrestha &amp; Nuqui	4th	Closing Opposition	View Ballot	Devashish TrivediⒸ , Chisato Kuwayama , The Phuong (Daniel) , Rachel HanⓉ
+UT MARA Aiman &amp; Mukmin	2nd	Opening Opposition	View Ballot	Devashish TrivediⒸ , Chisato Kuwayama , The Phuong (Daniel) , Rachel HanⓉ
+BFSU Yang &amp; Han	1st	Closing Government	View Ballot	Devashish TrivediⒸ , Chisato Kuwayama , The Phuong (Daniel) , Rachel HanⓉ
+Keio Yamagiwa &amp; Iida	4th	Closing Government	View Ballot	SU LET YATI SOEⒸ , Francis Vendiola , Yuichi Masaoka , Tasha DaniellaⓉ
+UGM Vito &amp; Rosyada	3rd	Opening Opposition	View Ballot	SU LET YATI SOEⒸ , Francis Vendiola , Yuichi Masaoka , Tasha DaniellaⓉ
+Swing 1	1st	Closing Opposition	View Ballot	SU LET YATI SOEⒸ , Francis Vendiola , Yuichi Masaoka , Tasha DaniellaⓉ
+Malaya Akasyah &amp; Sundrasagar	2nd	Opening Government	View Ballot	SU LET YATI SOEⒸ , Francis Vendiola , Yuichi Masaoka , Tasha DaniellaⓉ
+ATENEO Largo &amp; Tiangco	2nd	Closing Opposition	View Ballot	Sharun Nikesh GⒸ , KAVYA DWIVEDIⓉ
+Malaya Pillay &amp; Karttikeyn	3rd	Opening Opposition	View Ballot	Sharun Nikesh GⒸ , KAVYA DWIVEDIⓉ
+UPD Alcañeses &amp; Legaspi	1st	Closing Government	View Ballot	Sharun Nikesh GⒸ , KAVYA DWIVEDIⓉ
+BFSU Xu &amp; Tang	4th	Opening Government	View Ballot	Sharun Nikesh GⒸ , KAVYA DWIVEDIⓉ
+DAV Nguyen &amp; Vu	1st	Closing Opposition	View Ballot	Alesandra BarrandaⒸ , Abhyudya Sangwan , Vani Bhardwaj , Lloyd Andrei S. DaduloⓉ
+Tokyo Mimura &amp; Negita	3rd	Closing Government	View Ballot	Alesandra BarrandaⒸ , Abhyudya Sangwan , Vani Bhardwaj , Lloyd Andrei S. DaduloⓉ
+UT MARA Aripin &amp; Camela	2nd	Opening Opposition	View Ballot	Alesandra BarrandaⒸ , Abhyudya Sangwan , Vani Bhardwaj , Lloyd Andrei S. DaduloⓉ
+TSUKUBA. Haraguchi &amp; Masumitsu	4th	Opening Government	View Ballot	Alesandra BarrandaⒸ , Abhyudya Sangwan , Vani Bhardwaj , Lloyd Andrei S. DaduloⓉ
+Mahidol Dutta &amp; Dawoodjee	4th	Closing Government	View Ballot	Trang NguyenⒸ , Mahor Nagda , Orlando Laudico , Yashovardhan BalakrishnanⓉ
+Mahidol Yadav &amp; Htun	3rd	Closing Opposition	View Ballot	Trang NguyenⒸ , Mahor Nagda , Orlando Laudico , Yashovardhan BalakrishnanⓉ
+UT MARA Madihah &amp; Haikal	2nd	Opening Opposition	View Ballot	Trang NguyenⒸ , Mahor Nagda , Orlando Laudico , Yashovardhan BalakrishnanⓉ
+GCU Ahmad Khan &amp; Zeeshan Awan	1st	Opening Government	View Ballot	Trang NguyenⒸ , Mahor Nagda , Orlando Laudico , Yashovardhan BalakrishnanⓉ
+De La Salle Haduca &amp; David	1st	Closing Government	View Ballot	Rohan KapurⒸ , Russell WangⓉ
+IIUM WS &amp; Zaharim	2nd	Closing Opposition	View Ballot	Rohan KapurⒸ , Russell WangⓉ
+ATENEO Ventura &amp; Fernandez	4th	Opening Government	View Ballot	Rohan KapurⒸ , Russell WangⓉ
+UPD Castro &amp; Bengzon	3rd	Opening Opposition	View Ballot	Rohan KapurⒸ , Russell WangⓉ
+NTU Neo &amp; Wong	3rd	Closing Government	View Ballot	Isabella FreelandⒸ , Harith Danial RosleeⓉ , Patsha DejarathⓉ
+NUS Tay &amp; Wee	4th	Closing Opposition	View Ballot	Isabella FreelandⒸ , Harith Danial RosleeⓉ , Patsha DejarathⓉ
+Tokyo Tsuchiya &amp; Yoshida	1st	Opening Opposition	View Ballot	Isabella FreelandⒸ , Harith Danial RosleeⓉ , Patsha DejarathⓉ
+IGNOU Chadha &amp; Chawla	2nd	Opening Government	View Ballot	Isabella FreelandⒸ , Harith Danial RosleeⓉ , Patsha DejarathⓉ
+NUS Vilas &amp; Nga	1st	Opening Opposition	View Ballot	Sreyan KanungoⒸ , Diggory Waddle , Lan TranⓉ , Pornchanit ChinvittayakulⓉ
+NUS Chen &amp; Wong	2nd	Opening Government	View Ballot	Sreyan KanungoⒸ , Diggory Waddle , Lan TranⓉ , Pornchanit ChinvittayakulⓉ
+Taylors Chow &amp; Nidzam	3rd	Closing Government	View Ballot	Sreyan KanungoⒸ , Diggory Waddle , Lan TranⓉ , Pornchanit ChinvittayakulⓉ
+SMU Lim &amp; Lim	4th	Closing Opposition	View Ballot	Sreyan KanungoⒸ , Diggory Waddle , Lan TranⓉ , Pornchanit ChinvittayakulⓉ
+NTU Lim &amp; Bajrai	1st	Closing Government	View Ballot	Shaun LeeⒸ , Cheng Zu Yee , RedactedⓉ
+UP Los Baños Bensali &amp; Tan	4th	Opening Government	View Ballot	Shaun LeeⒸ , Cheng Zu Yee , RedactedⓉ
+PKU Yu &amp; Wang	3rd	Closing Opposition	View Ballot	Shaun LeeⒸ , Cheng Zu Yee , RedactedⓉ
+ATENEO Neri &amp; Tango	2nd	Opening Opposition	View Ballot	Shaun LeeⒸ , Cheng Zu Yee , RedactedⓉ
+VIT K Sharma &amp; Modi	4th	Closing Opposition	View Ballot	Shireen AliⒸ , ﻿Mikkel Neri , Duong (Amy) Tran Mong ThuyⓉ
+NTU Qiu &amp; Huang	2nd	Closing Government	View Ballot	Shireen AliⒸ , ﻿Mikkel Neri , Duong (Amy) Tran Mong ThuyⓉ
+NUS Dillon &amp; Chai	1st	Opening Government	View Ballot	Shireen AliⒸ , ﻿Mikkel Neri , Duong (Amy) Tran Mong ThuyⓉ
+Tokyo Kajitani &amp; Saito	3rd	Opening Opposition	View Ballot	Shireen AliⒸ , ﻿Mikkel Neri , Duong (Amy) Tran Mong ThuyⓉ
+Keio Sadaoka &amp; Smith	2nd	Closing Government	View Ballot	minami matsushimaⒸ , Wai Yin (Vincent) Chau , Xiye JiangⓉ
+NSU Khan Chowdhury &amp; Safin	1st	Opening Opposition	View Ballot	minami matsushimaⒸ , Wai Yin (Vincent) Chau , Xiye JiangⓉ
+SMU Poon &amp; Sia	4th	Opening Government	View Ballot	minami matsushimaⒸ , Wai Yin (Vincent) Chau , Xiye JiangⓉ
+NTU Wang &amp; Abiera	3rd	Closing Opposition	View Ballot	minami matsushimaⒸ , Wai Yin (Vincent) Chau , Xiye JiangⓉ
+IITB Chakraborty &amp; Khona	2nd	Opening Government	View Ballot	Robert LeungⒸ , Annika Chua , Sayyed Muhammed Ridzwan HarahapⓉ
+NUS Lee &amp; Yeo	1st	Opening Opposition	View Ballot	Robert LeungⒸ , Annika Chua , Sayyed Muhammed Ridzwan HarahapⓉ
+Tokyo Watanabe &amp; Fujikawa	4th	Closing Opposition	View Ballot	Robert LeungⒸ , Annika Chua , Sayyed Muhammed Ridzwan HarahapⓉ
+Tokyo Matsuda &amp; Takahashi	3rd	Closing Government	View Ballot	Robert LeungⒸ , Annika Chua , Sayyed Muhammed Ridzwan HarahapⓉ
+De La Salle Lopez &amp; Lababidi	4th	Closing Opposition	View Ballot	Charlie RyanⒸ , Muhammad Fasih Alam KhanⓉ
+ATENEO Ypil &amp; Reyes	1st	Opening Government	View Ballot	Charlie RyanⒸ , Muhammad Fasih Alam KhanⓉ
+IGNOU Sayiram &amp; Das	2nd	Opening Opposition	View Ballot	Charlie RyanⒸ , Muhammad Fasih Alam KhanⓉ
+IGNOU Patra &amp; Jha	3rd	Closing Government	View Ballot	Charlie RyanⒸ , Muhammad Fasih Alam KhanⓉ
+NTU Soh &amp; Ha	3rd	Opening Opposition	View Ballot	Auguste McNallyⒸ , Uyên TạⓉ , Xian Yii LeeⓉ
+NUS Tay &amp; Ang	1st	Closing Government	View Ballot	Auguste McNallyⒸ , Uyên TạⓉ , Xian Yii LeeⓉ
+ATENEO Fong &amp; Go	4th	Opening Government	View Ballot	Auguste McNallyⒸ , Uyên TạⓉ , Xian Yii LeeⓉ
+BINUS Ongkojoyo &amp; Haqqani	2nd	Closing Opposition	View Ballot	Auguste McNallyⒸ , Uyên TạⓉ , Xian Yii LeeⓉ
+IIUM Hany &amp; Alhabshi	2nd	Closing Government	View Ballot	Luna Yael InventorⒸ , Avjay Bhar , Mior Arif , Minh DoⓉ
+Mahidol Songsomphan &amp; Sachdev	1st	Closing Opposition	View Ballot	Luna Yael InventorⒸ , Avjay Bhar , Mior Arif , Minh DoⓉ
+RMIT Mahamongkol &amp; Nguyen	3rd	Opening Government	View Ballot	Luna Yael InventorⒸ , Avjay Bhar , Mior Arif , Minh DoⓉ
+RMIT Duong Quoc &amp; Diem	4th	Opening Opposition	View Ballot	Luna Yael InventorⒸ , Avjay Bhar , Mior Arif , Minh DoⓉ
+IIUM Abdullah &amp; Rizwan	1st	Opening Opposition	View Ballot	RaymondⒸ , Aryamman Bhatia , Odessa Julienne Rebaya , Kentaro KashiwagiⓉ
+ICU Kagazume &amp; Kumano	3rd	Closing Opposition	View Ballot	RaymondⒸ , Aryamman Bhatia , Odessa Julienne Rebaya , Kentaro KashiwagiⓉ
+MUST Zhou &amp; Xu	2nd	Opening Government	View Ballot	RaymondⒸ , Aryamman Bhatia , Odessa Julienne Rebaya , Kentaro KashiwagiⓉ
+RMIT Tạ &amp; Madej	4th	Closing Government	View Ballot	RaymondⒸ , Aryamman Bhatia , Odessa Julienne Rebaya , Kentaro KashiwagiⓉ
+IIUM Haniki &amp; Arwaa	4th	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Axcel France Eco , Izzah RosliⓉ
+ATENEO Bejarin &amp; Salazar	2nd	Closing Government	View Ballot	Sunghyun ParkⒸ , Axcel France Eco , Izzah RosliⓉ
+Malaya Ahsan &amp; Pu	1st	Opening Government	View Ballot	Sunghyun ParkⒸ , Axcel France Eco , Izzah RosliⓉ
+Fudan Zhang &amp; Jin	3rd	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Axcel France Eco , Izzah RosliⓉ
+De La Salle Espiritu &amp; Varela	1st	Opening Opposition	View Ballot	Deon KiewⒸ , Aki Peyra , Shanjit ChitphentomⓉ
+NSU Ismam &amp; Masud	3rd	Closing Opposition	View Ballot	Deon KiewⒸ , Aki Peyra , Shanjit ChitphentomⓉ
+MUST Shen &amp; Gao	4th	Closing Government	View Ballot	Deon KiewⒸ , Aki Peyra , Shanjit ChitphentomⓉ
+BINUS Chen &amp; Marcellyn Cen	2nd	Opening Government	View Ballot	Deon KiewⒸ , Aki Peyra , Shanjit ChitphentomⓉ
+IITB Mehta &amp; Raghav Raj	1st	Closing Government	View Ballot	Fatima AhmadⒸ , Laurie Dao , Regina Stephanie Wuisana , Kei KashiokaⓉ
+Mahidol Boonprasong &amp; Sagaekhao	4th	Opening Government	View Ballot	Fatima AhmadⒸ , Laurie Dao , Regina Stephanie Wuisana , Kei KashiokaⓉ
+RMIT Huynh &amp; Nguyen	3rd	Opening Opposition	View Ballot	Fatima AhmadⒸ , Laurie Dao , Regina Stephanie Wuisana , Kei KashiokaⓉ
+HKPU Chan &amp; SALEKIN	2nd	Closing Opposition	View Ballot	Fatima AhmadⒸ , Laurie Dao , Regina Stephanie Wuisana , Kei KashiokaⓉ
+Dr. RMLNLU . &amp; Verma	3rd	Opening Government	View Ballot	Haikal DanielⒸ , Martin Lim , Li Han OngⓉ
+Fulbright Le &amp; LE	2nd	Opening Opposition	View Ballot	Haikal DanielⒸ , Martin Lim , Li Han OngⓉ
+UPD Mencias &amp; Cual	1st	Closing Opposition	View Ballot	Haikal DanielⒸ , Martin Lim , Li Han OngⓉ
+TSUKUBA. Hata &amp; Kato	4th	Closing Government	View Ballot	Haikal DanielⒸ , Martin Lim , Li Han OngⓉ
+
+
+team	result	side	adjudicators
+ATENEO Largo &amp; Tiangco	advancing	Closing Opposition	SU LET YATI SOEⒸ , Shaun Lee , Sunghyun Park
+ATENEO Neri &amp; Tango	eliminated	Opening Government	SU LET YATI SOEⒸ , Shaun Lee , Sunghyun Park
+ATENEO Ypil &amp; Reyes	eliminated	Closing Government	SU LET YATI SOEⒸ , Shaun Lee , Sunghyun Park
+Malaya Pillay &amp; Karttikeyn	advancing	Opening Opposition	SU LET YATI SOEⒸ , Shaun Lee , Sunghyun Park
+NTU Lim &amp; Bajrai	advancing	Closing Government	Cheng Zu YeeⒸ , Charlie Ryan , Sharun Nikesh G
+NTU Qiu &amp; Huang	eliminated	Closing Opposition	Cheng Zu YeeⒸ , Charlie Ryan , Sharun Nikesh G
+NUS Lee &amp; Yeo	eliminated	Opening Government	Cheng Zu YeeⒸ , Charlie Ryan , Sharun Nikesh G
+ATENEO Fong &amp; Go	advancing	Opening Opposition	Cheng Zu YeeⒸ , Charlie Ryan , Sharun Nikesh G
+NUS Dillon &amp; Chai	advancing	Opening Opposition	Francis VendiolaⒸ , Isabella Freeland , Robert Leung
+NSU Khan Chowdhury &amp; Safin	eliminated	Closing Opposition	Francis VendiolaⒸ , Isabella Freeland , Robert Leung
+Malaya Ahsan &amp; Pu	eliminated	Opening Government	Francis VendiolaⒸ , Isabella Freeland , Robert Leung
+IGNOU Sayiram &amp; Das	advancing	Closing Government	Francis VendiolaⒸ , Isabella Freeland , Robert Leung
+NTU Neo &amp; Wong	eliminated	Opening Government	Haikal DanielⒸ , Auguste McNally , minami matsushima
+NUS Tay &amp; Wee	eliminated	Closing Government	Haikal DanielⒸ , Auguste McNally , minami matsushima
+UPD Castro &amp; Bengzon	advancing	Closing Opposition	Haikal DanielⒸ , Auguste McNally , minami matsushima
+IGNOU Patra &amp; Jha	advancing	Opening Opposition	Haikal DanielⒸ , Auguste McNally , minami matsushima
+
+
+team	result	side	adjudicators
+NTU Soh &amp; Ha	advancing	Opening Opposition	RaymondⒸ , Aki Peyra , Isabella Freeland , Wai Yin (Vincent) Chau , minami matsushima
+Tokyo Tsuchiya &amp; Yoshida	advancing	Closing Opposition	RaymondⒸ , Aki Peyra , Isabella Freeland , Wai Yin (Vincent) Chau , minami matsushima
+UPD Castro &amp; Bengzon	eliminated	Closing Government	RaymondⒸ , Aki Peyra , Isabella Freeland , Wai Yin (Vincent) Chau , minami matsushima
+IGNOU Patra &amp; Jha	eliminated	Opening Government	RaymondⒸ , Aki Peyra , Isabella Freeland , Wai Yin (Vincent) Chau , minami matsushima
+De La Salle Haduca &amp; David	eliminated	Closing Opposition	Alesandra BarrandaⒸ , Auguste McNally , Diggory Waddle , Rohan Kapur , Sharun Nikesh G
+NUS Dillon &amp; Chai	eliminated	Closing Government	Alesandra BarrandaⒸ , Auguste McNally , Diggory Waddle , Rohan Kapur , Sharun Nikesh G
+BINUS Ongkojoyo &amp; Haqqani	advancing	Opening Government	Alesandra BarrandaⒸ , Auguste McNally , Diggory Waddle , Rohan Kapur , Sharun Nikesh G
+IGNOU Sayiram &amp; Das	advancing	Opening Opposition	Alesandra BarrandaⒸ , Auguste McNally , Diggory Waddle , Rohan Kapur , Sharun Nikesh G
+NUS Tay &amp; Ang	advancing	Closing Government	Devashish TrivediⒸ , Annika Chua , Charlie Ryan , SU LET YATI SOE , Yuichi Masaoka
+IIUM WS &amp; Zaharim	eliminated	Opening Opposition	Devashish TrivediⒸ , Annika Chua , Charlie Ryan , SU LET YATI SOE , Yuichi Masaoka
+ATENEO Largo &amp; Tiangco	eliminated	Closing Opposition	Devashish TrivediⒸ , Annika Chua , Charlie Ryan , SU LET YATI SOE , Yuichi Masaoka
+Malaya Pillay &amp; Karttikeyn	advancing	Opening Government	Devashish TrivediⒸ , Annika Chua , Charlie Ryan , SU LET YATI SOE , Yuichi Masaoka
+NTU Lim &amp; Bajrai	eliminated	Closing Opposition	Deon KiewⒸ , Francis Vendiola , Haikal Daniel , Sreyan Kanungo , Trang Nguyen
+ATENEO Fong &amp; Go	eliminated	Opening Government	Deon KiewⒸ , Francis Vendiola , Haikal Daniel , Sreyan Kanungo , Trang Nguyen
+UPD Alcañeses &amp; Legaspi	advancing	Opening Opposition	Deon KiewⒸ , Francis Vendiola , Haikal Daniel , Sreyan Kanungo , Trang Nguyen
+IGNOU Chadha &amp; Chawla	advancing	Closing Government	Deon KiewⒸ , Francis Vendiola , Haikal Daniel , Sreyan Kanungo , Trang Nguyen
+
+
+team	result	side	adjudicators
+NTU Soh &amp; Ha	advancing	Closing Opposition	Auguste McNallyⒸ , Alesandra Barranda , Charlie Ryan , Deon Kiew , Devashish Trivedi , Raymond , Trang Nguyen
+Tokyo Tsuchiya &amp; Yoshida	advancing	Opening Opposition	Auguste McNallyⒸ , Alesandra Barranda , Charlie Ryan , Deon Kiew , Devashish Trivedi , Raymond , Trang Nguyen
+BINUS Ongkojoyo &amp; Haqqani	eliminated	Opening Government	Auguste McNallyⒸ , Alesandra Barranda , Charlie Ryan , Deon Kiew , Devashish Trivedi , Raymond , Trang Nguyen
+IGNOU Sayiram &amp; Das	eliminated	Closing Government	Auguste McNallyⒸ , Alesandra Barranda , Charlie Ryan , Deon Kiew , Devashish Trivedi , Raymond , Trang Nguyen
+NUS Tay &amp; Ang	advancing	Closing Government	Isabella FreelandⒸ , Annika Chua , Haikal Daniel , Rohan Kapur , SU LET YATI SOE , Sreyan Kanungo , Sunghyun Park
+Malaya Pillay &amp; Karttikeyn	eliminated	Opening Government	Isabella FreelandⒸ , Annika Chua , Haikal Daniel , Rohan Kapur , SU LET YATI SOE , Sreyan Kanungo , Sunghyun Park
+UPD Alcañeses &amp; Legaspi	advancing	Opening Opposition	Isabella FreelandⒸ , Annika Chua , Haikal Daniel , Rohan Kapur , SU LET YATI SOE , Sreyan Kanungo , Sunghyun Park
+IGNOU Chadha &amp; Chawla	eliminated	Closing Opposition	Isabella FreelandⒸ , Annika Chua , Haikal Daniel , Rohan Kapur , SU LET YATI SOE , Sreyan Kanungo , Sunghyun Park
+
+
+team	result	side	adjudicators
+NTU Soh &amp; Ha	eliminated	Opening Government	Charlie RyanⒸ , Devashish Trivedi , Francis Vendiola , Haikal Daniel , Isabella Freeland , Raymond , minami matsushima
+NUS Tay &amp; Ang	advancing	Opening Opposition	Charlie RyanⒸ , Devashish Trivedi , Francis Vendiola , Haikal Daniel , Isabella Freeland , Raymond , minami matsushima
+Tokyo Tsuchiya &amp; Yoshida	eliminated	Closing Opposition	Charlie RyanⒸ , Devashish Trivedi , Francis Vendiola , Haikal Daniel , Isabella Freeland , Raymond , minami matsushima
+UPD Alcañeses &amp; Legaspi	eliminated	Closing Government	Charlie RyanⒸ , Devashish Trivedi , Francis Vendiola , Haikal Daniel , Isabella Freeland , Raymond , minami matsushima
+
+
+team	result	side	adjudicators
+Keio Sadaoka &amp; Smith	advancing	Opening Opposition	Trang NguyenⒸ , Ahmad Tousif Jami , Deon Kiew , Francis Vendiola , Mahor Nagda , Martin Lim , Shireen Ali
+PKU Yu &amp; Wang	eliminated	Closing Opposition	Trang NguyenⒸ , Ahmad Tousif Jami , Deon Kiew , Francis Vendiola , Mahor Nagda , Martin Lim , Shireen Ali
+Tokyo Matsuda &amp; Takahashi	eliminated	Closing Government	Trang NguyenⒸ , Ahmad Tousif Jami , Deon Kiew , Francis Vendiola , Mahor Nagda , Martin Lim , Shireen Ali
+BFSU Yang &amp; Han	advancing	Opening Government	Trang NguyenⒸ , Ahmad Tousif Jami , Deon Kiew , Francis Vendiola , Mahor Nagda , Martin Lim , Shireen Ali
+DAV Nguyen &amp; Vu	eliminated	Opening Government	Rohan KapurⒸ , Alesandra Barranda , Chisato Kuwayama , Devashish Trivedi , Sharun Nikesh G , Sunghyun Park , Wai Yin (Vincent) Chau
+Tokyo Kajitani &amp; Saito	advancing	Closing Government	Rohan KapurⒸ , Alesandra Barranda , Chisato Kuwayama , Devashish Trivedi , Sharun Nikesh G , Sunghyun Park , Wai Yin (Vincent) Chau
+BFSU Xu &amp; Tang	eliminated	Opening Opposition	Rohan KapurⒸ , Alesandra Barranda , Chisato Kuwayama , Devashish Trivedi , Sharun Nikesh G , Sunghyun Park , Wai Yin (Vincent) Chau
+Fudan Zhang &amp; Jin	advancing	Closing Opposition	Rohan KapurⒸ , Alesandra Barranda , Chisato Kuwayama , Devashish Trivedi , Sharun Nikesh G , Sunghyun Park , Wai Yin (Vincent) Chau
+
+
+team	result	side	adjudicators
+Keio Sadaoka &amp; Smith	advancing	Opening Opposition	Sunghyun ParkⒸ , Alesandra Barranda , Auguste McNally , Cheng Zu Yee , Deon Kiew , SU LET YATI SOE , Sharun Nikesh G
+Tokyo Kajitani &amp; Saito	eliminated	Closing Opposition	Sunghyun ParkⒸ , Alesandra Barranda , Auguste McNally , Cheng Zu Yee , Deon Kiew , SU LET YATI SOE , Sharun Nikesh G
+BFSU Yang &amp; Han	eliminated	Opening Government	Sunghyun ParkⒸ , Alesandra Barranda , Auguste McNally , Cheng Zu Yee , Deon Kiew , SU LET YATI SOE , Sharun Nikesh G
+Fudan Zhang &amp; Jin	eliminated	Closing Government	Sunghyun ParkⒸ , Alesandra Barranda , Auguste McNally , Cheng Zu Yee , Deon Kiew , SU LET YATI SOE , Sharun Nikesh G
+

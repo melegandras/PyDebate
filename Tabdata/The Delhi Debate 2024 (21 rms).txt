@@ -1,0 +1,748 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds	3rds
+1	Come to LUMS Pre ABP + Chanidu		1st	1st	1st	1st	2nd	14	782	4	1	0
+2	ADMU GY		1st	1st	1st	3rd	1st	13	782	4	0	1
+3	One child and One older child	Novice	2nd	1st	2nd	1st	2nd	12	778	2	3	0
+4	saksham made me cry when I was dru		1st	1st	3rd	2nd	1st	12	774	3	1	1
+5	destroyed by hippie powers		1st	2nd	3rd	1st	1st	12	771	3	1	1
+6	Troy and Abed go debating		1st	3rd	1st	1st	3rd	11	779	3	0	2
+7	Elite by Extension		1st	2nd	1st	2nd	3rd	11	773	2	2	1
+8	GC A		2nd	3rd	2nd	1st	1st	11	771	2	2	1
+9=	Jatt Jaat coalition		2nd	1st	3rd	1st	2nd	11	770	2	2	1
+9=	Kaun Talha?		1st	2nd	2nd	3rd	1st	11	770	2	2	1
+11	sans ek moh maya hai		2nd	1st	1st	2nd	4th	10	778	2	2	0
+12	UFD Swinging to Softlaunching		3rd	1st	1st	4th	1st	10	777	3	0	1
+13	ADMU 99% of people quit before they win		1st	1st	4th	2nd	2nd	10	777	2	2	0
+14=	Allu Arjun x Vijay Telepathy		2nd	4th	1st	1st	2nd	10	771	2	2	0
+14=	Hotpot &amp; Kebab		1st	2nd	2nd	4th	1st	10	771	2	2	0
+16	Institutional team		1st	3rd	1st	4th	1st	10	766	3	0	1
+17	Kom Susser Break		2nd	2nd	2nd	1st	3rd	10	762	1	3	1
+18	You’re a 10 on the pH scale	Novice	2nd	2nd	2nd	3rd	1st	10	753	1	3	1
+19	Khuda Jaane		1st	3rd	4th	1st	2nd	9	773	2	1	1
+20	beans		1st	2nd	4th	3rd	1st	9	772	2	1	1
+21	Let the 20 year old win pt 3- Reve		2nd	3rd	1st	1st	4th	9	766	2	1	1
+22	Flight Risk	Novice	2nd	1st	3rd	2nd	3rd	9	765	1	2	2
+23	Rangan x Amban		2nd	1st	2nd	3rd	3rd	9	764	1	2	2
+24	Spilling the tea	Novice	2nd	4th	2nd	1st	2nd	9	763	1	3	0
+25	Batuni Berozgar Baddies		3rd	1st	1st	2nd	4th	9	760	2	1	1
+26	UOM	Novice	3rd	1st	2nd	3rd	2nd	9	757	1	2	2
+27	Onam Food and Onam Enjoyer		4th	3rd	2nd	1st	1st	9	756	2	1	1
+28	Swiper, No Swiping	Novice	4th	2nd	1st	2nd	2nd	9	750	1	3	0
+29	A pig and a camel walk into a bin		1st	1st	2nd	4th	4th	8	774	2	1	0
+30	RKT Originals		1st	3rd	3rd	2nd	3rd	8	760	1	1	3
+31	opening garment		3rd	4th	2nd	1st	2nd	8	759	1	2	1
+32	english or spanish?	Novice	4th	1st	1st	2nd	4th	8	758	2	1	0
+33	Idk Anything		1st	3rd	3rd	4th	1st	8	758	2	0	2
+34	UFD Let the 12 and 15 year old win	Novice	3rd	2nd	4th	2nd	1st	8	758	1	2	1
+35	IITK	Novice	3rd	2nd	2nd	2nd	3rd	8	757	0	3	2
+36	Ohh hang on ....lemme think	Novice	2nd	3rd	1st	3rd	3rd	8	755	1	1	3
+37	Strepsils	Novice	3rd	3rd	4th	1st	1st	8	753	2	0	2
+38	open nahi novice jaana hai		4th	2nd	4th	1st	1st	8	752	2	1	0
+39	naam gaya tel lene	Novice	2nd	2nd	4th	1st	3rd	8	747	1	2	1
+40	Fantastic Tea		—	1st	1st	4th	2nd	8	600	2	1	0
+41	god-loving gays	Novice	1st	4th	3rd	3rd	2nd	7	759	1	1	2
+42=	Main roz apne andar ke shaitaan se		3rd	4th	1st	3rd	2nd	7	753	1	1	2
+42=	M.S. Excel	Novice	3rd	1st	3rd	4th	2nd	7	753	1	1	2
+44	We don&#x27;t believe what&#x27;s on TV		4th	1st	2nd	3rd	3rd	7	751	1	1	2
+45	Kakdi aur Kakarania	Novice	2nd	4th	1st	3rd	3rd	7	748	1	1	2
+46	something really inappropriate	Novice	3rd	2nd	2nd	2nd	4th	7	748	0	3	1
+47=	Come to Contention!		3rd	3rd	4th	2nd	1st	7	736	1	1	2
+47=	Aha Tamatar Bade Majedar	Novice	3rd	2nd	3rd	1st	4th	7	736	1	1	2
+49	Swing 2		—	—	1st	2nd	2nd	7	460	1	2	0
+50	Long Diagonal	Novice	1st	2nd	4th	4th	3rd	6	754	1	1	1
+51	You know , 99% Aura	Novice	2nd	3rd	2nd	3rd	4th	6	753	0	2	2
+52	online comps me break de do		1st	3rd	3rd	4th	3rd	6	751	1	0	3
+53	debater? I hardly know her	Novice	4th	3rd	2nd	1st	4th	6	750	1	1	1
+54	Breakdancers	Novice	2nd	2nd	4th	3rd	3rd	6	750	0	2	2
+55	POIson Ivy	Novice	4th	2nd	3rd	4th	1st	6	749	1	1	1
+56	Buri Buri Zaimon	Novice	3rd	4th	1st	2nd	4th	6	748	1	1	1
+57	Streets won&#x27;t forget QPR Adel Tara	Novice	2nd	4th	3rd	4th	1st	6	747	1	1	1
+58	Bhaiya Break karwado	Novice	3rd	3rd	3rd	3rd	2nd	6	747	0	1	4
+59	Kasukabe defence group	Novice	2nd	1st	4th	4th	3rd	6	746	1	1	1
+60	CU A	Novice	4th	4th	2nd	3rd	1st	6	742	1	1	1
+61	Wild &#x27;N Out		3rd	2nd	3rd	2nd	4th	6	741	0	2	2
+62	&#x27;The Discourse disco&#x27;		3rd	4th	2nd	1st	4th	6	732	1	1	1
+63	Eda Mone		4th	2nd	1st	4th	4th	5	756	1	1	0
+64	Jasmine Cheese Tea	Novice	4th	1st	4th	2nd	4th	5	753	1	1	0
+65	The myth , the man and vaibhacc	Novice	3rd	3rd	2nd	4th	3rd	5	747	0	1	3
+66	Herry Hose	Novice	4th	1st	4th	4th	2nd	5	744	1	1	0
+67	Knifers in Paris	Novice	1st	4th	4th	4th	2nd	5	742	1	1	0
+68	We&#x27;re all gonna die	Novice	1st	4th	4th	3rd	3rd	5	740	1	0	2
+69	Bhaaya 1 plate dosa and 1 plate va	Novice	2nd	4th	3rd	2nd	4th	5	727	0	2	1
+70	The Tribal Chief and The Wiseman		1st	4th	—	2nd	—	5	456	1	1	0
+71	Swing 3		—	—	1st	2nd	—	5	297	1	1	0
+72	MV	Novice	3rd	4th	3rd	4th	2nd	4	750	0	1	2
+73	Fly you Fools	Novice	4th	2nd	4th	3rd	3rd	4	743	0	1	2
+74	This OA could have been an email	Novice	3rd	3rd	2nd	4th	4th	4	723	0	1	2
+75	Swing 1		3rd	—	4th	1st	4th	4	595	1	0	1
+76	Jobless Randos		4th	1st	3rd	—	—	4	448	1	0	1
+77	Dhyat GPT	Novice	4th	4th	3rd	3rd	3rd	3	746	0	0	3
+78	Jab We Debate	Novice	4th	3rd	3rd	3rd	4th	3	714	0	0	3
+79	One of us is Canadian		2nd	4th	4th	3rd	—	3	593	0	1	1
+80	Could Not Think Of A Name		4th	4th	1st	—	—	3	457	1	0	0
+81	Rishta Wohi, Soch Nayi		2nd	3rd	—	—	—	3	304	0	1	1
+82	Still freshies at heart		4th	3rd	3rd	4th	4th	2	733	0	0	2
+83	Power Couple	Novice	4th	2nd	—	—	—	2	290	0	1	0
+84	Let them eat cake	Novice	4th	3rd	4th	—	—	1	454	0	0	1
+85	Halaal Gentoos		3rd	4th	—	—	—	1	296	0	0	1
+86	Swing 4		—	—	3rd	—	—	1	149	0	0	1
+87	Tuntun Mausi Fan Club	Novice	4th	4th	4th	4th	—	0	588	0	0	0
+88	Hi	Novice	4th	4th	4th	—	—	0	437	0	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Chanidu Ratnayake	Open, Novice	Come to LUMS Pre ABP + Chanidu	79	78	78	80	78	393	78.60	0.80
+2=	Alexandra Ypil	Open	ADMU GY	79	78	79	78	78	392	78.40	0.49
+2=	Hasan	Open	destroyed by hippie powers	78	77	77	80	80	392	78.40	1.36
+4=	Maya Weston	Open	sans ek moh maya hai	78	79	81	79	74	391	78.20	2.32
+4=	Chinmaya &quot;Abed&quot; Mohan	Open	Troy and Abed go debating	78	77	80	79	77	391	78.20	1.17
+6=	Kyle Go	Open	ADMU GY	78	78	79	77	78	390	78.00	0.63
+6=	Saahas Ajmera*	Open, Novice	One child and One older child	77	80	78	78	77	390	78.00	1.10
+6=	Adriane Zen Tiangco	Open	ADMU 99% of people quit before they win	79	80	75	78	78	390	78.00	1.67
+6=	Zaakir Zulfikar	Open	UFD Swinging to Softlaunching	77	79	78	76	80	390	78.00	1.41
+10=	Pratha Jamwal	Open	Khuda Jaane	78	77	78	77	79	389	77.80	0.75
+10=	Kavya Ramasubramanian	Open	Elite by Extension	78	79	79	78	75	389	77.80	1.47
+12=	Houymean Lim	Open	Hotpot &amp; Kebab	78	79	78	75	78	388	77.60	1.36
+12=	Advaith Datta Reddy Palam*	Open, Novice	One child and One older child	77	79	77	77	78	388	77.60	0.80
+12=	Ramy Masalha	Open	A pig and a camel walk into a bin	80	80	78	76	74	388	77.60	2.33
+12=	Aizad Rayan Rajput Bhatti	Open	Kaun Talha?	77	78	79	75	79	388	77.60	1.50
+12=	Ishan “Troy” Saikia	Open	Troy and Abed go debating	77	78	78	78	77	388	77.60	0.49
+17=	Adhiraj Singh	Open	beans	78	77	76	76	80	387	77.40	1.50
+17=	Ganesh Prasad	Open	Allu Arjun x Vijay Telepathy	78	77	77	78	77	387	77.40	0.49
+17=	Sansiddho Maity	Open	sans ek moh maya hai	77	79	80	78	73	387	77.40	2.42
+17=	Dikshya Mohapatra	Open	saksham made me cry when I was dru	78	77	76	77	79	387	77.40	1.02
+17=	Saksham	Open	saksham made me cry when I was dru	78	78	75	77	79	387	77.40	1.36
+17=	Rogelio Largo	Open	ADMU 99% of people quit before they win	79	79	75	77	77	387	77.40	1.50
+17=	Nero X	Open	UFD Swinging to Softlaunching	77	78	77	76	79	387	77.40	1.02
+24=	Huzaifa Zeeshan	Open	GC A	76	77	76	79	78	386	77.20	1.17
+24=	Abhayvir &quot;refugee&quot; Bajwa	Open	Jatt Jaat coalition	76	78	76	79	77	386	77.20	1.17
+24=	Roy Yaron	Open	A pig and a camel walk into a bin	80	78	78	76	74	386	77.20	2.04
+27=	Redacted	Open	—	78	76	76	76	79	385	77.00	1.26
+27=	Jazib Ud Din	Open	GC A	76	77	76	79	77	385	77.00	1.10
+27=	Sthitadhi Mutsuddy	Open	Let the 20 year old win pt 3- Reve	78	76	76	79	76	385	77.00	1.26
+30=	Gavin Senaratne	Open, Novice	UOM	76	76	80	74	78	384	76.80	2.04
+30=	Malhaar Dhavale	Open	Allu Arjun x Vijay Telepathy	76	77	77	78	76	384	76.80	0.75
+30=	Aryan &quot;Farmer&quot; Khokher	Open	Jatt Jaat coalition	77	77	75	78	77	384	76.80	0.98
+30=	Ifat Rahman Maruf	Open	Institutional team	76	77	79	73	79	384	76.80	2.23
+30=	Jerry Jose	Open, Novice	Flight Risk	76	77	78	78	75	384	76.80	1.17
+30=	Nitiksha Tyagi	Open	Elite by Extension	78	79	77	77	73	384	76.80	2.04
+36=	Jamoliddin Ergash-zoda	Open	Hotpot &amp; Kebab	79	74	77	75	78	383	76.60	1.85
+36=	M.Navakanth	Open	Rangan x Amban	79	77	76	77	74	383	76.60	1.62
+36=	Syed Taha Asghar	Open	Kom Susser Break	75	77	76	79	76	383	76.60	1.36
+39=	Rubaiyat Samad	Open	Institutional team	77	76	78	72	79	382	76.40	2.42
+39=	Yashi Saraf	Open, Novice	Spilling the tea	76	75	76	77	78	382	76.40	1.02
+39=	Misbah	Open	Kaun Talha?	77	76	79	72	78	382	76.40	2.42
+42=	Pratyush SIngh	Open	opening garment	77	76	72	78	78	381	76.20	2.23
+42=	Easwar Balakrishnan	Open, Novice	god-loving gays	78	75	75	75	78	381	76.20	1.47
+42=	Abel Mathew Koshy	Open	Rangan x Amban	78	76	76	76	75	381	76.20	0.98
+42=	Riya Mirchandani	Open, Novice	Spilling the tea	77	75	75	76	78	381	76.20	1.17
+42=	Sree Varshini V P	Open, Novice	Flight Risk	71	78	79	78	75	381	76.20	2.93
+42=	Mehak Kala	Open	Batuni Berozgar Baddies	76	78	76	78	73	381	76.20	1.83
+42=	Tanshi	Open	RKT Originals	77	76	73	78	77	381	76.20	1.72
+49=	Daniel	Open, Novice	Jasmine Cheese Tea	76	79	74	74	77	380	76.00	1.90
+49=	Rohitaswa Das	Open, Novice	english or spanish?	75	77	77	78	73	380	76.00	1.79
+49=	Himansu Sharma	Open, Novice	IITK	74	78	75	78	75	380	76.00	1.67
+49=	Nikhil Johns	Open, Novice	Eda Mone	74	77	77	77	75	380	76.00	1.26
+49=	Harsh Pratap	Open	Idk Anything	78	76	76	73	77	380	76.00	1.67
+54=	Zainab Gul	Open, Novice	UFD Let the 12 and 15 year old win	77	76	74	73	79	379	75.80	2.14
+54=	Sneha Mohanty	Open, Novice	You’re a 10 on the pH scale	76	77	73	77	76	379	75.80	1.47
+54=	Abdul Haleem Ahmed	Open, Novice	Strepsils	74	77	74	76	78	379	75.80	1.60
+54=	Robin Sinha	Open, Novice	Kom Susser Break	73	76	76	79	75	379	75.80	1.94
+54=	Ritwik Suresh	Open, Novice	destroyed by hippie powers	71	78	76	77	77	379	75.80	2.48
+54=	Prachi Singla	Open, Novice	Batuni Berozgar Baddies	76	79	74	76	74	379	75.80	1.83
+54=	Partha Singh	Open	RKT Originals	77	76	72	77	77	379	75.80	1.94
+61=	Diwakar G	Open, Novice	god-loving gays	77	74	75	74	78	378	75.60	1.62
+61=	agniv.	Open, Novice	english or spanish?	75	77	75	78	73	378	75.60	1.74
+61=	Aadit Baxi	Open	open nahi novice jaana hai	76	78	70	75	79	378	75.60	3.14
+61=	Suhail Sohi	Open	Idk Anything	78	74	76	74	76	378	75.60	1.50
+61=	Yash Trivedi	Open	Main roz apne andar ke shaitaan se	76	75	77	73	77	378	75.60	1.50
+61=	Sumedh Chatterjee	Open	Onam Food and Onam Enjoyer	75	75	76	75	77	378	75.60	0.80
+61=	Priyanshu Vats	Open, Novice	Ohh hang on ....lemme think	76	76	76	76	74	378	75.60	0.80
+68=	Manas Sullere	Open, Novice	M.S. Excel	74	75	74	76	78	377	75.40	1.50
+68=	Avaneesh P	Open, Novice	IITK	74	77	75	76	75	377	75.40	1.02
+68=	Ananya Lodh	Open, Novice	Long Diagonal	76	76	75	74	76	377	75.40	0.80
+68=	Kumud Tanwar	Open, Novice	Long Diagonal	76	76	75	74	76	377	75.40	0.80
+68=	Nidhi Modiyani	Open, Novice	MV	77	74	76	73	77	377	75.40	1.62
+68=	Odame Adwoa Animah	Open, Novice	You know , 99% Aura	75	76	75	77	74	377	75.40	1.02
+68=	Himangi	Open, Novice	Ohh hang on ....lemme think	76	76	77	75	73	377	75.40	1.36
+75=	Shinjini Pal	Open, Novice	M.S. Excel	75	74	76	74	77	376	75.20	1.17
+75=	Jaisankar R	Open, Novice	debater? I hardly know her	77	75	74	76	74	376	75.20	1.17
+75=	Meghma Mukherjee	Open, Novice	POIson Ivy	75	77	75	71	78	376	75.20	2.40
+75=	Manan Mehta	Open	online comps me break de do	74	76	77	74	75	376	75.20	1.17
+75=	Samuel Thomas	Open	Eda Mone	75	76	75	76	74	376	75.20	0.75
+75=	Sriya S	Open, Novice	Swiper, No Swiping	73	74	78	76	75	376	75.20	1.72
+75=	Harsh Singh	Open, Novice	We don&#x27;t believe what&#x27;s on TV	73	75	77	76	75	376	75.20	1.33
+75=	Vaibhav Srivastava	Open, Novice	The myth , the man and vaibhacc	76	76	77	73	74	376	75.20	1.47
+75=	Aarnav Gupta	Open, Novice	something really inappropriate	75	74	76	76	75	376	75.20	0.75
+84=	Manasvi Choudhary	Open, Novice	Buri Buri Zaimon	75	75	75	75	75	375	75.00	0.00
+84=	Aditya Neeraje	Open	online comps me break de do	74	75	77	73	76	375	75.00	1.41
+84=	Akshat Jain	Open, Novice	Kakdi aur Kakarania	77	75	72	75	76	375	75.00	1.67
+84=	Shaunak Saha	Open, Novice	Streets won&#x27;t forget QPR Adel Tara	76	75	75	71	78	375	75.00	2.28
+84=	Shubhamkar	Open	Main roz apne andar ke shaitaan se	73	76	76	74	76	375	75.00	1.26
+84=	Apoorva Pandey	Open	We don&#x27;t believe what&#x27;s on TV	74	74	77	75	75	375	75.00	1.10
+84=	Sadiksha Basnet*	Open, Novice	Breakdancers	76	77	72	74	76	375	75.00	1.79
+84=	Tanusha Mahara*	Open, Novice	Breakdancers	76	77	72	74	76	375	75.00	1.79
+84=	Aryamman Bhatia	Open, Novice	naam gaya tel lene	75	77	71	77	75	375	75.00	2.19
+93=	Aakash Kar	Open, Novice	Dhyat GPT	74	75	76	75	74	374	74.80	0.75
+93=	Vidushi Mall	Open, Novice	debater? I hardly know her	76	75	72	77	74	374	74.80	1.72
+93=	Kashish Bansal	Open, Novice	Bhaiya Break karwado	76	73	76	74	75	374	74.80	1.17
+93=	Shalomi Nath	Open, Novice	You’re a 10 on the pH scale	75	74	73	77	75	374	74.80	1.33
+93=	Vrinda Khandelwal	Open, Novice	Strepsils	74	74	74	75	77	374	74.80	1.17
+93=	Soham Nanda	Open, Novice	open nahi novice jaana hai	75	77	69	75	78	374	74.80	3.12
+93=	Shayan Sareen	Open, Novice	Herry Hose	74	77	75	73	75	374	74.80	1.33
+93=	Brinda Devgun	Open, Novice	Swiper, No Swiping	73	73	77	76	75	374	74.80	1.60
+93=	Nirav Dave	Open, Novice	Kasukabe defence group	73	77	74	74	76	374	74.80	1.47
+102=	Vaishnavi Srivastav	Open, Novice	Buri Buri Zaimon	74	75	75	74	75	373	74.60	0.49
+102=	W.M.D.S.S. Ranasinghe	Open, Novice	UOM	75	74	76	72	76	373	74.60	1.50
+102=	Kishore Nagarajan	Open, Novice	Knifers in Paris	73	74	75	74	77	373	74.60	1.36
+102=	Stormie	Open, Novice	Jasmine Cheese Tea	74	79	74	72	74	373	74.60	2.33
+102=	Huma Sayed	Open, Novice	Bhaiya Break karwado	76	73	75	74	75	373	74.60	1.02
+102=	Karan Kakarania	Open, Novice	Kakdi aur Kakarania	77	74	72	75	75	373	74.60	1.62
+102=	Kshitij Srivastava	Open, Novice	Fly you Fools	72	76	75	75	75	373	74.60	1.36
+109=	Samya Bhattacharya	Open, Novice	Dhyat GPT	74	74	74	76	74	372	74.40	0.80
+109=	Aheli Azman	Open, Novice	CU A	72	74	76	74	76	372	74.40	1.50
+109=	Srinivas Iyer	Open, Novice	Streets won&#x27;t forget QPR Adel Tara	74	75	75	72	76	372	74.40	1.36
+109=	Tanvi Anand	Open, Novice	naam gaya tel lene	75	77	69	76	75	372	74.40	2.80
+109=	Kriti Mehta	Open, Novice	Kasukabe defence group	72	77	74	74	75	372	74.40	1.62
+109=	ROHAN SAWLANI	Open, Novice	something really inappropriate	74	73	76	75	74	372	74.40	1.02
+115=	Doreenda Nti	Open	Wild &#x27;N Out	73	76	74	74	74	371	74.20	0.98
+115=	Ansh Jain	Open, Novice	We&#x27;re all gonna die	75	75	74	72	75	371	74.20	1.17
+115=	Yashaswi Purohit	Open, Novice	The myth , the man and vaibhacc	70	75	77	74	75	371	74.20	2.32
+118=	Patience Maame Efua Agyiri Andoh	Open	Wild &#x27;N Out	71	76	75	74	74	370	74.00	1.67
+118=	Marzook E Elahi	Open, Novice	CU A	74	73	75	73	75	370	74.00	0.89
+118=	Anushka Raheja	Open, Novice	Aha Tamatar Bade Majedar	74	73	75	75	73	370	74.00	0.89
+118=	Shreyas Balakarthikeyan	Open, Novice	Herry Hose	73	76	74	73	74	370	74.00	1.10
+118=	Lavanya Panda	Open, Novice	Fly you Fools	72	75	74	74	75	370	74.00	1.10
+123=	Shreyas Sankaran	Open, Novice	Knifers in Paris	72	73	73	74	77	369	73.80	1.72
+123=	Pramit Pal	Open, Novice	We&#x27;re all gonna die	76	75	73	72	73	369	73.80	1.47
+125	Darsh Ruparelia	Open, Novice	Come to Contention!	69	76	73	74	76	368	73.60	2.58
+126=	Snehank Kadam	Open	&#x27;The Discourse disco&#x27;	74	69	75	74	75	367	73.40	2.24
+126=	Harith S	Open	Still freshies at heart	75	72	72	73	75	367	73.40	1.36
+128=	Shravani Khot	Open, Novice	Aha Tamatar Bade Majedar	73	71	74	75	73	366	73.20	1.33
+128=	Shreyas Kumbhar	Open	Still freshies at heart	75	72	73	72	74	366	73.20	1.17
+130	Rugved Gambhir	Open	&#x27;The Discourse disco&#x27;	74	69	74	73	75	365	73.00	2.10
+131	Moulik Mishra	Open, Novice	Bhaaya 1 plate dosa and 1 plate va	70	74	71	75	74	364	72.80	1.94
+132	Ashmit Banerjee	Open, Novice	This OA could have been an email	75	70	76	68	74	363	72.60	3.07
+133	Vanshika Bhardwaj	Open, Novice	This OA could have been an email	75	70	75	67	73	360	72.00	3.10
+134	Sneha S	Open, Novice	Jab We Debate	64	75	74	72	74	359	71.80	4.02
+135	Rohan Singh	Open, Novice	Jab We Debate	65	74	72	72	72	355	71.00	3.10
+136	Daud Kharal	Open	Come to LUMS Pre ABP + Chanidu	80	76	77	79	—	312	78.00	1.58
+137=	Ujan Sarkar	Open	opening garment	77	74	—	78	78	307	76.75	1.64
+137=	Saket Manikantan	Open, Novice	UFD Let the 12 and 15 year old win	78	77	74	—	78	307	76.75	1.64
+139	Vishwa Raghav Raj	Open	Let the 20 year old win pt 3- Reve	—	74	77	77	76	304	76.00	1.22
+140=	Ushosi Chakraborty	Open, Novice	POIson Ivy	75	76	74	—	78	303	75.75	1.48
+140=	Sadhya Padmanabhan	Open, Novice	Onam Food and Onam Enjoyer	—	75	76	76	76	303	75.75	0.43
+142=	Dela Kwame	Open	One of us is Canadian	77	75	75	74	—	301	75.25	1.09
+142=	Redacted	Open	—	—	77	76	72	76	301	75.25	1.92
+142=	Alex Junior Kodjoe	Open, Novice	You know , 99% Aura	74	76	—	77	74	301	75.25	1.30
+145	Agha	Open	Fantastic Tea	—	76	76	72	75	299	74.75	1.64
+146=	Aabis Naqvi	Open, Novice	Tuntun Mausi Fan Club	74	70	75	75	—	294	73.50	2.06
+146=	Abhinav Kumar	Open, Novice	Tuntun Mausi Fan Club	74	71	74	75	—	294	73.50	1.50
+148	Srijan Daga	Open	Come to Contention!	68	—	73	75	77	293	73.25	3.34
+149	Arnav Tushar Ghugal	Open, Novice	Bhaaya 1 plate dosa and 1 plate va	70	73	70	76	—	289	72.25	2.49
+150	Speaker 3	Open	Swing 2	—	—	78	76	76	230	76.67	0.94
+151=	Desmond Dorvlo	Open	The Tribal Chief and The Wiseman	77	75	—	77	—	229	76.33	0.94
+151=	Aditya Ojha	Open	Could Not Think Of A Name	76	76	77	—	—	229	76.33	0.47
+153=	Tejas G. Shende	Open	Could Not Think Of A Name	75	76	77	—	—	228	76.00	0.82
+153=	Arush Ramachandran	Open	Khuda Jaane	—	73	78	77	—	228	76.00	2.16
+155	Henaku Kwasi	Open	The Tribal Chief and The Wiseman	77	75	—	75	—	227	75.67	0.94
+156=	Redacted	Open, Novice	—	75	76	75	—	—	226	75.33	0.47
+156=	Sarthak Sarkar	Open	Jobless Randos	73	77	76	—	—	226	75.33	1.70
+158	Speaker 1	Open	Swing 1	75	—	72	78	—	225	75.00	2.45
+159	Tanishka Vaishali	Open, Novice	MV	76	74	—	72	—	222	74.00	1.63
+160=	Jeffery Owusu Acheaw	Open	One of us is Canadian	78	74	67	—	—	219	73.00	4.55
+160=	Kanishk Chaudhary	Open, Novice	Hi	73	74	72	—	—	219	73.00	0.82
+162	Abhinav	Open, Novice	Hi	73	74	71	—	—	218	72.67	1.25
+163	Redacted	Open, Novice	—	77	77	—	—	—	154	77.00	0.00
+164=	Hooria Gilehri	Open	Rishta Wohi, Soch Nayi	77	76	—	—	—	153	76.50	0.50
+164=	Speaker 4	Open	Swing 2	—	—	—	77	76	153	76.50	0.50
+166	Ganji Churail	Open	Rishta Wohi, Soch Nayi	76	75	—	—	—	151	75.50	0.50
+167	Speaker 5	Open	Swing 3	—	—	75	75	—	150	75.00	0.00
+168	Sujato Datta	Open	Halaal Gentoos	76	73	—	—	—	149	74.50	1.50
+169=	Srinjoy Debgupta	Open	Halaal Gentoos	75	72	—	—	—	147	73.50	1.50
+169=	Yash Tulsian (D)	Open	Jobless Randos	71	76	—	—	—	147	73.50	2.50
+171	Chanakya Raj Budhathoki	Open, Novice	Power Couple	70	76	—	—	—	146	73.00	3.00
+172=	Suprim K.C	Open, Novice	Power Couple	69	75	—	—	—	144	72.00	3.00
+172=	Speaker 2	Open	Swing 1	—	—	72	—	72	144	72.00	0.00
+174	Speaker 7	Open	Swing 4	—	—	75	—	—	75	75.00	0.00
+175=	Speaker 6	Open	Swing 3	—	—	—	74	—	74	74.00	0.00
+175=	Speaker 8	Open	Swing 4	—	—	74	—	—	74	74.00	0.00
+
+
+team	result	side	ballot	adjudicators
+Hotpot &amp; Kebab	1st	Closing Opposition	View Ballot	Pranav KagalkarⒸ , Aditya Jha , Manit TanwarⓉ
+CU A	4th	Opening Opposition	View Ballot	Pranav KagalkarⒸ , Aditya Jha , Manit TanwarⓉ
+IITK	3rd	Closing Government	View Ballot	Pranav KagalkarⒸ , Aditya Jha , Manit TanwarⓉ
+You’re a 10 on the pH scale	2nd	Opening Government	View Ballot	Pranav KagalkarⒸ , Aditya Jha , Manit TanwarⓉ
+ADMU 99% of people quit before they win	1st	Closing Government	View Ballot	Shraddha KulkarniⒸ , Chantal ZikpiⓉ , Prashant GuptaⓉ
+Breakdancers	2nd	Opening Government	View Ballot	Shraddha KulkarniⒸ , Chantal ZikpiⓉ , Prashant GuptaⓉ
+Onam Food and Onam Enjoyer	4th	Opening Opposition	View Ballot	Shraddha KulkarniⒸ , Chantal ZikpiⓉ , Prashant GuptaⓉ
+Swing 1	3rd	Closing Opposition	View Ballot	Shraddha KulkarniⒸ , Chantal ZikpiⓉ , Prashant GuptaⓉ
+Bhaiya Break karwado	3rd	Opening Opposition	View Ballot	Robin AhujaⒸ , SNEHA KUMARIⓉ , Saanvi KaplishⓉ
+Still freshies at heart	4th	Opening Government	View Ballot	Robin AhujaⒸ , SNEHA KUMARIⓉ , Saanvi KaplishⓉ
+Let the 20 year old win pt 3- Reve	2nd	Closing Opposition	View Ballot	Robin AhujaⒸ , SNEHA KUMARIⓉ , Saanvi KaplishⓉ
+A pig and a camel walk into a bin	1st	Closing Government	View Ballot	Robin AhujaⒸ , SNEHA KUMARIⓉ , Saanvi KaplishⓉ
+beans	1st	Closing Government	View Ballot	Pratyush Kumar ShekharⒸ , ANKIT GHOSALⓉ , Aaryav BansalⓉ
+Allu Arjun x Vijay Telepathy	2nd	Opening Opposition	View Ballot	Pratyush Kumar ShekharⒸ , ANKIT GHOSALⓉ , Aaryav BansalⓉ
+open nahi novice jaana hai	4th	Closing Opposition	View Ballot	Pratyush Kumar ShekharⒸ , ANKIT GHOSALⓉ , Aaryav BansalⓉ
+Batuni Berozgar Baddies	3rd	Opening Government	View Ballot	Pratyush Kumar ShekharⒸ , ANKIT GHOSALⓉ , Aaryav BansalⓉ
+Jatt Jaat coalition	2nd	Opening Opposition	View Ballot	Sharuka WikramanayakeⒸ , Rohan Krishnan , S R ArunⓉ
+Strepsils	3rd	Closing Opposition	View Ballot	Sharuka WikramanayakeⒸ , Rohan Krishnan , S R ArunⓉ
+Kaun Talha?	1st	Closing Government	View Ballot	Sharuka WikramanayakeⒸ , Rohan Krishnan , S R ArunⓉ
+We don&#x27;t believe what&#x27;s on TV	4th	Opening Government	View Ballot	Sharuka WikramanayakeⒸ , Rohan Krishnan , S R ArunⓉ
+Aha Tamatar Bade Majedar	3rd	Closing Opposition	View Ballot	Ellie StephensonⒸ , Joanna Elornam Mensah , Ananya DuttaⓉ
+Kom Susser Break	2nd	Opening Government	View Ballot	Ellie StephensonⒸ , Joanna Elornam Mensah , Ananya DuttaⓉ
+We&#x27;re all gonna die	1st	Opening Opposition	View Ballot	Ellie StephensonⒸ , Joanna Elornam Mensah , Ananya DuttaⓉ
+Jobless Randos	4th	Closing Government	View Ballot	Ellie StephensonⒸ , Joanna Elornam Mensah , Ananya DuttaⓉ
+&#x27;The Discourse disco&#x27;	3rd	Closing Opposition	View Ballot	Akshat SaxenaⒸ , Preeyansh AgarwallaⓉ
+Hi	4th	Opening Opposition	View Ballot	Akshat SaxenaⒸ , Preeyansh AgarwallaⓉ
+Idk Anything	1st	Opening Government	View Ballot	Akshat SaxenaⒸ , Preeyansh AgarwallaⓉ
+You know , 99% Aura	2nd	Closing Government	View Ballot	Akshat SaxenaⒸ , Preeyansh AgarwallaⓉ
+UOM	3rd	Closing Government	View Ballot	Sudiksha AggarwalⒸ , Aryadeep SinhaⓉ , Riya SolankiⓉ
+english or spanish?	4th	Opening Government	View Ballot	Sudiksha AggarwalⒸ , Aryadeep SinhaⓉ , Riya SolankiⓉ
+One child and One older child	2nd	Closing Opposition	View Ballot	Sudiksha AggarwalⒸ , Aryadeep SinhaⓉ , Riya SolankiⓉ
+Troy and Abed go debating	1st	Opening Opposition	View Ballot	Sudiksha AggarwalⒸ , Aryadeep SinhaⓉ , Riya SolankiⓉ
+Jasmine Cheese Tea	4th	Closing Government	View Ballot	Minami MatsushimaⒸ , Nadim Abrar , Aadi GovilⓉ
+Rangan x Amban	2nd	Opening Opposition	View Ballot	Minami MatsushimaⒸ , Nadim Abrar , Aadi GovilⓉ
+UFD Let the 12 and 15 year old win	3rd	Closing Opposition	View Ballot	Minami MatsushimaⒸ , Nadim Abrar , Aadi GovilⓉ
+Come to LUMS Pre ABP + Chanidu	1st	Opening Government	View Ballot	Minami MatsushimaⒸ , Nadim Abrar , Aadi GovilⓉ
+Let them eat cake	4th	Closing Opposition	View Ballot	Benjamin James DiskinⒸ , Ashish Srivastava
+Kakdi aur Kakarania	2nd	Closing Government	View Ballot	Benjamin James DiskinⒸ , Ashish Srivastava
+MV	3rd	Opening Opposition	View Ballot	Benjamin James DiskinⒸ , Ashish Srivastava
+saksham made me cry when I was dru	1st	Opening Government	View Ballot	Benjamin James DiskinⒸ , Ashish Srivastava
+ADMU GY	1st	Closing Opposition	View Ballot	Lavanya PuriⒸ , Kavya GuptaⓉ , Pragyansh NayakⓉ
+sans ek moh maya hai	2nd	Opening Opposition	View Ballot	Lavanya PuriⒸ , Kavya GuptaⓉ , Pragyansh NayakⓉ
+Could Not Think Of A Name	4th	Closing Government	View Ballot	Lavanya PuriⒸ , Kavya GuptaⓉ , Pragyansh NayakⓉ
+UFD Swinging to Softlaunching	3rd	Opening Government	View Ballot	Lavanya PuriⒸ , Kavya GuptaⓉ , Pragyansh NayakⓉ
+Knifers in Paris	1st	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ , Guhan SwaminathanⓉ
+Come to Contention!	3rd	Opening Government	View Ballot	Angad Singh ChawlaⒸ , Guhan SwaminathanⓉ
+Bhaaya 1 plate dosa and 1 plate va	2nd	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ , Guhan SwaminathanⓉ
+Jab We Debate	4th	Closing Government	View Ballot	Angad Singh ChawlaⒸ , Guhan SwaminathanⓉ
+Wild &#x27;N Out	3rd	Opening Government	View Ballot	RamⒸ
+online comps me break de do	1st	Opening Opposition	View Ballot	RamⒸ
+Kasukabe defence group	2nd	Closing Government	View Ballot	RamⒸ
+Power Couple	4th	Closing Opposition	View Ballot	RamⒸ
+Long Diagonal	1st	Opening Government	View Ballot	V SayiramⒸ , Yash DagarⓉ
+Herry Hose	4th	Closing Opposition	View Ballot	V SayiramⒸ , Yash DagarⓉ
+Streets won&#x27;t forget QPR Adel Tara	2nd	Opening Opposition	View Ballot	V SayiramⒸ , Yash DagarⓉ
+Main roz apne andar ke shaitaan se	3rd	Closing Government	View Ballot	V SayiramⒸ , Yash DagarⓉ
+god-loving gays	1st	Closing Government	View Ballot	Samar Pratap SinghⒸ , Pubali SukritiⓉ , Suryansh DimriⓉ
+This OA could have been an email	3rd	Opening Government	View Ballot	Samar Pratap SinghⒸ , Pubali SukritiⓉ , Suryansh DimriⓉ
+Rishta Wohi, Soch Nayi	2nd	Closing Opposition	View Ballot	Samar Pratap SinghⒸ , Pubali SukritiⓉ , Suryansh DimriⓉ
+Eda Mone	4th	Opening Opposition	View Ballot	Samar Pratap SinghⒸ , Pubali SukritiⓉ , Suryansh DimriⓉ
+Buri Buri Zaimon	3rd	Closing Government	View Ballot	PolⒸ , Oarben Balicoco , Rachit AgrawalⓉ
+GC A	2nd	Opening Opposition	View Ballot	PolⒸ , Oarben Balicoco , Rachit AgrawalⓉ
+Tuntun Mausi Fan Club	4th	Opening Government	View Ballot	PolⒸ , Oarben Balicoco , Rachit AgrawalⓉ
+Institutional team	1st	Closing Opposition	View Ballot	PolⒸ , Oarben Balicoco , Rachit AgrawalⓉ
+destroyed by hippie powers	1st	Opening Opposition	View Ballot	Mateo Acosta FernandezⒸ , Apurva Thakur , Rudraksh JainⓉ
+Flight Risk	2nd	Closing Government	View Ballot	Mateo Acosta FernandezⒸ , Apurva Thakur , Rudraksh JainⓉ
+The myth , the man and vaibhacc	3rd	Closing Opposition	View Ballot	Mateo Acosta FernandezⒸ , Apurva Thakur , Rudraksh JainⓉ
+Fly you Fools	4th	Opening Government	View Ballot	Mateo Acosta FernandezⒸ , Apurva Thakur , Rudraksh JainⓉ
+Halaal Gentoos	3rd	Opening Opposition	View Ballot	Oladi GabisiⒸ , Tejas PikaleⓉ
+POIson Ivy	4th	Closing Opposition	View Ballot	Oladi GabisiⒸ , Tejas PikaleⓉ
+Spilling the tea	2nd	Opening Government	View Ballot	Oladi GabisiⒸ , Tejas PikaleⓉ
+Khuda Jaane	1st	Closing Government	View Ballot	Oladi GabisiⒸ , Tejas PikaleⓉ
+opening garment	3rd	Closing Government	View Ballot	Kojo O.  AcheampongⒸ , Krushnashish PradhanⓉ , Sanchita DashⓉ
+One of us is Canadian	2nd	Opening Government	View Ballot	Kojo O.  AcheampongⒸ , Krushnashish PradhanⓉ , Sanchita DashⓉ
+debater? I hardly know her	4th	Opening Opposition	View Ballot	Kojo O.  AcheampongⒸ , Krushnashish PradhanⓉ , Sanchita DashⓉ
+Elite by Extension	1st	Closing Opposition	View Ballot	Kojo O.  AcheampongⒸ , Krushnashish PradhanⓉ , Sanchita DashⓉ
+M.S. Excel	3rd	Opening Government	View Ballot	Vansh ChadhaⒸ , Tavish Joshi , Sugam AgarwalⓉ
+The Tribal Chief and The Wiseman	1st	Opening Opposition	View Ballot	Vansh ChadhaⒸ , Tavish Joshi , Sugam AgarwalⓉ
+Swiper, No Swiping	4th	Closing Opposition	View Ballot	Vansh ChadhaⒸ , Tavish Joshi , Sugam AgarwalⓉ
+Ohh hang on ....lemme think	2nd	Closing Government	View Ballot	Vansh ChadhaⒸ , Tavish Joshi , Sugam AgarwalⓉ
+Dhyat GPT	4th	Opening Opposition	View Ballot	Debayan BhattacharyaⒸ , Chellaboyina Tarini AryaⓉ
+naam gaya tel lene	2nd	Closing Opposition	View Ballot	Debayan BhattacharyaⒸ , Chellaboyina Tarini AryaⓉ
+RKT Originals	1st	Closing Government	View Ballot	Debayan BhattacharyaⒸ , Chellaboyina Tarini AryaⓉ
+something really inappropriate	3rd	Opening Government	View Ballot	Debayan BhattacharyaⒸ , Chellaboyina Tarini AryaⓉ
+
+
+team	result	side	ballot	adjudicators
+Bhaaya 1 plate dosa and 1 plate va	4th	Closing Government	View Ballot	Vansh ChadhaⒸ , S R ArunⓉ , SNEHA KUMARIⓉ
+Flight Risk	1st	Opening Opposition	View Ballot	Vansh ChadhaⒸ , S R ArunⓉ , SNEHA KUMARIⓉ
+You know , 99% Aura	3rd	Closing Opposition	View Ballot	Vansh ChadhaⒸ , S R ArunⓉ , SNEHA KUMARIⓉ
+naam gaya tel lene	2nd	Opening Government	View Ballot	Vansh ChadhaⒸ , S R ArunⓉ , SNEHA KUMARIⓉ
+Rishta Wohi, Soch Nayi	3rd	Opening Government	View Ballot	Kojo O.  AcheampongⒸ , Aryadeep SinhaⓉ , Manit TanwarⓉ
+Kom Susser Break	2nd	Closing Opposition	View Ballot	Kojo O.  AcheampongⒸ , Aryadeep SinhaⓉ , Manit TanwarⓉ
+Spilling the tea	4th	Closing Government	View Ballot	Kojo O.  AcheampongⒸ , Aryadeep SinhaⓉ , Manit TanwarⓉ
+Kasukabe defence group	1st	Opening Opposition	View Ballot	Kojo O.  AcheampongⒸ , Aryadeep SinhaⓉ , Manit TanwarⓉ
+opening garment	4th	Closing Opposition	View Ballot	V SayiramⒸ , Ashish Srivastava , Aadhi ImranⓉ
+Strepsils	3rd	Closing Government	View Ballot	V SayiramⒸ , Ashish Srivastava , Aadhi ImranⓉ
+Eda Mone	2nd	Opening Government	View Ballot	V SayiramⒸ , Ashish Srivastava , Aadhi ImranⓉ
+UFD Swinging to Softlaunching	1st	Opening Opposition	View Ballot	V SayiramⒸ , Ashish Srivastava , Aadhi ImranⓉ
+Hi	4th	Closing Government	View Ballot	Oladi GabisiⒸ , Tavish Joshi , Pragyansh NayakⓉ
+Jobless Randos	1st	Opening Opposition	View Ballot	Oladi GabisiⒸ , Tavish Joshi , Pragyansh NayakⓉ
+Onam Food and Onam Enjoyer	3rd	Opening Government	View Ballot	Oladi GabisiⒸ , Tavish Joshi , Pragyansh NayakⓉ
+Fly you Fools	2nd	Closing Opposition	View Ballot	Oladi GabisiⒸ , Tavish Joshi , Pragyansh NayakⓉ
+Buri Buri Zaimon	4th	Opening Government	View Ballot	Lavanya PuriⒸ , Tejas Pikale , Sugam AgarwalⓉ
+Wild &#x27;N Out	2nd	Closing Government	View Ballot	Lavanya PuriⒸ , Tejas Pikale , Sugam AgarwalⓉ
+Fantastic Tea	1st	Closing Opposition	View Ballot	Lavanya PuriⒸ , Tejas Pikale , Sugam AgarwalⓉ
+Come to Contention!	3rd	Opening Opposition	View Ballot	Lavanya PuriⒸ , Tejas Pikale , Sugam AgarwalⓉ
+Jasmine Cheese Tea	1st	Closing Opposition	View Ballot	Aditya JhaⒸ , Shahriar Siddiquee , Chellaboyina Tarini AryaⓉ
+Let them eat cake	3rd	Closing Government	View Ballot	Aditya JhaⒸ , Shahriar Siddiquee , Chellaboyina Tarini AryaⓉ
+open nahi novice jaana hai	2nd	Opening Government	View Ballot	Aditya JhaⒸ , Shahriar Siddiquee , Chellaboyina Tarini AryaⓉ
+Could Not Think Of A Name	4th	Opening Opposition	View Ballot	Aditya JhaⒸ , Shahriar Siddiquee , Chellaboyina Tarini AryaⓉ
+M.S. Excel	1st	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ , Riya SolankiⓉ
+This OA could have been an email	3rd	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ , Riya SolankiⓉ
+&#x27;The Discourse disco&#x27;	4th	Closing Government	View Ballot	Angad Singh ChawlaⒸ , Riya SolankiⓉ
+Aha Tamatar Bade Majedar	2nd	Opening Government	View Ballot	Angad Singh ChawlaⒸ , Riya SolankiⓉ
+One of us is Canadian	4th	Closing Opposition	View Ballot	Himan NayakⒸ , Ananya DuttaⓉ , Prashant GuptaⓉ
+Rangan x Amban	1st	Closing Government	View Ballot	Himan NayakⒸ , Ananya DuttaⓉ , Prashant GuptaⓉ
+You’re a 10 on the pH scale	2nd	Opening Opposition	View Ballot	Himan NayakⒸ , Ananya DuttaⓉ , Prashant GuptaⓉ
+Let the 20 year old win pt 3- Reve	3rd	Opening Government	View Ballot	Himan NayakⒸ , Ananya DuttaⓉ , Prashant GuptaⓉ
+destroyed by hippie powers	2nd	Opening Government	View Ballot	Minami MatsushimaⒸ , Mehal Bisht
+We&#x27;re all gonna die	4th	Closing Government	View Ballot	Minami MatsushimaⒸ , Mehal Bisht
+ADMU 99% of people quit before they win	1st	Opening Opposition	View Ballot	Minami MatsushimaⒸ , Mehal Bisht
+RKT Originals	3rd	Closing Opposition	View Ballot	Minami MatsushimaⒸ , Mehal Bisht
+UOM	1st	Opening Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Kavya Gupta , Guhan SwaminathanⓉ
+Halaal Gentoos	4th	Closing Government	View Ballot	Snigdha PriyadarshiniⒸ , Kavya Gupta , Guhan SwaminathanⓉ
+Bhaiya Break karwado	3rd	Opening Government	View Ballot	Snigdha PriyadarshiniⒸ , Kavya Gupta , Guhan SwaminathanⓉ
+something really inappropriate	2nd	Closing Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Kavya Gupta , Guhan SwaminathanⓉ
+Hotpot &amp; Kebab	2nd	Closing Government	View Ballot	Jez EdagbamiⒸ , Chantal ZikpiⓉ , Saanvi KaplishⓉ
+Kakdi aur Kakarania	4th	Opening Opposition	View Ballot	Jez EdagbamiⒸ , Chantal ZikpiⓉ , Saanvi KaplishⓉ
+Come to LUMS Pre ABP + Chanidu	1st	Closing Opposition	View Ballot	Jez EdagbamiⒸ , Chantal ZikpiⓉ , Saanvi KaplishⓉ
+Khuda Jaane	3rd	Opening Government	View Ballot	Jez EdagbamiⒸ , Chantal ZikpiⓉ , Saanvi KaplishⓉ
+Knifers in Paris	4th	Closing Opposition	View Ballot	Bea LegaspiⒸ , Aaryav BansalⓉ , Khushi JainⓉ
+online comps me break de do	3rd	Opening Government	View Ballot	Bea LegaspiⒸ , Aaryav BansalⓉ , Khushi JainⓉ
+Long Diagonal	2nd	Opening Opposition	View Ballot	Bea LegaspiⒸ , Aaryav BansalⓉ , Khushi JainⓉ
+saksham made me cry when I was dru	1st	Closing Government	View Ballot	Bea LegaspiⒸ , Aaryav BansalⓉ , Khushi JainⓉ
+Dhyat GPT	4th	Opening Government	View Ballot	Pratyush Kumar ShekharⒸ , Shaurya VardhanⓉ
+debater? I hardly know her	3rd	Closing Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Shaurya VardhanⓉ
+english or spanish?	1st	Closing Government	View Ballot	Pratyush Kumar ShekharⒸ , Shaurya VardhanⓉ
+POIson Ivy	2nd	Opening Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Shaurya VardhanⓉ
+Tuntun Mausi Fan Club	4th	Closing Government	View Ballot	RamⒸ , Nadim Abrar , ANKIT GHOSALⓉ
+Still freshies at heart	3rd	Closing Opposition	View Ballot	RamⒸ , Nadim Abrar , ANKIT GHOSALⓉ
+Swiper, No Swiping	2nd	Opening Government	View Ballot	RamⒸ , Nadim Abrar , ANKIT GHOSALⓉ
+We don&#x27;t believe what&#x27;s on TV	1st	Opening Opposition	View Ballot	RamⒸ , Nadim Abrar , ANKIT GHOSALⓉ
+UFD Let the 12 and 15 year old win	2nd	Closing Government	View Ballot	Samar Pratap SinghⒸ , Preeyansh Agarwalla , Rudraksh JainⓉ
+MV	4th	Opening Government	View Ballot	Samar Pratap SinghⒸ , Preeyansh Agarwalla , Rudraksh JainⓉ
+Batuni Berozgar Baddies	1st	Closing Opposition	View Ballot	Samar Pratap SinghⒸ , Preeyansh Agarwalla , Rudraksh JainⓉ
+The myth , the man and vaibhacc	3rd	Opening Opposition	View Ballot	Samar Pratap SinghⒸ , Preeyansh Agarwalla , Rudraksh JainⓉ
+beans	2nd	Opening Government	View Ballot	PolⒸ , Ellie Stephenson , Sanchita DashⓉ
+god-loving gays	4th	Opening Opposition	View Ballot	PolⒸ , Ellie Stephenson , Sanchita DashⓉ
+ADMU GY	1st	Closing Government	View Ballot	PolⒸ , Ellie Stephenson , Sanchita DashⓉ
+Idk Anything	3rd	Closing Opposition	View Ballot	PolⒸ , Ellie Stephenson , Sanchita DashⓉ
+Jatt Jaat coalition	1st	Closing Government	View Ballot	Debayan BhattacharyaⒸ , Pubali SukritiⓉ , Rachit AgrawalⓉ
+Streets won&#x27;t forget QPR Adel Tara	4th	Closing Opposition	View Ballot	Debayan BhattacharyaⒸ , Pubali SukritiⓉ , Rachit AgrawalⓉ
+Breakdancers	2nd	Opening Opposition	View Ballot	Debayan BhattacharyaⒸ , Pubali SukritiⓉ , Rachit AgrawalⓉ
+Ohh hang on ....lemme think	3rd	Opening Government	View Ballot	Debayan BhattacharyaⒸ , Pubali SukritiⓉ , Rachit AgrawalⓉ
+GC A	3rd	Closing Government	View Ballot	Benjamin James DiskinⒸ , Krushnashish PradhanⓉ
+sans ek moh maya hai	1st	Opening Government	View Ballot	Benjamin James DiskinⒸ , Krushnashish PradhanⓉ
+IITK	2nd	Opening Opposition	View Ballot	Benjamin James DiskinⒸ , Krushnashish PradhanⓉ
+Main roz apne andar ke shaitaan se	4th	Closing Opposition	View Ballot	Benjamin James DiskinⒸ , Krushnashish PradhanⓉ
+CU A	4th	Closing Government	View Ballot	Oarben BalicocoⒸ , Apurva Thakur , Aadi GovilⓉ
+Herry Hose	1st	Opening Government	View Ballot	Oarben BalicocoⒸ , Apurva Thakur , Aadi GovilⓉ
+Power Couple	2nd	Opening Opposition	View Ballot	Oarben BalicocoⒸ , Apurva Thakur , Aadi GovilⓉ
+Jab We Debate	3rd	Closing Opposition	View Ballot	Oarben BalicocoⒸ , Apurva Thakur , Aadi GovilⓉ
+Institutional team	3rd	Opening Government	View Ballot	Sharun Nikesh GⒸ , Yash DagarⓉ
+The Tribal Chief and The Wiseman	4th	Closing Government	View Ballot	Sharun Nikesh GⒸ , Yash DagarⓉ
+A pig and a camel walk into a bin	1st	Opening Opposition	View Ballot	Sharun Nikesh GⒸ , Yash DagarⓉ
+Kaun Talha?	2nd	Closing Opposition	View Ballot	Sharun Nikesh GⒸ , Yash DagarⓉ
+Allu Arjun x Vijay Telepathy	4th	Closing Opposition	View Ballot	Paula DjakovicⒸ , Joanna Elornam Mensah , Suryansh DimriⓉ
+One child and One older child	1st	Opening Opposition	View Ballot	Paula DjakovicⒸ , Joanna Elornam Mensah , Suryansh DimriⓉ
+Troy and Abed go debating	3rd	Opening Government	View Ballot	Paula DjakovicⒸ , Joanna Elornam Mensah , Suryansh DimriⓉ
+Elite by Extension	2nd	Closing Government	View Ballot	Paula DjakovicⒸ , Joanna Elornam Mensah , Suryansh DimriⓉ
+
+
+team	result	side	ballot	adjudicators
+debater? I hardly know her	2nd	Closing Government	View Ballot	Nadim AbrarⒸ , Aaryav Bansal
+Still freshies at heart	3rd	Opening Opposition	View Ballot	Nadim AbrarⒸ , Aaryav Bansal
+Hi	4th	Opening Government	View Ballot	Nadim AbrarⒸ , Aaryav Bansal
+Swing 3	1st	Closing Opposition	View Ballot	Nadim AbrarⒸ , Aaryav Bansal
+sans ek moh maya hai	1st	Closing Government	View Ballot	Paula DjakovicⒸ , Samar Pratap Singh , Pubali SukritiⓉ
+Flight Risk	3rd	Opening Government	View Ballot	Paula DjakovicⒸ , Samar Pratap Singh , Pubali SukritiⓉ
+Kaun Talha?	2nd	Opening Opposition	View Ballot	Paula DjakovicⒸ , Samar Pratap Singh , Pubali SukritiⓉ
+Khuda Jaane	4th	Closing Opposition	View Ballot	Paula DjakovicⒸ , Samar Pratap Singh , Pubali SukritiⓉ
+Herry Hose	4th	Opening Opposition	View Ballot	Mateo Acosta FernandezⒸ , Prashant GuptaⓉ
+Jobless Randos	3rd	Opening Government	View Ballot	Mateo Acosta FernandezⒸ , Prashant GuptaⓉ
+Ohh hang on ....lemme think	1st	Closing Opposition	View Ballot	Mateo Acosta FernandezⒸ , Prashant GuptaⓉ
+something really inappropriate	2nd	Closing Government	View Ballot	Mateo Acosta FernandezⒸ , Prashant GuptaⓉ
+Bhaiya Break karwado	3rd	Closing Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Krushnashish PradhanⓉ
+Swiper, No Swiping	1st	Opening Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Krushnashish PradhanⓉ
+The myth , the man and vaibhacc	2nd	Opening Government	View Ballot	Pratyush Kumar ShekharⒸ , Krushnashish PradhanⓉ
+Fly you Fools	4th	Closing Government	View Ballot	Pratyush Kumar ShekharⒸ , Krushnashish PradhanⓉ
+Let them eat cake	4th	Opening Government	View Ballot	Mahesh RⒸ , Shaurya Vardhan , Sanchita DashⓉ
+MV	3rd	Closing Government	View Ballot	Mahesh RⒸ , Shaurya Vardhan , Sanchita DashⓉ
+Main roz apne andar ke shaitaan se	1st	Opening Opposition	View Ballot	Mahesh RⒸ , Shaurya Vardhan , Sanchita DashⓉ
+Onam Food and Onam Enjoyer	2nd	Closing Opposition	View Ballot	Mahesh RⒸ , Shaurya Vardhan , Sanchita DashⓉ
+Eda Mone	1st	Closing Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Chellaboyina Tarini AryaⓉ
+Spilling the tea	2nd	Opening Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Chellaboyina Tarini AryaⓉ
+Come to Contention!	4th	Closing Government	View Ballot	Snigdha PriyadarshiniⒸ , Chellaboyina Tarini AryaⓉ
+Streets won&#x27;t forget QPR Adel Tara	3rd	Opening Government	View Ballot	Snigdha PriyadarshiniⒸ , Chellaboyina Tarini AryaⓉ
+Buri Buri Zaimon	1st	Closing Opposition	View Ballot	Ashish SrivastavaⒸ , Suryansh Dimri
+&#x27;The Discourse disco&#x27;	2nd	Opening Opposition	View Ballot	Ashish SrivastavaⒸ , Suryansh Dimri
+Jab We Debate	3rd	Opening Government	View Ballot	Ashish SrivastavaⒸ , Suryansh Dimri
+Swing 1	4th	Closing Government	View Ballot	Ashish SrivastavaⒸ , Suryansh Dimri
+beans	4th	Closing Opposition	View Ballot	S. SriramⒸ , Ananya Dutta , Chantal ZikpiⓉ
+ADMU GY	1st	Opening Opposition	View Ballot	S. SriramⒸ , Ananya Dutta , Chantal ZikpiⓉ
+destroyed by hippie powers	3rd	Closing Government	View Ballot	S. SriramⒸ , Ananya Dutta , Chantal ZikpiⓉ
+A pig and a camel walk into a bin	2nd	Opening Government	View Ballot	S. SriramⒸ , Ananya Dutta , Chantal ZikpiⓉ
+IITK	2nd	Closing Opposition	View Ballot	Debayan BhattacharyaⒸ , Aadi GovilⓉ
+Fantastic Tea	1st	Opening Opposition	View Ballot	Debayan BhattacharyaⒸ , Aadi GovilⓉ
+We&#x27;re all gonna die	4th	Opening Government	View Ballot	Debayan BhattacharyaⒸ , Aadi GovilⓉ
+Swing 4	3rd	Closing Government	View Ballot	Debayan BhattacharyaⒸ , Aadi GovilⓉ
+You’re a 10 on the pH scale	2nd	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ
+Batuni Berozgar Baddies	1st	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ
+naam gaya tel lene	4th	Closing Government	View Ballot	Angad Singh ChawlaⒸ
+RKT Originals	3rd	Opening Government	View Ballot	Angad Singh ChawlaⒸ
+online comps me break de do	3rd	Closing Government	View Ballot	Vansh ChadhaⒸ
+Long Diagonal	4th	Closing Opposition	View Ballot	Vansh ChadhaⒸ
+One child and One older child	2nd	Opening Government	View Ballot	Vansh ChadhaⒸ
+Elite by Extension	1st	Opening Opposition	View Ballot	Vansh ChadhaⒸ
+god-loving gays	3rd	Closing Opposition	View Ballot	Lavanya PuriⒸ , Khushi JainⓉ
+GC A	2nd	Opening Government	View Ballot	Lavanya PuriⒸ , Khushi JainⓉ
+UFD Let the 12 and 15 year old win	4th	Opening Opposition	View Ballot	Lavanya PuriⒸ , Khushi JainⓉ
+Let the 20 year old win pt 3- Reve	1st	Closing Government	View Ballot	Lavanya PuriⒸ , Khushi JainⓉ
+english or spanish?	1st	Closing Opposition	View Ballot	Archit LahiriⒸ , Sugam AgarwalⓉ
+Strepsils	4th	Opening Government	View Ballot	Archit LahiriⒸ , Sugam AgarwalⓉ
+Aha Tamatar Bade Majedar	3rd	Closing Government	View Ballot	Archit LahiriⒸ , Sugam AgarwalⓉ
+You know , 99% Aura	2nd	Opening Opposition	View Ballot	Archit LahiriⒸ , Sugam AgarwalⓉ
+Rangan x Amban	2nd	Opening Government	View Ballot	Ellie StephensonⒸ , Yash DagarⓉ
+saksham made me cry when I was dru	3rd	Opening Opposition	View Ballot	Ellie StephensonⒸ , Yash DagarⓉ
+ADMU 99% of people quit before they win	4th	Closing Opposition	View Ballot	Ellie StephensonⒸ , Yash DagarⓉ
+Come to LUMS Pre ABP + Chanidu	1st	Closing Government	View Ballot	Ellie StephensonⒸ , Yash DagarⓉ
+UOM	2nd	Opening Government	View Ballot	V SayiramⒸ , Manit Tanwar
+Idk Anything	3rd	Opening Opposition	View Ballot	V SayiramⒸ , Manit Tanwar
+Breakdancers	4th	Closing Government	View Ballot	V SayiramⒸ , Manit Tanwar
+Troy and Abed go debating	1st	Closing Opposition	View Ballot	V SayiramⒸ , Manit Tanwar
+One of us is Canadian	4th	Opening Opposition	View Ballot	PolⒸ , Saanvi KaplishⓉ
+Allu Arjun x Vijay Telepathy	1st	Closing Government	View Ballot	PolⒸ , Saanvi KaplishⓉ
+POIson Ivy	3rd	Opening Government	View Ballot	PolⒸ , Saanvi KaplishⓉ
+This OA could have been an email	2nd	Closing Opposition	View Ballot	PolⒸ , Saanvi KaplishⓉ
+M.S. Excel	3rd	Opening Opposition	View Ballot	Benjamin James DiskinⒸ , ANKIT GHOSALⓉ
+Knifers in Paris	4th	Opening Government	View Ballot	Benjamin James DiskinⒸ , ANKIT GHOSALⓉ
+Kom Susser Break	2nd	Closing Government	View Ballot	Benjamin James DiskinⒸ , ANKIT GHOSALⓉ
+UFD Swinging to Softlaunching	1st	Closing Opposition	View Ballot	Benjamin James DiskinⒸ , ANKIT GHOSALⓉ
+Dhyat GPT	3rd	Closing Government	View Ballot	Tavish JoshiⒸ , Preeyansh Agarwalla
+Tuntun Mausi Fan Club	4th	Opening Opposition	View Ballot	Tavish JoshiⒸ , Preeyansh Agarwalla
+CU A	2nd	Closing Opposition	View Ballot	Tavish JoshiⒸ , Preeyansh Agarwalla
+Could Not Think Of A Name	1st	Opening Government	View Ballot	Tavish JoshiⒸ , Preeyansh Agarwalla
+opening garment	2nd	Opening Opposition	View Ballot	Manasija DasⒸ , Rachit AgrawalⓉ
+Kakdi aur Kakarania	1st	Closing Opposition	View Ballot	Manasija DasⒸ , Rachit AgrawalⓉ
+open nahi novice jaana hai	4th	Closing Government	View Ballot	Manasija DasⒸ , Rachit AgrawalⓉ
+Bhaaya 1 plate dosa and 1 plate va	3rd	Opening Government	View Ballot	Manasija DasⒸ , Rachit AgrawalⓉ
+Wild &#x27;N Out	3rd	Opening Opposition	View Ballot	Rahul DattaⒸ , Rudraksh JainⓉ
+Jasmine Cheese Tea	4th	Opening Government	View Ballot	Rahul DattaⒸ , Rudraksh JainⓉ
+We don&#x27;t believe what&#x27;s on TV	2nd	Closing Government	View Ballot	Rahul DattaⒸ , Rudraksh JainⓉ
+Swing 2	1st	Closing Opposition	View Ballot	Rahul DattaⒸ , Rudraksh JainⓉ
+Hotpot &amp; Kebab	2nd	Opening Opposition	View Ballot	Sharun Nikesh GⒸ , SNEHA KUMARIⓉ
+Jatt Jaat coalition	3rd	Closing Opposition	View Ballot	Sharun Nikesh GⒸ , SNEHA KUMARIⓉ
+Institutional team	1st	Closing Government	View Ballot	Sharun Nikesh GⒸ , SNEHA KUMARIⓉ
+Kasukabe defence group	4th	Opening Government	View Ballot	Sharun Nikesh GⒸ , SNEHA KUMARIⓉ
+
+
+team	result	side	ballot	adjudicators
+One of us is Canadian	3rd	Closing Government	View Ballot	Aditya JhaⒸ , Saanvi Kaplish , Aadi GovilⓉ
+open nahi novice jaana hai	1st	Opening Opposition	View Ballot	Aditya JhaⒸ , Saanvi Kaplish , Aadi GovilⓉ
+MV	4th	Closing Opposition	View Ballot	Aditya JhaⒸ , Saanvi Kaplish , Aadi GovilⓉ
+Swing 3	2nd	Opening Government	View Ballot	Aditya JhaⒸ , Saanvi Kaplish , Aadi GovilⓉ
+opening garment	1st	Opening Government	View Ballot	Oladi GabisiⒸ , Manit Tanwar , ANKIT GHOSALⓉ
+Bhaiya Break karwado	3rd	Closing Opposition	View Ballot	Oladi GabisiⒸ , Manit Tanwar , ANKIT GHOSALⓉ
+Herry Hose	4th	Closing Government	View Ballot	Oladi GabisiⒸ , Manit Tanwar , ANKIT GHOSALⓉ
+Bhaaya 1 plate dosa and 1 plate va	2nd	Opening Opposition	View Ballot	Oladi GabisiⒸ , Manit Tanwar , ANKIT GHOSALⓉ
+god-loving gays	3rd	Opening Government	View Ballot	Debayan BhattacharyaⒸ , Preeyansh Agarwalla , SNEHA KUMARIⓉ
+online comps me break de do	4th	Closing Opposition	View Ballot	Debayan BhattacharyaⒸ , Preeyansh Agarwalla , SNEHA KUMARIⓉ
+Swiper, No Swiping	2nd	Closing Government	View Ballot	Debayan BhattacharyaⒸ , Preeyansh Agarwalla , SNEHA KUMARIⓉ
+naam gaya tel lene	1st	Opening Opposition	View Ballot	Debayan BhattacharyaⒸ , Preeyansh Agarwalla , SNEHA KUMARIⓉ
+Knifers in Paris	4th	Closing Government	View Ballot	PolⒸ , Krushnashish Pradhan , Chellaboyina Tarini AryaⓉ
+debater? I hardly know her	1st	Opening Government	View Ballot	PolⒸ , Krushnashish Pradhan , Chellaboyina Tarini AryaⓉ
+The Tribal Chief and The Wiseman	2nd	Closing Opposition	View Ballot	PolⒸ , Krushnashish Pradhan , Chellaboyina Tarini AryaⓉ
+Fly you Fools	3rd	Opening Opposition	View Ballot	PolⒸ , Krushnashish Pradhan , Chellaboyina Tarini AryaⓉ
+Allu Arjun x Vijay Telepathy	1st	Opening Government	View Ballot	Vansh ChadhaⒸ , Suryansh Dimri , Yash DagarⓉ
+Idk Anything	4th	Closing Government	View Ballot	Vansh ChadhaⒸ , Suryansh Dimri , Yash DagarⓉ
+We don&#x27;t believe what&#x27;s on TV	3rd	Closing Opposition	View Ballot	Vansh ChadhaⒸ , Suryansh Dimri , Yash DagarⓉ
+RKT Originals	2nd	Opening Opposition	View Ballot	Vansh ChadhaⒸ , Suryansh Dimri , Yash DagarⓉ
+Institutional team	4th	Opening Opposition	View Ballot	V SayiramⒸ , Apurva Thakur , Guhan SwaminathanⓉ
+destroyed by hippie powers	1st	Closing Opposition	View Ballot	V SayiramⒸ , Apurva Thakur , Guhan SwaminathanⓉ
+Kaun Talha?	3rd	Opening Government	View Ballot	V SayiramⒸ , Apurva Thakur , Guhan SwaminathanⓉ
+Batuni Berozgar Baddies	2nd	Closing Government	View Ballot	V SayiramⒸ , Apurva Thakur , Guhan SwaminathanⓉ
+Wild &#x27;N Out	2nd	Closing Opposition	View Ballot	Mateo Acosta FernandezⒸ , Aaryav Bansal , Sugam AgarwalⓉ
+This OA could have been an email	4th	Closing Government	View Ballot	Mateo Acosta FernandezⒸ , Aaryav Bansal , Sugam AgarwalⓉ
+Main roz apne andar ke shaitaan se	3rd	Opening Government	View Ballot	Mateo Acosta FernandezⒸ , Aaryav Bansal , Sugam AgarwalⓉ
+Khuda Jaane	1st	Opening Opposition	View Ballot	Mateo Acosta FernandezⒸ , Aaryav Bansal , Sugam AgarwalⓉ
+Dhyat GPT	3rd	Closing Opposition	View Ballot	Ashish SrivastavaⒸ , Sanchita Dash , Pubali SukritiⓉ
+Tuntun Mausi Fan Club	4th	Closing Government	View Ballot	Ashish SrivastavaⒸ , Sanchita Dash , Pubali SukritiⓉ
+Swing 2	2nd	Opening Opposition	View Ballot	Ashish SrivastavaⒸ , Sanchita Dash , Pubali SukritiⓉ
+Swing 1	1st	Opening Government	View Ballot	Ashish SrivastavaⒸ , Sanchita Dash , Pubali SukritiⓉ
+Hotpot &amp; Kebab	4th	Opening Government	View Ballot	Sharun Nikesh GⒸ , Ram , Rohan Krishnan
+One child and One older child	1st	Closing Government	View Ballot	Sharun Nikesh GⒸ , Ram , Rohan Krishnan
+saksham made me cry when I was dru	2nd	Closing Opposition	View Ballot	Sharun Nikesh GⒸ , Ram , Rohan Krishnan
+Ohh hang on ....lemme think	3rd	Opening Opposition	View Ballot	Sharun Nikesh GⒸ , Ram , Rohan Krishnan
+beans	3rd	Opening Opposition	View Ballot	Sudiksha AggarwalⒸ , Joanna Elornam Mensah , Khushi JainⓉ
+M.S. Excel	4th	Closing Government	View Ballot	Sudiksha AggarwalⒸ , Joanna Elornam Mensah , Khushi JainⓉ
+GC A	1st	Closing Opposition	View Ballot	Sudiksha AggarwalⒸ , Joanna Elornam Mensah , Khushi JainⓉ
+IITK	2nd	Opening Government	View Ballot	Sudiksha AggarwalⒸ , Joanna Elornam Mensah , Khushi JainⓉ
+UOM	3rd	Closing Opposition	View Ballot	Pranav KagalkarⒸ , Nadim Abrar , Ananya DuttaⓉ
+Fantastic Tea	4th	Closing Government	View Ballot	Pranav KagalkarⒸ , Nadim Abrar , Ananya DuttaⓉ
+Let the 20 year old win pt 3- Reve	1st	Opening Opposition	View Ballot	Pranav KagalkarⒸ , Nadim Abrar , Ananya DuttaⓉ
+ADMU 99% of people quit before they win	2nd	Opening Government	View Ballot	Pranav KagalkarⒸ , Nadim Abrar , Ananya DuttaⓉ
+Buri Buri Zaimon	2nd	Opening Government	View Ballot	Snigdha PriyadarshiniⒸ , Tejas Pikale
+Aha Tamatar Bade Majedar	1st	Opening Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Tejas Pikale
+Breakdancers	3rd	Closing Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Tejas Pikale
+The myth , the man and vaibhacc	4th	Closing Government	View Ballot	Snigdha PriyadarshiniⒸ , Tejas Pikale
+CU A	3rd	Opening Government	View Ballot	Tavish JoshiⒸ , Riya Solanki , Pragyansh NayakⓉ
+Strepsils	1st	Opening Opposition	View Ballot	Tavish JoshiⒸ , Riya Solanki , Pragyansh NayakⓉ
+Still freshies at heart	4th	Closing Government	View Ballot	Tavish JoshiⒸ , Riya Solanki , Pragyansh NayakⓉ
+Come to Contention!	2nd	Closing Opposition	View Ballot	Tavish JoshiⒸ , Riya Solanki , Pragyansh NayakⓉ
+Jasmine Cheese Tea	2nd	Opening Opposition	View Ballot	Manasija DasⒸ , Prashant Gupta , S R ArunⓉ
+&#x27;The Discourse disco&#x27;	1st	Opening Government	View Ballot	Manasija DasⒸ , Prashant Gupta , S R ArunⓉ
+We&#x27;re all gonna die	3rd	Closing Opposition	View Ballot	Manasija DasⒸ , Prashant Gupta , S R ArunⓉ
+Streets won&#x27;t forget QPR Adel Tara	4th	Closing Government	View Ballot	Manasija DasⒸ , Prashant Gupta , S R ArunⓉ
+Jatt Jaat coalition	1st	Opening Government	View Ballot	Minami MatsushimaⒸ , Shaurya Vardhan
+english or spanish?	2nd	Opening Opposition	View Ballot	Minami MatsushimaⒸ , Shaurya Vardhan
+You’re a 10 on the pH scale	3rd	Closing Government	View Ballot	Minami MatsushimaⒸ , Shaurya Vardhan
+Kasukabe defence group	4th	Closing Opposition	View Ballot	Minami MatsushimaⒸ , Shaurya Vardhan
+UFD Let the 12 and 15 year old win	2nd	Opening Government	View Ballot	Aayuushi BoseⒸ , Rudraksh Jain
+POIson Ivy	4th	Closing Government	View Ballot	Aayuushi BoseⒸ , Rudraksh Jain
+Onam Food and Onam Enjoyer	1st	Closing Opposition	View Ballot	Aayuushi BoseⒸ , Rudraksh Jain
+Jab We Debate	3rd	Opening Opposition	View Ballot	Aayuushi BoseⒸ , Rudraksh Jain
+Rangan x Amban	3rd	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ , Archit Lahiri
+Troy and Abed go debating	1st	Closing Government	View Ballot	Angad Singh ChawlaⒸ , Archit Lahiri
+UFD Swinging to Softlaunching	4th	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ , Archit Lahiri
+Elite by Extension	2nd	Opening Government	View Ballot	Angad Singh ChawlaⒸ , Archit Lahiri
+Long Diagonal	4th	Closing Government	View Ballot	Lavanya PuriⒸ , Kavya Gupta , Aadhi ImranⓉ
+Kakdi aur Kakarania	3rd	Opening Government	View Ballot	Lavanya PuriⒸ , Kavya Gupta , Aadhi ImranⓉ
+Spilling the tea	1st	Closing Opposition	View Ballot	Lavanya PuriⒸ , Kavya Gupta , Aadhi ImranⓉ
+something really inappropriate	2nd	Opening Opposition	View Ballot	Lavanya PuriⒸ , Kavya Gupta , Aadhi ImranⓉ
+ADMU GY	3rd	Opening Government	View Ballot	Benjamin James DiskinⒸ , Pratyush Kumar Shekhar
+sans ek moh maya hai	2nd	Closing Opposition	View Ballot	Benjamin James DiskinⒸ , Pratyush Kumar Shekhar
+A pig and a camel walk into a bin	4th	Closing Government	View Ballot	Benjamin James DiskinⒸ , Pratyush Kumar Shekhar
+Come to LUMS Pre ABP + Chanidu	1st	Opening Opposition	View Ballot	Benjamin James DiskinⒸ , Pratyush Kumar Shekhar
+Eda Mone	4th	Closing Government	View Ballot	Paula DjakovicⒸ
+Kom Susser Break	1st	Opening Opposition	View Ballot	Paula DjakovicⒸ
+Flight Risk	2nd	Closing Opposition	View Ballot	Paula DjakovicⒸ
+You know , 99% Aura	3rd	Opening Government	View Ballot	Paula DjakovicⒸ
+
+
+team	result	side	ballot	adjudicators
+Institutional team	1st	Opening Opposition	View Ballot	V SayiramⒸ , Kavya Gupta , Samar Pratap Singh
+naam gaya tel lene	3rd	Opening Government	View Ballot	V SayiramⒸ , Kavya Gupta , Samar Pratap Singh
+Khuda Jaane	2nd	Closing Opposition	View Ballot	V SayiramⒸ , Kavya Gupta , Samar Pratap Singh
+something really inappropriate	4th	Closing Government	View Ballot	V SayiramⒸ , Kavya Gupta , Samar Pratap Singh
+ADMU GY	1st	Closing Government	View Ballot	Angad Singh ChawlaⒸ , Akshat Saxena , Prashant Gupta
+sans ek moh maya hai	4th	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ , Akshat Saxena , Prashant Gupta
+Come to LUMS Pre ABP + Chanidu	2nd	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ , Akshat Saxena , Prashant Gupta
+Elite by Extension	3rd	Opening Government	View Ballot	Angad Singh ChawlaⒸ , Akshat Saxena , Prashant Gupta
+&#x27;The Discourse disco&#x27;	4th	Opening Opposition	View Ballot	Preeyansh AgarwallaⒸ , Sanchita Dash
+Strepsils	1st	Closing Government	View Ballot	Preeyansh AgarwallaⒸ , Sanchita Dash
+Main roz apne andar ke shaitaan se	2nd	Opening Government	View Ballot	Preeyansh AgarwallaⒸ , Sanchita Dash
+Breakdancers	3rd	Closing Opposition	View Ballot	Preeyansh AgarwallaⒸ , Sanchita Dash
+A pig and a camel walk into a bin	4th	Closing Opposition	View Ballot	PolⒸ , Krushnashish Pradhan , Minami Matsushima
+ADMU 99% of people quit before they win	2nd	Opening Opposition	View Ballot	PolⒸ , Krushnashish Pradhan , Minami Matsushima
+Flight Risk	3rd	Opening Government	View Ballot	PolⒸ , Krushnashish Pradhan , Minami Matsushima
+Kaun Talha?	1st	Closing Government	View Ballot	PolⒸ , Krushnashish Pradhan , Minami Matsushima
+You’re a 10 on the pH scale	1st	Opening Opposition	View Ballot	Benjamin James DiskinⒸ , Aadi Govil , Ashish Srivastava
+Aha Tamatar Bade Majedar	4th	Closing Government	View Ballot	Benjamin James DiskinⒸ , Aadi Govil , Ashish Srivastava
+Swiper, No Swiping	2nd	Opening Government	View Ballot	Benjamin James DiskinⒸ , Aadi Govil , Ashish Srivastava
+Ohh hang on ....lemme think	3rd	Closing Opposition	View Ballot	Benjamin James DiskinⒸ , Aadi Govil , Ashish Srivastava
+GC A	1st	Opening Government	View Ballot	Snigdha PriyadarshiniⒸ , Aaryav Bansal , Pranav Kagalkar
+Allu Arjun x Vijay Telepathy	2nd	Opening Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Aaryav Bansal , Pranav Kagalkar
+english or spanish?	4th	Closing Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Aaryav Bansal , Pranav Kagalkar
+Rangan x Amban	3rd	Closing Government	View Ballot	Snigdha PriyadarshiniⒸ , Aaryav Bansal , Pranav Kagalkar
+god-loving gays	2nd	Closing Opposition	View Ballot	Lavanya PuriⒸ , ANKIT GHOSAL
+open nahi novice jaana hai	1st	Closing Government	View Ballot	Lavanya PuriⒸ , ANKIT GHOSAL
+Bhaaya 1 plate dosa and 1 plate va	4th	Opening Government	View Ballot	Lavanya PuriⒸ , ANKIT GHOSAL
+Kasukabe defence group	3rd	Opening Opposition	View Ballot	Lavanya PuriⒸ , ANKIT GHOSAL
+One child and One older child	2nd	Closing Opposition	View Ballot	Kojo O.  AcheampongⒸ , Riya Solanki , Sudiksha Aggarwal
+Let the 20 year old win pt 3- Reve	4th	Opening Government	View Ballot	Kojo O.  AcheampongⒸ , Riya Solanki , Sudiksha Aggarwal
+saksham made me cry when I was dru	1st	Opening Opposition	View Ballot	Kojo O.  AcheampongⒸ , Riya Solanki , Sudiksha Aggarwal
+Troy and Abed go debating	3rd	Closing Government	View Ballot	Kojo O.  AcheampongⒸ , Riya Solanki , Sudiksha Aggarwal
+UOM	2nd	Closing Government	View Ballot	Debayan BhattacharyaⒸ , Oarben Balicoco , Yash DagarⓉ
+Hotpot &amp; Kebab	1st	Closing Opposition	View Ballot	Debayan BhattacharyaⒸ , Oarben Balicoco , Yash DagarⓉ
+IITK	3rd	Opening Government	View Ballot	Debayan BhattacharyaⒸ , Oarben Balicoco , Yash DagarⓉ
+You know , 99% Aura	4th	Opening Opposition	View Ballot	Debayan BhattacharyaⒸ , Oarben Balicoco , Yash DagarⓉ
+CU A	1st	Closing Opposition	View Ballot	Nadim AbrarⒸ , Pubali Sukriti
+Herry Hose	2nd	Opening Government	View Ballot	Nadim AbrarⒸ , Pubali Sukriti
+We&#x27;re all gonna die	3rd	Closing Government	View Ballot	Nadim AbrarⒸ , Pubali Sukriti
+Swing 1	4th	Opening Opposition	View Ballot	Nadim AbrarⒸ , Pubali Sukriti
+Bhaiya Break karwado	2nd	Closing Government	View Ballot	Tavish JoshiⒸ , Ananya DuttaⓉ
+This OA could have been an email	4th	Closing Opposition	View Ballot	Tavish JoshiⒸ , Ananya DuttaⓉ
+Come to Contention!	1st	Opening Government	View Ballot	Tavish JoshiⒸ , Ananya DuttaⓉ
+The myth , the man and vaibhacc	3rd	Opening Opposition	View Ballot	Tavish JoshiⒸ , Ananya DuttaⓉ
+online comps me break de do	3rd	Opening Opposition	View Ballot	Pragyansh NayakⒸ , Sugam Agarwal
+Eda Mone	4th	Closing Opposition	View Ballot	Pragyansh NayakⒸ , Sugam Agarwal
+Idk Anything	1st	Closing Government	View Ballot	Pragyansh NayakⒸ , Sugam Agarwal
+Swing 2	2nd	Opening Government	View Ballot	Pragyansh NayakⒸ , Sugam Agarwal
+M.S. Excel	2nd	Opening Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Khushi JainⓉ
+Jasmine Cheese Tea	4th	Closing Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Khushi JainⓉ
+UFD Let the 12 and 15 year old win	1st	Closing Government	View Ballot	Pratyush Kumar ShekharⒸ , Khushi JainⓉ
+Long Diagonal	3rd	Opening Government	View Ballot	Pratyush Kumar ShekharⒸ , Khushi JainⓉ
+Jatt Jaat coalition	2nd	Closing Opposition	View Ballot	Jez EdagbamiⒸ , Advaith Sai Nair , Shaurya Vardhan
+Kom Susser Break	3rd	Opening Government	View Ballot	Jez EdagbamiⒸ , Advaith Sai Nair , Shaurya Vardhan
+destroyed by hippie powers	1st	Opening Opposition	View Ballot	Jez EdagbamiⒸ , Advaith Sai Nair , Shaurya Vardhan
+Batuni Berozgar Baddies	4th	Closing Government	View Ballot	Jez EdagbamiⒸ , Advaith Sai Nair , Shaurya Vardhan
+Buri Buri Zaimon	4th	Opening Opposition	View Ballot	Vansh ChadhaⒸ , Apurva Thakur , Oladi Gabisi
+Spilling the tea	2nd	Opening Government	View Ballot	Vansh ChadhaⒸ , Apurva Thakur , Oladi Gabisi
+UFD Swinging to Softlaunching	1st	Closing Government	View Ballot	Vansh ChadhaⒸ , Apurva Thakur , Oladi Gabisi
+RKT Originals	3rd	Closing Opposition	View Ballot	Vansh ChadhaⒸ , Apurva Thakur , Oladi Gabisi
+Dhyat GPT	3rd	Opening Opposition	View Ballot	Manit TanwarⒸ
+MV	2nd	Closing Opposition	View Ballot	Manit TanwarⒸ
+Streets won&#x27;t forget QPR Adel Tara	1st	Closing Government	View Ballot	Manit TanwarⒸ
+Jab We Debate	4th	Opening Government	View Ballot	Manit TanwarⒸ
+Knifers in Paris	2nd	Closing Opposition	View Ballot	Joanna Elornam MensahⒸ
+POIson Ivy	1st	Closing Government	View Ballot	Joanna Elornam MensahⒸ
+Still freshies at heart	4th	Opening Government	View Ballot	Joanna Elornam MensahⒸ
+Fly you Fools	3rd	Opening Opposition	View Ballot	Joanna Elornam MensahⒸ
+beans	1st	Closing Government	View Ballot	RamⒸ , Saanvi Kaplish
+opening garment	2nd	Closing Opposition	View Ballot	RamⒸ , Saanvi Kaplish
+debater? I hardly know her	4th	Opening Opposition	View Ballot	RamⒸ , Saanvi Kaplish
+Kakdi aur Kakarania	3rd	Opening Government	View Ballot	RamⒸ , Saanvi Kaplish
+Wild &#x27;N Out	4th	Closing Opposition	View Ballot	Suryansh DimriⒸ , S R Arun
+Fantastic Tea	2nd	Opening Government	View Ballot	Suryansh DimriⒸ , S R Arun
+We don&#x27;t believe what&#x27;s on TV	3rd	Opening Opposition	View Ballot	Suryansh DimriⒸ , S R Arun
+Onam Food and Onam Enjoyer	1st	Closing Government	View Ballot	Suryansh DimriⒸ , S R Arun
+
+
+team	result	side	adjudicators
+english or spanish?	eliminated	Closing Opposition	Snigdha PriyadarshiniⒸ , Preeyansh Agarwalla , Samar Pratap Singh
+UFD Let the 12 and 15 year old win	advancing	Opening Opposition	Snigdha PriyadarshiniⒸ , Preeyansh Agarwalla , Samar Pratap Singh
+Spilling the tea	eliminated	Closing Government	Snigdha PriyadarshiniⒸ , Preeyansh Agarwalla , Samar Pratap Singh
+Flight Risk	advancing	Opening Government	Snigdha PriyadarshiniⒸ , Preeyansh Agarwalla , Samar Pratap Singh
+UOM	advancing	Closing Opposition	RamⒸ , Ashish Srivastava , Tavish Joshi
+IITK	eliminated	Opening Government	RamⒸ , Ashish Srivastava , Tavish Joshi
+You’re a 10 on the pH scale	advancing	Opening Opposition	RamⒸ , Ashish Srivastava , Tavish Joshi
+Swiper, No Swiping	eliminated	Closing Government	RamⒸ , Ashish Srivastava , Tavish Joshi
+
+
+team	result	side	adjudicators
+Allu Arjun x Vijay Telepathy	advancing	Opening Opposition	Kojo O.  AcheampongⒸ , Pol , V Sayiram
+sans ek moh maya hai	advancing	Opening Government	Kojo O.  AcheampongⒸ , Pol , V Sayiram
+One child and One older child	eliminated	Closing Government	Kojo O.  AcheampongⒸ , Pol , V Sayiram
+Troy and Abed go debating	eliminated	Closing Opposition	Kojo O.  AcheampongⒸ , Pol , V Sayiram
+GC A	eliminated	Opening Government	Lavanya PuriⒸ , Oladi Gabisi , Pratyush Kumar Shekhar
+Institutional team	eliminated	Closing Government	Lavanya PuriⒸ , Oladi Gabisi , Pratyush Kumar Shekhar
+Kaun Talha?	advancing	Opening Opposition	Lavanya PuriⒸ , Oladi Gabisi , Pratyush Kumar Shekhar
+Come to LUMS Pre ABP + Chanidu	advancing	Closing Opposition	Lavanya PuriⒸ , Oladi Gabisi , Pratyush Kumar Shekhar
+destroyed by hippie powers	eliminated	Closing Government	Vansh ChadhaⒸ , Minami Matsushima , Oarben Balicoco
+saksham made me cry when I was dru	eliminated	Opening Government	Vansh ChadhaⒸ , Minami Matsushima , Oarben Balicoco
+ADMU 99% of people quit before they win	advancing	Opening Opposition	Vansh ChadhaⒸ , Minami Matsushima , Oarben Balicoco
+UFD Swinging to Softlaunching	advancing	Closing Opposition	Vansh ChadhaⒸ , Minami Matsushima , Oarben Balicoco
+ADMU GY	advancing	Opening Opposition	Debayan BhattacharyaⒸ , Nadim Abrar , Sudiksha Aggarwal
+Hotpot &amp; Kebab	eliminated	Closing Opposition	Debayan BhattacharyaⒸ , Nadim Abrar , Sudiksha Aggarwal
+Jatt Jaat coalition	eliminated	Closing Government	Debayan BhattacharyaⒸ , Nadim Abrar , Sudiksha Aggarwal
+Elite by Extension	advancing	Opening Government	Debayan BhattacharyaⒸ , Nadim Abrar , Sudiksha Aggarwal
+
+
+team	result	side	adjudicators
+ADMU 99% of people quit before they win	eliminated	Closing Government	V SayiramⒸ , Angad Singh Chawla , Nadim Abrar , Paula Djakovic , Ram
+Kaun Talha?	advancing	Opening Government	V SayiramⒸ , Angad Singh Chawla , Nadim Abrar , Paula Djakovic , Ram
+Come to LUMS Pre ABP + Chanidu	advancing	Closing Opposition	V SayiramⒸ , Angad Singh Chawla , Nadim Abrar , Paula Djakovic , Ram
+UFD Swinging to Softlaunching	eliminated	Opening Opposition	V SayiramⒸ , Angad Singh Chawla , Nadim Abrar , Paula Djakovic , Ram
+ADMU GY	advancing	Opening Government	Benjamin James DiskinⒸ , Ashish Srivastava , Pranav Kagalkar , Snigdha Priyadarshini , Vansh Chadha
+Allu Arjun x Vijay Telepathy	eliminated	Closing Government	Benjamin James DiskinⒸ , Ashish Srivastava , Pranav Kagalkar , Snigdha Priyadarshini , Vansh Chadha
+sans ek moh maya hai	advancing	Opening Opposition	Benjamin James DiskinⒸ , Ashish Srivastava , Pranav Kagalkar , Snigdha Priyadarshini , Vansh Chadha
+Elite by Extension	eliminated	Closing Opposition	Benjamin James DiskinⒸ , Ashish Srivastava , Pranav Kagalkar , Snigdha Priyadarshini , Vansh Chadha
+
+
+team	result	side	adjudicators
+UOM	advancing	Opening Opposition	Sudiksha AggarwalⒸ , Lavanya Puri , Oladi Gabisi , Pol , Pratyush Kumar Shekhar
+UFD Let the 12 and 15 year old win	eliminated	Closing Opposition	Sudiksha AggarwalⒸ , Lavanya Puri , Oladi Gabisi , Pol , Pratyush Kumar Shekhar
+You’re a 10 on the pH scale	eliminated	Closing Government	Sudiksha AggarwalⒸ , Lavanya Puri , Oladi Gabisi , Pol , Pratyush Kumar Shekhar
+Flight Risk	eliminated	Opening Government	Sudiksha AggarwalⒸ , Lavanya Puri , Oladi Gabisi , Pol , Pratyush Kumar Shekhar
+
+
+team	result	side	adjudicators
+ADMU GY	eliminated	Closing Government	Angad Singh ChawlaⒸ , Benjamin James Diskin , Debayan Bhattacharya , Kojo O.  Acheampong , Sudiksha Aggarwal
+sans ek moh maya hai	eliminated	Opening Opposition	Angad Singh ChawlaⒸ , Benjamin James Diskin , Debayan Bhattacharya , Kojo O.  Acheampong , Sudiksha Aggarwal
+Kaun Talha?	eliminated	Closing Opposition	Angad Singh ChawlaⒸ , Benjamin James Diskin , Debayan Bhattacharya , Kojo O.  Acheampong , Sudiksha Aggarwal
+Come to LUMS Pre ABP + Chanidu	advancing	Opening Government	Angad Singh ChawlaⒸ , Benjamin James Diskin , Debayan Bhattacharya , Kojo O.  Acheampong , Sudiksha Aggarwal
+

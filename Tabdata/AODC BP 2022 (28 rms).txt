@@ -1,0 +1,1126 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	R6	Pts	Spk	1sts	2nds
+1	Dialogy Assata Shakur		1st	1st	1st	1st	1st	2nd	17	972	5	1
+2	Dialogy Ketanji Brown Jackson		1st	2nd	2nd	1st	2nd	1st	15	964	3	3
+3	Dialogy Benazir Butto		2nd	3rd	1st	1st	1st	1st	15	941	4	1
+4	NUS		1st	1st	3rd	2nd	2nd	1st	14	955	3	2
+5	CWSDC Shanghai	High School	1st	2nd	1st	1st	4th	1st	14	954	4	1
+6	CWSDC Harbin	High School	1st	2nd	1st	2nd	1st	3rd	14	954	3	2
+7	Dialogy Frederick Douglass		1st	1st	2nd	4th	1st	2nd	13	961	3	2
+8	CWSDC Guangzhou	High School	1st	1st	1st	3rd	4th	1st	13	945	4	0
+9	Dialogy Bram Fischer		2nd	2nd	3rd	1st	1st	2nd	13	942	2	3
+10	ASHS BG	High School	1st	4th	2nd	1st	1st	2nd	13	940	3	2
+11	Udah Makan Ayam Geprek		2nd	1st	2nd	4th	1st	1st	13	920	3	2
+12	Nyoot Nyoot		2nd	2nd	1st	1st	2nd	4th	12	958	2	3
+13	RAEONNA	High School	1st	3rd	1st	1st	3rd	3rd	12	945	3	0
+14	CWSDC Beijing	High School	1st	2nd	1st	2nd	3rd	3rd	12	943	2	2
+15	ASHS BB	High School	2nd	3rd	1st	2nd	2nd	2nd	12	943	1	4
+16	CWSDC Hangzhou	High School	1st	1st	4th	1st	2nd	3rd	12	940	3	1
+17	Dialogy Marsha P Johnson		1st	4th	1st	1st	1st	4th	12	936	4	0
+18	Dialogy Alexandria Ocasio-Cortez		2nd	1st	2nd	3rd	3rd	1st	12	935	2	2
+19	Dialogy Martin Delany		2nd	2nd	1st	3rd	2nd	2nd	12	935	1	4
+20	Rehab Brothers	EFL	2nd	4th	1st	3rd	1st	1st	12	931	3	1
+21	Dialogy Ida B Wells		1st	3rd	3rd	2nd	2nd	1st	12	929	2	2
+22	Independent A		1st	2nd	3rd	1st	4th	1st	12	927	3	1
+23	WFLA	High School	2nd	1st	1st	3rd	4th	1st	12	848	3	1
+24	CWSDC Shenzhen	High School	1st	1st	3rd	2nd	3rd	3rd	11	956	2	1
+25	Atma Jaya Catholic University of I	EFL	2nd	1st	2nd	3rd	1st	4th	11	943	2	2
+26	CWSDC Xiamen	High School	1st	3rd	2nd	3rd	1st	3rd	11	940	2	1
+27=	ADNU SHS A	High School	1st	4th	1st	2nd	3rd	2nd	11	931	2	2
+27=	Independent 1		2nd	2nd	4th	3rd	1st	1st	11	931	2	2
+29	HCI Red	High School	4th	1st	2nd	4th	1st	1st	11	927	3	1
+30	Dialogy Frantz Fanon	High School	1st	1st	2nd	4th	3rd	2nd	11	926	2	2
+31	Cinnamon roll but could kill you		2nd	1st	3rd	2nd	3rd	2nd	11	926	1	3
+32	HCI Yellow	High School	1st	3rd	2nd	3rd	2nd	2nd	11	917	1	3
+33	ASHS FM	High School	2nd	4th	1st	1st	4th	1st	11	911	3	1
+34	Prep Time Is Nap Time		3rd	1st	4th	1st	2nd	3rd	10	933	2	1
+35	I mah jong linkbate 7	High School	3rd	1st	3rd	3rd	2nd	2nd	10	932	1	2
+36	CWSDC Chengdu	High School	3rd	1st	1st	2nd	3rd	4th	10	928	2	1
+37	Slaaayy	High School	3rd	2nd	3rd	1st	1st	4th	10	925	2	1
+38	DAV Marx		3rd	1st	2nd	4th	3rd	1st	10	921	2	1
+39	Dialogy Angela Davis		1st	3rd	2nd	4th	2nd	2nd	10	918	1	3
+40	doll fin corallation	High School	2nd	3rd	3rd	2nd	3rd	1st	10	918	1	2
+41=	Capstone JV	High School	3rd	4th	1st	2nd	1st	3rd	10	917	2	1
+41=	OO	High School	4th	1st	3rd	2nd	1st	3rd	10	917	2	1
+43	5 foot under	High School	1st	3rd	4th	1st	4th	1st	10	916	3	0
+44	CWSDC Ningbo	High School	2nd	1st	3rd	2nd	2nd	4th	10	916	1	3
+45	Dialogy Fanie Lou Hamer	High School	2nd	2nd	4th	1st	3rd	2nd	10	914	1	3
+46	ACJC A	High School	3rd	4th	1st	3rd	1st	2nd	10	913	2	1
+47	Nerd &amp; Lunatic	EFL	2nd	4th	2nd	2nd	3rd	1st	10	903	1	3
+48	Thammasat 1	EFL	3rd	2nd	2nd	3rd	1st	3rd	10	897	1	2
+49	Aspar	High School	2nd	4th	1st	2nd	3rd	3rd	9	922	1	2
+50	ASHS RV	High School	2nd	3rd	3rd	2nd	1st	4th	9	921	1	2
+51	Two decades apart	EFL	3rd	2nd	3rd	1st	2nd	4th	9	920	1	2
+52	FUV material girls		4th	1st	4th	1st	1st	4th	9	919	3	0
+53	Dua Lipa for President	EFL, High School	1st	4th	1st	3rd	4th	2nd	9	919	2	1
+54	Composite - Rustbucket and Oldie.	EFL	1st	3rd	3rd	2nd	2nd	4th	9	919	1	2
+55	Dialogy Frances Harper		3rd	3rd	1st	4th	2nd	2nd	9	918	1	2
+56	DAV Engels	EFL	2nd	3rd	1st	4th	4th	1st	9	913	2	1
+57	our arguments carry some mg	High School	4th	2nd	3rd	2nd	3rd	1st	9	911	1	2
+58	ASHS AV	High School	4th	2nd	4th	1st	3rd	1st	9	909	2	1
+59	Why are we here	High School	4th	1st	1st	3rd	3rd	3rd	9	909	2	0
+60	Isaac come save us	High School	2nd	1st	4th	1st	4th	3rd	9	908	2	1
+61=	We both quit League of Legends	High School	3rd	2nd	2nd	3rd	4th	1st	9	907	1	2
+61=	FDU 1	EFL	2nd	3rd	4th	3rd	1st	2nd	9	907	1	2
+63	Society Incorporated	High School	3rd	4th	2nd	2nd	2nd	2nd	9	907	0	4
+64	KUET 1	EFL	4th	1st	4th	1st	2nd	3rd	9	822	2	1
+65	CWSDC Nanjing	High School	3rd	2nd	2nd	1st	4th	4th	8	925	1	2
+66	Capstone LD	High School	1st	4th	2nd	3rd	2nd	4th	8	917	1	2
+67	Antihistaminas	EFL	1st	2nd	4th	4th	1st	4th	8	912	2	1
+68	Swing 1		3rd	1st	2nd	4th	4th	2nd	8	911	1	2
+69=	Dialogy Harriet Tubman	High School	1st	4th	4th	2nd	3rd	2nd	8	909	1	2
+69=	OLD six	High School	2nd	4th	1st	4th	3rd	2nd	8	909	1	2
+71	imdone udon	High School	3rd	3rd	2nd	4th	1st	3rd	8	908	1	1
+72	Wheels and Doors	EFL	3rd	1st	4th	3rd	4th	1st	8	907	2	0
+73	The Preramblers	High School	3rd	3rd	2nd	1st	4th	3rd	8	906	1	1
+74	ACJC B	High School	3rd	2nd	3rd	4th	2nd	2nd	8	905	0	3
+75	Organised Chaos		4th	1st	4th	1st	2nd	4th	8	904	2	1
+76	HG A: Deejelicious - this is why you 	High School	4th	2nd	2nd	3rd	4th	1st	8	903	1	2
+77	ACJC H	High School	4th	3rd	1st	4th	3rd	1st	8	902	2	0
+78	Lay Flat		1st	4th	3rd	2nd	3rd	3rd	8	902	1	1
+79	Zia Hall Debate Club - Dhaka	EFL	3rd	1st	4th	2nd	3rd	3rd	8	832	1	1
+80	ASHS HL	High School	1st	2nd	3rd	4th	4th	3rd	7	919	1	1
+81	Capstone PA	High School	4th	3rd	2nd	2nd	4th	2nd	7	910	0	3
+82	Studying Business Statistics	EFL	4th	4th	4th	1st	1st	3rd	7	908	2	0
+83	Insomnia Fest	High School	3rd	4th	3rd	1st	2nd	4th	7	905	1	1
+84=	FUV 3		3rd	4th	2nd	4th	1st	3rd	7	901	1	1
+84=	DoooCccy	EFL	4th	1st	4th	3rd	3rd	2nd	7	901	1	1
+86	How i learned to stop worrying and	EFL	4th	2nd	2nd	2nd	3rd	4th	7	896	0	3
+87	ACJC E	High School	3rd	3rd	3rd	3rd	2nd	3rd	7	892	0	1
+88	Fxxking COVID	EFL	2nd	2nd	3rd	4th	2nd	4th	7	834	0	3
+89	FUV 2		4th	2nd	3rd	3rd	1st	4th	7	829	1	1
+90	UST		2nd	2nd	1st	4th	4th	—	7	691	1	2
+91	angry dino doge	High School	2nd	3rd	4th	1st	4th	4th	6	908	1	1
+92	Why so jelice?	EFL	2nd	4th	4th	3rd	3rd	2nd	6	903	0	2
+93	Capstone YZ	High School	4th	4th	2nd	4th	1st	3rd	6	898	1	1
+94	ACJC F	High School	3rd	4th	1st	4th	3rd	3rd	6	897	1	0
+95	ACJC G	High School	4th	3rd	3rd	3rd	4th	1st	6	893	1	0
+96	Blueberry Your Highness	EFL	4th	3rd	2nd	4th	3rd	2nd	6	884	0	2
+97	JT	EFL	4th	2nd	4th	3rd	4th	1st	6	827	1	1
+98	Giant Panda	EFL	3rd	3rd	3rd	4th	2nd	4th	5	901	0	1
+99	Matcha	EFL	4th	4th	1st	4th	2nd	4th	5	894	1	1
+100	ACJC D	High School	4th	3rd	3rd	1st	4th	4th	5	893	1	0
+101	ACJC C	High School	4th	3rd	4th	2nd	2nd	4th	5	888	0	2
+102	Freshgirls	EFL	4th	2nd	2nd	3rd	4th	4th	5	831	0	2
+103	DAV Lenin	EFL	2nd	4th	4th	3rd	2nd	—	5	754	0	2
+104	Tough Love	EFL	3rd	2nd	4th	4th	4th	3rd	4	897	0	1
+105	pretty sexy wangs	EFL	3rd	3rd	4th	2nd	4th	4th	4	894	0	1
+106	Sleep-deprived	High School	3rd	3rd	3rd	4th	4th	3rd	4	882	0	0
+107	Johnouchi	High School	4th	4th	3rd	4th	3rd	2nd	4	876	0	1
+108	Liberal Asians		3rd	4th	3rd	2nd	4th	—	4	742	0	1
+109	Swing 3		—	—	—	4th	1st	3rd	4	442	1	0
+110	More than less	EFL	4th	4th	4th	2nd	3rd	4th	3	887	0	1
+111	Swing 2		—	3rd	4th	4th	2nd	—	3	521	0	1
+112	Homebody		4th	4th	4th	3rd	4th	4th	1	867	0	0
+113	Ironman		4th	4th	4th	—	—	—	0	283	0	0
+114	fopdoodles	High School	4th	—	—	—	—	—	0	75	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	R6	Total	Avg	Stdev
+1	Amrit Agastia		Dialogy Assata Shakur	81	82	82	84	84	83	496	82.67	1.11
+2	Ploopy		Dialogy Ketanji Brown Jackson	80	80	82	82	81	85	490	81.67	1.70
+3	Banun Sabri		Dialogy Frederick Douglass	81	80	81	78	80	83	483	80.50	1.50
+4	Shaun Lee		NUS	80	80	77	80	82	83	482	80.33	1.89
+5=	Bowser Liu	High School	CWSDC Harbin	78	79	81	82	81	79	480	80.00	1.41
+5=	Stephanie Chen	High School	CWSDC Shenzhen	80	82	79	81	80	78	480	80.00	1.29
+5=	Shireen		Nyoot Nyoot	78	80	81	81	82	78	480	80.00	1.53
+8	Atlas Tan	High School	CWSDC Shanghai	79	79	79	80	78	84	479	79.83	1.95
+9=	Valerie Gu	High School	Dialogy Frederick Douglass	79	80	79	78	80	82	478	79.67	1.25
+9=	Revan TJ		Nyoot Nyoot	77	79	80	81	82	79	478	79.67	1.60
+11=	Naveen Singh		Dialogy Benazir Butto	78	75	80	79	82	82	476	79.33	2.43
+11=	Bo Xin Zhao	High School	Dialogy Assata Shakur	78	79	79	79	81	80	476	79.33	0.94
+11=	Raphael Lamballe	High School	CWSDC Shenzhen	80	79	79	80	80	78	476	79.33	0.75
+14=	Andrew Li	High School	CWSDC Shanghai	78	79	78	80	77	83	475	79.17	1.95
+14=	Sourodip Paul		Independent A	77	79	81	81	79	78	475	79.17	1.46
+16=	Francois Brits		Dialogy Bram Fischer	78	80	77	80	80	79	474	79.00	1.15
+16=	Robert Chong	High School	Dialogy Ketanji Brown Jackson	77	78	78	82	79	80	474	79.00	1.63
+16=	Wiley Luan	High School	CWSDC Harbin	77	78	81	78	80	80	474	79.00	1.41
+19=	Leonna Ricci Ronquillo	High School	RAEONNA	80	77	78	77	79	82	473	78.83	1.77
+19=	Daniella Louise S. Barbacena	High School	ASHS BG	78	77	78	81	77	82	473	78.83	1.95
+19=	Angellia Giovanni	English as a Foreign Language	Atma Jaya Catholic University of I	77	80	77	78	80	81	473	78.83	1.57
+19=	Deon Kiew		NUS	78	79	77	79	79	81	473	78.83	1.21
+19=	Miko Bombeo		Dialogy Marsha P Johnson	79	75	79	82	80	78	473	78.83	2.11
+19=	Barron Ren	High School	CWSDC Beijing	78	79	81	80	78	77	473	78.83	1.34
+19=	Victoria Ling	High School	CWSDC Guangzhou	79	78	80	79	79	78	473	78.83	0.69
+19=	Afzal Hussein		Independent 1	78	80	76	79	79	81	473	78.83	1.57
+27=	Rae Laigo	High School	RAEONNA	79	77	79	76	79	82	472	78.67	1.89
+27=	David Bejarin	High School	ASHS BB	77	79	80	81	76	79	472	78.67	1.70
+27=	Ricky Jin	High School	CWSDC Guangzhou	79	78	80	78	78	79	472	78.67	0.75
+30=	Johann Bernardo	High School	ASHS BB	78	79	80	81	75	78	471	78.50	1.89
+30=	Nicolo Pascual		Dialogy Martin Delany	81	77	78	79	78	78	471	78.50	1.26
+30=	Jolene Ren	High School	CWSDC Xiamen	81	78	80	77	77	78	471	78.50	1.50
+30=	Kai Tsai	High School	CWSDC Hangzhou	78	80	78	76	78	81	471	78.50	1.61
+34=	Jerry Tang		Prep Time Is Nap Time	76	76	79	80	77	82	470	78.33	2.21
+34=	Beauty Ariel Ben	English as a Foreign Language	Atma Jaya Catholic University of I	78	80	78	78	74	82	470	78.33	2.43
+34=	Clement Tsao	High School	CWSDC Beijing	78	79	80	78	78	77	470	78.33	0.94
+37=	Fox Wang	English as a Foreign Language	Rehab Brothers	77	78	77	77	78	82	469	78.17	1.77
+37=	Ariel Qi	High School	CWSDC Xiamen	79	77	81	77	78	77	469	78.17	1.46
+37=	Ethan Hsiao	High School	CWSDC Hangzhou	77	80	77	77	78	80	469	78.17	1.34
+40=	Brandon Park	High School	Dialogy Bram Fischer	77	79	78	80	77	77	468	78.00	1.15
+40=	Nicole Tomas		Dialogy Alexandria Ocasio-Cortez	78	81	80	73	76	80	468	78.00	2.77
+42=	Aliah Venice Garcia	High School	ASHS BG	78	76	77	79	76	81	467	77.83	1.77
+42=	Yeshua Celebrado	High School	ADNU SHS A	81	77	75	79	75	80	467	77.83	2.34
+42=	Jen Taruno	English as a Foreign Language	Cinnamon roll but could kill you	79	81	76	76	78	77	467	77.83	1.77
+42=	Isabella Huang	High School	Dialogy Alexandria Ocasio-Cortez	79	79	80	74	76	79	467	77.83	2.11
+42=	Alex Chan	High School	I mah jong linkbate 7	76	78	80	79	76	78	467	77.83	1.46
+47=	Connor Chen	High School	Dialogy Ida B Wells	79	77	77	79	76	77	465	77.50	1.12
+47=	Hosei Kishida	High School	Dialogy Benazir Butto	76	75	79	78	80	77	465	77.50	1.71
+47=	Jiansheng Zhang	High School	WFLA	78	77	78	78	76	78	465	77.50	0.76
+47=	Isaac Lo	High School	I mah jong linkbate 7	77	77	80	78	76	77	465	77.50	1.26
+51=	Gabriel Poon	High School	HCI Red	75	77	78	74	79	81	464	77.33	2.36
+51=	Alyssa Peyra	High School	ADNU SHS A	81	77	73	78	75	80	464	77.33	2.75
+51=	Ethan John Floro		Dialogy Ida B Wells	79	78	76	78	77	76	464	77.33	1.11
+51=	Jay Postrado		Dialogy Frances Harper	76	77	79	76	78	78	464	77.33	1.11
+51=	Koki Kishida	High School	Dialogy Martin Delany	79	76	77	77	77	78	464	77.33	0.94
+51=	Arthur Qu	High School	Dialogy Frantz Fanon	78	80	79	77	75	75	464	77.33	1.89
+51=	Kaitlyn Song	High School	Slaaayy	79	76	72	79	80	78	464	77.33	2.69
+51=	Si Kai Feng	High School	CWSDC Chengdu	77	77	78	75	77	80	464	77.33	1.49
+51=	Jasmine Liu	High School	CWSDC Chengdu	78	78	77	75	76	80	464	77.33	1.60
+60=	Joi Chen	English as a Foreign Language	Prep Time Is Nap Time	75	77	79	78	77	77	463	77.17	1.21
+60=	Darrell Pui	High School	HCI Red	75	77	78	74	78	81	463	77.17	2.27
+60=	Rico Chandra	High School	Udah Makan Ayam Geprek	77	78	78	74	77	79	463	77.17	1.57
+60=	Sophia Gong	High School	Dialogy Marsha P Johnson	78	74	78	81	78	74	463	77.17	2.48
+60=	Elena Jiang	High School	CWSDC Nanjing	77	76	78	79	77	76	463	77.17	1.07
+60=	Abbie Garcia	English as a Foreign Language	Composite - Rustbucket and Oldie.	78	76	76	81	77	75	463	77.17	1.95
+66=	Chung Pak Lun	High School	Aspar	80	74	78	79	75	76	462	77.00	2.16
+66=	Pio Ventura	High School	ASHS RV	78	74	78	79	77	76	462	77.00	1.63
+66=	Christion Li	English as a Foreign Language	Rehab Brothers	77	78	76	76	76	79	462	77.00	1.15
+66=	Sompoom Sunpaweravong	High School, English as a Foreign Language	Two decades apart	75	77	77	77	77	79	462	77.00	1.15
+66=	Haesol Park	High School	Dialogy Frantz Fanon	79	80	78	77	75	73	462	77.00	2.38
+66=	Hanjing Wang	High School	CWSDC Nanjing	77	77	78	78	75	77	462	77.00	1.00
+72=	Le Dao Minh Tam		FUV material girls	78	77	75	79	77	75	461	76.83	1.46
+72=	Hung Ha	English as a Foreign Language	DAV Marx	77	78	76	77	75	78	461	76.83	1.07
+72=	Kyle Chong	High School	doll fin corallation	76	76	75	79	77	78	461	76.83	1.34
+72=	Victoria Kurakata	High School	Slaaayy	78	77	72	78	79	77	461	76.83	2.27
+76=	Wong Long Yin Rex	High School	Aspar	79	75	77	79	75	75	460	76.67	1.80
+76=	Anson Tsui	High School	OO	75	77	77	76	78	77	460	76.67	0.94
+76=	Aliyah Herlihy	High School	ASHS HL	77	79	76	75	75	78	460	76.67	1.49
+76=	Dung Tran		DAV Marx	76	78	77	75	76	78	460	76.67	1.11
+76=	Hidenori Dequito		Dialogy Angela Davis	80	77	77	71	76	79	460	76.67	2.87
+76=	Farhat Fatiha Chowdhury	High School, English as a Foreign Language	Dua Lipa for President	77	76	80	77	73	77	460	76.67	2.05
+82=	Cal Ledesma	High School	ASHS HL	76	79	77	75	75	77	459	76.50	1.38
+82=	Kristen Reyes	High School	ASHS RV	78	74	77	77	77	76	459	76.50	1.26
+82=	Ee Zhao Hui	High School	HCI Yellow	80	75	75	76	77	76	459	76.50	1.71
+82=	Nadyne Apung	High School	Cinnamon roll but could kill you	78	79	76	76	75	75	459	76.50	1.50
+82=	Janet Hoi Ching Lau	High School	Capstone JV	79	74	75	78	77	76	459	76.50	1.71
+82=	Leah Del Fierro	High School	Capstone LD	77	75	77	78	76	76	459	76.50	0.96
+82=	Nagulapati Sai Abhilasha	High School	ACJC A	75	75	79	74	79	77	459	76.50	1.98
+82=	Angela Zhang	High School	CWSDC Ningbo	75	79	74	78	76	77	459	76.50	1.71
+82=	Moez Uddin Ashrafee	High School, English as a Foreign Language	Dua Lipa for President	78	76	78	76	74	77	459	76.50	1.38
+91=	Nguyen Minh Huyen		FUV material girls	78	76	75	78	77	74	458	76.33	1.49
+91=	Darence Wong	High School	HCI Yellow	79	75	77	75	76	76	458	76.33	1.37
+91=	Max Lee	High School, English as a Foreign Language	5 foot under	77	78	73	78	74	78	458	76.33	2.05
+91=	Evan Chow	High School	5 foot under	78	79	74	76	74	77	458	76.33	1.89
+91=	AJ Pelare	English as a Foreign Language	Two decades apart	73	76	76	77	77	79	458	76.33	1.80
+91=	Sophia Wu	High School	Dialogy Fanie Lou Hamer	77	77	76	76	75	77	458	76.33	0.75
+91=	Lilian Song	High School	Dialogy Harriet Tubman	74	75	77	77	76	79	458	76.33	1.60
+91=	Chris Cai	High School	Dialogy Angela Davis	80	77	77	71	75	78	458	76.33	2.81
+91=	Valerie Pui Yan Choi	High School	Capstone JV	78	75	74	77	79	75	458	76.33	1.80
+91=	Daniel Xiao	High School	Capstone LD	78	75	76	76	77	76	458	76.33	0.94
+91=	Derek Zhang	High School, English as a Foreign Language	Independent 1	76	78	76	74	76	78	458	76.33	1.37
+102=	Muhammad Farhan Rahman	English as a Foreign Language	Zia Hall Debate Club - Dhaka	75	77	75	78	76	76	457	76.17	1.07
+102=	Chris Wong	High School	OO	76	76	76	76	77	76	457	76.17	0.37
+102=	Marcus Flores	High School	ASHS FM	74	75	78	79	74	77	457	76.17	1.95
+102=	Vu Duc Hung	English as a Foreign Language	DAV Engels	77	75	78	76	74	77	457	76.17	1.34
+102=	Zachary Cheung	High School	Isaac come save us	76	78	76	79	72	76	457	76.17	2.19
+102=	Joey Chan	High School, English as a Foreign Language	doll fin corallation	77	76	74	77	75	78	457	76.17	1.34
+102=	Chayaton Subchavaroj	English as a Foreign Language	Antihistaminas	78	77	75	78	77	72	457	76.17	2.11
+102=	Astri Agustina	English as a Foreign Language	Udah Makan Ayam Geprek	73	77	75	75	78	79	457	76.17	2.03
+102=	Anna Chen	High School	CWSDC Ningbo	75	77	75	77	76	77	457	76.17	0.90
+111=	Isaac Luo	English as a Foreign Language	FDU 1	72	79	75	76	77	77	456	76.00	2.16
+111=	Ngo Minh Kien	English as a Foreign Language	DAV Engels	77	75	77	75	74	78	456	76.00	1.41
+111=	Jenson Tham	High School	our arguments carry some mg	76	76	76	77	75	76	456	76.00	0.58
+111=	Esther Chen	High School	Dialogy Fanie Lou Hamer	76	77	75	75	75	78	456	76.00	1.15
+111=	Wyatt Tai	High School	Why are we here	73	77	76	78	75	77	456	76.00	1.63
+111=	Aidan Shen	High School	Capstone PA	76	76	79	75	74	76	456	76.00	1.53
+111=	Joshua B. Tesoro	High School, English as a Foreign Language	Composite - Rustbucket and Oldie.	79	75	75	77	77	73	456	76.00	1.91
+118=	Ivan Valenzuela	High School	ASHS AV	74	75	75	77	76	78	455	75.83	1.34
+118=	Pekkle Au Yeung	High School	our arguments carry some mg	76	75	75	76	76	77	455	75.83	0.69
+118=	Chris Ren	High School	OLD six	76	75	76	75	77	76	455	75.83	0.69
+118=	Chanakan Wittayasakpan	English as a Foreign Language	Antihistaminas	77	77	75	78	77	71	455	75.83	2.34
+122=	Phạm Bùi Gia Khanh	High School	imdone udon	75	76	76	75	76	76	454	75.67	0.47
+122=	Hứa Bảo Châu	High School	imdone udon	75	75	76	75	77	76	454	75.67	0.75
+122=	Danh Thai Duong Nguyen	English as a Foreign Language	Studying Business Statistics	74	73	75	79	77	76	454	75.67	1.97
+122=	Nguyen Ha Thao Trang	English as a Foreign Language	Studying Business Statistics	75	72	75	80	77	75	454	75.67	2.43
+122=	Twinkle	English as a Foreign Language	Fxxking COVID	76	75	75	76	77	75	454	75.67	0.75
+122=	Ino Maderazo	High School	ASHS FM	75	74	77	77	74	77	454	75.67	1.37
+122=	Hannah Angelica Alcasid	High School	ASHS AV	75	74	75	76	76	78	454	75.67	1.25
+122=	Benjamin Duan	High School	OLD six	75	76	76	75	76	76	454	75.67	0.47
+122=	Samuel Tango	High School, English as a Foreign Language	We both quit League of Legends	75	76	73	78	73	79	454	75.67	2.29
+122=	Do Thu Mai	High School	Insomnia Fest	78	73	73	78	77	75	454	75.67	2.13
+122=	Erica Li	High School	angry dino doge	77	76	74	78	74	75	454	75.67	1.49
+122=	Krystal Wang	High School	angry dino doge	77	76	75	78	73	75	454	75.67	1.60
+122=	Zhiyuan (Alexander) Zhou	High School	Dialogy Frances Harper	75	74	77	76	76	76	454	75.67	0.94
+122=	Tony Shu	High School	Society Incorporated	75	75	74	75	77	78	454	75.67	1.37
+122=	Pacey Qi	High School	Capstone PA	75	73	79	76	75	76	454	75.67	1.80
+122=	Hemant Vihann	High School	ACJC H	74	73	81	74	76	76	454	75.67	2.62
+122=	Ong Rui Yu	High School	ACJC A	75	74	77	75	77	76	454	75.67	1.11
+122=	Sadie Moore	High School	The Preramblers	76	76	74	78	74	76	454	75.67	1.37
+122=	Rammanohar Gupta	English as a Foreign Language	Wheels and Doors	75	77	75	76	75	76	454	75.67	0.75
+141=	Tara Deng Xiaoqing	English as a Foreign Language	Freshgirls	75	75	76	76	76	75	453	75.50	0.50
+141=	Arles Kiel Mirandilla	High School	We both quit League of Legends	76	75	72	78	73	79	453	75.50	2.50
+141=	Doris Yang	English as a Foreign Language	DoooCccy	75	77	77	75	74	75	453	75.50	1.12
+141=	Korliss Cheung	High School	Why are we here	73	76	76	77	74	77	453	75.50	1.50
+141=	Ignatius Yao Koon Liong	High School	Society Incorporated	76	74	73	75	78	77	453	75.50	1.71
+141=	Shahriar Kabir Rahat	English as a Foreign Language	KUET 1	74	75	73	77	76	78	453	75.50	1.71
+141=	Raye Yap	High School	ACJC B	74	76	75	75	76	77	453	75.50	0.96
+141=	Drishti Patrawala	English as a Foreign Language	Wheels and Doors	74	77	76	76	75	75	453	75.50	0.96
+149=	Dasun de Silva		Lay Flat	75	74	76	77	74	76	452	75.33	1.11
+149=	Patrick Xu	English as a Foreign Language	Nerd &amp; Lunatic	75	73	76	75	75	78	452	75.33	1.49
+149=	Jirayu Leesuwatthanakul	English as a Foreign Language	Organised Chaos	75	76	74	76	76	75	452	75.33	0.75
+149=	Frang Komolrochanaporn		Organised Chaos	74	77	73	76	77	75	452	75.33	1.49
+149=	Jessie Xiong	English as a Foreign Language	Why so jelice?	76	75	75	74	77	75	452	75.33	0.94
+149=	Mikaela Bosano	High School	HG A: Deejelicious - this is why you 	75	75	77	73	75	77	452	75.33	1.37
+149=	Bernard Lau Jia Wei	High School	ACJC F	74	75	78	74	75	76	452	75.33	1.37
+149=	Jeff Cheah	High School	ACJC B	73	76	76	76	75	76	452	75.33	1.11
+149=	Roye Ganju	High School	The Preramblers	76	74	75	77	74	76	452	75.33	1.11
+149=	Speaker 1		Swing 1	76	73	78	75	74	76	452	75.33	1.60
+149=	Harry Zhu Hanqi	High School, English as a Foreign Language	Independent A	70	77	75	78	76	76	452	75.33	2.56
+160=	Daisy Jin	English as a Foreign Language	FDU 1	72	78	75	75	75	76	451	75.17	1.77
+160=	Shirley Zhang	English as a Foreign Language	Nerd &amp; Lunatic	77	73	75	75	74	77	451	75.17	1.46
+160=	Renee Xu	English as a Foreign Language	How i learned to stop worrying and	72	76	78	75	75	75	451	75.17	1.77
+160=	Nguyễn Lê Tuấn Kiệt		FUV 3	75	73	77	74	76	76	451	75.17	1.34
+160=	Tina Li	English as a Foreign Language	JT	75	76	72	76	76	76	451	75.17	1.46
+160=	Meagan Tam	High School	Isaac come save us	70	77	76	79	73	76	451	75.17	2.91
+160=	Nguyen Doan Duc Vinh	High School	Insomnia Fest	76	73	73	77	76	76	451	75.17	1.57
+160=	Alice Yuan	English as a Foreign Language	Why so jelice?	76	75	74	75	77	74	451	75.17	1.07
+160=	Marcus Schoenharl	High School	Dialogy Harriet Tubman	72	75	75	76	75	78	451	75.17	1.77
+160=	Kimberly Co	High School	HG A: Deejelicious - this is why you 	75	75	76	74	75	76	451	75.17	0.69
+160=	Sheren Nee	English as a Foreign Language	Giant Panda	73	75	76	74	78	75	451	75.17	1.57
+171=	卢一志	English as a Foreign Language	Lay Flat	76	74	76	75	73	76	450	75.00	1.15
+171=	Artemis Wang	English as a Foreign Language	pretty sexy wangs	76	76	75	77	73	73	450	75.00	1.53
+171=	Cao Nguyen Tuan Khoi		FUV 2	76	74	76	75	75	74	450	75.00	0.82
+171=	Yifu Xing	High School	Capstone YZ	73	74	76	75	79	73	450	75.00	2.08
+171=	Tan Wei En Asher	High School	ACJC D	72	75	76	76	75	76	450	75.00	1.41
+171=	Stan Zheng	English as a Foreign Language	Giant Panda	74	73	77	74	77	75	450	75.00	1.53
+177=	Meredith Wang	English as a Foreign Language	Tough Love	76	76	75	74	75	73	449	74.83	1.07
+177=	Sirikorn Indrayodha	English as a Foreign Language	Thammasat 1	72	75	76	77	77	72	449	74.83	2.11
+179=	Li Miao	English as a Foreign Language	Tough Love	76	75	74	74	75	74	448	74.67	0.75
+179=	Supakorn Palawong	English as a Foreign Language	Thammasat 1	72	74	75	78	77	72	448	74.67	2.29
+179=	Sascha Liu	English as a Foreign Language	Matcha	74	74	77	71	76	76	448	74.67	1.97
+179=	Macy Yuan	English as a Foreign Language	DoooCccy	74	75	77	75	72	75	448	74.67	1.49
+179=	Zachary Kwing Fai Yuan	High School	Capstone YZ	73	73	76	75	77	74	448	74.67	1.49
+179=	Arienzo Shadrack Lorenz Silvestrece	High School	ACJC H	73	72	80	74	75	74	448	74.67	2.56
+185=	Tan Yu Yong Glennis	High School	ACJC G	73	74	76	75	73	76	447	74.50	1.26
+185=	John Jeriel Tan	High School	ACJC E	70	75	75	75	77	75	447	74.50	2.14
+187=	Maria Wu	English as a Foreign Language	Matcha	73	74	76	72	75	76	446	74.33	1.49
+187=	Rishita Nevatia	High School	ACJC G	73	75	75	75	72	76	446	74.33	1.37
+187=	Zayne Ann Hor	High School	ACJC C	74	73	74	78	75	72	446	74.33	1.89
+190=	Jeffrey Zhao	English as a Foreign Language	How i learned to stop worrying and	70	75	76	76	75	73	445	74.17	2.11
+190=	Fathima Yusra Ismeth	High School	ACJC E	70	74	76	75	75	75	445	74.17	1.95
+190=	Shannez Victoria Yap	High School	ACJC F	74	74	77	72	73	75	445	74.17	1.57
+193=	Stella Wang	English as a Foreign Language	pretty sexy wangs	76	74	75	75	72	72	444	74.00	1.53
+193=	Christopher	English as a Foreign Language	More than less	75	73	72	78	74	72	444	74.00	2.08
+195=	Janice	English as a Foreign Language	More than less	74	74	72	77	74	72	443	73.83	1.67
+195=	Sarah Grace Anna Xayaraj	High School	ACJC D	73	74	76	75	73	72	443	73.83	1.34
+197=	Liu Lin	English as a Foreign Language	Blueberry Your Highness	73	75	76	73	73	72	442	73.67	1.37
+197=	Xu Hengchang	English as a Foreign Language	Blueberry Your Highness	74	75	76	73	72	72	442	73.67	1.49
+197=	Nguyễn Thị Hà Linh	High School	Sleep-deprived	74	75	74	75	72	72	442	73.67	1.25
+197=	Chong Chen Kai Ezekiel	High School	ACJC C	74	74	73	76	75	70	442	73.67	1.89
+201	Phan Ngọc Vy	High School	Sleep-deprived	73	76	73	74	71	73	440	73.33	1.49
+202	Haruki Ohshiba	High School	Johnouchi	72	69	76	74	74	74	439	73.17	2.19
+203	Nanaka Ota	High School	Johnouchi	72	69	75	74	73	74	437	72.83	1.95
+204	Nguyen Minh Khue		Homebody	73	72	72	75	73	69	434	72.33	1.80
+205	Nguyen My Chieu Nghi	English as a Foreign Language	Homebody	73	72	72	75	72	69	433	72.17	1.77
+206	Denzelle Jude Caro		UST	79	74	82	76	74	—	385	77.00	3.10
+207=	Jennifer Fan	High School, English as a Foreign Language	WFLA	—	77	77	77	75	77	383	76.60	0.80
+207=	Speaker 2		Swing 1	76	79	78	75	75	—	383	76.60	1.62
+209	Chris Chen	English as a Foreign Language	Fxxking COVID	—	76	76	76	78	74	380	76.00	1.26
+210	Lê Minh Tú		FUV 2	76	75	—	75	78	75	379	75.80	1.17
+211	Anita Li Jiexia	English as a Foreign Language	Freshgirls	75	76	77	—	75	75	378	75.60	0.80
+212=	Nhi Phan	English as a Foreign Language	DAV Lenin	75	75	76	75	76	—	377	75.40	0.49
+212=	Vu Hoang Anh	English as a Foreign Language	DAV Lenin	75	77	75	74	76	—	377	75.40	1.02
+214	Junny Ho	English as a Foreign Language	JT	76	—	73	76	76	75	376	75.20	1.17
+215	Serajus Saleqin	English as a Foreign Language	Zia Hall Debate Club - Dhaka	73	76	75	76	75	—	375	75.00	1.10
+216	Phạm Khuê Chi		FUV 3	75	73	76	74	76	—	374	74.80	1.17
+217=	Pakjira Numchaisombut	English as a Foreign Language	Liberal Asians	75	74	74	75	73	—	371	74.20	0.75
+217=	Andi Nurdini Yuridna Yudha		Liberal Asians	74	74	75	75	73	—	371	74.20	0.75
+219	Ifat Rahman Maruf	English as a Foreign Language	KUET 1	75	—	68	74	76	76	369	73.80	2.99
+220	Jag		UST	—	75	82	75	74	—	306	76.50	3.20
+221	Speaker 3		Swing 2	—	74	75	74	75	—	298	74.50	0.50
+222	Speaker 4		Swing 2	—	—	75	74	74	—	223	74.33	0.47
+223=	Speaker 5		Swing 3	—	—	—	74	76	71	221	73.67	2.05
+223=	Speaker 6		Swing 3	—	—	—	74	75	72	221	73.67	1.25
+225	Pham Tran Minh Chau		Ironman	—	72	74	—	—	—	146	73.00	1.00
+226	Ziming(William) Li	High School	fopdoodles	75	—	—	—	—	—	75	75.00	0.00
+227	Nguyen Anh Thu		Ironman	69	—	—	—	—	—	69	69.00	0.00
+228	Jayesha Sharma	High School	fopdoodles	—	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+Johnouchi	4th	Closing Government	View Ballot	Shudipto AhmedⒸ , Yrein Aquino Canzon
+Antihistaminas	1st	Opening Opposition	View Ballot	Shudipto AhmedⒸ , Yrein Aquino Canzon
+Dialogy Fanie Lou Hamer	2nd	Closing Opposition	View Ballot	Shudipto AhmedⒸ , Yrein Aquino Canzon
+ACJC B	3rd	Opening Government	View Ballot	Shudipto AhmedⒸ , Yrein Aquino Canzon
+Two decades apart	3rd	Opening Opposition	View Ballot	Neo Wei ShengⒸ , Peli MeirⓉ
+Dialogy Alexandria Ocasio-Cortez	2nd	Closing Opposition	View Ballot	Neo Wei ShengⒸ , Peli MeirⓉ
+Dialogy Assata Shakur	1st	Opening Government	View Ballot	Neo Wei ShengⒸ , Peli MeirⓉ
+Why are we here	4th	Closing Government	View Ballot	Neo Wei ShengⒸ , Peli MeirⓉ
+FUV 2	4th	Opening Opposition	View Ballot	Abhishek AcharyaⒸ , Farhana Binte Jigar Farina
+ASHS BB	2nd	Closing Opposition	View Ballot	Abhishek AcharyaⒸ , Farhana Binte Jigar Farina
+Dialogy Ketanji Brown Jackson	1st	Opening Government	View Ballot	Abhishek AcharyaⒸ , Farhana Binte Jigar Farina
+I mah jong linkbate 7	3rd	Closing Government	View Ballot	Abhishek AcharyaⒸ , Farhana Binte Jigar Farina
+Lay Flat	1st	Closing Government	View Ballot	Aliya FairuzⒸ , Mai Quang HungⓉ
+ACJC G	4th	Opening Opposition	View Ballot	Aliya FairuzⒸ , Mai Quang HungⓉ
+Giant Panda	3rd	Opening Government	View Ballot	Aliya FairuzⒸ , Mai Quang HungⓉ
+CWSDC Ningbo	2nd	Closing Opposition	View Ballot	Aliya FairuzⒸ , Mai Quang HungⓉ
+FUV 3	3rd	Opening Government	View Ballot	Srijan PoudelⒸ , Mishaal Said
+Organised Chaos	4th	Closing Opposition	View Ballot	Srijan PoudelⒸ , Mishaal Said
+Dialogy Marsha P Johnson	1st	Closing Government	View Ballot	Srijan PoudelⒸ , Mishaal Said
+Independent 1	2nd	Opening Opposition	View Ballot	Srijan PoudelⒸ , Mishaal Said
+Liberal Asians	3rd	Closing Government	View Ballot	Anum NasserⒸ , Chi AnhⓉ
+Why so jelice?	2nd	Opening Opposition	View Ballot	Anum NasserⒸ , Chi AnhⓉ
+ACJC H	4th	Closing Opposition	View Ballot	Anum NasserⒸ , Chi AnhⓉ
+CWSDC Hangzhou	1st	Opening Government	View Ballot	Anum NasserⒸ , Chi AnhⓉ
+Zia Hall Debate Club - Dhaka	3rd	Closing Opposition	View Ballot	Nikola MichaylovⒸ
+Matcha	4th	Opening Opposition	View Ballot	Nikola MichaylovⒸ
+Dialogy Bram Fischer	2nd	Closing Government	View Ballot	Nikola MichaylovⒸ
+CWSDC Guangzhou	1st	Opening Government	View Ballot	Nikola MichaylovⒸ
+FUV material girls	4th	Opening Opposition	View Ballot	Noluthando HononoⒸ , Nguyễn Trần Hạ MyⓉ
+ADNU SHS A	1st	Closing Opposition	View Ballot	Noluthando HononoⒸ , Nguyễn Trần Hạ MyⓉ
+Dialogy Martin Delany	2nd	Opening Government	View Ballot	Noluthando HononoⒸ , Nguyễn Trần Hạ MyⓉ
+Slaaayy	3rd	Closing Government	View Ballot	Noluthando HononoⒸ , Nguyễn Trần Hạ MyⓉ
+How i learned to stop worrying and	4th	Closing Opposition	View Ballot	Hadar GoldbergⒸ
+Thammasat 1	3rd	Opening Government	View Ballot	Hadar GoldbergⒸ
+Isaac come save us	2nd	Closing Government	View Ballot	Hadar GoldbergⒸ
+Independent A	1st	Opening Opposition	View Ballot	Hadar GoldbergⒸ
+fopdoodles	4th	Opening Opposition	View Ballot	Rok HafnerⒸ , Quynh - Mai TranⓉ
+We both quit League of Legends	3rd	Opening Government	View Ballot	Rok HafnerⒸ , Quynh - Mai TranⓉ
+Rehab Brothers	2nd	Closing Government	View Ballot	Rok HafnerⒸ , Quynh - Mai TranⓉ
+CWSDC Shanghai	1st	Closing Opposition	View Ballot	Rok HafnerⒸ , Quynh - Mai TranⓉ
+OLD six	2nd	Closing Government	View Ballot	Priyanka DasⒸ , Nirali RoutⓉ
+More than less	4th	Closing Opposition	View Ballot	Priyanka DasⒸ , Nirali RoutⓉ
+ACJC A	3rd	Opening Opposition	View Ballot	Priyanka DasⒸ , Nirali RoutⓉ
+CWSDC Beijing	1st	Opening Government	View Ballot	Priyanka DasⒸ , Nirali RoutⓉ
+ASHS RV	2nd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Wuyin “Ethan” FanⓉ
+KUET 1	4th	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Wuyin “Ethan” FanⓉ
+CWSDC Nanjing	3rd	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Wuyin “Ethan” FanⓉ
+Composite - Rustbucket and Oldie.	1st	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Wuyin “Ethan” FanⓉ
+Studying Business Statistics	4th	Closing Government	View Ballot	Khac HungⒸ , Pham Vu Thuy LinhⓉ
+UST	2nd	Opening Opposition	View Ballot	Khac HungⒸ , Pham Vu Thuy LinhⓉ
+Dialogy Frederick Douglass	1st	Opening Government	View Ballot	Khac HungⒸ , Pham Vu Thuy LinhⓉ
+CWSDC Chengdu	3rd	Closing Opposition	View Ballot	Khac HungⒸ , Pham Vu Thuy LinhⓉ
+Nerd &amp; Lunatic	2nd	Opening Government	View Ballot	Paolo Jose TainoⒸ
+ASHS HL	1st	Closing Government	View Ballot	Paolo Jose TainoⒸ
+DoooCccy	4th	Closing Opposition	View Ballot	Paolo Jose TainoⒸ
+Dialogy Frances Harper	3rd	Opening Opposition	View Ballot	Paolo Jose TainoⒸ
+Prep Time Is Nap Time	3rd	Closing Government	View Ballot	Josef FloredoⒸ
+ASHS AV	4th	Opening Government	View Ballot	Josef FloredoⒸ
+Dialogy Benazir Butto	2nd	Opening Opposition	View Ballot	Josef FloredoⒸ
+CWSDC Harbin	1st	Closing Opposition	View Ballot	Josef FloredoⒸ
+pretty sexy wangs	3rd	Opening Opposition	View Ballot	V SayiramⒸ
+HCI Red	4th	Closing Government	View Ballot	V SayiramⒸ
+NUS	1st	Closing Opposition	View Ballot	V SayiramⒸ
+angry dino doge	2nd	Opening Government	View Ballot	V SayiramⒸ
+imdone udon	3rd	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ
+Atma Jaya Catholic University of I	2nd	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+Dialogy Ida B Wells	1st	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+ACJC C	4th	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ
+DAV Lenin	2nd	Opening Opposition	View Ballot	Manal AfzalⒸ
+Sleep-deprived	3rd	Closing Opposition	View Ballot	Manal AfzalⒸ
+Capstone LD	1st	Opening Government	View Ballot	Manal AfzalⒸ
+Homebody	4th	Closing Government	View Ballot	Manal AfzalⒸ
+Udah Makan Ayam Geprek	2nd	Opening Government	View Ballot	Jeremiah EdagbamiⒸ , Jenerio Michal MokaluⓉ
+Capstone YZ	4th	Opening Opposition	View Ballot	Jeremiah EdagbamiⒸ , Jenerio Michal MokaluⓉ
+Wheels and Doors	3rd	Closing Opposition	View Ballot	Jeremiah EdagbamiⒸ , Jenerio Michal MokaluⓉ
+CWSDC Xiamen	1st	Closing Government	View Ballot	Jeremiah EdagbamiⒸ , Jenerio Michal MokaluⓉ
+ASHS FM	2nd	Opening Opposition	View Ballot	Marco Giorgione DavaⒸ
+Dialogy Frantz Fanon	1st	Closing Government	View Ballot	Marco Giorgione DavaⒸ
+ACJC D	4th	Closing Opposition	View Ballot	Marco Giorgione DavaⒸ
+ACJC F	3rd	Opening Government	View Ballot	Marco Giorgione DavaⒸ
+Fxxking COVID	2nd	Opening Government	View Ballot	Klaudia MaciejewskaⒸ
+5 foot under	1st	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ
+HG A: Deejelicious - this is why you 	4th	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ
+Society Incorporated	3rd	Closing Government	View Ballot	Klaudia MaciejewskaⒸ
+RAEONNA	1st	Opening Opposition	View Ballot	Nayara NoorⒸ , Khushpreet KaurⓉ
+our arguments carry some mg	4th	Closing Government	View Ballot	Nayara NoorⒸ , Khushpreet KaurⓉ
+Insomnia Fest	3rd	Closing Opposition	View Ballot	Nayara NoorⒸ , Khushpreet KaurⓉ
+WFLA	2nd	Opening Government	View Ballot	Nayara NoorⒸ , Khushpreet KaurⓉ
+Freshgirls	4th	Closing Government	View Ballot	Apratim ShrivastavⒸ
+DAV Engels	2nd	Closing Opposition	View Ballot	Apratim ShrivastavⒸ
+Swing 1	3rd	Opening Government	View Ballot	Apratim ShrivastavⒸ
+Dua Lipa for President	1st	Opening Opposition	View Ballot	Apratim ShrivastavⒸ
+FDU 1	2nd	Closing Government	View Ballot	Johan LukitoⒸ
+Dialogy Harriet Tubman	1st	Opening Opposition	View Ballot	Johan LukitoⒸ
+Ironman	4th	Opening Government	View Ballot	Johan LukitoⒸ
+ACJC E	3rd	Closing Opposition	View Ballot	Johan LukitoⒸ
+DAV Marx	3rd	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Dang Hong AnhⓉ
+HCI Yellow	1st	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Dang Hong AnhⓉ
+Cinnamon roll but could kill you	2nd	Closing Government	View Ballot	Ayafa TonyeⒸ , Dang Hong AnhⓉ
+Capstone PA	4th	Opening Government	View Ballot	Ayafa TonyeⒸ , Dang Hong AnhⓉ
+Aspar	2nd	Closing Government	View Ballot	Ogundare Taye TobiⒸ
+OO	4th	Opening Opposition	View Ballot	Ogundare Taye TobiⒸ
+Dialogy Angela Davis	1st	Closing Opposition	View Ballot	Ogundare Taye TobiⒸ
+Capstone JV	3rd	Opening Government	View Ballot	Ogundare Taye TobiⒸ
+ASHS BG	1st	Opening Opposition	View Ballot	Beatrice CuizonⒸ
+JT	4th	Opening Government	View Ballot	Beatrice CuizonⒸ
+doll fin corallation	2nd	Closing Government	View Ballot	Beatrice CuizonⒸ
+The Preramblers	3rd	Closing Opposition	View Ballot	Beatrice CuizonⒸ
+Tough Love	3rd	Opening Government	View Ballot	Jessica MusulinⒸ , Aron Josh M. BernaldoⓉ , Sam ShneorⓉ
+Blueberry Your Highness	4th	Opening Opposition	View Ballot	Jessica MusulinⒸ , Aron Josh M. BernaldoⓉ , Sam ShneorⓉ
+CWSDC Shenzhen	1st	Closing Opposition	View Ballot	Jessica MusulinⒸ , Aron Josh M. BernaldoⓉ , Sam ShneorⓉ
+Nyoot Nyoot	2nd	Closing Government	View Ballot	Jessica MusulinⒸ , Aron Josh M. BernaldoⓉ , Sam ShneorⓉ
+
+
+team	result	side	ballot	adjudicators
+Atma Jaya Catholic University of I	1st	Closing Opposition	View Ballot	Abhishek AcharyaⒸ , Pham Vu Thuy LinhⓉ
+doll fin corallation	3rd	Opening Government	View Ballot	Abhishek AcharyaⒸ , Pham Vu Thuy LinhⓉ
+Why so jelice?	4th	Closing Government	View Ballot	Abhishek AcharyaⒸ , Pham Vu Thuy LinhⓉ
+Nyoot Nyoot	2nd	Opening Opposition	View Ballot	Abhishek AcharyaⒸ , Pham Vu Thuy LinhⓉ
+HCI Yellow	3rd	Opening Government	View Ballot	Hadar GoldbergⒸ
+Dialogy Ketanji Brown Jackson	2nd	Opening Opposition	View Ballot	Hadar GoldbergⒸ
+Dialogy Marsha P Johnson	4th	Closing Opposition	View Ballot	Hadar GoldbergⒸ
+CWSDC Shenzhen	1st	Closing Government	View Ballot	Hadar GoldbergⒸ
+Nerd &amp; Lunatic	4th	Closing Opposition	View Ballot	Rok HafnerⒸ , Farhana Binte Jigar Farina
+ASHS RV	3rd	Opening Opposition	View Ballot	Rok HafnerⒸ , Farhana Binte Jigar Farina
+UST	2nd	Opening Government	View Ballot	Rok HafnerⒸ , Farhana Binte Jigar Farina
+CWSDC Ningbo	1st	Closing Government	View Ballot	Rok HafnerⒸ , Farhana Binte Jigar Farina
+How i learned to stop worrying and	2nd	Closing Government	View Ballot	Manal AfzalⒸ
+HCI Red	1st	Opening Government	View Ballot	Manal AfzalⒸ
+More than less	4th	Opening Opposition	View Ballot	Manal AfzalⒸ
+ACJC G	3rd	Closing Opposition	View Ballot	Manal AfzalⒸ
+Dialogy Frederick Douglass	1st	Closing Government	View Ballot	Noluthando HononoⒸ
+Capstone LD	4th	Closing Opposition	View Ballot	Noluthando HononoⒸ
+CWSDC Xiamen	3rd	Opening Opposition	View Ballot	Noluthando HononoⒸ
+Independent A	2nd	Opening Government	View Ballot	Noluthando HononoⒸ
+ASHS BG	4th	Closing Opposition	View Ballot	Jessica MusulinⒸ
+NUS	1st	Closing Government	View Ballot	Jessica MusulinⒸ
+Dialogy Ida B Wells	3rd	Opening Opposition	View Ballot	Jessica MusulinⒸ
+CWSDC Harbin	2nd	Opening Government	View Ballot	Jessica MusulinⒸ
+Zia Hall Debate Club - Dhaka	1st	Opening Government	View Ballot	Ayafa TonyeⒸ , Nguyen Vu Ha MyⓉ
+We both quit League of Legends	2nd	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Nguyen Vu Ha MyⓉ
+Liberal Asians	4th	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Nguyen Vu Ha MyⓉ
+ACJC E	3rd	Closing Government	View Ballot	Ayafa TonyeⒸ , Nguyen Vu Ha MyⓉ
+Organised Chaos	1st	Closing Government	View Ballot	Marco Giorgione DavaⒸ , Aron Josh M. BernaldoⓉ
+HG A: Deejelicious - this is why you 	2nd	Opening Opposition	View Ballot	Marco Giorgione DavaⒸ , Aron Josh M. BernaldoⓉ
+Homebody	4th	Opening Government	View Ballot	Marco Giorgione DavaⒸ , Aron Josh M. BernaldoⓉ
+ACJC C	3rd	Closing Opposition	View Ballot	Marco Giorgione DavaⒸ , Aron Josh M. BernaldoⓉ
+imdone udon	3rd	Closing Government	View Ballot	Houymean LimⒸ , Nirali RoutⓉ
+ACJC A	4th	Opening Government	View Ballot	Houymean LimⒸ , Nirali RoutⓉ
+Wheels and Doors	1st	Opening Opposition	View Ballot	Houymean LimⒸ , Nirali RoutⓉ
+CWSDC Nanjing	2nd	Closing Opposition	View Ballot	Houymean LimⒸ , Nirali RoutⓉ
+OLD six	4th	Opening Government	View Ballot	Priyanka DasⒸ , Khushpreet KaurⓉ
+angry dino doge	3rd	Closing Opposition	View Ballot	Priyanka DasⒸ , Khushpreet KaurⓉ
+Udah Makan Ayam Geprek	1st	Closing Government	View Ballot	Priyanka DasⒸ , Khushpreet KaurⓉ
+Dialogy Martin Delany	2nd	Opening Opposition	View Ballot	Priyanka DasⒸ , Khushpreet KaurⓉ
+Antihistaminas	2nd	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ
+Dialogy Harriet Tubman	4th	Closing Government	View Ballot	Klaudia MaciejewskaⒸ
+CWSDC Guangzhou	1st	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ
+Composite - Rustbucket and Oldie.	3rd	Opening Government	View Ballot	Klaudia MaciejewskaⒸ
+ASHS BB	3rd	Opening Opposition	View Ballot	Khac HungⒸ , Tram Nguyen Ngoc BaoⓉ
+DAV Lenin	4th	Closing Opposition	View Ballot	Khac HungⒸ , Tram Nguyen Ngoc BaoⓉ
+Dialogy Bram Fischer	2nd	Opening Government	View Ballot	Khac HungⒸ , Tram Nguyen Ngoc BaoⓉ
+Dialogy Alexandria Ocasio-Cortez	1st	Closing Government	View Ballot	Khac HungⒸ , Tram Nguyen Ngoc BaoⓉ
+pretty sexy wangs	3rd	Closing Government	View Ballot	Angad Singh ChawlaⒸ , Peli Meir
+Society Incorporated	4th	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ , Peli Meir
+Slaaayy	2nd	Opening Government	View Ballot	Angad Singh ChawlaⒸ , Peli Meir
+I mah jong linkbate 7	1st	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ , Peli Meir
+Dialogy Angela Davis	3rd	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ , Wuyin “Ethan” FanⓉ
+CWSDC Beijing	2nd	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Wuyin “Ethan” FanⓉ
+CWSDC Hangzhou	1st	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Wuyin “Ethan” FanⓉ
+Dua Lipa for President	4th	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ , Wuyin “Ethan” FanⓉ
+OO	1st	Closing Opposition	View Ballot	Mishaal SaidⒸ
+JT	2nd	Closing Government	View Ballot	Mishaal SaidⒸ
+Matcha	4th	Opening Government	View Ballot	Mishaal SaidⒸ
+ACJC D	3rd	Opening Opposition	View Ballot	Mishaal SaidⒸ
+ASHS FM	4th	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Sam Shneor
+Isaac come save us	1st	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Sam Shneor
+Dialogy Fanie Lou Hamer	2nd	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Sam Shneor
+Dialogy Benazir Butto	3rd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Sam Shneor
+FDU 1	3rd	Closing Opposition	View Ballot	Nayara NoorⒸ , Jenerio Michal MokaluⓉ
+Rehab Brothers	4th	Opening Government	View Ballot	Nayara NoorⒸ , Jenerio Michal MokaluⓉ
+Cinnamon roll but could kill you	1st	Opening Opposition	View Ballot	Nayara NoorⒸ , Jenerio Michal MokaluⓉ
+Independent 1	2nd	Closing Government	View Ballot	Nayara NoorⒸ , Jenerio Michal MokaluⓉ
+Lay Flat	4th	Closing Opposition	View Ballot	Shudipto AhmedⒸ
+RAEONNA	3rd	Closing Government	View Ballot	Shudipto AhmedⒸ
+Dialogy Assata Shakur	1st	Opening Opposition	View Ballot	Shudipto AhmedⒸ
+CWSDC Shanghai	2nd	Opening Government	View Ballot	Shudipto AhmedⒸ
+ASHS HL	2nd	Opening Government	View Ballot	Apratim ShrivastavⒸ , Quynh - Mai TranⓉ
+5 foot under	3rd	Closing Opposition	View Ballot	Apratim ShrivastavⒸ , Quynh - Mai TranⓉ
+ADNU SHS A	4th	Closing Government	View Ballot	Apratim ShrivastavⒸ , Quynh - Mai TranⓉ
+Dialogy Frantz Fanon	1st	Opening Opposition	View Ballot	Apratim ShrivastavⒸ , Quynh - Mai TranⓉ
+Freshgirls	2nd	Opening Opposition	View Ballot	Yrein Aquino CanzonⒸ
+Blueberry Your Highness	3rd	Opening Government	View Ballot	Yrein Aquino CanzonⒸ
+Why are we here	1st	Closing Opposition	View Ballot	Yrein Aquino CanzonⒸ
+Ironman	4th	Closing Government	View Ballot	Yrein Aquino CanzonⒸ
+Prep Time Is Nap Time	1st	Opening Opposition	View Ballot	Aliya FairuzⒸ
+Tough Love	2nd	Closing Opposition	View Ballot	Aliya FairuzⒸ
+FUV 3	4th	Closing Government	View Ballot	Aliya FairuzⒸ
+The Preramblers	3rd	Opening Government	View Ballot	Aliya FairuzⒸ
+Thammasat 1	2nd	Closing Opposition	View Ballot	Jeremiah EdagbamiⒸ , Mahadi Rahman Nikash , Nguyễn Trần Hạ MyⓉ
+Insomnia Fest	4th	Opening Government	View Ballot	Jeremiah EdagbamiⒸ , Mahadi Rahman Nikash , Nguyễn Trần Hạ MyⓉ
+Giant Panda	3rd	Closing Government	View Ballot	Jeremiah EdagbamiⒸ , Mahadi Rahman Nikash , Nguyễn Trần Hạ MyⓉ
+Swing 1	1st	Opening Opposition	View Ballot	Jeremiah EdagbamiⒸ , Mahadi Rahman Nikash , Nguyễn Trần Hạ MyⓉ
+Johnouchi	4th	Closing Opposition	View Ballot	Johan LukitoⒸ
+ASHS AV	2nd	Closing Government	View Ballot	Johan LukitoⒸ
+DoooCccy	1st	Opening Opposition	View Ballot	Johan LukitoⒸ
+ACJC H	3rd	Opening Government	View Ballot	Johan LukitoⒸ
+DAV Marx	1st	Closing Government	View Ballot	Srijan PoudelⒸ
+Dialogy Frances Harper	3rd	Opening Government	View Ballot	Srijan PoudelⒸ
+Capstone JV	4th	Opening Opposition	View Ballot	Srijan PoudelⒸ
+ACJC B	2nd	Closing Opposition	View Ballot	Srijan PoudelⒸ
+Fxxking COVID	2nd	Closing Government	View Ballot	Josef FloredoⒸ , Nguyen Khanh LinhⓉ
+Aspar	4th	Opening Government	View Ballot	Josef FloredoⒸ , Nguyen Khanh LinhⓉ
+DAV Engels	3rd	Opening Opposition	View Ballot	Josef FloredoⒸ , Nguyen Khanh LinhⓉ
+WFLA	1st	Closing Opposition	View Ballot	Josef FloredoⒸ , Nguyen Khanh LinhⓉ
+Sleep-deprived	3rd	Opening Opposition	View Ballot	Ogundare Taye TobiⒸ
+Two decades apart	2nd	Closing Opposition	View Ballot	Ogundare Taye TobiⒸ
+ACJC F	4th	Closing Government	View Ballot	Ogundare Taye TobiⒸ
+CWSDC Chengdu	1st	Opening Government	View Ballot	Ogundare Taye TobiⒸ
+FUV material girls	1st	Closing Opposition	View Ballot	V SayiramⒸ
+our arguments carry some mg	2nd	Opening Government	View Ballot	V SayiramⒸ
+Capstone PA	3rd	Opening Opposition	View Ballot	V SayiramⒸ
+Capstone YZ	4th	Closing Government	View Ballot	V SayiramⒸ
+Studying Business Statistics	4th	Closing Opposition	View Ballot	Paolo Jose TainoⒸ
+FUV 2	2nd	Closing Government	View Ballot	Paolo Jose TainoⒸ
+KUET 1	1st	Opening Opposition	View Ballot	Paolo Jose TainoⒸ
+Swing 2	3rd	Opening Government	View Ballot	Paolo Jose TainoⒸ
+
+
+team	result	side	ballot	adjudicators
+Tough Love	4th	Opening Opposition	View Ballot	Josef FloredoⒸ , Tran Quynh GiangⓉ
+DAV Marx	2nd	Opening Government	View Ballot	Josef FloredoⒸ , Tran Quynh GiangⓉ
+CWSDC Chengdu	1st	Closing Government	View Ballot	Josef FloredoⒸ , Tran Quynh GiangⓉ
+Composite - Rustbucket and Oldie.	3rd	Closing Opposition	View Ballot	Josef FloredoⒸ , Tran Quynh GiangⓉ
+Cinnamon roll but could kill you	3rd	Closing Opposition	View Ballot	Étienne BeauléⒸ
+Udah Makan Ayam Geprek	2nd	Opening Opposition	View Ballot	Étienne BeauléⒸ
+Dialogy Fanie Lou Hamer	4th	Opening Government	View Ballot	Étienne BeauléⒸ
+WFLA	1st	Closing Government	View Ballot	Étienne BeauléⒸ
+Prep Time Is Nap Time	4th	Closing Opposition	View Ballot	Nayara NoorⒸ
+UST	1st	Closing Government	View Ballot	Nayara NoorⒸ
+CWSDC Xiamen	2nd	Opening Government	View Ballot	Nayara NoorⒸ
+I mah jong linkbate 7	3rd	Opening Opposition	View Ballot	Nayara NoorⒸ
+Dialogy Alexandria Ocasio-Cortez	2nd	Opening Opposition	View Ballot	Shudipto AhmedⒸ
+Wheels and Doors	4th	Opening Government	View Ballot	Shudipto AhmedⒸ
+CWSDC Harbin	1st	Closing Government	View Ballot	Shudipto AhmedⒸ
+Independent A	3rd	Closing Opposition	View Ballot	Shudipto AhmedⒸ
+imdone udon	2nd	Closing Opposition	View Ballot	Manal AfzalⒸ
+FDU 1	4th	Opening Government	View Ballot	Manal AfzalⒸ
+DAV Engels	1st	Closing Government	View Ballot	Manal AfzalⒸ
+ACJC B	3rd	Opening Opposition	View Ballot	Manal AfzalⒸ
+our arguments carry some mg	3rd	Opening Opposition	View Ballot	Yrein Aquino CanzonⒸ
+Why so jelice?	4th	Closing Opposition	View Ballot	Yrein Aquino CanzonⒸ
+Dialogy Frances Harper	1st	Closing Government	View Ballot	Yrein Aquino CanzonⒸ
+HG A: Deejelicious - this is why you 	2nd	Opening Government	View Ballot	Yrein Aquino CanzonⒸ
+We both quit League of Legends	2nd	Closing Government	View Ballot	Jeremiah EdagbamiⒸ
+ADNU SHS A	1st	Opening Government	View Ballot	Jeremiah EdagbamiⒸ
+KUET 1	4th	Closing Opposition	View Ballot	Jeremiah EdagbamiⒸ
+Slaaayy	3rd	Opening Opposition	View Ballot	Jeremiah EdagbamiⒸ
+Blueberry Your Highness	2nd	Closing Government	View Ballot	Nirali RoutⒸ
+ACJC G	3rd	Opening Government	View Ballot	Nirali RoutⒸ
+ACJC F	1st	Opening Opposition	View Ballot	Nirali RoutⒸ
+Swing 2	4th	Closing Opposition	View Ballot	Nirali RoutⒸ
+Lay Flat	3rd	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ , Nguyen Khanh Linh
+angry dino doge	4th	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Nguyen Khanh Linh
+Dialogy Benazir Butto	1st	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Nguyen Khanh Linh
+Capstone LD	2nd	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ , Nguyen Khanh Linh
+5 foot under	4th	Opening Government	View Ballot	Josef MoscoviciⒸ
+Dialogy Ketanji Brown Jackson	2nd	Closing Opposition	View Ballot	Josef MoscoviciⒸ
+CWSDC Ningbo	3rd	Opening Opposition	View Ballot	Josef MoscoviciⒸ
+CWSDC Beijing	1st	Closing Government	View Ballot	Josef MoscoviciⒸ
+pretty sexy wangs	4th	Opening Government	View Ballot	Priyanka DasⒸ
+Freshgirls	2nd	Closing Opposition	View Ballot	Priyanka DasⒸ
+ASHS FM	1st	Closing Government	View Ballot	Priyanka DasⒸ
+ACJC E	3rd	Opening Opposition	View Ballot	Priyanka DasⒸ
+Dialogy Bram Fischer	3rd	Opening Opposition	View Ballot	Marco Giorgione DavaⒸ , Jenerio Michal MokaluⓉ
+Swing 1	2nd	Closing Government	View Ballot	Marco Giorgione DavaⒸ , Jenerio Michal MokaluⓉ
+Nyoot Nyoot	1st	Closing Opposition	View Ballot	Marco Giorgione DavaⒸ , Jenerio Michal MokaluⓉ
+Independent 1	4th	Opening Government	View Ballot	Marco Giorgione DavaⒸ , Jenerio Michal MokaluⓉ
+Studying Business Statistics	4th	Opening Government	View Ballot	Ogundare Taye TobiⒸ
+FUV 3	2nd	Opening Opposition	View Ballot	Ogundare Taye TobiⒸ
+ACJC D	3rd	Closing Government	View Ballot	Ogundare Taye TobiⒸ
+ACJC A	1st	Closing Opposition	View Ballot	Ogundare Taye TobiⒸ
+JT	4th	Closing Opposition	View Ballot	V SayiramⒸ
+OLD six	1st	Opening Opposition	View Ballot	V SayiramⒸ
+Sleep-deprived	3rd	Opening Government	View Ballot	V SayiramⒸ
+The Preramblers	2nd	Closing Government	View Ballot	V SayiramⒸ
+ASHS BB	1st	Opening Government	View Ballot	Srijan PoudelⒸ , Thinh HuynhⓉ
+HCI Red	2nd	Opening Opposition	View Ballot	Srijan PoudelⒸ , Thinh HuynhⓉ
+Two decades apart	3rd	Closing Government	View Ballot	Srijan PoudelⒸ , Thinh HuynhⓉ
+Dialogy Harriet Tubman	4th	Closing Opposition	View Ballot	Srijan PoudelⒸ , Thinh HuynhⓉ
+Insomnia Fest	3rd	Opening Opposition	View Ballot	Quynh - Mai TranⒸ
+More than less	4th	Closing Government	View Ballot	Quynh - Mai TranⒸ
+Society Incorporated	2nd	Opening Government	View Ballot	Quynh - Mai TranⒸ
+Capstone JV	1st	Closing Opposition	View Ballot	Quynh - Mai TranⒸ
+Liberal Asians	3rd	Opening Government	View Ballot	Sam ShneorⒸ
+Capstone PA	2nd	Closing Government	View Ballot	Sam ShneorⒸ
+Homebody	4th	Closing Opposition	View Ballot	Sam ShneorⒸ
+ACJC H	1st	Opening Opposition	View Ballot	Sam ShneorⒸ
+Zia Hall Debate Club - Dhaka	4th	Closing Government	View Ballot	Anum NasserⒸ
+Dialogy Ida B Wells	3rd	Opening Government	View Ballot	Anum NasserⒸ
+Dialogy Martin Delany	1st	Closing Opposition	View Ballot	Anum NasserⒸ
+Dialogy Angela Davis	2nd	Opening Opposition	View Ballot	Anum NasserⒸ
+Johnouchi	3rd	Opening Opposition	View Ballot	Dang Hong AnhⒸ
+Matcha	1st	Closing Government	View Ballot	Dang Hong AnhⒸ
+Capstone YZ	2nd	Opening Government	View Ballot	Dang Hong AnhⒸ
+Ironman	4th	Closing Opposition	View Ballot	Dang Hong AnhⒸ
+Nerd &amp; Lunatic	2nd	Closing Government	View Ballot	Johan LukitoⒸ , Nguyen Tran Thanh TamⓉ
+FUV 2	3rd	Opening Government	View Ballot	Johan LukitoⒸ , Nguyen Tran Thanh TamⓉ
+Rehab Brothers	1st	Closing Opposition	View Ballot	Johan LukitoⒸ , Nguyen Tran Thanh TamⓉ
+ACJC C	4th	Opening Opposition	View Ballot	Johan LukitoⒸ , Nguyen Tran Thanh TamⓉ
+Fxxking COVID	3rd	Opening Opposition	View Ballot	Tengku OmarⒸ
+RAEONNA	1st	Closing Opposition	View Ballot	Tengku OmarⒸ
+FUV material girls	4th	Opening Government	View Ballot	Tengku OmarⒸ
+HCI Yellow	2nd	Closing Government	View Ballot	Tengku OmarⒸ
+ASHS HL	3rd	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ
+Atma Jaya Catholic University of I	2nd	Closing Government	View Ballot	Klaudia MaciejewskaⒸ
+Isaac come save us	4th	Opening Government	View Ballot	Klaudia MaciejewskaⒸ
+CWSDC Shanghai	1st	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ
+ASHS RV	3rd	Opening Government	View Ballot	Beatrice CuizonⒸ , Aron Josh M. BernaldoⓉ
+DoooCccy	4th	Closing Government	View Ballot	Beatrice CuizonⒸ , Aron Josh M. BernaldoⓉ
+CWSDC Nanjing	2nd	Opening Opposition	View Ballot	Beatrice CuizonⒸ , Aron Josh M. BernaldoⓉ
+Dua Lipa for President	1st	Closing Opposition	View Ballot	Beatrice CuizonⒸ , Aron Josh M. BernaldoⓉ
+Dialogy Frederick Douglass	2nd	Closing Opposition	View Ballot	Njuguna MachariaⒸ
+Dialogy Assata Shakur	1st	Closing Government	View Ballot	Njuguna MachariaⒸ
+CWSDC Hangzhou	4th	Opening Opposition	View Ballot	Njuguna MachariaⒸ
+CWSDC Shenzhen	3rd	Opening Government	View Ballot	Njuguna MachariaⒸ
+OO	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ , Wuyin “Ethan” FanⓉ
+ASHS AV	4th	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Wuyin “Ethan” FanⓉ
+ASHS BG	2nd	Closing Government	View Ballot	Ayafa TonyeⒸ , Wuyin “Ethan” FanⓉ
+Dialogy Marsha P Johnson	1st	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Wuyin “Ethan” FanⓉ
+Thammasat 1	2nd	Closing Government	View Ballot	Paolo Jose TainoⒸ , Thien-Lam NguyenⓉ
+doll fin corallation	3rd	Closing Opposition	View Ballot	Paolo Jose TainoⒸ , Thien-Lam NguyenⓉ
+Organised Chaos	4th	Opening Opposition	View Ballot	Paolo Jose TainoⒸ , Thien-Lam NguyenⓉ
+Why are we here	1st	Opening Government	View Ballot	Paolo Jose TainoⒸ , Thien-Lam NguyenⓉ
+NUS	3rd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ
+Antihistaminas	4th	Opening Government	View Ballot	Vladimira ŠuflajⒸ
+Dialogy Frantz Fanon	2nd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ
+CWSDC Guangzhou	1st	Closing Government	View Ballot	Vladimira ŠuflajⒸ
+Aspar	1st	Closing Opposition	View Ballot	Mishaal SaidⒸ
+How i learned to stop worrying and	2nd	Opening Government	View Ballot	Mishaal SaidⒸ
+DAV Lenin	4th	Closing Government	View Ballot	Mishaal SaidⒸ
+Giant Panda	3rd	Opening Opposition	View Ballot	Mishaal SaidⒸ
+
+
+team	result	side	ballot	adjudicators
+Tough Love	4th	Closing Government	View Ballot	Ayafa TonyeⒸ
+FUV 2	3rd	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+Organised Chaos	1st	Opening Government	View Ballot	Ayafa TonyeⒸ
+Capstone PA	2nd	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+FUV material girls	1st	Opening Opposition	View Ballot	Marco Giorgione DavaⒸ , Nguyen Khanh LinhⓉ
+our arguments carry some mg	2nd	Closing Opposition	View Ballot	Marco Giorgione DavaⒸ , Nguyen Khanh LinhⓉ
+Sleep-deprived	4th	Closing Government	View Ballot	Marco Giorgione DavaⒸ , Nguyen Khanh LinhⓉ
+DoooCccy	3rd	Opening Government	View Ballot	Marco Giorgione DavaⒸ , Nguyen Khanh LinhⓉ
+Matcha	4th	Closing Opposition	View Ballot	Johan LukitoⒸ
+Why so jelice?	3rd	Opening Government	View Ballot	Johan LukitoⒸ
+Society Incorporated	2nd	Opening Opposition	View Ballot	Johan LukitoⒸ
+KUET 1	1st	Closing Government	View Ballot	Johan LukitoⒸ
+JT	3rd	Opening Opposition	View Ballot	Ogundare Taye TobiⒸ
+Insomnia Fest	1st	Closing Government	View Ballot	Ogundare Taye TobiⒸ
+Capstone YZ	4th	Closing Opposition	View Ballot	Ogundare Taye TobiⒸ
+ACJC C	2nd	Opening Government	View Ballot	Ogundare Taye TobiⒸ
+Aspar	2nd	Opening Opposition	View Ballot	Beatrice CuizonⒸ
+Antihistaminas	4th	Closing Government	View Ballot	Beatrice CuizonⒸ
+Dialogy Bram Fischer	1st	Closing Opposition	View Ballot	Beatrice CuizonⒸ
+I mah jong linkbate 7	3rd	Opening Government	View Ballot	Beatrice CuizonⒸ
+How i learned to stop worrying and	2nd	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Thien-Lam NguyenⓉ
+Blueberry Your Highness	4th	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Thien-Lam NguyenⓉ
+Two decades apart	1st	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ , Thien-Lam NguyenⓉ
+ACJC A	3rd	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ , Thien-Lam NguyenⓉ
+Dialogy Frederick Douglass	4th	Opening Opposition	View Ballot	Jeremiah EdagbamiⒸ
+Dialogy Assata Shakur	1st	Closing Government	View Ballot	Jeremiah EdagbamiⒸ
+CWSDC Harbin	2nd	Opening Government	View Ballot	Jeremiah EdagbamiⒸ
+CWSDC Guangzhou	3rd	Closing Opposition	View Ballot	Jeremiah EdagbamiⒸ
+Prep Time Is Nap Time	1st	Opening Government	View Ballot	Tengku OmarⒸ , Wuyin “Ethan” FanⓉ
+doll fin corallation	2nd	Opening Opposition	View Ballot	Tengku OmarⒸ , Wuyin “Ethan” FanⓉ
+ACJC B	4th	Closing Government	View Ballot	Tengku OmarⒸ , Wuyin “Ethan” FanⓉ
+Independent 1	3rd	Closing Opposition	View Ballot	Tengku OmarⒸ , Wuyin “Ethan” FanⓉ
+DAV Lenin	3rd	Opening Government	View Ballot	Priyanka DasⒸ
+Liberal Asians	2nd	Closing Opposition	View Ballot	Priyanka DasⒸ
+ACJC D	1st	Opening Opposition	View Ballot	Priyanka DasⒸ
+Swing 2	4th	Closing Government	View Ballot	Priyanka DasⒸ
+Dialogy Frantz Fanon	4th	Opening Government	View Ballot	Njuguna MachariaⒸ
+WFLA	3rd	Opening Opposition	View Ballot	Njuguna MachariaⒸ
+CWSDC Beijing	2nd	Closing Opposition	View Ballot	Njuguna MachariaⒸ
+CWSDC Shanghai	1st	Closing Government	View Ballot	Njuguna MachariaⒸ
+Studying Business Statistics	1st	Closing Opposition	View Ballot	Sam ShneorⒸ
+More than less	2nd	Opening Government	View Ballot	Sam ShneorⒸ
+Homebody	3rd	Opening Opposition	View Ballot	Sam ShneorⒸ
+Swing 3	4th	Closing Government	View Ballot	Sam ShneorⒸ
+ASHS HL	4th	Opening Opposition	View Ballot	Josef FloredoⒸ , Pham Vu Thuy LinhⓉ
+HCI Yellow	3rd	Closing Opposition	View Ballot	Josef FloredoⒸ , Pham Vu Thuy LinhⓉ
+Cinnamon roll but could kill you	2nd	Opening Government	View Ballot	Josef FloredoⒸ , Pham Vu Thuy LinhⓉ
+CWSDC Hangzhou	1st	Closing Government	View Ballot	Josef FloredoⒸ , Pham Vu Thuy LinhⓉ
+DAV Engels	4th	Opening Government	View Ballot	Vladimira ŠuflajⒸ
+ADNU SHS A	2nd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ
+CWSDC Xiamen	3rd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ
+Independent A	1st	Closing Government	View Ballot	Vladimira ŠuflajⒸ
+FDU 1	3rd	Opening Opposition	View Ballot	Yrein Aquino CanzonⒸ
+FUV 3	4th	Closing Opposition	View Ballot	Yrein Aquino CanzonⒸ
+angry dino doge	1st	Closing Government	View Ballot	Yrein Aquino CanzonⒸ
+Dialogy Harriet Tubman	2nd	Opening Government	View Ballot	Yrein Aquino CanzonⒸ
+Atma Jaya Catholic University of I	3rd	Opening Government	View Ballot	Noluthando HononoⒸ
+UST	4th	Closing Opposition	View Ballot	Noluthando HononoⒸ
+Dialogy Ketanji Brown Jackson	1st	Closing Government	View Ballot	Noluthando HononoⒸ
+CWSDC Shenzhen	2nd	Opening Opposition	View Ballot	Noluthando HononoⒸ
+Lay Flat	2nd	Opening Opposition	View Ballot	Manal AfzalⒸ , Thinh HuynhⓉ
+5 foot under	1st	Closing Government	View Ballot	Manal AfzalⒸ , Thinh HuynhⓉ
+ACJC E	3rd	Opening Government	View Ballot	Manal AfzalⒸ , Thinh HuynhⓉ
+Giant Panda	4th	Closing Opposition	View Ballot	Manal AfzalⒸ , Thinh HuynhⓉ
+Isaac come save us	1st	Closing Opposition	View Ballot	Apratim ShrivastavⒸ , Nguyen Tran Thanh TamⓉ
+We both quit League of Legends	3rd	Opening Opposition	View Ballot	Apratim ShrivastavⒸ , Nguyen Tran Thanh TamⓉ
+Dialogy Ida B Wells	2nd	Closing Government	View Ballot	Apratim ShrivastavⒸ , Nguyen Tran Thanh TamⓉ
+Dialogy Frances Harper	4th	Opening Government	View Ballot	Apratim ShrivastavⒸ , Nguyen Tran Thanh TamⓉ
+Fxxking COVID	4th	Closing Opposition	View Ballot	Anum NasserⒸ
+ASHS FM	1st	Opening Government	View Ballot	Anum NasserⒸ
+Capstone JV	2nd	Closing Government	View Ballot	Anum NasserⒸ
+Capstone LD	3rd	Opening Opposition	View Ballot	Anum NasserⒸ
+RAEONNA	1st	Opening Government	View Ballot	Hadar GoldbergⒸ
+Dialogy Alexandria Ocasio-Cortez	3rd	Closing Opposition	View Ballot	Hadar GoldbergⒸ
+Dialogy Angela Davis	4th	Closing Government	View Ballot	Hadar GoldbergⒸ
+CWSDC Chengdu	2nd	Opening Opposition	View Ballot	Hadar GoldbergⒸ
+imdone udon	4th	Opening Opposition	View Ballot	Paolo Jose TainoⒸ , Jenerio Michal MokaluⓉ
+Zia Hall Debate Club - Dhaka	2nd	Opening Government	View Ballot	Paolo Jose TainoⒸ , Jenerio Michal MokaluⓉ
+Slaaayy	1st	Closing Opposition	View Ballot	Paolo Jose TainoⒸ , Jenerio Michal MokaluⓉ
+Wheels and Doors	3rd	Closing Government	View Ballot	Paolo Jose TainoⒸ , Jenerio Michal MokaluⓉ
+ASHS RV	2nd	Closing Government	View Ballot	Khac HungⒸ , Tran Quynh GiangⓉ
+Thammasat 1	3rd	Opening Opposition	View Ballot	Khac HungⒸ , Tran Quynh GiangⓉ
+OLD six	4th	Closing Opposition	View Ballot	Khac HungⒸ , Tran Quynh GiangⓉ
+CWSDC Nanjing	1st	Opening Government	View Ballot	Khac HungⒸ , Tran Quynh GiangⓉ
+NUS	2nd	Opening Opposition	View Ballot	Shudipto AhmedⒸ
+Udah Makan Ayam Geprek	4th	Closing Opposition	View Ballot	Shudipto AhmedⒸ
+Dialogy Martin Delany	3rd	Closing Government	View Ballot	Shudipto AhmedⒸ
+Nyoot Nyoot	1st	Opening Government	View Ballot	Shudipto AhmedⒸ
+Nerd &amp; Lunatic	2nd	Opening Opposition	View Ballot	S. SriramⒸ , Chi Anh , V Sayiram
+Dialogy Fanie Lou Hamer	1st	Opening Government	View Ballot	S. SriramⒸ , Chi Anh , V Sayiram
+HG A: Deejelicious - this is why you 	3rd	Closing Government	View Ballot	S. SriramⒸ , Chi Anh , V Sayiram
+ACJC F	4th	Closing Opposition	View Ballot	S. SriramⒸ , Chi Anh , V Sayiram
+DAV Marx	4th	Opening Opposition	View Ballot	Houymean LimⒸ
+Dialogy Benazir Butto	1st	Closing Government	View Ballot	Houymean LimⒸ
+CWSDC Ningbo	2nd	Opening Government	View Ballot	Houymean LimⒸ
+Dua Lipa for President	3rd	Closing Opposition	View Ballot	Houymean LimⒸ
+Johnouchi	4th	Opening Government	View Ballot	Mishaal SaidⒸ
+pretty sexy wangs	2nd	Closing Opposition	View Ballot	Mishaal SaidⒸ
+ASHS AV	1st	Opening Opposition	View Ballot	Mishaal SaidⒸ
+ACJC G	3rd	Closing Government	View Ballot	Mishaal SaidⒸ
+ASHS BB	2nd	Closing Government	View Ballot	Nayara NoorⒸ
+Dialogy Marsha P Johnson	1st	Opening Government	View Ballot	Nayara NoorⒸ
+Why are we here	3rd	Opening Opposition	View Ballot	Nayara NoorⒸ
+Swing 1	4th	Closing Opposition	View Ballot	Nayara NoorⒸ
+Freshgirls	3rd	Opening Government	View Ballot	Srijan PoudelⒸ , Dang Hong Anh , Nirali Rout
+OO	2nd	Closing Opposition	View Ballot	Srijan PoudelⒸ , Dang Hong Anh , Nirali Rout
+ACJC H	4th	Closing Government	View Ballot	Srijan PoudelⒸ , Dang Hong Anh , Nirali Rout
+The Preramblers	1st	Opening Opposition	View Ballot	Srijan PoudelⒸ , Dang Hong Anh , Nirali Rout
+ASHS BG	1st	Opening Government	View Ballot	Josef MoscoviciⒸ , Peli Meir , Tram Nguyen Ngoc BaoⓉ
+HCI Red	4th	Closing Opposition	View Ballot	Josef MoscoviciⒸ , Peli Meir , Tram Nguyen Ngoc BaoⓉ
+Rehab Brothers	3rd	Opening Opposition	View Ballot	Josef MoscoviciⒸ , Peli Meir , Tram Nguyen Ngoc BaoⓉ
+Composite - Rustbucket and Oldie.	2nd	Closing Government	View Ballot	Josef MoscoviciⒸ , Peli Meir , Tram Nguyen Ngoc BaoⓉ
+
+
+team	result	side	ballot	adjudicators
+Atma Jaya Catholic University of I	1st	Closing Opposition	View Ballot	Jeremiah EdagbamiⒸ
+Isaac come save us	4th	Closing Government	View Ballot	Jeremiah EdagbamiⒸ
+Dialogy Frantz Fanon	3rd	Opening Opposition	View Ballot	Jeremiah EdagbamiⒸ
+CWSDC Ningbo	2nd	Opening Government	View Ballot	Jeremiah EdagbamiⒸ
+Johnouchi	3rd	Closing Government	View Ballot	Nguyen Vu Ha MyⒸ
+Homebody	4th	Closing Opposition	View Ballot	Nguyen Vu Ha MyⒸ
+Swing 3	1st	Opening Government	View Ballot	Nguyen Vu Ha MyⒸ
+Swing 2	2nd	Opening Opposition	View Ballot	Nguyen Vu Ha MyⒸ
+DAV Engels	4th	Closing Government	View Ballot	S. SriramⒸ , Peli Meir
+doll fin corallation	3rd	Closing Opposition	View Ballot	S. SriramⒸ , Peli Meir
+Capstone JV	1st	Opening Opposition	View Ballot	S. SriramⒸ , Peli Meir
+Capstone LD	2nd	Opening Government	View Ballot	S. SriramⒸ , Peli Meir
+How i learned to stop worrying and	3rd	Opening Opposition	View Ballot	Manal AfzalⒸ , Tran Quynh GiangⓉ
+FUV material girls	1st	Closing Government	View Ballot	Manal AfzalⒸ , Tran Quynh GiangⓉ
+Organised Chaos	2nd	Closing Opposition	View Ballot	Manal AfzalⒸ , Tran Quynh GiangⓉ
+Swing 1	4th	Opening Government	View Ballot	Manal AfzalⒸ , Tran Quynh GiangⓉ
+HCI Yellow	2nd	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Sam Shneor
+UST	4th	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Sam Shneor
+Dialogy Frederick Douglass	1st	Closing Government	View Ballot	Ayafa TonyeⒸ , Sam Shneor
+Dialogy Alexandria Ocasio-Cortez	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ , Sam Shneor
+Dialogy Assata Shakur	1st	Closing Opposition	View Ballot	Nayara NoorⒸ
+CWSDC Beijing	3rd	Opening Government	View Ballot	Nayara NoorⒸ
+CWSDC Shanghai	4th	Closing Government	View Ballot	Nayara NoorⒸ
+Nyoot Nyoot	2nd	Opening Opposition	View Ballot	Nayara NoorⒸ
+Two decades apart	2nd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ
+angry dino doge	4th	Closing Government	View Ballot	Vladimira ŠuflajⒸ
+Why are we here	3rd	Opening Government	View Ballot	Vladimira ŠuflajⒸ
+Slaaayy	1st	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ
+Fxxking COVID	2nd	Closing Government	View Ballot	Srijan PoudelⒸ
+Dialogy Harriet Tubman	3rd	Opening Government	View Ballot	Srijan PoudelⒸ
+ACJC A	1st	Opening Opposition	View Ballot	Srijan PoudelⒸ
+Wheels and Doors	4th	Closing Opposition	View Ballot	Srijan PoudelⒸ
+our arguments carry some mg	3rd	Closing Government	View Ballot	Paolo Jose TainoⒸ
+Insomnia Fest	2nd	Closing Opposition	View Ballot	Paolo Jose TainoⒸ
+Antihistaminas	1st	Opening Opposition	View Ballot	Paolo Jose TainoⒸ
+ACJC D	4th	Opening Government	View Ballot	Paolo Jose TainoⒸ
+imdone udon	1st	Closing Government	View Ballot	Yrein Aquino CanzonⒸ
+Liberal Asians	4th	Opening Government	View Ballot	Yrein Aquino CanzonⒸ
+ACJC F	3rd	Opening Opposition	View Ballot	Yrein Aquino CanzonⒸ
+ACJC B	2nd	Closing Opposition	View Ballot	Yrein Aquino CanzonⒸ
+Cinnamon roll but could kill you	3rd	Closing Government	View Ballot	Josef MoscoviciⒸ , Thinh HuynhⓉ
+Dialogy Bram Fischer	1st	Opening Government	View Ballot	Josef MoscoviciⒸ , Thinh HuynhⓉ
+Dialogy Martin Delany	2nd	Closing Opposition	View Ballot	Josef MoscoviciⒸ , Thinh HuynhⓉ
+CWSDC Nanjing	4th	Opening Opposition	View Ballot	Josef MoscoviciⒸ , Thinh HuynhⓉ
+Zia Hall Debate Club - Dhaka	3rd	Opening Opposition	View Ballot	Houymean LimⒸ
+ASHS HL	4th	Opening Government	View Ballot	Houymean LimⒸ
+Rehab Brothers	1st	Closing Government	View Ballot	Houymean LimⒸ
+I mah jong linkbate 7	2nd	Closing Opposition	View Ballot	Houymean LimⒸ
+OO	1st	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ , Nguyen Tran Thanh Tam
+DAV Marx	3rd	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Nguyen Tran Thanh Tam
+Capstone PA	4th	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Nguyen Tran Thanh Tam
+KUET 1	2nd	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ , Nguyen Tran Thanh Tam
+Prep Time Is Nap Time	2nd	Closing Opposition	View Ballot	Anum NasserⒸ
+5 foot under	4th	Opening Government	View Ballot	Anum NasserⒸ
+Dialogy Fanie Lou Hamer	3rd	Opening Opposition	View Ballot	Anum NasserⒸ
+CWSDC Xiamen	1st	Closing Government	View Ballot	Anum NasserⒸ
+Aspar	3rd	Opening Opposition	View Ballot	Noluthando HononoⒸ , Wuyin “Ethan” FanⓉ
+Udah Makan Ayam Geprek	1st	Closing Opposition	View Ballot	Noluthando HononoⒸ , Wuyin “Ethan” FanⓉ
+Dua Lipa for President	4th	Opening Government	View Ballot	Noluthando HononoⒸ , Wuyin “Ethan” FanⓉ
+Composite - Rustbucket and Oldie.	2nd	Closing Government	View Ballot	Noluthando HononoⒸ , Wuyin “Ethan” FanⓉ
+NUS	2nd	Opening Government	View Ballot	Apratim ShrivastavⒸ , Nguyen Khanh LinhⓉ
+Dialogy Benazir Butto	1st	Closing Opposition	View Ballot	Apratim ShrivastavⒸ , Nguyen Khanh LinhⓉ
+CWSDC Shenzhen	3rd	Opening Opposition	View Ballot	Apratim ShrivastavⒸ , Nguyen Khanh LinhⓉ
+Independent A	4th	Closing Government	View Ballot	Apratim ShrivastavⒸ , Nguyen Khanh LinhⓉ
+Lay Flat	3rd	Closing Opposition	View Ballot	Johan LukitoⒸ
+Thammasat 1	1st	Opening Opposition	View Ballot	Johan LukitoⒸ
+We both quit League of Legends	4th	Closing Government	View Ballot	Johan LukitoⒸ
+Dialogy Angela Davis	2nd	Opening Government	View Ballot	Johan LukitoⒸ
+Studying Business Statistics	1st	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ
+Blueberry Your Highness	3rd	Closing Government	View Ballot	Angad Singh ChawlaⒸ
+DAV Lenin	2nd	Opening Government	View Ballot	Angad Singh ChawlaⒸ
+Sleep-deprived	4th	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ
+ASHS AV	3rd	Opening Opposition	View Ballot	Abhishek AcharyaⒸ
+Dialogy Frances Harper	2nd	Closing Opposition	View Ballot	Abhishek AcharyaⒸ
+HG A: Deejelicious - this is why you 	4th	Closing Government	View Ballot	Abhishek AcharyaⒸ
+Independent 1	1st	Opening Government	View Ballot	Abhishek AcharyaⒸ
+Dialogy Marsha P Johnson	1st	Opening Opposition	View Ballot	Tengku OmarⒸ
+WFLA	4th	Closing Government	View Ballot	Tengku OmarⒸ
+CWSDC Hangzhou	2nd	Closing Opposition	View Ballot	Tengku OmarⒸ
+CWSDC Chengdu	3rd	Opening Government	View Ballot	Tengku OmarⒸ
+RAEONNA	3rd	Closing Government	View Ballot	Khac HungⒸ
+Dialogy Ketanji Brown Jackson	2nd	Opening Government	View Ballot	Khac HungⒸ
+CWSDC Harbin	1st	Opening Opposition	View Ballot	Khac HungⒸ
+CWSDC Guangzhou	4th	Closing Opposition	View Ballot	Khac HungⒸ
+JT	4th	Opening Government	View Ballot	Dang Hong AnhⒸ , Thien-Lam NguyenⓉ
+Why so jelice?	3rd	Opening Opposition	View Ballot	Dang Hong AnhⒸ , Thien-Lam NguyenⓉ
+Capstone YZ	1st	Closing Government	View Ballot	Dang Hong AnhⒸ , Thien-Lam NguyenⓉ
+Giant Panda	2nd	Closing Opposition	View Ballot	Dang Hong AnhⒸ , Thien-Lam NguyenⓉ
+FUV 3	1st	Closing Government	View Ballot	Nirali RoutⒸ
+More than less	3rd	Opening Government	View Ballot	Nirali RoutⒸ
+ACJC G	4th	Closing Opposition	View Ballot	Nirali RoutⒸ
+ACJC C	2nd	Opening Opposition	View Ballot	Nirali RoutⒸ
+Tough Love	4th	Opening Government	View Ballot	Priyanka DasⒸ
+FUV 2	1st	Closing Government	View Ballot	Priyanka DasⒸ
+ACJC H	3rd	Closing Opposition	View Ballot	Priyanka DasⒸ
+ACJC E	2nd	Opening Opposition	View Ballot	Priyanka DasⒸ
+ASHS FM	4th	Closing Government	View Ballot	Hadar GoldbergⒸ
+ASHS BB	2nd	Opening Opposition	View Ballot	Hadar GoldbergⒸ
+ASHS BG	1st	Opening Government	View Ballot	Hadar GoldbergⒸ
+ADNU SHS A	3rd	Closing Opposition	View Ballot	Hadar GoldbergⒸ
+FDU 1	1st	Opening Government	View Ballot	V SayiramⒸ , Quynh - Mai Tran
+pretty sexy wangs	4th	Closing Opposition	View Ballot	V SayiramⒸ , Quynh - Mai Tran
+Matcha	2nd	Opening Opposition	View Ballot	V SayiramⒸ , Quynh - Mai Tran
+DoooCccy	3rd	Closing Government	View Ballot	V SayiramⒸ , Quynh - Mai Tran
+Freshgirls	4th	Opening Opposition	View Ballot	Mishaal SaidⒸ , Ogundare Taye Tobi
+HCI Red	1st	Opening Government	View Ballot	Mishaal SaidⒸ , Ogundare Taye Tobi
+OLD six	3rd	Closing Government	View Ballot	Mishaal SaidⒸ , Ogundare Taye Tobi
+Society Incorporated	2nd	Closing Opposition	View Ballot	Mishaal SaidⒸ , Ogundare Taye Tobi
+Nerd &amp; Lunatic	3rd	Opening Opposition	View Ballot	Shudipto AhmedⒸ
+ASHS RV	1st	Opening Government	View Ballot	Shudipto AhmedⒸ
+Dialogy Ida B Wells	2nd	Closing Opposition	View Ballot	Shudipto AhmedⒸ
+The Preramblers	4th	Closing Government	View Ballot	Shudipto AhmedⒸ
+
+
+team	result	side	ballot	adjudicators
+OO	3rd	Opening Government	View Ballot	Noluthando HononoⒸ , Nirali Rout
+ASHS RV	4th	Closing Opposition	View Ballot	Noluthando HononoⒸ , Nirali Rout
+Dialogy Alexandria Ocasio-Cortez	1st	Closing Government	View Ballot	Noluthando HononoⒸ , Nirali Rout
+Dialogy Angela Davis	2nd	Opening Opposition	View Ballot	Noluthando HononoⒸ , Nirali Rout
+Dialogy Fanie Lou Hamer	2nd	Opening Opposition	View Ballot	Paolo Jose TainoⒸ
+KUET 1	3rd	Closing Opposition	View Ballot	Paolo Jose TainoⒸ
+CWSDC Nanjing	4th	Opening Government	View Ballot	Paolo Jose TainoⒸ
+Independent 1	1st	Closing Government	View Ballot	Paolo Jose TainoⒸ
+Dialogy Ketanji Brown Jackson	1st	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ
+Dialogy Assata Shakur	2nd	Opening Government	View Ballot	Vladimira ŠuflajⒸ
+CWSDC Harbin	3rd	Closing Government	View Ballot	Vladimira ŠuflajⒸ
+Nyoot Nyoot	4th	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ
+Zia Hall Debate Club - Dhaka	3rd	Opening Opposition	View Ballot	Tengku OmarⒸ
+FUV 2	4th	Opening Government	View Ballot	Tengku OmarⒸ
+5 foot under	1st	Closing Opposition	View Ballot	Tengku OmarⒸ
+Dialogy Frances Harper	2nd	Closing Government	View Ballot	Tengku OmarⒸ
+Freshgirls	4th	Opening Government	View Ballot	Mishaal SaidⒸ
+FUV 3	3rd	Closing Opposition	View Ballot	Mishaal SaidⒸ
+DAV Engels	1st	Opening Opposition	View Ballot	Mishaal SaidⒸ
+ACJC B	2nd	Closing Government	View Ballot	Mishaal SaidⒸ
+Dialogy Martin Delany	2nd	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+CWSDC Xiamen	3rd	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+CWSDC Ningbo	4th	Closing Government	View Ballot	Ayafa TonyeⒸ
+CWSDC Guangzhou	1st	Opening Government	View Ballot	Ayafa TonyeⒸ
+Aspar	3rd	Closing Opposition	View Ballot	Josef FloredoⒸ
+FUV material girls	4th	Opening Government	View Ballot	Josef FloredoⒸ
+HCI Yellow	2nd	Closing Government	View Ballot	Josef FloredoⒸ
+Independent A	1st	Opening Opposition	View Ballot	Josef FloredoⒸ
+Nerd &amp; Lunatic	1st	Closing Opposition	View Ballot	S. SriramⒸ
+How i learned to stop worrying and	4th	Closing Government	View Ballot	S. SriramⒸ
+The Preramblers	3rd	Opening Government	View Ballot	S. SriramⒸ
+Dua Lipa for President	2nd	Opening Opposition	View Ballot	S. SriramⒸ
+Prep Time Is Nap Time	3rd	Opening Government	View Ballot	Johan LukitoⒸ
+Rehab Brothers	1st	Opening Opposition	View Ballot	Johan LukitoⒸ
+Two decades apart	4th	Closing Opposition	View Ballot	Johan LukitoⒸ
+ADNU SHS A	2nd	Closing Government	View Ballot	Johan LukitoⒸ
+Studying Business Statistics	3rd	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+ASHS AV	1st	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ
+OLD six	2nd	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ
+angry dino doge	4th	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+RAEONNA	3rd	Opening Opposition	View Ballot	Josef MoscoviciⒸ , Thien-Lam Nguyen
+Atma Jaya Catholic University of I	4th	Closing Government	View Ballot	Josef MoscoviciⒸ , Thien-Lam Nguyen
+Dialogy Frederick Douglass	2nd	Opening Government	View Ballot	Josef MoscoviciⒸ , Thien-Lam Nguyen
+CWSDC Shanghai	1st	Closing Opposition	View Ballot	Josef MoscoviciⒸ , Thien-Lam Nguyen
+pretty sexy wangs	4th	Opening Government	View Ballot	Yrein Aquino CanzonⒸ
+DoooCccy	2nd	Closing Opposition	View Ballot	Yrein Aquino CanzonⒸ
+Capstone YZ	3rd	Opening Opposition	View Ballot	Yrein Aquino CanzonⒸ
+Wheels and Doors	1st	Closing Government	View Ballot	Yrein Aquino CanzonⒸ
+Cinnamon roll but could kill you	2nd	Closing Opposition	View Ballot	Shudipto AhmedⒸ , Nguyen Vu Ha My
+Capstone JV	3rd	Closing Government	View Ballot	Shudipto AhmedⒸ , Nguyen Vu Ha My
+WFLA	1st	Opening Opposition	View Ballot	Shudipto AhmedⒸ , Nguyen Vu Ha My
+Composite - Rustbucket and Oldie.	4th	Opening Government	View Ballot	Shudipto AhmedⒸ , Nguyen Vu Ha My
+imdone udon	3rd	Opening Government	View Ballot	Angad Singh ChawlaⒸ
+Fxxking COVID	4th	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ
+doll fin corallation	1st	Closing Government	View Ballot	Angad Singh ChawlaⒸ
+Society Incorporated	2nd	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ
+HCI Red	1st	Closing Government	View Ballot	Srijan PoudelⒸ
+Why are we here	3rd	Opening Opposition	View Ballot	Srijan PoudelⒸ
+Capstone LD	4th	Closing Opposition	View Ballot	Srijan PoudelⒸ
+I mah jong linkbate 7	2nd	Opening Government	View Ballot	Srijan PoudelⒸ
+Thammasat 1	3rd	Closing Government	View Ballot	Hadar GoldbergⒸ , Nguyen Khanh Linh
+Antihistaminas	4th	Closing Opposition	View Ballot	Hadar GoldbergⒸ , Nguyen Khanh Linh
+Dialogy Ida B Wells	1st	Opening Opposition	View Ballot	Hadar GoldbergⒸ , Nguyen Khanh Linh
+Dialogy Frantz Fanon	2nd	Opening Government	View Ballot	Hadar GoldbergⒸ , Nguyen Khanh Linh
+our arguments carry some mg	1st	Opening Opposition	View Ballot	Wuyin “Ethan” FanⒸ
+ACJC D	4th	Closing Opposition	View Ballot	Wuyin “Ethan” FanⒸ
+ACJC E	3rd	Closing Government	View Ballot	Wuyin “Ethan” FanⒸ
+Swing 1	2nd	Opening Government	View Ballot	Wuyin “Ethan” FanⒸ
+ASHS BB	2nd	Closing Opposition	View Ballot	Khac HungⒸ
+Udah Makan Ayam Geprek	1st	Opening Opposition	View Ballot	Khac HungⒸ
+Slaaayy	4th	Closing Government	View Ballot	Khac HungⒸ
+CWSDC Shenzhen	3rd	Opening Government	View Ballot	Khac HungⒸ
+Blueberry Your Highness	2nd	Opening Government	View Ballot	Sam ShneorⒸ
+ACJC H	1st	Opening Opposition	View Ballot	Sam ShneorⒸ
+ACJC C	4th	Closing Opposition	View Ballot	Sam ShneorⒸ
+Swing 3	3rd	Closing Government	View Ballot	Sam ShneorⒸ
+Dialogy Bram Fischer	2nd	Closing Opposition	View Ballot	Jeremiah EdagbamiⒸ
+Dialogy Marsha P Johnson	4th	Opening Government	View Ballot	Jeremiah EdagbamiⒸ
+Dialogy Benazir Butto	1st	Opening Opposition	View Ballot	Jeremiah EdagbamiⒸ
+CWSDC Beijing	3rd	Closing Government	View Ballot	Jeremiah EdagbamiⒸ
+FDU 1	2nd	Opening Opposition	View Ballot	Abhishek AcharyaⒸ
+Lay Flat	3rd	Closing Government	View Ballot	Abhishek AcharyaⒸ
+DAV Marx	1st	Closing Opposition	View Ballot	Abhishek AcharyaⒸ
+Insomnia Fest	4th	Opening Government	View Ballot	Abhishek AcharyaⒸ
+ASHS BG	2nd	Closing Opposition	View Ballot	Nayara NoorⒸ , Tram Nguyen Ngoc Bao
+NUS	1st	Opening Government	View Ballot	Nayara NoorⒸ , Tram Nguyen Ngoc Bao
+CWSDC Hangzhou	3rd	Closing Government	View Ballot	Nayara NoorⒸ , Tram Nguyen Ngoc Bao
+CWSDC Chengdu	4th	Opening Opposition	View Ballot	Nayara NoorⒸ , Tram Nguyen Ngoc Bao
+Johnouchi	2nd	Closing Opposition	View Ballot	Peli MeirⒸ
+Sleep-deprived	3rd	Closing Government	View Ballot	Peli MeirⒸ
+Homebody	4th	Opening Government	View Ballot	Peli MeirⒸ
+ACJC G	1st	Opening Opposition	View Ballot	Peli MeirⒸ
+HG A: Deejelicious - this is why you 	1st	Opening Opposition	View Ballot	Priyanka DasⒸ
+Capstone PA	2nd	Closing Opposition	View Ballot	Priyanka DasⒸ
+ACJC F	3rd	Opening Government	View Ballot	Priyanka DasⒸ
+Giant Panda	4th	Closing Government	View Ballot	Priyanka DasⒸ
+Tough Love	3rd	Closing Government	View Ballot	Quynh - Mai TranⒸ
+JT	1st	Closing Opposition	View Ballot	Quynh - Mai TranⒸ
+More than less	4th	Opening Opposition	View Ballot	Quynh - Mai TranⒸ
+Why so jelice?	2nd	Opening Government	View Ballot	Quynh - Mai TranⒸ
+ASHS FM	1st	Opening Government	View Ballot	Manal AfzalⒸ
+Isaac come save us	3rd	Closing Opposition	View Ballot	Manal AfzalⒸ
+Organised Chaos	4th	Opening Opposition	View Ballot	Manal AfzalⒸ
+ACJC A	2nd	Closing Government	View Ballot	Manal AfzalⒸ
+ASHS HL	3rd	Opening Opposition	View Ballot	Ogundare Taye TobiⒸ
+Matcha	4th	Closing Government	View Ballot	Ogundare Taye TobiⒸ
+We both quit League of Legends	1st	Opening Government	View Ballot	Ogundare Taye TobiⒸ
+Dialogy Harriet Tubman	2nd	Closing Opposition	View Ballot	Ogundare Taye TobiⒸ
+
+
+team	result	side	adjudicators
+ASHS BB	advancing	Closing Opposition	S. SriramⒸ , Marco Giorgione Dava , Ogundare Taye Tobi
+CWSDC Beijing	eliminated	Opening Opposition	S. SriramⒸ , Marco Giorgione Dava , Ogundare Taye Tobi
+CWSDC Shenzhen	eliminated	Closing Government	S. SriramⒸ , Marco Giorgione Dava , Ogundare Taye Tobi
+Independent A	advancing	Opening Government	S. SriramⒸ , Marco Giorgione Dava , Ogundare Taye Tobi
+ASHS BG	eliminated	Opening Opposition	Anum NasserⒸ , Angad Singh Chawla , Josef Floredo
+Dialogy Martin Delany	advancing	Closing Opposition	Anum NasserⒸ , Angad Singh Chawla , Josef Floredo
+Dialogy Alexandria Ocasio-Cortez	eliminated	Closing Government	Anum NasserⒸ , Angad Singh Chawla , Josef Floredo
+Independent 1	advancing	Opening Government	Anum NasserⒸ , Angad Singh Chawla , Josef Floredo
+Rehab Brothers	eliminated	Opening Government	Ruth Selorme AcolatseⒸ , Abhishek Acharya , Khac Hung
+Udah Makan Ayam Geprek	advancing	Opening Opposition	Ruth Selorme AcolatseⒸ , Abhishek Acharya , Khac Hung
+Dialogy Marsha P Johnson	advancing	Closing Opposition	Ruth Selorme AcolatseⒸ , Abhishek Acharya , Khac Hung
+CWSDC Xiamen	eliminated	Closing Government	Ruth Selorme AcolatseⒸ , Abhishek Acharya , Khac Hung
+Atma Jaya Catholic University of I	eliminated	Closing Opposition	Beatrice CuizonⒸ , Srijan Poudel , Thien-Lam Nguyen
+Dialogy Ida B Wells	eliminated	Closing Government	Beatrice CuizonⒸ , Srijan Poudel , Thien-Lam Nguyen
+CWSDC Hangzhou	advancing	Opening Government	Beatrice CuizonⒸ , Srijan Poudel , Thien-Lam Nguyen
+Nyoot Nyoot	advancing	Opening Opposition	Beatrice CuizonⒸ , Srijan Poudel , Thien-Lam Nguyen
+
+
+team	result	side	adjudicators
+ASHS BB	eliminated	Closing Opposition	Houymean LimⒸ , Jeremiah Edagbami , Shudipto Ahmed
+CWSDC Harbin	eliminated	Opening Government	Houymean LimⒸ , Jeremiah Edagbami , Shudipto Ahmed
+CWSDC Shanghai	advancing	Opening Opposition	Houymean LimⒸ , Jeremiah Edagbami , Shudipto Ahmed
+Independent A	advancing	Closing Government	Houymean LimⒸ , Jeremiah Edagbami , Shudipto Ahmed
+Dialogy Bram Fischer	eliminated	Closing Government	Srijan PoudelⒸ , Beatrice Cuizon , Priyanka Das
+Dialogy Martin Delany	eliminated	Closing Opposition	Srijan PoudelⒸ , Beatrice Cuizon , Priyanka Das
+Dialogy Assata Shakur	advancing	Opening Government	Srijan PoudelⒸ , Beatrice Cuizon , Priyanka Das
+Independent 1	advancing	Opening Opposition	Srijan PoudelⒸ , Beatrice Cuizon , Priyanka Das
+Dialogy Frederick Douglass	advancing	Closing Government	Khac HungⒸ , Ayafa Tonye , Vladimira Šuflaj
+Dialogy Benazir Butto	eliminated	Opening Opposition	Khac HungⒸ , Ayafa Tonye , Vladimira Šuflaj
+CWSDC Hangzhou	eliminated	Opening Government	Khac HungⒸ , Ayafa Tonye , Vladimira Šuflaj
+Nyoot Nyoot	advancing	Closing Opposition	Khac HungⒸ , Ayafa Tonye , Vladimira Šuflaj
+Udah Makan Ayam Geprek	eliminated	Closing Government	Abhishek AcharyaⒸ , Johan Lukito , Tengku Omar
+Dialogy Ketanji Brown Jackson	advancing	Closing Opposition	Abhishek AcharyaⒸ , Johan Lukito , Tengku Omar
+Dialogy Marsha P Johnson	eliminated	Opening Government	Abhishek AcharyaⒸ , Johan Lukito , Tengku Omar
+CWSDC Guangzhou	advancing	Opening Opposition	Abhishek AcharyaⒸ , Johan Lukito , Tengku Omar
+
+
+team	result	side	adjudicators
+Dialogy Assata Shakur	advancing	Opening Government	S. SriramⒸ , Anum Nasser , Jeremiah Edagbami , Khac Hung , Shudipto Ahmed
+CWSDC Shanghai	eliminated	Opening Opposition	S. SriramⒸ , Anum Nasser , Jeremiah Edagbami , Khac Hung , Shudipto Ahmed
+Independent A	advancing	Closing Opposition	S. SriramⒸ , Anum Nasser , Jeremiah Edagbami , Khac Hung , Shudipto Ahmed
+Independent 1	eliminated	Closing Government	S. SriramⒸ , Anum Nasser , Jeremiah Edagbami , Khac Hung , Shudipto Ahmed
+Dialogy Frederick Douglass	advancing	Opening Government	Tengku OmarⒸ , Abhishek Acharya , Ayafa Tonye , Nayara Noor , Vladimira Šuflaj
+Dialogy Ketanji Brown Jackson	eliminated	Closing Government	Tengku OmarⒸ , Abhishek Acharya , Ayafa Tonye , Nayara Noor , Vladimira Šuflaj
+CWSDC Guangzhou	advancing	Closing Opposition	Tengku OmarⒸ , Abhishek Acharya , Ayafa Tonye , Nayara Noor , Vladimira Šuflaj
+Nyoot Nyoot	eliminated	Opening Opposition	Tengku OmarⒸ , Abhishek Acharya , Ayafa Tonye , Nayara Noor , Vladimira Šuflaj
+
+
+team	result	side	adjudicators
+Dialogy Frederick Douglass	eliminated	Opening Government	Tengku OmarⒸ , Anum Nasser , Jeremiah Edagbami , Paolo Jose Taino , S. Sriram
+Dialogy Assata Shakur	advancing	Closing Government	Tengku OmarⒸ , Anum Nasser , Jeremiah Edagbami , Paolo Jose Taino , S. Sriram
+CWSDC Guangzhou	eliminated	Opening Opposition	Tengku OmarⒸ , Anum Nasser , Jeremiah Edagbami , Paolo Jose Taino , S. Sriram
+Independent A	eliminated	Closing Opposition	Tengku OmarⒸ , Anum Nasser , Jeremiah Edagbami , Paolo Jose Taino , S. Sriram
+
+
+team	result	side	adjudicators
+FDU 1	eliminated	Closing Opposition	Paolo Jose TainoⒸ , Manal Afzal , Mishaal Said
+DAV Engels	advancing	Opening Opposition	Paolo Jose TainoⒸ , Manal Afzal , Mishaal Said
+Thammasat 1	advancing	Closing Government	Paolo Jose TainoⒸ , Manal Afzal , Mishaal Said
+Two decades apart	eliminated	Opening Government	Paolo Jose TainoⒸ , Manal Afzal , Mishaal Said
+Nerd &amp; Lunatic	advancing	Closing Government	Apratim ShrivastavⒸ , Josef Floredo , Ruth Selorme Acolatse
+KUET 1	eliminated	Opening Government	Apratim ShrivastavⒸ , Josef Floredo , Ruth Selorme Acolatse
+Dua Lipa for President	advancing	Closing Opposition	Apratim ShrivastavⒸ , Josef Floredo , Ruth Selorme Acolatse
+Composite - Rustbucket and Oldie.	eliminated	Opening Opposition	Apratim ShrivastavⒸ , Josef Floredo , Ruth Selorme Acolatse
+
+
+team	result	side	adjudicators
+Nerd &amp; Lunatic	advancing	Opening Government	Vladimira ŠuflajⒸ , Johan Lukito , Khac Hung , Marco Giorgione Dava
+DAV Engels	eliminated	Opening Opposition	Vladimira ŠuflajⒸ , Johan Lukito , Khac Hung , Marco Giorgione Dava
+Thammasat 1	eliminated	Closing Opposition	Vladimira ŠuflajⒸ , Johan Lukito , Khac Hung , Marco Giorgione Dava
+Dua Lipa for President	eliminated	Closing Government	Vladimira ŠuflajⒸ , Johan Lukito , Khac Hung , Marco Giorgione Dava
+
+
+team	result	side	adjudicators
+ASHS FM	eliminated	Opening Government	Manal AfzalⒸ , Paolo Jose Taino , V Sayiram
+HCI Yellow	eliminated	Closing Opposition	Manal AfzalⒸ , Paolo Jose Taino , V Sayiram
+ADNU SHS A	advancing	Closing Government	Manal AfzalⒸ , Paolo Jose Taino , V Sayiram
+WFLA	advancing	Opening Opposition	Manal AfzalⒸ , Paolo Jose Taino , V Sayiram
+RAEONNA	advancing	Opening Opposition	Johan LukitoⒸ , Sam Shneor , Yrein Aquino Canzon
+HCI Red	eliminated	Closing Government	Johan LukitoⒸ , Sam Shneor , Yrein Aquino Canzon
+Dialogy Frantz Fanon	eliminated	Opening Government	Johan LukitoⒸ , Sam Shneor , Yrein Aquino Canzon
+I mah jong linkbate 7	advancing	Closing Opposition	Johan LukitoⒸ , Sam Shneor , Yrein Aquino Canzon
+
+
+team	result	side	adjudicators
+RAEONNA	eliminated	Closing Opposition	Nayara NoorⒸ , Anum Nasser , Mishaal Said , Paolo Jose Taino , Ruth Selorme Acolatse
+ADNU SHS A	advancing	Opening Government	Nayara NoorⒸ , Anum Nasser , Mishaal Said , Paolo Jose Taino , Ruth Selorme Acolatse
+WFLA	eliminated	Closing Government	Nayara NoorⒸ , Anum Nasser , Mishaal Said , Paolo Jose Taino , Ruth Selorme Acolatse
+I mah jong linkbate 7	eliminated	Opening Opposition	Nayara NoorⒸ , Anum Nasser , Mishaal Said , Paolo Jose Taino , Ruth Selorme Acolatse
+

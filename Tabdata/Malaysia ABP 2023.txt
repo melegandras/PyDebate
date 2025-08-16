@@ -1,0 +1,778 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	R6	Pts	Spk	1sts	2nds	Irons
+1	UP Diliman 1		1st	1st	1st	1st	1st	1st	18	978	6	0	0
+2	SUN 1		1st	2nd	2nd	1st	2nd	1st	15	965	3	3	0
+3	IITB 1		2nd	1st	1st	3rd	1st	2nd	14	948	3	2	0
+4	Ateneo De Manila 1		1st	1st	1st	2nd	3rd	3rd	13	961	3	1	0
+5	NTU 1		1st	3rd	2nd	2nd	2nd	1st	13	957	2	3	0
+6	HUFS 1	EFL	1st	3rd	3rd	1st	1st	2nd	13	954	3	1	0
+7	MYSORE 1		1st	1st	4th	1st	2nd	2nd	13	953	3	2	0
+8	UP Diliman 2		2nd	2nd	1st	3rd	2nd	1st	13	939	2	3	0
+9	NUS 1		1st	2nd	1st	3rd	1st	4th	12	960	3	1	0
+10	NUS 2		2nd	1st	2nd	1st	4th	2nd	12	949	2	3	0
+11	UT MARA 1		1st	1st	2nd	4th	3rd	1st	12	947	3	1	0
+12	IUB 1		1st	1st	3rd	2nd	2nd	3rd	12	942	2	2	0
+13	UT MARA 3		1st	4th	3rd	1st	2nd	1st	12	937	3	1	0
+14	Ateneo De Manila 3		1st	2nd	2nd	4th	1st	2nd	12	937	2	3	0
+15	BINUS 1	EFL	1st	4th	1st	4th	1st	1st	12	931	4	0	0
+16	Ateneo De Manila 2		2nd	3rd	1st	2nd	3rd	2nd	11	945	1	3	0
+17	NUS 3		2nd	2nd	4th	2nd	2nd	1st	11	938	1	4	0
+18	UP Diliman 4		2nd	3rd	2nd	2nd	1st	3rd	11	938	1	3	0
+19	SLSP 2		2nd	1st	4th	1st	1st	4th	11	933	3	1	0
+20	SNU 1		1st	2nd	3rd	1st	3rd	3rd	11	931	2	1	0
+21	DLSU 5		3rd	3rd	1st	3rd	2nd	1st	11	929	2	1	0
+22	DAV 1	EFL	2nd	2nd	4th	1st	2nd	2nd	11	927	1	4	0
+23	PKU 1	EFL	3rd	1st	1st	2nd	4th	3rd	10	946	2	1	0
+24	Malaya 1		2nd	1st	3rd	2nd	4th	2nd	10	943	1	3	0
+25	DLSU 1		1st	2nd	4th	1st	2nd	4th	10	938	2	2	0
+26	Ateneo De Manila 4		3rd	2nd	1st	1st	3rd	4th	10	932	2	1	0
+27	Gadjah Mada 1	EFL	4th	1st	4th	3rd	1st	1st	10	929	3	0	0
+28	UT MARA 2		2nd	4th	1st	3rd	3rd	1st	10	923	2	1	0
+29	DLSU 2		3rd	2nd	1st	2nd	4th	2nd	10	923	1	3	0
+30	UNITEN 1		3rd	2nd	2nd	2nd	1st	4th	10	922	1	3	0
+31	Ateneo De Manila 6		3rd	1st	2nd	4th	1st	3rd	10	921	2	1	0
+32	IT Bandung 1	EFL	2nd	3rd	4th	1st	3rd	1st	10	918	2	1	0
+33	BAC 2		3rd	4th	2nd	1st	2nd	2nd	10	913	1	3	0
+34	UI 2	EFL	3rd	4th	3rd	2nd	1st	1st	10	911	2	1	0
+35	UP Diliman 3		1st	4th	1st	3rd	3rd	3rd	9	938	2	0	0
+36	DLSU 4		1st	4th	1st	3rd	4th	2nd	9	937	2	1	0
+37	Ateneo De Manila 5		2nd	1st	3rd	4th	2nd	3rd	9	933	1	2	0
+38	UPLB 1		3rd	3rd	2nd	2nd	1st	4th	9	924	1	2	0
+39	AJCUI 1	EFL	2nd	3rd	3rd	3rd	1st	3rd	9	924	1	1	0
+40	MMU 1		2nd	2nd	4th	3rd	2nd	2nd	9	924	0	4	0
+41	UMAC 1		3rd	3rd	1st	4th	1st	3rd	9	921	2	0	0
+42	UP Diliman 5		4th	1st	3rd	2nd	1st	4th	9	920	2	1	0
+43	CUHK 1		3rd	3rd	3rd	1st	4th	1st	9	913	2	0	0
+44	UP Diliman 6		3rd	4th	1st	4th	2nd	1st	9	897	2	1	0
+45	UP Diliman 7		1st	3rd	2nd	4th	3rd	3rd	8	931	1	1	0
+46	SUN 2		1st	3rd	1st	4th	3rd	4th	8	926	2	0	0
+47	UT MARA 4		4th	1st	2nd	3rd	4th	2nd	8	923	1	2	0
+48	BAC 1		2nd	2nd	3rd	4th	4th	1st	8	922	1	2	0
+49	DLSU 3		1st	4th	2nd	1st	4th	4th	8	916	2	1	0
+50	UMAC 3		3rd	1st	3rd	4th	2nd	3rd	8	915	1	1	0
+51	KDS 1	EFL	3rd	2nd	4th	2nd	3rd	2nd	8	910	0	3	0
+52	IIUM 2		2nd	3rd	4th	4th	1st	2nd	8	902	1	2	0
+53	SLSP 1		3rd	2nd	2nd	3rd	3rd	4th	7	920	0	2	0
+54	UT MARA 5		4th	2nd	4th	1st	3rd	3rd	7	914	1	1	0
+55	Swing 1		3rd	4th	2nd	3rd	4th	1st	7	913	1	1	0
+56	NUS 4		3rd	3rd	4th	2nd	4th	1st	7	912	1	1	0
+57=	IIUM 1		4th	1st	3rd	1st	4th	4th	7	911	2	0	0
+57=	CUHK 2	EFL	4th	4th	1st	3rd	1st	4th	7	911	2	0	0
+59	UI 1	EFL	2nd	4th	2nd	3rd	4th	2nd	7	911	0	3	0
+60	SLSP 3		2nd	3rd	3rd	2nd	4th	3rd	7	904	0	2	0
+61	SUFE 1	EFL	4th	1st	4th	2nd	4th	2nd	7	895	1	2	0
+62	ChU 1		2nd	4th	4th	1st	3rd	4th	6	914	1	1	0
+63	NTU 2		3rd	1st	4th	4th	3rd	3rd	6	911	1	0	0
+64	RMIT 1		3rd	4th	3rd	3rd	4th	1st	6	909	1	0	0
+65=	NJU 1	EFL	4th	2nd	3rd	3rd	2nd	4th	6	907	0	2	0
+65=	Yale-NUS 1		4th	2nd	3rd	4th	2nd	3rd	6	907	0	2	0
+67	SUN 3		4th	3rd	4th	1st	2nd	4th	6	902	1	1	1
+68	WU 1	EFL	4th	4th	4th	4th	1st	2nd	5	910	1	1	0
+69	UMAC 2		4th	3rd	2nd	4th	3rd	3rd	5	898	0	1	0
+70	MUIC 2	EFL	4th	4th	1st	2nd	4th	4th	5	895	1	1	0
+71	DAV 2	EFL	4th	4th	3rd	3rd	3rd	2nd	5	892	0	1	0
+72	IIUM 3		4th	4th	2nd	4th	2nd	3rd	5	887	0	2	0
+73	MUIC 1		4th	2nd	4th	4th	3rd	3rd	4	889	0	1	0
+74	Swing 2		4th	3rd	2nd	4th	3rd	4th	4	881	0	1	0
+75	SUFE 2	EFL	4th	3rd	3rd	3rd	4th	4th	3	883	0	0	0
+76	UMAC 4		4th	4th	4th	2nd	4th	4th	2	885	0	1	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	R6	Total	Avg	Stdev
+1=	Luigi Alcañeses		UP Diliman 1	80	81	81	83	83	81	489	81.50	1.12
+1=	Bea Legaspi		UP Diliman 1	82	81	80	84	82	80	489	81.50	1.38
+3	Shireen Ali		SUN 1	81	80	81	82	82	81	487	81.17	0.69
+4=	Cavan		NUS 1	79	82	81	80	81	78	481	80.17	1.34
+4=	Beatrice Cuizon		Ateneo De Manila 1	80	81	80	82	79	79	481	80.17	1.07
+6	Rivaldo Aquino		Ateneo De Manila 1	79	82	81	80	79	79	480	80.00	1.15
+7=	Lois Naomi Ang		NUS 1	79	80	81	80	81	78	479	79.83	1.07
+7=	Ha Duy Thanh		NTU 1	79	80	82	80	78	80	479	79.83	1.21
+7=	Youngwoo Park	EFL	HUFS 1	80	79	80	81	80	79	479	79.83	0.69
+10=	Raymond Kimura		SUN 1	80	79	79	81	80	79	478	79.67	0.75
+10=	Wayne Lim		NTU 1	80	78	82	79	78	81	478	79.67	1.49
+12	Abhishek Acharya		MYSORE 1	81	81	77	81	78	79	477	79.50	1.61
+13=	Ian Dylan Chai		NUS 2	79	80	80	82	77	78	476	79.33	1.60
+13=	Ricky Jin	EFL	PKU 1	77	81	83	81	77	77	476	79.33	2.43
+13=	Shaurya Chandravanshi		MYSORE 1	80	80	77	80	79	80	476	79.33	1.11
+16=	Azim Nadzari		UT MARA 1	78	83	79	80	78	77	475	79.17	1.95
+16=	Haeseong Pyun	EFL	HUFS 1	79	79	79	79	80	79	475	79.17	0.37
+16=	Nayantara		IITB 1	77	78	79	81	80	80	475	79.17	1.34
+19	Aly Barranda		Ateneo De Manila 2	79	78	80	78	79	80	474	79.00	0.82
+20=	Chen Beiqi		NUS 2	78	79	81	80	78	77	473	78.83	1.34
+20=	Sharun		IITB 1	77	79	79	80	79	79	473	78.83	0.90
+20=	Kuhan Karttikeyn		Malaya 1	79	78	80	80	76	80	473	78.83	1.46
+23=	Megha Rahman		IUB 1	77	80	79	79	78	79	472	78.67	0.94
+23=	Syakir		UT MARA 1	77	80	80	79	77	79	472	78.67	1.25
+25=	Riva Fong		Ateneo De Manila 2	78	78	80	77	79	79	471	78.50	0.96
+25=	Kenny Alunan		DLSU 1	78	80	78	80	79	76	471	78.50	1.38
+25=	Jaed Bengzon		UP Diliman 4	77	78	79	80	79	78	471	78.50	0.96
+28=	Justin Tay		NUS 3	79	78	79	77	76	81	470	78.33	1.60
+28=	Sreyan Kanungo		IUB 1	77	81	77	79	78	78	470	78.33	1.37
+28=	Pao Taino		Ateneo De Manila 3	79	80	78	78	78	77	470	78.33	0.94
+28=	Haikal Daniel		UT MARA 3	80	78	78	79	78	77	470	78.33	0.94
+28=	Ray Wang	EFL	PKU 1	76	79	82	81	76	76	470	78.33	2.49
+28=	Luis Garcia		UP Diliman 2	79	79	79	79	76	78	470	78.33	1.11
+28=	Gabrielle Pacaño		UP Diliman 3	79	78	82	77	77	77	470	78.33	1.80
+28=	Ahsan		Malaya 1	78	79	78	79	76	80	470	78.33	1.25
+36=	Xanthipi Pontejos		DLSU 4	79	77	79	78	78	78	469	78.17	0.69
+36=	David Mencias		UP Diliman 2	79	78	78	78	77	79	469	78.17	0.69
+38=	Rei Ya		NUS 3	78	76	79	78	77	80	468	78.00	1.29
+38=	Mezen Lababidi		DLSU 4	79	76	79	78	77	79	468	78.00	1.15
+38=	Neil De Jesus		UP Diliman 7	78	78	81	77	76	78	468	78.00	1.53
+38=	Sarah Gatmen		UP Diliman 3	78	78	81	77	77	77	468	78.00	1.41
+42=	Dohyun Kim		SNU 1	77	80	78	81	76	75	467	77.83	2.11
+42=	Alyssa Jessica G. Salazar		Ateneo De Manila 5	76	79	78	78	79	77	467	77.83	1.07
+42=	Kyle Go		Ateneo De Manila 3	79	79	78	77	78	76	467	77.83	1.07
+42=	Sarah Aston		UT MARA 3	80	79	75	78	77	78	467	77.83	1.57
+42=	Bobby Ongkojoyo	EFL	BINUS 1	78	77	77	74	81	80	467	77.83	2.27
+42=	Gaurangi Pande		SLSP 2	78	79	77	77	79	77	467	77.83	0.90
+42=	Kimberly Lopez		DLSU 1	78	79	77	78	80	75	467	77.83	1.57
+42=	Jonathan Tuliao		UP Diliman 4	77	77	80	78	78	77	467	77.83	1.07
+50=	David Benjamin W. Bejarin		Ateneo De Manila 5	76	80	78	77	79	76	466	77.67	1.49
+50=	Alexandra Ypil		Ateneo De Manila 4	77	78	77	79	78	77	466	77.67	0.75
+50=	Terena Ines Neri		Ateneo De Manila 4	78	77	79	79	77	76	466	77.67	1.11
+50=	Aradom Belai		SLSP 2	77	79	76	79	78	77	466	77.67	1.11
+54=	Christopher Lau		MMU 1	77	78	79	76	77	78	465	77.50	0.96
+54=	Ngô Minh Kiên (Jack)	EFL	DAV 1	77	78	77	78	78	77	465	77.50	0.50
+54=	Daniel Christopher Haduca		DLSU 5	78	79	78	75	77	78	465	77.50	1.26
+54=	Reinhart Timothy Antonio Siregar	EFL	Gadjah Mada 1	75	78	78	76	78	80	465	77.50	1.61
+58=	Sunghyun Park	EFL	SNU 1	78	80	77	80	75	74	464	77.33	2.29
+58=	Alysha Rendi		UT MARA 4	78	77	78	77	77	77	464	77.33	0.47
+58=	Batara Mulya	EFL	BINUS 1	77	77	76	75	79	80	464	77.33	1.70
+58=	Lorine David		DLSU 5	78	79	77	75	77	78	464	77.33	1.25
+58=	Terre Thierry Timothy	EFL	Gadjah Mada 1	75	77	78	76	78	80	464	77.33	1.60
+63=	Ben Nadzmier Bensali		UPLB 1	76	77	77	79	78	76	463	77.17	1.07
+63=	Lim Eu Xuan		SUN 2	78	79	80	75	73	78	463	77.17	2.41
+63=	Ong Sue Pei		SUN 2	78	79	81	74	73	78	463	77.17	2.79
+63=	Dev		UNITEN 1	77	80	78	76	78	74	463	77.17	1.86
+63=	Donner Tang		UMAC 1	78	76	78	75	78	78	463	77.17	1.21
+63=	Kyle Louis Ramos		UP Diliman 7	77	78	79	75	76	78	463	77.17	1.34
+69=	Vũ Đức Hùng (Allen)	EFL	DAV 1	77	78	76	77	77	77	462	77.00	0.58
+69=	Adam Hafiz		UT MARA 2	79	72	79	79	74	79	462	77.00	2.89
+69=	Vinay Tekani	EFL	AJCUI 1	78	78	75	73	80	78	462	77.00	2.31
+69=	Angellia Giovanni	EFL	AJCUI 1	77	77	76	72	81	79	462	77.00	2.77
+69=	Daniela Jacinto		DLSU 2	77	79	79	76	74	77	462	77.00	1.73
+69=	Jaime Castro		UP Diliman 5	74	80	79	76	77	76	462	77.00	2.00
+75=	Francis Vendiola		UPLB 1	76	77	77	77	78	76	461	76.83	0.69
+75=	Adriane Zen Yu Tiangco		Ateneo De Manila 6	75	78	76	77	79	76	461	76.83	1.34
+75=	Aisyah		UT MARA 2	78	73	78	78	75	79	461	76.83	2.11
+75=	Chris Chua		BAC 1	78	78	79	77	74	75	461	76.83	1.77
+75=	Cyril Joachim (CJ)		BAC 1	76	78	80	77	75	75	461	76.83	1.77
+75=	Desher Empeño		DLSU 2	78	79	77	76	73	78	461	76.83	1.95
+81=	Johann Ricci B. Bernardo		Ateneo De Manila 6	74	78	77	77	78	76	460	76.67	1.37
+81=	Sompoom Sunpaweravong (Sam)	EFL	ChU 1	79	76	76	78	78	73	460	76.67	1.97
+81=	Marvin Tandy	EFL	IT Bandung 1	77	76	75	78	75	79	460	76.67	1.49
+81=	Taera Singh		SLSP 1	76	78	75	79	77	75	460	76.67	1.49
+81=	Jessica Das		SLSP 1	76	78	75	78	78	75	460	76.67	1.37
+81=	ZHANG KAI		UMAC 3	76	77	77	74	79	77	460	76.67	1.49
+87=	Pavit Coran		MMU 1	76	78	78	75	76	76	459	76.50	1.12
+87=	Ihsanuddin		UT MARA 4	76	77	77	75	77	77	459	76.50	0.76
+87=	Muiz		UNITEN 1	74	79	77	76	79	74	459	76.50	2.06
+87=	Charles Wong		CUHK 1	76	77	77	78	75	76	459	76.50	0.96
+87=	Rizky Ananda	EFL	UI 2	75	75	75	78	77	79	459	76.50	1.61
+87=	Kimberly Roselind	EFL	UI 1	77	75	78	76	75	78	459	76.50	1.26
+87=	Chloe Fu		BAC 2	76	75	76	78	75	79	459	76.50	1.50
+87=	Jill Aycardo		DLSU 3	78	78	78	78	71	76	459	76.50	2.57
+95=	Syafiq Razak		UT MARA 5	77	76	74	78	76	77	458	76.33	1.25
+95=	Leonardus Hans Sebastian	EFL	IT Bandung 1	76	77	76	77	74	78	458	76.33	1.25
+95=	Keith Wong	EFL	CUHK 2	75	74	78	76	77	78	458	76.33	1.49
+95=	Lynnette Pang	EFL	UMAC 1	77	75	77	75	77	77	458	76.33	0.94
+95=	Matcha Cual		UP Diliman 5	74	79	79	75	75	76	458	76.33	1.97
+100=	Ayaka Chigasaki	EFL	WU 1	76	76	75	75	78	77	457	76.17	1.07
+100=	Taichi Fukami	EFL	KDS 1	76	77	74	77	76	77	457	76.17	1.07
+100=	Therese Genota		DLSU 3	78	78	77	77	72	75	457	76.17	2.11
+100=	Speaker 1		Swing 1	77	76	76	75	76	77	457	76.17	0.69
+104=	Fattah		IIUM 1	75	77	75	76	77	76	456	76.00	0.82
+104=	Ashley Wee Siying		NUS 4	76	76	76	76	74	78	456	76.00	1.15
+104=	Lisa Lim Yu Qi		NUS 4	77	75	75	76	74	79	456	76.00	1.63
+104=	James Mario Figo	EFL	NTU 2	77	78	74	76	75	76	456	76.00	1.29
+104=	Hazreel Haqim		UT MARA 5	76	76	74	78	76	76	456	76.00	1.15
+104=	Anthony Hoang		RMIT 1	77	76	76	76	75	76	456	76.00	0.58
+104=	Speaker 2		Swing 1	77	76	76	75	75	77	456	76.00	0.82
+111=	Anas Zaharim		IIUM 1	76	76	74	77	76	76	455	75.83	0.90
+111=	Lee Yi Zhi		NTU 2	76	79	76	74	74	76	455	75.83	1.67
+111=	Renee Xu	EFL	NJU 1	75	77	76	76	76	75	455	75.83	0.69
+111=	Cheong Chi I		UMAC 3	75	77	75	72	80	76	455	75.83	2.41
+115=	Aryan Shrestha		ChU 1	78	75	74	77	78	72	454	75.67	2.21
+115=	Chloe Loo		CUHK 1	74	77	76	77	75	75	454	75.67	1.11
+115=	Celine Lee Ka Leen		Yale-NUS 1	72	76	76	75	78	77	454	75.67	1.89
+115=	Megan Chan		BAC 2	76	74	75	77	75	77	454	75.67	1.11
+119=	Hikari Takeuchi	EFL	WU 1	76	75	75	74	77	76	453	75.50	0.96
+119=	Atifa		IIUM 2	76	75	73	76	78	75	453	75.50	1.50
+119=	Nanako Kubota	EFL	KDS 1	76	76	74	76	75	76	453	75.50	0.76
+119=	Ana Chi Pham		RMIT 1	75	76	76	77	74	75	453	75.50	0.96
+119=	Happy Ng	EFL	CUHK 2	75	74	77	75	75	77	453	75.50	1.12
+119=	Ericka Wu Liang		Yale-NUS 1	72	76	76	75	77	77	453	75.50	1.71
+125=	An Yao	EFL	NJU 1	74	76	75	76	75	76	452	75.33	0.75
+125=	Srijit Talukdar		SLSP 3	79	76	74	76	74	73	452	75.33	1.97
+125=	Garv Chawla		SLSP 3	78	76	74	77	74	73	452	75.33	1.80
+125=	Ran	EFL	UI 2	74	74	75	76	76	77	452	75.33	1.11
+125=	Cecilia Tiara Liong	EFL	UI 1	74	75	77	75	73	78	452	75.33	1.70
+130=	Calvin		SUN 3	76	75	70	77	78	75	451	75.17	2.54
+130=	Ibrahim O Dawoodjee	EFL	MUIC 2	74	71	76	77	77	76	451	75.17	2.11
+132	Dinh Tran Phuong Linh (Evelyn)	EFL	DAV 2	75	74	73	76	77	75	450	75.00	1.29
+133=	Munirah		IIUM 2	74	75	73	75	78	74	449	74.83	1.57
+133=	CHEANG CHI IAN		UMAC 2	71	76	76	75	76	75	449	74.83	1.77
+133=	Kevin	EFL	UMAC 2	70	76	77	74	76	76	449	74.83	2.34
+133=	Gabriel Quial Ordoñez		UP Diliman 6	72	76	76	72	75	78	449	74.83	2.19
+133=	Daniel Qiyang Huang	EFL	SUFE 1	76	74	74	77	74	74	449	74.83	1.21
+138	Issa Roque		UP Diliman 6	71	76	75	72	76	78	448	74.67	2.43
+139	Philippa Guo	EFL	SUFE 1	75	73	73	76	74	75	446	74.33	1.11
+140=	Haadiyah		IIUM 3	74	73	75	75	77	71	445	74.17	1.86
+140=	Sumit Sachdev		MUIC 1	75	73	74	75	75	73	445	74.17	0.90
+142=	Sam	EFL	MUIC 2	73	71	73	77	76	74	444	74.00	2.00
+142=	Gift		MUIC 1	74	72	74	75	76	73	444	74.00	1.29
+144	Jasmine		UMAC 4	74	74	72	76	75	72	443	73.83	1.46
+145=	Maruf	EFL	IIUM 3	74	73	72	74	76	73	442	73.67	1.25
+145=	Pham Thanh Hung (Richard)	EFL	DAV 2	74	73	72	74	75	74	442	73.67	0.94
+145=	Omar		UMAC 4	74	73	72	76	75	72	442	73.67	1.49
+145=	Renee Ruohan Zhuang	EFL	SUFE 2	75	75	70	75	73	74	442	73.67	1.80
+145=	Speaker A		Swing 2	76	72	73	74	75	72	442	73.67	1.49
+150	Monica Yue Yao	EFL	SUFE 2	74	74	71	76	72	74	441	73.50	1.61
+151	Speaker B		Swing 2	75	72	73	74	74	71	439	73.17	1.34
+152	Halim		SUN 3	77	76	70	76	77	—	376	75.20	2.64
+
+
+team	result	side	ballot	adjudicators
+DAV 2	4th	Opening Government	View Ballot	Kevin KesumaⒸ , Cheong Ian Tong , Mikkel , Patsha DejarathⓉ
+UT MARA 3	1st	Closing Government	View Ballot	Kevin KesumaⒸ , Cheong Ian Tong , Mikkel , Patsha DejarathⓉ
+SLSP 3	2nd	Opening Opposition	View Ballot	Kevin KesumaⒸ , Cheong Ian Tong , Mikkel , Patsha DejarathⓉ
+Swing 1	3rd	Closing Opposition	View Ballot	Kevin KesumaⒸ , Cheong Ian Tong , Mikkel , Patsha DejarathⓉ
+NTU 1	1st	Closing Government	View Ballot	Aayana Rai BhojaniⒸ , Ethan Goh , Jericho IgdanesⓉ
+ChU 1	2nd	Opening Government	View Ballot	Aayana Rai BhojaniⒸ , Ethan Goh , Jericho IgdanesⓉ
+UMAC 1	3rd	Opening Opposition	View Ballot	Aayana Rai BhojaniⒸ , Ethan Goh , Jericho IgdanesⓉ
+SUFE 1	4th	Closing Opposition	View Ballot	Aayana Rai BhojaniⒸ , Ethan Goh , Jericho IgdanesⓉ
+IIUM 3	4th	Closing Opposition	View Ballot	Ellie StephensonⒸ , Jean Atong , Rovelyn C. GeneralaoⓉ
+SNU 1	1st	Opening Government	View Ballot	Ellie StephensonⒸ , Jean Atong , Rovelyn C. GeneralaoⓉ
+MMU 1	2nd	Opening Opposition	View Ballot	Ellie StephensonⒸ , Jean Atong , Rovelyn C. GeneralaoⓉ
+CUHK 1	3rd	Closing Government	View Ballot	Ellie StephensonⒸ , Jean Atong , Rovelyn C. GeneralaoⓉ
+SUN 1	1st	Opening Government	View Ballot	Srijan PoudelⒸ , Brian Bartolo , Bernard AdvinculaⓉ
+NUS 2	2nd	Closing Government	View Ballot	Srijan PoudelⒸ , Brian Bartolo , Bernard AdvinculaⓉ
+UT MARA 4	4th	Opening Opposition	View Ballot	Srijan PoudelⒸ , Brian Bartolo , Bernard AdvinculaⓉ
+DLSU 2	3rd	Closing Opposition	View Ballot	Srijan PoudelⒸ , Brian Bartolo , Bernard AdvinculaⓉ
+Ateneo De Manila 2	2nd	Opening Opposition	View Ballot	Charlie RyanⒸ , Tiffany Kuo , Ziqi DongⓉ
+UI 2	3rd	Closing Opposition	View Ballot	Charlie RyanⒸ , Tiffany Kuo , Ziqi DongⓉ
+Yale-NUS 1	4th	Closing Government	View Ballot	Charlie RyanⒸ , Tiffany Kuo , Ziqi DongⓉ
+MYSORE 1	1st	Opening Government	View Ballot	Charlie RyanⒸ , Tiffany Kuo , Ziqi DongⓉ
+UPLB 1	3rd	Closing Government	View Ballot	Ian QiuⒸ , Jordyn Gibson , HarisjoⓉ
+HUFS 1	1st	Opening Opposition	View Ballot	Ian QiuⒸ , Jordyn Gibson , HarisjoⓉ
+NJU 1	4th	Closing Opposition	View Ballot	Ian QiuⒸ , Jordyn Gibson , HarisjoⓉ
+UP Diliman 2	2nd	Opening Government	View Ballot	Ian QiuⒸ , Jordyn Gibson , HarisjoⓉ
+MUIC 2	4th	Closing Opposition	View Ballot	Issac KoⒸ , Imran Ilmam , Redacted , JasminⓉ
+Ateneo De Manila 3	1st	Opening Opposition	View Ballot	Issac KoⒸ , Imran Ilmam , Redacted , JasminⓉ
+KDS 1	3rd	Opening Government	View Ballot	Issac KoⒸ , Imran Ilmam , Redacted , JasminⓉ
+SLSP 2	2nd	Closing Government	View Ballot	Issac KoⒸ , Imran Ilmam , Redacted , JasminⓉ
+IIUM 2	2nd	Opening Opposition	View Ballot	Udai KamathⒸ , Wil Uy , Jose Mari Gabriel TumananⓉ
+NUS 1	1st	Closing Government	View Ballot	Udai KamathⒸ , Wil Uy , Jose Mari Gabriel TumananⓉ
+UMAC 2	4th	Opening Government	View Ballot	Udai KamathⒸ , Wil Uy , Jose Mari Gabriel TumananⓉ
+UP Diliman 6	3rd	Closing Opposition	View Ballot	Udai KamathⒸ , Wil Uy , Jose Mari Gabriel TumananⓉ
+IT Bandung 1	2nd	Opening Government	View Ballot	Kavindra SenaratnaⒸ , Muadz
+UMAC 3	3rd	Closing Opposition	View Ballot	Kavindra SenaratnaⒸ , Muadz
+UP Diliman 7	1st	Opening Opposition	View Ballot	Kavindra SenaratnaⒸ , Muadz
+SUFE 2	4th	Closing Government	View Ballot	Kavindra SenaratnaⒸ , Muadz
+NTU 2	3rd	Opening Opposition	View Ballot	DevaⒸ , Vincent Chau
+BINUS 1	1st	Opening Government	View Ballot	DevaⒸ , Vincent Chau
+UMAC 4	4th	Closing Opposition	View Ballot	DevaⒸ , Vincent Chau
+UP Diliman 4	2nd	Closing Government	View Ballot	DevaⒸ , Vincent Chau
+SUN 2	1st	Opening Opposition	View Ballot	Tobi LeungⒸ , Priscilla Chang , LAO PAK FAIⓉ
+IIUM 1	4th	Closing Opposition	View Ballot	Tobi LeungⒸ , Priscilla Chang , LAO PAK FAIⓉ
+NUS 4	3rd	Closing Government	View Ballot	Tobi LeungⒸ , Priscilla Chang , LAO PAK FAIⓉ
+AJCUI 1	2nd	Opening Government	View Ballot	Tobi LeungⒸ , Priscilla Chang , LAO PAK FAIⓉ
+IITB 1	2nd	Closing Government	View Ballot	David AfricaⒸ , Trang Nguyen , Isabel ChongⓉ
+SLSP 1	3rd	Opening Opposition	View Ballot	David AfricaⒸ , Trang Nguyen , Isabel ChongⓉ
+CUHK 2	4th	Closing Opposition	View Ballot	David AfricaⒸ , Trang Nguyen , Isabel ChongⓉ
+DLSU 1	1st	Opening Government	View Ballot	David AfricaⒸ , Trang Nguyen , Isabel ChongⓉ
+DAV 1	2nd	Opening Government	View Ballot	Ralph LeeⒸ , Dylan Salcedo , Yao Kun , RedactedⓉ
+BAC 2	3rd	Closing Government	View Ballot	Ralph LeeⒸ , Dylan Salcedo , Yao Kun , RedactedⓉ
+DLSU 3	1st	Closing Opposition	View Ballot	Ralph LeeⒸ , Dylan Salcedo , Yao Kun , RedactedⓉ
+Swing 2	4th	Opening Opposition	View Ballot	Ralph LeeⒸ , Dylan Salcedo , Yao Kun , RedactedⓉ
+Ateneo De Manila 6	3rd	Opening Government	View Ballot	Minami MatsushimaⒸ , Matthew Toomey , Namkhing Natamon , A&#x27;inurⓉ
+UT MARA 1	1st	Opening Opposition	View Ballot	Minami MatsushimaⒸ , Matthew Toomey , Namkhing Natamon , A&#x27;inurⓉ
+UI 1	2nd	Closing Opposition	View Ballot	Minami MatsushimaⒸ , Matthew Toomey , Namkhing Natamon , A&#x27;inurⓉ
+UP Diliman 5	4th	Closing Government	View Ballot	Minami MatsushimaⒸ , Matthew Toomey , Namkhing Natamon , A&#x27;inurⓉ
+IUB 1	1st	Closing Opposition	View Ballot	Kotaro YoshidaⒸ , Jantzen Eros , KellyⓉ
+Ateneo De Manila 5	2nd	Opening Opposition	View Ballot	Kotaro YoshidaⒸ , Jantzen Eros , KellyⓉ
+UNITEN 1	3rd	Opening Government	View Ballot	Kotaro YoshidaⒸ , Jantzen Eros , KellyⓉ
+Gadjah Mada 1	4th	Closing Government	View Ballot	Kotaro YoshidaⒸ , Jantzen Eros , KellyⓉ
+NUS 3	2nd	Opening Government	View Ballot	Asif MehediⒸ , Miriam Perilla , Ⓣ Pranav Kagalkar ⓉⓉ
+Ateneo De Manila 4	3rd	Closing Opposition	View Ballot	Asif MehediⒸ , Miriam Perilla , Ⓣ Pranav Kagalkar ⓉⓉ
+UT MARA 5	4th	Opening Opposition	View Ballot	Asif MehediⒸ , Miriam Perilla , Ⓣ Pranav Kagalkar ⓉⓉ
+UP Diliman 1	1st	Closing Government	View Ballot	Asif MehediⒸ , Miriam Perilla , Ⓣ Pranav Kagalkar ⓉⓉ
+SUN 3	4th	Opening Opposition	View Ballot	Clairene TanⒸ , Ryan Rayner Low , Umar Fazlan , RevⓉ
+UT MARA 2	2nd	Closing Opposition	View Ballot	Clairene TanⒸ , Ryan Rayner Low , Umar Fazlan , RevⓉ
+DLSU 5	3rd	Closing Government	View Ballot	Clairene TanⒸ , Ryan Rayner Low , Umar Fazlan , RevⓉ
+DLSU 4	1st	Opening Government	View Ballot	Clairene TanⒸ , Ryan Rayner Low , Umar Fazlan , RevⓉ
+MUIC 1	4th	Closing Government	View Ballot	Ernest MahⒸ , Emi Negita , Luna Yael InventorⓉ
+RMIT 1	3rd	Opening Opposition	View Ballot	Ernest MahⒸ , Emi Negita , Luna Yael InventorⓉ
+BAC 1	2nd	Closing Opposition	View Ballot	Ernest MahⒸ , Emi Negita , Luna Yael InventorⓉ
+UP Diliman 3	1st	Opening Government	View Ballot	Ernest MahⒸ , Emi Negita , Luna Yael InventorⓉ
+WU 1	4th	Opening Opposition	View Ballot	Isabella BaldeⒸ , Daisy Yan Sun , Miraz Murshed Rahman , NabilⓉ
+Ateneo De Manila 1	1st	Opening Government	View Ballot	Isabella BaldeⒸ , Daisy Yan Sun , Miraz Murshed Rahman , NabilⓉ
+PKU 1	3rd	Closing Government	View Ballot	Isabella BaldeⒸ , Daisy Yan Sun , Miraz Murshed Rahman , NabilⓉ
+Malaya 1	2nd	Closing Opposition	View Ballot	Isabella BaldeⒸ , Daisy Yan Sun , Miraz Murshed Rahman , NabilⓉ
+
+
+team	result	side	ballot	adjudicators
+NUS 4	3rd	Opening Opposition	View Ballot	Ernest MahⒸ , Tiffany Kuo , HarisjoⓉ
+KDS 1	2nd	Closing Opposition	View Ballot	Ernest MahⒸ , Tiffany Kuo , HarisjoⓉ
+UMAC 4	4th	Opening Government	View Ballot	Ernest MahⒸ , Tiffany Kuo , HarisjoⓉ
+UMAC 3	1st	Closing Government	View Ballot	Ernest MahⒸ , Tiffany Kuo , HarisjoⓉ
+IIUM 3	4th	Closing Government	View Ballot	Kevin KesumaⒸ , Deva , Trang Nguyen , LAO PAK FAIⓉ
+Yale-NUS 1	2nd	Opening Opposition	View Ballot	Kevin KesumaⒸ , Deva , Trang Nguyen , LAO PAK FAIⓉ
+Gadjah Mada 1	1st	Closing Opposition	View Ballot	Kevin KesumaⒸ , Deva , Trang Nguyen , LAO PAK FAIⓉ
+SUFE 2	3rd	Opening Government	View Ballot	Kevin KesumaⒸ , Deva , Trang Nguyen , LAO PAK FAIⓉ
+MUIC 2	4th	Closing Government	View Ballot	Priscilla ChangⒸ , Ⓣ Pranav Kagalkar Ⓣ , RedactedⓉ
+MUIC 1	2nd	Opening Opposition	View Ballot	Priscilla ChangⒸ , Ⓣ Pranav Kagalkar Ⓣ , RedactedⓉ
+SUFE 1	1st	Opening Government	View Ballot	Priscilla ChangⒸ , Ⓣ Pranav Kagalkar Ⓣ , RedactedⓉ
+Swing 2	3rd	Closing Opposition	View Ballot	Priscilla ChangⒸ , Ⓣ Pranav Kagalkar Ⓣ , RedactedⓉ
+Ateneo De Manila 6	1st	Closing Opposition	View Ballot	Catherine NathanⒸ , Emi Negita , Ziqi DongⓉ
+Ateneo De Manila 4	2nd	Opening Opposition	View Ballot	Catherine NathanⒸ , Emi Negita , Ziqi DongⓉ
+UMAC 1	3rd	Closing Government	View Ballot	Catherine NathanⒸ , Emi Negita , Ziqi DongⓉ
+UI 2	4th	Opening Government	View Ballot	Catherine NathanⒸ , Emi Negita , Ziqi DongⓉ
+Ateneo De Manila 5	1st	Closing Opposition	View Ballot	Matthew ToomeyⒸ , Clairene Tan , Miriam Perilla , Jose Mari Gabriel TumananⓉ
+IT Bandung 1	3rd	Closing Government	View Ballot	Matthew ToomeyⒸ , Clairene Tan , Miriam Perilla , Jose Mari Gabriel TumananⓉ
+UI 1	4th	Opening Government	View Ballot	Matthew ToomeyⒸ , Clairene Tan , Miriam Perilla , Jose Mari Gabriel TumananⓉ
+BAC 1	2nd	Opening Opposition	View Ballot	Matthew ToomeyⒸ , Clairene Tan , Miriam Perilla , Jose Mari Gabriel TumananⓉ
+SUN 3	3rd	Opening Government	View Ballot	MikkelⒸ , Cheong Ian Tong , Namkhing Natamon
+IIUM 1	1st	Closing Government	View Ballot	MikkelⒸ , Cheong Ian Tong , Namkhing Natamon
+UT MARA 5	2nd	Closing Opposition	View Ballot	MikkelⒸ , Cheong Ian Tong , Namkhing Natamon
+CUHK 2	4th	Opening Opposition	View Ballot	MikkelⒸ , Cheong Ian Tong , Namkhing Natamon
+IIUM 2	3rd	Opening Government	View Ballot	Jordyn GibsonⒸ , Isabella Balde , Srijan Poudel , Rovelyn C. GeneralaoⓉ
+DAV 1	2nd	Opening Opposition	View Ballot	Jordyn GibsonⒸ , Isabella Balde , Srijan Poudel , Rovelyn C. GeneralaoⓉ
+UT MARA 2	4th	Closing Government	View Ballot	Jordyn GibsonⒸ , Isabella Balde , Srijan Poudel , Rovelyn C. GeneralaoⓉ
+IITB 1	1st	Closing Opposition	View Ballot	Jordyn GibsonⒸ , Isabella Balde , Srijan Poudel , Rovelyn C. GeneralaoⓉ
+Ateneo De Manila 3	2nd	Opening Government	View Ballot	Kavindra SenaratnaⒸ , Brian Bartolo , RedactedⓉ
+HUFS 1	3rd	Closing Opposition	View Ballot	Kavindra SenaratnaⒸ , Brian Bartolo , RedactedⓉ
+MYSORE 1	1st	Closing Government	View Ballot	Kavindra SenaratnaⒸ , Brian Bartolo , RedactedⓉ
+DLSU 3	4th	Opening Opposition	View Ballot	Kavindra SenaratnaⒸ , Brian Bartolo , RedactedⓉ
+NTU 2	1st	Closing Opposition	View Ballot	Ian QiuⒸ , Redacted , Bernard AdvinculaⓉ
+SLSP 1	2nd	Closing Government	View Ballot	Ian QiuⒸ , Redacted , Bernard AdvinculaⓉ
+CUHK 1	3rd	Opening Government	View Ballot	Ian QiuⒸ , Redacted , Bernard AdvinculaⓉ
+Swing 1	4th	Opening Opposition	View Ballot	Ian QiuⒸ , Redacted , Bernard AdvinculaⓉ
+IUB 1	1st	Opening Opposition	View Ballot	Udai KamathⒸ , Jericho Igdanes , JasminⓉ
+Ateneo De Manila 2	3rd	Opening Government	View Ballot	Udai KamathⒸ , Jericho Igdanes , JasminⓉ
+DLSU 4	4th	Closing Government	View Ballot	Udai KamathⒸ , Jericho Igdanes , JasminⓉ
+DLSU 1	2nd	Closing Opposition	View Ballot	Udai KamathⒸ , Jericho Igdanes , JasminⓉ
+SUN 2	3rd	Opening Government	View Ballot	Tobi LeungⒸ , Miraz Murshed Rahman , Patsha DejarathⓉ
+NUS 1	2nd	Opening Opposition	View Ballot	Tobi LeungⒸ , Miraz Murshed Rahman , Patsha DejarathⓉ
+UT MARA 1	1st	Closing Government	View Ballot	Tobi LeungⒸ , Miraz Murshed Rahman , Patsha DejarathⓉ
+UP Diliman 3	4th	Closing Opposition	View Ballot	Tobi LeungⒸ , Miraz Murshed Rahman , Patsha DejarathⓉ
+UNITEN 1	2nd	Closing Government	View Ballot	Minami MatsushimaⒸ , Daisy Yan Sun , Umar Fazlan , Isabel ChongⓉ
+PKU 1	1st	Opening Opposition	View Ballot	Minami MatsushimaⒸ , Daisy Yan Sun , Umar Fazlan , Isabel ChongⓉ
+BAC 2	4th	Opening Government	View Ballot	Minami MatsushimaⒸ , Daisy Yan Sun , Umar Fazlan , Isabel ChongⓉ
+DLSU 5	3rd	Closing Opposition	View Ballot	Minami MatsushimaⒸ , Daisy Yan Sun , Umar Fazlan , Isabel ChongⓉ
+WU 1	4th	Closing Government	View Ballot	Ralph LeeⒸ , Ethan Goh , Ryan Rayner Low , Wil UyⓉ
+UT MARA 4	1st	Opening Government	View Ballot	Ralph LeeⒸ , Ethan Goh , Ryan Rayner Low , Wil UyⓉ
+NJU 1	2nd	Opening Opposition	View Ballot	Ralph LeeⒸ , Ethan Goh , Ryan Rayner Low , Wil UyⓉ
+UMAC 2	3rd	Closing Opposition	View Ballot	Ralph LeeⒸ , Ethan Goh , Ryan Rayner Low , Wil UyⓉ
+UPLB 1	3rd	Closing Opposition	View Ballot	Kotaro YoshidaⒸ , Vincent Chau
+DAV 2	4th	Closing Government	View Ballot	Kotaro YoshidaⒸ , Vincent Chau
+DLSU 2	2nd	Opening Government	View Ballot	Kotaro YoshidaⒸ , Vincent Chau
+UP Diliman 5	1st	Opening Opposition	View Ballot	Kotaro YoshidaⒸ , Vincent Chau
+NUS 2	1st	Opening Opposition	View Ballot	David AfricaⒸ , Imran Ilmam , RevⓉ
+MMU 1	2nd	Closing Opposition	View Ballot	David AfricaⒸ , Imran Ilmam , RevⓉ
+RMIT 1	4th	Closing Government	View Ballot	David AfricaⒸ , Imran Ilmam , RevⓉ
+UP Diliman 4	3rd	Opening Government	View Ballot	David AfricaⒸ , Imran Ilmam , RevⓉ
+SUN 1	2nd	Closing Government	View Ballot	Issac KoⒸ , Jantzen Eros , A&#x27;inurⓉ
+NTU 1	3rd	Closing Opposition	View Ballot	Issac KoⒸ , Jantzen Eros , A&#x27;inurⓉ
+UT MARA 3	4th	Opening Opposition	View Ballot	Issac KoⒸ , Jantzen Eros , A&#x27;inurⓉ
+UP Diliman 1	1st	Opening Government	View Ballot	Issac KoⒸ , Jantzen Eros , A&#x27;inurⓉ
+SNU 1	2nd	Closing Opposition	View Ballot	Yao KunⒸ , Asif Mehedi , Muadz , NabilⓉ
+Ateneo De Manila 1	1st	Opening Opposition	View Ballot	Yao KunⒸ , Asif Mehedi , Muadz , NabilⓉ
+BINUS 1	4th	Closing Government	View Ballot	Yao KunⒸ , Asif Mehedi , Muadz , NabilⓉ
+UP Diliman 7	3rd	Opening Government	View Ballot	Yao KunⒸ , Asif Mehedi , Muadz , NabilⓉ
+NUS 3	2nd	Closing Opposition	View Ballot	Charlie RyanⒸ , Jean Atong , Dylan SalcedoⓉ
+ChU 1	4th	Opening Opposition	View Ballot	Charlie RyanⒸ , Jean Atong , Dylan SalcedoⓉ
+SLSP 3	3rd	Opening Government	View Ballot	Charlie RyanⒸ , Jean Atong , Dylan SalcedoⓉ
+Malaya 1	1st	Closing Government	View Ballot	Charlie RyanⒸ , Jean Atong , Dylan SalcedoⓉ
+AJCUI 1	3rd	Closing Government	View Ballot	Aayana Rai BhojaniⒸ , Luna Yael Inventor , KellyⓉ
+SLSP 2	1st	Closing Opposition	View Ballot	Aayana Rai BhojaniⒸ , Luna Yael Inventor , KellyⓉ
+UP Diliman 6	4th	Opening Government	View Ballot	Aayana Rai BhojaniⒸ , Luna Yael Inventor , KellyⓉ
+UP Diliman 2	2nd	Opening Opposition	View Ballot	Aayana Rai BhojaniⒸ , Luna Yael Inventor , KellyⓉ
+
+
+team	result	side	ballot	adjudicators
+UT MARA 5	4th	Opening Government	View Ballot	Srijan PoudelⒸ , Dylan Salcedo , Yao Kun
+UMAC 1	1st	Closing Opposition	View Ballot	Srijan PoudelⒸ , Dylan Salcedo , Yao Kun
+UI 2	3rd	Closing Government	View Ballot	Srijan PoudelⒸ , Dylan Salcedo , Yao Kun
+BAC 2	2nd	Opening Opposition	View Ballot	Srijan PoudelⒸ , Dylan Salcedo , Yao Kun
+BINUS 1	1st	Opening Opposition	View Ballot	Kavindra SenaratnaⒸ , Isabella Balde , Jordyn Gibson , Jose Mari Gabriel TumananⓉ
+SLSP 1	2nd	Opening Government	View Ballot	Kavindra SenaratnaⒸ , Isabella Balde , Jordyn Gibson , Jose Mari Gabriel TumananⓉ
+SLSP 3	3rd	Closing Opposition	View Ballot	Kavindra SenaratnaⒸ , Isabella Balde , Jordyn Gibson , Jose Mari Gabriel TumananⓉ
+SUFE 1	4th	Closing Government	View Ballot	Kavindra SenaratnaⒸ , Isabella Balde , Jordyn Gibson , Jose Mari Gabriel TumananⓉ
+NUS 2	2nd	Closing Opposition	View Ballot	Kotaro YoshidaⒸ , Priscilla Chang , Umar Fazlan , A&#x27;inurⓉ
+NUS 1	1st	Opening Government	View Ballot	Kotaro YoshidaⒸ , Priscilla Chang , Umar Fazlan , A&#x27;inurⓉ
+DAV 1	4th	Closing Government	View Ballot	Kotaro YoshidaⒸ , Priscilla Chang , Umar Fazlan , A&#x27;inurⓉ
+Malaya 1	3rd	Opening Opposition	View Ballot	Kotaro YoshidaⒸ , Priscilla Chang , Umar Fazlan , A&#x27;inurⓉ
+SNU 1	3rd	Closing Government	View Ballot	Udai KamathⒸ , Redacted , RedactedⓉ
+Ateneo De Manila 3	2nd	Closing Opposition	View Ballot	Udai KamathⒸ , Redacted , RedactedⓉ
+IITB 1	1st	Opening Government	View Ballot	Udai KamathⒸ , Redacted , RedactedⓉ
+SLSP 2	4th	Opening Opposition	View Ballot	Udai KamathⒸ , Redacted , RedactedⓉ
+SUN 1	2nd	Opening Opposition	View Ballot	Minami MatsushimaⒸ , Miraz Murshed Rahman , Ⓣ Pranav Kagalkar Ⓣ , Patsha DejarathⓉ
+Ateneo De Manila 5	3rd	Opening Government	View Ballot	Minami MatsushimaⒸ , Miraz Murshed Rahman , Ⓣ Pranav Kagalkar Ⓣ , Patsha DejarathⓉ
+DLSU 1	4th	Closing Government	View Ballot	Minami MatsushimaⒸ , Miraz Murshed Rahman , Ⓣ Pranav Kagalkar Ⓣ , Patsha DejarathⓉ
+UP Diliman 1	1st	Closing Opposition	View Ballot	Minami MatsushimaⒸ , Miraz Murshed Rahman , Ⓣ Pranav Kagalkar Ⓣ , Patsha DejarathⓉ
+IIUM 3	2nd	Opening Opposition	View Ballot	Charlie RyanⒸ , Muadz
+MUIC 2	1st	Opening Government	View Ballot	Charlie RyanⒸ , Muadz
+DAV 2	3rd	Closing Opposition	View Ballot	Charlie RyanⒸ , Muadz
+UMAC 4	4th	Closing Government	View Ballot	Charlie RyanⒸ , Muadz
+Ateneo De Manila 2	1st	Closing Opposition	View Ballot	Daisy Yan SunⒸ , Trang Nguyen , Rovelyn C. GeneralaoⓉ
+AJCUI 1	3rd	Opening Opposition	View Ballot	Daisy Yan SunⒸ , Trang Nguyen , Rovelyn C. GeneralaoⓉ
+KDS 1	4th	Closing Government	View Ballot	Daisy Yan SunⒸ , Trang Nguyen , Rovelyn C. GeneralaoⓉ
+DLSU 3	2nd	Opening Government	View Ballot	Daisy Yan SunⒸ , Trang Nguyen , Rovelyn C. GeneralaoⓉ
+NTU 2	4th	Closing Government	View Ballot	Issac KoⒸ , Emi Negita , Namkhing Natamon , RedactedⓉ
+Ateneo De Manila 6	2nd	Opening Opposition	View Ballot	Issac KoⒸ , Emi Negita , Namkhing Natamon , RedactedⓉ
+UMAC 3	3rd	Opening Government	View Ballot	Issac KoⒸ , Emi Negita , Namkhing Natamon , RedactedⓉ
+UP Diliman 2	1st	Closing Opposition	View Ballot	Issac KoⒸ , Emi Negita , Namkhing Natamon , RedactedⓉ
+NTU 1	2nd	Opening Opposition	View Ballot	MikkelⒸ , Ryan Rayner Low , JasminⓉ
+MMU 1	4th	Opening Government	View Ballot	MikkelⒸ , Ryan Rayner Low , JasminⓉ
+HUFS 1	3rd	Closing Government	View Ballot	MikkelⒸ , Ryan Rayner Low , JasminⓉ
+PKU 1	1st	Closing Opposition	View Ballot	MikkelⒸ , Ryan Rayner Low , JasminⓉ
+ChU 1	4th	Closing Opposition	View Ballot	Tobi LeungⒸ , Jericho Igdanes , HarisjoⓉ
+UNITEN 1	2nd	Opening Opposition	View Ballot	Tobi LeungⒸ , Jericho Igdanes , HarisjoⓉ
+Yale-NUS 1	3rd	Opening Government	View Ballot	Tobi LeungⒸ , Jericho Igdanes , HarisjoⓉ
+DLSU 2	1st	Closing Government	View Ballot	Tobi LeungⒸ , Jericho Igdanes , HarisjoⓉ
+NUS 4	4th	Closing Opposition	View Ballot	Ethan GohⒸ , LAO PAK FAI , Luna Yael Inventor
+UT MARA 2	1st	Opening Government	View Ballot	Ethan GohⒸ , LAO PAK FAI , Luna Yael Inventor
+CUHK 1	3rd	Opening Opposition	View Ballot	Ethan GohⒸ , LAO PAK FAI , Luna Yael Inventor
+UI 1	2nd	Closing Government	View Ballot	Ethan GohⒸ , LAO PAK FAI , Luna Yael Inventor
+UPLB 1	2nd	Opening Government	View Ballot	Ellie StephensonⒸ , Brian Bartolo , Ralph Lee , KellyⓉ
+Ateneo De Manila 4	1st	Closing Government	View Ballot	Ellie StephensonⒸ , Brian Bartolo , Ralph Lee , KellyⓉ
+UT MARA 3	3rd	Closing Opposition	View Ballot	Ellie StephensonⒸ , Brian Bartolo , Ralph Lee , KellyⓉ
+IT Bandung 1	4th	Opening Opposition	View Ballot	Ellie StephensonⒸ , Brian Bartolo , Ralph Lee , KellyⓉ
+SUN 2	1st	Closing Opposition	View Ballot	David AfricaⒸ , Deva , Jantzen ErosⓉ
+NUS 3	4th	Opening Opposition	View Ballot	David AfricaⒸ , Deva , Jantzen ErosⓉ
+BAC 1	3rd	Opening Government	View Ballot	David AfricaⒸ , Deva , Jantzen ErosⓉ
+UP Diliman 7	2nd	Closing Government	View Ballot	David AfricaⒸ , Deva , Jantzen ErosⓉ
+MUIC 1	4th	Closing Opposition	View Ballot	Kevin KesumaⒸ , Clairene Tan , Wil UyⓉ
+NJU 1	3rd	Opening Government	View Ballot	Kevin KesumaⒸ , Clairene Tan , Wil UyⓉ
+DLSU 5	1st	Opening Opposition	View Ballot	Kevin KesumaⒸ , Clairene Tan , Wil UyⓉ
+Swing 1	2nd	Closing Government	View Ballot	Kevin KesumaⒸ , Clairene Tan , Wil UyⓉ
+WU 1	4th	Opening Government	View Ballot	Matthew ToomeyⒸ , Imran Ilmam
+RMIT 1	3rd	Closing Opposition	View Ballot	Matthew ToomeyⒸ , Imran Ilmam
+CUHK 2	1st	Closing Government	View Ballot	Matthew ToomeyⒸ , Imran Ilmam
+UMAC 2	2nd	Opening Opposition	View Ballot	Matthew ToomeyⒸ , Imran Ilmam
+SUN 3	4th	Closing Government	View Ballot	Ian QiuⒸ , Nabil , Tiffany Kuo
+UP Diliman 6	1st	Opening Opposition	View Ballot	Ian QiuⒸ , Nabil , Tiffany Kuo
+SUFE 2	3rd	Closing Opposition	View Ballot	Ian QiuⒸ , Nabil , Tiffany Kuo
+Swing 2	2nd	Opening Government	View Ballot	Ian QiuⒸ , Nabil , Tiffany Kuo
+IIUM 2	4th	Closing Opposition	View Ballot	Catherine NathanⒸ , Miriam Perilla
+IIUM 1	3rd	Opening Government	View Ballot	Catherine NathanⒸ , Miriam Perilla
+UT MARA 4	2nd	Closing Government	View Ballot	Catherine NathanⒸ , Miriam Perilla
+DLSU 4	1st	Opening Opposition	View Ballot	Catherine NathanⒸ , Miriam Perilla
+IUB 1	3rd	Closing Government	View Ballot	Ernest MahⒸ , Jean Atong , Vincent Chau , RevⓉ
+Ateneo De Manila 1	1st	Closing Opposition	View Ballot	Ernest MahⒸ , Jean Atong , Vincent Chau , RevⓉ
+UT MARA 1	2nd	Opening Government	View Ballot	Ernest MahⒸ , Jean Atong , Vincent Chau , RevⓉ
+MYSORE 1	4th	Opening Opposition	View Ballot	Ernest MahⒸ , Jean Atong , Vincent Chau , RevⓉ
+Gadjah Mada 1	4th	Opening Opposition	View Ballot	Aayana Rai BhojaniⒸ , Bernard Advincula , Cheong Ian Tong , Ziqi DongⓉ
+UP Diliman 5	3rd	Opening Government	View Ballot	Aayana Rai BhojaniⒸ , Bernard Advincula , Cheong Ian Tong , Ziqi DongⓉ
+UP Diliman 4	2nd	Closing Opposition	View Ballot	Aayana Rai BhojaniⒸ , Bernard Advincula , Cheong Ian Tong , Ziqi DongⓉ
+UP Diliman 3	1st	Closing Government	View Ballot	Aayana Rai BhojaniⒸ , Bernard Advincula , Cheong Ian Tong , Ziqi DongⓉ
+
+
+team	result	side	ballot	adjudicators
+NUS 3	2nd	Closing Government	View Ballot	Udai KamathⒸ , Emi Negita , Wil UyⓉ
+UT MARA 4	3rd	Closing Opposition	View Ballot	Udai KamathⒸ , Emi Negita , Wil UyⓉ
+SLSP 2	1st	Opening Government	View Ballot	Udai KamathⒸ , Emi Negita , Wil UyⓉ
+UMAC 3	4th	Opening Opposition	View Ballot	Udai KamathⒸ , Emi Negita , Wil UyⓉ
+MMU 1	3rd	Closing Government	View Ballot	Kotaro YoshidaⒸ , Isabella Balde
+UNITEN 1	2nd	Closing Opposition	View Ballot	Kotaro YoshidaⒸ , Isabella Balde
+UMAC 1	4th	Opening Government	View Ballot	Kotaro YoshidaⒸ , Isabella Balde
+DLSU 1	1st	Opening Opposition	View Ballot	Kotaro YoshidaⒸ , Isabella Balde
+IIUM 2	4th	Closing Government	View Ballot	Ian QiuⒸ , LAO PAK FAI , HarisjoⓉ
+IT Bandung 1	1st	Closing Opposition	View Ballot	Ian QiuⒸ , LAO PAK FAI , HarisjoⓉ
+Gadjah Mada 1	3rd	Opening Government	View Ballot	Ian QiuⒸ , LAO PAK FAI , HarisjoⓉ
+SUFE 1	2nd	Opening Opposition	View Ballot	Ian QiuⒸ , LAO PAK FAI , HarisjoⓉ
+WU 1	4th	Opening Government	View Ballot	Daisy Yan SunⒸ , Miriam Perilla , Namkhing Natamon
+SUN 3	1st	Closing Opposition	View Ballot	Daisy Yan SunⒸ , Miriam Perilla , Namkhing Natamon
+DAV 2	3rd	Closing Government	View Ballot	Daisy Yan SunⒸ , Miriam Perilla , Namkhing Natamon
+UMAC 4	2nd	Opening Opposition	View Ballot	Daisy Yan SunⒸ , Miriam Perilla , Namkhing Natamon
+IIUM 3	4th	Closing Opposition	View Ballot	MikkelⒸ , Isabel Chong , Patsha Dejarath , RevⓉ
+UT MARA 5	1st	Closing Government	View Ballot	MikkelⒸ , Isabel Chong , Patsha Dejarath , RevⓉ
+RMIT 1	3rd	Opening Government	View Ballot	MikkelⒸ , Isabel Chong , Patsha Dejarath , RevⓉ
+UI 2	2nd	Opening Opposition	View Ballot	MikkelⒸ , Isabel Chong , Patsha Dejarath , RevⓉ
+HUFS 1	1st	Opening Government	View Ballot	Tobi LeungⒸ , Vincent Chau
+SLSP 1	3rd	Closing Opposition	View Ballot	Tobi LeungⒸ , Vincent Chau
+BAC 1	4th	Closing Government	View Ballot	Tobi LeungⒸ , Vincent Chau
+UP Diliman 4	2nd	Opening Opposition	View Ballot	Tobi LeungⒸ , Vincent Chau
+NUS 1	3rd	Closing Opposition	View Ballot	Miraz Murshed RahmanⒸ , Aayana Rai Bhojani , Tiffany Kuo , KellyⓉ
+Ateneo De Manila 1	2nd	Closing Government	View Ballot	Miraz Murshed RahmanⒸ , Aayana Rai Bhojani , Tiffany Kuo , KellyⓉ
+UT MARA 1	4th	Opening Government	View Ballot	Miraz Murshed RahmanⒸ , Aayana Rai Bhojani , Tiffany Kuo , KellyⓉ
+UP Diliman 1	1st	Opening Opposition	View Ballot	Miraz Murshed RahmanⒸ , Aayana Rai Bhojani , Tiffany Kuo , KellyⓉ
+KDS 1	2nd	Opening Opposition	View Ballot	Kevin KesumaⒸ , Bernard Advincula , Imran Ilmam , NabilⓉ
+CUHK 2	3rd	Opening Government	View Ballot	Kevin KesumaⒸ , Bernard Advincula , Imran Ilmam , NabilⓉ
+UMAC 2	4th	Closing Government	View Ballot	Kevin KesumaⒸ , Bernard Advincula , Imran Ilmam , NabilⓉ
+BAC 2	1st	Closing Opposition	View Ballot	Kevin KesumaⒸ , Bernard Advincula , Imran Ilmam , NabilⓉ
+IIUM 1	1st	Opening Opposition	View Ballot	Jordyn GibsonⒸ , Priscilla Chang , Jantzen ErosⓉ
+AJCUI 1	3rd	Opening Government	View Ballot	Jordyn GibsonⒸ , Priscilla Chang , Jantzen ErosⓉ
+UP Diliman 6	4th	Closing Government	View Ballot	Jordyn GibsonⒸ , Priscilla Chang , Jantzen ErosⓉ
+UP Diliman 5	2nd	Closing Opposition	View Ballot	Jordyn GibsonⒸ , Priscilla Chang , Jantzen ErosⓉ
+Ateneo De Manila 4	1st	Opening Government	View Ballot	Ernest MahⒸ , Ellie Stephenson , Muadz
+Ateneo De Manila 2	2nd	Closing Government	View Ballot	Ernest MahⒸ , Ellie Stephenson , Muadz
+UP Diliman 7	4th	Closing Opposition	View Ballot	Ernest MahⒸ , Ellie Stephenson , Muadz
+UP Diliman 3	3rd	Opening Opposition	View Ballot	Ernest MahⒸ , Ellie Stephenson , Muadz
+SNU 1	1st	Opening Opposition	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Ethan Goh , Minami Matsushima , A&#x27;inurⓉ
+Ateneo De Manila 5	4th	Closing Government	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Ethan Goh , Minami Matsushima , A&#x27;inurⓉ
+DLSU 4	3rd	Closing Opposition	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Ethan Goh , Minami Matsushima , A&#x27;inurⓉ
+Malaya 1	2nd	Opening Government	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Ethan Goh , Minami Matsushima , A&#x27;inurⓉ
+NTU 2	4th	Opening Government	View Ballot	DevaⒸ , Dylan Salcedo , RedactedⓉ
+DAV 1	1st	Closing Opposition	View Ballot	DevaⒸ , Dylan Salcedo , RedactedⓉ
+SLSP 3	2nd	Closing Government	View Ballot	DevaⒸ , Dylan Salcedo , RedactedⓉ
+UI 1	3rd	Opening Opposition	View Ballot	DevaⒸ , Dylan Salcedo , RedactedⓉ
+NTU 1	2nd	Opening Government	View Ballot	Catherine NathanⒸ , Brian Bartolo , Ryan Rayner Low , Jose Mari Gabriel TumananⓉ
+Ateneo De Manila 6	4th	Closing Government	View Ballot	Catherine NathanⒸ , Brian Bartolo , Ryan Rayner Low , Jose Mari Gabriel TumananⓉ
+UT MARA 2	3rd	Opening Opposition	View Ballot	Catherine NathanⒸ , Brian Bartolo , Ryan Rayner Low , Jose Mari Gabriel TumananⓉ
+MYSORE 1	1st	Closing Opposition	View Ballot	Catherine NathanⒸ , Brian Bartolo , Ryan Rayner Low , Jose Mari Gabriel TumananⓉ
+MUIC 2	2nd	Opening Opposition	View Ballot	Issac KoⒸ , Jericho Igdanes
+CUHK 1	1st	Closing Opposition	View Ballot	Issac KoⒸ , Jericho Igdanes
+Swing 2	4th	Closing Government	View Ballot	Issac KoⒸ , Jericho Igdanes
+Swing 1	3rd	Opening Government	View Ballot	Issac KoⒸ , Jericho Igdanes
+UPLB 1	2nd	Opening Opposition	View Ballot	Yao KunⒸ , Luna Yael Inventor , Ziqi DongⓉ
+UT MARA 3	1st	Opening Government	View Ballot	Yao KunⒸ , Luna Yael Inventor , Ziqi DongⓉ
+NJU 1	3rd	Closing Government	View Ballot	Yao KunⒸ , Luna Yael Inventor , Ziqi DongⓉ
+Yale-NUS 1	4th	Closing Opposition	View Ballot	Yao KunⒸ , Luna Yael Inventor , Ziqi DongⓉ
+SUN 2	4th	Closing Opposition	View Ballot	Charlie RyanⒸ , Srijan Poudel , Umar Fazlan , JasminⓉ
+NUS 2	1st	Opening Government	View Ballot	Charlie RyanⒸ , Srijan Poudel , Umar Fazlan , JasminⓉ
+IUB 1	2nd	Opening Opposition	View Ballot	Charlie RyanⒸ , Srijan Poudel , Umar Fazlan , JasminⓉ
+UP Diliman 2	3rd	Closing Government	View Ballot	Charlie RyanⒸ , Srijan Poudel , Umar Fazlan , JasminⓉ
+NUS 4	2nd	Opening Government	View Ballot	Jean AtongⒸ , Cheong Ian Tong , Rovelyn C. Generalao
+MUIC 1	4th	Closing Opposition	View Ballot	Jean AtongⒸ , Cheong Ian Tong , Rovelyn C. Generalao
+ChU 1	1st	Closing Government	View Ballot	Jean AtongⒸ , Cheong Ian Tong , Rovelyn C. Generalao
+SUFE 2	3rd	Opening Opposition	View Ballot	Jean AtongⒸ , Cheong Ian Tong , Rovelyn C. Generalao
+BINUS 1	4th	Closing Opposition	View Ballot	Clairene TanⒸ , David Africa , Trang Nguyen , RedactedⓉ
+DLSU 5	3rd	Opening Government	View Ballot	Clairene TanⒸ , David Africa , Trang Nguyen , RedactedⓉ
+DLSU 3	1st	Closing Government	View Ballot	Clairene TanⒸ , David Africa , Trang Nguyen , RedactedⓉ
+DLSU 2	2nd	Opening Opposition	View Ballot	Clairene TanⒸ , David Africa , Trang Nguyen , RedactedⓉ
+SUN 1	1st	Closing Opposition	View Ballot	Matthew ToomeyⒸ , Asif Mehedi , Ralph Lee , RedactedⓉ
+Ateneo De Manila 3	4th	Closing Government	View Ballot	Matthew ToomeyⒸ , Asif Mehedi , Ralph Lee , RedactedⓉ
+IITB 1	3rd	Opening Opposition	View Ballot	Matthew ToomeyⒸ , Asif Mehedi , Ralph Lee , RedactedⓉ
+PKU 1	2nd	Opening Government	View Ballot	Matthew ToomeyⒸ , Asif Mehedi , Ralph Lee , RedactedⓉ
+
+
+team	result	side	ballot	adjudicators
+SUN 3	2nd	Opening Government	View Ballot	Tiffany KuoⒸ , Bernard Advincula , Priscilla Chang , RedactedⓉ
+UMAC 2	3rd	Opening Opposition	View Ballot	Tiffany KuoⒸ , Bernard Advincula , Priscilla Chang , RedactedⓉ
+Gadjah Mada 1	1st	Closing Opposition	View Ballot	Tiffany KuoⒸ , Bernard Advincula , Priscilla Chang , RedactedⓉ
+Swing 1	4th	Closing Government	View Ballot	Tiffany KuoⒸ , Bernard Advincula , Priscilla Chang , RedactedⓉ
+NTU 1	2nd	Opening Government	View Ballot	Yao KunⒸ , David Africa , NabilⓉ
+UT MARA 1	3rd	Closing Opposition	View Ballot	Yao KunⒸ , David Africa , NabilⓉ
+SLSP 2	1st	Opening Opposition	View Ballot	Yao KunⒸ , David Africa , NabilⓉ
+Malaya 1	4th	Closing Government	View Ballot	Yao KunⒸ , David Africa , NabilⓉ
+IIUM 1	4th	Closing Government	View Ballot	Issac KoⒸ , Tobi Leung , RedactedⓉ
+DAV 1	2nd	Opening Government	View Ballot	Issac KoⒸ , Tobi Leung , RedactedⓉ
+UP Diliman 4	1st	Closing Opposition	View Ballot	Issac KoⒸ , Tobi Leung , RedactedⓉ
+UP Diliman 3	3rd	Opening Opposition	View Ballot	Issac KoⒸ , Tobi Leung , RedactedⓉ
+WU 1	1st	Closing Opposition	View Ballot	Ryan Rayner LowⒸ , Emi Negita , Luna Yael Inventor
+IIUM 3	2nd	Opening Government	View Ballot	Ryan Rayner LowⒸ , Emi Negita , Luna Yael Inventor
+DAV 2	3rd	Opening Opposition	View Ballot	Ryan Rayner LowⒸ , Emi Negita , Luna Yael Inventor
+UMAC 4	4th	Closing Government	View Ballot	Ryan Rayner LowⒸ , Emi Negita , Luna Yael Inventor
+Ateneo De Manila 4	3rd	Closing Government	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Kavindra Senaratna , Patsha DejarathⓉ
+IITB 1	1st	Closing Opposition	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Kavindra Senaratna , Patsha DejarathⓉ
+PKU 1	4th	Opening Opposition	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Kavindra Senaratna , Patsha DejarathⓉ
+MYSORE 1	2nd	Opening Government	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Kavindra Senaratna , Patsha DejarathⓉ
+Ateneo De Manila 2	3rd	Closing Opposition	View Ballot	Miraz Murshed RahmanⒸ , Ellie Stephenson , JasminⓉ
+HUFS 1	1st	Closing Government	View Ballot	Miraz Murshed RahmanⒸ , Ellie Stephenson , JasminⓉ
+DLSU 4	4th	Opening Government	View Ballot	Miraz Murshed RahmanⒸ , Ellie Stephenson , JasminⓉ
+DLSU 1	2nd	Opening Opposition	View Ballot	Miraz Murshed RahmanⒸ , Ellie Stephenson , JasminⓉ
+Ateneo De Manila 3	1st	Closing Opposition	View Ballot	Clairene TanⒸ , Srijan Poudel , A&#x27;inurⓉ
+UT MARA 3	2nd	Opening Opposition	View Ballot	Clairene TanⒸ , Srijan Poudel , A&#x27;inurⓉ
+CUHK 1	4th	Closing Government	View Ballot	Clairene TanⒸ , Srijan Poudel , A&#x27;inurⓉ
+UP Diliman 7	3rd	Opening Government	View Ballot	Clairene TanⒸ , Srijan Poudel , A&#x27;inurⓉ
+NUS 4	4th	Closing Opposition	View Ballot	Ralph LeeⒸ , LAO PAK FAI , Trang Nguyen , HarisjoⓉ
+UI 2	1st	Opening Government	View Ballot	Ralph LeeⒸ , LAO PAK FAI , Trang Nguyen , HarisjoⓉ
+UP Diliman 6	2nd	Closing Government	View Ballot	Ralph LeeⒸ , LAO PAK FAI , Trang Nguyen , HarisjoⓉ
+Swing 2	3rd	Opening Opposition	View Ballot	Ralph LeeⒸ , LAO PAK FAI , Trang Nguyen , HarisjoⓉ
+SUN 1	2nd	Opening Government	View Ballot	DevaⒸ , Asif Mehedi , Rovelyn C. GeneralaoⓉ
+NUS 2	4th	Closing Opposition	View Ballot	DevaⒸ , Asif Mehedi , Rovelyn C. GeneralaoⓉ
+Ateneo De Manila 1	3rd	Opening Opposition	View Ballot	DevaⒸ , Asif Mehedi , Rovelyn C. GeneralaoⓉ
+UP Diliman 1	1st	Closing Government	View Ballot	DevaⒸ , Asif Mehedi , Rovelyn C. GeneralaoⓉ
+SUN 2	3rd	Closing Government	View Ballot	Ian QiuⒸ , Udai Kamath , Ziqi DongⓉ
+UNITEN 1	1st	Opening Government	View Ballot	Ian QiuⒸ , Udai Kamath , Ziqi DongⓉ
+DLSU 3	4th	Closing Opposition	View Ballot	Ian QiuⒸ , Udai Kamath , Ziqi DongⓉ
+UP Diliman 2	2nd	Opening Opposition	View Ballot	Ian QiuⒸ , Udai Kamath , Ziqi DongⓉ
+UT MARA 2	3rd	Closing Government	View Ballot	Kevin KesumaⒸ , Charlie Ryan , Wil UyⓉ
+SLSP 3	4th	Opening Opposition	View Ballot	Kevin KesumaⒸ , Charlie Ryan , Wil UyⓉ
+BAC 2	2nd	Opening Government	View Ballot	Kevin KesumaⒸ , Charlie Ryan , Wil UyⓉ
+UP Diliman 5	1st	Closing Opposition	View Ballot	Kevin KesumaⒸ , Charlie Ryan , Wil UyⓉ
+MMU 1	2nd	Opening Government	View Ballot	MikkelⒸ , Vincent Chau , RevⓉ
+UT MARA 5	3rd	Opening Opposition	View Ballot	MikkelⒸ , Vincent Chau , RevⓉ
+UMAC 1	1st	Closing Government	View Ballot	MikkelⒸ , Vincent Chau , RevⓉ
+BAC 1	4th	Closing Opposition	View Ballot	MikkelⒸ , Vincent Chau , RevⓉ
+NUS 1	1st	Opening Opposition	View Ballot	Matthew ToomeyⒸ , Catherine Nathan , Cheong Ian TongⓉ
+SNU 1	3rd	Closing Government	View Ballot	Matthew ToomeyⒸ , Catherine Nathan , Cheong Ian TongⓉ
+IUB 1	2nd	Opening Government	View Ballot	Matthew ToomeyⒸ , Catherine Nathan , Cheong Ian TongⓉ
+DLSU 2	4th	Closing Opposition	View Ballot	Matthew ToomeyⒸ , Catherine Nathan , Cheong Ian TongⓉ
+NUS 3	2nd	Closing Government	View Ballot	Jordyn GibsonⒸ , Minami Matsushima , Jose Mari Gabriel TumananⓉ
+Ateneo De Manila 6	1st	Opening Government	View Ballot	Jordyn GibsonⒸ , Minami Matsushima , Jose Mari Gabriel TumananⓉ
+IT Bandung 1	3rd	Closing Opposition	View Ballot	Jordyn GibsonⒸ , Minami Matsushima , Jose Mari Gabriel TumananⓉ
+UI 1	4th	Opening Opposition	View Ballot	Jordyn GibsonⒸ , Minami Matsushima , Jose Mari Gabriel TumananⓉ
+UPLB 1	1st	Opening Government	View Ballot	Ethan GohⒸ , Ernest Mah , Jantzen ErosⓉ
+KDS 1	3rd	Opening Opposition	View Ballot	Ethan GohⒸ , Ernest Mah , Jantzen ErosⓉ
+DLSU 5	2nd	Closing Government	View Ballot	Ethan GohⒸ , Ernest Mah , Jantzen ErosⓉ
+SUFE 1	4th	Closing Opposition	View Ballot	Ethan GohⒸ , Ernest Mah , Jantzen ErosⓉ
+NTU 2	3rd	Closing Government	View Ballot	Umar FazlanⒸ , Isabel Chong , Isabella Balde , KellyⓉ
+NJU 1	2nd	Closing Opposition	View Ballot	Umar FazlanⒸ , Isabel Chong , Isabella Balde , KellyⓉ
+CUHK 2	1st	Opening Opposition	View Ballot	Umar FazlanⒸ , Isabel Chong , Isabella Balde , KellyⓉ
+SUFE 2	4th	Opening Government	View Ballot	Umar FazlanⒸ , Isabel Chong , Isabella Balde , KellyⓉ
+MUIC 2	4th	Closing Government	View Ballot	Daisy Yan SunⒸ , Jericho Igdanes , Muadz , Miriam PerillaⓉ
+ChU 1	3rd	Opening Government	View Ballot	Daisy Yan SunⒸ , Jericho Igdanes , Muadz , Miriam PerillaⓉ
+AJCUI 1	1st	Closing Opposition	View Ballot	Daisy Yan SunⒸ , Jericho Igdanes , Muadz , Miriam PerillaⓉ
+UMAC 3	2nd	Opening Opposition	View Ballot	Daisy Yan SunⒸ , Jericho Igdanes , Muadz , Miriam PerillaⓉ
+IIUM 2	1st	Opening Opposition	View Ballot	Jean AtongⒸ , Dylan Salcedo , Imran Ilmam , Namkhing NatamonⓉ
+MUIC 1	3rd	Opening Government	View Ballot	Jean AtongⒸ , Dylan Salcedo , Imran Ilmam , Namkhing NatamonⓉ
+RMIT 1	4th	Closing Opposition	View Ballot	Jean AtongⒸ , Dylan Salcedo , Imran Ilmam , Namkhing NatamonⓉ
+Yale-NUS 1	2nd	Closing Government	View Ballot	Jean AtongⒸ , Dylan Salcedo , Imran Ilmam , Namkhing NatamonⓉ
+Ateneo De Manila 5	2nd	Opening Government	View Ballot	Brian BartoloⒸ , Kotaro Yoshida , RedactedⓉ
+UT MARA 4	4th	Opening Opposition	View Ballot	Brian BartoloⒸ , Kotaro Yoshida , RedactedⓉ
+BINUS 1	1st	Closing Government	View Ballot	Brian BartoloⒸ , Kotaro Yoshida , RedactedⓉ
+SLSP 1	3rd	Closing Opposition	View Ballot	Brian BartoloⒸ , Kotaro Yoshida , RedactedⓉ
+
+
+team	result	side	ballot	adjudicators
+IIUM 2	2nd	Closing Opposition	View Ballot	Tiffany KuoⒸ , Brian Bartolo , LAO PAK FAI
+ChU 1	4th	Closing Government	View Ballot	Tiffany KuoⒸ , Brian Bartolo , LAO PAK FAI
+SLSP 3	3rd	Opening Government	View Ballot	Tiffany KuoⒸ , Brian Bartolo , LAO PAK FAI
+CUHK 1	1st	Opening Opposition	View Ballot	Tiffany KuoⒸ , Brian Bartolo , LAO PAK FAI
+NTU 1	1st	Closing Opposition	View Ballot	Asif MehediⒸ , Ian Qiu , Patsha DejarathⓉ
+Ateneo De Manila 4	4th	Opening Government	View Ballot	Asif MehediⒸ , Ian Qiu , Patsha DejarathⓉ
+MYSORE 1	2nd	Opening Opposition	View Ballot	Asif MehediⒸ , Ian Qiu , Patsha DejarathⓉ
+UP Diliman 4	3rd	Closing Government	View Ballot	Asif MehediⒸ , Ian Qiu , Patsha DejarathⓉ
+DAV 1	2nd	Closing Government	View Ballot	Aayana Rai BhojaniⒸ , Clairene Tan , Jose Mari Gabriel TumananⓉ
+UT MARA 1	1st	Closing Opposition	View Ballot	Aayana Rai BhojaniⒸ , Clairene Tan , Jose Mari Gabriel TumananⓉ
+PKU 1	3rd	Opening Government	View Ballot	Aayana Rai BhojaniⒸ , Clairene Tan , Jose Mari Gabriel TumananⓉ
+UP Diliman 5	4th	Opening Opposition	View Ballot	Aayana Rai BhojaniⒸ , Clairene Tan , Jose Mari Gabriel TumananⓉ
+IIUM 3	3rd	Closing Government	View Ballot	Umar FazlanⒸ , Cheong Ian Tong , Vincent Chau
+BAC 1	1st	Opening Opposition	View Ballot	Umar FazlanⒸ , Cheong Ian Tong , Vincent Chau
+SUFE 1	2nd	Opening Government	View Ballot	Umar FazlanⒸ , Cheong Ian Tong , Vincent Chau
+Swing 2	4th	Closing Opposition	View Ballot	Umar FazlanⒸ , Cheong Ian Tong , Vincent Chau
+WU 1	2nd	Closing Opposition	View Ballot	Luna Yael InventorⒸ , Emi Negita , Isabella Balde , A&#x27;inurⓉ
+UMAC 2	3rd	Opening Government	View Ballot	Luna Yael InventorⒸ , Emi Negita , Isabella Balde , A&#x27;inurⓉ
+SUFE 2	4th	Closing Government	View Ballot	Luna Yael InventorⒸ , Emi Negita , Isabella Balde , A&#x27;inurⓉ
+Swing 1	1st	Opening Opposition	View Ballot	Luna Yael InventorⒸ , Emi Negita , Isabella Balde , A&#x27;inurⓉ
+SUN 3	4th	Closing Government	View Ballot	Miraz Murshed RahmanⒸ , Jericho Igdanes , Ryan Rayner Low
+UT MARA 4	2nd	Opening Government	View Ballot	Miraz Murshed RahmanⒸ , Jericho Igdanes , Ryan Rayner Low
+UT MARA 2	1st	Opening Opposition	View Ballot	Miraz Murshed RahmanⒸ , Jericho Igdanes , Ryan Rayner Low
+UMAC 3	3rd	Closing Opposition	View Ballot	Miraz Murshed RahmanⒸ , Jericho Igdanes , Ryan Rayner Low
+MMU 1	2nd	Closing Government	View Ballot	Ralph LeeⒸ , Mikkel , Miriam Perilla
+UT MARA 5	3rd	Opening Government	View Ballot	Ralph LeeⒸ , Mikkel , Miriam Perilla
+SLSP 1	4th	Opening Opposition	View Ballot	Ralph LeeⒸ , Mikkel , Miriam Perilla
+UI 2	1st	Closing Opposition	View Ballot	Ralph LeeⒸ , Mikkel , Miriam Perilla
+NUS 1	4th	Closing Opposition	View Ballot	Udai KamathⒸ , Minami Matsushima , NabilⓉ
+Ateneo De Manila 1	3rd	Closing Government	View Ballot	Udai KamathⒸ , Minami Matsushima , NabilⓉ
+IITB 1	2nd	Opening Opposition	View Ballot	Udai KamathⒸ , Minami Matsushima , NabilⓉ
+UP Diliman 1	1st	Opening Government	View Ballot	Udai KamathⒸ , Minami Matsushima , NabilⓉ
+IIUM 1	4th	Closing Government	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Yao Kun , RedactedⓉ
+DLSU 5	1st	Closing Opposition	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Yao Kun , RedactedⓉ
+DLSU 2	2nd	Opening Opposition	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Yao Kun , RedactedⓉ
+UP Diliman 3	3rd	Opening Government	View Ballot	Ⓣ Pranav Kagalkar ⓉⒸ , Yao Kun , RedactedⓉ
+NTU 2	3rd	Opening Opposition	View Ballot	Jean AtongⒸ , Isabel Chong , Trang Nguyen , Wil UyⓉ
+KDS 1	2nd	Closing Government	View Ballot	Jean AtongⒸ , Isabel Chong , Trang Nguyen , Wil UyⓉ
+NJU 1	4th	Opening Government	View Ballot	Jean AtongⒸ , Isabel Chong , Trang Nguyen , Wil UyⓉ
+UP Diliman 6	1st	Closing Opposition	View Ballot	Jean AtongⒸ , Isabel Chong , Trang Nguyen , Wil UyⓉ
+MUIC 1	3rd	Closing Government	View Ballot	Ethan GohⒸ , Bernard Advincula , Namkhing Natamon , JasminⓉ
+DAV 2	2nd	Opening Opposition	View Ballot	Ethan GohⒸ , Bernard Advincula , Namkhing Natamon , JasminⓉ
+RMIT 1	1st	Opening Government	View Ballot	Ethan GohⒸ , Bernard Advincula , Namkhing Natamon , JasminⓉ
+UMAC 4	4th	Closing Opposition	View Ballot	Ethan GohⒸ , Bernard Advincula , Namkhing Natamon , JasminⓉ
+SUN 1	1st	Closing Opposition	View Ballot	David AfricaⒸ , Kotaro Yoshida , RedactedⓉ
+IUB 1	3rd	Opening Government	View Ballot	David AfricaⒸ , Kotaro Yoshida , RedactedⓉ
+HUFS 1	2nd	Opening Opposition	View Ballot	David AfricaⒸ , Kotaro Yoshida , RedactedⓉ
+SLSP 2	4th	Closing Government	View Ballot	David AfricaⒸ , Kotaro Yoshida , RedactedⓉ
+NUS 2	2nd	Opening Government	View Ballot	Ellie StephensonⒸ , Deva , Rovelyn C. GeneralaoⓉ
+Ateneo De Manila 6	3rd	Opening Opposition	View Ballot	Ellie StephensonⒸ , Deva , Rovelyn C. GeneralaoⓉ
+DLSU 1	4th	Closing Government	View Ballot	Ellie StephensonⒸ , Deva , Rovelyn C. GeneralaoⓉ
+UP Diliman 2	1st	Closing Opposition	View Ballot	Ellie StephensonⒸ , Deva , Rovelyn C. GeneralaoⓉ
+UPLB 1	4th	Closing Opposition	View Ballot	Catherine NathanⒸ , Issac Ko , HarisjoⓉ
+Ateneo De Manila 2	2nd	Closing Government	View Ballot	Catherine NathanⒸ , Issac Ko , HarisjoⓉ
+BINUS 1	1st	Opening Government	View Ballot	Catherine NathanⒸ , Issac Ko , HarisjoⓉ
+UMAC 1	3rd	Opening Opposition	View Ballot	Catherine NathanⒸ , Issac Ko , HarisjoⓉ
+NUS 4	1st	Closing Government	View Ballot	Kevin KesumaⒸ , Dylan Salcedo , Imran Ilmam , KellyⓉ
+MUIC 2	4th	Opening Government	View Ballot	Kevin KesumaⒸ , Dylan Salcedo , Imran Ilmam , KellyⓉ
+UI 1	2nd	Closing Opposition	View Ballot	Kevin KesumaⒸ , Dylan Salcedo , Imran Ilmam , KellyⓉ
+Yale-NUS 1	3rd	Opening Opposition	View Ballot	Kevin KesumaⒸ , Dylan Salcedo , Imran Ilmam , KellyⓉ
+SNU 1	3rd	Closing Opposition	View Ballot	Kavindra SenaratnaⒸ , Matthew Toomey , Jantzen ErosⓉ
+Ateneo De Manila 3	2nd	Opening Opposition	View Ballot	Kavindra SenaratnaⒸ , Matthew Toomey , Jantzen ErosⓉ
+UT MARA 3	1st	Opening Government	View Ballot	Kavindra SenaratnaⒸ , Matthew Toomey , Jantzen ErosⓉ
+UNITEN 1	4th	Closing Government	View Ballot	Kavindra SenaratnaⒸ , Matthew Toomey , Jantzen ErosⓉ
+Ateneo De Manila 5	3rd	Closing Opposition	View Ballot	Ernest MahⒸ , Jordyn Gibson , Ziqi DongⓉ
+IT Bandung 1	1st	Opening Government	View Ballot	Ernest MahⒸ , Jordyn Gibson , Ziqi DongⓉ
+BAC 2	2nd	Opening Opposition	View Ballot	Ernest MahⒸ , Jordyn Gibson , Ziqi DongⓉ
+DLSU 3	4th	Closing Government	View Ballot	Ernest MahⒸ , Jordyn Gibson , Ziqi DongⓉ
+SUN 2	4th	Closing Government	View Ballot	Tobi LeungⒸ , Charlie Ryan , RedactedⓉ
+NUS 3	1st	Opening Opposition	View Ballot	Tobi LeungⒸ , Charlie Ryan , RedactedⓉ
+AJCUI 1	3rd	Closing Opposition	View Ballot	Tobi LeungⒸ , Charlie Ryan , RedactedⓉ
+Malaya 1	2nd	Opening Government	View Ballot	Tobi LeungⒸ , Charlie Ryan , RedactedⓉ
+CUHK 2	4th	Closing Opposition	View Ballot	Daisy Yan SunⒸ , Muadz , Priscilla Chang , RevⓉ
+DLSU 4	2nd	Opening Government	View Ballot	Daisy Yan SunⒸ , Muadz , Priscilla Chang , RevⓉ
+Gadjah Mada 1	1st	Closing Government	View Ballot	Daisy Yan SunⒸ , Muadz , Priscilla Chang , RevⓉ
+UP Diliman 7	3rd	Opening Opposition	View Ballot	Daisy Yan SunⒸ , Muadz , Priscilla Chang , RevⓉ
+
+
+team	result	side	adjudicators
+NUS 3	eliminated	Closing Opposition	Udai KamathⒸ , Ellie Stephenson , Ethan Goh , Jordyn Gibson , Miraz Murshed Rahman
+NUS 1	advancing	Opening Government	Udai KamathⒸ , Ellie Stephenson , Ethan Goh , Jordyn Gibson , Miraz Murshed Rahman
+Ateneo De Manila 2	advancing	Opening Opposition	Udai KamathⒸ , Ellie Stephenson , Ethan Goh , Jordyn Gibson , Miraz Murshed Rahman
+Malaya 1	eliminated	Closing Government	Udai KamathⒸ , Ellie Stephenson , Ethan Goh , Jordyn Gibson , Miraz Murshed Rahman
+Ateneo De Manila 3	advancing	Closing Opposition	Yao KunⒸ , Aayana Rai Bhojani , Ian Qiu , Kevin Kesuma , Kotaro Yoshida
+DAV 1	eliminated	Closing Government	Yao KunⒸ , Aayana Rai Bhojani , Ian Qiu , Kevin Kesuma , Kotaro Yoshida
+UT MARA 1	eliminated	Opening Government	Yao KunⒸ , Aayana Rai Bhojani , Ian Qiu , Kevin Kesuma , Kotaro Yoshida
+SLSP 2	advancing	Opening Opposition	Yao KunⒸ , Aayana Rai Bhojani , Ian Qiu , Kevin Kesuma , Kotaro Yoshida
+SNU 1	advancing	Opening Opposition	Ⓣ Pranav Kagalkar ⓉⒸ , Daisy Yan Sun , Dylan Salcedo , Ernest Mah , Matthew Toomey
+IUB 1	eliminated	Closing Government	Ⓣ Pranav Kagalkar ⓉⒸ , Daisy Yan Sun , Dylan Salcedo , Ernest Mah , Matthew Toomey
+UT MARA 3	advancing	Opening Government	Ⓣ Pranav Kagalkar ⓉⒸ , Daisy Yan Sun , Dylan Salcedo , Ernest Mah , Matthew Toomey
+DLSU 5	eliminated	Closing Opposition	Ⓣ Pranav Kagalkar ⓉⒸ , Daisy Yan Sun , Dylan Salcedo , Ernest Mah , Matthew Toomey
+NUS 2	advancing	Closing Opposition	Charlie RyanⒸ , Minami Matsushima , Ralph Lee , Tiffany Kuo , Tobi Leung
+BINUS 1	eliminated	Opening Opposition	Charlie RyanⒸ , Minami Matsushima , Ralph Lee , Tiffany Kuo , Tobi Leung
+PKU 1	advancing	Opening Government	Charlie RyanⒸ , Minami Matsushima , Ralph Lee , Tiffany Kuo , Tobi Leung
+UP Diliman 4	eliminated	Closing Government	Charlie RyanⒸ , Minami Matsushima , Ralph Lee , Tiffany Kuo , Tobi Leung
+
+
+team	result	side	adjudicators
+NUS 1	advancing	Opening Government	Jordyn GibsonⒸ , Imran Ilmam , Matthew Toomey , Miraz Murshed Rahman , Srijan Poudel
+Ateneo De Manila 2	eliminated	Closing Government	Jordyn GibsonⒸ , Imran Ilmam , Matthew Toomey , Miraz Murshed Rahman , Srijan Poudel
+UP Diliman 2	eliminated	Opening Opposition	Jordyn GibsonⒸ , Imran Ilmam , Matthew Toomey , Miraz Murshed Rahman , Srijan Poudel
+UP Diliman 1	advancing	Closing Opposition	Jordyn GibsonⒸ , Imran Ilmam , Matthew Toomey , Miraz Murshed Rahman , Srijan Poudel
+Ateneo De Manila 3	eliminated	Closing Government	Issac KoⒸ , Asif Mehedi , Daisy Yan Sun , Udai Kamath , Yao Kun
+HUFS 1	advancing	Opening Opposition	Issac KoⒸ , Asif Mehedi , Daisy Yan Sun , Udai Kamath , Yao Kun
+IITB 1	advancing	Opening Government	Issac KoⒸ , Asif Mehedi , Daisy Yan Sun , Udai Kamath , Yao Kun
+SLSP 2	eliminated	Closing Opposition	Issac KoⒸ , Asif Mehedi , Daisy Yan Sun , Udai Kamath , Yao Kun
+SNU 1	eliminated	Closing Government	Minami MatsushimaⒸ , Catherine Nathan , Charlie Ryan , Clairene Tan , Deva
+NTU 1	eliminated	Opening Opposition	Minami MatsushimaⒸ , Catherine Nathan , Charlie Ryan , Clairene Tan , Deva
+Ateneo De Manila 1	advancing	Closing Opposition	Minami MatsushimaⒸ , Catherine Nathan , Charlie Ryan , Clairene Tan , Deva
+UT MARA 3	advancing	Opening Government	Minami MatsushimaⒸ , Catherine Nathan , Charlie Ryan , Clairene Tan , Deva
+SUN 1	advancing	Opening Opposition	Tobi LeungⒸ , Ernest Mah , Jean Atong , Kotaro Yoshida , Ⓣ Pranav Kagalkar Ⓣ
+NUS 2	eliminated	Closing Opposition	Tobi LeungⒸ , Ernest Mah , Jean Atong , Kotaro Yoshida , Ⓣ Pranav Kagalkar Ⓣ
+PKU 1	advancing	Opening Government	Tobi LeungⒸ , Ernest Mah , Jean Atong , Kotaro Yoshida , Ⓣ Pranav Kagalkar Ⓣ
+MYSORE 1	eliminated	Closing Government	Tobi LeungⒸ , Ernest Mah , Jean Atong , Kotaro Yoshida , Ⓣ Pranav Kagalkar Ⓣ
+
+
+team	result	side	adjudicators
+NUS 1	eliminated	Closing Government	Matthew ToomeyⒸ , Catherine Nathan , Deva , Ernest Mah , Jordyn Gibson , Srijan Poudel , Udai Kamath
+Ateneo De Manila 1	advancing	Opening Government	Matthew ToomeyⒸ , Catherine Nathan , Deva , Ernest Mah , Jordyn Gibson , Srijan Poudel , Udai Kamath
+UT MARA 3	eliminated	Closing Opposition	Matthew ToomeyⒸ , Catherine Nathan , Deva , Ernest Mah , Jordyn Gibson , Srijan Poudel , Udai Kamath
+UP Diliman 1	advancing	Opening Opposition	Matthew ToomeyⒸ , Catherine Nathan , Deva , Ernest Mah , Jordyn Gibson , Srijan Poudel , Udai Kamath
+SUN 1	eliminated	Opening Government	Kotaro YoshidaⒸ , Charlie Ryan , David Africa , Ellie Stephenson , Issac Ko , Mikkel , Ⓣ Pranav Kagalkar Ⓣ
+HUFS 1	eliminated	Opening Opposition	Kotaro YoshidaⒸ , Charlie Ryan , David Africa , Ellie Stephenson , Issac Ko , Mikkel , Ⓣ Pranav Kagalkar Ⓣ
+IITB 1	advancing	Closing Opposition	Kotaro YoshidaⒸ , Charlie Ryan , David Africa , Ellie Stephenson , Issac Ko , Mikkel , Ⓣ Pranav Kagalkar Ⓣ
+PKU 1	advancing	Closing Government	Kotaro YoshidaⒸ , Charlie Ryan , David Africa , Ellie Stephenson , Issac Ko , Mikkel , Ⓣ Pranav Kagalkar Ⓣ
+
+
+team	result	side	adjudicators
+Ateneo De Manila 1	advancing	Opening Opposition	Udai KamathⒸ , Asif Mehedi , Charlie Ryan , Ernest Mah , Issac Ko , Jordyn Gibson , Kotaro Yoshida , Minami Matsushima , Ⓣ Pranav Kagalkar Ⓣ
+IITB 1	eliminated	Closing Opposition	Udai KamathⒸ , Asif Mehedi , Charlie Ryan , Ernest Mah , Issac Ko , Jordyn Gibson , Kotaro Yoshida , Minami Matsushima , Ⓣ Pranav Kagalkar Ⓣ
+PKU 1	eliminated	Closing Government	Udai KamathⒸ , Asif Mehedi , Charlie Ryan , Ernest Mah , Issac Ko , Jordyn Gibson , Kotaro Yoshida , Minami Matsushima , Ⓣ Pranav Kagalkar Ⓣ
+UP Diliman 1	eliminated	Opening Government	Udai KamathⒸ , Asif Mehedi , Charlie Ryan , Ernest Mah , Issac Ko , Jordyn Gibson , Kotaro Yoshida , Minami Matsushima , Ⓣ Pranav Kagalkar Ⓣ
+
+
+team	result	side	adjudicators
+AJCUI 1	advancing	Opening Opposition	Tobi LeungⒸ , Clairene Tan , David Africa , Jean Atong , Jordyn Gibson , Kotaro Yoshida , Umar Fazlan
+KDS 1	advancing	Closing Opposition	Tobi LeungⒸ , Clairene Tan , David Africa , Jean Atong , Jordyn Gibson , Kotaro Yoshida , Umar Fazlan
+CUHK 2	eliminated	Opening Government	Tobi LeungⒸ , Clairene Tan , David Africa , Jean Atong , Jordyn Gibson , Kotaro Yoshida , Umar Fazlan
+UI 2	eliminated	Closing Government	Tobi LeungⒸ , Clairene Tan , David Africa , Jean Atong , Jordyn Gibson , Kotaro Yoshida , Umar Fazlan
+
+
+team	result	side	adjudicators
+AJCUI 1	eliminated	Closing Government	Minami MatsushimaⒸ , Aayana Rai Bhojani , Catherine Nathan , Deva , Ellie Stephenson , Matthew Toomey , Mikkel , Tobi Leung , Yao Kun
+IT Bandung 1	eliminated	Opening Government	Minami MatsushimaⒸ , Aayana Rai Bhojani , Catherine Nathan , Deva , Ellie Stephenson , Matthew Toomey , Mikkel , Tobi Leung , Yao Kun
+KDS 1	eliminated	Closing Opposition	Minami MatsushimaⒸ , Aayana Rai Bhojani , Catherine Nathan , Deva , Ellie Stephenson , Matthew Toomey , Mikkel , Tobi Leung , Yao Kun
+Gadjah Mada 1	advancing	Opening Opposition	Minami MatsushimaⒸ , Aayana Rai Bhojani , Catherine Nathan , Deva , Ellie Stephenson , Matthew Toomey , Mikkel , Tobi Leung , Yao Kun
+

@@ -1,0 +1,888 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Cornell OP		1st	2nd	1st	1st	1st	14	816	4	1
+2	Zagreb DR	ESL	1st	1st	2nd	1st	2nd	13	805	3	2
+3	IND AS		1st	2nd	1st	2nd	1st	13	796	3	2
+4	IND NZ		3rd	1st	1st	2nd	1st	12	798	3	1
+5	Stanford BC		1st	3rd	1st	1st	2nd	12	797	3	1
+6	VIT BD	ESL	1st	4th	1st	1st	1st	12	784	4	0
+7	IND PW		1st	1st	3rd	2nd	2nd	11	797	2	2
+8	UCLA HM		1st	1st	3rd	1st	3rd	11	796	3	0
+9	IND BH		1st	1st	2nd	2nd	3rd	11	788	2	2
+10	DU KN	ESL	3rd	2nd	1st	2nd	1st	11	782	2	2
+11	EDS KW		1st	4th	2nd	1st	1st	11	776	3	1
+12	IND CT		1st	1st	1st	4th	3rd	10	798	3	0
+13	IND AW		1st	2nd	1st	4th	2nd	10	795	2	2
+14	IND MU		1st	1st	4th	3rd	1st	10	793	3	0
+15	IND MatsuYashi		1st	3rd	2nd	3rd	1st	10	793	2	1
+16	DTU CN	ESL	2nd	2nd	3rd	2nd	1st	10	789	1	3
+17	Ateneo GB		1st	4th	1st	1st	3rd	10	787	3	0
+18	JHU GW		2nd	1st	3rd	3rd	1st	10	784	2	1
+19	QDU CK		2nd	1st	2nd	1st	4th	10	783	2	2
+20	EUDU DW		2nd	1st	2nd	3rd	2nd	10	781	1	3
+21	Cape Coast NN	ESL	2nd	3rd	2nd	1st	2nd	10	776	1	3
+22	IND KQ		2nd	1st	3rd	2nd	2nd	10	772	1	3
+23	UWODS CL		4th	1st	3rd	1st	1st	10	762	3	0
+24	IND DS	ESL	1st	2nd	1st	3rd	4th	9	790	2	1
+25	KNUST AS	ESL	3rd	1st	2nd	1st	4th	9	786	2	1
+26	IND FS	Novice	2nd	2nd	2nd	3rd	2nd	9	784	0	4
+27	IIT Bombay GR	ESL	2nd	4th	1st	3rd	1st	9	782	2	1
+28	IND SW		2nd	2nd	1st	3rd	3rd	9	780	1	2
+29	IND LL		1st	3rd	1st	3rd	3rd	9	779	2	0
+30	Tokyo MY	ESL	4th	1st	1st	3rd	2nd	9	778	2	1
+31	Ilorin OO	ESL	1st	2nd	3rd	2nd	3rd	9	778	1	2
+32	Bucharest SS	ESL	3rd	1st	4th	2nd	1st	9	777	2	1
+33	NU BZ	ESL	1st	3rd	1st	4th	2nd	9	774	2	1
+34	KNUST AcheawAdetor	ESL, Novice	2nd	4th	2nd	1st	2nd	9	769	1	3
+35	IND SZ	ESL, Novice	4th	1st	1st	1st	4th	9	765	3	0
+36	Carroll DS		3rd	4th	2nd	1st	1st	9	762	2	1
+37	IND HP		1st	1st	4th	2nd	4th	8	788	2	1
+38	IND BonnieClyde	Novice	2nd	2nd	3rd	4th	1st	8	784	1	2
+39	IND KM		3rd	2nd	4th	1st	2nd	8	782	1	2
+40	UW-Madison GN	Novice	2nd	3rd	2nd	4th	1st	8	781	1	2
+41	HH AY		1st	4th	3rd	1st	3rd	8	778	2	0
+42	KNUST AF	ESL	3rd	3rd	1st	1st	4th	8	773	2	0
+43	IND WW	ESL	2nd	1st	4th	4th	1st	8	771	2	1
+44	HH MM		2nd	3rd	2nd	2nd	3rd	8	770	0	3
+45	UBC AM	Novice	2nd	2nd	2nd	4th	2nd	8	767	0	4
+46	VIT MS	ESL, Novice	3rd	1st	3rd	4th	1st	8	764	2	0
+47	KNUST AA	ESL	2nd	2nd	2nd	4th	2nd	8	762	0	4
+48	BRAC A	ESL, Novice	4th	4th	1st	1st	2nd	8	752	2	1
+49	IND DeClaroTiu	ESL, Novice	2nd	3rd	3rd	2nd	3rd	7	778	0	2
+50	UW-Madison DP		1st	2nd	4th	2nd	4th	7	770	1	2
+51	IND RV	ESL	4th	1st	2nd	3rd	3rd	7	767	1	1
+52	KNUST DO	ESL	1st	2nd	2nd	4th	4th	7	766	1	2
+53	KNUST AN	ESL, Novice	1st	4th	3rd	1st	4th	7	765	2	0
+54	HWS CS	Novice	3rd	3rd	1st	2nd	4th	7	765	1	1
+55	IND LZ		1st	4th	4th	2nd	2nd	7	764	1	2
+56	KNUST AB	ESL	3rd	4th	2nd	1st	3rd	7	758	1	1
+57	IND AF	ESL	3rd	4th	1st	3rd	2nd	7	756	1	1
+58	SSE FH	ESL	3rd	3rd	2nd	4th	1st	7	752	1	1
+59	QDU GK	Novice	3rd	4th	1st	1st	4th	7	751	2	0
+60	Carroll CK		4th	3rd	4th	1st	1st	7	750	2	0
+61	GCU Lahore BK	ESL, Novice	2nd	1st	4th	3rd	3rd	7	748	1	1
+62	UCLA MP		4th	2nd	4th	3rd	1st	6	765	1	1
+63	Calgary CH	ESL	4th	2nd	2nd	3rd	3rd	6	765	0	2
+64	HWS RT	ESL	3rd	1st	4th	3rd	3rd	6	763	1	0
+65	Tokyo MT	ESL	1st	3rd	4th	2nd	4th	6	762	1	1
+66	UCLA MS	Novice	4th	2nd	3rd	2nd	3rd	6	758	0	2
+67	Veritas AE	Novice	2nd	4th	2nd	4th	2nd	6	756	0	3
+68	UW-Madison DH		2nd	4th	3rd	3rd	2nd	6	756	0	2
+69=	Carroll MT	Novice	4th	4th	2nd	1st	3rd	6	755	1	1
+69=	KNUST EK	ESL	4th	3rd	1st	2nd	4th	6	755	1	1
+71	BUP MS	ESL	3rd	1st	4th	4th	2nd	6	754	1	1
+72	KNUST MY	ESL, Novice	3rd	2nd	4th	4th	1st	6	751	1	1
+73	CU BM	ESL	2nd	3rd	3rd	2nd	4th	6	751	0	2
+74	IND MS	ESL, Novice	3rd	3rd	2nd	3rd	3rd	6	750	0	1
+75	IND DE	Novice	3rd	4th	3rd	2nd	2nd	6	744	0	2
+76	IND MW	ESL	4th	1st	1st	4th	4th	6	741	2	0
+77	Windsor CS		2nd	4th	4th	1st	4th	5	762	1	1
+78	Carroll BK		2nd	4th	3rd	2nd	4th	5	761	0	2
+79	PES HT		4th	2nd	3rd	4th	2nd	5	755	0	2
+80	Alberta DH	ESL	3rd	2nd	3rd	3rd	4th	5	748	0	1
+81	MDU IK		4th	2nd	2nd	4th	3rd	5	747	0	2
+82	Swin		3rd	4th	3rd	2nd	3rd	5	744	0	1
+83	EUDU ST	Novice	2nd	3rd	4th	3rd	4th	4	756	0	1
+84	Claremont DZ	Novice	4th	1st	3rd	4th	4th	4	750	1	0
+85	Carroll BS		4th	4th	3rd	4th	1st	4	748	1	0
+86	UBC 1	Novice	4th	2nd	3rd	3rd	4th	4	744	0	1
+87	Carroll JT	Novice	3rd	2nd	4th	4th	3rd	4	743	0	1
+88	Kyoto MK		4th	4th	3rd	3rd	2nd	4	734	0	1
+89	Carroll FW	Novice	4th	2nd	—	3rd	3rd	4	593	0	1
+90	Swig		3rd	3rd	4th	2nd	—	4	553	0	1
+91	Carroll HS	Novice	4th	3rd	4th	2nd	4th	3	746	0	1
+92	Doshisha KO		3rd	3rd	4th	3rd	—	3	599	0	0
+93	SPDU CK	Novice	3rd	4th	2nd	4th	—	3	597	0	1
+94	Swing		4th	4th	1st	4th	—	3	590	1	0
+95	DUDU DN	ESL, Novice	3rd	3rd	3rd	—	—	3	457	0	0
+96	UHAS DJ	ESL	2nd	3rd	—	—	—	3	304	0	1
+97	Sing		—	—	1st	—	—	3	158	1	0
+98	Erasmus CL		4th	3rd	4th	4th	3rd	2	737	0	0
+99	Carleton PT		4th	3rd	4th	4th	4th	1	728	0	0
+100	RMC BM		4th	3rd	—	—	—	1	284	0	0
+101	Guelph DE		4th	4th	4th	—	—	0	443	0	0
+102	Swung		—	—	4th	—	—	0	145	0	0
+103	Swng		—	—	4th	—	—	0	142	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1=	Eli Pallrand		Cornell OP	80	82	83	82	81	408	81.60	1.02
+1=	Ram Orfanel		Cornell OP	81	81	81	82	83	408	81.60	0.80
+3=	Naomi		IND NZ	78	78	83	81	83	403	80.60	2.24
+3=	Robert Raos	ESL	Zagreb DR	80	81	81	80	81	403	80.60	0.49
+5	Paula Djakovic	ESL	Zagreb DR	79	81	81	81	80	402	80.40	0.80
+6=	Belle Ho		UCLA HM	79	83	81	78	79	400	80.00	1.79
+6=	Amelia		IND PW	79	82	79	79	81	400	80.00	1.26
+8=	Claire Beamer		Stanford BC	79	77	82	79	82	399	79.80	1.94
+8=	Victor Tong		IND CT	80	80	82	77	80	399	79.80	1.60
+8=	Randy Chang		IND CT	81	80	81	77	80	399	79.80	1.47
+8=	Max Williams		IND AW	80	79	81	78	81	399	79.80	1.17
+8=	Minami Matsushima		IND MatsuYashi	79	79	80	76	85	399	79.80	2.93
+8=	Abhinav Mohanty		IND MU	80	80	79	78	82	399	79.80	1.33
+14=	Nadia Chung		Stanford BC	78	77	82	80	81	398	79.60	1.85
+14=	Dennis Su		IND AS	80	78	77	81	82	398	79.60	1.85
+14=	Pranav Anand		IND AS	80	78	76	82	82	398	79.60	2.33
+17=	Alicia Wang	ESL	IND PW	78	80	80	79	80	397	79.40	0.80
+17=	Matti Duran	ESL	IND DS	80	80	83	77	77	397	79.40	2.24
+19=	Thej Mallu		UCLA HM	79	82	80	77	78	396	79.20	1.72
+19=	Pranav Baskar		IND BH	78	80	80	80	78	396	79.20	0.98
+19=	Nicholas Abernethy		IND AW	79	79	80	78	80	396	79.20	0.75
+19=	Vansh Chadha	ESL	DTU CN	79	79	76	80	82	396	79.20	1.94
+23=	Alvin Zhou		IND NZ	77	77	81	78	82	395	79.00	2.10
+23=	Kyle Go		Ateneo GB	79	76	82	80	78	395	79.00	2.00
+25=	Manasija Das	ESL	VIT BD	78	76	81	79	80	394	78.80	1.72
+25=	Laura Hallmark		IND HP	83	80	80	75	76	394	78.80	2.93
+25=	Laura Pilmark	ESL	IND HP	83	80	79	76	76	394	78.80	2.64
+25=	Ryosei Kobayashi	ESL	IND MatsuYashi	78	78	79	75	84	394	78.80	2.93
+25=	Sam Unabia	ESL	IND MU	81	79	77	77	80	394	78.80	1.60
+30=	Claire Chen		QDU CK	78	79	80	81	75	393	78.60	2.06
+30=	Himan Nayak	ESL	DTU CN	78	78	76	79	82	393	78.60	1.96
+30=	Sharun Nikesh G	ESL	IIT Bombay GR	80	78	79	75	81	393	78.60	2.06
+30=	Angelo Saavedra	ESL	IND DS	79	78	81	78	77	393	78.60	1.36
+30=	Zainab Sardar	Novice	IND FS	78	79	79	78	79	393	78.60	0.49
+30=	Saleem Salisu	ESL	KNUST AS	76	77	80	80	80	393	78.60	1.74
+30=	Bernard Opoku Baah	ESL	KNUST AS	77	76	81	80	79	393	78.60	1.85
+37=	Ahmed Hussain		IND BH	77	79	80	79	77	392	78.40	1.20
+37=	Elizabeth Li	Novice	IND LL	79	77	79	79	78	392	78.40	0.80
+37=	Sandy Nayar	Novice	UW-Madison GN	78	79	80	76	79	392	78.40	1.36
+37=	Justin Wu		JHU GW	81	80	78	74	79	392	78.40	2.42
+37=	Muzamil Godil		JHU GW	81	81	78	72	80	392	78.40	3.38
+37=	Cian Delahunty		EUDU DW	78	79	81	77	77	392	78.40	1.50
+37=	David Bejarin		Ateneo GB	78	76	81	79	78	392	78.40	1.62
+37=	Anais Kneppers		EDS KW	78	78	77	78	81	392	78.40	1.36
+45=	Daniel Svirsky		IND SW	78	78	79	80	76	391	78.20	1.33
+45=	Olivia Zhao	Novice	IND BonnieClyde	77	76	80	75	83	391	78.20	2.93
+45=	Varun Mandgi		IND KM	76	78	77	79	81	391	78.20	1.72
+45=	Kristofers Krumins	ESL	IND KM	76	78	76	79	82	391	78.20	2.23
+45=	Krishaang Kohli	ESL	DU KN	76	77	79	79	80	391	78.20	1.47
+45=	naman	ESL	DU KN	76	77	80	78	80	391	78.20	1.60
+45=	Dragos Sassu	ESL	Bucharest SS	77	79	77	78	80	391	78.20	1.17
+45=	Eli Ferrell	Novice	IND FS	77	80	78	77	79	391	78.20	1.17
+53=	Nimai Koneru		QDU CK	77	79	77	80	77	390	78.00	1.26
+53=	Yashovardhan Balakrishnan	ESL	VIT BD	77	76	80	77	80	390	78.00	1.67
+53=	Alexander Olafisoye	ESL	Ilorin OO	80	80	79	72	79	390	78.00	3.03
+53=	Lorenz De Claro	ESL	IND DeClaroTiu	80	77	76	78	79	390	78.00	1.41
+53=	Kotaro Yoshida	ESL	Tokyo MY	76	79	83	71	81	390	78.00	4.20
+58=	Diggory Waddle		IND SW	76	79	80	78	76	389	77.80	1.60
+58=	Mahir Aziz		HH AY	79	76	79	79	76	389	77.80	1.47
+58=	Simon Yu		HH AY	79	76	79	78	77	389	77.80	1.17
+58=	Aph Guvenen	Novice	UW-Madison GN	78	79	79	75	78	389	77.80	1.47
+58=	Dominic Westwood		EUDU DW	78	78	80	77	76	389	77.80	1.33
+58=	Eze Nwakuba	ESL	Cape Coast NN	78	77	76	79	79	389	77.80	1.17
+58=	V Sayiram	ESL	IIT Bombay GR	80	77	79	73	80	389	77.80	2.64
+65=	Daniyar Baimagambetov	ESL	NU BZ	78	78	80	72	80	388	77.60	2.94
+65=	Owolabi Victor Oluwatobi	ESL	Ilorin OO	79	80	78	72	79	388	77.60	2.87
+65=	Christ Tiu	ESL	IND DeClaroTiu	80	77	76	77	78	388	77.60	1.36
+65=	Sharon Wang	ESL	IND WW	78	80	77	73	80	388	77.60	2.58
+65=	Yuichi Masaoka	ESL	Tokyo MY	76	79	82	70	81	388	77.60	4.32
+70=	Nathaniel Fleku	ESL	KNUST AF	77	77	78	77	78	387	77.40	0.49
+70=	Micaela Lewis		IND LL	78	77	78	78	76	387	77.40	0.80
+70=	Zach Dyar		UW-Madison DP	78	79	78	77	75	387	77.40	1.36
+70=	Super Nana	ESL	Cape Coast NN	77	76	76	79	79	387	77.40	1.36
+70=	Wurdaan Kashif	Novice	IND KQ	78	78	75	76	80	387	77.40	1.74
+75=	Martin Avorgah	ESL	KNUST AF	78	76	78	77	77	386	77.20	0.75
+75=	Altynay Zamanbekova	ESL	NU BZ	77	77	79	73	80	386	77.20	2.40
+75=	Theodora Simion	ESL	Bucharest SS	77	78	76	76	79	386	77.20	1.17
+75=	Cam Miranda-Radbord		HH MM	78	77	79	76	76	386	77.20	1.17
+79=	JEFFERY OWUSU ACHEAW	ESL, Novice	KNUST AcheawAdetor	77	75	78	78	77	385	77.00	1.10
+79=	Sam Li	Novice	IND LZ	77	75	78	78	77	385	77.00	1.10
+79=	Raymond Qiu		IND KQ	77	77	74	78	79	385	77.00	1.67
+79=	Yehezkiel Vito	ESL, Novice	IND RV	74	77	81	76	77	385	77.00	2.28
+83=	Nilabh Agrawal	Novice	UBC AM	77	76	79	75	77	384	76.80	1.33
+83=	Kojo O. Acheampong	ESL	KNUST AA	76	78	77	75	78	384	76.80	1.17
+83=	DELA ADETOR	ESL, Novice	KNUST AcheawAdetor	77	74	79	77	77	384	76.80	1.60
+83=	Matthew Agyapong	ESL, Novice	KNUST AN	77	74	78	79	76	384	76.80	1.72
+83=	Siddharth Chopra	ESL	Calgary CH	75	79	78	77	75	384	76.80	1.60
+83=	Pedro Proano		EDS KW	76	77	76	75	80	384	76.80	1.72
+83=	Takeshi Matsuda	ESL	Tokyo MT	77	77	77	77	76	384	76.80	0.40
+83=	Joseph Mai	Novice	HH MM	77	76	79	76	76	384	76.80	1.17
+91=	Manon Melkonyan	Novice	UBC AM	77	76	77	75	78	383	76.60	1.02
+91=	Hudson Chou	Novice	HWS CS	78	76	77	76	76	383	76.60	0.80
+91=	Namay Modi	ESL, Novice	VIT MS	75	79	77	74	78	383	76.60	1.85
+91=	Ethan Park		UW-Madison DP	77	78	76	78	74	383	76.60	1.50
+91=	Aaron Wang	ESL	IND WW	76	78	78	72	79	383	76.60	2.50
+91=	Fatima Zahra	ESL, Novice	IND SZ	75	77	78	76	77	383	76.60	1.02
+91=	Redacted	ESL	—	76	76	77	77	77	383	76.60	0.49
+98=	Cayden Pocrass	Novice	UCLA MP	76	76	74	77	79	382	76.40	1.62
+98=	Lamia Nur Rahman	ESL	HWS RT	76	76	75	77	78	382	76.40	1.02
+98=	Fairooj Rushmila Suhita	ESL, Novice	HWS CS	77	77	76	77	75	382	76.40	0.80
+98=	Madhumita Chandrasekaran		UWODS CL	74	77	75	78	78	382	76.40	1.62
+98=	Charlie Said		Carroll DS	74	76	76	78	78	382	76.40	1.50
+98=	Aadya Singh	ESL, Novice	IND SZ	75	78	77	76	76	382	76.40	1.02
+98=	Foula Christopoulos		Windsor CS	77	75	78	76	76	382	76.40	1.02
+98=	Raihan Rahman	ESL	IND RV	74	76	80	76	76	382	76.40	1.96
+106=	Sandeep Tissaaratchy	ESL	HWS RT	76	76	76	75	78	381	76.20	0.98
+106=	Jesse Ntiri	ESL, Novice	KNUST AN	77	73	78	77	76	381	76.20	1.72
+106=	Shaurya Sharma	ESL, Novice	VIT MS	75	78	76	74	78	381	76.20	1.60
+106=	Tanzim Hossain	ESL	Calgary CH	74	78	78	75	76	381	76.20	1.60
+106=	Lola Baerlocher		Carroll BK	76	78	75	77	75	381	76.20	1.17
+111=	Leila Muney	Novice	UCLA MS	74	78	77	76	75	380	76.00	1.41
+111=	Jacki Li		UWODS CL	73	77	74	79	77	380	76.00	2.19
+111=	Catherine Dudley		Carroll DS	73	76	76	77	78	380	76.00	1.67
+111=	Mary Knight		Carroll BK	77	78	73	77	75	380	76.00	1.79
+111=	Sefat Uddin Samee	ESL, Novice	Windsor CS	76	75	77	76	76	380	76.00	0.63
+116=	Muhammad Bakhtiar	ESL	CU BM	76	76	78	75	74	379	75.80	1.33
+116=	Joyce Delali Kpeglo	ESL	KNUST EK	76	77	75	75	76	379	75.80	0.75
+116=	Allen Zhu		IND LZ	76	75	75	77	76	379	75.80	0.75
+116=	Zach Heintz		UW-Madison DH	77	74	75	77	76	379	75.80	1.17
+116=	Heart Joan Enigha	Novice	Veritas AE	75	75	76	76	77	379	75.80	0.75
+116=	Davis Thompson	Novice	Carroll MT	74	75	76	77	77	379	75.80	1.17
+122=	Ishani Saran	Novice	UCLA MS	74	77	76	75	76	378	75.60	1.02
+122=	Furgurson Awuni	ESL	KNUST AA	76	73	77	74	78	378	75.60	1.85
+122=	Prince Dennis Atisu	ESL	KNUST AB	78	73	72	80	75	378	75.60	3.01
+122=	Tejas Goyal		PES HT	76	76	76	74	76	378	75.60	0.80
+122=	Thuy Huynh	ESL	SSE FH	77	77	74	74	76	378	75.60	1.36
+122=	Aymaan Sheikh	Novice	EUDU ST	77	78	74	75	74	378	75.60	1.62
+122=	Esmé Thornhill-Davis	Novice	EUDU ST	77	78	74	76	73	378	75.60	1.85
+122=	Riho Takahashi	ESL	Tokyo MT	76	77	73	77	75	378	75.60	1.50
+130=	Ahnaf Khan	Novice	QDU GK	75	75	77	76	74	377	75.40	1.02
+130=	MK Denton		UW-Madison DH	77	74	75	75	76	377	75.40	1.02
+130=	Samuel Thomas		PES HT	75	77	75	75	75	377	75.40	0.80
+130=	Kaden Crozier		Carroll CK	71	75	76	78	77	377	75.40	2.42
+130=	Shahriar Mahmud	ESL, Novice	BUP MS	76	77	70	75	79	377	75.40	3.01
+130=	Rubaiyat Samad	ESL	BUP MS	77	77	70	75	78	377	75.40	2.87
+130=	Patrick Donn dimasin	Novice	Claremont DZ	75	75	78	76	73	377	75.40	1.62
+137=	Agyare Ranveer Yeboah	ESL, Novice	KNUST MY	75	78	74	72	77	376	75.20	2.14
+137=	Miriam Ennim	ESL	KNUST EK	75	77	74	74	76	376	75.20	1.17
+137=	Xavier Alif	ESL, Novice	BRAC A	75	72	77	76	76	376	75.20	1.72
+137=	Md Abir Hasan Rahi	ESL, Novice	BRAC A	74	72	76	77	77	376	75.20	1.94
+137=	Emily Mowat	Novice	Carroll MT	74	74	76	76	76	376	75.20	0.98
+137=	Alina Khasanova		MDU IK	73	76	77	76	74	376	75.20	1.47
+143=	Agartha Mensah-Twumasi	ESL, Novice	KNUST MY	74	78	73	74	76	375	75.00	1.79
+143=	Taha Tahir	ESL, Novice	GCU Lahore BK	78	77	68	76	76	375	75.00	3.58
+143=	Rajesh Dhar	ESL	Alberta DH	76	75	74	75	75	375	75.00	0.63
+146=	Reilly Gill	Novice	QDU GK	75	73	78	75	73	374	74.80	1.83
+146=	Olivia Smith		Carroll BS	75	74	75	74	76	374	74.80	0.75
+146=	Sara Bocquin		Carroll BS	76	73	75	74	76	374	74.80	1.17
+146=	Felicia	ESL	SSE FH	76	76	76	72	74	374	74.80	1.60
+146=	Grace Damilola Durosaro	Novice	IND DE	76	72	75	77	74	374	74.80	1.72
+151=	Fayyad Ahmmed	ESL, Novice	UBC 1	76	75	74	75	73	373	74.60	1.02
+151=	G		Swin	76	74	72	76	75	373	74.60	1.50
+151=	Muhammad Hassan Butt	ESL, Novice	GCU Lahore BK	78	76	68	76	75	373	74.60	3.44
+151=	Katy Keim	Novice	Carroll CK	70	74	75	78	76	373	74.60	2.65
+151=	Jenna Hammond	Novice	Carroll HS	73	76	74	77	73	373	74.60	1.62
+151=	Anzhela Stoliar	Novice	Carroll HS	74	75	75	76	73	373	74.60	1.02
+151=	Alain Humura	ESL	Alberta DH	75	75	75	73	75	373	74.60	0.80
+151=	Ishani Zimmerman	Novice	Claremont DZ	75	74	78	74	72	373	74.60	1.96
+151=	Mostafizur Rahman Fahim	ESL, Novice	IND AF	74	72	76	75	76	373	74.60	1.50
+160=	Mozzammel Masum	ESL	CU BM	75	73	78	74	72	372	74.40	2.06
+160=	Meredith Wang	ESL	IND MW	75	79	78	65	75	372	74.40	4.96
+160=	Brad Tomasovic	Novice	Carroll JT	75	75	74	75	73	372	74.40	0.80
+163=	Ariel Zhang	Novice	UBC 1	73	76	76	74	72	371	74.20	1.60
+163=	Ashlynne Jeffries	Novice	Carroll JT	74	74	74	76	73	371	74.20	0.98
+163=	Saiyara Islam	ESL	MDU IK	73	74	76	75	73	371	74.20	1.17
+163=	Kosei Masube		Kyoto MK	73	73	75	75	75	371	74.20	0.98
+167=	Redacted		—	74	76	74	73	73	370	74.00	1.10
+167=	Shekinah Anuoluwakitan Eniola	Novice	IND DE	75	70	75	76	74	370	74.00	2.10
+169	Li Miao	ESL	IND MW	74	80	76	64	75	369	73.80	5.31
+170	Maria Corcoran	Novice	Erasmus CL	74	73	75	73	72	367	73.40	1.02
+171	Michiru Kambara		Kyoto MK	71	71	74	74	73	363	72.60	1.36
+172	Laura Wang	Novice	IND BonnieClyde	77	78	—	75	84	314	78.50	3.35
+173=	Ray Min		UCLA MP	76	77	75	—	79	307	76.75	1.48
+173=	Desmond Dorvlo	ESL	KNUST DO	78	78	75	76	—	307	76.75	1.30
+173=	Addo-Obeng Opoku-Agyeman	ESL	KNUST DO	78	—	75	78	76	307	76.75	1.30
+176	Abdullahi Hassana Maimako	ESL, Novice	IND MS	77	—	76	74	76	303	75.75	1.09
+177	Kalvin McQuaye	ESL	KNUST AB	—	73	74	80	75	302	75.50	2.69
+178	Yuka Osawa		Doshisha KO	75	74	77	75	—	301	75.25	1.09
+179	Rasee Kachchakaduge	Novice	SPDU CK	74	76	75	74	—	299	74.75	0.83
+180=	Chisato Kuwayama		Doshisha KO	74	74	77	73	—	298	74.50	1.50
+180=	Pedro Miguel Chen	Novice	SPDU CK	73	76	75	74	—	298	74.50	1.12
+182=	Hadley Wilcox	Novice	Carroll FW	75	74	—	74	74	297	74.25	0.43
+182=	Anjorin Teminijesu Success	ESL, Novice	IND MS	76	74	—	72	75	297	74.25	1.48
+184=	A		Swing	74	72	77	73	—	296	74.00	1.87
+184=	Jase Frost	Novice	Carroll FW	74	74	—	75	73	296	74.00	0.71
+186	Bilguun Tserenbadral		Carleton PT	73	73	74	—	72	292	73.00	0.71
+187	Parmida Pirouzi		Carleton PT	71	72	73	74	—	290	72.50	1.12
+188	E		Swig	74	77	50	76	—	277	69.25	11.17
+189	Almila Muslu	ESL, Novice	DUDU DN	76	76	77	—	—	229	76.33	0.47
+190	Aiza Nygman	ESL, Novice	DUDU DN	74	76	78	—	—	228	76.00	1.63
+191	Ruqayyah Abbas-Yusuf	Novice	Veritas AE	74	—	—	75	77	226	75.33	1.25
+192	H		Swin	75	74	72	—	—	221	73.67	1.25
+193	Ben Ellis		Guelph DE	70	75	74	—	—	219	73.00	2.16
+194	B		Swing	74	72	—	72	—	218	72.67	0.94
+195	Eziel Johnson	ESL	UHAS DJ	78	75	—	—	—	153	76.50	1.50
+196	George Dumitru		Guelph DE	73	76	—	—	—	149	74.50	1.50
+197	Al-Ansar Mohammed		RMC BM	70	73	—	—	—	143	71.50	1.50
+198	Christopher Bijoux		RMC BM	68	73	—	—	—	141	70.50	2.50
+199	F		Swig	76	—	50	—	—	126	63.00	13.00
+200=	C		Sing	—	—	79	—	—	79	79.00	0.00
+200=	D		Sing	—	—	79	—	—	79	79.00	0.00
+202	L		Swung	—	—	73	—	—	73	73.00	0.00
+203=	I		Swng	—	—	71	—	—	71	71.00	0.00
+203=	J		Swng	—	—	71	—	—	71	71.00	0.00
+205=	K		Swung	—	—	—	—	—	—	—	—
+205=	Scott	ESL	UHAS DJ	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+IND BH	1st	Opening Government	View Ballot	Pascal Blaise ObengⒸ , Akinjayeju Mitchell Temitope , Qareebat IbrahimⓉ
+IND BonnieClyde	2nd	Closing Government	View Ballot	Pascal Blaise ObengⒸ , Akinjayeju Mitchell Temitope , Qareebat IbrahimⓉ
+IND KM	3rd	Opening Opposition	View Ballot	Pascal Blaise ObengⒸ , Akinjayeju Mitchell Temitope , Qareebat IbrahimⓉ
+IND SZ	4th	Closing Opposition	View Ballot	Pascal Blaise ObengⒸ , Akinjayeju Mitchell Temitope , Qareebat IbrahimⓉ
+UCLA MP	4th	Opening Government	View Ballot	Ananya KrishnaⒸ , Yueqian , Vicente GallardoⓉ
+KNUST AB	3rd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Yueqian , Vicente GallardoⓉ
+IND HP	1st	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Yueqian , Vicente GallardoⓉ
+JHU GW	2nd	Closing Government	View Ballot	Ananya KrishnaⒸ , Yueqian , Vicente GallardoⓉ
+UCLA MS	4th	Closing Government	View Ballot	Craig McDonaldⒸ , Dang Pham , Sagneek SenguptaⓉ
+DU KN	3rd	Opening Government	View Ballot	Craig McDonaldⒸ , Dang Pham , Sagneek SenguptaⓉ
+Zagreb DR	1st	Opening Opposition	View Ballot	Craig McDonaldⒸ , Dang Pham , Sagneek SenguptaⓉ
+HH MM	2nd	Closing Opposition	View Ballot	Craig McDonaldⒸ , Dang Pham , Sagneek SenguptaⓉ
+KNUST AF	3rd	Opening Government	View Ballot	Donkor ArchimedesⒸ , Emily Shi , Emmanuel Ayite-Atiapa , Ryna SaxenaⓉ
+Carroll FW	4th	Closing Opposition	View Ballot	Donkor ArchimedesⒸ , Emily Shi , Emmanuel Ayite-Atiapa , Ryna SaxenaⓉ
+IND DeClaroTiu	2nd	Closing Government	View Ballot	Donkor ArchimedesⒸ , Emily Shi , Emmanuel Ayite-Atiapa , Ryna SaxenaⓉ
+IND MU	1st	Opening Opposition	View Ballot	Donkor ArchimedesⒸ , Emily Shi , Emmanuel Ayite-Atiapa , Ryna SaxenaⓉ
+QDU CK	2nd	Closing Government	View Ballot	Alishba IrfanⒸ , Mark Garvyn So , Abhilaksh AbhilakshⓉ
+Carroll HS	4th	Closing Opposition	View Ballot	Alishba IrfanⒸ , Mark Garvyn So , Abhilaksh AbhilakshⓉ
+Cornell OP	1st	Opening Government	View Ballot	Alishba IrfanⒸ , Mark Garvyn So , Abhilaksh AbhilakshⓉ
+Bucharest SS	3rd	Opening Opposition	View Ballot	Alishba IrfanⒸ , Mark Garvyn So , Abhilaksh AbhilakshⓉ
+IND NZ	3rd	Opening Government	View Ballot	Oloruntoyin Muhammadbaqir AkoredeⒸ , Priya Shukla , Drawin MishraⓉ
+Ilorin OO	1st	Opening Opposition	View Ballot	Oloruntoyin Muhammadbaqir AkoredeⒸ , Priya Shukla , Drawin MishraⓉ
+DTU CN	2nd	Closing Opposition	View Ballot	Oloruntoyin Muhammadbaqir AkoredeⒸ , Priya Shukla , Drawin MishraⓉ
+Tokyo MY	4th	Closing Government	View Ballot	Oloruntoyin Muhammadbaqir AkoredeⒸ , Priya Shukla , Drawin MishraⓉ
+UBC 1	4th	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ , Rajyawardhan Singh
+IND AW	1st	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ , Rajyawardhan Singh
+DUDU DN	3rd	Opening Government	View Ballot	Erasmus SegbefiaⒸ , Rajyawardhan Singh
+UHAS DJ	2nd	Closing Government	View Ballot	Erasmus SegbefiaⒸ , Rajyawardhan Singh
+HWS RT	3rd	Closing Opposition	View Ballot	Sebastian DassoⒸ
+HH AY	1st	Closing Government	View Ballot	Sebastian DassoⒸ
+PES HT	4th	Opening Government	View Ballot	Sebastian DassoⒸ
+EUDU ST	2nd	Opening Opposition	View Ballot	Sebastian DassoⒸ
+Carroll DS	3rd	Opening Government	View Ballot	Pjotr KosterⒸ , Pranav Nair , Snigdha PriyadarshiniⓉ
+Carroll CK	4th	Closing Opposition	View Ballot	Pjotr KosterⒸ , Pranav Nair , Snigdha PriyadarshiniⓉ
+EUDU DW	2nd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Pranav Nair , Snigdha PriyadarshiniⓉ
+IND DS	1st	Closing Government	View Ballot	Pjotr KosterⒸ , Pranav Nair , Snigdha PriyadarshiniⓉ
+HWS CS	3rd	Opening Opposition	View Ballot	Ogundare Taye OluwatobilolaⒸ , Austin Thoma
+IND CT	1st	Closing Opposition	View Ballot	Ogundare Taye OluwatobilolaⒸ , Austin Thoma
+IND MW	4th	Opening Government	View Ballot	Ogundare Taye OluwatobilolaⒸ , Austin Thoma
+IIT Bombay GR	2nd	Closing Government	View Ballot	Ogundare Taye OluwatobilolaⒸ , Austin Thoma
+BRAC A	4th	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Axcel France Eco , Khaled RajanⓉ
+Alberta DH	3rd	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Axcel France Eco , Khaled RajanⓉ
+IND KQ	2nd	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Axcel France Eco , Khaled RajanⓉ
+KNUST DO	1st	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Axcel France Eco , Khaled RajanⓉ
+UW-Madison DH	2nd	Closing Opposition	View Ballot	Emmanuel JusticeⒸ , Arowolo Olayemi Joshua , Utkarsh TomarⓉ
+Carroll BS	4th	Closing Government	View Ballot	Emmanuel JusticeⒸ , Arowolo Olayemi Joshua , Utkarsh TomarⓉ
+SSE FH	3rd	Opening Government	View Ballot	Emmanuel JusticeⒸ , Arowolo Olayemi Joshua , Utkarsh TomarⓉ
+UW-Madison DP	1st	Opening Opposition	View Ballot	Emmanuel JusticeⒸ , Arowolo Olayemi Joshua , Utkarsh TomarⓉ
+KNUST MY	3rd	Closing Government	View Ballot	Mikko VitugⒸ
+Swing	4th	Opening Opposition	View Ballot	Mikko VitugⒸ
+Carroll BK	2nd	Closing Opposition	View Ballot	Mikko VitugⒸ
+EDS KW	1st	Opening Government	View Ballot	Mikko VitugⒸ
+QDU GK	3rd	Opening Government	View Ballot	Jane MentzingerⒸ , Anna Hoerner
+IND LL	1st	Closing Opposition	View Ballot	Jane MentzingerⒸ , Anna Hoerner
+Cape Coast NN	2nd	Closing Government	View Ballot	Jane MentzingerⒸ , Anna Hoerner
+Guelph DE	4th	Opening Opposition	View Ballot	Jane MentzingerⒸ , Anna Hoerner
+KNUST AcheawAdetor	2nd	Opening Opposition	View Ballot	Shashwat DashⒸ , Ajay Joel
+Swin	3rd	Opening Government	View Ballot	Shashwat DashⒸ , Ajay Joel
+Stanford BC	1st	Closing Government	View Ballot	Shashwat DashⒸ , Ajay Joel
+Carroll MT	4th	Closing Opposition	View Ballot	Shashwat DashⒸ , Ajay Joel
+KNUST AA	2nd	Opening Government	View Ballot	Toru OgaⒸ , Garvit Gosain
+IND LZ	1st	Closing Government	View Ballot	Toru OgaⒸ , Garvit Gosain
+Erasmus CL	4th	Opening Opposition	View Ballot	Toru OgaⒸ , Garvit Gosain
+IND DE	3rd	Closing Opposition	View Ballot	Toru OgaⒸ , Garvit Gosain
+UBC AM	2nd	Closing Government	View Ballot	Dominic Stanley-MarcusⒸ , Kelvin Kwabena Asamoah Damptey , Harshvardhan JAKHERⓉ
+NU BZ	1st	Closing Opposition	View Ballot	Dominic Stanley-MarcusⒸ , Kelvin Kwabena Asamoah Damptey , Harshvardhan JAKHERⓉ
+IND MS	3rd	Opening Government	View Ballot	Dominic Stanley-MarcusⒸ , Kelvin Kwabena Asamoah Damptey , Harshvardhan JAKHERⓉ
+MDU IK	4th	Opening Opposition	View Ballot	Dominic Stanley-MarcusⒸ , Kelvin Kwabena Asamoah Damptey , Harshvardhan JAKHERⓉ
+VIT MS	3rd	Closing Government	View Ballot	Matt CaitoⒸ , Saatvik Dabral , Spencer McDonald
+IND AS	1st	Closing Opposition	View Ballot	Matt CaitoⒸ , Saatvik Dabral , Spencer McDonald
+RMC BM	4th	Opening Opposition	View Ballot	Matt CaitoⒸ , Saatvik Dabral , Spencer McDonald
+IND FS	2nd	Opening Government	View Ballot	Matt CaitoⒸ , Saatvik Dabral , Spencer McDonald
+IND PW	1st	Closing Opposition	View Ballot	Sudiksha AggarwalⒸ , Ayushi Nasa , Tivlumun AlexanderⓉ
+BUP MS	3rd	Opening Government	View Ballot	Sudiksha AggarwalⒸ , Ayushi Nasa , Tivlumun AlexanderⓉ
+UW-Madison GN	2nd	Closing Government	View Ballot	Sudiksha AggarwalⒸ , Ayushi Nasa , Tivlumun AlexanderⓉ
+Claremont DZ	4th	Opening Opposition	View Ballot	Sudiksha AggarwalⒸ , Ayushi Nasa , Tivlumun AlexanderⓉ
+Swig	3rd	Opening Government	View Ballot	Gazi MahtabⒸ , Opoola Opeyemi Toluwase
+Calgary CH	4th	Closing Government	View Ballot	Gazi MahtabⒸ , Opoola Opeyemi Toluwase
+Ateneo GB	1st	Opening Opposition	View Ballot	Gazi MahtabⒸ , Opoola Opeyemi Toluwase
+IND WW	2nd	Closing Opposition	View Ballot	Gazi MahtabⒸ , Opoola Opeyemi Toluwase
+UWODS CL	4th	Closing Opposition	View Ballot	Gerson Oviedo SotoⒸ , Anshuman Singh
+IND SW	2nd	Opening Government	View Ballot	Gerson Oviedo SotoⒸ , Anshuman Singh
+VIT BD	1st	Closing Government	View Ballot	Gerson Oviedo SotoⒸ , Anshuman Singh
+Carroll JT	3rd	Opening Opposition	View Ballot	Gerson Oviedo SotoⒸ , Anshuman Singh
+KNUST AN	1st	Opening Government	View Ballot	Shaurya ChandravanshiⒸ , Oladi Gabisi
+Windsor CS	2nd	Closing Government	View Ballot	Shaurya ChandravanshiⒸ , Oladi Gabisi
+IND RV	4th	Closing Opposition	View Ballot	Shaurya ChandravanshiⒸ , Oladi Gabisi
+IND AF	3rd	Opening Opposition	View Ballot	Shaurya ChandravanshiⒸ , Oladi Gabisi
+Carleton PT	4th	Closing Government	View Ballot	Mohammed habibⒸ , Ax France , Frank WercinskiⓉ
+Veritas AE	2nd	Opening Government	View Ballot	Mohammed habibⒸ , Ax France , Frank WercinskiⓉ
+SPDU CK	3rd	Opening Opposition	View Ballot	Mohammed habibⒸ , Ax France , Frank WercinskiⓉ
+Tokyo MT	1st	Closing Opposition	View Ballot	Mohammed habibⒸ , Ax France , Frank WercinskiⓉ
+CU BM	2nd	Opening Opposition	View Ballot	Rahul KalavaguntaⒸ , Mohanish Tatiya , Neeraja DasⓉ
+IND MatsuYashi	1st	Closing Opposition	View Ballot	Rahul KalavaguntaⒸ , Mohanish Tatiya , Neeraja DasⓉ
+Doshisha KO	3rd	Opening Government	View Ballot	Rahul KalavaguntaⒸ , Mohanish Tatiya , Neeraja DasⓉ
+Kyoto MK	4th	Closing Government	View Ballot	Rahul KalavaguntaⒸ , Mohanish Tatiya , Neeraja DasⓉ
+UCLA HM	1st	Opening Opposition	View Ballot	Tin PuljićⒸ , Tousif Tanvir Alam
+KNUST EK	4th	Closing Opposition	View Ballot	Tin PuljićⒸ , Tousif Tanvir Alam
+GCU Lahore BK	2nd	Closing Government	View Ballot	Tin PuljićⒸ , Tousif Tanvir Alam
+KNUST AS	3rd	Opening Government	View Ballot	Tin PuljićⒸ , Tousif Tanvir Alam
+
+
+team	result	side	ballot	adjudicators
+Swin	4th	Opening Government	View Ballot	Emily ShiⒸ , Andy PhamⓉ
+Carroll HS	3rd	Opening Opposition	View Ballot	Emily ShiⒸ , Andy PhamⓉ
+IND MW	1st	Closing Government	View Ballot	Emily ShiⒸ , Andy PhamⓉ
+Calgary CH	2nd	Closing Opposition	View Ballot	Emily ShiⒸ , Andy PhamⓉ
+UCLA MS	2nd	Closing Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Ryna Saxena , Drawin MishraⓉ
+KNUST EK	3rd	Opening Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Ryna Saxena , Drawin MishraⓉ
+Tokyo MY	1st	Opening Government	View Ballot	Snigdha PriyadarshiniⒸ , Ryna Saxena , Drawin MishraⓉ
+Guelph DE	4th	Closing Government	View Ballot	Snigdha PriyadarshiniⒸ , Ryna Saxena , Drawin MishraⓉ
+QDU GK	4th	Closing Opposition	View Ballot	Dominic Stanley-MarcusⒸ , John Drubo KarmokerⓉ
+KNUST AF	3rd	Opening Opposition	View Ballot	Dominic Stanley-MarcusⒸ , John Drubo KarmokerⓉ
+IND KM	2nd	Closing Government	View Ballot	Dominic Stanley-MarcusⒸ , John Drubo KarmokerⓉ
+Bucharest SS	1st	Opening Government	View Ballot	Dominic Stanley-MarcusⒸ , John Drubo KarmokerⓉ
+Alberta DH	2nd	Closing Government	View Ballot	Pjotr KosterⒸ , Oloruntoyin Muhammadbaqir Akorede
+Doshisha KO	3rd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Oloruntoyin Muhammadbaqir Akorede
+IND DE	4th	Opening Government	View Ballot	Pjotr KosterⒸ , Oloruntoyin Muhammadbaqir Akorede
+KNUST AS	1st	Closing Opposition	View Ballot	Pjotr KosterⒸ , Oloruntoyin Muhammadbaqir Akorede
+KNUST AA	2nd	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ , Arowolo Olayemi Joshua , Keshav Rai BramhabhattⓉ
+EUDU DW	1st	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ , Arowolo Olayemi Joshua , Keshav Rai BramhabhattⓉ
+UHAS DJ	3rd	Opening Government	View Ballot	Erasmus SegbefiaⒸ , Arowolo Olayemi Joshua , Keshav Rai BramhabhattⓉ
+IND AF	4th	Closing Government	View Ballot	Erasmus SegbefiaⒸ , Arowolo Olayemi Joshua , Keshav Rai BramhabhattⓉ
+QDU CK	1st	Opening Opposition	View Ballot	Sudiksha AggarwalⒸ , Garvit Gosain , Neeraja DasⓉ
+IND SW	2nd	Closing Government	View Ballot	Sudiksha AggarwalⒸ , Garvit Gosain , Neeraja DasⓉ
+Cape Coast NN	3rd	Opening Government	View Ballot	Sudiksha AggarwalⒸ , Garvit Gosain , Neeraja DasⓉ
+Windsor CS	4th	Closing Opposition	View Ballot	Sudiksha AggarwalⒸ , Garvit Gosain , Neeraja DasⓉ
+IND CT	1st	Closing Government	View Ballot	Adhiraj SinghⒸ , Ogundare Taye Oluwatobilola , Tivlumun AlexanderⓉ
+IND AW	2nd	Closing Opposition	View Ballot	Adhiraj SinghⒸ , Ogundare Taye Oluwatobilola , Tivlumun AlexanderⓉ
+IND MatsuYashi	3rd	Opening Government	View Ballot	Adhiraj SinghⒸ , Ogundare Taye Oluwatobilola , Tivlumun AlexanderⓉ
+EDS KW	4th	Opening Opposition	View Ballot	Adhiraj SinghⒸ , Ogundare Taye Oluwatobilola , Tivlumun AlexanderⓉ
+Carleton PT	3rd	Closing Opposition	View Ballot	Alishba IrfanⒸ , Priya Shukla , Vicente GallardoⓉ
+BRAC A	4th	Closing Government	View Ballot	Alishba IrfanⒸ , Priya Shukla , Vicente GallardoⓉ
+UBC 1	2nd	Opening Opposition	View Ballot	Alishba IrfanⒸ , Priya Shukla , Vicente GallardoⓉ
+IND RV	1st	Opening Government	View Ballot	Alishba IrfanⒸ , Priya Shukla , Vicente GallardoⓉ
+HWS RT	1st	Opening Government	View Ballot	Gazi MahtabⒸ , Harshvardhan JAKHER , Parth JainⓉ
+KNUST AB	4th	Closing Government	View Ballot	Gazi MahtabⒸ , Harshvardhan JAKHER , Parth JainⓉ
+IND MS	3rd	Opening Opposition	View Ballot	Gazi MahtabⒸ , Harshvardhan JAKHER , Parth JainⓉ
+Carroll JT	2nd	Closing Opposition	View Ballot	Gazi MahtabⒸ , Harshvardhan JAKHER , Parth JainⓉ
+KNUST MY	2nd	Opening Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Mark Garvyn SoⓉ
+Carroll DS	4th	Closing Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Mark Garvyn SoⓉ
+VIT MS	1st	Opening Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Mark Garvyn SoⓉ
+SSE FH	3rd	Closing Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Mark Garvyn SoⓉ
+HH AY	4th	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Spencer McDonald , Sagneek SenguptaⓉ
+IND BH	1st	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Spencer McDonald , Sagneek SenguptaⓉ
+IND AS	2nd	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Spencer McDonald , Sagneek SenguptaⓉ
+IND LL	3rd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Spencer McDonald , Sagneek SenguptaⓉ
+KNUST AcheawAdetor	4th	Closing Government	View Ballot	Toru OgaⒸ , Utkarsh TomarⓉ
+IND BonnieClyde	2nd	Opening Opposition	View Ballot	Toru OgaⒸ , Utkarsh TomarⓉ
+IND KQ	1st	Closing Opposition	View Ballot	Toru OgaⒸ , Utkarsh TomarⓉ
+HH MM	3rd	Opening Government	View Ballot	Toru OgaⒸ , Utkarsh TomarⓉ
+UBC AM	2nd	Opening Government	View Ballot	Jane MentzingerⒸ , Rajyawardhan Singh , Axcel France EcoⓉ
+CU BM	3rd	Closing Opposition	View Ballot	Jane MentzingerⒸ , Rajyawardhan Singh , Axcel France EcoⓉ
+UW-Madison DH	4th	Closing Government	View Ballot	Jane MentzingerⒸ , Rajyawardhan Singh , Axcel France EcoⓉ
+GCU Lahore BK	1st	Opening Opposition	View Ballot	Jane MentzingerⒸ , Rajyawardhan Singh , Axcel France EcoⓉ
+UCLA HM	1st	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Dang Pham , Pranav NairⓉ
+Stanford BC	3rd	Opening Government	View Ballot	Ananya KrishnaⒸ , Dang Pham , Pranav NairⓉ
+Cornell OP	2nd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Dang Pham , Pranav NairⓉ
+Ateneo GB	4th	Closing Government	View Ballot	Ananya KrishnaⒸ , Dang Pham , Pranav NairⓉ
+IND LZ	4th	Closing Opposition	View Ballot	Saatvik DabralⒸ , Tousif Tanvir Alam , Frank WercinskiⓉ
+NU BZ	3rd	Opening Opposition	View Ballot	Saatvik DabralⒸ , Tousif Tanvir Alam , Frank WercinskiⓉ
+IND MU	1st	Opening Government	View Ballot	Saatvik DabralⒸ , Tousif Tanvir Alam , Frank WercinskiⓉ
+KNUST DO	2nd	Closing Government	View Ballot	Saatvik DabralⒸ , Tousif Tanvir Alam , Frank WercinskiⓉ
+Swig	3rd	Closing Government	View Ballot	Emmanuel JusticeⒸ , Anna Hoerner , Vivek RajⓉ
+IND NZ	1st	Closing Opposition	View Ballot	Emmanuel JusticeⒸ , Anna Hoerner , Vivek RajⓉ
+DU KN	2nd	Opening Opposition	View Ballot	Emmanuel JusticeⒸ , Anna Hoerner , Vivek RajⓉ
+SPDU CK	4th	Opening Government	View Ballot	Emmanuel JusticeⒸ , Anna Hoerner , Vivek RajⓉ
+Ilorin OO	2nd	Closing Opposition	View Ballot	Oladi GabisiⒸ , Mikko Vitug , Qareebat IbrahimⓉ
+IIT Bombay GR	4th	Opening Opposition	View Ballot	Oladi GabisiⒸ , Mikko Vitug , Qareebat IbrahimⓉ
+Zagreb DR	1st	Opening Government	View Ballot	Oladi GabisiⒸ , Mikko Vitug , Qareebat IbrahimⓉ
+EUDU ST	3rd	Closing Government	View Ballot	Oladi GabisiⒸ , Mikko Vitug , Qareebat IbrahimⓉ
+HWS CS	3rd	Opening Government	View Ballot	Craig McDonaldⒸ , Mohanish Tatiya
+Veritas AE	4th	Closing Opposition	View Ballot	Craig McDonaldⒸ , Mohanish Tatiya
+DTU CN	2nd	Opening Opposition	View Ballot	Craig McDonaldⒸ , Mohanish Tatiya
+IND WW	1st	Closing Government	View Ballot	Craig McDonaldⒸ , Mohanish Tatiya
+KNUST AN	4th	Closing Opposition	View Ballot	Rahul KalavaguntaⒸ , Shaurya Chandravanshi , Abhilaksh AbhilakshⓉ
+IND PW	1st	Closing Government	View Ballot	Rahul KalavaguntaⒸ , Shaurya Chandravanshi , Abhilaksh AbhilakshⓉ
+IND DS	2nd	Opening Government	View Ballot	Rahul KalavaguntaⒸ , Shaurya Chandravanshi , Abhilaksh AbhilakshⓉ
+Tokyo MT	3rd	Opening Opposition	View Ballot	Rahul KalavaguntaⒸ , Shaurya Chandravanshi , Abhilaksh AbhilakshⓉ
+PES HT	2nd	Closing Government	View Ballot	Gerson Oviedo SotoⒸ , Austin Thoma , YueqianⓉ
+BUP MS	1st	Opening Opposition	View Ballot	Gerson Oviedo SotoⒸ , Austin Thoma , YueqianⓉ
+Carroll MT	4th	Opening Government	View Ballot	Gerson Oviedo SotoⒸ , Austin Thoma , YueqianⓉ
+DUDU DN	3rd	Closing Opposition	View Ballot	Gerson Oviedo SotoⒸ , Austin Thoma , YueqianⓉ
+VIT BD	4th	Opening Opposition	View Ballot	Pascal Blaise ObengⒸ , Awa HaidaraⓉ
+IND HP	1st	Opening Government	View Ballot	Pascal Blaise ObengⒸ , Awa HaidaraⓉ
+UW-Madison DP	2nd	Closing Government	View Ballot	Pascal Blaise ObengⒸ , Awa HaidaraⓉ
+IND DeClaroTiu	3rd	Closing Opposition	View Ballot	Pascal Blaise ObengⒸ , Awa HaidaraⓉ
+UW-Madison GN	3rd	Closing Opposition	View Ballot	Donkor ArchimedesⒸ , Rishabh GuptaⓉ
+JHU GW	1st	Opening Government	View Ballot	Donkor ArchimedesⒸ , Rishabh GuptaⓉ
+Carroll BK	4th	Opening Opposition	View Ballot	Donkor ArchimedesⒸ , Rishabh GuptaⓉ
+IND FS	2nd	Closing Government	View Ballot	Donkor ArchimedesⒸ , Rishabh GuptaⓉ
+UWODS CL	1st	Opening Opposition	View Ballot	Shashwat DashⒸ , Akinjayeju Mitchell TemitopeⓉ , Khaled RajanⓉ
+Carroll BS	4th	Opening Government	View Ballot	Shashwat DashⒸ , Akinjayeju Mitchell TemitopeⓉ , Khaled RajanⓉ
+MDU IK	2nd	Closing Government	View Ballot	Shashwat DashⒸ , Akinjayeju Mitchell TemitopeⓉ , Khaled RajanⓉ
+Erasmus CL	3rd	Closing Opposition	View Ballot	Shashwat DashⒸ , Akinjayeju Mitchell TemitopeⓉ , Khaled RajanⓉ
+Swing	4th	Closing Opposition	View Ballot	Ayushi NasaⒸ , Ajay JoelⓉ
+Carroll FW	2nd	Opening Opposition	View Ballot	Ayushi NasaⒸ , Ajay JoelⓉ
+RMC BM	3rd	Closing Government	View Ballot	Ayushi NasaⒸ , Ajay JoelⓉ
+Claremont DZ	1st	Opening Government	View Ballot	Ayushi NasaⒸ , Ajay JoelⓉ
+UCLA MP	2nd	Opening Opposition	View Ballot	Mohammed habibⒸ , Emmanuel Ayite-Atiapa
+Carroll CK	3rd	Opening Government	View Ballot	Mohammed habibⒸ , Emmanuel Ayite-Atiapa
+Kyoto MK	4th	Closing Opposition	View Ballot	Mohammed habibⒸ , Emmanuel Ayite-Atiapa
+IND SZ	1st	Closing Government	View Ballot	Mohammed habibⒸ , Emmanuel Ayite-Atiapa
+
+
+team	result	side	ballot	adjudicators
+HWS CS	1st	Closing Government	View Ballot	Toru OgaⒸ , Mark Garvyn So , Tivlumun AlexanderⓉ
+Swig	4th	Closing Opposition	View Ballot	Toru OgaⒸ , Mark Garvyn So , Tivlumun AlexanderⓉ
+SSE FH	2nd	Opening Opposition	View Ballot	Toru OgaⒸ , Mark Garvyn So , Tivlumun AlexanderⓉ
+Carroll BK	3rd	Opening Government	View Ballot	Toru OgaⒸ , Mark Garvyn So , Tivlumun AlexanderⓉ
+Sing	1st	Opening Government	View Ballot	Adhiraj SinghⒸ , Oladi Gabisi
+Calgary CH	2nd	Opening Opposition	View Ballot	Adhiraj SinghⒸ , Oladi Gabisi
+DUDU DN	3rd	Closing Government	View Ballot	Adhiraj SinghⒸ , Oladi Gabisi
+Doshisha KO	4th	Closing Opposition	View Ballot	Adhiraj SinghⒸ , Oladi Gabisi
+QDU GK	1st	Opening Opposition	View Ballot	Shashwat DashⒸ , John Drubo Karmoker , Utkarsh TomarⓉ
+UCLA MP	4th	Closing Opposition	View Ballot	Shashwat DashⒸ , John Drubo Karmoker , Utkarsh TomarⓉ
+UBC 1	3rd	Opening Government	View Ballot	Shashwat DashⒸ , John Drubo Karmoker , Utkarsh TomarⓉ
+IND MS	2nd	Closing Government	View Ballot	Shashwat DashⒸ , John Drubo Karmoker , Utkarsh TomarⓉ
+KNUST MY	4th	Closing Opposition	View Ballot	Rahul KalavaguntaⒸ , Ryna Saxena
+UWODS CL	3rd	Opening Government	View Ballot	Rahul KalavaguntaⒸ , Ryna Saxena
+IND SZ	1st	Opening Opposition	View Ballot	Rahul KalavaguntaⒸ , Ryna Saxena
+EDS KW	2nd	Closing Government	View Ballot	Rahul KalavaguntaⒸ , Ryna Saxena
+HH AY	3rd	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Saatvik Dabral , Axcel France EcoⓉ
+IND NZ	1st	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Saatvik Dabral , Axcel France EcoⓉ
+IND KM	4th	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Saatvik Dabral , Axcel France EcoⓉ
+IND MatsuYashi	2nd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Saatvik Dabral , Axcel France EcoⓉ
+KNUST AF	1st	Closing Opposition	View Ballot	Dominic Stanley-MarcusⒸ , Anshuman Singh
+PES HT	3rd	Opening Opposition	View Ballot	Dominic Stanley-MarcusⒸ , Anshuman Singh
+MDU IK	2nd	Opening Government	View Ballot	Dominic Stanley-MarcusⒸ , Anshuman Singh
+Erasmus CL	4th	Closing Government	View Ballot	Dominic Stanley-MarcusⒸ , Anshuman Singh
+IND PW	3rd	Opening Government	View Ballot	Shaurya ChandravanshiⒸ , Spencer McDonald
+IND BH	2nd	Opening Opposition	View Ballot	Shaurya ChandravanshiⒸ , Spencer McDonald
+Cornell OP	1st	Closing Opposition	View Ballot	Shaurya ChandravanshiⒸ , Spencer McDonald
+IND MU	4th	Closing Government	View Ballot	Shaurya ChandravanshiⒸ , Spencer McDonald
+BRAC A	1st	Closing Opposition	View Ballot	Ayushi NasaⒸ , Yueqian
+Carroll DS	2nd	Closing Government	View Ballot	Ayushi NasaⒸ , Yueqian
+Carroll HS	4th	Opening Government	View Ballot	Ayushi NasaⒸ , Yueqian
+IND DE	3rd	Opening Opposition	View Ballot	Ayushi NasaⒸ , Yueqian
+KNUST AN	3rd	Closing Government	View Ballot	Snigdha PriyadarshiniⒸ , Qareebat IbrahimⓉ
+DU KN	1st	Closing Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Qareebat IbrahimⓉ
+Windsor CS	4th	Opening Government	View Ballot	Snigdha PriyadarshiniⒸ , Qareebat IbrahimⓉ
+HH MM	2nd	Opening Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Qareebat IbrahimⓉ
+IND LZ	4th	Opening Government	View Ballot	Emily ShiⒸ , Emmanuel Ayite-Atiapa , Rishabh GuptaⓉ
+Tokyo MY	1st	Closing Opposition	View Ballot	Emily ShiⒸ , Emmanuel Ayite-Atiapa , Rishabh GuptaⓉ
+Claremont DZ	3rd	Closing Government	View Ballot	Emily ShiⒸ , Emmanuel Ayite-Atiapa , Rishabh GuptaⓉ
+IND RV	2nd	Opening Opposition	View Ballot	Emily ShiⒸ , Emmanuel Ayite-Atiapa , Rishabh GuptaⓉ
+KNUST EK	1st	Closing Government	View Ballot	Gazi MahtabⒸ
+Swin	3rd	Opening Opposition	View Ballot	Gazi MahtabⒸ
+KNUST AB	2nd	Opening Government	View Ballot	Gazi MahtabⒸ
+Swng	4th	Closing Opposition	View Ballot	Gazi MahtabⒸ
+GCU Lahore BK	4th	Closing Opposition	View Ballot	William SmithⒸ , Anna Hoerner , Drawin MishraⓉ
+IND AS	1st	Closing Government	View Ballot	William SmithⒸ , Anna Hoerner , Drawin MishraⓉ
+IND KQ	3rd	Opening Government	View Ballot	William SmithⒸ , Anna Hoerner , Drawin MishraⓉ
+KNUST DO	2nd	Opening Opposition	View Ballot	William SmithⒸ , Anna Hoerner , Drawin MishraⓉ
+QDU CK	2nd	Closing Opposition	View Ballot	Jane MentzingerⒸ
+IND AW	1st	Closing Government	View Ballot	Jane MentzingerⒸ
+JHU GW	3rd	Opening Opposition	View Ballot	Jane MentzingerⒸ
+UW-Madison DP	4th	Opening Government	View Ballot	Jane MentzingerⒸ
+Carleton PT	4th	Opening Government	View Ballot	Garvit GosainⒸ , Pranav Nair
+Kyoto MK	3rd	Opening Opposition	View Ballot	Garvit GosainⒸ , Pranav Nair
+SPDU CK	2nd	Closing Government	View Ballot	Garvit GosainⒸ , Pranav Nair
+IND AF	1st	Closing Opposition	View Ballot	Garvit GosainⒸ , Pranav Nair
+Swing	1st	Closing Government	View Ballot	Donkor ArchimedesⒸ
+Carroll BS	3rd	Closing Opposition	View Ballot	Donkor ArchimedesⒸ
+Carroll MT	2nd	Opening Opposition	View Ballot	Donkor ArchimedesⒸ
+Guelph DE	4th	Opening Government	View Ballot	Donkor ArchimedesⒸ
+UW-Madison DH	3rd	Opening Government	View Ballot	Sudiksha AggarwalⒸ
+IND LL	1st	Closing Government	View Ballot	Sudiksha AggarwalⒸ
+Cape Coast NN	2nd	Opening Opposition	View Ballot	Sudiksha AggarwalⒸ
+EUDU ST	4th	Closing Opposition	View Ballot	Sudiksha AggarwalⒸ
+Stanford BC	1st	Opening Opposition	View Ballot	Alishba IrfanⒸ , Mohanish Tatiya
+IND BonnieClyde	3rd	Opening Government	View Ballot	Alishba IrfanⒸ , Mohanish Tatiya
+Bucharest SS	4th	Closing Opposition	View Ballot	Alishba IrfanⒸ , Mohanish Tatiya
+KNUST AS	2nd	Closing Government	View Ballot	Alishba IrfanⒸ , Mohanish Tatiya
+Swung	4th	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Akinjayeju Mitchell TemitopeⓉ
+IND MW	1st	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Akinjayeju Mitchell TemitopeⓉ
+Veritas AE	2nd	Closing Government	View Ballot	Ananya KrishnaⒸ , Akinjayeju Mitchell TemitopeⓉ
+Alberta DH	3rd	Opening Government	View Ballot	Ananya KrishnaⒸ , Akinjayeju Mitchell TemitopeⓉ
+CU BM	3rd	Opening Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Harshvardhan JAKHER , Priya Shukla , Frank WercinskiⓉ
+VIT BD	1st	Closing Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Harshvardhan JAKHER , Priya Shukla , Frank WercinskiⓉ
+UW-Madison GN	2nd	Opening Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Harshvardhan JAKHER , Priya Shukla , Frank WercinskiⓉ
+Carroll JT	4th	Closing Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Harshvardhan JAKHER , Priya Shukla , Frank WercinskiⓉ
+KNUST AA	2nd	Closing Government	View Ballot	Pjotr KosterⒸ , Austin Thoma , Neeraja DasⓉ
+IND SW	1st	Opening Opposition	View Ballot	Pjotr KosterⒸ , Austin Thoma , Neeraja DasⓉ
+BUP MS	4th	Closing Opposition	View Ballot	Pjotr KosterⒸ , Austin Thoma , Neeraja DasⓉ
+DTU CN	3rd	Opening Government	View Ballot	Pjotr KosterⒸ , Austin Thoma , Neeraja DasⓉ
+EUDU DW	2nd	Closing Government	View Ballot	Xiao-Ke LuⒸ , Varun Lodaya
+Ilorin OO	3rd	Opening Government	View Ballot	Xiao-Ke LuⒸ , Varun Lodaya
+IND WW	4th	Opening Opposition	View Ballot	Xiao-Ke LuⒸ , Varun Lodaya
+IND DS	1st	Closing Opposition	View Ballot	Xiao-Ke LuⒸ , Varun Lodaya
+UCLA HM	3rd	Opening Government	View Ballot	Mikko VitugⒸ , Emmanuel Justice
+IND CT	1st	Opening Opposition	View Ballot	Mikko VitugⒸ , Emmanuel Justice
+IND HP	4th	Closing Government	View Ballot	Mikko VitugⒸ , Emmanuel Justice
+Zagreb DR	2nd	Closing Opposition	View Ballot	Mikko VitugⒸ , Emmanuel Justice
+UBC AM	2nd	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ , Mohammed habib
+IND DeClaroTiu	3rd	Opening Government	View Ballot	Erasmus SegbefiaⒸ , Mohammed habib
+Ateneo GB	1st	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ , Mohammed habib
+Tokyo MT	4th	Closing Government	View Ballot	Erasmus SegbefiaⒸ , Mohammed habib
+HWS RT	4th	Opening Opposition	View Ballot	Craig McDonaldⒸ , Abhyudya Sangwan , Parth JainⓉ
+NU BZ	1st	Closing Government	View Ballot	Craig McDonaldⒸ , Abhyudya Sangwan , Parth JainⓉ
+VIT MS	3rd	Opening Government	View Ballot	Craig McDonaldⒸ , Abhyudya Sangwan , Parth JainⓉ
+IND FS	2nd	Closing Opposition	View Ballot	Craig McDonaldⒸ , Abhyudya Sangwan , Parth JainⓉ
+UCLA MS	3rd	Opening Opposition	View Ballot	Gerson Oviedo SotoⒸ , Pascal Blaise Obeng , Arowolo Olayemi JoshuaⓉ
+KNUST AcheawAdetor	2nd	Closing Opposition	View Ballot	Gerson Oviedo SotoⒸ , Pascal Blaise Obeng , Arowolo Olayemi JoshuaⓉ
+Carroll CK	4th	Closing Government	View Ballot	Gerson Oviedo SotoⒸ , Pascal Blaise Obeng , Arowolo Olayemi JoshuaⓉ
+IIT Bombay GR	1st	Opening Government	View Ballot	Gerson Oviedo SotoⒸ , Pascal Blaise Obeng , Arowolo Olayemi JoshuaⓉ
+
+
+team	result	side	ballot	adjudicators
+IND PW	2nd	Opening Opposition	View Ballot	Craig McDonaldⒸ , Oloruntoyin Muhammadbaqir Akorede , Opoola Opeyemi ToluwaseⓉ
+Stanford BC	1st	Closing Government	View Ballot	Craig McDonaldⒸ , Oloruntoyin Muhammadbaqir Akorede , Opoola Opeyemi ToluwaseⓉ
+IND LL	3rd	Opening Government	View Ballot	Craig McDonaldⒸ , Oloruntoyin Muhammadbaqir Akorede , Opoola Opeyemi ToluwaseⓉ
+KNUST DO	4th	Closing Opposition	View Ballot	Craig McDonaldⒸ , Oloruntoyin Muhammadbaqir Akorede , Opoola Opeyemi ToluwaseⓉ
+HWS CS	2nd	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Abhyudya Sangwan , Rishabh GuptaⓉ
+KNUST AF	1st	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Abhyudya Sangwan , Rishabh GuptaⓉ
+GCU Lahore BK	3rd	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Abhyudya Sangwan , Rishabh GuptaⓉ
+Veritas AE	4th	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Abhyudya Sangwan , Rishabh GuptaⓉ
+UWODS CL	1st	Closing Opposition	View Ballot	Dominic Stanley-MarcusⒸ , Akinjayeju Mitchell Temitope , Dang Pham
+BUP MS	4th	Closing Government	View Ballot	Dominic Stanley-MarcusⒸ , Akinjayeju Mitchell Temitope , Dang Pham
+IND DeClaroTiu	2nd	Opening Opposition	View Ballot	Dominic Stanley-MarcusⒸ , Akinjayeju Mitchell Temitope , Dang Pham
+IND AF	3rd	Opening Government	View Ballot	Dominic Stanley-MarcusⒸ , Akinjayeju Mitchell Temitope , Dang Pham
+Carroll DS	1st	Opening Opposition	View Ballot	Pascal Blaise ObengⒸ , Emmanuel Ayite-Atiapa , Parth JainⓉ
+PES HT	4th	Closing Opposition	View Ballot	Pascal Blaise ObengⒸ , Emmanuel Ayite-Atiapa , Parth JainⓉ
+Carroll BK	2nd	Closing Government	View Ballot	Pascal Blaise ObengⒸ , Emmanuel Ayite-Atiapa , Parth JainⓉ
+EUDU ST	3rd	Opening Government	View Ballot	Pascal Blaise ObengⒸ , Emmanuel Ayite-Atiapa , Parth JainⓉ
+IND BonnieClyde	4th	Opening Government	View Ballot	Erasmus SegbefiaⒸ , Adhiraj Singh , Spencer McDonaldⓉ
+DTU CN	2nd	Closing Government	View Ballot	Erasmus SegbefiaⒸ , Adhiraj Singh , Spencer McDonaldⓉ
+IND MU	3rd	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ , Adhiraj Singh , Spencer McDonaldⓉ
+KNUST AS	1st	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ , Adhiraj Singh , Spencer McDonaldⓉ
+UW-Madison GN	4th	Opening Government	View Ballot	Ananya KrishnaⒸ , Ajay Joel
+UW-Madison DP	2nd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Ajay Joel
+Cape Coast NN	1st	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Ajay Joel
+IND RV	3rd	Closing Government	View Ballot	Ananya KrishnaⒸ , Ajay Joel
+Swig	2nd	Closing Opposition	View Ballot	Austin ThomaⒸ , Garvit Gosain
+Erasmus CL	4th	Opening Government	View Ballot	Austin ThomaⒸ , Garvit Gosain
+Doshisha KO	3rd	Closing Government	View Ballot	Austin ThomaⒸ , Garvit Gosain
+Windsor CS	1st	Opening Opposition	View Ballot	Austin ThomaⒸ , Garvit Gosain
+IND BH	2nd	Closing Opposition	View Ballot	Ogundare Taye OluwatobilolaⒸ , Snigdha Priyadarshini , Utkarsh TomarⓉ
+IND CT	4th	Opening Government	View Ballot	Ogundare Taye OluwatobilolaⒸ , Snigdha Priyadarshini , Utkarsh TomarⓉ
+Zagreb DR	1st	Closing Government	View Ballot	Ogundare Taye OluwatobilolaⒸ , Snigdha Priyadarshini , Utkarsh TomarⓉ
+IND DS	3rd	Opening Opposition	View Ballot	Ogundare Taye OluwatobilolaⒸ , Snigdha Priyadarshini , Utkarsh TomarⓉ
+Carleton PT	4th	Opening Opposition	View Ballot	Emmanuel JusticeⒸ , Priya Shukla , Keshav Rai BramhabhattⓉ
+Swin	2nd	Closing Opposition	View Ballot	Emmanuel JusticeⒸ , Priya Shukla , Keshav Rai BramhabhattⓉ
+Carroll FW	3rd	Opening Government	View Ballot	Emmanuel JusticeⒸ , Priya Shukla , Keshav Rai BramhabhattⓉ
+Carroll MT	1st	Closing Government	View Ballot	Emmanuel JusticeⒸ , Priya Shukla , Keshav Rai BramhabhattⓉ
+QDU CK	1st	Closing Government	View Ballot	William SmithⒸ , Donkor Archimedes
+KNUST AA	4th	Closing Opposition	View Ballot	William SmithⒸ , Donkor Archimedes
+IND NZ	2nd	Opening Opposition	View Ballot	William SmithⒸ , Donkor Archimedes
+EUDU DW	3rd	Opening Government	View Ballot	William SmithⒸ , Donkor Archimedes
+HWS RT	3rd	Closing Government	View Ballot	Shashwat DashⒸ , Mark Garvyn So , Pranav Nair
+HH AY	1st	Opening Opposition	View Ballot	Shashwat DashⒸ , Mark Garvyn So , Pranav Nair
+Claremont DZ	4th	Closing Opposition	View Ballot	Shashwat DashⒸ , Mark Garvyn So , Pranav Nair
+Tokyo MT	2nd	Opening Government	View Ballot	Shashwat DashⒸ , Mark Garvyn So , Pranav Nair
+IND SW	3rd	Closing Opposition	View Ballot	Tin PuljićⒸ , Yueqian
+IND AS	2nd	Opening Opposition	View Ballot	Tin PuljićⒸ , Yueqian
+Cornell OP	1st	Closing Government	View Ballot	Tin PuljićⒸ , Yueqian
+IND AW	4th	Opening Government	View Ballot	Tin PuljićⒸ , Yueqian
+VIT BD	1st	Opening Government	View Ballot	Matt CaitoⒸ , Sudiksha Aggarwal
+VIT MS	4th	Closing Opposition	View Ballot	Matt CaitoⒸ , Sudiksha Aggarwal
+IND MatsuYashi	3rd	Closing Government	View Ballot	Matt CaitoⒸ , Sudiksha Aggarwal
+IND KQ	2nd	Opening Opposition	View Ballot	Matt CaitoⒸ , Sudiksha Aggarwal
+Carroll BS	4th	Opening Opposition	View Ballot	Mohammed habibⒸ , Ryna Saxena , Abhilaksh AbhilakshⓉ
+Carroll CK	1st	Closing Opposition	View Ballot	Mohammed habibⒸ , Ryna Saxena , Abhilaksh AbhilakshⓉ
+Carroll HS	2nd	Closing Government	View Ballot	Mohammed habibⒸ , Ryna Saxena , Abhilaksh AbhilakshⓉ
+Kyoto MK	3rd	Opening Government	View Ballot	Mohammed habibⒸ , Ryna Saxena , Abhilaksh AbhilakshⓉ
+KNUST AB	1st	Closing Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Arowolo Olayemi Joshua
+UW-Madison DH	3rd	Opening Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Arowolo Olayemi Joshua
+Carroll JT	4th	Opening Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Arowolo Olayemi Joshua
+IND DE	2nd	Closing Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Arowolo Olayemi Joshua
+KNUST AN	1st	Opening Opposition	View Ballot	Alishba IrfanⒸ
+Calgary CH	3rd	Opening Government	View Ballot	Alishba IrfanⒸ
+MDU IK	4th	Closing Opposition	View Ballot	Alishba IrfanⒸ
+Bucharest SS	2nd	Closing Government	View Ballot	Alishba IrfanⒸ
+UCLA MP	3rd	Closing Government	View Ballot	Saatvik DabralⒸ , Mohanish Tatiya , Sagneek SenguptaⓉ
+IND LZ	2nd	Opening Opposition	View Ballot	Saatvik DabralⒸ , Mohanish Tatiya , Sagneek SenguptaⓉ
+IND KM	1st	Opening Government	View Ballot	Saatvik DabralⒸ , Mohanish Tatiya , Sagneek SenguptaⓉ
+SPDU CK	4th	Closing Opposition	View Ballot	Saatvik DabralⒸ , Mohanish Tatiya , Sagneek SenguptaⓉ
+UCLA MS	2nd	Closing Opposition	View Ballot	Tousif Tanvir AlamⒸ , Harshvardhan JAKHER , John Drubo KarmokerⓉ
+KNUST MY	4th	Opening Opposition	View Ballot	Tousif Tanvir AlamⒸ , Harshvardhan JAKHER , John Drubo KarmokerⓉ
+BRAC A	1st	Opening Government	View Ballot	Tousif Tanvir AlamⒸ , Harshvardhan JAKHER , John Drubo KarmokerⓉ
+UBC 1	3rd	Closing Government	View Ballot	Tousif Tanvir AlamⒸ , Harshvardhan JAKHER , John Drubo KarmokerⓉ
+CU BM	2nd	Closing Government	View Ballot	Emily ShiⒸ , Rajyawardhan Singh
+KNUST AcheawAdetor	1st	Opening Government	View Ballot	Emily ShiⒸ , Rajyawardhan Singh
+SSE FH	4th	Closing Opposition	View Ballot	Emily ShiⒸ , Rajyawardhan Singh
+Alberta DH	3rd	Opening Opposition	View Ballot	Emily ShiⒸ , Rajyawardhan Singh
+IND MW	4th	Closing Opposition	View Ballot	Pjotr KosterⒸ , Varun Lodaya
+Ilorin OO	2nd	Closing Government	View Ballot	Pjotr KosterⒸ , Varun Lodaya
+Tokyo MY	3rd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Varun Lodaya
+IND SZ	1st	Opening Government	View Ballot	Pjotr KosterⒸ , Varun Lodaya
+UBC AM	4th	Closing Opposition	View Ballot	Wajeeh MaazⒸ , Drawin MishraⓉ
+DU KN	2nd	Closing Government	View Ballot	Wajeeh MaazⒸ , Drawin MishraⓉ
+Ateneo GB	1st	Opening Government	View Ballot	Wajeeh MaazⒸ , Drawin MishraⓉ
+IND FS	3rd	Opening Opposition	View Ballot	Wajeeh MaazⒸ , Drawin MishraⓉ
+UCLA HM	1st	Closing Government	View Ballot	Martha McKinney PerryⒸ , Oladi Gabisi
+NU BZ	4th	Opening Government	View Ballot	Martha McKinney PerryⒸ , Oladi Gabisi
+IND HP	2nd	Opening Opposition	View Ballot	Martha McKinney PerryⒸ , Oladi Gabisi
+JHU GW	3rd	Closing Opposition	View Ballot	Martha McKinney PerryⒸ , Oladi Gabisi
+IIT Bombay GR	3rd	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Gayatri SharmaⓉ
+IND WW	4th	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Gayatri SharmaⓉ
+EDS KW	1st	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Gayatri SharmaⓉ
+HH MM	2nd	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Gayatri SharmaⓉ
+QDU GK	1st	Closing Government	View Ballot	Gazi MahtabⒸ , Anshuman Singh , Tivlumun AlexanderⓉ
+KNUST EK	2nd	Opening Government	View Ballot	Gazi MahtabⒸ , Anshuman Singh , Tivlumun AlexanderⓉ
+Swing	4th	Opening Opposition	View Ballot	Gazi MahtabⒸ , Anshuman Singh , Tivlumun AlexanderⓉ
+IND MS	3rd	Closing Opposition	View Ballot	Gazi MahtabⒸ , Anshuman Singh , Tivlumun AlexanderⓉ
+
+
+team	result	side	ballot	adjudicators
+Carroll JT	3rd	Closing Government	View Ballot	Gerson Oviedo SotoⒸ , Arowolo Olayemi Joshua , Gazi Mahtab
+SSE FH	1st	Closing Opposition	View Ballot	Gerson Oviedo SotoⒸ , Arowolo Olayemi Joshua , Gazi Mahtab
+Claremont DZ	4th	Opening Government	View Ballot	Gerson Oviedo SotoⒸ , Arowolo Olayemi Joshua , Gazi Mahtab
+IND DE	2nd	Opening Opposition	View Ballot	Gerson Oviedo SotoⒸ , Arowolo Olayemi Joshua , Gazi Mahtab
+HWS CS	4th	Opening Opposition	View Ballot	Alishba IrfanⒸ , Priya Shukla
+DTU CN	1st	Closing Opposition	View Ballot	Alishba IrfanⒸ , Priya Shukla
+Tokyo MY	2nd	Opening Government	View Ballot	Alishba IrfanⒸ , Priya Shukla
+IND RV	3rd	Closing Government	View Ballot	Alishba IrfanⒸ , Priya Shukla
+HWS RT	3rd	Opening Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Emmanuel Ayite-Atiapa , Garvit Gosain
+BUP MS	2nd	Closing Government	View Ballot	Snigdha PriyadarshiniⒸ , Emmanuel Ayite-Atiapa , Garvit Gosain
+IND WW	1st	Closing Opposition	View Ballot	Snigdha PriyadarshiniⒸ , Emmanuel Ayite-Atiapa , Garvit Gosain
+Windsor CS	4th	Opening Government	View Ballot	Snigdha PriyadarshiniⒸ , Emmanuel Ayite-Atiapa , Garvit Gosain
+VIT BD	1st	Opening Opposition	View Ballot	Sebastian DassoⒸ , Donkor Archimedes
+Cape Coast NN	2nd	Closing Opposition	View Ballot	Sebastian DassoⒸ , Donkor Archimedes
+Ateneo GB	3rd	Opening Government	View Ballot	Sebastian DassoⒸ , Donkor Archimedes
+IND SZ	4th	Closing Government	View Ballot	Sebastian DassoⒸ , Donkor Archimedes
+CU BM	4th	Opening Opposition	View Ballot	Shashwat DashⒸ , Tousif Tanvir Alam
+UCLA MS	3rd	Opening Government	View Ballot	Shashwat DashⒸ , Tousif Tanvir Alam
+KNUST AA	2nd	Closing Opposition	View Ballot	Shashwat DashⒸ , Tousif Tanvir Alam
+Bucharest SS	1st	Closing Government	View Ballot	Shashwat DashⒸ , Tousif Tanvir Alam
+KNUST AF	4th	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Oloruntoyin Muhammadbaqir Akorede
+Ilorin OO	3rd	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Oloruntoyin Muhammadbaqir Akorede
+IND KQ	2nd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Oloruntoyin Muhammadbaqir Akorede
+EDS KW	1st	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Oloruntoyin Muhammadbaqir Akorede
+BRAC A	2nd	Opening Government	View Ballot	Wajeeh MaazⒸ , Ajay Joel , Abhilaksh AbhilakshⓉ
+GCU Lahore BK	3rd	Opening Opposition	View Ballot	Wajeeh MaazⒸ , Ajay Joel , Abhilaksh AbhilakshⓉ
+IND MW	4th	Closing Opposition	View Ballot	Wajeeh MaazⒸ , Ajay Joel , Abhilaksh AbhilakshⓉ
+IIT Bombay GR	1st	Closing Government	View Ballot	Wajeeh MaazⒸ , Ajay Joel , Abhilaksh AbhilakshⓉ
+KNUST MY	1st	Opening Opposition	View Ballot	Adhiraj SinghⒸ , Rajyawardhan Singh , Qareebat IbrahimⓉ
+PES HT	2nd	Opening Government	View Ballot	Adhiraj SinghⒸ , Rajyawardhan Singh , Qareebat IbrahimⓉ
+Carroll HS	4th	Closing Opposition	View Ballot	Adhiraj SinghⒸ , Rajyawardhan Singh , Qareebat IbrahimⓉ
+Carroll FW	3rd	Closing Government	View Ballot	Adhiraj SinghⒸ , Rajyawardhan Singh , Qareebat IbrahimⓉ
+QDU CK	4th	Opening Government	View Ballot	Shaurya ChandravanshiⒸ , Abhyudya Sangwan
+IND BH	3rd	Closing Opposition	View Ballot	Shaurya ChandravanshiⒸ , Abhyudya Sangwan
+Cornell OP	1st	Closing Government	View Ballot	Shaurya ChandravanshiⒸ , Abhyudya Sangwan
+Zagreb DR	2nd	Opening Opposition	View Ballot	Shaurya ChandravanshiⒸ , Abhyudya Sangwan
+Swin	3rd	Closing Government	View Ballot	Emmanuel JusticeⒸ , Harshvardhan JAKHER , Mark Garvyn SoⓉ
+UW-Madison DH	2nd	Closing Opposition	View Ballot	Emmanuel JusticeⒸ , Harshvardhan JAKHER , Mark Garvyn SoⓉ
+Carroll CK	1st	Opening Opposition	View Ballot	Emmanuel JusticeⒸ , Harshvardhan JAKHER , Mark Garvyn SoⓉ
+EUDU ST	4th	Opening Government	View Ballot	Emmanuel JusticeⒸ , Harshvardhan JAKHER , Mark Garvyn SoⓉ
+Carleton PT	4th	Closing Opposition	View Ballot	Ayushi NasaⒸ , Akinjayeju Mitchell Temitope , Sagneek SenguptaⓉ
+Carroll BS	1st	Opening Government	View Ballot	Ayushi NasaⒸ , Akinjayeju Mitchell Temitope , Sagneek SenguptaⓉ
+Erasmus CL	3rd	Opening Opposition	View Ballot	Ayushi NasaⒸ , Akinjayeju Mitchell Temitope , Sagneek SenguptaⓉ
+Kyoto MK	2nd	Closing Government	View Ballot	Ayushi NasaⒸ , Akinjayeju Mitchell Temitope , Sagneek SenguptaⓉ
+UCLA HM	3rd	Opening Government	View Ballot	Tin PuljićⒸ , Neeraja Das
+Stanford BC	2nd	Closing Opposition	View Ballot	Tin PuljićⒸ , Neeraja Das
+IND AS	1st	Opening Opposition	View Ballot	Tin PuljićⒸ , Neeraja Das
+IND DS	4th	Closing Government	View Ballot	Tin PuljićⒸ , Neeraja Das
+KNUST AcheawAdetor	2nd	Opening Opposition	View Ballot	Tyler LiⒸ , Parth Jain
+KNUST AN	4th	Closing Opposition	View Ballot	Tyler LiⒸ , Parth Jain
+UWODS CL	1st	Closing Government	View Ballot	Tyler LiⒸ , Parth Jain
+HH AY	3rd	Opening Government	View Ballot	Tyler LiⒸ , Parth Jain
+KNUST AB	3rd	Opening Opposition	View Ballot	William SmithⒸ , Oladi Gabisi , Rishabh Gupta , Utkarsh TomarⓉ
+NU BZ	2nd	Closing Government	View Ballot	William SmithⒸ , Oladi Gabisi , Rishabh Gupta , Utkarsh TomarⓉ
+IND MatsuYashi	1st	Opening Government	View Ballot	William SmithⒸ , Oladi Gabisi , Rishabh Gupta , Utkarsh TomarⓉ
+UW-Madison DP	4th	Closing Opposition	View Ballot	William SmithⒸ , Oladi Gabisi , Rishabh Gupta , Utkarsh TomarⓉ
+UBC AM	2nd	Opening Government	View Ballot	Dominic Stanley-MarcusⒸ , Pascal Blaise Obeng , Pranav Nair , Drawin MishraⓉ
+Carroll DS	1st	Closing Opposition	View Ballot	Dominic Stanley-MarcusⒸ , Pascal Blaise Obeng , Pranav Nair , Drawin MishraⓉ
+Carroll MT	3rd	Closing Government	View Ballot	Dominic Stanley-MarcusⒸ , Pascal Blaise Obeng , Pranav Nair , Drawin MishraⓉ
+Tokyo MT	4th	Opening Opposition	View Ballot	Dominic Stanley-MarcusⒸ , Pascal Blaise Obeng , Pranav Nair , Drawin MishraⓉ
+IND LL	3rd	Opening Government	View Ballot	Craig McDonaldⒸ , Sudiksha Aggarwal
+IND HP	4th	Closing Opposition	View Ballot	Craig McDonaldⒸ , Sudiksha Aggarwal
+IND AW	2nd	Closing Government	View Ballot	Craig McDonaldⒸ , Sudiksha Aggarwal
+IND MU	1st	Opening Opposition	View Ballot	Craig McDonaldⒸ , Sudiksha Aggarwal
+UCLA MP	1st	Opening Opposition	View Ballot	Emily ShiⒸ , Khaled Rajan , Mohanish Tatiya , Pranjal ChakrabortyⓉ
+UBC 1	4th	Closing Opposition	View Ballot	Emily ShiⒸ , Khaled Rajan , Mohanish Tatiya , Pranjal ChakrabortyⓉ
+Veritas AE	2nd	Opening Government	View Ballot	Emily ShiⒸ , Khaled Rajan , Mohanish Tatiya , Pranjal ChakrabortyⓉ
+MDU IK	3rd	Closing Government	View Ballot	Emily ShiⒸ , Khaled Rajan , Mohanish Tatiya , Pranjal ChakrabortyⓉ
+KNUST EK	4th	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Anshuman Singh , John Drubo Karmoker , Frank WercinskiⓉ
+IND BonnieClyde	1st	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Anshuman Singh , John Drubo Karmoker , Frank WercinskiⓉ
+IND KM	2nd	Closing Government	View Ballot	Ananya KrishnaⒸ , Anshuman Singh , John Drubo Karmoker , Frank WercinskiⓉ
+IND DeClaroTiu	3rd	Opening Government	View Ballot	Ananya KrishnaⒸ , Anshuman Singh , John Drubo Karmoker , Frank WercinskiⓉ
+IND SW	3rd	Opening Government	View Ballot	Pjotr KosterⒸ , Varun Lodaya
+EUDU DW	2nd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Varun Lodaya
+DU KN	1st	Closing Opposition	View Ballot	Pjotr KosterⒸ , Varun Lodaya
+KNUST DO	4th	Closing Government	View Ballot	Pjotr KosterⒸ , Varun Lodaya
+IND PW	2nd	Opening Opposition	View Ballot	Ogundare Taye OluwatobilolaⒸ , Mohammed habib
+IND CT	3rd	Opening Government	View Ballot	Ogundare Taye OluwatobilolaⒸ , Mohammed habib
+IND NZ	1st	Closing Opposition	View Ballot	Ogundare Taye OluwatobilolaⒸ , Mohammed habib
+KNUST AS	4th	Closing Government	View Ballot	Ogundare Taye OluwatobilolaⒸ , Mohammed habib
+Calgary CH	3rd	Closing Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Dang Pham , Yueqian
+UW-Madison GN	1st	Closing Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Dang Pham , Yueqian
+Alberta DH	4th	Opening Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Dang Pham , Yueqian
+IND AF	2nd	Opening Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Dang Pham , Yueqian
+QDU GK	4th	Opening Government	View Ballot	Erasmus SegbefiaⒸ , Saatvik Dabral
+JHU GW	1st	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ , Saatvik Dabral
+IND FS	2nd	Closing Government	View Ballot	Erasmus SegbefiaⒸ , Saatvik Dabral
+HH MM	3rd	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ , Saatvik Dabral
+IND LZ	2nd	Opening Government	View Ballot	Toru OgaⒸ , Ryna Saxena , Tivlumun AlexanderⓉ
+VIT MS	1st	Opening Opposition	View Ballot	Toru OgaⒸ , Ryna Saxena , Tivlumun AlexanderⓉ
+IND MS	3rd	Closing Government	View Ballot	Toru OgaⒸ , Ryna Saxena , Tivlumun AlexanderⓉ
+Carroll BK	4th	Closing Opposition	View Ballot	Toru OgaⒸ , Ryna Saxena , Tivlumun AlexanderⓉ
+
+
+team	result	side	adjudicators
+IND BH	advancing	Opening Government	Rahul KalavaguntaⒸ , Dominic Stanley-Marcus , Neeraja Das
+DTU CN	eliminated	Opening Opposition	Rahul KalavaguntaⒸ , Dominic Stanley-Marcus , Neeraja Das
+Ateneo GB	eliminated	Closing Government	Rahul KalavaguntaⒸ , Dominic Stanley-Marcus , Neeraja Das
+IND DS	advancing	Closing Opposition	Rahul KalavaguntaⒸ , Dominic Stanley-Marcus , Neeraja Das
+QDU CK	eliminated	Opening Government	Priya ShuklaⒸ , Gerson Oviedo Soto , Pascal Blaise Obeng
+IND MU	advancing	Closing Opposition	Priya ShuklaⒸ , Gerson Oviedo Soto , Pascal Blaise Obeng
+IND KQ	advancing	Closing Government	Priya ShuklaⒸ , Gerson Oviedo Soto , Pascal Blaise Obeng
+EDS KW	eliminated	Opening Opposition	Priya ShuklaⒸ , Gerson Oviedo Soto , Pascal Blaise Obeng
+UWODS CL	eliminated	Opening Opposition	Nasa TsuchiyaⒸ , Ananya Krishna , Ryna Saxena
+JHU GW	advancing	Opening Government	Nasa TsuchiyaⒸ , Ananya Krishna , Ryna Saxena
+IND MatsuYashi	advancing	Closing Opposition	Nasa TsuchiyaⒸ , Ananya Krishna , Ryna Saxena
+DU KN	eliminated	Closing Government	Nasa TsuchiyaⒸ , Ananya Krishna , Ryna Saxena
+IND CT	advancing	Closing Government	Snigdha PriyadarshiniⒸ , Garvit Gosain , Sudiksha Aggarwal
+IND AW	advancing	Closing Opposition	Snigdha PriyadarshiniⒸ , Garvit Gosain , Sudiksha Aggarwal
+EUDU DW	eliminated	Opening Opposition	Snigdha PriyadarshiniⒸ , Garvit Gosain , Sudiksha Aggarwal
+Cape Coast NN	eliminated	Opening Government	Snigdha PriyadarshiniⒸ , Garvit Gosain , Sudiksha Aggarwal
+
+
+team	result	side	adjudicators
+IND PW	eliminated	Closing Government	William SmithⒸ , Adhiraj Singh , Rishabh Gupta
+JHU GW	advancing	Closing Opposition	William SmithⒸ , Adhiraj Singh , Rishabh Gupta
+IND MatsuYashi	eliminated	Opening Government	William SmithⒸ , Adhiraj Singh , Rishabh Gupta
+Zagreb DR	advancing	Opening Opposition	William SmithⒸ , Adhiraj Singh , Rishabh Gupta
+UCLA HM	advancing	Opening Opposition	Shashwat DashⒸ , Ayushi Nasa , Tousif Tanvir Alam
+IND BH	eliminated	Closing Government	Shashwat DashⒸ , Ayushi Nasa , Tousif Tanvir Alam
+Cornell OP	advancing	Opening Government	Shashwat DashⒸ , Ayushi Nasa , Tousif Tanvir Alam
+IND DS	eliminated	Closing Opposition	Shashwat DashⒸ , Ayushi Nasa , Tousif Tanvir Alam
+VIT BD	eliminated	Closing Government	Pjotr KosterⒸ , Abhyudya Sangwan , Kelvin Kwabena Asamoah Damptey
+IND AS	advancing	Closing Opposition	Pjotr KosterⒸ , Abhyudya Sangwan , Kelvin Kwabena Asamoah Damptey
+IND MU	advancing	Opening Government	Pjotr KosterⒸ , Abhyudya Sangwan , Kelvin Kwabena Asamoah Damptey
+IND KQ	eliminated	Opening Opposition	Pjotr KosterⒸ , Abhyudya Sangwan , Kelvin Kwabena Asamoah Damptey
+Stanford BC	eliminated	Opening Government	Emily ShiⒸ , Donkor Archimedes , Toru Oga
+IND CT	eliminated	Closing Opposition	Emily ShiⒸ , Donkor Archimedes , Toru Oga
+IND NZ	advancing	Opening Opposition	Emily ShiⒸ , Donkor Archimedes , Toru Oga
+IND AW	advancing	Closing Government	Emily ShiⒸ , Donkor Archimedes , Toru Oga
+
+
+team	result	side	adjudicators
+IND AS	advancing	Closing Opposition	Nasa TsuchiyaⒸ , Ananya Krishna , Mohammed habib , Sebastian Dasso , William Smith
+JHU GW	eliminated	Opening Opposition	Nasa TsuchiyaⒸ , Ananya Krishna , Mohammed habib , Sebastian Dasso , William Smith
+IND MU	eliminated	Opening Government	Nasa TsuchiyaⒸ , Ananya Krishna , Mohammed habib , Sebastian Dasso , William Smith
+Zagreb DR	advancing	Closing Government	Nasa TsuchiyaⒸ , Ananya Krishna , Mohammed habib , Sebastian Dasso , William Smith
+UCLA HM	eliminated	Opening Government	Alishba IrfanⒸ , Abhyudya Sangwan , Craig McDonald , Emily Shi , Snigdha Priyadarshini
+IND NZ	eliminated	Closing Government	Alishba IrfanⒸ , Abhyudya Sangwan , Craig McDonald , Emily Shi , Snigdha Priyadarshini
+Cornell OP	advancing	Closing Opposition	Alishba IrfanⒸ , Abhyudya Sangwan , Craig McDonald , Emily Shi , Snigdha Priyadarshini
+IND AW	advancing	Opening Opposition	Alishba IrfanⒸ , Abhyudya Sangwan , Craig McDonald , Emily Shi , Snigdha Priyadarshini
+
+
+team	result	side	adjudicators
+IND AS	eliminated	Opening Government	Alishba IrfanⒸ , Craig McDonald , Nasa Tsuchiya , Shashwat Dash , William Smith
+Cornell OP	eliminated	Closing Government	Alishba IrfanⒸ , Craig McDonald , Nasa Tsuchiya , Shashwat Dash , William Smith
+IND AW	eliminated	Opening Opposition	Alishba IrfanⒸ , Craig McDonald , Nasa Tsuchiya , Shashwat Dash , William Smith
+Zagreb DR	advancing	Closing Opposition	Alishba IrfanⒸ , Craig McDonald , Nasa Tsuchiya , Shashwat Dash , William Smith
+
+
+team	result	side	adjudicators
+Ilorin OO	advancing	Opening Government	Craig McDonaldⒸ , Austin Thoma , Mohanish Tatiya , Sebastian Dasso , Varun Lodaya
+IIT Bombay GR	eliminated	Closing Opposition	Craig McDonaldⒸ , Austin Thoma , Mohanish Tatiya , Sebastian Dasso , Varun Lodaya
+Tokyo MY	eliminated	Closing Government	Craig McDonaldⒸ , Austin Thoma , Mohanish Tatiya , Sebastian Dasso , Varun Lodaya
+KNUST AS	eliminated	Opening Opposition	Craig McDonaldⒸ , Austin Thoma , Mohanish Tatiya , Sebastian Dasso , Varun Lodaya
+
+
+team	result	side	adjudicators
+KNUST AcheawAdetor	eliminated	Closing Opposition	Erasmus SegbefiaⒸ , Dang Pham , Saatvik Dabral , Shaurya Chandravanshi , Snigdha Priyadarshini
+IND BonnieClyde	eliminated	Opening Government	Erasmus SegbefiaⒸ , Dang Pham , Saatvik Dabral , Shaurya Chandravanshi , Snigdha Priyadarshini
+IND FS	advancing	Opening Opposition	Erasmus SegbefiaⒸ , Dang Pham , Saatvik Dabral , Shaurya Chandravanshi , Snigdha Priyadarshini
+IND SZ	eliminated	Closing Government	Erasmus SegbefiaⒸ , Dang Pham , Saatvik Dabral , Shaurya Chandravanshi , Snigdha Priyadarshini
+

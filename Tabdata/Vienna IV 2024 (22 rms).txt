@@ -1,0 +1,793 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Oxford B(rown boys reunion)		1st	1st	1st	2nd	2nd	13	820	3	2
+2	Zagreb TBA (Teck and Tin)		1st	1st	1st	3rd	1st	13	815	4	0
+3	Manchester A		1st	2nd	2nd	1st	1st	13	815	3	2
+4	Like and Subscribe	ESL	1st	3rd	1st	1st	2nd	12	818	3	1
+5	EUDU (B)e (F)r		1st	4th	1st	1st	1st	12	804	4	0
+6	Big K and Smol A	ESL	1st	1st	2nd	3rd	2nd	11	821	2	2
+7=	Always committed to the bit, but n		1st	1st	2nd	1st	4th	11	816	3	1
+7=	TBA (Alek and Velina)	ESL	1st	2nd	1st	4th	1st	11	816	3	1
+9	Working Class A		1st	3rd	1st	1st	3rd	11	807	3	0
+10	Munich Skill Issue	ESL	2nd	1st	4th	1st	1st	11	800	3	1
+11	We wanted Mor	ESL	1st	4th	2nd	1st	1st	11	782	3	1
+12	Higher Speaks = Higher Jackierarch		1st	1st	3rd	2nd	3rd	10	811	2	1
+13	St Andrews Critique of pure Rizzen		3rd	1st	2nd	2nd	2nd	10	810	1	3
+14	Oxford mysterious &amp; mischievous		1st	1st	4th	1st	3rd	10	808	3	0
+15	please ask us about recent drama		1st	2nd	1st	2nd	4th	10	800	2	2
+16	TCD Phil B(lack team)		1st	3rd	1st	3rd	2nd	10	794	2	1
+17	Zagreb B(rze cvike brzo osvajaju srca)	ESL	2nd	2nd	4th	1st	1st	10	791	2	2
+18	Zagreb not Tin this time	ESL	2nd	1st	4th	2nd	1st	10	790	2	2
+19	Don&#x27;t tell our debate club we&#x27;re h	ESL	1st	2nd	3rd	2nd	2nd	10	788	1	3
+20	ESDA Chronos Jap and Jew	ESL	1st	3rd	4th	1st	1st	10	768	3	0
+21	EDS d^7y/dx^7	ESL	1st	3rd	2nd	1st	4th	9	800	2	1
+22	St Andrews Grand Vizier (C)ara		2nd	2nd	3rd	1st	3rd	9	792	1	2
+23	Weizmann DR	ESL	1st	2nd	4th	2nd	2nd	9	783	1	3
+24	UAM derivative? and what else, integra	ESL	3rd	2nd	1st	2nd	3rd	9	768	1	2
+25	Weizmann DS	ESL	2nd	3rd	3rd	2nd	1st	9	763	1	2
+26	Levski	ESL, Novice	3rd	1st	2nd	4th	1st	9	756	2	1
+27	Belgrade Pavlovian responses	ESL	2nd	1st	3rd	3rd	2nd	9	755	1	2
+28	Warsaw Sorry heart, Espresso comes first	ESL, Novice	4th	2nd	2nd	2nd	1st	9	742	1	3
+29	Imperial Give us the 1st and we&#x27;ll vote for		2nd	2nd	1st	4th	3rd	8	794	1	2
+30	Copenhagen TradGirl &amp; BossWife	ESL	2nd	1st	2nd	3rd	4th	8	790	1	2
+31	Warsaw Arka Gdynia B*tch Pig	ESL	2nd	1st	3rd	3rd	3rd	8	784	1	1
+32	ASDV Bonaparte Balkan Girls	ESL	3rd	1st	4th	3rd	1st	8	777	2	0
+33	Trivium Manifesting Trivium A	ESL	2nd	3rd	1st	4th	2nd	8	777	1	2
+34	Ljubljana Fluttershy and Sunses Shimmer	ESL	3rd	1st	3rd	2nd	3rd	8	774	1	1
+35	Munich Allison please text me back	ESL	4th	1st	1st	2nd	4th	8	772	2	1
+36	Botev	ESL, Novice	3rd	2nd	2nd	4th	1st	8	770	1	2
+37	Berlin Transatlantic Yappers	Novice	2nd	3rd	2nd	1st	4th	8	767	1	2
+38	Belgrade Sponsored by Tambura	ESL	2nd	4th	1st	3rd	2nd	8	761	1	2
+39	Charles University A	ESL	4th	1st	4th	1st	2nd	8	759	2	1
+40	DCAC Bakhauv	ESL	3rd	4th	1st	3rd	1st	8	758	2	0
+41	I bestow my sword to thee…	ESL	4th	2nd	1st	3rd	2nd	8	758	1	2
+42	Belgrade Маша и медвед дворски дуси	ESL, Novice	4th	3rd	1st	1st	3rd	8	753	2	0
+43	Warsaw no thoughts just meow meow	ESL	4th	1st	1st	4th	2nd	8	752	2	1
+44	Vilnius Ця палата тут по блату	ESL	2nd	4th	1st	4th	1st	8	749	2	1
+45	Tartu A	ESL	2nd	2nd	1st	4th	4th	7	782	1	2
+46	St Andrews Chefs	ESL	2nd	3rd	3rd	3rd	2nd	7	762	0	2
+47	Warsaw token	ESL, Novice	3rd	3rd	2nd	4th	1st	7	755	1	1
+48	Zagreb D	ESL, Novice	3rd	1st	2nd	4th	3rd	7	754	1	1
+49	Ljubljana Ženaaaaaa	ESL	2nd	3rd	4th	2nd	2nd	7	754	0	3
+50	Zagreb reTired	ESL, Novice	3rd	3rd	2nd	2nd	3rd	7	754	0	2
+51	RRIS E+S		4th	3rd	2nd	1st	3rd	7	749	1	1
+52	Stuttgart DC Mare Garden	ESL	2nd	2nd	3rd	3rd	3rd	7	746	0	2
+53	Vilnius vicious unpredictable debate shena	ESL	2nd	4th	2nd	1st	4th	7	738	1	2
+54	AUEB A	ESL	4th	2nd	2nd	4th	1st	7	733	1	2
+55	MCC Ultras	ESL	4th	2nd	4th	2nd	1st	7	732	1	2
+56	Munich Prodigies	ESL, Novice	3rd	4th	3rd	1st	2nd	7	729	1	1
+57	Athens CC	ESL	2nd	4th	1st	3rd	4th	6	753	1	1
+58	NTU Athens Trust me, I&#x27;m an engineer	ESL, Novice	2nd	4th	3rd	3rd	2nd	6	751	0	2
+59	Full-fat milk🥛	ESL, Novice	2nd	2nd	3rd	3rd	4th	6	750	0	2
+60	trashman identity	ESL, Novice	4th	1st	2nd	4th	3rd	6	749	1	1
+61	DPG Argument Alchemists	ESL, Novice	1st	3rd	4th	2nd	4th	6	746	1	1
+62	ETH Zürich LT	Novice	4th	3rd	2nd	2nd	3rd	6	746	0	2
+63	DCAC Please give us a EU Visa ❤️	ESL	3rd	1st	3rd	4th	3rd	6	744	1	0
+64	Athens ID	ESL, Novice	3rd	3rd	3rd	1st	4th	6	741	1	0
+65	BDU A	ESL	1st	4th	3rd	4th	2nd	6	734	1	1
+66	TCD Phil got us ready to fight! (Politely d	Novice	4th	2nd	4th	2nd	2nd	6	734	0	3
+67	BDU Danubius	ESL, Novice	4th	4th	1st	2nd	3rd	6	727	1	1
+68	Weizmann IA	ESL, Novice	3rd	3rd	2nd	2nd	4th	6	716	0	2
+69	Würzburg 1	ESL	4th	3rd	3rd	3rd	1st	6	713	1	0
+70	BDU wild cats	ESL, Novice	1st	4th	3rd	4th	3rd	5	747	1	0
+71	Swing A		3rd	4th	1st	3rd	4th	5	737	1	0
+72	Jena A	ESL	4th	4th	2nd	1st	4th	5	733	1	1
+73	BDU Spy city travellers	ESL	4th	2nd	3rd	2nd	4th	5	731	0	2
+74	ETH Zürich Blue Swan	Novice	3rd	4th	3rd	4th	1st	5	714	1	0
+75	MCC Proof Pirates	ESL, Novice	3rd	3rd	3rd	3rd	3rd	5	708	0	0
+76	Ważne pytanie	ESL, Novice	3rd	3rd	4th	1st	4th	5	704	1	0
+77	Swing C		—	—	—	1st	2nd	5	312	1	1
+78	Belgrade zile survivers	ESL, Novice	3rd	2nd	4th	3rd	4th	4	746	0	1
+79	ACG 1	ESL, Novice	4th	1st	4th	4th	3rd	4	736	1	0
+80	RRIS B	ESL	3rd	4th	4th	3rd	2nd	4	736	0	1
+81	Berlin Twins	ESL, Novice	4th	3rd	2nd	3rd	4th	4	725	0	1
+82	Copenhagen Comté &amp; Questionable claims	ESL, Novice	3rd	2nd	4th	4th	4th	3	727	0	1
+83	DPG Debate Polo Gang	Novice	2nd	4th	3rd	4th	4th	3	719	0	1
+84	DPG Currywurst	Novice	4th	4th	3rd	4th	2nd	3	718	0	1
+85	Riga Technical University	ESL	4th	4th	4th	2nd	3rd	3	713	0	1
+86	MCC Warriors	ESL, Novice	4th	2nd	4th	4th	3rd	3	708	0	1
+87	Copenhagen Hejremandens fan club	Novice	1st	4th	4th	—	—	3	456	1	0
+88	Swing B		—	—	—	4th	1st	3	299	1	0
+89	Passau DeBait	ESL	3rd	4th	4th	3rd	4th	2	737	0	0
+90	Munich Polytheism of values	ESL, Novice	4th	4th	4th	—	—	0	429	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Ana Coman	ESL	Big K and Smol A	81	83	82	83	83	412	82.40	0.80
+2=	Tanae Rao		Oxford B(rown boys reunion)	81	81	84	83	82	411	82.20	1.17
+2=	Alek Selveliev	ESL	TBA (Alek and Velina)	80	81	82	79	89	411	82.20	3.54
+4	Rumen Marinov	ESL	Like and Subscribe	80	81	84	84	81	410	82.00	1.67
+5=	Aniket Chakravorty		Oxford B(rown boys reunion)	81	81	82	82	83	409	81.80	0.75
+5=	Jack Stanley		Always committed to the bit, but n	79	83	82	85	80	409	81.80	2.14
+5=	Tin Puljić	ESL	Zagreb TBA (Teck and Tin)	78	82	83	82	84	409	81.80	2.04
+5=	Klaudia Maciejewska	ESL	Big K and Smol A	80	82	83	82	82	409	81.80	0.98
+9=	Niki Angelov	ESL	Like and Subscribe	80	80	84	83	81	408	81.60	1.62
+9=	Lucie Slamova		Manchester A	83	80	80	83	82	408	81.60	1.36
+11=	Wajeeh Maaz		Manchester A	83	80	79	82	83	407	81.40	1.62
+11=	Alex McCreadie		Always committed to the bit, but n	80	83	81	84	79	407	81.40	1.85
+11=	William Smith		St Andrews Critique of pure Rizzen	78	86	80	80	83	407	81.40	2.80
+14=	Jack Williams		Higher Speaks = Higher Jackierarch	80	82	81	82	81	406	81.20	0.75
+14=	Teck Wei Tan		Zagreb TBA (Teck and Tin)	78	81	83	82	82	406	81.20	1.72
+16=	Elena Radulescu	ESL	Oxford mysterious &amp; mischievous	81	84	79	81	80	405	81.00	1.67
+16=	Jack Palmer		Higher Speaks = Higher Jackierarch	79	82	81	82	81	405	81.00	1.10
+16=	Velina Andonova	ESL	TBA (Alek and Velina)	80	81	80	79	85	405	81.00	2.10
+19	Dylan McCarthy		Working Class A	82	79	79	83	81	404	80.80	1.60
+20=	Aidan Young Je Woo		Oxford mysterious &amp; mischievous	81	83	80	80	79	403	80.60	1.36
+20=	Eli Ferrell		EUDU (B)e (F)r	81	77	80	82	83	403	80.60	2.06
+20=	Marina Kojić	ESL	Working Class A	81	80	79	82	81	403	80.60	1.02
+20=	Alastair Bowyer		St Andrews Critique of pure Rizzen	77	85	79	78	84	403	80.60	3.26
+24	Anna Cox	ESL	EDS d^7y/dx^7	78	79	82	83	80	402	80.40	1.85
+25=	Cyrus Braden		EUDU (B)e (F)r	82	76	80	80	83	401	80.20	2.40
+25=	Helena Hecke	ESL	please ask us about recent drama	79	80	82	83	77	401	80.20	2.14
+27=	David Safro	ESL	Don&#x27;t tell our debate club we&#x27;re h	80	79	82	81	78	400	80.00	1.41
+27=	Uzair Tajuddin	ESL	Munich Skill Issue	79	80	79	81	81	400	80.00	0.89
+27=	Philipp Steen	ESL	Munich Skill Issue	80	80	79	80	81	400	80.00	0.63
+30=	Freddy Simonnet-Lefevre		St Andrews Grand Vizier (C)ara	78	78	79	83	81	399	79.80	1.94
+30=	Dino Wildi		Imperial Give us the 1st and we&#x27;ll vote for	81	80	81	79	78	399	79.80	1.17
+30=	Fraser McConachie		please ask us about recent drama	77	80	82	83	77	399	79.80	2.48
+33=	Aniket Godbole	ESL	EDS d^7y/dx^7	77	79	81	81	80	398	79.60	1.50
+33=	Laura Serafine Pilmark	ESL	Copenhagen TradGirl &amp; BossWife	79	77	81	80	81	398	79.60	1.50
+35=	Henrietta Vanni		TCD Phil B(lack team)	79	77	82	79	80	397	79.40	1.62
+35=	Hilary Vanni		TCD Phil B(lack team)	80	78	81	79	79	397	79.40	1.02
+37=	Lovro Marušić	ESL	Zagreb B(rze cvike brzo osvajaju srca)	77	81	75	83	80	396	79.20	2.86
+37=	Ema Vlajčević	ESL	Zagreb not Tin this time	78	78	79	78	83	396	79.20	1.94
+39=	Hanna Pabiś	ESL	Warsaw Arka Gdynia B*tch Pig	77	81	80	78	79	395	79.00	1.41
+39=	Laura Hallmark		Imperial Give us the 1st and we&#x27;ll vote for	80	80	80	78	77	395	79.00	1.26
+39=	Lara Subotičanec	ESL	Zagreb B(rze cvike brzo osvajaju srca)	76	82	75	83	79	395	79.00	3.16
+42=	Guy Wolf	ESL	We wanted Mor	78	77	80	79	80	394	78.80	1.17
+42=	Patrik Branšajd	ESL	Zagreb not Tin this time	77	78	79	78	82	394	78.80	1.72
+44=	Jack Jillings		St Andrews Grand Vizier (C)ara	77	78	78	81	79	393	78.60	1.36
+44=	Ro’i Makov	ESL	Weizmann DR	80	82	76	80	75	393	78.60	2.65
+46=	Alex Steinmetz	ESL	Trivium Manifesting Trivium A	79	78	80	76	79	392	78.40	1.36
+46=	Martha Johanne Schou	ESL	Copenhagen TradGirl &amp; BossWife	79	75	81	81	76	392	78.40	2.50
+48=	Tanel Mütt	ESL	Tartu A	79	77	79	81	75	391	78.20	2.04
+48=	Kristjan Suuder	ESL	Tartu A	79	77	79	81	75	391	78.20	2.04
+50	Dror Brook	ESL	Weizmann DR	79	82	76	78	75	390	78.00	2.45
+51=	Ignacy Krzewski	ESL	Warsaw Arka Gdynia B*tch Pig	76	80	79	77	77	389	77.80	1.47
+51=	Irina Chicus	ESL	ASDV Bonaparte Balkan Girls	74	81	78	76	80	389	77.80	2.56
+51=	Adora Sabau	ESL	Munich Allison please text me back	75	77	82	81	74	389	77.80	3.19
+54=	Oana Nitu	ESL	ASDV Bonaparte Balkan Girls	74	80	78	77	79	388	77.60	2.06
+54=	Lilach Laila Ben David	ESL	We wanted Mor	77	77	78	78	78	388	77.60	0.49
+54=	Maj Hrovatin	ESL	Ljubljana Fluttershy and Sunses Shimmer	77	77	78	80	76	388	77.60	1.36
+54=	Tory Nguyen	ESL, Novice	Don&#x27;t tell our debate club we&#x27;re h	76	77	79	79	77	388	77.60	1.20
+58=	Kaloyan Kotzev	ESL, Novice	Botev	77	77	80	74	78	386	77.20	1.94
+58=	Teja Sapač	ESL	Ljubljana Fluttershy and Sunses Shimmer	77	76	77	79	77	386	77.20	0.98
+60=	Hanna Szczerbińska	ESL	UAM derivative? and what else, integra	78	74	79	79	75	385	77.00	2.10
+60=	Leon Kersten	ESL	ESDA Chronos Jap and Jew	79	77	74	78	77	385	77.00	1.67
+60=	Noraly Benita Jonis	ESL	Trivium Manifesting Trivium A	78	75	78	76	78	385	77.00	1.26
+60=	Shachar Gold	ESL	Weizmann DS	75	76	78	79	77	385	77.00	1.41
+60=	Sergey Shkolnikov	Novice	Berlin Transatlantic Yappers	75	74	77	81	78	385	77.00	2.45
+65	Valentin Katzarov	ESL, Novice	Botev	76	77	78	76	77	384	76.80	0.75
+66=	Wiktor Chałupniczak	ESL	UAM derivative? and what else, integra	77	74	79	79	74	383	76.60	2.24
+66=	Idan Ben Avi	ESL	ESDA Chronos Jap and Jew	77	76	74	78	78	383	76.60	1.50
+66=	Jola Schmidt	ESL	Munich Allison please text me back	73	76	80	80	74	383	76.60	2.94
+69	Marc Bélorgey	ESL, Novice	Berlin Transatlantic Yappers	76	74	78	77	77	382	76.40	1.36
+70=	Pavle Antonijević	ESL	Belgrade Pavlovian responses	68	80	77	78	78	381	76.20	4.21
+70=	Strahinja Batanjski	ESL	Belgrade Sponsored by Tambura	77	76	79	73	76	381	76.20	1.94
+70=	Vuk Popadic	ESL	I bestow my sword to thee…	77	75	75	78	76	381	76.20	1.17
+70=	Agnes Li	ESL	St Andrews Chefs	80	73	77	74	77	381	76.20	2.48
+70=	Myra Kong	ESL	St Andrews Chefs	78	74	77	74	78	381	76.20	1.83
+75=	Obrad Kostic	ESL	Belgrade Sponsored by Tambura	76	75	78	74	77	380	76.00	1.41
+75=	Filip Vrťo	ESL	Charles University A	72	80	77	75	76	380	76.00	2.61
+75=	Jonathan Krapp	ESL	DCAC Bakhauv	77	72	77	78	76	380	76.00	2.10
+78=	Jagoda Pluskwa-Dąbrowska	ESL, Novice	Warsaw token	75	75	76	75	78	379	75.80	1.17
+78=	Dimitrije Mikarić	ESL, Novice	Belgrade Маша и медвед дворски дуси	76	77	75	77	74	379	75.80	1.17
+78=	Ivan Džepina	ESL, Novice	Zagreb D	74	77	77	77	74	379	75.80	1.47
+78=	Tomáš Galnor	ESL	Charles University A	72	79	78	75	75	379	75.80	2.48
+82=	Žiga Koren	ESL	Ljubljana Ženaaaaaa	78	77	74	74	75	378	75.60	1.62
+82=	Tanya Anastasova	ESL, Novice	Levski	75	79	73	75	76	378	75.60	1.96
+82=	Adelina Galabinova	ESL, Novice	Levski	73	76	74	77	78	378	75.60	1.85
+82=	Matej Mesić	ESL, Novice	Zagreb reTired	71	79	74	78	76	378	75.60	2.87
+82=	Jan Hlaváček	ESL, Novice	Full-fat milk🥛	76	75	76	78	73	378	75.60	1.62
+82=	Dvij Chaitanya Mankad	ESL	Weizmann DS	75	72	78	77	76	378	75.60	2.06
+82=	Josef Hoppe	ESL	DCAC Bakhauv	76	72	77	78	75	378	75.60	2.06
+89=	Lukas Eigėlis	ESL	Vilnius Ця палата тут по блату	75	75	79	72	76	377	75.40	2.24
+89=	Nadia Mayer	ESL	Warsaw no thoughts just meow meow	73	77	77	73	77	377	75.40	1.96
+89=	Katerina Armata	ESL, Novice	Athens CC	74	78	76	77	72	377	75.40	2.15
+89=	Alexandra Elisavet Feloukatzi	ESL, Novice	NTU Athens Trust me, I&#x27;m an engineer	78	72	75	75	77	377	75.40	2.06
+89=	Shannah Saul		RRIS E+S	75	75	75	78	74	377	75.40	1.36
+89=	Mila Bošković	ESL, Novice	I bestow my sword to thee…	75	75	75	76	76	377	75.40	0.49
+95=	Antonia Rieder	ESL, Novice	DPG Argument Alchemists	76	77	71	78	74	376	75.20	2.48
+95=	Maro Samara	ESL	Athens CC	74	77	77	77	71	376	75.20	2.40
+95=	Art Špegel	ESL, Novice	Ljubljana Ženaaaaaa	76	79	74	73	74	376	75.20	2.14
+95=	Teymour Aldridge	Novice	ETH Zürich LT	71	74	77	76	78	376	75.20	2.48
+95=	Marcelina Jank	ESL, Novice	Warsaw token	74	74	76	75	77	376	75.20	1.17
+95=	Jelena Lara Marinković	ESL, Novice	Zagreb reTired	70	77	76	77	76	376	75.20	2.64
+101=	Patryk Biernat	ESL	Warsaw no thoughts just meow meow	73	76	77	73	76	375	75.00	1.67
+101=	Emilia Janowska	ESL, Novice	trashman identity	72	77	77	75	74	375	75.00	1.90
+101=	Marta Vukić	ESL, Novice	Zagreb D	72	76	76	76	75	375	75.00	1.55
+101=	Urtė Žukauskaitė	ESL	Vilnius vicious unpredictable debate shena	74	71	76	83	71	375	75.00	4.43
+105=	Dimitrios Kollias	ESL, Novice	Athens ID	77	76	77	74	70	374	74.80	2.64
+105=	Pavle Mackic	ESL	Belgrade Pavlovian responses	66	79	77	76	76	374	74.80	4.53
+105=	Dimitris Balatos	ESL, Novice	NTU Athens Trust me, I&#x27;m an engineer	78	71	75	74	76	374	74.80	2.32
+105=	Stelios Anastasopoulos	ESL	AUEB A	73	76	77	72	76	374	74.80	1.94
+105=	Andrey Belkin	ESL	Stuttgart DC Mare Garden	73	75	77	74	75	374	74.80	1.33
+105=	Krzysiek Majcher	ESL, Novice	trashman identity	73	77	76	75	73	374	74.80	1.60
+105=	Filip Ubović	ESL, Novice	Belgrade Маша и медвед дворски дуси	74	75	74	76	75	374	74.80	0.75
+105=	Gál Olivér	ESL, Novice	BDU wild cats	75	74	75	74	76	374	74.80	0.75
+113=	Roberto Cadena Vander Laat	ESL, Novice	DCAC Please give us a EU Visa ❤️	74	77	73	76	73	373	74.60	1.62
+113=	Luka Maksić	ESL, Novice	Belgrade zile survivers	75	77	74	73	74	373	74.60	1.36
+113=	Aleksandra Dudic	ESL, Novice	Belgrade zile survivers	74	80	73	71	75	373	74.60	3.01
+113=	Berényi Lilla	ESL, Novice	BDU wild cats	75	75	73	74	76	373	74.60	1.02
+117=	Olena Pankevych	ESL	Vilnius Ця палата тут по блату	74	73	79	71	75	372	74.40	2.65
+117=	Jan Żuk	ESL, Novice	Warsaw Sorry heart, Espresso comes first	63	76	77	78	78	372	74.40	5.75
+117=	Markus Gelfgren	ESL	Stuttgart DC Mare Garden	74	73	78	74	73	372	74.40	1.85
+117=	Martin Vukičević	ESL, Novice	Full-fat milk🥛	75	74	76	75	72	372	74.40	1.36
+117=	El-ly Namatinia		RRIS E+S	72	74	74	78	74	372	74.40	1.96
+122=	Yiyang Qian	ESL	DCAC Please give us a EU Visa ❤️	73	77	72	76	73	371	74.20	1.94
+122=	Speaker 1		Swing A	74	69	77	76	75	371	74.20	2.79
+124=	Jazmin Velenczei	ESL, Novice	DPG Argument Alchemists	75	76	71	75	73	370	74.00	1.79
+124=	Weronika Hupert	ESL, Novice	Warsaw Sorry heart, Espresso comes first	63	75	77	79	76	370	74.00	5.66
+124=	Matthias Bautsch	ESL	Passau DeBait	75	71	73	76	75	370	74.00	1.79
+124=	Liv Weiss	Novice	ETH Zürich LT	69	74	75	77	75	370	74.00	2.68
+124=	Abigail Kane	ESL	RRIS B	75	77	72	74	72	370	74.00	1.90
+129=	Bogdan Kaluđerović	ESL, Novice	ACG 1	74	74	76	74	71	369	73.80	1.60
+129=	Merle Scheipers	ESL	Jena A	73	71	75	78	72	369	73.80	2.48
+129=	Jaodun Muntasir	ESL	BDU A	70	76	76	74	73	369	73.80	2.23
+132=	Márton Hudáky	ESL	BDU Spy city travellers	73	74	76	73	72	368	73.60	1.36
+132=	Konstantin Todte	ESL, Novice	Munich Prodigies	72	74	73	75	74	368	73.60	1.02
+134=	Ioanna Papathanasiou	ESL, Novice	Athens ID	77	73	74	73	70	367	73.40	2.24
+134=	Nour Al-Tzaratli	ESL, Novice	ACG 1	74	74	76	73	70	367	73.40	1.96
+134=	Andreas Nett	ESL	Passau DeBait	75	72	71	75	74	367	73.40	1.62
+134=	Kitty Beattie	Novice	TCD Phil got us ready to fight! (Politely d	74	75	73	73	72	367	73.40	1.02
+138=	Zsombor Kiss	ESL	MCC Ultras	67	78	73	74	74	366	73.20	3.54
+138=	Balazs Szigeti	ESL	MCC Ultras	66	77	75	74	74	366	73.20	3.76
+138=	Roberto Liberman	ESL	RRIS B	75	76	71	72	72	366	73.20	1.94
+141	Eszter Gyurka	ESL, Novice	BDU A	69	75	75	74	72	365	73.00	2.28
+142=	Patrizia Hertlein	ESL	Jena A	73	71	73	77	70	364	72.80	2.40
+142=	Lívia Horváth	ESL, Novice	BDU Danubius	74	68	75	77	70	364	72.80	3.31
+142=	Amalie Bøgh-Sørensen	ESL, Novice	Copenhagen Comté &amp; Questionable claims	75	76	72	69	72	364	72.80	2.48
+145=	Kiss Virág Eszter	ESL, Novice	BDU Danubius	72	69	75	77	70	363	72.60	3.01
+145=	Talant Sariev	ESL, Novice	BDU Spy city travellers	74	72	75	72	70	363	72.60	1.74
+145=	Dimi Kostadinov	ESL, Novice	Copenhagen Comté &amp; Questionable claims	74	77	71	69	72	363	72.60	2.73
+145=	Simonas Davidavičius	ESL, Novice	Vilnius vicious unpredictable debate shena	70	69	75	78	71	363	72.60	3.38
+145=	Leonie Doerr	ESL, Novice	Berlin Twins	72	73	74	75	69	363	72.60	2.06
+150=	Aditi Kakkad	ESL, Novice	Weizmann IA	66	73	72	76	75	362	72.40	3.50
+150=	Marie Zwicker	ESL, Novice	Berlin Twins	74	72	74	75	67	362	72.40	2.87
+152=	Ranea Amir	Novice	DPG Currywurst	69	75	73	67	77	361	72.20	3.71
+152=	Ugne Bagdonaite	ESL, Novice	Munich Prodigies	71	68	74	75	73	361	72.20	2.48
+152=	Giulia Rebecca Conte	Novice	DPG Debate Polo Gang	76	70	73	73	69	361	72.20	2.48
+155	Nikolas Douros	ESL, Novice	AUEB A	63	74	75	72	75	359	71.80	4.53
+156=	Enes Hadžifejzović	ESL	Würzburg 1	71	72	73	68	74	358	71.60	2.06
+156=	Kristina Veskovic	Novice	DPG Debate Polo Gang	75	70	70	74	69	358	71.60	2.42
+158=	Maximilian Alexander Peter von Willich	ESL, Novice	ETH Zürich Blue Swan	74	68	75	64	76	357	71.40	4.63
+158=	Amelie Elisabeth Koch	Novice	ETH Zürich Blue Swan	73	69	76	65	74	357	71.40	3.93
+158=	Nele Meryem Aktas	Novice	DPG Currywurst	68	74	74	65	76	357	71.40	4.18
+158=	Roberts Treize	ESL	Riga Technical University	63	72	71	79	72	357	71.40	5.08
+162=	Füzesi Marcell	ESL, Novice	MCC Proof Pirates	74	72	71	70	69	356	71.20	1.72
+162=	Kristofers Kalniņš-Liberis	ESL	Riga Technical University	63	71	71	78	73	356	71.20	4.83
+164=	Daniel Koch	ESL	Würzburg 1	71	71	73	67	73	355	71.00	2.19
+164=	Poczkodi Patrik	ESL, Novice	MCC Warriors	68	73	68	71	75	355	71.00	2.76
+166	Itai Slovatik	ESL, Novice	Weizmann IA	65	71	71	74	73	354	70.80	3.12
+167=	Papp Dominik	ESL, Novice	MCC Warriors	68	73	65	72	75	353	70.60	3.61
+167=	Jan Wronicz	ESL, Novice	Ważne pytanie	74	74	62	74	69	353	70.60	4.72
+169	Eszter Gondoly	ESL, Novice	MCC Proof Pirates	72	71	71	69	69	352	70.40	1.20
+170	Lena Sprengel	ESL, Novice	Ważne pytanie	74	73	62	74	68	351	70.20	4.66
+171=	Arianna Cestola	Novice	TCD Phil got us ready to fight! (Politely d	—	73	74	73	73	293	73.25	0.43
+171=	Speaker 2		Swing A	—	68	75	74	76	293	73.25	3.11
+173	Alisa Popova	Novice	Copenhagen Hejremandens fan club	78	76	75	—	—	229	76.33	1.25
+174	Rasmus Schade	ESL, Novice	Copenhagen Hejremandens fan club	77	76	74	—	—	227	75.67	1.25
+175	Tom Benjamin Herzberg	ESL, Novice	Munich Polytheism of values	70	72	73	—	—	215	71.67	1.25
+176	Speaker 1		Swing C	—	—	—	82	74	156	78.00	4.00
+177	Speaker 2		Swing B	—	—	—	72	78	150	75.00	3.00
+178	Speaker 1		Swing B	—	—	—	71	78	149	74.50	3.50
+179	Elias Falk Morgenstern	ESL, Novice	Munich Polytheism of values	69	72	—	—	—	141	70.50	1.50
+180	Speaker 2		Swing C	—	—	—	—	74	74	74.00	0.00
+
+
+team	result	side	ballot	adjudicators
+TCD Phil got us ready to fight! (Politely d	4th	Closing Opposition	View Ballot	Aymaan SheikhⒸ , Greta TamoliūnaitėⓉ , Polyxeni DamigouⓉ
+Full-fat milk🥛	2nd	Closing Government	View Ballot	Aymaan SheikhⒸ , Greta TamoliūnaitėⓉ , Polyxeni DamigouⓉ
+Copenhagen Hejremandens fan club	1st	Opening Government	View Ballot	Aymaan SheikhⒸ , Greta TamoliūnaitėⓉ , Polyxeni DamigouⓉ
+Copenhagen Comté &amp; Questionable claims	3rd	Opening Opposition	View Ballot	Aymaan SheikhⒸ , Greta TamoliūnaitėⓉ , Polyxeni DamigouⓉ
+NTU Athens Trust me, I&#x27;m an engineer	2nd	Closing Government	View Ballot	Deon Kiew Shou FungⒸ , Arjun Raman , Alexia SkourtsiⓉ
+TCD Phil B(lack team)	1st	Opening Government	View Ballot	Deon Kiew Shou FungⒸ , Arjun Raman , Alexia SkourtsiⓉ
+Belgrade Маша и медвед дворски дуси	4th	Closing Opposition	View Ballot	Deon Kiew Shou FungⒸ , Arjun Raman , Alexia SkourtsiⓉ
+St Andrews Critique of pure Rizzen	3rd	Opening Opposition	View Ballot	Deon Kiew Shou FungⒸ , Arjun Raman , Alexia SkourtsiⓉ
+Athens ID	3rd	Closing Opposition	View Ballot	Amitai Ben PoratⒸ , Krish Singh , Lucy Murphy
+Tartu A	2nd	Opening Opposition	View Ballot	Amitai Ben PoratⒸ , Krish Singh , Lucy Murphy
+TBA (Alek and Velina)	1st	Closing Government	View Ballot	Amitai Ben PoratⒸ , Krish Singh , Lucy Murphy
+RRIS E+S	4th	Opening Government	View Ballot	Amitai Ben PoratⒸ , Krish Singh , Lucy Murphy
+DCAC Please give us a EU Visa ❤️	3rd	Opening Government	View Ballot	Victor BervoetsⒸ , Stuart Johnson , Michael Haji-MatthewⓉ
+MCC Ultras	4th	Closing Opposition	View Ballot	Victor BervoetsⒸ , Stuart Johnson , Michael Haji-MatthewⓉ
+Belgrade Sponsored by Tambura	2nd	Opening Opposition	View Ballot	Victor BervoetsⒸ , Stuart Johnson , Michael Haji-MatthewⓉ
+Zagreb TBA (Teck and Tin)	1st	Closing Government	View Ballot	Victor BervoetsⒸ , Stuart Johnson , Michael Haji-MatthewⓉ
+Warsaw Arka Gdynia B*tch Pig	2nd	Opening Government	View Ballot	Neva Ensminger-HollandⒸ , Inbar HavilioⓉ
+Warsaw token	3rd	Opening Opposition	View Ballot	Neva Ensminger-HollandⒸ , Inbar HavilioⓉ
+EUDU (B)e (F)r	1st	Closing Government	View Ballot	Neva Ensminger-HollandⒸ , Inbar HavilioⓉ
+Riga Technical University	4th	Closing Opposition	View Ballot	Neva Ensminger-HollandⒸ , Inbar HavilioⓉ
+ACG 1	4th	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Adam Maciej KobiałkoⓉ , Oliver FischerⓉ
+UAM derivative? and what else, integra	3rd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Adam Maciej KobiałkoⓉ , Oliver FischerⓉ
+Trivium Manifesting Trivium A	2nd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Adam Maciej KobiałkoⓉ , Oliver FischerⓉ
+Big K and Smol A	1st	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Adam Maciej KobiałkoⓉ , Oliver FischerⓉ
+Belgrade Pavlovian responses	2nd	Opening Opposition	View Ballot	Petar ŽnidarⒸ , Guyberli van Thuijl , Tzippy WinterⓉ
+Warsaw Sorry heart, Espresso comes first	4th	Opening Government	View Ballot	Petar ŽnidarⒸ , Guyberli van Thuijl , Tzippy WinterⓉ
+Weizmann IA	3rd	Closing Government	View Ballot	Petar ŽnidarⒸ , Guyberli van Thuijl , Tzippy WinterⓉ
+BDU A	1st	Closing Opposition	View Ballot	Petar ŽnidarⒸ , Guyberli van Thuijl , Tzippy WinterⓉ
+ASDV Bonaparte Balkan Girls	3rd	Opening Opposition	View Ballot	Ayal MorⒸ , Katie Kiely , Kovács FlóraⓉ
+EDS d^7y/dx^7	1st	Opening Government	View Ballot	Ayal MorⒸ , Katie Kiely , Kovács FlóraⓉ
+DPG Currywurst	4th	Closing Opposition	View Ballot	Ayal MorⒸ , Katie Kiely , Kovács FlóraⓉ
+Weizmann DS	2nd	Closing Government	View Ballot	Ayal MorⒸ , Katie Kiely , Kovács FlóraⓉ
+Like and Subscribe	1st	Opening Government	View Ballot	Daan SpacklerⒸ , Brina Verdnik , Toni TeschkeⓉ
+Warsaw no thoughts just meow meow	4th	Closing Government	View Ballot	Daan SpacklerⒸ , Brina Verdnik , Toni TeschkeⓉ
+St Andrews Grand Vizier (C)ara	2nd	Closing Opposition	View Ballot	Daan SpacklerⒸ , Brina Verdnik , Toni TeschkeⓉ
+Belgrade zile survivers	3rd	Opening Opposition	View Ballot	Daan SpacklerⒸ , Brina Verdnik , Toni TeschkeⓉ
+BDU Danubius	4th	Opening Government	View Ballot	Oisín BrowneⒸ , Aleksandra Musiał
+Weizmann DR	1st	Opening Opposition	View Ballot	Oisín BrowneⒸ , Aleksandra Musiał
+Zagreb not Tin this time	2nd	Closing Opposition	View Ballot	Oisín BrowneⒸ , Aleksandra Musiał
+DCAC Bakhauv	3rd	Closing Government	View Ballot	Oisín BrowneⒸ , Aleksandra Musiał
+Botev	3rd	Opening Government	View Ballot	Lara DragojevićⒸ , Pavel Kalinnikov , Dorotea ZoguⓉ
+AUEB A	4th	Closing Government	View Ballot	Lara DragojevićⒸ , Pavel Kalinnikov , Dorotea ZoguⓉ
+Imperial Give us the 1st and we&#x27;ll vote for	2nd	Closing Opposition	View Ballot	Lara DragojevićⒸ , Pavel Kalinnikov , Dorotea ZoguⓉ
+Working Class A	1st	Opening Opposition	View Ballot	Lara DragojevićⒸ , Pavel Kalinnikov , Dorotea ZoguⓉ
+Jena A	4th	Opening Government	View Ballot	Ananya KrishnaⒸ , Theo Simion , Max KubisⓉ
+Oxford mysterious &amp; mischievous	1st	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Theo Simion , Max KubisⓉ
+Ważne pytanie	3rd	Closing Government	View Ballot	Ananya KrishnaⒸ , Theo Simion , Max KubisⓉ
+Munich Skill Issue	2nd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Theo Simion , Max KubisⓉ
+We wanted Mor	1st	Opening Government	View Ballot	Alishba IrfanⒸ , Yutong Liang , Abdullah AtassiⓉ
+Würzburg 1	4th	Closing Government	View Ballot	Alishba IrfanⒸ , Yutong Liang , Abdullah AtassiⓉ
+Munich Prodigies	3rd	Closing Opposition	View Ballot	Alishba IrfanⒸ , Yutong Liang , Abdullah AtassiⓉ
+Zagreb B(rze cvike brzo osvajaju srca)	2nd	Opening Opposition	View Ballot	Alishba IrfanⒸ , Yutong Liang , Abdullah AtassiⓉ
+ESDA Chronos Jap and Jew	1st	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Jagoda Sabljić
+Passau DeBait	3rd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Jagoda Sabljić
+Munich Allison please text me back	4th	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Jagoda Sabljić
+Berlin Transatlantic Yappers	2nd	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Jagoda Sabljić
+Vilnius Ця палата тут по блату	2nd	Opening Government	View Ballot	Dominic FerrisⒸ , Emilia StankovicⓉ , Gonzalo CuevaⓉ
+DPG Argument Alchemists	1st	Closing Government	View Ballot	Dominic FerrisⒸ , Emilia StankovicⓉ , Gonzalo CuevaⓉ
+Zagreb D	3rd	Closing Opposition	View Ballot	Dominic FerrisⒸ , Emilia StankovicⓉ , Gonzalo CuevaⓉ
+Charles University A	4th	Opening Opposition	View Ballot	Dominic FerrisⒸ , Emilia StankovicⓉ , Gonzalo CuevaⓉ
+Manchester A	1st	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Stefan Josipović , Kincső Klára GálⓉ
+RRIS B	3rd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Stefan Josipović , Kincső Klára GálⓉ
+St Andrews Chefs	2nd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Stefan Josipović , Kincső Klára GálⓉ
+Berlin Twins	4th	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Stefan Josipović , Kincső Klára GálⓉ
+Zagreb reTired	3rd	Opening Government	View Ballot	Matija PušnikⒸ , Jessica Musulin , Tran Thang
+Munich Polytheism of values	4th	Closing Opposition	View Ballot	Matija PušnikⒸ , Jessica Musulin , Tran Thang
+please ask us about recent drama	1st	Closing Government	View Ballot	Matija PušnikⒸ , Jessica Musulin , Tran Thang
+Vilnius vicious unpredictable debate shena	2nd	Opening Opposition	View Ballot	Matija PušnikⒸ , Jessica Musulin , Tran Thang
+Stuttgart DC Mare Garden	2nd	Closing Government	View Ballot	Andrew ChenⒸ , Tara Stojanović , Pelina StamatakiⓉ
+MCC Warriors	4th	Opening Opposition	View Ballot	Andrew ChenⒸ , Tara Stojanović , Pelina StamatakiⓉ
+MCC Proof Pirates	3rd	Closing Opposition	View Ballot	Andrew ChenⒸ , Tara Stojanović , Pelina StamatakiⓉ
+Don&#x27;t tell our debate club we&#x27;re h	1st	Opening Government	View Ballot	Andrew ChenⒸ , Tara Stojanović , Pelina StamatakiⓉ
+Athens CC	2nd	Closing Government	View Ballot	Kay PowersⒸ , Mira Eberdorfer , Mirza PolatⓉ
+ETH Zürich Blue Swan	3rd	Closing Opposition	View Ballot	Kay PowersⒸ , Mira Eberdorfer , Mirza PolatⓉ
+trashman identity	4th	Opening Opposition	View Ballot	Kay PowersⒸ , Mira Eberdorfer , Mirza PolatⓉ
+BDU wild cats	1st	Opening Government	View Ballot	Kay PowersⒸ , Mira Eberdorfer , Mirza PolatⓉ
+Higher Speaks = Higher Jackierarch	1st	Closing Government	View Ballot	Đorđe RadosavljevićⒸ , Michaela Georgia Vachou Peirantakou , Graham HeathcoteⓉ
+BDU Spy city travellers	4th	Opening Government	View Ballot	Đorđe RadosavljevićⒸ , Michaela Georgia Vachou Peirantakou , Graham HeathcoteⓉ
+Levski	3rd	Closing Opposition	View Ballot	Đorđe RadosavljevićⒸ , Michaela Georgia Vachou Peirantakou , Graham HeathcoteⓉ
+DPG Debate Polo Gang	2nd	Opening Opposition	View Ballot	Đorđe RadosavljevićⒸ , Michaela Georgia Vachou Peirantakou , Graham HeathcoteⓉ
+Oxford B(rown boys reunion)	1st	Opening Government	View Ballot	Paula BreyerⒸ , Natalija Gavrilović
+Ljubljana Ženaaaaaa	2nd	Closing Opposition	View Ballot	Paula BreyerⒸ , Natalija Gavrilović
+ETH Zürich LT	4th	Opening Opposition	View Ballot	Paula BreyerⒸ , Natalija Gavrilović
+Swing A	3rd	Closing Government	View Ballot	Paula BreyerⒸ , Natalija Gavrilović
+Ljubljana Fluttershy and Sunses Shimmer	3rd	Opening Government	View Ballot	Redacted AⒸ , Barbara Neuwirth , Naya ZayatⓉ
+Always committed to the bit, but n	1st	Closing Government	View Ballot	Redacted AⒸ , Barbara Neuwirth , Naya ZayatⓉ
+I bestow my sword to thee…	4th	Opening Opposition	View Ballot	Redacted AⒸ , Barbara Neuwirth , Naya ZayatⓉ
+Copenhagen TradGirl &amp; BossWife	2nd	Closing Opposition	View Ballot	Redacted AⒸ , Barbara Neuwirth , Naya ZayatⓉ
+
+
+team	result	side	ballot	adjudicators
+Athens ID	3rd	Closing Government	View Ballot	Lara DragojevićⒸ , Krish Singh , Tzippy WinterⓉ
+Ljubljana Fluttershy and Sunses Shimmer	1st	Closing Opposition	View Ballot	Lara DragojevićⒸ , Krish Singh , Tzippy WinterⓉ
+I bestow my sword to thee…	2nd	Opening Government	View Ballot	Lara DragojevićⒸ , Krish Singh , Tzippy WinterⓉ
+DCAC Bakhauv	4th	Opening Opposition	View Ballot	Lara DragojevićⒸ , Krish Singh , Tzippy WinterⓉ
+Belgrade Pavlovian responses	1st	Opening Government	View Ballot	Redacted AⒸ , Ayal Mor , Adam Maciej KobiałkoⓉ
+St Andrews Grand Vizier (C)ara	2nd	Closing Government	View Ballot	Redacted AⒸ , Ayal Mor , Adam Maciej KobiałkoⓉ
+NTU Athens Trust me, I&#x27;m an engineer	4th	Closing Opposition	View Ballot	Redacted AⒸ , Ayal Mor , Adam Maciej KobiałkoⓉ
+Berlin Transatlantic Yappers	3rd	Opening Opposition	View Ballot	Redacted AⒸ , Ayal Mor , Adam Maciej KobiałkoⓉ
+Botev	2nd	Closing Government	View Ballot	Neva Ensminger-HollandⒸ , Victor Bervoets , Mirza PolatⓉ
+Passau DeBait	4th	Opening Opposition	View Ballot	Neva Ensminger-HollandⒸ , Victor Bervoets , Mirza PolatⓉ
+Levski	1st	Opening Government	View Ballot	Neva Ensminger-HollandⒸ , Victor Bervoets , Mirza PolatⓉ
+Weizmann IA	3rd	Closing Opposition	View Ballot	Neva Ensminger-HollandⒸ , Victor Bervoets , Mirza PolatⓉ
+ASDV Bonaparte Balkan Girls	1st	Closing Government	View Ballot	Andrew ChenⒸ , Pavel Kalinnikov , Graham HeathcoteⓉ
+Belgrade zile survivers	2nd	Opening Government	View Ballot	Andrew ChenⒸ , Pavel Kalinnikov , Graham HeathcoteⓉ
+Zagreb reTired	3rd	Closing Opposition	View Ballot	Andrew ChenⒸ , Pavel Kalinnikov , Graham HeathcoteⓉ
+RRIS B	4th	Opening Opposition	View Ballot	Andrew ChenⒸ , Pavel Kalinnikov , Graham HeathcoteⓉ
+Warsaw no thoughts just meow meow	1st	Closing Opposition	View Ballot	Theo SimionⒸ , Yutong Liang , Oliver FischerⓉ
+MCC Warriors	2nd	Opening Government	View Ballot	Theo SimionⒸ , Yutong Liang , Oliver FischerⓉ
+Berlin Twins	3rd	Closing Government	View Ballot	Theo SimionⒸ , Yutong Liang , Oliver FischerⓉ
+Riga Technical University	4th	Opening Opposition	View Ballot	Theo SimionⒸ , Yutong Liang , Oliver FischerⓉ
+AUEB A	2nd	Opening Government	View Ballot	Ananya KrishnaⒸ , Aleksandra Musiał , Kincső Klára GálⓉ
+ETH Zürich LT	3rd	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Aleksandra Musiał , Kincső Klára GálⓉ
+Munich Polytheism of values	4th	Closing Government	View Ballot	Ananya KrishnaⒸ , Aleksandra Musiał , Kincső Klára GálⓉ
+Munich Allison please text me back	1st	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Aleksandra Musiał , Kincső Klára GálⓉ
+DCAC Please give us a EU Visa ❤️	1st	Closing Opposition	View Ballot	Dominic FerrisⒸ , Jessica Musulin
+Warsaw token	3rd	Closing Government	View Ballot	Dominic FerrisⒸ , Jessica Musulin
+Munich Prodigies	4th	Opening Opposition	View Ballot	Dominic FerrisⒸ , Jessica Musulin
+Copenhagen Comté &amp; Questionable claims	2nd	Opening Government	View Ballot	Dominic FerrisⒸ , Jessica Musulin
+Jena A	4th	Opening Opposition	View Ballot	Katie KielyⒸ , Brina Verdnik , Emilia StankovicⓉ
+Warsaw Sorry heart, Espresso comes first	2nd	Closing Opposition	View Ballot	Katie KielyⒸ , Brina Verdnik , Emilia StankovicⓉ
+RRIS E+S	3rd	Closing Government	View Ballot	Katie KielyⒸ , Brina Verdnik , Emilia StankovicⓉ
+trashman identity	1st	Opening Government	View Ballot	Katie KielyⒸ , Brina Verdnik , Emilia StankovicⓉ
+MCC Ultras	2nd	Closing Government	View Ballot	Michaela Georgia Vachou PeirantakouⒸ , Barbara Neuwirth
+DPG Currywurst	4th	Opening Opposition	View Ballot	Michaela Georgia Vachou PeirantakouⒸ , Barbara Neuwirth
+Belgrade Маша и медвед дворски дуси	3rd	Opening Government	View Ballot	Michaela Georgia Vachou PeirantakouⒸ , Barbara Neuwirth
+Charles University A	1st	Closing Opposition	View Ballot	Michaela Georgia Vachou PeirantakouⒸ , Barbara Neuwirth
+ETH Zürich Blue Swan	4th	Closing Government	View Ballot	Paula BreyerⒸ , Zach Godley-McAvoy , Gonzalo CuevaⓉ
+TCD Phil got us ready to fight! (Politely d	2nd	Opening Government	View Ballot	Paula BreyerⒸ , Zach Godley-McAvoy , Gonzalo CuevaⓉ
+Ważne pytanie	3rd	Opening Opposition	View Ballot	Paula BreyerⒸ , Zach Godley-McAvoy , Gonzalo CuevaⓉ
+St Andrews Critique of pure Rizzen	1st	Closing Opposition	View Ballot	Paula BreyerⒸ , Zach Godley-McAvoy , Gonzalo CuevaⓉ
+UAM derivative? and what else, integra	2nd	Closing Government	View Ballot	Kay PowersⒸ , Đorđe Radosavljević , Toni TeschkeⓉ
+MCC Proof Pirates	3rd	Opening Opposition	View Ballot	Kay PowersⒸ , Đorđe Radosavljević , Toni TeschkeⓉ
+Swing A	4th	Closing Opposition	View Ballot	Kay PowersⒸ , Đorđe Radosavljević , Toni TeschkeⓉ
+Zagreb D	1st	Opening Government	View Ballot	Kay PowersⒸ , Đorđe Radosavljević , Toni TeschkeⓉ
+Full-fat milk🥛	2nd	Opening Opposition	View Ballot	Lucy MurphyⒸ , Stefan Josipović , Pelina StamatakiⓉ
+Weizmann DS	3rd	Closing Opposition	View Ballot	Lucy MurphyⒸ , Stefan Josipović , Pelina StamatakiⓉ
+Zagreb not Tin this time	1st	Opening Government	View Ballot	Lucy MurphyⒸ , Stefan Josipović , Pelina StamatakiⓉ
+Vilnius vicious unpredictable debate shena	4th	Closing Government	View Ballot	Lucy MurphyⒸ , Stefan Josipović , Pelina StamatakiⓉ
+ACG 1	1st	Opening Government	View Ballot	Stuart JohnsonⒸ , Kovács FlóraⓉ
+Würzburg 1	3rd	Opening Opposition	View Ballot	Stuart JohnsonⒸ , Kovács FlóraⓉ
+BDU Danubius	4th	Closing Government	View Ballot	Stuart JohnsonⒸ , Kovács FlóraⓉ
+BDU Spy city travellers	2nd	Closing Opposition	View Ballot	Stuart JohnsonⒸ , Kovács FlóraⓉ
+Always committed to the bit, but n	1st	Closing Opposition	View Ballot	Aymaan SheikhⒸ , Guyberli van Thuijl
+Working Class A	3rd	Closing Government	View Ballot	Aymaan SheikhⒸ , Guyberli van Thuijl
+Zagreb B(rze cvike brzo osvajaju srca)	2nd	Opening Government	View Ballot	Aymaan SheikhⒸ , Guyberli van Thuijl
+BDU wild cats	4th	Opening Opposition	View Ballot	Aymaan SheikhⒸ , Guyberli van Thuijl
+ESDA Chronos Jap and Jew	3rd	Opening Government	View Ballot	Deon Kiew Shou FungⒸ , Mira Eberdorfer , Inbar HavilioⓉ
+Higher Speaks = Higher Jackierarch	1st	Closing Opposition	View Ballot	Deon Kiew Shou FungⒸ , Mira Eberdorfer , Inbar HavilioⓉ
+Copenhagen Hejremandens fan club	4th	Closing Government	View Ballot	Deon Kiew Shou FungⒸ , Mira Eberdorfer , Inbar HavilioⓉ
+Don&#x27;t tell our debate club we&#x27;re h	2nd	Opening Opposition	View Ballot	Deon Kiew Shou FungⒸ , Mira Eberdorfer , Inbar HavilioⓉ
+Like and Subscribe	3rd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Tran Thang , Alexia SkourtsiⓉ
+We wanted Mor	4th	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Tran Thang , Alexia SkourtsiⓉ
+Oxford mysterious &amp; mischievous	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Tran Thang , Alexia SkourtsiⓉ
+Weizmann DR	2nd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Tran Thang , Alexia SkourtsiⓉ
+DPG Argument Alchemists	3rd	Opening Government	View Ballot	Oisín BrowneⒸ , Jagoda Sabljić , Max KubisⓉ
+TBA (Alek and Velina)	2nd	Closing Opposition	View Ballot	Oisín BrowneⒸ , Jagoda Sabljić , Max KubisⓉ
+BDU A	4th	Opening Opposition	View Ballot	Oisín BrowneⒸ , Jagoda Sabljić , Max KubisⓉ
+Big K and Smol A	1st	Closing Government	View Ballot	Oisín BrowneⒸ , Jagoda Sabljić , Max KubisⓉ
+Oxford B(rown boys reunion)	1st	Closing Opposition	View Ballot	Daan SpacklerⒸ , Tara Stojanović , Abdullah AtassiⓉ
+EDS d^7y/dx^7	3rd	Closing Government	View Ballot	Daan SpacklerⒸ , Tara Stojanović , Abdullah AtassiⓉ
+EUDU (B)e (F)r	4th	Opening Opposition	View Ballot	Daan SpacklerⒸ , Tara Stojanović , Abdullah AtassiⓉ
+please ask us about recent drama	2nd	Opening Government	View Ballot	Daan SpacklerⒸ , Tara Stojanović , Abdullah AtassiⓉ
+Vilnius Ця палата тут по блату	4th	Closing Government	View Ballot	Alishba IrfanⒸ , Natalija Gavrilović , Polyxeni DamigouⓉ
+Manchester A	2nd	Opening Opposition	View Ballot	Alishba IrfanⒸ , Natalija Gavrilović , Polyxeni DamigouⓉ
+TCD Phil B(lack team)	3rd	Closing Opposition	View Ballot	Alishba IrfanⒸ , Natalija Gavrilović , Polyxeni DamigouⓉ
+Zagreb TBA (Teck and Tin)	1st	Opening Government	View Ballot	Alishba IrfanⒸ , Natalija Gavrilović , Polyxeni DamigouⓉ
+Tartu A	2nd	Opening Government	View Ballot	Matija PušnikⒸ , Michael Haji-Matthew , Greta TamoliūnaitėⓉ
+Belgrade Sponsored by Tambura	4th	Closing Government	View Ballot	Matija PušnikⒸ , Michael Haji-Matthew , Greta TamoliūnaitėⓉ
+Trivium Manifesting Trivium A	3rd	Opening Opposition	View Ballot	Matija PušnikⒸ , Michael Haji-Matthew , Greta TamoliūnaitėⓉ
+Munich Skill Issue	1st	Closing Opposition	View Ballot	Matija PušnikⒸ , Michael Haji-Matthew , Greta TamoliūnaitėⓉ
+Stuttgart DC Mare Garden	2nd	Opening Opposition	View Ballot	Petar ŽnidarⒸ , Amitai Ben Porat , Dorotea ZoguⓉ
+DPG Debate Polo Gang	4th	Closing Opposition	View Ballot	Petar ŽnidarⒸ , Amitai Ben Porat , Dorotea ZoguⓉ
+Copenhagen TradGirl &amp; BossWife	1st	Opening Government	View Ballot	Petar ŽnidarⒸ , Amitai Ben Porat , Dorotea ZoguⓉ
+St Andrews Chefs	3rd	Closing Government	View Ballot	Petar ŽnidarⒸ , Amitai Ben Porat , Dorotea ZoguⓉ
+Warsaw Arka Gdynia B*tch Pig	1st	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Arjun Raman , Naya ZayatⓉ
+Athens CC	4th	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Arjun Raman , Naya ZayatⓉ
+Ljubljana Ženaaaaaa	3rd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Arjun Raman , Naya ZayatⓉ
+Imperial Give us the 1st and we&#x27;ll vote for	2nd	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Arjun Raman , Naya ZayatⓉ
+
+
+team	result	side	ballot	adjudicators
+Jena A	2nd	Closing Opposition	View Ballot	Krish SinghⒸ , Max Kubis
+BDU Danubius	1st	Opening Opposition	View Ballot	Krish SinghⒸ , Max Kubis
+DPG Currywurst	3rd	Closing Government	View Ballot	Krish SinghⒸ , Max Kubis
+Riga Technical University	4th	Opening Government	View Ballot	Krish SinghⒸ , Max Kubis
+Oxford mysterious &amp; mischievous	4th	Closing Government	View Ballot	Jessica MusulinⒸ , Abdullah Atassi , Mira Eberdorfer
+Higher Speaks = Higher Jackierarch	3rd	Opening Opposition	View Ballot	Jessica MusulinⒸ , Abdullah Atassi , Mira Eberdorfer
+Always committed to the bit, but n	2nd	Opening Government	View Ballot	Jessica MusulinⒸ , Abdullah Atassi , Mira Eberdorfer
+Zagreb TBA (Teck and Tin)	1st	Closing Opposition	View Ballot	Jessica MusulinⒸ , Abdullah Atassi , Mira Eberdorfer
+ACG 1	4th	Opening Opposition	View Ballot	Matija PušnikⒸ , Arjun Raman , Pelina StamatakiⓉ
+UAM derivative? and what else, integra	1st	Closing Opposition	View Ballot	Matija PušnikⒸ , Arjun Raman , Pelina StamatakiⓉ
+Berlin Transatlantic Yappers	2nd	Closing Government	View Ballot	Matija PušnikⒸ , Arjun Raman , Pelina StamatakiⓉ
+St Andrews Chefs	3rd	Opening Government	View Ballot	Matija PušnikⒸ , Arjun Raman , Pelina StamatakiⓉ
+Belgrade Pavlovian responses	3rd	Closing Government	View Ballot	Petar ŽnidarⒸ , Neva Ensminger-Holland , Oliver FischerⓉ
+Manchester A	2nd	Closing Opposition	View Ballot	Petar ŽnidarⒸ , Neva Ensminger-Holland , Oliver FischerⓉ
+TBA (Alek and Velina)	1st	Opening Opposition	View Ballot	Petar ŽnidarⒸ , Neva Ensminger-Holland , Oliver FischerⓉ
+Weizmann DR	4th	Opening Government	View Ballot	Petar ŽnidarⒸ , Neva Ensminger-Holland , Oliver FischerⓉ
+Like and Subscribe	1st	Opening Opposition	View Ballot	Andrew ChenⒸ , Stuart Johnson , Kovács FlóraⓉ
+EDS d^7y/dx^7	2nd	Closing Opposition	View Ballot	Andrew ChenⒸ , Stuart Johnson , Kovács FlóraⓉ
+Stuttgart DC Mare Garden	3rd	Opening Government	View Ballot	Andrew ChenⒸ , Stuart Johnson , Kovács FlóraⓉ
+Zagreb B(rze cvike brzo osvajaju srca)	4th	Closing Government	View Ballot	Andrew ChenⒸ , Stuart Johnson , Kovács FlóraⓉ
+Warsaw no thoughts just meow meow	1st	Opening Opposition	View Ballot	Kay PowersⒸ , Barbara Neuwirth , Naya ZayatⓉ
+Belgrade zile survivers	4th	Closing Government	View Ballot	Kay PowersⒸ , Barbara Neuwirth , Naya ZayatⓉ
+BDU wild cats	3rd	Closing Opposition	View Ballot	Kay PowersⒸ , Barbara Neuwirth , Naya ZayatⓉ
+Vilnius vicious unpredictable debate shena	2nd	Opening Government	View Ballot	Kay PowersⒸ , Barbara Neuwirth , Naya ZayatⓉ
+Tartu A	1st	Closing Government	View Ballot	Alishba IrfanⒸ , Tran Thang , Emilia StankovicⓉ
+Full-fat milk🥛	3rd	Opening Government	View Ballot	Alishba IrfanⒸ , Tran Thang , Emilia StankovicⓉ
+Copenhagen Hejremandens fan club	4th	Closing Opposition	View Ballot	Alishba IrfanⒸ , Tran Thang , Emilia StankovicⓉ
+Zagreb D	2nd	Opening Opposition	View Ballot	Alishba IrfanⒸ , Tran Thang , Emilia StankovicⓉ
+Oxford B(rown boys reunion)	1st	Closing Government	View Ballot	Lucy MurphyⒸ , Aymaan Sheikh , Toni TeschkeⓉ
+Zagreb not Tin this time	4th	Opening Opposition	View Ballot	Lucy MurphyⒸ , Aymaan Sheikh , Toni TeschkeⓉ
+Don&#x27;t tell our debate club we&#x27;re h	3rd	Closing Opposition	View Ballot	Lucy MurphyⒸ , Aymaan Sheikh , Toni TeschkeⓉ
+Big K and Smol A	2nd	Opening Government	View Ballot	Lucy MurphyⒸ , Aymaan Sheikh , Toni TeschkeⓉ
+NTU Athens Trust me, I&#x27;m an engineer	3rd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Jagoda Sabljić , Greta TamoliūnaitėⓉ
+AUEB A	2nd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Jagoda Sabljić , Greta TamoliūnaitėⓉ
+Trivium Manifesting Trivium A	1st	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Jagoda Sabljić , Greta TamoliūnaitėⓉ
+Copenhagen Comté &amp; Questionable claims	4th	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Jagoda Sabljić , Greta TamoliūnaitėⓉ
+BDU Spy city travellers	3rd	Closing Government	View Ballot	Theo SimionⒸ , Pavel Kalinnikov , Alexia SkourtsiⓉ
+TCD Phil got us ready to fight! (Politely d	4th	Opening Opposition	View Ballot	Theo SimionⒸ , Pavel Kalinnikov , Alexia SkourtsiⓉ
+Warsaw token	2nd	Closing Opposition	View Ballot	Theo SimionⒸ , Pavel Kalinnikov , Alexia SkourtsiⓉ
+Belgrade Sponsored by Tambura	1st	Opening Government	View Ballot	Theo SimionⒸ , Pavel Kalinnikov , Alexia SkourtsiⓉ
+Botev	2nd	Closing Opposition	View Ballot	Deon Kiew Shou FungⒸ , Victor Bervoets , Gonzalo CuevaⓉ
+ESDA Chronos Jap and Jew	4th	Closing Government	View Ballot	Deon Kiew Shou FungⒸ , Victor Bervoets , Gonzalo CuevaⓉ
+Ljubljana Fluttershy and Sunses Shimmer	3rd	Opening Opposition	View Ballot	Deon Kiew Shou FungⒸ , Victor Bervoets , Gonzalo CuevaⓉ
+Imperial Give us the 1st and we&#x27;ll vote for	1st	Opening Government	View Ballot	Deon Kiew Shou FungⒸ , Victor Bervoets , Gonzalo CuevaⓉ
+Munich Prodigies	3rd	Closing Government	View Ballot	Katie KielyⒸ , Yutong Liang
+RRIS B	4th	Closing Opposition	View Ballot	Katie KielyⒸ , Yutong Liang
+Belgrade Маша и медвед дворски дуси	1st	Opening Opposition	View Ballot	Katie KielyⒸ , Yutong Liang
+Berlin Twins	2nd	Opening Government	View Ballot	Katie KielyⒸ , Yutong Liang
+Würzburg 1	3rd	Opening Government	View Ballot	Amitai Ben PoratⒸ , Michael Haji-Matthew
+Passau DeBait	4th	Closing Government	View Ballot	Amitai Ben PoratⒸ , Michael Haji-Matthew
+RRIS E+S	2nd	Closing Opposition	View Ballot	Amitai Ben PoratⒸ , Michael Haji-Matthew
+Swing A	1st	Opening Opposition	View Ballot	Amitai Ben PoratⒸ , Michael Haji-Matthew
+MCC Proof Pirates	3rd	Opening Government	View Ballot	Daan SpacklerⒸ , Brina Verdnik , Dorotea ZoguⓉ
+Weizmann IA	2nd	Opening Opposition	View Ballot	Daan SpacklerⒸ , Brina Verdnik , Dorotea ZoguⓉ
+Ważne pytanie	4th	Closing Opposition	View Ballot	Daan SpacklerⒸ , Brina Verdnik , Dorotea ZoguⓉ
+I bestow my sword to thee…	1st	Closing Government	View Ballot	Daan SpacklerⒸ , Brina Verdnik , Dorotea ZoguⓉ
+Vilnius Ця палата тут по блату	1st	Closing Opposition	View Ballot	Redacted AⒸ , Natalija Gavrilović , Polyxeni DamigouⓉ
+Athens ID	3rd	Opening Opposition	View Ballot	Redacted AⒸ , Natalija Gavrilović , Polyxeni DamigouⓉ
+MCC Ultras	4th	Opening Government	View Ballot	Redacted AⒸ , Natalija Gavrilović , Polyxeni DamigouⓉ
+Warsaw Sorry heart, Espresso comes first	2nd	Closing Government	View Ballot	Redacted AⒸ , Natalija Gavrilović , Polyxeni DamigouⓉ
+Warsaw Arka Gdynia B*tch Pig	3rd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Michaela Georgia Vachou Peirantakou , Kincső Klára GálⓉ
+please ask us about recent drama	1st	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Michaela Georgia Vachou Peirantakou , Kincső Klára GálⓉ
+Copenhagen TradGirl &amp; BossWife	2nd	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Michaela Georgia Vachou Peirantakou , Kincső Klára GálⓉ
+Munich Skill Issue	4th	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Michaela Georgia Vachou Peirantakou , Kincső Klára GálⓉ
+DPG Argument Alchemists	4th	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Ayal Mor , Graham HeathcoteⓉ
+DCAC Please give us a EU Visa ❤️	3rd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Ayal Mor , Graham HeathcoteⓉ
+Levski	2nd	Closing Government	View Ballot	Ananya KrishnaⒸ , Ayal Mor , Graham HeathcoteⓉ
+Working Class A	1st	Opening Government	View Ballot	Ananya KrishnaⒸ , Ayal Mor , Graham HeathcoteⓉ
+ASDV Bonaparte Balkan Girls	4th	Closing Opposition	View Ballot	Lara DragojevićⒸ , Đorđe Radosavljević , Tzippy WinterⓉ
+St Andrews Grand Vizier (C)ara	3rd	Opening Opposition	View Ballot	Lara DragojevićⒸ , Đorđe Radosavljević , Tzippy WinterⓉ
+TCD Phil B(lack team)	1st	Closing Government	View Ballot	Lara DragojevićⒸ , Đorđe Radosavljević , Tzippy WinterⓉ
+St Andrews Critique of pure Rizzen	2nd	Opening Government	View Ballot	Lara DragojevićⒸ , Đorđe Radosavljević , Tzippy WinterⓉ
+Ljubljana Ženaaaaaa	4th	Opening Opposition	View Ballot	Dominic FerrisⒸ , Guyberli van Thuijl , Adam Maciej KobiałkoⓉ
+trashman identity	2nd	Closing Opposition	View Ballot	Dominic FerrisⒸ , Guyberli van Thuijl , Adam Maciej KobiałkoⓉ
+BDU A	3rd	Closing Government	View Ballot	Dominic FerrisⒸ , Guyberli van Thuijl , Adam Maciej KobiałkoⓉ
+Munich Allison please text me back	1st	Opening Government	View Ballot	Dominic FerrisⒸ , Guyberli van Thuijl , Adam Maciej KobiałkoⓉ
+Athens CC	1st	Closing Opposition	View Ballot	Paula BreyerⒸ , Tara Stojanović , Inbar HavilioⓉ
+Zagreb reTired	2nd	Opening Opposition	View Ballot	Paula BreyerⒸ , Tara Stojanović , Inbar HavilioⓉ
+MCC Warriors	4th	Closing Government	View Ballot	Paula BreyerⒸ , Tara Stojanović , Inbar HavilioⓉ
+DPG Debate Polo Gang	3rd	Opening Government	View Ballot	Paula BreyerⒸ , Tara Stojanović , Inbar HavilioⓉ
+We wanted Mor	2nd	Closing Opposition	View Ballot	Oisín BrowneⒸ , Zach Godley-McAvoy , Mirza PolatⓉ
+EUDU (B)e (F)r	1st	Opening Government	View Ballot	Oisín BrowneⒸ , Zach Godley-McAvoy , Mirza PolatⓉ
+Weizmann DS	3rd	Opening Opposition	View Ballot	Oisín BrowneⒸ , Zach Godley-McAvoy , Mirza PolatⓉ
+Charles University A	4th	Closing Government	View Ballot	Oisín BrowneⒸ , Zach Godley-McAvoy , Mirza PolatⓉ
+ETH Zürich LT	2nd	Closing Government	View Ballot	Stefan JosipovićⒸ , Aleksandra Musiał
+ETH Zürich Blue Swan	3rd	Opening Government	View Ballot	Stefan JosipovićⒸ , Aleksandra Musiał
+Munich Polytheism of values	4th	Opening Opposition	View Ballot	Stefan JosipovićⒸ , Aleksandra Musiał
+DCAC Bakhauv	1st	Closing Opposition	View Ballot	Stefan JosipovićⒸ , Aleksandra Musiał
+
+
+team	result	side	ballot	adjudicators
+BDU Danubius	2nd	Opening Government	View Ballot	Matija PušnikⒸ , Naya Zayat , Toni TeschkeⓉ
+DPG Debate Polo Gang	4th	Closing Government	View Ballot	Matija PušnikⒸ , Naya Zayat , Toni TeschkeⓉ
+RRIS E+S	1st	Opening Opposition	View Ballot	Matija PušnikⒸ , Naya Zayat , Toni TeschkeⓉ
+Berlin Twins	3rd	Closing Opposition	View Ballot	Matija PušnikⒸ , Naya Zayat , Toni TeschkeⓉ
+Athens ID	1st	Opening Government	View Ballot	Theo SimionⒸ , Graham Heathcote , Alexia SkourtsiⓉ
+BDU Spy city travellers	2nd	Opening Opposition	View Ballot	Theo SimionⒸ , Graham Heathcote , Alexia SkourtsiⓉ
+MCC Proof Pirates	3rd	Closing Government	View Ballot	Theo SimionⒸ , Graham Heathcote , Alexia SkourtsiⓉ
+Copenhagen Comté &amp; Questionable claims	4th	Closing Opposition	View Ballot	Theo SimionⒸ , Graham Heathcote , Alexia SkourtsiⓉ
+Warsaw Sorry heart, Espresso comes first	2nd	Opening Opposition	View Ballot	Redacted AⒸ , Kincső Klára Gál , Polyxeni DamigouⓉ
+Zagreb B(rze cvike brzo osvajaju srca)	1st	Closing Opposition	View Ballot	Redacted AⒸ , Kincső Klára Gál , Polyxeni DamigouⓉ
+BDU wild cats	4th	Closing Government	View Ballot	Redacted AⒸ , Kincső Klára Gál , Polyxeni DamigouⓉ
+DCAC Bakhauv	3rd	Opening Government	View Ballot	Redacted AⒸ , Kincső Klára Gál , Polyxeni DamigouⓉ
+Passau DeBait	3rd	Closing Opposition	View Ballot	Neva Ensminger-HollandⒸ , Emilia Stankovic
+DPG Currywurst	4th	Opening Opposition	View Ballot	Neva Ensminger-HollandⒸ , Emilia Stankovic
+Swing C	1st	Opening Government	View Ballot	Neva Ensminger-HollandⒸ , Emilia Stankovic
+Riga Technical University	2nd	Closing Government	View Ballot	Neva Ensminger-HollandⒸ , Emilia Stankovic
+Vilnius Ця палата тут по блату	4th	Opening Opposition	View Ballot	Aymaan SheikhⒸ , Zach Godley-McAvoy , Kovács FlóraⓉ
+Belgrade Sponsored by Tambura	3rd	Closing Opposition	View Ballot	Aymaan SheikhⒸ , Zach Godley-McAvoy , Kovács FlóraⓉ
+Berlin Transatlantic Yappers	1st	Opening Government	View Ballot	Aymaan SheikhⒸ , Zach Godley-McAvoy , Kovács FlóraⓉ
+Zagreb not Tin this time	2nd	Closing Government	View Ballot	Aymaan SheikhⒸ , Zach Godley-McAvoy , Kovács FlóraⓉ
+Like and Subscribe	1st	Closing Government	View Ballot	Andrew ChenⒸ , Barbara Neuwirth , Jagoda Sabljić
+Tartu A	4th	Closing Opposition	View Ballot	Andrew ChenⒸ , Barbara Neuwirth , Jagoda Sabljić
+please ask us about recent drama	2nd	Opening Opposition	View Ballot	Andrew ChenⒸ , Barbara Neuwirth , Jagoda Sabljić
+Big K and Smol A	3rd	Opening Government	View Ballot	Andrew ChenⒸ , Barbara Neuwirth , Jagoda Sabljić
+ASDV Bonaparte Balkan Girls	3rd	Opening Government	View Ballot	Deon Kiew Shou FungⒸ , Michael Haji-Matthew , Pelina StamatakiⓉ
+ESDA Chronos Jap and Jew	1st	Closing Opposition	View Ballot	Deon Kiew Shou FungⒸ , Michael Haji-Matthew , Pelina StamatakiⓉ
+Warsaw token	4th	Opening Opposition	View Ballot	Deon Kiew Shou FungⒸ , Michael Haji-Matthew , Pelina StamatakiⓉ
+Zagreb reTired	2nd	Closing Government	View Ballot	Deon Kiew Shou FungⒸ , Michael Haji-Matthew , Pelina StamatakiⓉ
+Warsaw Arka Gdynia B*tch Pig	3rd	Closing Government	View Ballot	Paula BreyerⒸ , Jessica Musulin , Krish Singh
+Levski	4th	Opening Opposition	View Ballot	Paula BreyerⒸ , Jessica Musulin , Krish Singh
+EUDU (B)e (F)r	1st	Closing Opposition	View Ballot	Paula BreyerⒸ , Jessica Musulin , Krish Singh
+Munich Allison please text me back	2nd	Opening Government	View Ballot	Paula BreyerⒸ , Jessica Musulin , Krish Singh
+Athens CC	3rd	Opening Government	View Ballot	Oisín BrowneⒸ , Abdullah Atassi
+Botev	4th	Opening Opposition	View Ballot	Oisín BrowneⒸ , Abdullah Atassi
+Weizmann DR	2nd	Closing Opposition	View Ballot	Oisín BrowneⒸ , Abdullah Atassi
+Munich Skill Issue	1st	Closing Government	View Ballot	Oisín BrowneⒸ , Abdullah Atassi
+MCC Ultras	2nd	Opening Opposition	View Ballot	Katie KielyⒸ , Dorotea Zogu
+Munich Prodigies	1st	Opening Government	View Ballot	Katie KielyⒸ , Dorotea Zogu
+MCC Warriors	4th	Closing Opposition	View Ballot	Katie KielyⒸ , Dorotea Zogu
+RRIS B	3rd	Closing Government	View Ballot	Katie KielyⒸ , Dorotea Zogu
+Warsaw no thoughts just meow meow	4th	Opening Government	View Ballot	Stuart JohnsonⒸ , Brina Verdnik , Đorđe Radosavljević
+Oxford mysterious &amp; mischievous	1st	Opening Opposition	View Ballot	Stuart JohnsonⒸ , Brina Verdnik , Đorđe Radosavljević
+Stuttgart DC Mare Garden	3rd	Closing Opposition	View Ballot	Stuart JohnsonⒸ , Brina Verdnik , Đorđe Radosavljević
+St Andrews Critique of pure Rizzen	2nd	Closing Government	View Ballot	Stuart JohnsonⒸ , Brina Verdnik , Đorđe Radosavljević
+St Andrews Grand Vizier (C)ara	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Guyberli van Thuijl
+Ljubljana Fluttershy and Sunses Shimmer	2nd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Guyberli van Thuijl
+trashman identity	4th	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Guyberli van Thuijl
+I bestow my sword to thee…	3rd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Guyberli van Thuijl
+UAM derivative? and what else, integra	2nd	Opening Government	View Ballot	Daan SpacklerⒸ , Aleksandra Musiał , Ayal Mor
+EDS d^7y/dx^7	1st	Opening Opposition	View Ballot	Daan SpacklerⒸ , Aleksandra Musiał , Ayal Mor
+Belgrade Pavlovian responses	3rd	Closing Opposition	View Ballot	Daan SpacklerⒸ , Aleksandra Musiał , Ayal Mor
+Zagreb D	4th	Closing Government	View Ballot	Daan SpacklerⒸ , Aleksandra Musiał , Ayal Mor
+Ljubljana Ženaaaaaa	2nd	Closing Government	View Ballot	Mira EberdorferⒸ , Oliver Fischer
+Belgrade zile survivers	3rd	Closing Opposition	View Ballot	Mira EberdorferⒸ , Oliver Fischer
+Swing B	4th	Opening Opposition	View Ballot	Mira EberdorferⒸ , Oliver Fischer
+Charles University A	1st	Opening Government	View Ballot	Mira EberdorferⒸ , Oliver Fischer
+Würzburg 1	3rd	Closing Opposition	View Ballot	Arjun RamanⒸ , Mirza Polat
+ETH Zürich Blue Swan	4th	Opening Opposition	View Ballot	Arjun RamanⒸ , Mirza Polat
+TCD Phil got us ready to fight! (Politely d	2nd	Closing Government	View Ballot	Arjun RamanⒸ , Mirza Polat
+Ważne pytanie	1st	Opening Government	View Ballot	Arjun RamanⒸ , Mirza Polat
+ACG 1	4th	Closing Opposition	View Ballot	Stefan JosipovićⒸ , Inbar Havilio
+Jena A	1st	Closing Government	View Ballot	Stefan JosipovićⒸ , Inbar Havilio
+NTU Athens Trust me, I&#x27;m an engineer	3rd	Opening Opposition	View Ballot	Stefan JosipovićⒸ , Inbar Havilio
+ETH Zürich LT	2nd	Opening Government	View Ballot	Stefan JosipovićⒸ , Inbar Havilio
+AUEB A	4th	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Max Kubis , Tzippy WinterⓉ
+Weizmann IA	2nd	Opening Government	View Ballot	Ananya KrishnaⒸ , Max Kubis , Tzippy WinterⓉ
+Belgrade Маша и медвед дворски дуси	1st	Closing Government	View Ballot	Ananya KrishnaⒸ , Max Kubis , Tzippy WinterⓉ
+St Andrews Chefs	3rd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Max Kubis , Tzippy WinterⓉ
+Manchester A	1st	Opening Government	View Ballot	Petar ŽnidarⒸ , Kay Powers , Michaela Georgia Vachou Peirantakou
+TCD Phil B(lack team)	3rd	Closing Opposition	View Ballot	Petar ŽnidarⒸ , Kay Powers , Michaela Georgia Vachou Peirantakou
+Imperial Give us the 1st and we&#x27;ll vote for	4th	Opening Opposition	View Ballot	Petar ŽnidarⒸ , Kay Powers , Michaela Georgia Vachou Peirantakou
+Don&#x27;t tell our debate club we&#x27;re h	2nd	Closing Government	View Ballot	Petar ŽnidarⒸ , Kay Powers , Michaela Georgia Vachou Peirantakou
+DCAC Please give us a EU Visa ❤️	4th	Opening Opposition	View Ballot	Amitai Ben PoratⒸ , Natalija Gavrilović , Greta TamoliūnaitėⓉ
+We wanted Mor	1st	Closing Government	View Ballot	Amitai Ben PoratⒸ , Natalija Gavrilović , Greta TamoliūnaitėⓉ
+Full-fat milk🥛	3rd	Closing Opposition	View Ballot	Amitai Ben PoratⒸ , Natalija Gavrilović , Greta TamoliūnaitėⓉ
+Weizmann DS	2nd	Opening Government	View Ballot	Amitai Ben PoratⒸ , Natalija Gavrilović , Greta TamoliūnaitėⓉ
+Higher Speaks = Higher Jackierarch	2nd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Tara Stojanović , Tran Thang
+Trivium Manifesting Trivium A	4th	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Tara Stojanović , Tran Thang
+Working Class A	1st	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Tara Stojanović , Tran Thang
+Copenhagen TradGirl &amp; BossWife	3rd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Tara Stojanović , Tran Thang
+Oxford B(rown boys reunion)	2nd	Closing Opposition	View Ballot	Alishba IrfanⒸ , Victor Bervoets , Yutong Liang
+TBA (Alek and Velina)	4th	Opening Government	View Ballot	Alishba IrfanⒸ , Victor Bervoets , Yutong Liang
+Always committed to the bit, but n	1st	Closing Government	View Ballot	Alishba IrfanⒸ , Victor Bervoets , Yutong Liang
+Zagreb TBA (Teck and Tin)	3rd	Opening Opposition	View Ballot	Alishba IrfanⒸ , Victor Bervoets , Yutong Liang
+DPG Argument Alchemists	2nd	Opening Opposition	View Ballot	Dominic FerrisⒸ , Pavel Kalinnikov , Adam Maciej KobiałkoⓉ
+Swing A	3rd	Opening Government	View Ballot	Dominic FerrisⒸ , Pavel Kalinnikov , Adam Maciej KobiałkoⓉ
+BDU A	4th	Closing Government	View Ballot	Dominic FerrisⒸ , Pavel Kalinnikov , Adam Maciej KobiałkoⓉ
+Vilnius vicious unpredictable debate shena	1st	Closing Opposition	View Ballot	Dominic FerrisⒸ , Pavel Kalinnikov , Adam Maciej KobiałkoⓉ
+
+
+team	result	side	ballot	adjudicators
+Belgrade Pavlovian responses	2nd	Closing Government	View Ballot	Daan SpacklerⒸ , Alexia Skourtsi , Tran Thang
+Ljubljana Fluttershy and Sunses Shimmer	3rd	Opening Government	View Ballot	Daan SpacklerⒸ , Alexia Skourtsi , Tran Thang
+Weizmann IA	4th	Opening Opposition	View Ballot	Daan SpacklerⒸ , Alexia Skourtsi , Tran Thang
+Zagreb B(rze cvike brzo osvajaju srca)	1st	Closing Opposition	View Ballot	Daan SpacklerⒸ , Alexia Skourtsi , Tran Thang
+ESDA Chronos Jap and Jew	1st	Opening Opposition	View Ballot	Paula BreyerⒸ , Abdullah Atassi
+Weizmann DR	2nd	Closing Government	View Ballot	Paula BreyerⒸ , Abdullah Atassi
+Belgrade Маша и медвед дворски дуси	3rd	Closing Opposition	View Ballot	Paula BreyerⒸ , Abdullah Atassi
+Vilnius vicious unpredictable debate shena	4th	Opening Government	View Ballot	Paula BreyerⒸ , Abdullah Atassi
+Like and Subscribe	2nd	Opening Government	View Ballot	Petar ŽnidarⒸ , Neva Ensminger-Holland , Đorđe Radosavljević
+Oxford mysterious &amp; mischievous	3rd	Closing Government	View Ballot	Petar ŽnidarⒸ , Neva Ensminger-Holland , Đorđe Radosavljević
+Manchester A	1st	Opening Opposition	View Ballot	Petar ŽnidarⒸ , Neva Ensminger-Holland , Đorđe Radosavljević
+please ask us about recent drama	4th	Closing Opposition	View Ballot	Petar ŽnidarⒸ , Neva Ensminger-Holland , Đorđe Radosavljević
+ETH Zürich Blue Swan	1st	Opening Opposition	View Ballot	Barbara NeuwirthⒸ , Naya Zayat
+Swing C	2nd	Closing Opposition	View Ballot	Barbara NeuwirthⒸ , Naya Zayat
+Copenhagen Comté &amp; Questionable claims	4th	Opening Government	View Ballot	Barbara NeuwirthⒸ , Naya Zayat
+Riga Technical University	3rd	Closing Government	View Ballot	Barbara NeuwirthⒸ , Naya Zayat
+DPG Argument Alchemists	4th	Opening Opposition	View Ballot	Kay PowersⒸ , Pavel Kalinnikov , Polyxeni DamigouⓉ
+Stuttgart DC Mare Garden	3rd	Closing Government	View Ballot	Kay PowersⒸ , Pavel Kalinnikov , Polyxeni DamigouⓉ
+Weizmann DS	1st	Closing Opposition	View Ballot	Kay PowersⒸ , Pavel Kalinnikov , Polyxeni DamigouⓉ
+Charles University A	2nd	Opening Government	View Ballot	Kay PowersⒸ , Pavel Kalinnikov , Polyxeni DamigouⓉ
+Oxford B(rown boys reunion)	2nd	Closing Government	View Ballot	Amitai Ben PoratⒸ , Aleksandra Musiał , Jessica Musulin
+Always committed to the bit, but n	4th	Opening Opposition	View Ballot	Amitai Ben PoratⒸ , Aleksandra Musiał , Jessica Musulin
+Working Class A	3rd	Opening Government	View Ballot	Amitai Ben PoratⒸ , Aleksandra Musiał , Jessica Musulin
+Zagreb TBA (Teck and Tin)	1st	Closing Opposition	View Ballot	Amitai Ben PoratⒸ , Aleksandra Musiał , Jessica Musulin
+UAM derivative? and what else, integra	3rd	Opening Government	View Ballot	Oisín BrowneⒸ , Graham Heathcote , Zach Godley-McAvoy
+We wanted Mor	1st	Opening Opposition	View Ballot	Oisín BrowneⒸ , Graham Heathcote , Zach Godley-McAvoy
+Munich Allison please text me back	4th	Closing Opposition	View Ballot	Oisín BrowneⒸ , Graham Heathcote , Zach Godley-McAvoy
+Don&#x27;t tell our debate club we&#x27;re h	2nd	Closing Government	View Ballot	Oisín BrowneⒸ , Graham Heathcote , Zach Godley-McAvoy
+Tartu A	4th	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Natalija Gavrilović
+Trivium Manifesting Trivium A	2nd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Natalija Gavrilović
+Imperial Give us the 1st and we&#x27;ll vote for	3rd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Natalija Gavrilović
+Zagreb not Tin this time	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Natalija Gavrilović
+Athens ID	4th	Opening Government	View Ballot	Dominic FerrisⒸ , Krish Singh , Dorotea ZoguⓉ
+Belgrade Sponsored by Tambura	2nd	Closing Government	View Ballot	Dominic FerrisⒸ , Krish Singh , Dorotea ZoguⓉ
+Levski	1st	Closing Opposition	View Ballot	Dominic FerrisⒸ , Krish Singh , Dorotea ZoguⓉ
+Zagreb reTired	3rd	Opening Opposition	View Ballot	Dominic FerrisⒸ , Krish Singh , Dorotea ZoguⓉ
+EDS d^7y/dx^7	4th	Opening Government	View Ballot	Andrew ChenⒸ , Michaela Georgia Vachou Peirantakou
+Higher Speaks = Higher Jackierarch	3rd	Closing Opposition	View Ballot	Andrew ChenⒸ , Michaela Georgia Vachou Peirantakou
+EUDU (B)e (F)r	1st	Closing Government	View Ballot	Andrew ChenⒸ , Michaela Georgia Vachou Peirantakou
+Big K and Smol A	2nd	Opening Opposition	View Ballot	Andrew ChenⒸ , Michaela Georgia Vachou Peirantakou
+DCAC Please give us a EU Visa ❤️	3rd	Closing Government	View Ballot	Katie KielyⒸ , Guyberli van Thuijl , Greta TamoliūnaitėⓉ
+BDU Spy city travellers	4th	Opening Government	View Ballot	Katie KielyⒸ , Guyberli van Thuijl , Greta TamoliūnaitėⓉ
+Munich Prodigies	2nd	Opening Opposition	View Ballot	Katie KielyⒸ , Guyberli van Thuijl , Greta TamoliūnaitėⓉ
+DCAC Bakhauv	1st	Closing Opposition	View Ballot	Katie KielyⒸ , Guyberli van Thuijl , Greta TamoliūnaitėⓉ
+AUEB A	1st	Opening Opposition	View Ballot	Theo SimionⒸ , Stuart Johnson , Tzippy WinterⓉ
+MCC Proof Pirates	3rd	Closing Opposition	View Ballot	Theo SimionⒸ , Stuart Johnson , Tzippy WinterⓉ
+BDU A	2nd	Opening Government	View Ballot	Theo SimionⒸ , Stuart Johnson , Tzippy WinterⓉ
+Berlin Twins	4th	Closing Government	View Ballot	Theo SimionⒸ , Stuart Johnson , Tzippy WinterⓉ
+Passau DeBait	4th	Opening Opposition	View Ballot	Pelina StamatakiⒸ , Inbar Havilio
+DPG Currywurst	2nd	Opening Government	View Ballot	Pelina StamatakiⒸ , Inbar Havilio
+MCC Warriors	3rd	Closing Opposition	View Ballot	Pelina StamatakiⒸ , Inbar Havilio
+Swing B	1st	Closing Government	View Ballot	Pelina StamatakiⒸ , Inbar Havilio
+MCC Ultras	1st	Opening Opposition	View Ballot	Alishba IrfanⒸ , Oliver Fischer , Tara Stojanović
+BDU Danubius	3rd	Closing Opposition	View Ballot	Alishba IrfanⒸ , Oliver Fischer , Tara Stojanović
+TCD Phil got us ready to fight! (Politely d	2nd	Opening Government	View Ballot	Alishba IrfanⒸ , Oliver Fischer , Tara Stojanović
+Ważne pytanie	4th	Closing Government	View Ballot	Alishba IrfanⒸ , Oliver Fischer , Tara Stojanović
+Warsaw Arka Gdynia B*tch Pig	3rd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Kincső Klára Gál , Yutong Liang
+TCD Phil B(lack team)	2nd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Kincső Klára Gál , Yutong Liang
+Berlin Transatlantic Yappers	4th	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Kincső Klára Gál , Yutong Liang
+Munich Skill Issue	1st	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Kincső Klára Gál , Yutong Liang
+Athens CC	4th	Closing Government	View Ballot	Aymaan SheikhⒸ , Ayal Mor , Max Kubis
+Warsaw Sorry heart, Espresso comes first	1st	Opening Government	View Ballot	Aymaan SheikhⒸ , Ayal Mor , Max Kubis
+RRIS E+S	3rd	Closing Opposition	View Ballot	Aymaan SheikhⒸ , Ayal Mor , Max Kubis
+I bestow my sword to thee…	2nd	Opening Opposition	View Ballot	Aymaan SheikhⒸ , Ayal Mor , Max Kubis
+Vilnius Ця палата тут по блату	1st	Closing Opposition	View Ballot	Stefan JosipovićⒸ , Arjun Raman , Adam Maciej KobiałkoⓉ
+Jena A	4th	Opening Government	View Ballot	Stefan JosipovićⒸ , Arjun Raman , Adam Maciej KobiałkoⓉ
+Ljubljana Ženaaaaaa	2nd	Opening Opposition	View Ballot	Stefan JosipovićⒸ , Arjun Raman , Adam Maciej KobiałkoⓉ
+trashman identity	3rd	Closing Government	View Ballot	Stefan JosipovićⒸ , Arjun Raman , Adam Maciej KobiałkoⓉ
+NTU Athens Trust me, I&#x27;m an engineer	2nd	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Mirza Polat
+Warsaw token	1st	Opening Government	View Ballot	Ananya KrishnaⒸ , Mirza Polat
+Belgrade zile survivers	4th	Closing Government	View Ballot	Ananya KrishnaⒸ , Mirza Polat
+BDU wild cats	3rd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Mirza Polat
+ACG 1	3rd	Opening Government	View Ballot	Brina VerdnikⒸ , Emilia Stankovic
+Würzburg 1	1st	Opening Opposition	View Ballot	Brina VerdnikⒸ , Emilia Stankovic
+DPG Debate Polo Gang	4th	Closing Opposition	View Ballot	Brina VerdnikⒸ , Emilia Stankovic
+RRIS B	2nd	Closing Government	View Ballot	Brina VerdnikⒸ , Emilia Stankovic
+Warsaw no thoughts just meow meow	2nd	Closing Opposition	View Ballot	Matija PušnikⒸ , Michael Haji-Matthew , Victor Bervoets
+Botev	1st	Opening Government	View Ballot	Matija PušnikⒸ , Michael Haji-Matthew , Victor Bervoets
+Full-fat milk🥛	4th	Closing Government	View Ballot	Matija PušnikⒸ , Michael Haji-Matthew , Victor Bervoets
+Zagreb D	3rd	Opening Opposition	View Ballot	Matija PušnikⒸ , Michael Haji-Matthew , Victor Bervoets
+ASDV Bonaparte Balkan Girls	1st	Opening Government	View Ballot	Lara DragojevićⒸ , Mira Eberdorfer , Toni TeschkeⓉ
+ETH Zürich LT	3rd	Opening Opposition	View Ballot	Lara DragojevićⒸ , Mira Eberdorfer , Toni TeschkeⓉ
+Swing A	4th	Closing Opposition	View Ballot	Lara DragojevićⒸ , Mira Eberdorfer , Toni TeschkeⓉ
+St Andrews Chefs	2nd	Closing Government	View Ballot	Lara DragojevićⒸ , Mira Eberdorfer , Toni TeschkeⓉ
+St Andrews Grand Vizier (C)ara	3rd	Opening Opposition	View Ballot	Redacted AⒸ , Jagoda Sabljić , Lucy Murphy
+TBA (Alek and Velina)	1st	Closing Government	View Ballot	Redacted AⒸ , Jagoda Sabljić , Lucy Murphy
+Copenhagen TradGirl &amp; BossWife	4th	Closing Opposition	View Ballot	Redacted AⒸ , Jagoda Sabljić , Lucy Murphy
+St Andrews Critique of pure Rizzen	2nd	Opening Government	View Ballot	Redacted AⒸ , Jagoda Sabljić , Lucy Murphy
+
+
+team	result	side	adjudicators
+Oxford B(rown boys reunion)	advancing	Closing Opposition	Dominic FerrisⒸ , Daan Spackler , Jagoda Sabljić
+TBA (Alek and Velina)	eliminated	Closing Government	Dominic FerrisⒸ , Daan Spackler , Jagoda Sabljić
+TCD Phil B(lack team)	eliminated	Opening Opposition	Dominic FerrisⒸ , Daan Spackler , Jagoda Sabljić
+Working Class A	advancing	Opening Government	Dominic FerrisⒸ , Daan Spackler , Jagoda Sabljić
+Always committed to the bit, but n	advancing	Opening Government	Oisín BrowneⒸ , Jessica Musulin , Tara Stojanović
+please ask us about recent drama	eliminated	Opening Opposition	Oisín BrowneⒸ , Jessica Musulin , Tara Stojanović
+Zagreb TBA (Teck and Tin)	advancing	Closing Opposition	Oisín BrowneⒸ , Jessica Musulin , Tara Stojanović
+Munich Skill Issue	eliminated	Closing Government	Oisín BrowneⒸ , Jessica Musulin , Tara Stojanović
+We wanted Mor	eliminated	Opening Opposition	Aymaan SheikhⒸ , Martha McKinney-Perry , Michaela Georgia Vachou Peirantakou
+Oxford mysterious &amp; mischievous	advancing	Closing Government	Aymaan SheikhⒸ , Martha McKinney-Perry , Michaela Georgia Vachou Peirantakou
+Manchester A	eliminated	Closing Opposition	Aymaan SheikhⒸ , Martha McKinney-Perry , Michaela Georgia Vachou Peirantakou
+Big K and Smol A	advancing	Opening Government	Aymaan SheikhⒸ , Martha McKinney-Perry , Michaela Georgia Vachou Peirantakou
+Like and Subscribe	advancing	Closing Government	Paula BreyerⒸ , Guyberli van Thuijl , Đorđe Radosavljević
+Higher Speaks = Higher Jackierarch	advancing	Opening Government	Paula BreyerⒸ , Guyberli van Thuijl , Đorđe Radosavljević
+EUDU (B)e (F)r	eliminated	Opening Opposition	Paula BreyerⒸ , Guyberli van Thuijl , Đorđe Radosavljević
+St Andrews Critique of pure Rizzen	eliminated	Closing Opposition	Paula BreyerⒸ , Guyberli van Thuijl , Đorđe Radosavljević
+
+
+team	result	side	adjudicators
+Like and Subscribe	advancing	Closing Government	Daan SpacklerⒸ , Petar Žnidar , Redacted A , Theo Simion , Zach Godley-McAvoy
+Oxford B(rown boys reunion)	eliminated	Opening Government	Daan SpacklerⒸ , Petar Žnidar , Redacted A , Theo Simion , Zach Godley-McAvoy
+Higher Speaks = Higher Jackierarch	eliminated	Opening Opposition	Daan SpacklerⒸ , Petar Žnidar , Redacted A , Theo Simion , Zach Godley-McAvoy
+Working Class A	advancing	Closing Opposition	Daan SpacklerⒸ , Petar Žnidar , Redacted A , Theo Simion , Zach Godley-McAvoy
+Oxford mysterious &amp; mischievous	advancing	Closing Government	Martha McKinney-PerryⒸ , Ayal Mor , Katie Kiely , Mira Eberdorfer , Stefan Josipović
+Always committed to the bit, but n	eliminated	Opening Opposition	Martha McKinney-PerryⒸ , Ayal Mor , Katie Kiely , Mira Eberdorfer , Stefan Josipović
+Zagreb TBA (Teck and Tin)	advancing	Opening Government	Martha McKinney-PerryⒸ , Ayal Mor , Katie Kiely , Mira Eberdorfer , Stefan Josipović
+Big K and Smol A	eliminated	Closing Opposition	Martha McKinney-PerryⒸ , Ayal Mor , Katie Kiely , Mira Eberdorfer , Stefan Josipović
+
+
+team	result	side	adjudicators
+Like and Subscribe	eliminated	Closing Government	Martha McKinney-PerryⒸ , Amitai Ben Porat , Aymaan Sheikh , Daan Spackler , Kay Powers , Redacted A , Zach Godley-McAvoy
+Oxford mysterious &amp; mischievous	eliminated	Closing Opposition	Martha McKinney-PerryⒸ , Amitai Ben Porat , Aymaan Sheikh , Daan Spackler , Kay Powers , Redacted A , Zach Godley-McAvoy
+Working Class A	advancing	Opening Opposition	Martha McKinney-PerryⒸ , Amitai Ben Porat , Aymaan Sheikh , Daan Spackler , Kay Powers , Redacted A , Zach Godley-McAvoy
+Zagreb TBA (Teck and Tin)	eliminated	Opening Government	Martha McKinney-PerryⒸ , Amitai Ben Porat , Aymaan Sheikh , Daan Spackler , Kay Powers , Redacted A , Zach Godley-McAvoy
+
+
+team	result	side	adjudicators
+EDS d^7y/dx^7	eliminated	Closing Opposition	Amitai Ben PoratⒸ , Neva Ensminger-Holland , Theo Simion
+ESDA Chronos Jap and Jew	advancing	Opening Opposition	Amitai Ben PoratⒸ , Neva Ensminger-Holland , Theo Simion
+Weizmann DS	eliminated	Opening Government	Amitai Ben PoratⒸ , Neva Ensminger-Holland , Theo Simion
+Zagreb B(rze cvike brzo osvajaju srca)	advancing	Closing Government	Amitai Ben PoratⒸ , Neva Ensminger-Holland , Theo Simion
+UAM derivative? and what else, integra	eliminated	Opening Government	Alishba IrfanⒸ , Arjun Raman , Matija Pušnik
+Weizmann DR	advancing	Closing Opposition	Alishba IrfanⒸ , Arjun Raman , Matija Pušnik
+Zagreb not Tin this time	eliminated	Closing Government	Alishba IrfanⒸ , Arjun Raman , Matija Pušnik
+Don&#x27;t tell our debate club we&#x27;re h	advancing	Opening Opposition	Alishba IrfanⒸ , Arjun Raman , Matija Pušnik
+
+
+team	result	side	adjudicators
+ESDA Chronos Jap and Jew	eliminated	Opening Opposition	Andrew ChenⒸ , Arjun Raman , Kay Powers , Paula Breyer , Victor Bervoets
+Weizmann DR	eliminated	Closing Government	Andrew ChenⒸ , Arjun Raman , Kay Powers , Paula Breyer , Victor Bervoets
+Zagreb B(rze cvike brzo osvajaju srca)	advancing	Opening Government	Andrew ChenⒸ , Arjun Raman , Kay Powers , Paula Breyer , Victor Bervoets
+Don&#x27;t tell our debate club we&#x27;re h	eliminated	Closing Opposition	Andrew ChenⒸ , Arjun Raman , Kay Powers , Paula Breyer , Victor Bervoets
+
+
+team	result	side	adjudicators
+Botev	eliminated	Closing Government	Vladimira ŠuflajⒸ , Ananya Krishna , Kay Powers , Krish Singh , Stuart Johnson
+Warsaw Sorry heart, Espresso comes first	eliminated	Opening Opposition	Vladimira ŠuflajⒸ , Ananya Krishna , Kay Powers , Krish Singh , Stuart Johnson
+Levski	advancing	Opening Government	Vladimira ŠuflajⒸ , Ananya Krishna , Kay Powers , Krish Singh , Stuart Johnson
+Berlin Transatlantic Yappers	eliminated	Closing Opposition	Vladimira ŠuflajⒸ , Ananya Krishna , Kay Powers , Krish Singh , Stuart Johnson
+

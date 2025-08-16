@@ -1,0 +1,895 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	R6	Pts	Spk	1sts	2nds	Irons
+1	KUDC Weon Bin &amp; Suhyun		1st	1st	1st	1st	2nd	1st	17	955	5	1	0
+2	OSAKA Yuta &amp; Minami		1st	2nd	1st	1st	3rd	1st	15	949	4	1	0
+3	TOKYO Riho &amp; Takeshi		1st	2nd	1st	2nd	1st	2nd	15	942	3	3	0
+4	HKU Sarah &amp; Hannah		3rd	1st	2nd	2nd	1st	1st	14	932	3	2	0
+5	SEOUL Dohyun &amp; Haeju		1st	1st	1st	4th	2nd	2nd	13	942	3	2	0
+6	CUHK Kwan Chun &amp; Charles		2nd	1st	2nd	2nd	1st	3rd	13	934	2	3	0
+7	CUHK Pitchapa &amp; Zhi Hao	EFL	3rd	2nd	1st	1st	1st	3rd	13	922	3	1	0
+8	TSUKUBA. Hinano &amp; Yuki	EFL	2nd	4th	1st	1st	2nd	1st	13	920	3	2	0
+9	UM Donner &amp; Kai		1st	1st	2nd	2nd	4th	2nd	12	939	2	3	0
+10	SUFE Qiyang &amp; Yutong	EFL	1st	2nd	4th	2nd	1st	2nd	12	936	2	3	0
+11	YUU So Jin &amp; Duc-Toan		1st	1st	3rd	4th	1st	2nd	12	930	3	1	0
+12	SWSI Rachel &amp; Crystal	Schools	1st	4th	1st	1st	1st	4th	12	929	4	0	0
+13	SUFE Lerong &amp; Zhangyang	EFL	2nd	1st	1st	3rd	4th	1st	12	923	3	1	0
+14	NTU Alastor &amp; Stacy		2nd	4th	2nd	2nd	1st	1st	12	921	2	3	0
+15	ACCH Zhihe &amp; Jimmy	Schools	3rd	2nd	1st	3rd	2nd	1st	12	914	2	2	0
+16	CUHK Po Shing &amp; Maria		1st	4th	2nd	3rd	1st	1st	12	910	3	1	0
+17	YUU Minchang &amp; Joon Seo		1st	3rd	2nd	1st	3rd	3rd	11	932	2	1	0
+18	HKU Edward &amp; Arthur		1st	1st	3rd	3rd	1st	4th	11	929	3	0	0
+19	CUHK Joshua &amp; Chantal		2nd	1st	3rd	3rd	3rd	1st	11	924	2	1	0
+20	HKU Cailing &amp; Mahir		2nd	1st	2nd	2nd	4th	2nd	11	922	1	4	0
+21	ICU Wang &amp; Mitsuki	EFL	1st	3rd	3rd	1st	2nd	3rd	11	918	2	1	0
+22	CUHK Chloe &amp; India		3rd	2nd	1st	1st	2nd	4th	11	914	2	2	0
+23	BFSU Ketian &amp; Zhuoran		2nd	3rd	3rd	1st	1st	3rd	11	910	2	1	0
+24	HTBIS Yulin &amp; Zixuan	Schools	2nd	2nd	4th	2nd	2nd	1st	11	909	1	4	0
+25	BFSU Jialu &amp; Qihan	EFL	1st	4th	1st	3rd	2nd	2nd	11	903	2	2	0
+26	KUDC Naama &amp; Dabin		2nd	2nd	1st	3rd	4th	2nd	10	922	1	3	0
+27	NTU Laurie &amp; Porter	EFL	1st	2nd	3rd	1st	3rd	4th	10	919	2	1	0
+28	RENMIN Wong &amp; Feiduo	EFL	2nd	2nd	4th	1st	4th	1st	10	911	2	2	0
+29	SCNU Karena &amp; Melody	EFL	1st	3rd	4th	1st	3rd	2nd	10	911	2	1	0
+30	SISU Mingyang &amp; Yuwei	EFL	4th	2nd	1st	4th	2nd	1st	10	909	2	2	0
+31	TSUKUBA. Yuichiro &amp; Haruto	EFL	2nd	3rd	2nd	4th	1st	2nd	10	909	1	3	0
+32	BFSU Haihan &amp; Zhijin	EFL	2nd	3rd	2nd	3rd	1st	3rd	10	908	1	2	0
+33	BKBIS Jason &amp; Ravipat	Schools	4th	1st	3rd	1st	2nd	3rd	10	905	2	1	0
+34	RENMIN Joyce &amp; Nyx	EFL	2nd	1st	4th	4th	1st	2nd	10	901	2	2	1
+35	UM Un Hin &amp; Grace		2nd	3rd	4th	3rd	1st	1st	10	900	2	1	0
+36	Jeven &amp; Jingwen	EFL	1st	2nd	4th	1st	3rd	4th	9	915	2	1	0
+37	MUST Ray &amp; Musky	EFL	3rd	1st	1st	3rd	3rd	4th	9	915	2	0	0
+38	BEIHANG Chenqian &amp; Essam	EFL	2nd	1st	4th	4th	3rd	1st	9	912	2	1	0
+39	YUU Yelin &amp; Hakyung		1st	3rd	2nd	2nd	3rd	4th	9	911	1	2	0
+40	SYSU Serena &amp; Ruyi	EFL	1st	2nd	2nd	4th	4th	2nd	9	910	1	3	0
+41	MUST Eyedi &amp; Sophie	EFL	4th	1st	1st	4th	2nd	3rd	9	905	2	1	0
+42	STU Lanyu &amp; Zipeng	EFL	2nd	2nd	3rd	2nd	2nd	4th	9	905	0	4	0
+43	MUST Richelle &amp; Tina	EFL	3rd	1st	3rd	4th	3rd	1st	9	904	2	0	0
+44	NEUQ Shun &amp; Anqi	EFL	4th	3rd	1st	3rd	2nd	2nd	9	902	1	2	0
+45	UM Shuairong &amp; Michael		4th	1st	2nd	1st	4th	3rd	9	901	2	1	0
+46	SZBIS Kwok Pong &amp; Zuheng	Schools	1st	4th	3rd	3rd	3rd	1st	9	901	2	0	0
+47	PKUSZ Chenxi &amp; Sihan	EFL	4th	2nd	1st	2nd	3rd	3rd	9	900	1	2	0
+48	CUHK SZ Xinyi &amp; Yichi	EFL	4th	4th	1st	1st	3rd	2nd	9	898	2	1	0
+49	GDUFS Zhou &amp; Deng	EFL	1st	4th	3rd	2nd	4th	1st	9	894	2	1	0
+50	CUHK Chloe &amp; Sze Tung		2nd	4th	2nd	3rd	2nd	3rd	8	905	0	3	0
+51	GDUFS Jinhang &amp; Mengfan	EFL	3rd	1st	2nd	2nd	4th	4th	8	904	1	2	0
+52	PEKING Shi &amp; Kuntai	EFL	3rd	1st	3rd	2nd	4th	3rd	8	904	1	1	0
+53	DAE Minseo &amp; Fatin Alya	EFL	4th	2nd	3rd	2nd	2nd	3rd	8	903	0	3	0
+54=	CITYU Wong &amp; Chung		2nd	4th	3rd	1st	4th	2nd	8	898	1	2	0
+54=	ACMG Wang &amp; Yunhan	Schools	3rd	2nd	1st	4th	2nd	4th	8	898	1	2	0
+56	GZHU Rachel &amp; Wendy	EFL	4th	2nd	2nd	3rd	1st	4th	8	896	1	2	0
+57	SUFE Ruohan &amp; Yue	EFL	3rd	2nd	2nd	3rd	4th	2nd	8	895	0	3	0
+58	NCCU Yu-Shan &amp; Speaker	EFL	3rd	3rd	4th	1st	4th	1st	8	893	2	0	0
+59	YSU Betty &amp; Ivy	EFL	4th	4th	2nd	1st	3rd	2nd	8	890	1	2	0
+60	MUST Oliver &amp; Erin	EFL	3rd	2nd	3rd	4th	3rd	1st	8	890	1	1	0
+61	NCNU Yu Ting &amp; Wei Syuan	EFL	3rd	4th	1st	2nd	3rd	3rd	8	888	1	1	0
+62	SUFE Yufei &amp; Baoqi	EFL	3rd	3rd	3rd	1st	3rd	4th	7	899	1	0	0
+63	CUHK SZ Jingjing &amp; Diao	EFL	2nd	3rd	4th	4th	3rd	1st	7	897	1	1	0
+64	PEKING Taotao &amp; Cho Ying	EFL	4th	1st	2nd	4th	4th	2nd	7	895	1	2	0
+65	GZSZ Junjia &amp; BELLA	Schools	4th	1st	3rd	4th	1st	4th	7	893	2	0	0
+66	GDUFS Changchu &amp; Jiaying	EFL	2nd	4th	4th	2nd	1st	4th	7	893	1	2	0
+67	SCSE Emily &amp; Edison	Schools	3rd	4th	1st	4th	2nd	3rd	7	892	1	1	0
+68	BFSU Siyu &amp; Yijia	EFL	3rd	3rd	4th	3rd	1st	3rd	7	889	1	0	0
+69	SYSU Yu &amp; Yuqing		4th	3rd	2nd	3rd	2nd	3rd	7	885	0	2	0
+70	ZJISU Valentina &amp; Jocelyn	EFL	2nd	3rd	4th	4th	1st	4th	6	897	1	1	0
+71	NEUQ Yuchong &amp; Yijie	EFL	1st	3rd	4th	3rd	4th	3rd	6	891	1	0	0
+72	HZBIS Ted &amp; Jason	Schools	3rd	4th	2nd	2nd	4th	3rd	6	885	0	2	0
+73	BISHZ Annie &amp; Lucas	Schools	4th	3rd	2nd	4th	3rd	2nd	6	884	0	2	0
+74	XJTLU Yuhan &amp; Xinghao	EFL	3rd	4th	3rd	2nd	4th	2nd	6	873	0	2	0
+75	NCCU Chen &amp; Lee	EFL	4th	4th	3rd	2nd	2nd	4th	5	881	0	2	0
+76	MUST Eunice &amp; Yeso	EFL	3rd	3rd	4th	4th	4th	1st	5	878	1	0	0
+77	MUST Cristina &amp; Sissi	EFL	4th	2nd	4th	4th	1st	4th	5	871	1	1	0
+78	LAFLE Dao &amp; Shuai	Schools	4th	3rd	4th	2nd	2nd	4th	5	868	0	2	0
+79	MUST Blues &amp; Amidy	EFL	3rd	4th	4th	3rd	3rd	2nd	5	855	0	1	0
+80	NVIS William &amp; Marco	Schools	4th	4th	4th	1st	3rd	4th	4	884	1	0	0
+81	WHBC Jinze &amp; Wan Tim	Schools	3rd	3rd	4th	3rd	4th	3rd	4	884	0	0	0
+82	LAFLE Zihan &amp; Changze	Schools	4th	3rd	4th	4th	2nd	4th	3	857	0	1	2
+83	LAFLE Mei &amp; Shaonan	Schools	4th	4th	3rd	3rd	4th	3rd	3	852	0	0	0
+84	LAFLE Jiayi &amp; Zhujun	Schools	4th	4th	3rd	4th	4th	4th	1	818	0	0	0
+85	Swing 1		—	—	—	—	—	—	—	—	0	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	R6	Total	Avg	Stdev
+1	Minami Matsushima	Uni	OSAKA Yuta &amp; Minami	79	79	81	81	78	81	479	79.83	1.21
+2	Suhyun Lee	Uni, EFL	KUDC Weon Bin &amp; Suhyun	80	80	80	80	78	80	478	79.67	0.75
+3	Weon Bin Na	Uni	KUDC Weon Bin &amp; Suhyun	79	79	80	80	79	80	477	79.50	0.50
+4	Dohyun Kim	Uni	SEOUL Dohyun &amp; Haeju	78	81	80	78	78	80	475	79.17	1.21
+5	Takeshi Matsuda	Uni	TOKYO Riho &amp; Takeshi	79	77	78	80	80	80	474	79.00	1.15
+6	Donner Tang	Uni	UM Donner &amp; Kai	78	81	78	80	77	79	473	78.83	1.34
+7	Yuta Yamagishi	Uni, EFL	OSAKA Yuta &amp; Minami	78	78	78	80	77	79	470	78.33	0.94
+8=	Yutong Guo	Uni, EFL	SUFE Qiyang &amp; Yutong	79	80	76	78	78	77	468	78.00	1.29
+8=	Qiyang Huang	Uni, EFL	SUFE Qiyang &amp; Yutong	79	80	77	77	78	77	468	78.00	1.15
+8=	Charles Wong	Uni	CUHK Kwan Chun &amp; Charles	79	79	78	76	78	78	468	78.00	1.00
+8=	Riho Takahashi	Uni	TOKYO Riho &amp; Takeshi	77	76	79	79	78	79	468	78.00	1.15
+12=	Joon Seo Chang	Uni	YUU Minchang &amp; Joon Seo	78	77	78	79	77	78	467	77.83	0.69
+12=	So Jin Jung	Uni	YUU So Jin &amp; Duc-Toan	79	79	78	77	77	77	467	77.83	0.90
+12=	Haeju Kim	Uni, EFL	SEOUL Dohyun &amp; Haeju	77	80	78	76	77	79	467	77.83	1.34
+12=	Hannah Angela Flores Miranda	Uni	HKU Sarah &amp; Hannah	76	78	78	79	77	79	467	77.83	1.07
+16=	Kwan Chun Cheng	Uni	CUHK Kwan Chun &amp; Charles	77	78	77	77	79	78	466	77.67	0.75
+16=	Kai Zhang	Uni	UM Donner &amp; Kai	77	79	77	79	76	78	466	77.67	1.11
+16=	Crystal Liao	Schools	SWSI Rachel &amp; Crystal	78	75	77	80	79	77	466	77.67	1.60
+16=	Arthur Ng	Uni	HKU Edward &amp; Arthur	79	77	77	76	79	78	466	77.67	1.11
+20=	Zhangyang Shen	Uni, EFL	SUFE Lerong &amp; Zhangyang	78	78	79	78	75	77	465	77.50	1.26
+20=	Minchang Kim	Uni	YUU Minchang &amp; Joon Seo	78	77	77	78	77	78	465	77.50	0.50
+20=	Sarah Khan	Uni	HKU Sarah &amp; Hannah	76	77	76	79	78	79	465	77.50	1.26
+23=	Laurie Dao	Uni, EFL	NTU Laurie &amp; Porter	80	78	78	77	76	75	464	77.33	1.60
+23=	Zhi Hao Seah	Uni, EFL	CUHK Pitchapa &amp; Zhi Hao	77	76	77	78	78	78	464	77.33	0.75
+23=	Joshua Zhu	Uni	CUHK Joshua &amp; Chantal	77	79	77	77	76	78	464	77.33	0.94
+26=	Duc-Toan Vu	Uni	YUU So Jin &amp; Duc-Toan	78	78	76	76	78	77	463	77.17	0.90
+26=	Rachel Shen	Schools	SWSI Rachel &amp; Crystal	77	75	77	79	78	77	463	77.17	1.21
+26=	Edward Li	Uni	HKU Edward &amp; Arthur	79	77	76	75	79	77	463	77.17	1.46
+29=	Naama Benamy Schoneveld	Uni	KUDC Naama &amp; Dabin	77	77	79	78	74	77	462	77.00	1.53
+29=	Wang Haotian	Uni, EFL	ICU Wang &amp; Mitsuki	77	77	77	78	78	75	462	77.00	1.00
+29=	Mahir Faiaz	Uni	HKU Cailing &amp; Mahir	78	77	78	78	76	75	462	77.00	1.15
+29=	Yuki Kato	Uni, EFL	TSUKUBA. Hinano &amp; Yuki	77	74	78	78	77	78	462	77.00	1.41
+33=	Alastor Perng	Uni	NTU Alastor &amp; Stacy	78	76	77	76	76	78	461	76.83	0.90
+33=	Ravipat Rodphothong	Schools	BKBIS Jason &amp; Ravipat	76	80	75	78	76	76	461	76.83	1.67
+35=	Dabin Go	Uni	KUDC Naama &amp; Dabin	76	77	77	78	75	77	460	76.67	0.94
+35=	Stacy Wang	Uni, EFL	NTU Alastor &amp; Stacy	78	76	77	75	76	78	460	76.67	1.11
+35=	Chantal Cheung	Uni	CUHK Joshua &amp; Chantal	76	78	77	76	76	77	460	76.67	0.75
+35=	Cailing Piao	Uni	HKU Cailing &amp; Mahir	76	76	79	77	76	76	460	76.67	1.11
+35=	Jeven Deng	Uni, EFL	Jeven &amp; Jingwen	76	78	77	79	77	73	460	76.67	1.89
+40=	Ray Yang	Uni, EFL	MUST Ray &amp; Musky	78	76	78	77	75	75	459	76.50	1.26
+40=	Melody Yang	Uni, EFL	SCNU Karena &amp; Melody	78	76	76	78	75	76	459	76.50	1.12
+40=	Chloe Loo	Uni	CUHK Chloe &amp; India	76	75	75	78	78	77	459	76.50	1.26
+43=	Lerong Xu	Uni, EFL	SUFE Lerong &amp; Zhangyang	77	77	77	77	75	75	458	76.33	0.94
+43=	Pitchapa Watanalaorsombun	Uni, EFL	CUHK Pitchapa &amp; Zhi Hao	75	75	76	79	76	77	458	76.33	1.37
+43=	Hinano Haraguchi	Uni, EFL	TSUKUBA. Hinano &amp; Yuki	77	74	77	77	76	77	458	76.33	1.11
+43=	Zhihe Zhang	Schools	ACCH Zhihe &amp; Jimmy	76	78	75	75	77	77	458	76.33	1.11
+47=	Chenqian Cui	Uni, EFL	BEIHANG Chenqian &amp; Essam	77	78	77	73	77	75	457	76.17	1.67
+47=	Wong Amethyst	Uni, EFL	RENMIN Wong &amp; Feiduo	78	77	76	76	74	76	457	76.17	1.21
+49=	Musky Shen	Uni, EFL	MUST Ray &amp; Musky	77	76	77	77	75	74	456	76.00	1.15
+49=	Mitsuki Kumano	Uni, EFL	ICU Wang &amp; Mitsuki	75	76	77	78	75	75	456	76.00	1.15
+49=	Mingyang Yan	Uni, EFL	SISU Mingyang &amp; Yuwei	75	77	78	74	75	77	456	76.00	1.41
+49=	Maria Shukit	Uni	CUHK Po Shing &amp; Maria	78	75	76	76	75	76	456	76.00	1.00
+49=	Hakyung Sim	Uni	YUU Yelin &amp; Hakyung	76	75	77	77	77	74	456	76.00	1.15
+49=	Ketian Tang	Uni	BFSU Ketian &amp; Zhuoran	77	75	75	77	76	76	456	76.00	0.82
+49=	Haihan Sun	Uni, EFL	BFSU Haihan &amp; Zhijin	76	78	75	76	76	75	456	76.00	1.00
+49=	Yuichiro Hata	Uni, EFL	TSUKUBA. Yuichiro &amp; Haruto	77	77	76	74	76	76	456	76.00	1.00
+49=	Jimmy Xu	Schools	ACCH Zhihe &amp; Jimmy	76	76	76	74	77	77	456	76.00	1.00
+49=	Yulin Pan	Schools	HTBIS Yulin &amp; Zixuan	75	77	76	76	75	77	456	76.00	0.82
+49=	Ruyi Li	Uni, EFL	SYSU Serena &amp; Ruyi	76	77	77	76	74	76	456	76.00	1.00
+60=	Essam Waqar	Uni, EFL	BEIHANG Chenqian &amp; Essam	76	77	76	74	76	76	455	75.83	0.90
+60=	Mengfan Yang	Uni, EFL	GDUFS Jinhang &amp; Mengfan	76	76	77	77	74	75	455	75.83	1.07
+60=	Porter Tsai	Uni, EFL	NTU Laurie &amp; Porter	76	77	76	76	75	75	455	75.83	0.69
+60=	India Lei Chung	Uni	CUHK Chloe &amp; India	75	75	74	76	77	78	455	75.83	1.34
+60=	Yelin Kim	Uni, EFL	YUU Yelin &amp; Hakyung	77	75	76	75	77	75	455	75.83	0.90
+60=	Jingwen YE	Uni, EFL	Jeven &amp; Jingwen	76	77	76	78	75	73	455	75.83	1.57
+66=	Eyedi Wen	Uni, EFL	MUST Eyedi &amp; Sophie	73	78	76	75	76	76	454	75.67	1.49
+66=	Kuntai Li	Uni, EFL	PEKING Shi &amp; Kuntai	75	77	75	78	74	75	454	75.67	1.37
+66=	Zhao Feiduo	Uni, EFL	RENMIN Wong &amp; Feiduo	77	77	75	76	74	75	454	75.67	1.11
+66=	Po Shing Ng	Uni	CUHK Po Shing &amp; Maria	78	74	75	77	75	75	454	75.67	1.37
+66=	Sze Tung Lau	Uni	CUHK Chloe &amp; Sze Tung	76	74	77	74	78	75	454	75.67	1.49
+66=	Shuairong Zhu	Uni	UM Shuairong &amp; Michael	74	78	74	76	75	77	454	75.67	1.49
+66=	Zhuoran Yang	Uni	BFSU Ketian &amp; Zhuoran	76	77	75	75	76	75	454	75.67	0.75
+66=	Serena Xie	Uni, EFL	SYSU Serena &amp; Ruyi	74	75	78	76	74	77	454	75.67	1.49
+74=	Wong Kwan Yin Mendoza	Uni	CITYU Wong &amp; Chung	77	76	76	76	73	75	453	75.50	1.26
+74=	Tina Tian	Uni, EFL	MUST Richelle &amp; Tina	76	75	76	74	75	77	453	75.50	0.96
+74=	Sihan Chen	Uni, EFL	PKUSZ Chenxi &amp; Sihan	74	77	77	77	75	73	453	75.50	1.61
+74=	Yuwei Zhang	Uni, EFL	SISU Mingyang &amp; Yuwei	76	77	77	73	72	78	453	75.50	2.22
+74=	Zipeng Chen	Uni, EFL	STU Lanyu &amp; Zipeng	76	75	77	75	78	72	453	75.50	1.89
+74=	Minseo Kim	Uni, EFL	DAE Minseo &amp; Fatin Alya	75	74	75	77	76	76	453	75.50	0.96
+74=	Haruto Masumitsu	Uni, EFL	TSUKUBA. Yuichiro &amp; Haruto	77	75	75	74	76	76	453	75.50	0.96
+74=	Zixuan Hong	Schools	HTBIS Yulin &amp; Zixuan	75	77	75	76	74	76	453	75.50	0.96
+82=	Lanyu Wen	Uni, EFL	STU Lanyu &amp; Zipeng	75	74	76	76	78	73	452	75.33	1.60
+82=	Karena Leung	Uni, EFL	SCNU Karena &amp; Melody	77	76	74	74	75	76	452	75.33	1.11
+82=	Zhijin Wu	Uni, EFL	BFSU Haihan &amp; Zhijin	75	78	74	75	76	74	452	75.33	1.37
+82=	Qihan Liu	Uni, EFL	BFSU Jialu &amp; Qihan	75	74	76	75	76	76	452	75.33	0.75
+86=	Richelle Liu	Uni, EFL	MUST Richelle &amp; Tina	77	75	75	72	75	77	451	75.17	1.67
+86=	Sophie Yuan	Uni, EFL	MUST Eyedi &amp; Sophie	74	77	75	75	75	75	451	75.17	0.90
+86=	Shun Yan	Uni, EFL	NEUQ Shun &amp; Anqi	74	74	75	77	75	76	451	75.17	1.07
+86=	Anqi Liu	Uni, EFL	NEUQ Shun &amp; Anqi	75	73	75	76	76	76	451	75.17	1.07
+86=	Baoqi Shen	Uni, EFL	SUFE Yufei &amp; Baoqi	76	74	76	77	74	74	451	75.17	1.21
+86=	Hoi Ying Chloe Nip	Uni	CUHK Chloe &amp; Sze Tung	75	74	76	74	77	75	451	75.17	1.07
+86=	Un Hin Lei	Uni	UM Un Hin &amp; Grace	77	75	73	74	74	78	451	75.17	1.77
+86=	Jialu He	Uni, EFL	BFSU Jialu &amp; Qihan	74	74	76	75	77	75	451	75.17	1.07
+86=	Kwok Pong Lan	Schools	SZBIS Kwok Pong &amp; Zuheng	76	75	75	76	72	77	451	75.17	1.57
+95=	Shi Dong	Uni, EFL	PEKING Shi &amp; Kuntai	74	75	75	77	74	75	450	75.00	1.00
+95=	Joyce Lu	Uni, EFL	RENMIN Joyce &amp; Nyx	73	75	76	75	76	75	450	75.00	1.00
+95=	Ruohan Zhuang	Uni, EFL	SUFE Ruohan &amp; Yue	75	75	76	74	74	76	450	75.00	0.82
+95=	Valentina Chin	Uni, EFL	ZJISU Valentina &amp; Jocelyn	75	76	73	74	77	75	450	75.00	1.29
+95=	Fatin Alya Binti Mohd Najib	Uni, EFL	DAE Minseo &amp; Fatin Alya	75	74	76	75	75	75	450	75.00	0.58
+95=	Zuheng Liu	Schools	SZBIS Kwok Pong &amp; Zuheng	76	75	75	75	72	77	450	75.00	1.53
+95=	Wang Ben	Schools	ACMG Wang &amp; Yunhan	74	74	78	74	75	75	450	75.00	1.41
+95=	Yichi Zhang	Uni, EFL	CUHK SZ Xinyi &amp; Yichi	74	74	76	76	75	75	450	75.00	0.82
+103=	Deng liheng	Uni, EFL	GDUFS Zhou &amp; Deng	76	73	74	77	73	76	449	74.83	1.57
+103=	Jinhang Wu	Uni, EFL	GDUFS Jinhang &amp; Mengfan	76	74	75	75	74	75	449	74.83	0.69
+103=	Redacted	Uni, EFL	—	74	74	75	76	74	76	449	74.83	0.90
+103=	Cho Ying Lee	Uni, EFL	PEKING Taotao &amp; Cho Ying	74	77	75	75	74	74	449	74.83	1.07
+103=	Diao Kehan	Uni, EFL	CUHK SZ Jingjing &amp; Diao	77	77	72	72	75	76	449	74.83	2.11
+103=	Grace Kae Wai Chui Togashi	Uni	UM Un Hin &amp; Grace	76	75	73	74	74	77	449	74.83	1.34
+103=	BELLA ZHANG	Schools	GZSZ Junjia &amp; BELLA	75	77	72	74	76	75	449	74.83	1.57
+110=	Wendy Zhang	Uni, EFL	GZHU Rachel &amp; Wendy	70	78	76	74	76	74	448	74.67	2.49
+110=	Rachel Hong	Uni, EFL	GZHU Rachel &amp; Wendy	70	77	76	74	76	75	448	74.67	2.29
+110=	Yufei Cai	Uni, EFL	SUFE Yufei &amp; Baoqi	75	74	75	76	74	74	448	74.67	0.75
+110=	Jingjing Dong	Uni, EFL	CUHK SZ Jingjing &amp; Diao	76	76	72	72	75	77	448	74.67	1.97
+110=	Yunhan Chong	Schools	ACMG Wang &amp; Yunhan	75	75	76	75	73	74	448	74.67	0.94
+110=	Xinyi Jiang	Uni, EFL	CUHK SZ Xinyi &amp; Yichi	74	74	75	76	74	75	448	74.67	0.75
+116=	Jiaying Zheng	Uni, EFL	GDUFS Changchu &amp; Jiaying	74	73	75	75	77	73	447	74.50	1.38
+116=	Erin Xu	Uni, EFL	MUST Oliver &amp; Erin	76	75	75	72	75	74	447	74.50	1.26
+116=	Yuchong Gong	Uni, EFL	NEUQ Yuchong &amp; Yijie	77	75	74	76	71	74	447	74.50	1.89
+116=	Chenxi Hu	Uni, EFL	PKUSZ Chenxi &amp; Sihan	74	74	76	75	75	73	447	74.50	0.96
+116=	Michael Sun	Uni	UM Shuairong &amp; Michael	73	75	72	77	76	74	447	74.50	1.71
+116=	Jocelyn Wu	Uni, EFL	ZJISU Valentina &amp; Jocelyn	75	76	72	74	77	73	447	74.50	1.71
+116=	Edison Xiong	Schools	SCSE Emily &amp; Edison	71	75	78	76	73	74	447	74.50	2.22
+123=	Changchu Li	Uni, EFL	GDUFS Changchu &amp; Jiaying	72	73	75	74	79	73	446	74.33	2.29
+123=	Wei Syuan Sie	Uni, EFL	NCNU Yu Ting &amp; Wei Syuan	75	73	75	75	74	74	446	74.33	0.75
+123=	Taotao Zhang	Uni, EFL	PEKING Taotao &amp; Cho Ying	73	76	75	75	74	73	446	74.33	1.11
+126=	Chung Wai Yan	Uni, EFL	CITYU Wong &amp; Chung	76	75	75	75	72	72	445	74.17	1.57
+126=	Zhou Qifan	Uni, EFL	GDUFS Zhou &amp; Deng	75	74	73	74	74	75	445	74.17	0.69
+126=	Yue YAO	Uni, EFL	SUFE Ruohan &amp; Yue	74	74	73	75	74	75	445	74.17	0.69
+126=	Betty Duan	Uni, EFL	YSU Betty &amp; Ivy	74	73	74	75	74	75	445	74.17	0.69
+126=	Yijia Sun	Uni, EFL	BFSU Siyu &amp; Yijia	77	73	74	73	76	72	445	74.17	1.77
+126=	Emily Dai	Schools	SCSE Emily &amp; Edison	73	74	78	74	72	74	445	74.17	1.86
+132=	Yu-Shan Chiu	Uni, EFL	NCCU Yu-Shan &amp; Speaker	73	73	74	75	73	76	444	74.00	1.15
+132=	Yijie Shi	Uni, EFL	NEUQ Yuchong &amp; Yijie	78	75	74	73	71	73	444	74.00	2.16
+132=	Siyu Ma	Uni, EFL	BFSU Siyu &amp; Yijia	76	74	74	73	75	72	444	74.00	1.29
+132=	Annie Peng	Schools	BISHZ Annie &amp; Lucas	75	76	74	74	72	73	444	74.00	1.29
+132=	Marco Qin	Schools	NVIS William &amp; Marco	76	74	72	75	74	73	444	74.00	1.29
+132=	Junjia Liu	Schools	GZSZ Junjia &amp; BELLA	75	77	72	71	75	74	444	74.00	2.00
+132=	Lu Wan Tim	Schools	WHBC Jinze &amp; Wan Tim	75	73	74	74	73	75	444	74.00	0.82
+132=	Jason wang	Schools	BKBIS Jason &amp; Ravipat	74	76	70	75	75	74	444	74.00	1.91
+140=	Oliver Zhou	Uni, EFL	MUST Oliver &amp; Erin	75	73	74	72	74	75	443	73.83	1.07
+140=	Jason Jinxuan Cai	Schools	HZBIS Ted &amp; Jason	73	72	75	75	75	73	443	73.83	1.21
+140=	Yuqing ZHANG	Uni	SYSU Yu &amp; Yuqing	73	75	71	74	75	75	443	73.83	1.46
+143=	Yu Ting Chen	Uni, EFL	NCNU Yu Ting &amp; Wei Syuan	75	72	73	75	73	74	442	73.67	1.11
+143=	Ted Wuzheng Li	Schools	HZBIS Ted &amp; Jason	74	72	75	74	74	73	442	73.67	0.94
+143=	Yu MA	Uni	SYSU Yu &amp; Yuqing	73	74	71	75	75	74	442	73.67	1.37
+146	Chen Ping Shen	Uni, EFL	NCCU Chen &amp; Lee	73	75	73	75	75	70	441	73.50	1.80
+147=	Eunice He	Uni, EFL	MUST Eunice &amp; Yeso	73	74	73	73	74	73	440	73.33	0.47
+147=	Lee Ssu-Yu	Uni, EFL	NCCU Chen &amp; Lee	72	75	73	74	76	70	440	73.33	1.97
+147=	Lucas Cheng	Schools	BISHZ Annie &amp; Lucas	73	74	73	72	72	76	440	73.33	1.37
+147=	William Xu	Schools	NVIS William &amp; Marco	73	75	72	74	74	72	440	73.33	1.11
+147=	Jinze Zhuang	Schools	WHBC Jinze &amp; Wan Tim	74	73	73	74	73	73	440	73.33	0.47
+152	Yeso Zhang	Uni, EFL	MUST Eunice &amp; Yeso	71	74	73	74	74	72	438	73.00	1.15
+153	Xinghao Yang	Uni, EFL	XJTLU Yuhan &amp; Xinghao	74	72	71	75	71	74	437	72.83	1.57
+154=	Cristina Huang	Uni, EFL	MUST Cristina &amp; Sissi	73	76	69	71	74	73	436	72.67	2.21
+154=	Yuhan Zhong	Uni, EFL	XJTLU Yuhan &amp; Xinghao	73	72	72	74	71	74	436	72.67	1.11
+156	Sissi Liu	Uni, EFL	MUST Cristina &amp; Sissi	73	76	69	72	73	72	435	72.50	2.06
+157=	Shuai Wang	Schools	LAFLE Dao &amp; Shuai	72	75	68	73	74	72	434	72.33	2.21
+157=	Dao Zhou	Schools	LAFLE Dao &amp; Shuai	71	76	68	72	75	72	434	72.33	2.62
+159	Blues Liu	Uni, EFL	MUST Blues &amp; Amidy	74	70	68	74	72	72	430	71.67	2.13
+160	Shaonan Qiu	Schools	LAFLE Mei &amp; Shaonan	71	73	69	72	73	70	428	71.33	1.49
+161	Changze Xu	Schools	LAFLE Zihan &amp; Changze	71	73	70	69	72	71	426	71.00	1.29
+162	Amidy Zhang	Uni, EFL	MUST Blues &amp; Amidy	72	71	67	73	71	71	425	70.83	1.86
+163	Mei Liu	Schools	LAFLE Mei &amp; Shaonan	71	72	67	71	72	71	424	70.67	1.70
+164	Zhujun Zhang	Schools	LAFLE Jiayi &amp; Zhujun	55	72	74	73	66	70	410	68.33	6.50
+165	Jiayi Xu	Schools	LAFLE Jiayi &amp; Zhujun	56	72	74	72	65	69	408	68.00	6.08
+166	Nyx Zhao	Uni, EFL	RENMIN Joyce &amp; Nyx	73	76	76	75	77	—	377	75.40	1.36
+167	Amanda Ma		YSU Betty &amp; Ivy	—	—	75	75	75	75	300	75.00	0.00
+168	Zihan Cai	Schools	LAFLE Zihan &amp; Changze	76	74	—	—	73	74	297	74.25	1.09
+169	Ivy Miao	Uni, EFL	YSU Betty &amp; Ivy	73	72	—	—	—	—	145	72.50	0.50
+170=	Speaker 2		Swing 1	—	—	—	—	—	—	—	—	—
+170=	Speaker 1		Swing 1	—	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+MUST Richelle &amp; Tina	3rd	Closing Opposition	View Ballot	Dylan SalcedoⒸ , Lan YangⓉ
+SUFE Lerong &amp; Zhangyang	2nd	Closing Government	View Ballot	Dylan SalcedoⒸ , Lan YangⓉ
+YUU Minchang &amp; Joon Seo	1st	Opening Opposition	View Ballot	Dylan SalcedoⒸ , Lan YangⓉ
+BKBIS Jason &amp; Ravipat	4th	Opening Government	View Ballot	Dylan SalcedoⒸ , Lan YangⓉ
+SUFE Yufei &amp; Baoqi	3rd	Opening Government	View Ballot	Ricky JinⒸ , Thomas FarrellⓉ
+CUHK SZ Xinyi &amp; Yichi	4th	Closing Opposition	View Ballot	Ricky JinⒸ , Thomas FarrellⓉ
+SEOUL Dohyun &amp; Haeju	1st	Closing Government	View Ballot	Ricky JinⒸ , Thomas FarrellⓉ
+BFSU Ketian &amp; Zhuoran	2nd	Opening Opposition	View Ballot	Ricky JinⒸ , Thomas FarrellⓉ
+NCCU Chen &amp; Lee	4th	Closing Government	View Ballot	Judy JiⒸ , Polina Zurjari-OssipovaⓉ
+CUHK Joshua &amp; Chantal	2nd	Closing Opposition	View Ballot	Judy JiⒸ , Polina Zurjari-OssipovaⓉ
+TOKYO Riho &amp; Takeshi	1st	Opening Opposition	View Ballot	Judy JiⒸ , Polina Zurjari-OssipovaⓉ
+XJTLU Yuhan &amp; Xinghao	3rd	Opening Government	View Ballot	Judy JiⒸ , Polina Zurjari-OssipovaⓉ
+MUST Eyedi &amp; Sophie	4th	Opening Government	View Ballot	Andrius BudionoⒸ , Amanda MaⓉ
+ICU Wang &amp; Mitsuki	1st	Closing Government	View Ballot	Andrius BudionoⒸ , Amanda MaⓉ
+ZJISU Valentina &amp; Jocelyn	2nd	Closing Opposition	View Ballot	Andrius BudionoⒸ , Amanda MaⓉ
+WHBC Jinze &amp; Wan Tim	3rd	Opening Opposition	View Ballot	Andrius BudionoⒸ , Amanda MaⓉ
+BEIHANG Chenqian &amp; Essam	2nd	Closing Opposition	View Ballot	Ralph LeeⒸ , Zeaf HuⓉ
+NCNU Yu Ting &amp; Wei Syuan	3rd	Opening Government	View Ballot	Ralph LeeⒸ , Zeaf HuⓉ
+PEKING Taotao &amp; Cho Ying	4th	Closing Government	View Ballot	Ralph LeeⒸ , Zeaf HuⓉ
+SWSI Rachel &amp; Crystal	1st	Opening Opposition	View Ballot	Ralph LeeⒸ , Zeaf HuⓉ
+KUDC Naama &amp; Dabin	2nd	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Millie ShaoⓉ
+SCNU Karena &amp; Melody	1st	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Millie ShaoⓉ
+CUHK Chloe &amp; India	3rd	Closing Government	View Ballot	Sunghyun ParkⒸ , Millie ShaoⓉ
+DAE Minseo &amp; Fatin Alya	4th	Opening Government	View Ballot	Sunghyun ParkⒸ , Millie ShaoⓉ
+SUFE Ruohan &amp; Yue	3rd	Closing Government	View Ballot	Ann ZhangⒸ , Jenny Li
+YSU Betty &amp; Ivy	4th	Opening Government	View Ballot	Ann ZhangⒸ , Jenny Li
+BFSU Haihan &amp; Zhijin	2nd	Closing Opposition	View Ballot	Ann ZhangⒸ , Jenny Li
+SZBIS Kwok Pong &amp; Zuheng	1st	Opening Opposition	View Ballot	Ann ZhangⒸ , Jenny Li
+GZHU Rachel &amp; Wendy	4th	Closing Government	View Ballot	Isabella FreelandⒸ , Wonjae Lee
+RENMIN Joyce &amp; Nyx	2nd	Closing Opposition	View Ballot	Isabella FreelandⒸ , Wonjae Lee
+BFSU Jialu &amp; Qihan	1st	Opening Opposition	View Ballot	Isabella FreelandⒸ , Wonjae Lee
+SCSE Emily &amp; Edison	3rd	Opening Government	View Ballot	Isabella FreelandⒸ , Wonjae Lee
+KUDC Weon Bin &amp; Suhyun	1st	Opening Government	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Hok Yiu ChungⓉ
+MUST Oliver &amp; Erin	3rd	Opening Opposition	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Hok Yiu ChungⓉ
+NEUQ Shun &amp; Anqi	4th	Closing Opposition	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Hok Yiu ChungⓉ
+RENMIN Wong &amp; Feiduo	2nd	Closing Government	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Hok Yiu ChungⓉ
+NTU Laurie &amp; Porter	1st	Closing Government	View Ballot	Senran TaoⒸ , Alex Wang
+CUHK Pitchapa &amp; Zhi Hao	3rd	Closing Opposition	View Ballot	Senran TaoⒸ , Alex Wang
+HKU Cailing &amp; Mahir	2nd	Opening Government	View Ballot	Senran TaoⒸ , Alex Wang
+NVIS William &amp; Marco	4th	Opening Opposition	View Ballot	Senran TaoⒸ , Alex Wang
+CITYU Wong &amp; Chung	2nd	Opening Opposition	View Ballot	Youngwoo ParkⒸ , Aria CaiⓉ
+OSAKA Yuta &amp; Minami	1st	Closing Opposition	View Ballot	Youngwoo ParkⒸ , Aria CaiⓉ
+HKU Sarah &amp; Hannah	3rd	Closing Government	View Ballot	Youngwoo ParkⒸ , Aria CaiⓉ
+GZSZ Junjia &amp; BELLA	4th	Opening Government	View Ballot	Youngwoo ParkⒸ , Aria CaiⓉ
+PEKING Shi &amp; Kuntai	3rd	Closing Opposition	View Ballot	Daud HernoudⒸ , Julia HuynhⓉ
+HKU Edward &amp; Arthur	1st	Opening Government	View Ballot	Daud HernoudⒸ , Julia HuynhⓉ
+UM Shuairong &amp; Michael	4th	Closing Government	View Ballot	Daud HernoudⒸ , Julia HuynhⓉ
+TSUKUBA. Hinano &amp; Yuki	2nd	Opening Opposition	View Ballot	Daud HernoudⒸ , Julia HuynhⓉ
+MUST Ray &amp; Musky	3rd	Closing Opposition	View Ballot	Tetsushi KajiharaⒸ , Hesper HuangⓉ
+NTU Alastor &amp; Stacy	2nd	Closing Government	View Ballot	Tetsushi KajiharaⒸ , Hesper HuangⓉ
+SUFE Qiyang &amp; Yutong	1st	Opening Opposition	View Ballot	Tetsushi KajiharaⒸ , Hesper HuangⓉ
+LAFLE Mei &amp; Shaonan	4th	Opening Government	View Ballot	Tetsushi KajiharaⒸ , Hesper HuangⓉ
+MUST Blues &amp; Amidy	3rd	Opening Opposition	View Ballot	Klaus XiaoⒸ , Dahyun Yoon
+CUHK Chloe &amp; Sze Tung	2nd	Closing Opposition	View Ballot	Klaus XiaoⒸ , Dahyun Yoon
+LAFLE Dao &amp; Shuai	4th	Closing Government	View Ballot	Klaus XiaoⒸ , Dahyun Yoon
+Jeven &amp; Jingwen	1st	Opening Government	View Ballot	Klaus XiaoⒸ , Dahyun Yoon
+NEUQ Yuchong &amp; Yijie	1st	Opening Opposition	View Ballot	Daisy SunⒸ , Cici Liu
+SISU Mingyang &amp; Yuwei	4th	Opening Government	View Ballot	Daisy SunⒸ , Cici Liu
+BFSU Siyu &amp; Yijia	3rd	Closing Government	View Ballot	Daisy SunⒸ , Cici Liu
+TSUKUBA. Yuichiro &amp; Haruto	2nd	Closing Opposition	View Ballot	Daisy SunⒸ , Cici Liu
+STU Lanyu &amp; Zipeng	2nd	Closing Opposition	View Ballot	Ray WangⒸ , Felicia Deng , Rintaro MoriⓉ
+SYSU Yu &amp; Yuqing	4th	Opening Government	View Ballot	Ray WangⒸ , Felicia Deng , Rintaro MoriⓉ
+YUU Yelin &amp; Hakyung	1st	Closing Government	View Ballot	Ray WangⒸ , Felicia Deng , Rintaro MoriⓉ
+HZBIS Ted &amp; Jason	3rd	Opening Opposition	View Ballot	Ray WangⒸ , Felicia Deng , Rintaro MoriⓉ
+PKUSZ Chenxi &amp; Sihan	4th	Closing Opposition	View Ballot	Ryosei KobayashiⒸ , Eloise Liu , Rui QinⓉ
+CUHK Po Shing &amp; Maria	1st	Opening Government	View Ballot	Ryosei KobayashiⒸ , Eloise Liu , Rui QinⓉ
+UM Un Hin &amp; Grace	2nd	Opening Opposition	View Ballot	Ryosei KobayashiⒸ , Eloise Liu , Rui QinⓉ
+ACMG Wang &amp; Yunhan	3rd	Closing Government	View Ballot	Ryosei KobayashiⒸ , Eloise Liu , Rui QinⓉ
+GDUFS Changchu &amp; Jiaying	2nd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Xie ShupeiⓉ
+MUST Eunice &amp; Yeso	3rd	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Xie ShupeiⓉ
+SYSU Serena &amp; Ruyi	1st	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Xie ShupeiⓉ
+LAFLE Jiayi &amp; Zhujun	4th	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Xie ShupeiⓉ
+CUHK Kwan Chun &amp; Charles	2nd	Opening Opposition	View Ballot	Chris HungⒸ , Pengbo WangⓉ
+YUU So Jin &amp; Duc-Toan	1st	Closing Opposition	View Ballot	Chris HungⒸ , Pengbo WangⓉ
+ACCH Zhihe &amp; Jimmy	3rd	Closing Government	View Ballot	Chris HungⒸ , Pengbo WangⓉ
+BISHZ Annie &amp; Lucas	4th	Opening Government	View Ballot	Chris HungⒸ , Pengbo WangⓉ
+GDUFS Zhou &amp; Deng	1st	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Siddharth Sumit RajwadeⓉ
+MUST Cristina &amp; Sissi	4th	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Siddharth Sumit RajwadeⓉ
+NCCU Yu-Shan &amp; Speaker	3rd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Siddharth Sumit RajwadeⓉ
+HTBIS Yulin &amp; Zixuan	2nd	Opening Government	View Ballot	Jonathan TuliaoⒸ , Siddharth Sumit RajwadeⓉ
+GDUFS Jinhang &amp; Mengfan	3rd	Closing Opposition	View Ballot	Ooi Hon SonⒸ , Benjamin EvaldⓉ
+CUHK SZ Jingjing &amp; Diao	2nd	Opening Government	View Ballot	Ooi Hon SonⒸ , Benjamin EvaldⓉ
+UM Donner &amp; Kai	1st	Closing Government	View Ballot	Ooi Hon SonⒸ , Benjamin EvaldⓉ
+LAFLE Zihan &amp; Changze	4th	Opening Opposition	View Ballot	Ooi Hon SonⒸ , Benjamin EvaldⓉ
+
+
+team	result	side	ballot	adjudicators
+GDUFS Zhou &amp; Deng	4th	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Dahyun Yoon
+KUDC Weon Bin &amp; Suhyun	1st	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Dahyun Yoon
+OSAKA Yuta &amp; Minami	2nd	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Dahyun Yoon
+SCNU Karena &amp; Melody	3rd	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Dahyun Yoon
+BEIHANG Chenqian &amp; Essam	1st	Opening Government	View Ballot	Sunghyun ParkⒸ , Felicia Deng
+CITYU Wong &amp; Chung	4th	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Felicia Deng
+RENMIN Wong &amp; Feiduo	2nd	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Felicia Deng
+ZJISU Valentina &amp; Jocelyn	3rd	Closing Government	View Ballot	Sunghyun ParkⒸ , Felicia Deng
+UM Donner &amp; Kai	1st	Closing Opposition	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Rintaro MoriⓉ
+YUU Minchang &amp; Joon Seo	3rd	Closing Government	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Rintaro MoriⓉ
+SWSI Rachel &amp; Crystal	4th	Opening Government	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Rintaro MoriⓉ
+Jeven &amp; Jingwen	2nd	Opening Opposition	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Rintaro MoriⓉ
+MUST Ray &amp; Musky	1st	Opening Opposition	View Ballot	Judy JiⒸ , Siddharth Sumit RajwadeⓉ
+MUST Eunice &amp; Yeso	3rd	Opening Government	View Ballot	Judy JiⒸ , Siddharth Sumit RajwadeⓉ
+NCNU Yu Ting &amp; Wei Syuan	4th	Closing Government	View Ballot	Judy JiⒸ , Siddharth Sumit RajwadeⓉ
+CUHK Chloe &amp; India	2nd	Closing Opposition	View Ballot	Judy JiⒸ , Siddharth Sumit RajwadeⓉ
+CUHK Po Shing &amp; Maria	4th	Closing Opposition	View Ballot	Ricky JinⒸ , Alex Wang
+HKU Edward &amp; Arthur	1st	Opening Opposition	View Ballot	Ricky JinⒸ , Alex Wang
+TOKYO Riho &amp; Takeshi	2nd	Closing Government	View Ballot	Ricky JinⒸ , Alex Wang
+YUU Yelin &amp; Hakyung	3rd	Opening Government	View Ballot	Ricky JinⒸ , Alex Wang
+GZHU Rachel &amp; Wendy	2nd	Opening Government	View Ballot	Senran TaoⒸ , Millie ShaoⓉ
+CUHK SZ Xinyi &amp; Yichi	4th	Closing Government	View Ballot	Senran TaoⒸ , Millie ShaoⓉ
+BISHZ Annie &amp; Lucas	3rd	Opening Opposition	View Ballot	Senran TaoⒸ , Millie ShaoⓉ
+BKBIS Jason &amp; Ravipat	1st	Closing Opposition	View Ballot	Senran TaoⒸ , Millie ShaoⓉ
+GDUFS Jinhang &amp; Mengfan	1st	Opening Opposition	View Ballot	Wonjae LeeⒸ , Rui QinⓉ
+MUST Oliver &amp; Erin	2nd	Opening Government	View Ballot	Wonjae LeeⒸ , Rui QinⓉ
+HZBIS Ted &amp; Jason	4th	Closing Government	View Ballot	Wonjae LeeⒸ , Rui QinⓉ
+WHBC Jinze &amp; Wan Tim	3rd	Closing Opposition	View Ballot	Wonjae LeeⒸ , Rui QinⓉ
+NTU Alastor &amp; Stacy	4th	Closing Opposition	View Ballot	Isabella FreelandⒸ , Cici Liu
+SUFE Qiyang &amp; Yutong	2nd	Closing Government	View Ballot	Isabella FreelandⒸ , Cici Liu
+SEOUL Dohyun &amp; Haeju	1st	Opening Government	View Ballot	Isabella FreelandⒸ , Cici Liu
+BFSU Haihan &amp; Zhijin	3rd	Opening Opposition	View Ballot	Isabella FreelandⒸ , Cici Liu
+NEUQ Yuchong &amp; Yijie	3rd	Opening Government	View Ballot	Ray WangⒸ , Ann Zhang
+SYSU Serena &amp; Ruyi	2nd	Closing Government	View Ballot	Ray WangⒸ , Ann Zhang
+HKU Cailing &amp; Mahir	1st	Opening Opposition	View Ballot	Ray WangⒸ , Ann Zhang
+BFSU Jialu &amp; Qihan	4th	Closing Opposition	View Ballot	Ray WangⒸ , Ann Zhang
+NEUQ Shun &amp; Anqi	3rd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Amanda MaⓉ
+PEKING Taotao &amp; Cho Ying	1st	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Amanda MaⓉ
+DAE Minseo &amp; Fatin Alya	2nd	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Amanda MaⓉ
+LAFLE Jiayi &amp; Zhujun	4th	Opening Government	View Ballot	Jonathan TuliaoⒸ , Amanda MaⓉ
+MUST Richelle &amp; Tina	1st	Closing Government	View Ballot	Daud HernoudⒸ , Hok Yiu ChungⓉ
+MUST Blues &amp; Amidy	4th	Closing Opposition	View Ballot	Daud HernoudⒸ , Hok Yiu ChungⓉ
+SUFE Ruohan &amp; Yue	2nd	Opening Government	View Ballot	Daud HernoudⒸ , Hok Yiu ChungⓉ
+BFSU Siyu &amp; Yijia	3rd	Opening Opposition	View Ballot	Daud HernoudⒸ , Hok Yiu ChungⓉ
+CUHK Joshua &amp; Chantal	1st	Closing Government	View Ballot	Jenny LiⒸ , Zeaf HuⓉ
+BFSU Ketian &amp; Zhuoran	3rd	Opening Government	View Ballot	Jenny LiⒸ , Zeaf HuⓉ
+TSUKUBA. Hinano &amp; Yuki	4th	Closing Opposition	View Ballot	Jenny LiⒸ , Zeaf HuⓉ
+HTBIS Yulin &amp; Zixuan	2nd	Opening Opposition	View Ballot	Jenny LiⒸ , Zeaf HuⓉ
+PKUSZ Chenxi &amp; Sihan	2nd	Opening Government	View Ballot	Klaus XiaoⒸ , Pengbo WangⓉ
+SYSU Yu &amp; Yuqing	3rd	Closing Government	View Ballot	Klaus XiaoⒸ , Pengbo WangⓉ
+UM Shuairong &amp; Michael	1st	Opening Opposition	View Ballot	Klaus XiaoⒸ , Pengbo WangⓉ
+LAFLE Mei &amp; Shaonan	4th	Closing Opposition	View Ballot	Klaus XiaoⒸ , Pengbo WangⓉ
+MUST Cristina &amp; Sissi	2nd	Closing Government	View Ballot	Ooi Hon SonⒸ , Julia HuynhⓉ
+NCCU Chen &amp; Lee	4th	Closing Opposition	View Ballot	Ooi Hon SonⒸ , Julia HuynhⓉ
+LAFLE Dao &amp; Shuai	3rd	Opening Government	View Ballot	Ooi Hon SonⒸ , Julia HuynhⓉ
+GZSZ Junjia &amp; BELLA	1st	Opening Opposition	View Ballot	Ooi Hon SonⒸ , Julia HuynhⓉ
+ICU Wang &amp; Mitsuki	3rd	Closing Opposition	View Ballot	Dylan SalcedoⒸ , Eloise Liu , Benjamin EvaldⓉ
+NTU Laurie &amp; Porter	2nd	Opening Opposition	View Ballot	Dylan SalcedoⒸ , Eloise Liu , Benjamin EvaldⓉ
+YUU So Jin &amp; Duc-Toan	1st	Opening Government	View Ballot	Dylan SalcedoⒸ , Eloise Liu , Benjamin EvaldⓉ
+SZBIS Kwok Pong &amp; Zuheng	4th	Closing Government	View Ballot	Dylan SalcedoⒸ , Eloise Liu , Benjamin EvaldⓉ
+SUFE Yufei &amp; Baoqi	3rd	Closing Government	View Ballot	Chris HungⒸ , Xie ShupeiⓉ
+CUHK Pitchapa &amp; Zhi Hao	2nd	Opening Opposition	View Ballot	Chris HungⒸ , Xie ShupeiⓉ
+HKU Sarah &amp; Hannah	1st	Opening Government	View Ballot	Chris HungⒸ , Xie ShupeiⓉ
+YSU Betty &amp; Ivy	4th	Closing Opposition	View Ballot	Chris HungⒸ , Xie ShupeiⓉ
+KUDC Naama &amp; Dabin	2nd	Opening Opposition	View Ballot	Daisy SunⒸ , Lan YangⓉ
+CUHK Kwan Chun &amp; Charles	1st	Closing Opposition	View Ballot	Daisy SunⒸ , Lan YangⓉ
+UM Un Hin &amp; Grace	3rd	Opening Government	View Ballot	Daisy SunⒸ , Lan YangⓉ
+SCSE Emily &amp; Edison	4th	Closing Government	View Ballot	Daisy SunⒸ , Lan YangⓉ
+MUST Eyedi &amp; Sophie	1st	Opening Opposition	View Ballot	Tetsushi KajiharaⒸ , Thomas FarrellⓉ
+SISU Mingyang &amp; Yuwei	2nd	Closing Opposition	View Ballot	Tetsushi KajiharaⒸ , Thomas FarrellⓉ
+CUHK SZ Jingjing &amp; Diao	3rd	Closing Government	View Ballot	Tetsushi KajiharaⒸ , Thomas FarrellⓉ
+NVIS William &amp; Marco	4th	Opening Government	View Ballot	Tetsushi KajiharaⒸ , Thomas FarrellⓉ
+SUFE Lerong &amp; Zhangyang	1st	Opening Opposition	View Ballot	Ryosei KobayashiⒸ , Aria CaiⓉ
+CUHK Chloe &amp; Sze Tung	4th	Closing Government	View Ballot	Ryosei KobayashiⒸ , Aria CaiⓉ
+TSUKUBA. Yuichiro &amp; Haruto	3rd	Opening Government	View Ballot	Ryosei KobayashiⒸ , Aria CaiⓉ
+ACCH Zhihe &amp; Jimmy	2nd	Closing Opposition	View Ballot	Ryosei KobayashiⒸ , Aria CaiⓉ
+NCCU Yu-Shan &amp; Speaker	3rd	Closing Opposition	View Ballot	Ralph LeeⒸ , Andrius Budiono , Hesper HuangⓉ
+PEKING Shi &amp; Kuntai	1st	Opening Government	View Ballot	Ralph LeeⒸ , Andrius Budiono , Hesper HuangⓉ
+XJTLU Yuhan &amp; Xinghao	4th	Closing Government	View Ballot	Ralph LeeⒸ , Andrius Budiono , Hesper HuangⓉ
+ACMG Wang &amp; Yunhan	2nd	Opening Opposition	View Ballot	Ralph LeeⒸ , Andrius Budiono , Hesper HuangⓉ
+GDUFS Changchu &amp; Jiaying	4th	Closing Opposition	View Ballot	Youngwoo ParkⒸ , Polina Zurjari-OssipovaⓉ
+RENMIN Joyce &amp; Nyx	1st	Closing Government	View Ballot	Youngwoo ParkⒸ , Polina Zurjari-OssipovaⓉ
+STU Lanyu &amp; Zipeng	2nd	Opening Opposition	View Ballot	Youngwoo ParkⒸ , Polina Zurjari-OssipovaⓉ
+LAFLE Zihan &amp; Changze	3rd	Opening Government	View Ballot	Youngwoo ParkⒸ , Polina Zurjari-OssipovaⓉ
+
+
+team	result	side	ballot	adjudicators
+KUDC Weon Bin &amp; Suhyun	1st	Closing Opposition	View Ballot	Ryosei KobayashiⒸ , Felicia Deng , Lan YangⓉ
+SUFE Qiyang &amp; Yutong	4th	Opening Government	View Ballot	Ryosei KobayashiⒸ , Felicia Deng , Lan YangⓉ
+SYSU Serena &amp; Ruyi	2nd	Opening Opposition	View Ballot	Ryosei KobayashiⒸ , Felicia Deng , Lan YangⓉ
+YUU So Jin &amp; Duc-Toan	3rd	Closing Government	View Ballot	Ryosei KobayashiⒸ , Felicia Deng , Lan YangⓉ
+CUHK Joshua &amp; Chantal	3rd	Opening Opposition	View Ballot	Youngwoo ParkⒸ , Eloise Liu
+TOKYO Riho &amp; Takeshi	1st	Closing Opposition	View Ballot	Youngwoo ParkⒸ , Eloise Liu
+YUU Minchang &amp; Joon Seo	2nd	Opening Government	View Ballot	Youngwoo ParkⒸ , Eloise Liu
+Jeven &amp; Jingwen	4th	Closing Government	View Ballot	Youngwoo ParkⒸ , Eloise Liu
+SISU Mingyang &amp; Yuwei	1st	Opening Opposition	View Ballot	Wonjae LeeⒸ , Ralph Lee
+CUHK Chloe &amp; Sze Tung	2nd	Opening Government	View Ballot	Wonjae LeeⒸ , Ralph Lee
+DAE Minseo &amp; Fatin Alya	3rd	Closing Government	View Ballot	Wonjae LeeⒸ , Ralph Lee
+BFSU Siyu &amp; Yijia	4th	Closing Opposition	View Ballot	Wonjae LeeⒸ , Ralph Lee
+CUHK Po Shing &amp; Maria	2nd	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Tetsushi Kajihara
+BFSU Ketian &amp; Zhuoran	3rd	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Tetsushi Kajihara
+SWSI Rachel &amp; Crystal	1st	Closing Government	View Ballot	Sunghyun ParkⒸ , Tetsushi Kajihara
+WHBC Jinze &amp; Wan Tim	4th	Opening Government	View Ballot	Sunghyun ParkⒸ , Tetsushi Kajihara
+MUST Oliver &amp; Erin	3rd	Closing Government	View Ballot	Ooi Hon SonⒸ , Cici Liu
+MUST Eunice &amp; Yeso	4th	Opening Opposition	View Ballot	Ooi Hon SonⒸ , Cici Liu
+PEKING Taotao &amp; Cho Ying	2nd	Closing Opposition	View Ballot	Ooi Hon SonⒸ , Cici Liu
+BFSU Jialu &amp; Qihan	1st	Opening Government	View Ballot	Ooi Hon SonⒸ , Cici Liu
+KUDC Naama &amp; Dabin	1st	Closing Government	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Thomas FarrellⓉ
+MUST Richelle &amp; Tina	3rd	Opening Government	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Thomas FarrellⓉ
+SCNU Karena &amp; Melody	4th	Closing Opposition	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Thomas FarrellⓉ
+YUU Yelin &amp; Hakyung	2nd	Opening Opposition	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Thomas FarrellⓉ
+ICU Wang &amp; Mitsuki	3rd	Opening Government	View Ballot	Isabella FreelandⒸ , Pengbo WangⓉ
+OSAKA Yuta &amp; Minami	1st	Opening Opposition	View Ballot	Isabella FreelandⒸ , Pengbo WangⓉ
+RENMIN Wong &amp; Feiduo	4th	Closing Opposition	View Ballot	Isabella FreelandⒸ , Pengbo WangⓉ
+HKU Cailing &amp; Mahir	2nd	Closing Government	View Ballot	Isabella FreelandⒸ , Pengbo WangⓉ
+CITYU Wong &amp; Chung	3rd	Opening Government	View Ballot	Daisy SunⒸ , Siddharth Sumit RajwadeⓉ
+GDUFS Changchu &amp; Jiaying	4th	Closing Government	View Ballot	Daisy SunⒸ , Siddharth Sumit RajwadeⓉ
+GZHU Rachel &amp; Wendy	2nd	Closing Opposition	View Ballot	Daisy SunⒸ , Siddharth Sumit RajwadeⓉ
+PKUSZ Chenxi &amp; Sihan	1st	Opening Opposition	View Ballot	Daisy SunⒸ , Siddharth Sumit RajwadeⓉ
+GDUFS Zhou &amp; Deng	3rd	Opening Government	View Ballot	Judy JiⒸ , Benjamin Evald
+MUST Eyedi &amp; Sophie	1st	Closing Opposition	View Ballot	Judy JiⒸ , Benjamin Evald
+ZJISU Valentina &amp; Jocelyn	4th	Opening Opposition	View Ballot	Judy JiⒸ , Benjamin Evald
+BFSU Haihan &amp; Zhijin	2nd	Closing Government	View Ballot	Judy JiⒸ , Benjamin Evald
+RENMIN Joyce &amp; Nyx	4th	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Ann Zhang
+HKU Edward &amp; Arthur	3rd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Ann Zhang
+UM Donner &amp; Kai	2nd	Opening Government	View Ballot	Jonathan TuliaoⒸ , Ann Zhang
+SEOUL Dohyun &amp; Haeju	1st	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Ann Zhang
+NCCU Chen &amp; Lee	3rd	Opening Opposition	View Ballot	Andrius BudionoⒸ , Rintaro MoriⓉ
+CUHK SZ Xinyi &amp; Yichi	1st	Opening Government	View Ballot	Andrius BudionoⒸ , Rintaro MoriⓉ
+YSU Betty &amp; Ivy	2nd	Closing Government	View Ballot	Andrius BudionoⒸ , Rintaro MoriⓉ
+NVIS William &amp; Marco	4th	Closing Opposition	View Ballot	Andrius BudionoⒸ , Rintaro MoriⓉ
+MUST Cristina &amp; Sissi	4th	Opening Opposition	View Ballot	Chris HungⒸ , Dahyun Yoon
+CUHK Chloe &amp; India	1st	Opening Government	View Ballot	Chris HungⒸ , Dahyun Yoon
+UM Shuairong &amp; Michael	2nd	Closing Opposition	View Ballot	Chris HungⒸ , Dahyun Yoon
+GZSZ Junjia &amp; BELLA	3rd	Closing Government	View Ballot	Chris HungⒸ , Dahyun Yoon
+MUST Blues &amp; Amidy	4th	Opening Government	View Ballot	Senran TaoⒸ , Julia HuynhⓉ
+NCNU Yu Ting &amp; Wei Syuan	1st	Closing Opposition	View Ballot	Senran TaoⒸ , Julia HuynhⓉ
+SYSU Yu &amp; Yuqing	2nd	Opening Opposition	View Ballot	Senran TaoⒸ , Julia HuynhⓉ
+LAFLE Mei &amp; Shaonan	3rd	Closing Government	View Ballot	Senran TaoⒸ , Julia HuynhⓉ
+NEUQ Shun &amp; Anqi	1st	Opening Government	View Ballot	Daud HernoudⒸ , Rui QinⓉ
+XJTLU Yuhan &amp; Xinghao	3rd	Opening Opposition	View Ballot	Daud HernoudⒸ , Rui QinⓉ
+LAFLE Dao &amp; Shuai	4th	Closing Opposition	View Ballot	Daud HernoudⒸ , Rui QinⓉ
+BISHZ Annie &amp; Lucas	2nd	Closing Government	View Ballot	Daud HernoudⒸ , Rui QinⓉ
+BEIHANG Chenqian &amp; Essam	4th	Opening Opposition	View Ballot	Ray WangⒸ , Hesper Huang
+NTU Laurie &amp; Porter	3rd	Closing Opposition	View Ballot	Ray WangⒸ , Hesper Huang
+SUFE Lerong &amp; Zhangyang	1st	Opening Government	View Ballot	Ray WangⒸ , Hesper Huang
+CUHK Kwan Chun &amp; Charles	2nd	Closing Government	View Ballot	Ray WangⒸ , Hesper Huang
+MUST Ray &amp; Musky	1st	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Hok Yiu ChungⓉ
+STU Lanyu &amp; Zipeng	3rd	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Hok Yiu ChungⓉ
+HKU Sarah &amp; Hannah	2nd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Hok Yiu ChungⓉ
+HTBIS Yulin &amp; Zixuan	4th	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Hok Yiu ChungⓉ
+GDUFS Jinhang &amp; Mengfan	2nd	Closing Government	View Ballot	Jenny LiⒸ , Aria CaiⓉ
+NEUQ Yuchong &amp; Yijie	4th	Closing Opposition	View Ballot	Jenny LiⒸ , Aria CaiⓉ
+PEKING Shi &amp; Kuntai	3rd	Opening Opposition	View Ballot	Jenny LiⒸ , Aria CaiⓉ
+ACMG Wang &amp; Yunhan	1st	Opening Government	View Ballot	Jenny LiⒸ , Aria CaiⓉ
+CUHK Pitchapa &amp; Zhi Hao	1st	Opening Government	View Ballot	Ricky JinⒸ , Zeaf Hu
+UM Un Hin &amp; Grace	4th	Closing Government	View Ballot	Ricky JinⒸ , Zeaf Hu
+TSUKUBA. Yuichiro &amp; Haruto	2nd	Opening Opposition	View Ballot	Ricky JinⒸ , Zeaf Hu
+SZBIS Kwok Pong &amp; Zuheng	3rd	Closing Opposition	View Ballot	Ricky JinⒸ , Zeaf Hu
+SUFE Ruohan &amp; Yue	2nd	Opening Opposition	View Ballot	Klaus XiaoⒸ , Xie Shupei
+CUHK SZ Jingjing &amp; Diao	4th	Closing Opposition	View Ballot	Klaus XiaoⒸ , Xie Shupei
+ACCH Zhihe &amp; Jimmy	1st	Opening Government	View Ballot	Klaus XiaoⒸ , Xie Shupei
+BKBIS Jason &amp; Ravipat	3rd	Closing Government	View Ballot	Klaus XiaoⒸ , Xie Shupei
+NCCU Yu-Shan &amp; Speaker	4th	Opening Government	View Ballot	Dylan SalcedoⒸ , Polina Zurjari-OssipovaⓉ
+NTU Alastor &amp; Stacy	2nd	Opening Opposition	View Ballot	Dylan SalcedoⒸ , Polina Zurjari-OssipovaⓉ
+SUFE Yufei &amp; Baoqi	3rd	Closing Opposition	View Ballot	Dylan SalcedoⒸ , Polina Zurjari-OssipovaⓉ
+TSUKUBA. Hinano &amp; Yuki	1st	Closing Government	View Ballot	Dylan SalcedoⒸ , Polina Zurjari-OssipovaⓉ
+SCSE Emily &amp; Edison	1st	Opening Opposition	View Ballot	Alex WangⒸ , Millie Shao
+LAFLE Zihan &amp; Changze	4th	Closing Government	View Ballot	Alex WangⒸ , Millie Shao
+LAFLE Jiayi &amp; Zhujun	3rd	Closing Opposition	View Ballot	Alex WangⒸ , Millie Shao
+HZBIS Ted &amp; Jason	2nd	Opening Government	View Ballot	Alex WangⒸ , Millie Shao
+
+
+team	result	side	ballot	adjudicators
+SISU Mingyang &amp; Yuwei	4th	Closing Government	View Ballot	Daud HernoudⒸ
+CUHK Joshua &amp; Chantal	3rd	Opening Government	View Ballot	Daud HernoudⒸ
+HKU Sarah &amp; Hannah	2nd	Opening Opposition	View Ballot	Daud HernoudⒸ
+SWSI Rachel &amp; Crystal	1st	Closing Opposition	View Ballot	Daud HernoudⒸ
+GZHU Rachel &amp; Wendy	3rd	Opening Opposition	View Ballot	Andrius BudionoⒸ
+NTU Alastor &amp; Stacy	2nd	Opening Government	View Ballot	Andrius BudionoⒸ
+BFSU Ketian &amp; Zhuoran	1st	Closing Government	View Ballot	Andrius BudionoⒸ
+BISHZ Annie &amp; Lucas	4th	Closing Opposition	View Ballot	Andrius BudionoⒸ
+SCSE Emily &amp; Edison	4th	Closing Opposition	View Ballot	Ooi Hon SonⒸ , Aria CaiⓉ
+HTBIS Yulin &amp; Zixuan	2nd	Closing Government	View Ballot	Ooi Hon SonⒸ , Aria CaiⓉ
+SZBIS Kwok Pong &amp; Zuheng	3rd	Opening Government	View Ballot	Ooi Hon SonⒸ , Aria CaiⓉ
+BKBIS Jason &amp; Ravipat	1st	Opening Opposition	View Ballot	Ooi Hon SonⒸ , Aria CaiⓉ
+NEUQ Shun &amp; Anqi	3rd	Opening Opposition	View Ballot	Daisy SunⒸ , Thomas FarrellⓉ
+PEKING Taotao &amp; Cho Ying	4th	Opening Government	View Ballot	Daisy SunⒸ , Thomas FarrellⓉ
+PEKING Shi &amp; Kuntai	2nd	Closing Government	View Ballot	Daisy SunⒸ , Thomas FarrellⓉ
+Jeven &amp; Jingwen	1st	Closing Opposition	View Ballot	Daisy SunⒸ , Thomas FarrellⓉ
+CITYU Wong &amp; Chung	1st	Closing Government	View Ballot	Dahyun YoonⒸ , Zeaf Hu
+CUHK SZ Jingjing &amp; Diao	4th	Opening Opposition	View Ballot	Dahyun YoonⒸ , Zeaf Hu
+BFSU Siyu &amp; Yijia	3rd	Opening Government	View Ballot	Dahyun YoonⒸ , Zeaf Hu
+HZBIS Ted &amp; Jason	2nd	Closing Opposition	View Ballot	Dahyun YoonⒸ , Zeaf Hu
+MUST Ray &amp; Musky	3rd	Opening Government	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Rui QinⓉ
+CUHK Pitchapa &amp; Zhi Hao	1st	Closing Government	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Rui QinⓉ
+HKU Cailing &amp; Mahir	2nd	Closing Opposition	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Rui QinⓉ
+YUU So Jin &amp; Duc-Toan	4th	Opening Opposition	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Rui QinⓉ
+MUST Eyedi &amp; Sophie	4th	Closing Government	View Ballot	Ryosei KobayashiⒸ , Polina Zurjari-OssipovaⓉ
+CUHK Kwan Chun &amp; Charles	2nd	Opening Government	View Ballot	Ryosei KobayashiⒸ , Polina Zurjari-OssipovaⓉ
+HKU Edward &amp; Arthur	3rd	Closing Opposition	View Ballot	Ryosei KobayashiⒸ , Polina Zurjari-OssipovaⓉ
+YUU Minchang &amp; Joon Seo	1st	Opening Opposition	View Ballot	Ryosei KobayashiⒸ , Polina Zurjari-OssipovaⓉ
+MUST Richelle &amp; Tina	4th	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Rintaro MoriⓉ
+PKUSZ Chenxi &amp; Sihan	2nd	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Rintaro MoriⓉ
+BFSU Haihan &amp; Zhijin	3rd	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Rintaro MoriⓉ
+TSUKUBA. Hinano &amp; Yuki	1st	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Rintaro MoriⓉ
+NCCU Yu-Shan &amp; Speaker	1st	Closing Opposition	View Ballot	Ann ZhangⒸ , Pengbo WangⓉ
+NCCU Chen &amp; Lee	2nd	Opening Government	View Ballot	Ann ZhangⒸ , Pengbo WangⓉ
+LAFLE Jiayi &amp; Zhujun	4th	Opening Opposition	View Ballot	Ann ZhangⒸ , Pengbo WangⓉ
+WHBC Jinze &amp; Wan Tim	3rd	Closing Government	View Ballot	Ann ZhangⒸ , Pengbo WangⓉ
+SUFE Ruohan &amp; Yue	3rd	Closing Opposition	View Ballot	Jonathan TuliaoⒸ
+STU Lanyu &amp; Zipeng	2nd	Opening Opposition	View Ballot	Jonathan TuliaoⒸ
+UM Shuairong &amp; Michael	1st	Opening Government	View Ballot	Jonathan TuliaoⒸ
+TSUKUBA. Yuichiro &amp; Haruto	4th	Closing Government	View Ballot	Jonathan TuliaoⒸ
+KUDC Naama &amp; Dabin	3rd	Opening Government	View Ballot	Dylan SalcedoⒸ , Chris Hung
+OSAKA Yuta &amp; Minami	1st	Closing Government	View Ballot	Dylan SalcedoⒸ , Chris Hung
+SYSU Serena &amp; Ruyi	4th	Closing Opposition	View Ballot	Dylan SalcedoⒸ , Chris Hung
+UM Donner &amp; Kai	2nd	Opening Opposition	View Ballot	Dylan SalcedoⒸ , Chris Hung
+GDUFS Jinhang &amp; Mengfan	2nd	Opening Government	View Ballot	Ricky JinⒸ
+CUHK Chloe &amp; India	1st	Opening Opposition	View Ballot	Ricky JinⒸ
+BFSU Jialu &amp; Qihan	3rd	Closing Government	View Ballot	Ricky JinⒸ
+ACMG Wang &amp; Yunhan	4th	Closing Opposition	View Ballot	Ricky JinⒸ
+GDUFS Zhou &amp; Deng	2nd	Closing Government	View Ballot	Senran TaoⒸ , Eloise Liu
+SCNU Karena &amp; Melody	1st	Opening Government	View Ballot	Senran TaoⒸ , Eloise Liu
+CUHK Chloe &amp; Sze Tung	3rd	Opening Opposition	View Ballot	Senran TaoⒸ , Eloise Liu
+GZSZ Junjia &amp; BELLA	4th	Closing Opposition	View Ballot	Senran TaoⒸ , Eloise Liu
+SUFE Yufei &amp; Baoqi	1st	Closing Government	View Ballot	Alex WangⒸ , Jenny Li , Hesper HuangⓉ
+SYSU Yu &amp; Yuqing	3rd	Closing Opposition	View Ballot	Alex WangⒸ , Jenny Li , Hesper HuangⓉ
+ZJISU Valentina &amp; Jocelyn	4th	Opening Government	View Ballot	Alex WangⒸ , Jenny Li , Hesper HuangⓉ
+DAE Minseo &amp; Fatin Alya	2nd	Opening Opposition	View Ballot	Alex WangⒸ , Jenny Li , Hesper HuangⓉ
+KUDC Weon Bin &amp; Suhyun	1st	Closing Government	View Ballot	Wonjae LeeⒸ , Tetsushi Kajihara
+SUFE Lerong &amp; Zhangyang	3rd	Closing Opposition	View Ballot	Wonjae LeeⒸ , Tetsushi Kajihara
+TOKYO Riho &amp; Takeshi	2nd	Opening Government	View Ballot	Wonjae LeeⒸ , Tetsushi Kajihara
+SEOUL Dohyun &amp; Haeju	4th	Opening Opposition	View Ballot	Wonjae LeeⒸ , Tetsushi Kajihara
+GDUFS Changchu &amp; Jiaying	2nd	Opening Government	View Ballot	Sunghyun ParkⒸ , Benjamin Evald , Julia HuynhⓉ
+MUST Eunice &amp; Yeso	4th	Closing Government	View Ballot	Sunghyun ParkⒸ , Benjamin Evald , Julia HuynhⓉ
+CUHK SZ Xinyi &amp; Yichi	1st	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Benjamin Evald , Julia HuynhⓉ
+UM Un Hin &amp; Grace	3rd	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Benjamin Evald , Julia HuynhⓉ
+MUST Oliver &amp; Erin	4th	Closing Opposition	View Ballot	Klaus XiaoⒸ , Millie Shao
+NCNU Yu Ting &amp; Wei Syuan	2nd	Opening Opposition	View Ballot	Klaus XiaoⒸ , Millie Shao
+NEUQ Yuchong &amp; Yijie	3rd	Closing Government	View Ballot	Klaus XiaoⒸ , Millie Shao
+RENMIN Wong &amp; Feiduo	1st	Opening Government	View Ballot	Klaus XiaoⒸ , Millie Shao
+ICU Wang &amp; Mitsuki	1st	Opening Opposition	View Ballot	Ray WangⒸ , Siddharth Sumit Rajwade
+RENMIN Joyce &amp; Nyx	4th	Opening Government	View Ballot	Ray WangⒸ , Siddharth Sumit Rajwade
+SUFE Qiyang &amp; Yutong	2nd	Closing Opposition	View Ballot	Ray WangⒸ , Siddharth Sumit Rajwade
+CUHK Po Shing &amp; Maria	3rd	Closing Government	View Ballot	Ray WangⒸ , Siddharth Sumit Rajwade
+BEIHANG Chenqian &amp; Essam	4th	Closing Government	View Ballot	Judy JiⒸ , Hok Yiu Chung
+NTU Laurie &amp; Porter	1st	Opening Government	View Ballot	Judy JiⒸ , Hok Yiu Chung
+YUU Yelin &amp; Hakyung	2nd	Closing Opposition	View Ballot	Judy JiⒸ , Hok Yiu Chung
+ACCH Zhihe &amp; Jimmy	3rd	Opening Opposition	View Ballot	Judy JiⒸ , Hok Yiu Chung
+MUST Cristina &amp; Sissi	4th	Opening Government	View Ballot	Cici LiuⒸ , Youngwoo Park , Lan YangⓉ
+MUST Blues &amp; Amidy	3rd	Closing Government	View Ballot	Cici LiuⒸ , Youngwoo Park , Lan YangⓉ
+XJTLU Yuhan &amp; Xinghao	2nd	Closing Opposition	View Ballot	Cici LiuⒸ , Youngwoo Park , Lan YangⓉ
+YSU Betty &amp; Ivy	1st	Opening Opposition	View Ballot	Cici LiuⒸ , Youngwoo Park , Lan YangⓉ
+LAFLE Dao &amp; Shuai	2nd	Opening Government	View Ballot	Ralph LeeⒸ , Felicia Deng
+LAFLE Zihan &amp; Changze	4th	Closing Opposition	View Ballot	Ralph LeeⒸ , Felicia Deng
+NVIS William &amp; Marco	1st	Closing Government	View Ballot	Ralph LeeⒸ , Felicia Deng
+LAFLE Mei &amp; Shaonan	3rd	Opening Opposition	View Ballot	Ralph LeeⒸ , Felicia Deng
+
+
+team	result	side	ballot	adjudicators
+MUST Eyedi &amp; Sophie	2nd	Opening Opposition	View Ballot	Wonjae LeeⒸ , Ray Wang
+SUFE Ruohan &amp; Yue	4th	Closing Opposition	View Ballot	Wonjae LeeⒸ , Ray Wang
+CUHK SZ Xinyi &amp; Yichi	3rd	Closing Government	View Ballot	Wonjae LeeⒸ , Ray Wang
+BFSU Haihan &amp; Zhijin	1st	Opening Government	View Ballot	Wonjae LeeⒸ , Ray Wang
+MUST Oliver &amp; Erin	3rd	Opening Government	View Ballot	Dylan SalcedoⒸ , Thomas FarrellⓉ
+SYSU Yu &amp; Yuqing	2nd	Closing Opposition	View Ballot	Dylan SalcedoⒸ , Thomas FarrellⓉ
+GZSZ Junjia &amp; BELLA	1st	Opening Opposition	View Ballot	Dylan SalcedoⒸ , Thomas FarrellⓉ
+WHBC Jinze &amp; Wan Tim	4th	Closing Government	View Ballot	Dylan SalcedoⒸ , Thomas FarrellⓉ
+SCNU Karena &amp; Melody	3rd	Opening Government	View Ballot	Daisy SunⒸ , Hok Yiu Chung , Polina Zurjari-OssipovaⓉ
+SYSU Serena &amp; Ruyi	4th	Closing Government	View Ballot	Daisy SunⒸ , Hok Yiu Chung , Polina Zurjari-OssipovaⓉ
+BFSU Ketian &amp; Zhuoran	1st	Opening Opposition	View Ballot	Daisy SunⒸ , Hok Yiu Chung , Polina Zurjari-OssipovaⓉ
+BKBIS Jason &amp; Ravipat	2nd	Closing Opposition	View Ballot	Daisy SunⒸ , Hok Yiu Chung , Polina Zurjari-OssipovaⓉ
+STU Lanyu &amp; Zipeng	2nd	Closing Government	View Ballot	Ooi Hon SonⒸ , Lan YangⓉ
+HKU Edward &amp; Arthur	1st	Closing Opposition	View Ballot	Ooi Hon SonⒸ , Lan YangⓉ
+UM Shuairong &amp; Michael	4th	Opening Opposition	View Ballot	Ooi Hon SonⒸ , Lan YangⓉ
+YUU Yelin &amp; Hakyung	3rd	Opening Government	View Ballot	Ooi Hon SonⒸ , Lan YangⓉ
+GZHU Rachel &amp; Wendy	1st	Opening Opposition	View Ballot	Judy JiⒸ , Felicia Deng , Hesper HuangⓉ
+NEUQ Yuchong &amp; Yijie	4th	Closing Government	View Ballot	Judy JiⒸ , Felicia Deng , Hesper HuangⓉ
+SISU Mingyang &amp; Yuwei	2nd	Closing Opposition	View Ballot	Judy JiⒸ , Felicia Deng , Hesper HuangⓉ
+SZBIS Kwok Pong &amp; Zuheng	3rd	Opening Government	View Ballot	Judy JiⒸ , Felicia Deng , Hesper HuangⓉ
+CITYU Wong &amp; Chung	4th	Closing Government	View Ballot	Daud HernoudⒸ , Eloise Liu
+NCNU Yu Ting &amp; Wei Syuan	3rd	Opening Opposition	View Ballot	Daud HernoudⒸ , Eloise Liu
+NTU Alastor &amp; Stacy	1st	Closing Opposition	View Ballot	Daud HernoudⒸ , Eloise Liu
+ACMG Wang &amp; Yunhan	2nd	Opening Government	View Ballot	Daud HernoudⒸ , Eloise Liu
+NEUQ Shun &amp; Anqi	2nd	Closing Opposition	View Ballot	Alex WangⒸ , Pengbo Wang , Julia HuynhⓉ
+PEKING Taotao &amp; Cho Ying	4th	Opening Government	View Ballot	Alex WangⒸ , Pengbo Wang , Julia HuynhⓉ
+YSU Betty &amp; Ivy	3rd	Closing Government	View Ballot	Alex WangⒸ , Pengbo Wang , Julia HuynhⓉ
+TSUKUBA. Yuichiro &amp; Haruto	1st	Opening Opposition	View Ballot	Alex WangⒸ , Pengbo Wang , Julia HuynhⓉ
+KUDC Naama &amp; Dabin	4th	Opening Government	View Ballot	Senran TaoⒸ , Ryosei Kobayashi
+ICU Wang &amp; Mitsuki	2nd	Closing Government	View Ballot	Senran TaoⒸ , Ryosei Kobayashi
+CUHK Pitchapa &amp; Zhi Hao	1st	Closing Opposition	View Ballot	Senran TaoⒸ , Ryosei Kobayashi
+Jeven &amp; Jingwen	3rd	Opening Opposition	View Ballot	Senran TaoⒸ , Ryosei Kobayashi
+BEIHANG Chenqian &amp; Essam	3rd	Opening Government	View Ballot	Tetsushi KajiharaⒸ
+GDUFS Changchu &amp; Jiaying	1st	Closing Government	View Ballot	Tetsushi KajiharaⒸ
+CUHK Chloe &amp; Sze Tung	2nd	Closing Opposition	View Ballot	Tetsushi KajiharaⒸ
+HZBIS Ted &amp; Jason	4th	Opening Opposition	View Ballot	Tetsushi KajiharaⒸ
+MUST Richelle &amp; Tina	3rd	Closing Opposition	View Ballot	Ricky JinⒸ , Cici Liu
+NCCU Yu-Shan &amp; Speaker	4th	Opening Opposition	View Ballot	Ricky JinⒸ , Cici Liu
+RENMIN Joyce &amp; Nyx	1st	Closing Government	View Ballot	Ricky JinⒸ , Cici Liu
+DAE Minseo &amp; Fatin Alya	2nd	Opening Government	View Ballot	Ricky JinⒸ , Cici Liu
+CUHK Chloe &amp; India	2nd	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Chris Hung
+CUHK Kwan Chun &amp; Charles	1st	Closing Government	View Ballot	Jonathan TuliaoⒸ , Chris Hung
+HKU Cailing &amp; Mahir	4th	Opening Government	View Ballot	Jonathan TuliaoⒸ , Chris Hung
+YUU Minchang &amp; Joon Seo	3rd	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Chris Hung
+NTU Laurie &amp; Porter	3rd	Opening Government	View Ballot	Youngwoo ParkⒸ , Siddharth Sumit Rajwade , Rui QinⓉ
+SUFE Lerong &amp; Zhangyang	4th	Closing Government	View Ballot	Youngwoo ParkⒸ , Siddharth Sumit Rajwade , Rui QinⓉ
+SEOUL Dohyun &amp; Haeju	2nd	Closing Opposition	View Ballot	Youngwoo ParkⒸ , Siddharth Sumit Rajwade , Rui QinⓉ
+SWSI Rachel &amp; Crystal	1st	Opening Opposition	View Ballot	Youngwoo ParkⒸ , Siddharth Sumit Rajwade , Rui QinⓉ
+RENMIN Wong &amp; Feiduo	4th	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Aria CaiⓉ
+SUFE Qiyang &amp; Yutong	1st	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Aria CaiⓉ
+CUHK Joshua &amp; Chantal	3rd	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Aria CaiⓉ
+BFSU Jialu &amp; Qihan	2nd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Aria CaiⓉ
+BFSU Siyu &amp; Yijia	1st	Closing Government	View Ballot	Ann ZhangⒸ , Benjamin Evald , Xie Shupei
+LAFLE Dao &amp; Shuai	2nd	Opening Opposition	View Ballot	Ann ZhangⒸ , Benjamin Evald , Xie Shupei
+NVIS William &amp; Marco	3rd	Closing Opposition	View Ballot	Ann ZhangⒸ , Benjamin Evald , Xie Shupei
+LAFLE Mei &amp; Shaonan	4th	Opening Government	View Ballot	Ann ZhangⒸ , Benjamin Evald , Xie Shupei
+MUST Eunice &amp; Yeso	4th	Opening Opposition	View Ballot	Ralph LeeⒸ
+NCCU Chen &amp; Lee	2nd	Opening Government	View Ballot	Ralph LeeⒸ
+CUHK SZ Jingjing &amp; Diao	3rd	Closing Opposition	View Ballot	Ralph LeeⒸ
+ZJISU Valentina &amp; Jocelyn	1st	Closing Government	View Ballot	Ralph LeeⒸ
+GDUFS Zhou &amp; Deng	4th	Opening Government	View Ballot	Klaus XiaoⒸ , Yuliana Maria Reyes Trinidad
+SUFE Yufei &amp; Baoqi	3rd	Opening Opposition	View Ballot	Klaus XiaoⒸ , Yuliana Maria Reyes Trinidad
+CUHK Po Shing &amp; Maria	1st	Closing Opposition	View Ballot	Klaus XiaoⒸ , Yuliana Maria Reyes Trinidad
+HTBIS Yulin &amp; Zixuan	2nd	Closing Government	View Ballot	Klaus XiaoⒸ , Yuliana Maria Reyes Trinidad
+UM Un Hin &amp; Grace	1st	Closing Government	View Ballot	Dahyun YoonⒸ , Rintaro MoriⓉ
+XJTLU Yuhan &amp; Xinghao	4th	Opening Government	View Ballot	Dahyun YoonⒸ , Rintaro MoriⓉ
+SCSE Emily &amp; Edison	2nd	Opening Opposition	View Ballot	Dahyun YoonⒸ , Rintaro MoriⓉ
+BISHZ Annie &amp; Lucas	3rd	Closing Opposition	View Ballot	Dahyun YoonⒸ , Rintaro MoriⓉ
+KUDC Weon Bin &amp; Suhyun	2nd	Closing Government	View Ballot	Jenny LiⒸ , Millie Shao
+OSAKA Yuta &amp; Minami	3rd	Opening Government	View Ballot	Jenny LiⒸ , Millie Shao
+UM Donner &amp; Kai	4th	Closing Opposition	View Ballot	Jenny LiⒸ , Millie Shao
+TOKYO Riho &amp; Takeshi	1st	Opening Opposition	View Ballot	Jenny LiⒸ , Millie Shao
+PEKING Shi &amp; Kuntai	4th	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Zeaf HuⓉ
+PKUSZ Chenxi &amp; Sihan	3rd	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Zeaf HuⓉ
+YUU So Jin &amp; Duc-Toan	1st	Opening Government	View Ballot	Sunghyun ParkⒸ , Zeaf HuⓉ
+ACCH Zhihe &amp; Jimmy	2nd	Closing Government	View Ballot	Sunghyun ParkⒸ , Zeaf HuⓉ
+GDUFS Jinhang &amp; Mengfan	4th	Opening Government	View Ballot	Isabella FreelandⒸ
+MUST Ray &amp; Musky	3rd	Opening Opposition	View Ballot	Isabella FreelandⒸ
+HKU Sarah &amp; Hannah	1st	Closing Opposition	View Ballot	Isabella FreelandⒸ
+TSUKUBA. Hinano &amp; Yuki	2nd	Closing Government	View Ballot	Isabella FreelandⒸ
+MUST Cristina &amp; Sissi	1st	Opening Opposition	View Ballot	Andrius BudionoⒸ
+MUST Blues &amp; Amidy	3rd	Closing Opposition	View Ballot	Andrius BudionoⒸ
+LAFLE Zihan &amp; Changze	2nd	Opening Government	View Ballot	Andrius BudionoⒸ
+LAFLE Jiayi &amp; Zhujun	4th	Closing Government	View Ballot	Andrius BudionoⒸ
+
+
+team	result	side	ballot	adjudicators
+PEKING Shi &amp; Kuntai	3rd	Opening Government	View Ballot	Jonathan TuliaoⒸ
+SYSU Serena &amp; Ruyi	2nd	Opening Opposition	View Ballot	Jonathan TuliaoⒸ
+GZSZ Junjia &amp; BELLA	4th	Closing Government	View Ballot	Jonathan TuliaoⒸ
+SZBIS Kwok Pong &amp; Zuheng	1st	Closing Opposition	View Ballot	Jonathan TuliaoⒸ
+NTU Alastor &amp; Stacy	1st	Opening Government	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Wonjae Lee
+NTU Laurie &amp; Porter	4th	Opening Opposition	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Wonjae Lee
+SUFE Qiyang &amp; Yutong	2nd	Closing Government	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Wonjae Lee
+BFSU Ketian &amp; Zhuoran	3rd	Closing Opposition	View Ballot	Yuliana Maria Reyes TrinidadⒸ , Wonjae Lee
+ICU Wang &amp; Mitsuki	3rd	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Ann Zhang
+YUU Yelin &amp; Hakyung	4th	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Ann Zhang
+YUU So Jin &amp; Duc-Toan	2nd	Closing Government	View Ballot	Sunghyun ParkⒸ , Ann Zhang
+TSUKUBA. Hinano &amp; Yuki	1st	Opening Government	View Ballot	Sunghyun ParkⒸ , Ann Zhang
+CUHK Chloe &amp; India	4th	Closing Opposition	View Ballot	Daisy SunⒸ
+HKU Sarah &amp; Hannah	1st	Opening Government	View Ballot	Daisy SunⒸ
+UM Donner &amp; Kai	2nd	Opening Opposition	View Ballot	Daisy SunⒸ
+YUU Minchang &amp; Joon Seo	3rd	Closing Government	View Ballot	Daisy SunⒸ
+GDUFS Changchu &amp; Jiaying	4th	Closing Opposition	View Ballot	Jenny LiⒸ , Dahyun Yoon
+NCNU Yu Ting &amp; Wei Syuan	3rd	Closing Government	View Ballot	Jenny LiⒸ , Dahyun Yoon
+RENMIN Wong &amp; Feiduo	1st	Opening Government	View Ballot	Jenny LiⒸ , Dahyun Yoon
+CUHK SZ Xinyi &amp; Yichi	2nd	Opening Opposition	View Ballot	Jenny LiⒸ , Dahyun Yoon
+NEUQ Shun &amp; Anqi	2nd	Opening Government	View Ballot	Ralph LeeⒸ , Hesper HuangⓉ
+SUFE Yufei &amp; Baoqi	4th	Closing Opposition	View Ballot	Ralph LeeⒸ , Hesper HuangⓉ
+CUHK Chloe &amp; Sze Tung	3rd	Closing Government	View Ballot	Ralph LeeⒸ , Hesper HuangⓉ
+UM Un Hin &amp; Grace	1st	Opening Opposition	View Ballot	Ralph LeeⒸ , Hesper HuangⓉ
+GZHU Rachel &amp; Wendy	4th	Opening Government	View Ballot	Youngwoo ParkⒸ , Ricky Jin
+KUDC Naama &amp; Dabin	2nd	Closing Government	View Ballot	Youngwoo ParkⒸ , Ricky Jin
+CUHK Joshua &amp; Chantal	1st	Closing Opposition	View Ballot	Youngwoo ParkⒸ , Ricky Jin
+DAE Minseo &amp; Fatin Alya	3rd	Opening Opposition	View Ballot	Youngwoo ParkⒸ , Ricky Jin
+SUFE Lerong &amp; Zhangyang	1st	Opening Opposition	View Ballot	Isabella FreelandⒸ , Daud Hernoud
+HKU Cailing &amp; Mahir	2nd	Closing Opposition	View Ballot	Isabella FreelandⒸ , Daud Hernoud
+BFSU Haihan &amp; Zhijin	3rd	Opening Government	View Ballot	Isabella FreelandⒸ , Daud Hernoud
+Jeven &amp; Jingwen	4th	Closing Government	View Ballot	Isabella FreelandⒸ , Daud Hernoud
+MUST Richelle &amp; Tina	1st	Closing Government	View Ballot	Senran TaoⒸ , Xie ShupeiⓉ
+SUFE Ruohan &amp; Yue	2nd	Opening Government	View Ballot	Senran TaoⒸ , Xie ShupeiⓉ
+SYSU Yu &amp; Yuqing	3rd	Opening Opposition	View Ballot	Senran TaoⒸ , Xie ShupeiⓉ
+ZJISU Valentina &amp; Jocelyn	4th	Closing Opposition	View Ballot	Senran TaoⒸ , Xie ShupeiⓉ
+MUST Eyedi &amp; Sophie	3rd	Closing Opposition	View Ballot	Ooi Hon SonⒸ , Tetsushi Kajihara
+SISU Mingyang &amp; Yuwei	1st	Opening Government	View Ballot	Ooi Hon SonⒸ , Tetsushi Kajihara
+SCNU Karena &amp; Melody	2nd	Closing Government	View Ballot	Ooi Hon SonⒸ , Tetsushi Kajihara
+ACMG Wang &amp; Yunhan	4th	Opening Opposition	View Ballot	Ooi Hon SonⒸ , Tetsushi Kajihara
+MUST Oliver &amp; Erin	1st	Opening Opposition	View Ballot	Cici LiuⒸ , Siddharth Sumit Rajwade , Lan YangⓉ
+PEKING Taotao &amp; Cho Ying	2nd	Closing Opposition	View Ballot	Cici LiuⒸ , Siddharth Sumit Rajwade , Lan YangⓉ
+NVIS William &amp; Marco	4th	Opening Government	View Ballot	Cici LiuⒸ , Siddharth Sumit Rajwade , Lan YangⓉ
+HZBIS Ted &amp; Jason	3rd	Closing Government	View Ballot	Cici LiuⒸ , Siddharth Sumit Rajwade , Lan YangⓉ
+OSAKA Yuta &amp; Minami	1st	Opening Opposition	View Ballot	Ryosei KobayashiⒸ
+CUHK Kwan Chun &amp; Charles	3rd	Closing Opposition	View Ballot	Ryosei KobayashiⒸ
+HKU Edward &amp; Arthur	4th	Opening Government	View Ballot	Ryosei KobayashiⒸ
+SEOUL Dohyun &amp; Haeju	2nd	Closing Government	View Ballot	Ryosei KobayashiⒸ
+MUST Blues &amp; Amidy	2nd	Opening Opposition	View Ballot	Benjamin EvaldⒸ , Rui QinⓉ
+MUST Eunice &amp; Yeso	1st	Closing Government	View Ballot	Benjamin EvaldⒸ , Rui QinⓉ
+LAFLE Jiayi &amp; Zhujun	4th	Opening Government	View Ballot	Benjamin EvaldⒸ , Rui QinⓉ
+LAFLE Mei &amp; Shaonan	3rd	Closing Opposition	View Ballot	Benjamin EvaldⒸ , Rui QinⓉ
+GDUFS Zhou &amp; Deng	1st	Opening Opposition	View Ballot	Dylan SalcedoⒸ , Zeaf Hu , Aria CaiⓉ
+YSU Betty &amp; Ivy	2nd	Opening Government	View Ballot	Dylan SalcedoⒸ , Zeaf Hu , Aria CaiⓉ
+SCSE Emily &amp; Edison	3rd	Closing Government	View Ballot	Dylan SalcedoⒸ , Zeaf Hu , Aria CaiⓉ
+LAFLE Dao &amp; Shuai	4th	Closing Opposition	View Ballot	Dylan SalcedoⒸ , Zeaf Hu , Aria CaiⓉ
+GDUFS Jinhang &amp; Mengfan	4th	Opening Opposition	View Ballot	Ray WangⒸ
+UM Shuairong &amp; Michael	3rd	Closing Government	View Ballot	Ray WangⒸ
+TSUKUBA. Yuichiro &amp; Haruto	2nd	Opening Government	View Ballot	Ray WangⒸ
+HTBIS Yulin &amp; Zixuan	1st	Closing Opposition	View Ballot	Ray WangⒸ
+KUDC Weon Bin &amp; Suhyun	1st	Opening Opposition	View Ballot	Judy JiⒸ
+CUHK Pitchapa &amp; Zhi Hao	3rd	Opening Government	View Ballot	Judy JiⒸ
+TOKYO Riho &amp; Takeshi	2nd	Closing Opposition	View Ballot	Judy JiⒸ
+SWSI Rachel &amp; Crystal	4th	Closing Government	View Ballot	Judy JiⒸ
+PKUSZ Chenxi &amp; Sihan	3rd	Closing Government	View Ballot	Chris HungⒸ , Klaus Xiao
+RENMIN Joyce &amp; Nyx	2nd	Opening Government	View Ballot	Chris HungⒸ , Klaus Xiao
+STU Lanyu &amp; Zipeng	4th	Closing Opposition	View Ballot	Chris HungⒸ , Klaus Xiao
+CUHK Po Shing &amp; Maria	1st	Opening Opposition	View Ballot	Chris HungⒸ , Klaus Xiao
+MUST Cristina &amp; Sissi	4th	Opening Government	View Ballot	Hok Yiu ChungⒸ , Julia HuynhⓉ , Rintaro MoriⓉ
+NCCU Yu-Shan &amp; Speaker	1st	Closing Government	View Ballot	Hok Yiu ChungⒸ , Julia HuynhⓉ , Rintaro MoriⓉ
+NEUQ Yuchong &amp; Yijie	3rd	Closing Opposition	View Ballot	Hok Yiu ChungⒸ , Julia HuynhⓉ , Rintaro MoriⓉ
+XJTLU Yuhan &amp; Xinghao	2nd	Opening Opposition	View Ballot	Hok Yiu ChungⒸ , Julia HuynhⓉ , Rintaro MoriⓉ
+MUST Ray &amp; Musky	4th	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Andrius Budiono
+BFSU Jialu &amp; Qihan	2nd	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Andrius Budiono
+ACCH Zhihe &amp; Jimmy	1st	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Andrius Budiono
+BKBIS Jason &amp; Ravipat	3rd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Andrius Budiono
+BEIHANG Chenqian &amp; Essam	1st	Closing Government	View Ballot	Alex WangⒸ , Pengbo Wang , Thomas FarrellⓉ
+CITYU Wong &amp; Chung	2nd	Opening Government	View Ballot	Alex WangⒸ , Pengbo Wang , Thomas FarrellⓉ
+NCCU Chen &amp; Lee	4th	Closing Opposition	View Ballot	Alex WangⒸ , Pengbo Wang , Thomas FarrellⓉ
+BFSU Siyu &amp; Yijia	3rd	Opening Opposition	View Ballot	Alex WangⒸ , Pengbo Wang , Thomas FarrellⓉ
+CUHK SZ Jingjing &amp; Diao	1st	Closing Government	View Ballot	Millie ShaoⒸ , Eloise Liu , Felicia Deng
+LAFLE Zihan &amp; Changze	4th	Opening Opposition	View Ballot	Millie ShaoⒸ , Eloise Liu , Felicia Deng
+BISHZ Annie &amp; Lucas	2nd	Opening Government	View Ballot	Millie ShaoⒸ , Eloise Liu , Felicia Deng
+WHBC Jinze &amp; Wan Tim	3rd	Closing Opposition	View Ballot	Millie ShaoⒸ , Eloise Liu , Felicia Deng
+
+
+team	result	side	adjudicators
+NTU Laurie &amp; Porter	eliminated	Closing Opposition	Nasa TsuchiyaⒸ , Dahyun Yoon , Daud Hernoud
+CUHK Joshua &amp; Chantal	advancing	Opening Opposition	Nasa TsuchiyaⒸ , Dahyun Yoon , Daud Hernoud
+HKU Edward &amp; Arthur	eliminated	Closing Government	Nasa TsuchiyaⒸ , Dahyun Yoon , Daud Hernoud
+UM Donner &amp; Kai	advancing	Opening Government	Nasa TsuchiyaⒸ , Dahyun Yoon , Daud Hernoud
+NTU Alastor &amp; Stacy	advancing	Closing Government	Senran TaoⒸ , Ann Zhang , Wonjae Lee
+SUFE Lerong &amp; Zhangyang	eliminated	Opening Opposition	Senran TaoⒸ , Ann Zhang , Wonjae Lee
+CUHK Chloe &amp; India	eliminated	Opening Government	Senran TaoⒸ , Ann Zhang , Wonjae Lee
+BFSU Ketian &amp; Zhuoran	advancing	Closing Opposition	Senran TaoⒸ , Ann Zhang , Wonjae Lee
+ICU Wang &amp; Mitsuki	eliminated	Closing Government	Daisy SunⒸ , Alex Wang , Ralph Lee
+CUHK Po Shing &amp; Maria	advancing	Opening Government	Daisy SunⒸ , Alex Wang , Ralph Lee
+YUU So Jin &amp; Duc-Toan	advancing	Closing Opposition	Daisy SunⒸ , Alex Wang , Ralph Lee
+BFSU Jialu &amp; Qihan	eliminated	Opening Opposition	Daisy SunⒸ , Alex Wang , Ralph Lee
+KUDC Naama &amp; Dabin	advancing	Closing Opposition	Klaus XiaoⒸ , Dylan Salcedo , Yuliana Maria Reyes Trinidad
+SUFE Qiyang &amp; Yutong	eliminated	Opening Government	Klaus XiaoⒸ , Dylan Salcedo , Yuliana Maria Reyes Trinidad
+HKU Cailing &amp; Mahir	eliminated	Opening Opposition	Klaus XiaoⒸ , Dylan Salcedo , Yuliana Maria Reyes Trinidad
+YUU Minchang &amp; Joon Seo	advancing	Closing Government	Klaus XiaoⒸ , Dylan Salcedo , Yuliana Maria Reyes Trinidad
+
+
+team	result	side	adjudicators
+KUDC Weon Bin &amp; Suhyun	advancing	Opening Government	Yuliana Maria Reyes TrinidadⒸ , Ralph Lee , Youngwoo Park
+CUHK Joshua &amp; Chantal	eliminated	Closing Government	Yuliana Maria Reyes TrinidadⒸ , Ralph Lee , Youngwoo Park
+UM Donner &amp; Kai	advancing	Opening Opposition	Yuliana Maria Reyes TrinidadⒸ , Ralph Lee , Youngwoo Park
+TSUKUBA. Hinano &amp; Yuki	eliminated	Closing Opposition	Yuliana Maria Reyes TrinidadⒸ , Ralph Lee , Youngwoo Park
+NTU Alastor &amp; Stacy	eliminated	Opening Opposition	Wonjae LeeⒸ , Klaus Xiao , Nasa Tsuchiya
+HKU Sarah &amp; Hannah	eliminated	Closing Opposition	Wonjae LeeⒸ , Klaus Xiao , Nasa Tsuchiya
+SEOUL Dohyun &amp; Haeju	advancing	Opening Government	Wonjae LeeⒸ , Klaus Xiao , Nasa Tsuchiya
+BFSU Ketian &amp; Zhuoran	advancing	Closing Government	Wonjae LeeⒸ , Klaus Xiao , Nasa Tsuchiya
+CUHK Kwan Chun &amp; Charles	eliminated	Closing Government	Judy JiⒸ , Ricky Jin , Ryosei Kobayashi
+CUHK Po Shing &amp; Maria	eliminated	Closing Opposition	Judy JiⒸ , Ricky Jin , Ryosei Kobayashi
+TOKYO Riho &amp; Takeshi	advancing	Opening Government	Judy JiⒸ , Ricky Jin , Ryosei Kobayashi
+YUU So Jin &amp; Duc-Toan	advancing	Opening Opposition	Judy JiⒸ , Ricky Jin , Ryosei Kobayashi
+KUDC Naama &amp; Dabin	eliminated	Closing Opposition	Jonathan TuliaoⒸ , Daisy Sun , Ray Wang
+OSAKA Yuta &amp; Minami	advancing	Closing Government	Jonathan TuliaoⒸ , Daisy Sun , Ray Wang
+CUHK Pitchapa &amp; Zhi Hao	eliminated	Opening Government	Jonathan TuliaoⒸ , Daisy Sun , Ray Wang
+YUU Minchang &amp; Joon Seo	advancing	Opening Opposition	Jonathan TuliaoⒸ , Daisy Sun , Ray Wang
+
+
+team	result	side	adjudicators
+OSAKA Yuta &amp; Minami	advancing	Opening Opposition	Sunghyun ParkⒸ , Isabella Freeland , Ooi Hon Son , Tetsushi Kajihara , Yuliana Maria Reyes Trinidad
+TOKYO Riho &amp; Takeshi	eliminated	Closing Opposition	Sunghyun ParkⒸ , Isabella Freeland , Ooi Hon Son , Tetsushi Kajihara , Yuliana Maria Reyes Trinidad
+YUU Minchang &amp; Joon Seo	advancing	Closing Government	Sunghyun ParkⒸ , Isabella Freeland , Ooi Hon Son , Tetsushi Kajihara , Yuliana Maria Reyes Trinidad
+YUU So Jin &amp; Duc-Toan	eliminated	Opening Government	Sunghyun ParkⒸ , Isabella Freeland , Ooi Hon Son , Tetsushi Kajihara , Yuliana Maria Reyes Trinidad
+KUDC Weon Bin &amp; Suhyun	advancing	Closing Opposition	Daisy SunⒸ , Andrius Budiono , Nasa Tsuchiya , Ralph Lee , Senran Tao
+UM Donner &amp; Kai	advancing	Closing Government	Daisy SunⒸ , Andrius Budiono , Nasa Tsuchiya , Ralph Lee , Senran Tao
+SEOUL Dohyun &amp; Haeju	eliminated	Opening Opposition	Daisy SunⒸ , Andrius Budiono , Nasa Tsuchiya , Ralph Lee , Senran Tao
+BFSU Ketian &amp; Zhuoran	eliminated	Opening Government	Daisy SunⒸ , Andrius Budiono , Nasa Tsuchiya , Ralph Lee , Senran Tao
+
+
+team	result	side	adjudicators
+KUDC Weon Bin &amp; Suhyun	advancing	Opening Opposition	Klaus XiaoⒸ , Daisy Sun , Nasa Tsuchiya , Ralph Lee , Senran Tao , Sunghyun Park , Yuliana Maria Reyes Trinidad
+OSAKA Yuta &amp; Minami	eliminated	Closing Opposition	Klaus XiaoⒸ , Daisy Sun , Nasa Tsuchiya , Ralph Lee , Senran Tao , Sunghyun Park , Yuliana Maria Reyes Trinidad
+UM Donner &amp; Kai	eliminated	Opening Government	Klaus XiaoⒸ , Daisy Sun , Nasa Tsuchiya , Ralph Lee , Senran Tao , Sunghyun Park , Yuliana Maria Reyes Trinidad
+YUU Minchang &amp; Joon Seo	eliminated	Closing Government	Klaus XiaoⒸ , Daisy Sun , Nasa Tsuchiya , Ralph Lee , Senran Tao , Sunghyun Park , Yuliana Maria Reyes Trinidad
+
+
+team	result	side	adjudicators
+BEIHANG Chenqian &amp; Essam	eliminated	Closing Opposition	Ricky JinⒸ , Cici Liu , Jonathan Tuliao
+RENMIN Wong &amp; Feiduo	advancing	Opening Government	Ricky JinⒸ , Cici Liu , Jonathan Tuliao
+BFSU Haihan &amp; Zhijin	advancing	Opening Opposition	Ricky JinⒸ , Cici Liu , Jonathan Tuliao
+TSUKUBA. Yuichiro &amp; Haruto	eliminated	Closing Government	Ricky JinⒸ , Cici Liu , Jonathan Tuliao
+MUST Ray &amp; Musky	advancing	Opening Opposition	Tetsushi KajiharaⒸ , Andrius Budiono , Ooi Hon Son
+SISU Mingyang &amp; Yuwei	eliminated	Closing Opposition	Tetsushi KajiharaⒸ , Andrius Budiono , Ooi Hon Son
+SCNU Karena &amp; Melody	advancing	Opening Government	Tetsushi KajiharaⒸ , Andrius Budiono , Ooi Hon Son
+Jeven &amp; Jingwen	eliminated	Closing Government	Tetsushi KajiharaⒸ , Andrius Budiono , Ooi Hon Son
+
+
+team	result	side	adjudicators
+MUST Ray &amp; Musky	eliminated	Opening Government	Judy JiⒸ , Jenny Li , Jonathan Tuliao , Ray Wang , Ricky Jin , Ryosei Kobayashi , Wonjae Lee
+RENMIN Wong &amp; Feiduo	eliminated	Closing Opposition	Judy JiⒸ , Jenny Li , Jonathan Tuliao , Ray Wang , Ricky Jin , Ryosei Kobayashi , Wonjae Lee
+SCNU Karena &amp; Melody	eliminated	Closing Government	Judy JiⒸ , Jenny Li , Jonathan Tuliao , Ray Wang , Ricky Jin , Ryosei Kobayashi , Wonjae Lee
+BFSU Haihan &amp; Zhijin	advancing	Opening Opposition	Judy JiⒸ , Jenny Li , Jonathan Tuliao , Ray Wang , Ricky Jin , Ryosei Kobayashi , Wonjae Lee
+
+
+team	result	side	adjudicators
+SCSE Emily &amp; Edison	advancing	Closing Opposition	Tan Yao KunⒸ
+SWSI Rachel &amp; Crystal	advancing	Opening Government	Tan Yao KunⒸ
+LAFLE Jiayi &amp; Zhujun	eliminated	Opening Opposition	Tan Yao KunⒸ
+HZBIS Ted &amp; Jason	eliminated	Closing Government	Tan Yao KunⒸ
+ACCH Zhihe &amp; Jimmy	advancing	Closing Opposition	Judy JiⒸ
+BISHZ Annie &amp; Lucas	eliminated	Closing Government	Judy JiⒸ
+GZSZ Junjia &amp; BELLA	advancing	Opening Government	Judy JiⒸ
+LAFLE Mei &amp; Shaonan	eliminated	Opening Opposition	Judy JiⒸ
+NVIS William &amp; Marco	eliminated	Closing Government	Chris HungⒸ
+SZBIS Kwok Pong &amp; Zuheng	advancing	Closing Opposition	Chris HungⒸ
+WHBC Jinze &amp; Wan Tim	eliminated	Opening Opposition	Chris HungⒸ
+BKBIS Jason &amp; Ravipat	advancing	Opening Government	Chris HungⒸ
+HTBIS Yulin &amp; Zixuan	advancing	Opening Government	Sunghyun ParkⒸ
+LAFLE Dao &amp; Shuai	eliminated	Closing Opposition	Sunghyun ParkⒸ
+LAFLE Zihan &amp; Changze	eliminated	Closing Government	Sunghyun ParkⒸ
+ACMG Wang &amp; Yunhan	advancing	Opening Opposition	Sunghyun ParkⒸ
+
+
+team	result	side	adjudicators
+SCSE Emily &amp; Edison	advancing	Opening Opposition	Dahyun YoonⒸ , Daud Hernoud , Jenny Li
+SWSI Rachel &amp; Crystal	advancing	Closing Government	Dahyun YoonⒸ , Daud Hernoud , Jenny Li
+SZBIS Kwok Pong &amp; Zuheng	eliminated	Opening Government	Dahyun YoonⒸ , Daud Hernoud , Jenny Li
+BKBIS Jason &amp; Ravipat	eliminated	Closing Opposition	Dahyun YoonⒸ , Daud Hernoud , Jenny Li
+ACCH Zhihe &amp; Jimmy	advancing	Closing Opposition	Tan Yao KunⒸ , Ann Zhang , Cici Liu
+HTBIS Yulin &amp; Zixuan	advancing	Opening Opposition	Tan Yao KunⒸ , Ann Zhang , Cici Liu
+GZSZ Junjia &amp; BELLA	eliminated	Closing Government	Tan Yao KunⒸ , Ann Zhang , Cici Liu
+ACMG Wang &amp; Yunhan	eliminated	Opening Government	Tan Yao KunⒸ , Ann Zhang , Cici Liu
+
+
+team	result	side	adjudicators
+ACCH Zhihe &amp; Jimmy	advancing	Closing Opposition	Dylan SalcedoⒸ , Chris Hung , Tan Yao Kun
+SCSE Emily &amp; Edison	eliminated	Opening Government	Dylan SalcedoⒸ , Chris Hung , Tan Yao Kun
+SWSI Rachel &amp; Crystal	eliminated	Opening Opposition	Dylan SalcedoⒸ , Chris Hung , Tan Yao Kun
+HTBIS Yulin &amp; Zixuan	eliminated	Closing Government	Dylan SalcedoⒸ , Chris Hung , Tan Yao Kun
+

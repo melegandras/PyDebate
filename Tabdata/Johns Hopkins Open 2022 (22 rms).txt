@@ -1,0 +1,788 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds	ATSS	SSD
+1	Vani Mahal Champions		1st	1st	1st	2nd	1st	14	840	4	1	168.00	5.33
+2	Princeton https://youtu.be/EHK5fBm1YWk		1st	2nd	1st	1st	2nd	13	823	3	2	164.60	4.59
+3	Kween Nicki #barbz		1st	1st	1st	3rd	1st	13	818	4	0	163.60	3.14
+4	LSE A		1st	2nd	1st	1st	3rd	12	815	3	1	163.00	5.29
+5	Ateneo Uni CL		1st	3rd	2nd	1st	1st	12	807	3	1	161.40	3.01
+6	Harvard I turf-burned my philosophy class		1st	2nd	2nd	2nd	1st	12	805	2	3	161.00	1.55
+7	Mom: we have Jack Palmer at home		4th	1st	1st	1st	2nd	11	801	3	1	160.20	1.17
+8	Cornell In a medium bowl, whisk together s		2nd	2nd	1st	3rd	1st	11	798	2	2	159.60	3.32
+9	LSE C		1st	2nd	3rd	1st	2nd	11	791	2	2	158.20	2.48
+10	Harvard dy/dx	Novice	1st	3rd	3rd	1st	1st	11	787	3	0	157.40	3.26
+11	LSE Keera &amp; Her Partner		1st	3rd	1st	1st	4th	10	813	3	0	162.60	2.24
+12	KNUST O Andy &amp; Erasmus	ESL	1st	4th	2nd	2nd	1st	10	794	2	2	158.80	1.47
+13	Dancing Cucumbers	Novice	1st	1st	3rd	2nd	3rd	10	793	2	1	158.60	5.31
+14	HH prepare for trouble make it double	Novice	1st	2nd	4th	1st	2nd	10	789	2	2	157.80	3.25
+15	NUS KL		4th	1st	1st	3rd	1st	10	786	3	0	157.20	4.02
+16	Cornell Social Battering Ram	ESL, Novice	3rd	1st	2nd	2nd	2nd	10	785	1	3	157.00	2.61
+17	RIC Debating in Darkness	ESL	2nd	1st	2nd	2nd	3rd	10	783	1	3	156.60	1.02
+18	GW BP Relapse		3rd	2nd	3rd	1st	1st	10	770	2	1	154.00	4.60
+19	Diggory is looking real different		1st	1st	2nd	4th	3rd	9	806	2	1	161.20	1.94
+20	Princeton We turf-burned MOL101		2nd	1st	3rd	2nd	3rd	9	800	1	2	160.00	3.29
+21	Oxford A		2nd	2nd	1st	4th	2nd	9	790	1	3	158.00	2.10
+22	Open Shrigma Male		2nd	1st	4th	1st	3rd	9	788	2	1	157.60	5.16
+23	Open Making 11/10 questionable decision	ESL	2nd	1st	2nd	4th	2nd	9	788	1	3	157.60	3.77
+24	HWS One worlds break away from retirin		1st	4th	1st	1st	4th	9	785	3	0	157.00	2.28
+25	Ateneo Uni AB		2nd	1st	3rd	4th	1st	9	785	2	1	157.00	2.10
+26	Open fanclub revival tour	Novice	4th	1st	1st	3rd	2nd	9	783	2	1	156.60	5.00
+27	Tufts-McGill The Pirates are Back from COVID		1st	3rd	3rd	3rd	1st	9	782	2	0	156.40	4.27
+28	Chicago The motions committee will decide		2nd	1st	1st	3rd	4th	9	781	2	1	156.20	4.83
+29	UCLA Manatee	Novice	2nd	3rd	1st	4th	1st	9	780	2	1	156.00	4.34
+30	NU Baba&#x27;s Bitches		2nd	3rd	1st	4th	1st	9	769	2	1	153.80	3.76
+31	UST 50 kills botfrag and 0.4 minions	ESL	1st	3rd	4th	1st	2nd	9	627	2	1	125.40	39.22
+32	Ateneo HS BC		3rd	3rd	1st	1st	4th	8	778	2	0	155.60	4.22
+33	Princeton Jane &amp; Emily		3rd	1st	3rd	2nd	3rd	8	777	1	1	155.40	2.42
+34	Ateneo HS RV		3rd	4th	1st	1st	3rd	8	774	2	0	154.80	2.14
+35	Chicago HP		2nd	4th	2nd	2nd	2nd	8	774	0	4	154.80	2.56
+36	Open Lowly Debaters	Novice	4th	2nd	3rd	1st	2nd	8	773	1	2	154.60	1.62
+37	UWODS A		3rd	2nd	2nd	4th	1st	8	770	1	2	154.00	2.53
+38	BNU A	ESL	3rd	1st	4th	2nd	2nd	8	769	1	2	153.80	6.73
+39	Wellesley asians of chaos	Novice	3rd	3rd	2nd	3rd	1st	8	767	1	1	153.40	2.24
+40	Ox Gaby Please Think A Better Team Na		2nd	2nd	2nd	2nd	4th	8	695	0	4	139.00	30.54
+41	DAV A	ESL	1st	3rd	3rd	4th	2nd	7	773	1	1	154.60	2.94
+42	DSULS incapable of memey names	ESL, Novice	3rd	2nd	2nd	3rd	3rd	7	770	0	2	154.00	1.90
+43	KNUST X	ESL	1st	1st	4th	3rd	4th	7	769	2	0	153.80	4.53
+44	NTU Red Panda Spirit		4th	1st	2nd	2nd	4th	7	769	1	2	153.80	3.49
+45	on time	Novice	2nd	3rd	4th	3rd	1st	7	769	1	1	153.80	4.49
+46	LV	Novice	3rd	2nd	2nd	3rd	3rd	7	769	0	2	153.80	3.19
+47	eleven letter last names &gt;&gt;&gt;	Novice	4th	4th	2nd	2nd	1st	7	761	1	2	152.20	1.94
+48	KNUST Z	ESL	1st	4th	4th	2nd	2nd	7	759	1	2	151.80	3.71
+49	Drexel Mass Debaters	ESL	4th	2nd	1st	4th	2nd	7	755	1	2	151.00	3.58
+50	whip me harder speaker senpai	ESL	2nd	4th	3rd	1st	3rd	7	752	1	1	150.40	5.24
+51	Harvard HT		1st	4th	3rd	1st	—	7	622	2	0	155.50	5.17
+52	SHDC CY	Novice	3rd	1st	3rd	2nd	4th	7	619	1	1	123.80	38.68
+53	LSE D(on&#x27;t want to be here)	Novice	2nd	2nd	2nd	3rd	4th	7	618	0	3	123.60	36.13
+54	Minerva Peaked in high school	ESL	2nd	3rd	2nd	4th	2nd	7	608	0	3	121.60	60.82
+55	Open PANtastic	Novice	1st	2nd	4th	3rd	4th	6	774	1	1	154.80	2.93
+56	HH SR		3rd	2nd	3rd	2nd	4th	6	768	0	2	153.60	2.65
+57	NUS CD	Novice	2nd	4th	3rd	4th	1st	6	758	1	1	151.60	5.04
+58	Cornell A funny team name here	Novice	4th	3rd	1st	3rd	3rd	6	754	1	0	150.80	3.31
+59	Umbrella academy but our superpowe	ESL	3rd	3rd	4th	3rd	1st	6	745	1	0	149.00	4.82
+60	UCSC Variants	ESL, Novice	4th	3rd	1st	3rd	3rd	6	685	1	0	137.00	30.29
+61	Swing B		2nd	2nd	3rd	4th	3rd	6	685	0	2	137.00	29.56
+62	50% competent in league	Novice	2nd	4th	4th	1st	3rd	6	675	1	1	135.00	30.39
+63	Swing A		3rd	3rd	2nd	2nd	4th	6	612	0	2	122.40	37.92
+64	Ak a love story	ESL, Novice	4th	1st	3rd	4th	2nd	6	605	1	1	121.00	37.97
+65	UPLB send help		3rd	1st	4th	2nd	4th	6	602	1	1	120.40	37.92
+66	Ateneo HS GH		4th	2nd	1st	4th	4th	5	754	1	1	150.80	3.43
+67	IUT Team Led Zeppelin	ESL	3rd	3rd	4th	2nd	3rd	5	752	0	1	150.40	4.45
+68	NU return of the random pro amers		4th	3rd	2nd	2nd	4th	5	749	0	2	149.80	7.08
+69	HH 👉👈	Novice	4th	4th	1st	4th	2nd	5	745	1	1	149.00	4.86
+70	For Camelot!	ESL	3rd	1st	4th	3rd	4th	5	687	1	0	137.40	31.35
+71	Ox We need to break	ESL, Novice	2nd	3rd	3rd	4th	3rd	5	605	0	1	121.00	36.41
+72	HH Cool Math Games	Novice	4th	4th	2nd	1st	—	5	600	1	1	150.00	7.38
+73	Swing C		4th	4th	—	1st	2nd	5	380	1	1	95.00	31.20
+74	team entropy	Novice	4th	2nd	4th	3rd	3rd	4	761	0	1	152.20	1.60
+75	Open Lights Out	ESL, Novice	2nd	4th	2nd	4th	4th	4	755	0	2	151.00	3.03
+76	TCUHK 5am debate gang	ESL	3rd	4th	3rd	3rd	3rd	4	755	0	0	151.00	1.67
+77	Open let&#x27;s get this bread	ESL	4th	3rd	3rd	4th	2nd	4	753	0	1	150.60	1.36
+78	Snow Night	ESL	3rd	4th	4th	4th	1st	4	673	1	0	134.60	29.83
+79	Chicago 2-ish BP Novices	Novice	4th	2nd	4th	2nd	—	4	606	0	2	151.50	2.69
+80	Swing D		3rd	—	—	1st	—	4	232	1	0	116.00	40.00
+81	KNUST A	ESL	3rd	4th	3rd	3rd	4th	3	759	0	0	151.80	2.04
+82	KNUST B	ESL	3rd	2nd	4th	4th	4th	3	670	0	1	134.00	29.31
+83	HH look muzzi, we made it to ur comp!		1st	4th	—	—	—	3	234	1	0	117.00	40.00
+84	Best Maple Syrup	Novice	4th	3rd	4th	4th	3rd	2	737	0	0	147.40	0.80
+85	BRAC B	ESL	2nd	4th	4th	—	—	2	441	0	1	147.00	2.94
+86	DCAC Jump and Shout	ESL	4th	3rd	4th	—	—	1	453	0	0	151.00	1.63
+87	VG LA	Novice	—	4th	—	3rd	—	1	150	0	0	75.00	0.00
+88	HH what is grass		4th	4th	4th	—	—	0	435	0	0	145.00	3.74
+89	Team NR	ESL, Novice	4th	4th	—	—	4th	0	433	0	0	144.33	2.49
+90=	Ateneo Uni E		—	—	—	—	—	—	—	0	0	—	—
+90=	Brandeis Reciprocity		—	—	—	—	—	—	—	0	0	—	—
+90=	Harvard RQ		—	—	—	—	—	—	—	0	0	—	—
+90=	Chicago A(sleep)		—	—	—	—	—	—	—	0	0	—	—
+90=	MZ	ESL	—	—	—	—	—	—	—	0	0	—	—
+90=	PA		—	—	—	—	—	—	—	0	0	—	—
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev	Trim
+1	Tejas Subramaniam		Vani Mahal Champions	80	83	88	85	85	421	84.20	2.64	84.33
+2	Dhananjay Ashok		Vani Mahal Champions	80	82	88	85	84	419	83.80	2.71	83.67
+3	Greg Weaving		Princeton https://youtu.be/EHK5fBm1YWk	79	81	82	86	84	412	82.40	2.42	82.33
+4	Xiao-ke Lu		Princeton https://youtu.be/EHK5fBm1YWk	80	80	82	86	83	411	82.20	2.23	81.67
+5	David Africa		Kween Nicki #barbz	79	82	84	81	84	410	82.00	1.90	82.33
+6	Matt Caito		LSE A	77	82	83	85	82	409	81.80	2.64	82.33
+7	Cerys Walsh		Kween Nicki #barbz	79	82	83	82	82	408	81.60	1.36	82.00
+8	Josh Kemp		LSE Keera &amp; Her Partner	83	81	81	81	81	407	81.40	0.80	81.00
+9=	Ahmed El Sammak		LSE A	77	80	83	85	81	406	81.20	2.71	81.33
+9=	Keerthana Bathula		LSE Keera &amp; Her Partner	84	80	80	81	81	406	81.20	1.47	80.67
+11	Tobi R. Leung		Ateneo Uni CL	80	79	81	82	83	405	81.00	1.41	81.00
+12=	Ryan Lafferty		Harvard I turf-burned my philosophy class	79	81	82	81	81	404	80.80	0.98	81.00
+12=	Ethan Curry		Diggory is looking real different	80	82	82	80	80	404	80.80	0.98	80.67
+14=	Jacquelynn Lin	Novice	Princeton We turf-burned MOL101	83	80	80	80	79	402	80.40	1.36	80.00
+14=	Quintin Chua		Ateneo Uni CL	80	78	80	81	83	402	80.40	1.62	80.33
+14=	Nicholas Abernethy		Diggory is looking real different	79	81	82	80	80	402	80.40	1.02	80.33
+14=	Dylan &#x27;middle-name&#x27; McCarthy		Mom: we have Jack Palmer at home	80	80	81	81	80	402	80.40	0.49	80.33
+18	Matt Mauriello		Harvard I turf-burned my philosophy class	79	81	80	80	81	401	80.20	0.75	80.33
+19=	Meg Kandarpa		Cornell In a medium bowl, whisk together s	80	78	80	78	83	399	79.80	1.83	79.33
+19=	Eli Pallrand		Cornell In a medium bowl, whisk together s	79	80	81	77	82	399	79.80	1.72	80.00
+19=	Jacklin Kwan		Mom: we have Jack Palmer at home	79	80	78	81	81	399	79.80	1.17	80.00
+22=	Terkpertey Andrews Terku	ESL	KNUST O Andy &amp; Erasmus	80	79	79	79	81	398	79.60	0.80	79.33
+22=	Uma Menon		Princeton We turf-burned MOL101	83	79	79	80	77	398	79.60	1.96	79.33
+22=	Sarah Li*	Novice	Dancing Cucumbers	81	82	77	82	76	398	79.60	2.58	80.00
+25=	Erasmus Mawuli Segbefia	ESL	KNUST O Andy &amp; Erasmus	80	79	78	79	80	396	79.20	0.75	79.33
+25=	Emily Yinchang Shi	Novice	HH prepare for trouble make it double	80	77	77	80	82	396	79.20	1.94	79.00
+25=	Ted Chang		LSE C	79	80	78	78	81	396	79.20	1.17	79.00
+25=	Momotaz Rahman	ESL	Open Making 11/10 questionable decision	80	83	79	76	78	396	79.20	2.32	79.00
+25=	Tanae Rao		Oxford A	79	80	80	77	80	396	79.20	1.17	79.67
+30=	Shaurya Chandravanshi	ESL	LSE C	79	81	77	78	80	395	79.00	1.41	79.00
+30=	Ram Orfanel	ESL, Novice	Cornell Social Battering Ram	77	79	80	78	81	395	79.00	1.41	79.00
+30=	Alinna Liu*	Novice	Dancing Cucumbers	79	83	77	81	75	395	79.00	2.83	79.00
+30=	Randy Chang	Novice	Open fanclub revival tour	74	80	83	78	80	395	79.00	2.97	79.33
+34=	Aly Barranda		Ateneo Uni AB	79	79	79	77	80	394	78.80	0.98	79.00
+34=	Shaun Lee		NUS KL	75	80	79	79	81	394	78.80	2.04	79.33
+34=	Catherine Liu	Novice	Harvard dy/dx	79	77	77	80	81	394	78.80	1.60	78.67
+34=	Emmanuel Murphy		Open Shrigma Male	75	83	77	80	79	394	78.80	2.71	78.67
+34=	Dennis Su		Open Shrigma Male	76	83	77	80	78	394	78.80	2.48	78.33
+34=	Hexuan “Ricky” Huang	ESL	Oxford A	79	80	79	77	79	394	78.80	0.98	79.00
+40=	Cam Miranda-Radbord	Novice	HH prepare for trouble make it double	79	76	78	81	79	393	78.60	1.62	78.67
+40=	Sarim Karim		HWS One worlds break away from retirin	79	79	78	79	78	393	78.60	0.49	78.67
+40=	Redacted	Novice	—	78	78	76	80	81	393	78.60	1.74	78.67
+43=	Treshan Fernando	ESL	RIC Debating in Darkness	79	77	79	79	78	392	78.40	0.80	78.67
+43=	Jane Mentzinger		Princeton Jane &amp; Emily	77	79	77	79	80	392	78.40	1.20	78.33
+43=	Sreyan	ESL	HWS One worlds break away from retirin	80	79	78	80	75	392	78.40	1.85	79.00
+43=	Rhys Nickerson		Tufts-McGill The Pirates are Back from COVID	82	79	78	77	76	392	78.40	2.06	78.00
+43=	Kiew Shou Fung, Deon		NUS KL	75	81	78	78	80	392	78.40	2.06	78.67
+43=	Aliya Fairuz	ESL	Open Making 11/10 questionable decision	79	80	80	76	77	392	78.40	1.62	78.67
+49=	Amber Chen	Novice	UCLA Manatee	80	75	76	78	82	391	78.20	2.56	78.00
+49=	Chetan Perera	ESL	RIC Debating in Darkness	78	78	78	79	78	391	78.20	0.40	78.00
+49=	Rivaldo Aquino		Ateneo Uni AB	79	78	79	76	79	391	78.20	1.17	78.67
+49=	Rohan Kapoor		Chicago The motions committee will decide	78	81	80	78	74	391	78.20	2.40	78.67
+53=	Jag	ESL	UST 50 kills botfrag and 0.4 minions	80	79	76	77	78	390	78.00	1.41	78.00
+53=	Josh Cohen		Tufts-McGill The Pirates are Back from COVID	81	80	78	76	75	390	78.00	2.28	78.00
+53=	Daniella Louise Barbacena*		Ateneo HS BC	81	78	78	79	74	390	78.00	2.28	78.33
+53=	Ben Kim	ESL, Novice	Cornell Social Battering Ram	76	78	78	78	80	390	78.00	1.26	78.00
+53=	Benny Nicholson		Chicago The motions committee will decide	77	81	80	78	74	390	78.00	2.45	78.33
+58=	Jack Thompson	Novice	UCLA Manatee	78	76	76	78	81	389	77.80	1.83	77.33
+58=	Dung Nguyen	ESL, Novice	LSE D(on&#x27;t want to be here)	78	81	77	79	74	389	77.80	2.32	78.00
+60=	Dung Tran	ESL, Novice	DAV A	80	77	77	78	76	388	77.60	1.36	77.33
+60=	Soh Kay Boon		NTU Red Panda Spirit	76	81	75	78	78	388	77.60	2.06	77.33
+60=	Ira Noelle C. Concepcion*		Ateneo HS BC	80	78	78	78	74	388	77.60	1.96	78.00
+60=	Heather Li	Novice	Open Lowly Debaters	76	79	77	78	78	388	77.60	1.02	77.67
+60=	Laasya Boppana	Novice	Open PANtastic	78	80	77	78	75	388	77.60	1.62	77.67
+60=	Sarenna McKellar	Novice	Open fanclub revival tour	74	78	80	77	79	388	77.60	2.06	78.00
+66=	Yuwanath De Silva	ESL, Novice	DSULS incapable of memey names	76	77	77	78	79	387	77.40	1.02	77.33
+66=	Kristen Reyes		Ateneo HS RV	77	76	79	78	77	387	77.40	1.02	77.33
+66=	Pio Ventura		Ateneo HS RV	78	76	79	78	76	387	77.40	1.20	77.33
+66=	Dohyun Park		Chicago HP	77	76	78	77	79	387	77.40	1.02	77.33
+66=	Ahmad Howard		Chicago HP	78	75	77	77	80	387	77.40	1.62	77.33
+71=	Jessica S		HH SR	75	78	77	79	77	386	77.20	1.33	77.33
+71=	Muh. Batara Mulya	ESL	BNU A	72	81	76	81	76	386	77.20	3.43	77.67
+71=	Peter Wu		Ox Gaby Please Think A Better Team Na	78	77	78	76	77	386	77.20	0.75	77.33
+71=	Adam Ursenbach		UWODS A	76	79	76	76	79	386	77.20	1.47	77.00
+71=	Caylee Pan	Novice	Open PANtastic	78	79	75	78	76	386	77.20	1.47	77.33
+76=	Hung Ha	ESL	DAV A	80	75	77	77	76	385	77.00	1.67	76.67
+76=	Emily Paulin	Novice	Princeton Jane &amp; Emily	75	78	76	78	78	385	77.00	1.26	77.33
+76=	John Youssef		NU Baba&#x27;s Bitches	77	77	80	74	77	385	77.00	1.90	77.00
+76=	Frank Bannerman	ESL	KNUST X	78	81	75	74	77	385	77.00	2.45	76.67
+76=	Jonas Poggi		GW BP Relapse	75	78	74	79	79	385	77.00	2.10	77.33
+76=	Cayden Monteiro		GW BP Relapse	74	78	74	79	80	385	77.00	2.53	77.00
+76=	Liam Barnes	Novice	LV	76	79	79	76	75	385	77.00	1.67	77.00
+76=	Hao Ni	Novice	on time	80	74	77	74	80	385	77.00	2.68	77.00
+76=	David Logan	Novice	Open Lowly Debaters	76	78	77	77	77	385	77.00	0.63	77.00
+85=	Eugenie Park	Novice	Wellesley asians of chaos	77	75	77	78	77	384	76.80	0.98	77.00
+85=	Gabbi Shilcusky		NU Baba&#x27;s Bitches	79	76	78	73	78	384	76.80	2.14	77.33
+85=	Kojo Acheampong	ESL	KNUST X	79	80	75	75	75	384	76.80	2.23	76.33
+85=	Rdu	Novice	NUS CD	78	76	77	73	80	384	76.80	2.32	77.00
+85=	Speaker A		Swing A	78	78	77	77	74	384	76.80	1.47	77.33
+85=	Vanessa Chen	Novice	LV	76	80	77	75	76	384	76.80	1.72	76.33
+85=	George Jameson Macauley		UWODS A	75	78	77	76	78	384	76.80	1.17	77.00
+85=	Elizabeth Li*	Novice	on time	79	75	76	75	79	384	76.80	1.83	76.67
+93=	Linh  Đặng-Hoàng	ESL, Novice	DSULS incapable of memey names	75	77	77	76	78	383	76.60	1.02	76.67
+93=	Bobby Ongkojoyo	ESL	BNU A	71	80	76	80	76	383	76.60	3.32	77.33
+93=	Rachel Fei	ESL, Novice	Wellesley asians of chaos	77	74	77	77	78	383	76.60	1.36	77.00
+93=	Prosper Michael Ametu	ESL	KNUST Z	79	75	74	76	79	383	76.60	2.06	76.67
+93=	Fredrick ni	Novice	team entropy	76	78	76	77	76	383	76.60	0.80	76.33
+98=	Himaya Perera	ESL, Novice	UCSC Variants	73	75	79	78	77	382	76.40	2.15	76.67
+98=	Hargun Rekhi	Novice	HH SR	74	77	76	78	77	382	76.40	1.36	76.67
+100=	Chung Hin Yue	ESL, Novice	Ox We need to break	76	77	75	78	75	381	76.20	1.17	76.00
+100=	Dorvlo Desmond	ESL	KNUST A	78	75	77	75	76	381	76.20	1.17	76.00
+100=	Ong Shu Hui Christine	Novice	NTU Red Panda Spirit	75	79	75	76	76	381	76.20	1.47	75.67
+100=	Speaker 2		Swing B	78	77	75	75	76	381	76.20	1.17	76.00
+100=	Peter Kouzovnikov	Novice	eleven letter last names &gt;&gt;&gt;	75	75	77	77	77	381	76.20	0.98	76.33
+105=	Omesh Dhar Dwivedi	ESL	Drexel Mass Debaters	76	77	79	75	73	380	76.00	2.00	76.00
+105=	Irina Znamirowski	Novice	eleven letter last names &gt;&gt;&gt;	74	76	76	77	77	380	76.00	1.10	76.33
+105=	Kelvin Kwabena Asamoah Damptey	ESL	For Camelot!	77	79	75	76	73	380	76.00	2.00	76.00
+108=	Jonathan Stolow	Novice	Cornell A funny team name here	76	77	78	72	76	379	75.80	2.04	76.33
+108=	Naika Gooneratne	ESL, Novice	Open Lights Out	78	76	77	75	73	379	75.80	1.72	76.00
+110=	Happy Ng	ESL, Novice	TCUHK 5am debate gang	77	74	75	76	76	378	75.60	1.02	75.67
+110=	Addo-Obeng Opoku-Agyeman	ESL	KNUST A	77	74	76	76	75	378	75.60	1.02	75.67
+110=	Aliah Venice Garcia		Ateneo HS GH	73	77	79	74	75	378	75.60	2.15	75.33
+110=	Peter yin	Novice	team entropy	76	77	74	75	76	378	75.60	1.02	75.67
+110=	Bilal Najaf	ESL	whip me harder speaker senpai	76	74	76	80	72	378	75.60	2.65	75.33
+115=	Keith Wong	ESL	TCUHK 5am debate gang	76	74	76	75	76	377	75.40	0.80	75.67
+115=	Rahat Khan	ESL	IUT Team Led Zeppelin	75	76	71	78	77	377	75.40	2.42	76.00
+115=	Fairana Afsana	ESL, Novice	Open let&#x27;s get this bread	75	77	75	75	75	377	75.40	0.80	75.00
+115=	Ahmad	ESL, Novice	Ak a love story	76	76	74	75	76	377	75.40	0.80	75.67
+119=	Vincent Johnson Attakpah	ESL	KNUST Z	76	74	73	75	78	376	75.20	1.72	75.00
+119=	Aliyah Carmen Michelle C. Herlihy		Ateneo HS GH	75	75	78	74	74	376	75.20	1.47	74.67
+119=	Ahmed Mahdi Uddin	ESL	Open let&#x27;s get this bread	75	76	76	75	74	376	75.20	0.75	75.33
+119=	Vishma Arachchi	ESL, Novice	Open Lights Out	77	75	76	75	73	376	75.20	1.33	75.33
+119=	Misbah Qasim	ESL	Umbrella academy but our superpowe	71	77	73	77	78	376	75.20	2.71	75.67
+124=	Tanmoy Ahsan	ESL	IUT Team Led Zeppelin	75	76	71	76	77	375	75.00	2.10	75.67
+124=	Redacted	ESL	—	69	75	77	78	76	375	75.00	3.16	76.00
+124=	Xinyu Hu	ESL, Novice	Cornell A funny team name here	75	77	76	73	74	375	75.00	1.41	75.00
+124=	Jason Le	ESL, Novice	Drexel Mass Debaters	74	77	77	74	73	375	75.00	1.67	75.00
+124=	Andy Zhang	Novice	50% competent in league	77	74	71	78	75	375	75.00	2.45	75.33
+129=	Donnell Weldon	Novice	NU return of the random pro amers	68	73	78	79	76	374	74.80	3.97	75.67
+129=	Rachel Chen	Novice	NUS CD	77	75	74	70	78	374	74.80	2.79	75.33
+129=	Francis Augustine Z. Vendiola		UPLB send help	76	79	75	74	70	374	74.80	2.93	75.00
+129=	emily wang	ESL	whip me harder speaker senpai	76	72	75	79	72	374	74.80	2.64	74.33
+129=	Aaron Wang	ESL	Snow Night	74	76	74	75	75	374	74.80	0.75	74.67
+134=	Harvi Karatha	Novice	HH 👉👈	75	72	78	71	77	373	74.60	2.73	74.67
+134=	Zayn Tucker	Novice	Best Maple Syrup	73	75	76	75	74	373	74.60	1.02	74.67
+136=	Chloe Marchack	Novice	HH 👉👈	75	73	77	71	76	372	74.40	2.15	74.67
+136=	Michael Ampah Yeboah	ESL	KNUST B	76	77	72	75	72	372	74.40	2.06	74.33
+138	Arshiya Sohaib	ESL	Umbrella academy but our superpowe	70	75	73	75	76	369	73.80	2.14	74.33
+139	Leila Khennouf	Novice	Best Maple Syrup	73	73	72	72	74	364	72.80	0.75	72.67
+140	Tony Chen*	Novice	SHDC CY	77	79	77	79	—	312	78.00	1.00	78.00
+141=	Redacted	ESL	—	76	79	75	81	—	311	77.75	2.38	77.50
+141=	Matti Tan		Harvard HT	77	78	74	82	—	311	77.75	2.86	77.50
+143	Gaby Lin	Novice	Ox Gaby Please Think A Better Team Na	—	76	79	77	77	309	77.25	1.09	77.00
+144=	Redacted	Novice	—	77	—	77	79	74	307	76.75	1.79	77.00
+144=	Lois Osei-Sekyereh	ESL	For Camelot!	78	78	—	76	75	307	76.75	1.30	77.00
+146	Speaker A		Swing C	75	75	—	78	78	306	76.50	1.50	76.50
+147	Ishaan Goel	Novice	Chicago 2-ish BP Novices	77	76	74	78	—	305	76.25	1.48	76.50
+148=	Raphael Khalid	ESL	Minerva Peaked in high school	77	74	77	76	—	304	76.00	1.22	76.50
+148=	Alina Salman	ESL, Novice	Minerva Peaked in high school	76	75	77	76	—	304	76.00	0.71	76.00
+148=	Speaker 1		Swing B	—	78	75	75	76	304	76.00	1.22	75.50
+151	Dineth Hettiarachchi	ESL, Novice	UCSC Variants	73	74	78	78	—	303	75.75	2.28	76.00
+152=	Andy	Novice	HH Cool Math Games	69	75	78	79	—	301	75.25	3.90	76.50
+152=	Mihika Jain	Novice	Chicago 2-ish BP Novices	76	74	74	77	—	301	75.25	1.30	75.00
+154	Brandon He	Novice	50% competent in league	78	74	71	77	—	300	75.00	2.74	75.50
+155=	McEwen Reil	Novice	HH Cool Math Games	69	75	77	78	—	299	74.75	3.49	76.00
+155=	Joi Chen	ESL	Snow Night	74	75	74	—	76	299	74.75	0.83	74.50
+157	Furgurson Awuni	ESL	KNUST B	—	78	72	76	72	298	74.50	2.60	74.00
+158	Denzelle Jude Caro	ESL	UST 50 kills botfrag and 0.4 minions	80	81	76	—	—	237	79.00	2.16	80.00
+159	Kate Seddon	Novice	LSE D(on&#x27;t want to be here)	—	—	78	77	74	229	76.33	1.70	77.00
+160=	Eldridge Vincent M. Hubilla		UPLB send help	77	80	—	—	71	228	76.00	3.74	77.00
+160=	Speaker B		Swing A	—	77	75	76	—	228	76.00	0.82	76.00
+160=	Akmal Mahmood	ESL, Novice	Ak a love story	76	77	—	—	75	228	76.00	0.82	76.00
+163	Prabhav Narang	ESL	DCAC Jump and Shout	75	77	75	—	—	227	75.67	0.94	75.00
+164	Gunjan Saini	ESL	DCAC Jump and Shout	76	76	74	—	—	226	75.33	0.94	76.00
+165	Tatiana Sevyan	ESL, Novice	Ox We need to break	—	—	74	77	73	224	74.67	1.70	74.00
+166	Redacted	ESL	—	72	73	76	—	—	221	73.67	1.70	73.00
+167	Redacted	ESL	—	72	73	75	—	—	220	73.33	1.25	73.00
+168	Redacted	Novice	—	70	74	75	—	—	219	73.00	2.16	74.00
+169	Naziba Tasnim	ESL, Novice	Team NR	74	71	—	—	73	218	72.67	1.25	73.00
+170	Redacted		—	70	72	74	—	—	216	72.00	1.63	72.00
+171	Redacted	ESL, Novice	—	73	70	—	—	72	215	71.67	1.25	72.00
+172	Tanvir Shahriar		HH look muzzi, we made it to ur comp!	79	77	—	—	—	156	78.00	1.00	78.00
+173	Speaker I		Swing D	76	—	—	78	—	154	77.00	1.00	77.00
+174	Nguyen Xuan Quang Linh	Novice	VG LA	—	75	—	75	—	150	75.00	0.00	75.00
+175=	Adam Banihani		HH look muzzi, we made it to ur comp!	78	—	—	—	—	78	78.00	0.00	78.00
+175=	Speaker O		Swing D	—	—	—	78	—	78	78.00	0.00	78.00
+177	Speaker B		Swing C	—	74	—	—	—	74	74.00	0.00	74.00
+178=	Nguyễn Thị Hoàng Anh	Novice	VG LA	—	—	—	—	—	—	—	—	—
+178=	Ains	ESL	Ateneo Uni E	—	—	—	—	—	—	—	—	—
+178=	Bernard Advincula		Ateneo Uni E	—	—	—	—	—	—	—	—	—
+178=	Ethan Shurberg	Novice	Brandeis Reciprocity	—	—	—	—	—	—	—	—	—
+178=	Srishti Nautiyal		Brandeis Reciprocity	—	—	—	—	—	—	—	—	—
+178=	Maya Razmi		Harvard RQ	—	—	—	—	—	—	—	—	—
+178=	Justin Qi		Harvard RQ	—	—	—	—	—	—	—	—	—
+178=	Devesh Kodnani		Chicago A(sleep)	—	—	—	—	—	—	—	—	—
+178=	Brian Li		Chicago A(sleep)	—	—	—	—	—	—	—	—	—
+178=	Ignacio Peralta	ESL	PA	—	—	—	—	—	—	—	—	—
+178=	Flawrencia Atria		PA	—	—	—	—	—	—	—	—	—
+178=	Mahirf	ESL	MZ	—	—	—	—	—	—	—	—	—
+178=	Zamn	ESL	MZ	—	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+NU return of the random pro amers	4th	Closing Government	View Ballot	Andrew ChenⒸ , Chris Braithwaite , Varun Lodaya
+KNUST Z	1st	Opening Opposition	View Ballot	Andrew ChenⒸ , Chris Braithwaite , Varun Lodaya
+whip me harder speaker senpai	2nd	Opening Government	View Ballot	Andrew ChenⒸ , Chris Braithwaite , Varun Lodaya
+Umbrella academy but our superpowe	3rd	Closing Opposition	View Ballot	Andrew ChenⒸ , Chris Braithwaite , Varun Lodaya
+SHDC CY	3rd	Closing Government	View Ballot	Prashasti SaxenaⒸ , Nikta Ghozati
+RIC Debating in Darkness	2nd	Closing Opposition	View Ballot	Prashasti SaxenaⒸ , Nikta Ghozati
+Ateneo Uni CL	1st	Opening Government	View Ballot	Prashasti SaxenaⒸ , Nikta Ghozati
+team entropy	4th	Opening Opposition	View Ballot	Prashasti SaxenaⒸ , Nikta Ghozati
+Princeton Jane &amp; Emily	3rd	Opening Government	View Ballot	Miruna ChirilaⒸ , Idris Ibrahim , Paolo Taino
+NUS CD	2nd	Opening Opposition	View Ballot	Miruna ChirilaⒸ , Idris Ibrahim , Paolo Taino
+Vani Mahal Champions	1st	Closing Government	View Ballot	Miruna ChirilaⒸ , Idris Ibrahim , Paolo Taino
+Open fanclub revival tour	4th	Closing Opposition	View Ballot	Miruna ChirilaⒸ , Idris Ibrahim , Paolo Taino
+HH look muzzi, we made it to ur comp!	1st	Opening Opposition	View Ballot	Devashish TrivediⒸ , Vanshika Kalra
+Cornell Social Battering Ram	3rd	Closing Government	View Ballot	Devashish TrivediⒸ , Vanshika Kalra
+Cornell A funny team name here	4th	Opening Government	View Ballot	Devashish TrivediⒸ , Vanshika Kalra
+Open Lights Out	2nd	Closing Opposition	View Ballot	Devashish TrivediⒸ , Vanshika Kalra
+UCLA Manatee	2nd	Closing Opposition	View Ballot	Jack SynnottⒸ , Harry Zhang , Muzzi Godil
+UST 50 kills botfrag and 0.4 minions	1st	Opening Opposition	View Ballot	Jack SynnottⒸ , Harry Zhang , Muzzi Godil
+KNUST A	3rd	Opening Government	View Ballot	Jack SynnottⒸ , Harry Zhang , Muzzi Godil
+Chicago 2-ish BP Novices	4th	Closing Government	View Ballot	Jack SynnottⒸ , Harry Zhang , Muzzi Godil
+KNUST O Andy &amp; Erasmus	1st	Closing Opposition	View Ballot	Beatrice CuizonⒸ , Eze , Karina Wugang
+Ateneo HS RV	3rd	Opening Government	View Ballot	Beatrice CuizonⒸ , Eze , Karina Wugang
+on time	2nd	Opening Opposition	View Ballot	Beatrice CuizonⒸ , Eze , Karina Wugang
+Open Lowly Debaters	4th	Closing Government	View Ballot	Beatrice CuizonⒸ , Eze , Karina Wugang
+KNUST X	1st	Opening Government	View Ballot	Tawfique ElahiⒸ , Kayla Powers
+LSE D(on&#x27;t want to be here)	2nd	Closing Government	View Ballot	Tawfique ElahiⒸ , Kayla Powers
+Swing D	3rd	Closing Opposition	View Ballot	Tawfique ElahiⒸ , Kayla Powers
+Team NR	4th	Opening Opposition	View Ballot	Tawfique ElahiⒸ , Kayla Powers
+HH SR	3rd	Opening Opposition	View Ballot	Samuel ScheuerⒸ , Esther Baker
+Harvard HT	1st	Closing Government	View Ballot	Samuel ScheuerⒸ , Esther Baker
+Swing C	4th	Closing Opposition	View Ballot	Samuel ScheuerⒸ , Esther Baker
+Open Shrigma Male	2nd	Opening Government	View Ballot	Samuel ScheuerⒸ , Esther Baker
+DSULS incapable of memey names	3rd	Opening Government	View Ballot	Ashish Xiangyi KumarⒸ , Flora Baek , Tan Kuan Hian
+Ox Gaby Please Think A Better Team Na	2nd	Opening Opposition	View Ballot	Ashish Xiangyi KumarⒸ , Flora Baek , Tan Kuan Hian
+NUS KL	4th	Closing Government	View Ballot	Ashish Xiangyi KumarⒸ , Flora Baek , Tan Kuan Hian
+Harvard I turf-burned my philosophy class	1st	Closing Opposition	View Ballot	Ashish Xiangyi KumarⒸ , Flora Baek , Tan Kuan Hian
+KNUST B	3rd	Closing Government	View Ballot	Ayodele SamuelⒸ , Afzal Hussain , Ayafa Tonye
+DCAC Jump and Shout	4th	Opening Government	View Ballot	Ayodele SamuelⒸ , Afzal Hussain , Ayafa Tonye
+Chicago The motions committee will decide	2nd	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Afzal Hussain , Ayafa Tonye
+Diggory is looking real different	1st	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Afzal Hussain , Ayafa Tonye
+DAV A	1st	Opening Government	View Ballot	Aniket ChakravortyⒸ , Jessica Afi Fayose
+NU Baba&#x27;s Bitches	2nd	Closing Opposition	View Ballot	Aniket ChakravortyⒸ , Jessica Afi Fayose
+LV	3rd	Closing Government	View Ballot	Aniket ChakravortyⒸ , Jessica Afi Fayose
+eleven letter last names &gt;&gt;&gt;	4th	Opening Opposition	View Ballot	Aniket ChakravortyⒸ , Jessica Afi Fayose
+Ateneo HS GH	4th	Opening Opposition	View Ballot	Jacob SilcoffⒸ , Alex Lovell
+Harvard dy/dx	1st	Closing Opposition	View Ballot	Jacob SilcoffⒸ , Alex Lovell
+GW BP Relapse	3rd	Opening Government	View Ballot	Jacob SilcoffⒸ , Alex Lovell
+Chicago HP	2nd	Closing Government	View Ballot	Jacob SilcoffⒸ , Alex Lovell
+HH prepare for trouble make it double	1st	Closing Government	View Ballot	Marco DavaⒸ , Joyce Delali Kpeglo
+UPLB send help	3rd	Opening Government	View Ballot	Marco DavaⒸ , Joyce Delali Kpeglo
+Open let&#x27;s get this bread	4th	Opening Opposition	View Ballot	Marco DavaⒸ , Joyce Delali Kpeglo
+Oxford A	2nd	Closing Opposition	View Ballot	Marco DavaⒸ , Joyce Delali Kpeglo
+HH 👉👈	4th	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ , Kyle Xander Flor Co
+Tufts-McGill The Pirates are Back from COVID	1st	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ , Kyle Xander Flor Co
+Cornell In a medium bowl, whisk together s	2nd	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Kyle Xander Flor Co
+Swing A	3rd	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Kyle Xander Flor Co
+HH what is grass	4th	Opening Opposition	View Ballot	Caoimhin HamillⒸ , Halimat Ojone Usman
+LSE A	1st	Closing Opposition	View Ballot	Caoimhin HamillⒸ , Halimat Ojone Usman
+Minerva Peaked in high school	2nd	Opening Government	View Ballot	Caoimhin HamillⒸ , Halimat Ojone Usman
+Snow Night	3rd	Closing Government	View Ballot	Caoimhin HamillⒸ , Halimat Ojone Usman
+TCUHK 5am debate gang	3rd	Closing Opposition	View Ballot	Tengku OmarⒸ , Ivan Valenzuela
+Drexel Mass Debaters	4th	Opening Opposition	View Ballot	Tengku OmarⒸ , Ivan Valenzuela
+Open Making 11/10 questionable decision	2nd	Opening Government	View Ballot	Tengku OmarⒸ , Ivan Valenzuela
+Dancing Cucumbers	1st	Closing Government	View Ballot	Tengku OmarⒸ , Ivan Valenzuela
+IUT Team Led Zeppelin	3rd	Opening Opposition	View Ballot	Sher MayⒸ , Elgin Lin
+Best Maple Syrup	4th	Closing Government	View Ballot	Sher MayⒸ , Elgin Lin
+50% competent in league	2nd	Closing Opposition	View Ballot	Sher MayⒸ , Elgin Lin
+Kween Nicki #barbz	1st	Opening Government	View Ballot	Sher MayⒸ , Elgin Lin
+Wellesley asians of chaos	3rd	Closing Opposition	View Ballot	Anshuman MishraⒸ , Ino Maderazo
+NTU Red Panda Spirit	4th	Closing Government	View Ballot	Anshuman MishraⒸ , Ino Maderazo
+Swing B	2nd	Opening Opposition	View Ballot	Anshuman MishraⒸ , Ino Maderazo
+Open PANtastic	1st	Opening Government	View Ballot	Anshuman MishraⒸ , Ino Maderazo
+Princeton We turf-burned MOL101	2nd	Closing Opposition	View Ballot	Boemo PhirinyaneⒸ , Benjamin Donkor-Boafo
+Ateneo HS BC	3rd	Opening Opposition	View Ballot	Boemo PhirinyaneⒸ , Benjamin Donkor-Boafo
+LSE Keera &amp; Her Partner	1st	Closing Government	View Ballot	Boemo PhirinyaneⒸ , Benjamin Donkor-Boafo
+Mom: we have Jack Palmer at home	4th	Opening Government	View Ballot	Boemo PhirinyaneⒸ , Benjamin Donkor-Boafo
+BRAC B	2nd	Opening Government	View Ballot	Yusuf SteelⒸ , Gaveal Fan , Mansa Fuah
+HH Cool Math Games	4th	Closing Government	View Ballot	Yusuf SteelⒸ , Gaveal Fan , Mansa Fuah
+BNU A	3rd	Closing Opposition	View Ballot	Yusuf SteelⒸ , Gaveal Fan , Mansa Fuah
+LSE C	1st	Opening Opposition	View Ballot	Yusuf SteelⒸ , Gaveal Fan , Mansa Fuah
+UCSC Variants	4th	Closing Government	View Ballot	Pranav AnandⒸ , Wajeeh Maaz
+Princeton https://youtu.be/EHK5fBm1YWk	1st	Opening Government	View Ballot	Pranav AnandⒸ , Wajeeh Maaz
+Ox We need to break	2nd	Opening Opposition	View Ballot	Pranav AnandⒸ , Wajeeh Maaz
+UWODS A	3rd	Closing Opposition	View Ballot	Pranav AnandⒸ , Wajeeh Maaz
+HWS One worlds break away from retirin	1st	Closing Opposition	View Ballot	Mishaal SaidⒸ , Adhipatya Singh , Dihan Mashroor Niloy
+Ateneo Uni AB	2nd	Opening Government	View Ballot	Mishaal SaidⒸ , Adhipatya Singh , Dihan Mashroor Niloy
+Ak a love story	4th	Opening Opposition	View Ballot	Mishaal SaidⒸ , Adhipatya Singh , Dihan Mashroor Niloy
+For Camelot!	3rd	Closing Government	View Ballot	Mishaal SaidⒸ , Adhipatya Singh , Dihan Mashroor Niloy
+
+
+team	result	side	ballot	adjudicators
+KNUST Z	4th	Closing Government	View Ballot	Elgin LinⒸ , Eric Kazadi
+KNUST X	1st	Opening Opposition	View Ballot	Elgin LinⒸ , Eric Kazadi
+Harvard dy/dx	3rd	Opening Government	View Ballot	Elgin LinⒸ , Eric Kazadi
+Open PANtastic	2nd	Closing Opposition	View Ballot	Elgin LinⒸ , Eric Kazadi
+HH SR	2nd	Closing Opposition	View Ballot	Mishaal SaidⒸ , Kyle Xander Flor Co
+HH Cool Math Games	4th	Opening Government	View Ballot	Mishaal SaidⒸ , Kyle Xander Flor Co
+Princeton Jane &amp; Emily	1st	Closing Government	View Ballot	Mishaal SaidⒸ , Kyle Xander Flor Co
+Umbrella academy but our superpowe	3rd	Opening Opposition	View Ballot	Mishaal SaidⒸ , Kyle Xander Flor Co
+HH look muzzi, we made it to ur comp!	4th	Opening Government	View Ballot	Wajeeh MaazⒸ , Ayodele Samuel , Ruth Selorme Acolatse
+Ateneo Uni CL	3rd	Opening Opposition	View Ballot	Wajeeh MaazⒸ , Ayodele Samuel , Ruth Selorme Acolatse
+LSE C	2nd	Closing Opposition	View Ballot	Wajeeh MaazⒸ , Ayodele Samuel , Ruth Selorme Acolatse
+Kween Nicki #barbz	1st	Closing Government	View Ballot	Wajeeh MaazⒸ , Ayodele Samuel , Ruth Selorme Acolatse
+VG LA	4th	Opening Opposition	View Ballot	Prashasti SaxenaⒸ , Dihan Mashroor Niloy
+DCAC Jump and Shout	3rd	Closing Opposition	View Ballot	Prashasti SaxenaⒸ , Dihan Mashroor Niloy
+Drexel Mass Debaters	2nd	Opening Government	View Ballot	Prashasti SaxenaⒸ , Dihan Mashroor Niloy
+Mom: we have Jack Palmer at home	1st	Closing Government	View Ballot	Prashasti SaxenaⒸ , Dihan Mashroor Niloy
+NTU Red Panda Spirit	1st	Opening Government	View Ballot	Jacob SilcoffⒸ , Joyce Delali Kpeglo , Paolo Taino
+Swing C	4th	Closing Government	View Ballot	Jacob SilcoffⒸ , Joyce Delali Kpeglo , Paolo Taino
+Open let&#x27;s get this bread	3rd	Closing Opposition	View Ballot	Jacob SilcoffⒸ , Joyce Delali Kpeglo , Paolo Taino
+Open Lowly Debaters	2nd	Opening Opposition	View Ballot	Jacob SilcoffⒸ , Joyce Delali Kpeglo , Paolo Taino
+SHDC CY	1st	Closing Opposition	View Ballot	Aniket ChakravortyⒸ , Idris Ibrahim
+DSULS incapable of memey names	2nd	Opening Opposition	View Ballot	Aniket ChakravortyⒸ , Idris Ibrahim
+Wellesley asians of chaos	3rd	Closing Government	View Ballot	Aniket ChakravortyⒸ , Idris Ibrahim
+TCUHK 5am debate gang	4th	Opening Government	View Ballot	Aniket ChakravortyⒸ , Idris Ibrahim
+UST 50 kills botfrag and 0.4 minions	3rd	Closing Government	View Ballot	Ashish Xiangyi KumarⒸ , Esther Baker , Ivan Valenzuela
+HWS One worlds break away from retirin	4th	Opening Government	View Ballot	Ashish Xiangyi KumarⒸ , Esther Baker , Ivan Valenzuela
+Harvard I turf-burned my philosophy class	2nd	Opening Opposition	View Ballot	Ashish Xiangyi KumarⒸ , Esther Baker , Ivan Valenzuela
+Dancing Cucumbers	1st	Closing Opposition	View Ballot	Ashish Xiangyi KumarⒸ , Esther Baker , Ivan Valenzuela
+Chicago 2-ish BP Novices	2nd	Opening Opposition	View Ballot	Anshuman MishraⒸ , Adhipatya Singh
+Best Maple Syrup	3rd	Opening Government	View Ballot	Anshuman MishraⒸ , Adhipatya Singh
+Team NR	4th	Closing Government	View Ballot	Anshuman MishraⒸ , Adhipatya Singh
+Ak a love story	1st	Closing Opposition	View Ballot	Anshuman MishraⒸ , Adhipatya Singh
+HH what is grass	4th	Closing Government	View Ballot	Samuel ScheuerⒸ , Alex Lovell
+NU return of the random pro amers	3rd	Closing Opposition	View Ballot	Samuel ScheuerⒸ , Alex Lovell
+Ateneo HS GH	2nd	Opening Government	View Ballot	Samuel ScheuerⒸ , Alex Lovell
+NUS KL	1st	Opening Opposition	View Ballot	Samuel ScheuerⒸ , Alex Lovell
+KNUST O Andy &amp; Erasmus	4th	Opening Government	View Ballot	Beatrice CuizonⒸ , Afzal Hussain , Benjamin Donkor-Boafo
+LSE A	2nd	Opening Opposition	View Ballot	Beatrice CuizonⒸ , Afzal Hussain , Benjamin Donkor-Boafo
+LSE Keera &amp; Her Partner	3rd	Closing Opposition	View Ballot	Beatrice CuizonⒸ , Afzal Hussain , Benjamin Donkor-Boafo
+Diggory is looking real different	1st	Closing Government	View Ballot	Beatrice CuizonⒸ , Afzal Hussain , Benjamin Donkor-Boafo
+Ox We need to break	3rd	Opening Government	View Ballot	Sher MayⒸ , Tan Kuan Hian , Zen Nguyen
+LSE D(on&#x27;t want to be here)	2nd	Closing Opposition	View Ballot	Sher MayⒸ , Tan Kuan Hian , Zen Nguyen
+Open Lights Out	4th	Closing Government	View Ballot	Sher MayⒸ , Tan Kuan Hian , Zen Nguyen
+Open Making 11/10 questionable decision	1st	Opening Opposition	View Ballot	Sher MayⒸ , Tan Kuan Hian , Zen Nguyen
+DAV A	3rd	Closing Opposition	View Ballot	Pranav AnandⒸ , Gaveal Fan , Jessica Afi Fayose
+HH prepare for trouble make it double	2nd	Opening Opposition	View Ballot	Pranav AnandⒸ , Gaveal Fan , Jessica Afi Fayose
+Princeton We turf-burned MOL101	1st	Closing Government	View Ballot	Pranav AnandⒸ , Gaveal Fan , Jessica Afi Fayose
+NUS CD	4th	Opening Government	View Ballot	Pranav AnandⒸ , Gaveal Fan , Jessica Afi Fayose
+UPLB send help	1st	Opening Opposition	View Ballot	Narayan SharmaⒸ , Eze
+Cornell A funny team name here	3rd	Closing Opposition	View Ballot	Narayan SharmaⒸ , Eze
+UWODS A	2nd	Opening Government	View Ballot	Narayan SharmaⒸ , Eze
+eleven letter last names &gt;&gt;&gt;	4th	Closing Government	View Ballot	Narayan SharmaⒸ , Eze
+UCLA Manatee	3rd	Opening Government	View Ballot	Marco DavaⒸ , Flora Baek
+BRAC B	4th	Closing Government	View Ballot	Marco DavaⒸ , Flora Baek
+Ateneo Uni AB	1st	Opening Opposition	View Ballot	Marco DavaⒸ , Flora Baek
+Swing B	2nd	Closing Opposition	View Ballot	Marco DavaⒸ , Flora Baek
+BNU A	1st	Opening Opposition	View Ballot	Tengku OmarⒸ , Nikta Ghozati
+Ateneo HS RV	4th	Closing Government	View Ballot	Tengku OmarⒸ , Nikta Ghozati
+Ateneo HS BC	3rd	Opening Government	View Ballot	Tengku OmarⒸ , Nikta Ghozati
+LV	2nd	Closing Opposition	View Ballot	Tengku OmarⒸ , Nikta Ghozati
+NU Baba&#x27;s Bitches	3rd	Closing Government	View Ballot	Tawfique ElahiⒸ , Muzzi Godil
+Chicago The motions committee will decide	1st	Opening Government	View Ballot	Tawfique ElahiⒸ , Muzzi Godil
+Chicago HP	4th	Closing Opposition	View Ballot	Tawfique ElahiⒸ , Muzzi Godil
+Oxford A	2nd	Opening Opposition	View Ballot	Tawfique ElahiⒸ , Muzzi Godil
+GW BP Relapse	2nd	Closing Opposition	View Ballot	Devashish TrivediⒸ , Halimat Ojone Usman , Kayla Powers
+Swing A	3rd	Closing Government	View Ballot	Devashish TrivediⒸ , Halimat Ojone Usman , Kayla Powers
+Snow Night	4th	Opening Government	View Ballot	Devashish TrivediⒸ , Halimat Ojone Usman , Kayla Powers
+For Camelot!	1st	Opening Opposition	View Ballot	Devashish TrivediⒸ , Halimat Ojone Usman , Kayla Powers
+RIC Debating in Darkness	1st	Opening Opposition	View Ballot	Miruna ChirilaⒸ , Karina Wugang
+Ox Gaby Please Think A Better Team Na	2nd	Closing Opposition	View Ballot	Miruna ChirilaⒸ , Karina Wugang
+on time	3rd	Opening Government	View Ballot	Miruna ChirilaⒸ , Karina Wugang
+whip me harder speaker senpai	4th	Closing Government	View Ballot	Miruna ChirilaⒸ , Karina Wugang
+IUT Team Led Zeppelin	3rd	Closing Government	View Ballot	Andrew ChenⒸ , Vanshika Kalra
+KNUST B	2nd	Opening Opposition	View Ballot	Andrew ChenⒸ , Vanshika Kalra
+KNUST A	4th	Closing Opposition	View Ballot	Andrew ChenⒸ , Vanshika Kalra
+Cornell Social Battering Ram	1st	Opening Government	View Ballot	Andrew ChenⒸ , Vanshika Kalra
+Cornell In a medium bowl, whisk together s	2nd	Opening Government	View Ballot	Caoimhin HamillⒸ , Harry Zhang , Varun Lodaya
+Minerva Peaked in high school	3rd	Closing Opposition	View Ballot	Caoimhin HamillⒸ , Harry Zhang , Varun Lodaya
+50% competent in league	4th	Closing Government	View Ballot	Caoimhin HamillⒸ , Harry Zhang , Varun Lodaya
+Open Shrigma Male	1st	Opening Opposition	View Ballot	Caoimhin HamillⒸ , Harry Zhang , Varun Lodaya
+UCSC Variants	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ , Chris Braithwaite
+HH 👉👈	4th	Closing Government	View Ballot	Ayafa TonyeⒸ , Chris Braithwaite
+team entropy	2nd	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Chris Braithwaite
+Open fanclub revival tour	1st	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Chris Braithwaite
+Princeton https://youtu.be/EHK5fBm1YWk	2nd	Closing Government	View Ballot	Boemo PhirinyaneⒸ , Jack Synnott , Mansa Fuah
+Tufts-McGill The Pirates are Back from COVID	3rd	Opening Opposition	View Ballot	Boemo PhirinyaneⒸ , Jack Synnott , Mansa Fuah
+Harvard HT	4th	Opening Government	View Ballot	Boemo PhirinyaneⒸ , Jack Synnott , Mansa Fuah
+Vani Mahal Champions	1st	Closing Opposition	View Ballot	Boemo PhirinyaneⒸ , Jack Synnott , Mansa Fuah
+
+
+team	result	side	ballot	adjudicators
+Ox We need to break	3rd	Closing Opposition	View Ballot	Tawfique ElahiⒸ , Kyle Xander Flor Co
+KNUST B	4th	Opening Government	View Ballot	Tawfique ElahiⒸ , Kyle Xander Flor Co
+LV	2nd	Opening Opposition	View Ballot	Tawfique ElahiⒸ , Kyle Xander Flor Co
+Open fanclub revival tour	1st	Closing Government	View Ballot	Tawfique ElahiⒸ , Kyle Xander Flor Co
+UCLA Manatee	1st	Closing Government	View Ballot	Narayan SharmaⒸ , Afzal Hussain
+KNUST Z	4th	Opening Government	View Ballot	Narayan SharmaⒸ , Afzal Hussain
+NTU Red Panda Spirit	2nd	Closing Opposition	View Ballot	Narayan SharmaⒸ , Afzal Hussain
+GW BP Relapse	3rd	Opening Opposition	View Ballot	Narayan SharmaⒸ , Afzal Hussain
+KNUST O Andy &amp; Erasmus	2nd	Closing Government	View Ballot	Ayodele SamuelⒸ , Lame Busang
+BNU A	4th	Opening Government	View Ballot	Ayodele SamuelⒸ , Lame Busang
+Princeton Jane &amp; Emily	3rd	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Lame Busang
+Mom: we have Jack Palmer at home	1st	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Lame Busang
+DSULS incapable of memey names	2nd	Closing Opposition	View Ballot	Paolo TainoⒸ , Alex Lovell , Benjamin Donkor-Boafo
+HH SR	3rd	Opening Government	View Ballot	Paolo TainoⒸ , Alex Lovell , Benjamin Donkor-Boafo
+NU Baba&#x27;s Bitches	1st	Opening Opposition	View Ballot	Paolo TainoⒸ , Alex Lovell , Benjamin Donkor-Boafo
+team entropy	4th	Closing Government	View Ballot	Paolo TainoⒸ , Alex Lovell , Benjamin Donkor-Boafo
+Princeton https://youtu.be/EHK5fBm1YWk	1st	Opening Opposition	View Ballot	Andrew ChenⒸ , Elgin Lin , Eze
+Ateneo Uni CL	2nd	Closing Government	View Ballot	Andrew ChenⒸ , Elgin Lin , Eze
+Tufts-McGill The Pirates are Back from COVID	3rd	Closing Opposition	View Ballot	Andrew ChenⒸ , Elgin Lin , Eze
+For Camelot!	4th	Opening Government	View Ballot	Andrew ChenⒸ , Elgin Lin , Eze
+HWS One worlds break away from retirin	1st	Closing Government	View Ballot	Wajeeh MaazⒸ , Karina Wugang , Varun Lodaya
+IUT Team Led Zeppelin	4th	Closing Opposition	View Ballot	Wajeeh MaazⒸ , Karina Wugang , Varun Lodaya
+Minerva Peaked in high school	2nd	Opening Opposition	View Ballot	Wajeeh MaazⒸ , Karina Wugang , Varun Lodaya
+Ak a love story	3rd	Opening Government	View Ballot	Wajeeh MaazⒸ , Karina Wugang , Varun Lodaya
+UCSC Variants	1st	Closing Opposition	View Ballot	Tengku OmarⒸ , Dihan Mashroor Niloy , Kayla Powers
+NU return of the random pro amers	2nd	Opening Government	View Ballot	Tengku OmarⒸ , Dihan Mashroor Niloy , Kayla Powers
+KNUST A	3rd	Closing Government	View Ballot	Tengku OmarⒸ , Dihan Mashroor Niloy , Kayla Powers
+Best Maple Syrup	4th	Opening Opposition	View Ballot	Tengku OmarⒸ , Dihan Mashroor Niloy , Kayla Powers
+RIC Debating in Darkness	2nd	Opening Government	View Ballot	Pranav AnandⒸ , Idris Ibrahim , Jack Synnott
+LSE C	3rd	Closing Government	View Ballot	Pranav AnandⒸ , Idris Ibrahim , Jack Synnott
+Chicago The motions committee will decide	1st	Opening Opposition	View Ballot	Pranav AnandⒸ , Idris Ibrahim , Jack Synnott
+Open Shrigma Male	4th	Closing Opposition	View Ballot	Pranav AnandⒸ , Idris Ibrahim , Jack Synnott
+UST 50 kills botfrag and 0.4 minions	4th	Closing Opposition	View Ballot	Miruna ChirilaⒸ , Anshuman Mishra
+SHDC CY	3rd	Opening Opposition	View Ballot	Miruna ChirilaⒸ , Anshuman Mishra
+Ox Gaby Please Think A Better Team Na	2nd	Opening Government	View Ballot	Miruna ChirilaⒸ , Anshuman Mishra
+Cornell In a medium bowl, whisk together s	1st	Closing Government	View Ballot	Miruna ChirilaⒸ , Anshuman Mishra
+BRAC B	4th	Closing Opposition	View Ballot	Devashish TrivediⒸ , Gaveal Fan , Nikta Ghozati
+Ateneo HS BC	1st	Closing Government	View Ballot	Devashish TrivediⒸ , Gaveal Fan , Nikta Ghozati
+Chicago HP	2nd	Opening Opposition	View Ballot	Devashish TrivediⒸ , Gaveal Fan , Nikta Ghozati
+Open Lowly Debaters	3rd	Opening Government	View Ballot	Devashish TrivediⒸ , Gaveal Fan , Nikta Ghozati
+Wellesley asians of chaos	2nd	Opening Opposition	View Ballot	Adhipatya SinghⒸ , Muzzi Godil , Zen Nguyen
+NUS CD	3rd	Closing Government	View Ballot	Adhipatya SinghⒸ , Muzzi Godil , Zen Nguyen
+Drexel Mass Debaters	1st	Closing Opposition	View Ballot	Adhipatya SinghⒸ , Muzzi Godil , Zen Nguyen
+50% competent in league	4th	Opening Government	View Ballot	Adhipatya SinghⒸ , Muzzi Godil , Zen Nguyen
+KNUST X	4th	Closing Government	View Ballot	Caoimhin HamillⒸ , Beatrice Cuizon
+Vani Mahal Champions	1st	Opening Government	View Ballot	Caoimhin HamillⒸ , Beatrice Cuizon
+Dancing Cucumbers	3rd	Opening Opposition	View Ballot	Caoimhin HamillⒸ , Beatrice Cuizon
+Diggory is looking real different	2nd	Closing Opposition	View Ballot	Caoimhin HamillⒸ , Beatrice Cuizon
+HH 👉👈	1st	Opening Opposition	View Ballot	Mishaal SaidⒸ , Ino Maderazo , Mansa Fuah
+HH what is grass	4th	Opening Government	View Ballot	Mishaal SaidⒸ , Ino Maderazo , Mansa Fuah
+Swing B	3rd	Closing Government	View Ballot	Mishaal SaidⒸ , Ino Maderazo , Mansa Fuah
+eleven letter last names &gt;&gt;&gt;	2nd	Closing Opposition	View Ballot	Mishaal SaidⒸ , Ino Maderazo , Mansa Fuah
+Ateneo HS GH	1st	Closing Government	View Ballot	Flora BaekⒸ , Ruth Selorme Acolatse
+Chicago 2-ish BP Novices	4th	Closing Opposition	View Ballot	Flora BaekⒸ , Ruth Selorme Acolatse
+Open Lights Out	2nd	Opening Government	View Ballot	Flora BaekⒸ , Ruth Selorme Acolatse
+whip me harder speaker senpai	3rd	Opening Opposition	View Ballot	Flora BaekⒸ , Ruth Selorme Acolatse
+Ateneo Uni AB	3rd	Closing Opposition	View Ballot	Harry ZhangⒸ , Eric Kazadi
+LSE A	1st	Opening Government	View Ballot	Harry ZhangⒸ , Eric Kazadi
+Open Making 11/10 questionable decision	2nd	Closing Government	View Ballot	Harry ZhangⒸ , Eric Kazadi
+Open PANtastic	4th	Opening Opposition	View Ballot	Harry ZhangⒸ , Eric Kazadi
+LSE Keera &amp; Her Partner	1st	Opening Government	View Ballot	Yusuf SteelⒸ , Nicole Cheung , Oisín Browne
+UPLB send help	4th	Closing Opposition	View Ballot	Yusuf SteelⒸ , Nicole Cheung , Oisín Browne
+Harvard dy/dx	3rd	Closing Government	View Ballot	Yusuf SteelⒸ , Nicole Cheung , Oisín Browne
+Cornell Social Battering Ram	2nd	Opening Opposition	View Ballot	Yusuf SteelⒸ , Nicole Cheung , Oisín Browne
+HH prepare for trouble make it double	4th	Opening Government	View Ballot	Aniket ChakravortyⒸ , Jacob Silcoff , Marco Dava
+Princeton We turf-burned MOL101	3rd	Opening Opposition	View Ballot	Aniket ChakravortyⒸ , Jacob Silcoff , Marco Dava
+Harvard I turf-burned my philosophy class	2nd	Closing Government	View Ballot	Aniket ChakravortyⒸ , Jacob Silcoff , Marco Dava
+Kween Nicki #barbz	1st	Closing Opposition	View Ballot	Aniket ChakravortyⒸ , Jacob Silcoff , Marco Dava
+TCUHK 5am debate gang	3rd	Opening Opposition	View Ballot	Matt AydinⒸ
+Cornell A funny team name here	1st	Closing Government	View Ballot	Matt AydinⒸ
+Swing A	2nd	Opening Government	View Ballot	Matt AydinⒸ
+Snow Night	4th	Closing Opposition	View Ballot	Matt AydinⒸ
+HH Cool Math Games	2nd	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Joyce Delali Kpeglo
+DCAC Jump and Shout	4th	Closing Government	View Ballot	Ayafa TonyeⒸ , Joyce Delali Kpeglo
+Ateneo HS RV	1st	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Joyce Delali Kpeglo
+Open let&#x27;s get this bread	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ , Joyce Delali Kpeglo
+DAV A	3rd	Closing Government	View Ballot	Prashasti SaxenaⒸ , Halimat Ojone Usman , Jessica Afi Fayose
+LSE D(on&#x27;t want to be here)	2nd	Opening Opposition	View Ballot	Prashasti SaxenaⒸ , Halimat Ojone Usman , Jessica Afi Fayose
+on time	4th	Closing Opposition	View Ballot	Prashasti SaxenaⒸ , Halimat Ojone Usman , Jessica Afi Fayose
+Oxford A	1st	Opening Government	View Ballot	Prashasti SaxenaⒸ , Halimat Ojone Usman , Jessica Afi Fayose
+NUS KL	1st	Closing Opposition	View Ballot	Boemo PhirinyaneⒸ , Chris Braithwaite , Esther Baker
+Harvard HT	3rd	Opening Opposition	View Ballot	Boemo PhirinyaneⒸ , Chris Braithwaite , Esther Baker
+UWODS A	2nd	Closing Government	View Ballot	Boemo PhirinyaneⒸ , Chris Braithwaite , Esther Baker
+Umbrella academy but our superpowe	4th	Opening Government	View Ballot	Boemo PhirinyaneⒸ , Chris Braithwaite , Esther Baker
+
+
+team	result	side	ballot	adjudicators
+LSE A	1st	Closing Government	View Ballot	Prashasti SaxenaⒸ , Jacob Silcoff , Varun Lodaya
+Chicago The motions committee will decide	3rd	Opening Opposition	View Ballot	Prashasti SaxenaⒸ , Jacob Silcoff , Varun Lodaya
+Open Making 11/10 questionable decision	4th	Closing Opposition	View Ballot	Prashasti SaxenaⒸ , Jacob Silcoff , Varun Lodaya
+Dancing Cucumbers	2nd	Opening Government	View Ballot	Prashasti SaxenaⒸ , Jacob Silcoff , Varun Lodaya
+Princeton https://youtu.be/EHK5fBm1YWk	1st	Closing Opposition	View Ballot	Yusuf SteelⒸ , Jack Synnott
+Vani Mahal Champions	2nd	Closing Government	View Ballot	Yusuf SteelⒸ , Jack Synnott
+Diggory is looking real different	4th	Opening Government	View Ballot	Yusuf SteelⒸ , Jack Synnott
+Kween Nicki #barbz	3rd	Opening Opposition	View Ballot	Yusuf SteelⒸ , Jack Synnott
+KNUST Z	2nd	Closing Opposition	View Ballot	Chris BraithwaiteⒸ , Karina Wugang
+NUS CD	4th	Opening Opposition	View Ballot	Chris BraithwaiteⒸ , Karina Wugang
+on time	3rd	Closing Government	View Ballot	Chris BraithwaiteⒸ , Karina Wugang
+Open Lowly Debaters	1st	Opening Government	View Ballot	Chris BraithwaiteⒸ , Karina Wugang
+Swing B	4th	Closing Opposition	View Ballot	Idris IbrahimⒸ , Joyce Delali Kpeglo , Zen Nguyen
+eleven letter last names &gt;&gt;&gt;	2nd	Opening Government	View Ballot	Idris IbrahimⒸ , Joyce Delali Kpeglo , Zen Nguyen
+Umbrella academy but our superpowe	3rd	Closing Government	View Ballot	Idris IbrahimⒸ , Joyce Delali Kpeglo , Zen Nguyen
+50% competent in league	1st	Opening Opposition	View Ballot	Idris IbrahimⒸ , Joyce Delali Kpeglo , Zen Nguyen
+UCLA Manatee	4th	Opening Opposition	View Ballot	Harry ZhangⒸ , Lame Busang
+RIC Debating in Darkness	2nd	Closing Government	View Ballot	Harry ZhangⒸ , Lame Busang
+Ateneo Uni CL	1st	Closing Opposition	View Ballot	Harry ZhangⒸ , Lame Busang
+NUS KL	3rd	Opening Government	View Ballot	Harry ZhangⒸ , Lame Busang
+NU return of the random pro amers	2nd	Opening Opposition	View Ballot	Matt AydinⒸ
+KNUST B	4th	Closing Government	View Ballot	Matt AydinⒸ
+team entropy	3rd	Opening Government	View Ballot	Matt AydinⒸ
+whip me harder speaker senpai	1st	Closing Opposition	View Ballot	Matt AydinⒸ
+HWS One worlds break away from retirin	1st	Opening Opposition	View Ballot	Pranav AnandⒸ , Nikta Ghozati
+Ateneo Uni AB	4th	Closing Government	View Ballot	Pranav AnandⒸ , Nikta Ghozati
+Cornell Social Battering Ram	2nd	Closing Opposition	View Ballot	Pranav AnandⒸ , Nikta Ghozati
+Open fanclub revival tour	3rd	Opening Government	View Ballot	Pranav AnandⒸ , Nikta Ghozati
+BNU A	2nd	Closing Government	View Ballot	Boemo PhirinyaneⒸ , Dihan Mashroor Niloy
+Wellesley asians of chaos	3rd	Opening Government	View Ballot	Boemo PhirinyaneⒸ , Dihan Mashroor Niloy
+Harvard HT	1st	Closing Opposition	View Ballot	Boemo PhirinyaneⒸ , Dihan Mashroor Niloy
+Open Lights Out	4th	Opening Opposition	View Ballot	Boemo PhirinyaneⒸ , Dihan Mashroor Niloy
+LSE Keera &amp; Her Partner	1st	Opening Opposition	View Ballot	Oisín BrowneⒸ , Wajeeh Maaz
+Harvard I turf-burned my philosophy class	2nd	Opening Government	View Ballot	Oisín BrowneⒸ , Wajeeh Maaz
+Cornell In a medium bowl, whisk together s	3rd	Closing Opposition	View Ballot	Oisín BrowneⒸ , Wajeeh Maaz
+Oxford A	4th	Closing Government	View Ballot	Oisín BrowneⒸ , Wajeeh Maaz
+HH Cool Math Games	1st	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Alex Lovell , Ino Maderazo
+KNUST A	3rd	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Alex Lovell , Ino Maderazo
+Chicago 2-ish BP Novices	2nd	Opening Government	View Ballot	Ayafa TonyeⒸ , Alex Lovell , Ino Maderazo
+Open let&#x27;s get this bread	4th	Closing Government	View Ballot	Ayafa TonyeⒸ , Alex Lovell , Ino Maderazo
+Princeton Jane &amp; Emily	2nd	Opening Government	View Ballot	Devashish TrivediⒸ , Gaveal Fan
+Harvard dy/dx	1st	Opening Opposition	View Ballot	Devashish TrivediⒸ , Gaveal Fan
+Minerva Peaked in high school	4th	Closing Opposition	View Ballot	Devashish TrivediⒸ , Gaveal Fan
+Open PANtastic	3rd	Closing Government	View Ballot	Devashish TrivediⒸ , Gaveal Fan
+UST 50 kills botfrag and 0.4 minions	1st	Opening Government	View Ballot	Aniket ChakravortyⒸ , Esther Baker
+HH 👉👈	4th	Closing Opposition	View Ballot	Aniket ChakravortyⒸ , Esther Baker
+UPLB send help	2nd	Closing Government	View Ballot	Aniket ChakravortyⒸ , Esther Baker
+Cornell A funny team name here	3rd	Opening Opposition	View Ballot	Aniket ChakravortyⒸ , Esther Baker
+Ateneo HS RV	1st	Opening Opposition	View Ballot	Narayan SharmaⒸ , Vanshika Kalra
+Chicago HP	2nd	Opening Government	View Ballot	Narayan SharmaⒸ , Vanshika Kalra
+Ak a love story	4th	Closing Government	View Ballot	Narayan SharmaⒸ , Vanshika Kalra
+For Camelot!	3rd	Closing Opposition	View Ballot	Narayan SharmaⒸ , Vanshika Kalra
+Ox Gaby Please Think A Better Team Na	2nd	Closing Government	View Ballot	Tawfique ElahiⒸ , Caoimhin Hamill
+NU Baba&#x27;s Bitches	4th	Opening Opposition	View Ballot	Tawfique ElahiⒸ , Caoimhin Hamill
+KNUST X	3rd	Closing Opposition	View Ballot	Tawfique ElahiⒸ , Caoimhin Hamill
+LSE C	1st	Opening Government	View Ballot	Tawfique ElahiⒸ , Caoimhin Hamill
+SHDC CY	2nd	Opening Government	View Ballot	Tengku OmarⒸ , Beatrice Cuizon
+DSULS incapable of memey names	3rd	Closing Government	View Ballot	Tengku OmarⒸ , Beatrice Cuizon
+HH prepare for trouble make it double	1st	Closing Opposition	View Ballot	Tengku OmarⒸ , Beatrice Cuizon
+UWODS A	4th	Opening Opposition	View Ballot	Tengku OmarⒸ , Beatrice Cuizon
+UCSC Variants	3rd	Opening Opposition	View Ballot	Paolo TainoⒸ
+HH SR	2nd	Closing Opposition	View Ballot	Paolo TainoⒸ
+Ox We need to break	4th	Opening Government	View Ballot	Paolo TainoⒸ
+GW BP Relapse	1st	Closing Government	View Ballot	Paolo TainoⒸ
+TCUHK 5am debate gang	3rd	Closing Government	View Ballot	Anshuman MishraⒸ , Kayla Powers , Mansa Fuah
+IUT Team Led Zeppelin	2nd	Opening Government	View Ballot	Anshuman MishraⒸ , Kayla Powers , Mansa Fuah
+Swing D	1st	Opening Opposition	View Ballot	Anshuman MishraⒸ , Kayla Powers , Mansa Fuah
+Best Maple Syrup	4th	Closing Opposition	View Ballot	Anshuman MishraⒸ , Kayla Powers , Mansa Fuah
+NTU Red Panda Spirit	2nd	Opening Opposition	View Ballot	Elgin LinⒸ , Halimat Ojone Usman
+Ateneo HS BC	1st	Closing Opposition	View Ballot	Elgin LinⒸ , Halimat Ojone Usman
+Drexel Mass Debaters	4th	Closing Government	View Ballot	Elgin LinⒸ , Halimat Ojone Usman
+LV	3rd	Opening Government	View Ballot	Elgin LinⒸ , Halimat Ojone Usman
+DAV A	4th	Opening Opposition	View Ballot	Mishaal SaidⒸ , Ayodele Samuel
+Princeton We turf-burned MOL101	2nd	Closing Government	View Ballot	Mishaal SaidⒸ , Ayodele Samuel
+LSE D(on&#x27;t want to be here)	3rd	Opening Government	View Ballot	Mishaal SaidⒸ , Ayodele Samuel
+Mom: we have Jack Palmer at home	1st	Closing Opposition	View Ballot	Mishaal SaidⒸ , Ayodele Samuel
+VG LA	3rd	Opening Government	View Ballot	Adhipatya SinghⒸ , Jessica Afi Fayose
+Swing C	1st	Opening Opposition	View Ballot	Adhipatya SinghⒸ , Jessica Afi Fayose
+Swing A	2nd	Closing Opposition	View Ballot	Adhipatya SinghⒸ , Jessica Afi Fayose
+Snow Night	4th	Closing Government	View Ballot	Adhipatya SinghⒸ , Jessica Afi Fayose
+KNUST O Andy &amp; Erasmus	2nd	Opening Opposition	View Ballot	Andrew ChenⒸ , Benjamin Donkor-Boafo
+Tufts-McGill The Pirates are Back from COVID	3rd	Opening Government	View Ballot	Andrew ChenⒸ , Benjamin Donkor-Boafo
+Ateneo HS GH	4th	Closing Opposition	View Ballot	Andrew ChenⒸ , Benjamin Donkor-Boafo
+Open Shrigma Male	1st	Closing Government	View Ballot	Andrew ChenⒸ , Benjamin Donkor-Boafo
+
+
+team	result	side	ballot	adjudicators
+UCLA Manatee	1st	Closing Opposition	View Ballot	Harry ZhangⒸ , Adhipatya Singh , Nicole Cheung
+DSULS incapable of memey names	3rd	Opening Opposition	View Ballot	Harry ZhangⒸ , Adhipatya Singh , Nicole Cheung
+HH SR	4th	Closing Government	View Ballot	Harry ZhangⒸ , Adhipatya Singh , Nicole Cheung
+Chicago HP	2nd	Opening Government	View Ballot	Harry ZhangⒸ , Adhipatya Singh , Nicole Cheung
+HH prepare for trouble make it double	2nd	Closing Government	View Ballot	Yusuf SteelⒸ , Ruth Selorme Acolatse
+Ox Gaby Please Think A Better Team Na	4th	Opening Government	View Ballot	Yusuf SteelⒸ , Ruth Selorme Acolatse
+Cornell In a medium bowl, whisk together s	1st	Opening Opposition	View Ballot	Yusuf SteelⒸ , Ruth Selorme Acolatse
+Diggory is looking real different	3rd	Closing Opposition	View Ballot	Yusuf SteelⒸ , Ruth Selorme Acolatse
+RIC Debating in Darkness	3rd	Opening Opposition	View Ballot	Sher MayⒸ , Chris Braithwaite
+HWS One worlds break away from retirin	4th	Opening Government	View Ballot	Sher MayⒸ , Chris Braithwaite
+Kween Nicki #barbz	1st	Closing Opposition	View Ballot	Sher MayⒸ , Chris Braithwaite
+Mom: we have Jack Palmer at home	2nd	Closing Government	View Ballot	Sher MayⒸ , Chris Braithwaite
+UCSC Variants	3rd	Opening Opposition	View Ballot	Prashasti SaxenaⒸ , Boemo Phirinyane
+Ateneo Uni AB	1st	Closing Government	View Ballot	Prashasti SaxenaⒸ , Boemo Phirinyane
+Open Lowly Debaters	2nd	Closing Opposition	View Ballot	Prashasti SaxenaⒸ , Boemo Phirinyane
+Open PANtastic	4th	Opening Government	View Ballot	Prashasti SaxenaⒸ , Boemo Phirinyane
+IUT Team Led Zeppelin	3rd	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Gaveal Fan , Kyle Xander Flor Co
+NU return of the random pro amers	4th	Closing Government	View Ballot	Ayodele SamuelⒸ , Gaveal Fan , Kyle Xander Flor Co
+KNUST Z	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ , Gaveal Fan , Kyle Xander Flor Co
+on time	1st	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Gaveal Fan , Kyle Xander Flor Co
+BNU A	2nd	Closing Government	View Ballot	Aniket ChakravortyⒸ , Halimat Ojone Usman
+NU Baba&#x27;s Bitches	1st	Opening Government	View Ballot	Aniket ChakravortyⒸ , Halimat Ojone Usman
+Swing A	4th	Opening Opposition	View Ballot	Aniket ChakravortyⒸ , Halimat Ojone Usman
+50% competent in league	3rd	Closing Opposition	View Ballot	Aniket ChakravortyⒸ , Halimat Ojone Usman
+Ateneo Uni CL	1st	Opening Opposition	View Ballot	Tan Kuan HianⒸ , Anshuman Mishra , Kayla Powers
+Cornell Social Battering Ram	2nd	Closing Opposition	View Ballot	Tan Kuan HianⒸ , Anshuman Mishra , Kayla Powers
+Chicago The motions committee will decide	4th	Closing Government	View Ballot	Tan Kuan HianⒸ , Anshuman Mishra , Kayla Powers
+Open Shrigma Male	3rd	Opening Government	View Ballot	Tan Kuan HianⒸ , Anshuman Mishra , Kayla Powers
+Tufts-McGill The Pirates are Back from COVID	1st	Closing Government	View Ballot	Caoimhin HamillⒸ , Esther Baker , Nikta Ghozati
+UPLB send help	4th	Closing Opposition	View Ballot	Caoimhin HamillⒸ , Esther Baker , Nikta Ghozati
+Drexel Mass Debaters	2nd	Opening Government	View Ballot	Caoimhin HamillⒸ , Esther Baker , Nikta Ghozati
+whip me harder speaker senpai	3rd	Opening Opposition	View Ballot	Caoimhin HamillⒸ , Esther Baker , Nikta Ghozati
+Ateneo HS RV	3rd	Opening Government	View Ballot	Miruna ChirilaⒸ , Jacob Silcoff , Karina Wugang
+LSE D(on&#x27;t want to be here)	4th	Closing Opposition	View Ballot	Miruna ChirilaⒸ , Jacob Silcoff , Karina Wugang
+NUS KL	1st	Closing Government	View Ballot	Miruna ChirilaⒸ , Jacob Silcoff , Karina Wugang
+Open Making 11/10 questionable decision	2nd	Opening Opposition	View Ballot	Miruna ChirilaⒸ , Jacob Silcoff , Karina Wugang
+Princeton We turf-burned MOL101	3rd	Opening Government	View Ballot	Andrew ChenⒸ , Tawfique Elahi , Varun Lodaya
+KNUST X	4th	Opening Opposition	View Ballot	Andrew ChenⒸ , Tawfique Elahi , Varun Lodaya
+Harvard dy/dx	1st	Closing Opposition	View Ballot	Andrew ChenⒸ , Tawfique Elahi , Varun Lodaya
+Open fanclub revival tour	2nd	Closing Government	View Ballot	Andrew ChenⒸ , Tawfique Elahi , Varun Lodaya
+DAV A	2nd	Closing Government	View Ballot	Samuel ScheuerⒸ , Ivan Valenzuela , Zen Nguyen
+Wellesley asians of chaos	1st	Opening Government	View Ballot	Samuel ScheuerⒸ , Ivan Valenzuela , Zen Nguyen
+Cornell A funny team name here	3rd	Opening Opposition	View Ballot	Samuel ScheuerⒸ , Ivan Valenzuela , Zen Nguyen
+For Camelot!	4th	Closing Opposition	View Ballot	Samuel ScheuerⒸ , Ivan Valenzuela , Zen Nguyen
+Ox We need to break	3rd	Closing Government	View Ballot	Tengku OmarⒸ , Benjamin Donkor-Boafo
+Open Lights Out	4th	Opening Opposition	View Ballot	Tengku OmarⒸ , Benjamin Donkor-Boafo
+eleven letter last names &gt;&gt;&gt;	1st	Closing Opposition	View Ballot	Tengku OmarⒸ , Benjamin Donkor-Boafo
+Ak a love story	2nd	Opening Government	View Ballot	Tengku OmarⒸ , Benjamin Donkor-Boafo
+TCUHK 5am debate gang	3rd	Closing Government	View Ballot	Dihan Mashroor NiloyⒸ
+KNUST A	4th	Opening Opposition	View Ballot	Dihan Mashroor NiloyⒸ
+NUS CD	1st	Closing Opposition	View Ballot	Dihan Mashroor NiloyⒸ
+Swing C	2nd	Opening Government	View Ballot	Dihan Mashroor NiloyⒸ
+KNUST O Andy &amp; Erasmus	1st	Closing Government	View Ballot	Pranav AnandⒸ , Alex Lovell , Eze
+Princeton Jane &amp; Emily	3rd	Opening Opposition	View Ballot	Pranav AnandⒸ , Alex Lovell , Eze
+NTU Red Panda Spirit	4th	Opening Government	View Ballot	Pranav AnandⒸ , Alex Lovell , Eze
+Oxford A	2nd	Closing Opposition	View Ballot	Pranav AnandⒸ , Alex Lovell , Eze
+HH 👉👈	2nd	Opening Opposition	View Ballot	Muzzi GodilⒸ
+KNUST B	4th	Closing Opposition	View Ballot	Muzzi GodilⒸ
+team entropy	3rd	Closing Government	View Ballot	Muzzi GodilⒸ
+Umbrella academy but our superpowe	1st	Opening Government	View Ballot	Muzzi GodilⒸ
+Ateneo HS GH	4th	Opening Opposition	View Ballot	Elgin LinⒸ , Mansa Fuah
+Minerva Peaked in high school	2nd	Closing Government	View Ballot	Elgin LinⒸ , Mansa Fuah
+Swing B	3rd	Opening Government	View Ballot	Elgin LinⒸ , Mansa Fuah
+UWODS A	1st	Closing Opposition	View Ballot	Elgin LinⒸ , Mansa Fuah
+Open let&#x27;s get this bread	2nd	Opening Government	View Ballot	Idris IbrahimⒸ
+Best Maple Syrup	3rd	Closing Government	View Ballot	Idris IbrahimⒸ
+Team NR	4th	Closing Opposition	View Ballot	Idris IbrahimⒸ
+Snow Night	1st	Opening Opposition	View Ballot	Idris IbrahimⒸ
+Ateneo HS BC	4th	Closing Opposition	View Ballot	Beatrice CuizonⒸ , Wajeeh Maaz
+LSE C	2nd	Opening Opposition	View Ballot	Beatrice CuizonⒸ , Wajeeh Maaz
+Harvard I turf-burned my philosophy class	1st	Opening Government	View Ballot	Beatrice CuizonⒸ , Wajeeh Maaz
+Dancing Cucumbers	3rd	Closing Government	View Ballot	Beatrice CuizonⒸ , Wajeeh Maaz
+UST 50 kills botfrag and 0.4 minions	2nd	Opening Government	View Ballot	Flora BaekⒸ , Jack Synnott , Matt Aydin
+SHDC CY	4th	Opening Opposition	View Ballot	Flora BaekⒸ , Jack Synnott , Matt Aydin
+GW BP Relapse	1st	Closing Opposition	View Ballot	Flora BaekⒸ , Jack Synnott , Matt Aydin
+LV	3rd	Closing Government	View Ballot	Flora BaekⒸ , Jack Synnott , Matt Aydin
+Princeton https://youtu.be/EHK5fBm1YWk	2nd	Closing Government	View Ballot	Ashish Xiangyi KumarⒸ , Oisín Browne , Paolo Taino
+LSE A	3rd	Opening Government	View Ballot	Ashish Xiangyi KumarⒸ , Oisín Browne , Paolo Taino
+LSE Keera &amp; Her Partner	4th	Closing Opposition	View Ballot	Ashish Xiangyi KumarⒸ , Oisín Browne , Paolo Taino
+Vani Mahal Champions	1st	Opening Opposition	View Ballot	Ashish Xiangyi KumarⒸ , Oisín Browne , Paolo Taino
+
+
+team	result	side	adjudicators
+LSE C	eliminated	Opening Government	Yusuf SteelⒸ , Jack Synnott , Ruth Selorme Acolatse
+Cornell Social Battering Ram	advancing	Closing Government	Yusuf SteelⒸ , Jack Synnott , Ruth Selorme Acolatse
+Cornell In a medium bowl, whisk together s	eliminated	Opening Opposition	Yusuf SteelⒸ , Jack Synnott , Ruth Selorme Acolatse
+Vani Mahal Champions	advancing	Closing Opposition	Yusuf SteelⒸ , Jack Synnott , Ruth Selorme Acolatse
+KNUST O Andy &amp; Erasmus	eliminated	Opening Government	Harry ZhangⒸ , Esther Baker , Matt Aydin
+Ateneo Uni CL	eliminated	Closing Opposition	Harry ZhangⒸ , Esther Baker , Matt Aydin
+LSE A	advancing	Opening Opposition	Harry ZhangⒸ , Esther Baker , Matt Aydin
+Dancing Cucumbers	advancing	Closing Government	Harry ZhangⒸ , Esther Baker , Matt Aydin
+HH prepare for trouble make it double	eliminated	Opening Opposition	Flora BaekⒸ , Caoimhin Hamill , Varun Lodaya
+LSE Keera &amp; Her Partner	eliminated	Opening Government	Flora BaekⒸ , Caoimhin Hamill , Varun Lodaya
+Harvard I turf-burned my philosophy class	advancing	Closing Government	Flora BaekⒸ , Caoimhin Hamill , Varun Lodaya
+Kween Nicki #barbz	advancing	Closing Opposition	Flora BaekⒸ , Caoimhin Hamill , Varun Lodaya
+Princeton https://youtu.be/EHK5fBm1YWk	advancing	Closing Opposition	Chris BraithwaiteⒸ , Miruna Chirila , Wajeeh Maaz
+NUS KL	eliminated	Closing Government	Chris BraithwaiteⒸ , Miruna Chirila , Wajeeh Maaz
+Harvard dy/dx	eliminated	Opening Government	Chris BraithwaiteⒸ , Miruna Chirila , Wajeeh Maaz
+Mom: we have Jack Palmer at home	advancing	Opening Opposition	Chris BraithwaiteⒸ , Miruna Chirila , Wajeeh Maaz
+
+
+team	result	side	adjudicators
+UST 50 kills botfrag and 0.4 minions	advancing	Closing Government	Narayan SharmaⒸ , Beatrice Cuizon , Elgin Lin , Tengku Omar
+DSULS incapable of memey names	eliminated	Closing Opposition	Narayan SharmaⒸ , Beatrice Cuizon , Elgin Lin , Tengku Omar
+KNUST X	eliminated	Opening Government	Narayan SharmaⒸ , Beatrice Cuizon , Elgin Lin , Tengku Omar
+Open Making 11/10 questionable decision	advancing	Opening Opposition	Narayan SharmaⒸ , Beatrice Cuizon , Elgin Lin , Tengku Omar
+DAV A	eliminated	Closing Government	Marco DavaⒸ , Alex Lovell , Andrew Chen , Jacob Silcoff
+BNU A	advancing	Closing Opposition	Marco DavaⒸ , Alex Lovell , Andrew Chen , Jacob Silcoff
+RIC Debating in Darkness	advancing	Opening Government	Marco DavaⒸ , Alex Lovell , Andrew Chen , Jacob Silcoff
+KNUST Z	eliminated	Opening Opposition	Marco DavaⒸ , Alex Lovell , Andrew Chen , Jacob Silcoff
+
+
+team	result	side	adjudicators
+Princeton https://youtu.be/EHK5fBm1YWk	advancing	Opening Government	Aniket ChakravortyⒸ , Ayodele Samuel , Muzzi Godil , Prashasti Saxena , Tawfique Elahi
+Harvard I turf-burned my philosophy class	eliminated	Opening Opposition	Aniket ChakravortyⒸ , Ayodele Samuel , Muzzi Godil , Prashasti Saxena , Tawfique Elahi
+Kween Nicki #barbz	advancing	Closing Opposition	Aniket ChakravortyⒸ , Ayodele Samuel , Muzzi Godil , Prashasti Saxena , Tawfique Elahi
+Mom: we have Jack Palmer at home	eliminated	Closing Government	Aniket ChakravortyⒸ , Ayodele Samuel , Muzzi Godil , Prashasti Saxena , Tawfique Elahi
+LSE A	advancing	Opening Opposition	Caoimhin HamillⒸ , Beatrice Cuizon , Benjamin Donkor-Boafo , Oisín Browne , Tengku Omar
+Cornell Social Battering Ram	eliminated	Closing Government	Caoimhin HamillⒸ , Beatrice Cuizon , Benjamin Donkor-Boafo , Oisín Browne , Tengku Omar
+Vani Mahal Champions	advancing	Closing Opposition	Caoimhin HamillⒸ , Beatrice Cuizon , Benjamin Donkor-Boafo , Oisín Browne , Tengku Omar
+Dancing Cucumbers	eliminated	Opening Government	Caoimhin HamillⒸ , Beatrice Cuizon , Benjamin Donkor-Boafo , Oisín Browne , Tengku Omar
+
+
+team	result	side	adjudicators
+UCLA Manatee	eliminated	Closing Government	Harry ZhangⒸ , Ayafa Tonye , Dihan Mashroor Niloy , Kyle Xander Flor Co , Ruth Selorme Acolatse
+Wellesley asians of chaos	eliminated	Opening Opposition	Harry ZhangⒸ , Ayafa Tonye , Dihan Mashroor Niloy , Kyle Xander Flor Co , Ruth Selorme Acolatse
+Open Lowly Debaters	advancing	Opening Government	Harry ZhangⒸ , Ayafa Tonye , Dihan Mashroor Niloy , Kyle Xander Flor Co , Ruth Selorme Acolatse
+Open fanclub revival tour	eliminated	Closing Opposition	Harry ZhangⒸ , Ayafa Tonye , Dihan Mashroor Niloy , Kyle Xander Flor Co , Ruth Selorme Acolatse
+
+
+team	result	side	adjudicators
+UST 50 kills botfrag and 0.4 minions	eliminated	Closing Opposition	Pranav AnandⒸ , Miruna Chirila , Mishaal Said , Paolo Taino , Varun Lodaya
+BNU A	eliminated	Closing Government	Pranav AnandⒸ , Miruna Chirila , Mishaal Said , Paolo Taino , Varun Lodaya
+RIC Debating in Darkness	eliminated	Opening Government	Pranav AnandⒸ , Miruna Chirila , Mishaal Said , Paolo Taino , Varun Lodaya
+Open Making 11/10 questionable decision	advancing	Opening Opposition	Pranav AnandⒸ , Miruna Chirila , Mishaal Said , Paolo Taino , Varun Lodaya
+
+
+team	result	side	adjudicators
+

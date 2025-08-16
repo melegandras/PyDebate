@@ -1,0 +1,745 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	White and Wannabe White		1st	1st	1st	1st	1st	15	823	5	0
+2	South Bombay fundraiser for Odisha 		1st	2nd	1st	1st	2nd	13	791	3	2
+3	Kamath &amp; Gibson		1st	1st	1st	2nd	3rd	12	802	3	1
+4	room 16 debut		1st	1st	2nd	3rd	1st	12	797	3	1
+5	Sharabi and Sharabi Max Return		1st	1st	3rd	2nd	1st	12	780	3	1
+6	Looking for our Baes of Bengal		2nd	1st	1st	4th	1st	11	799	3	1
+7=	Bad Luck and Worst Luck		1st	1st	4th	2nd	1st	11	785	3	1
+7=	Wakar Zaka &amp; Bilal Khan aagya Cutoo		4th	1st	1st	1st	2nd	11	785	3	1
+9	Mysore 1		3rd	2nd	1st	1st	2nd	11	780	2	2
+10	Trash Jokers, Just Kids		1st	2nd	3rd	2nd	2nd	10	793	1	3
+11	Raada boi does damage control for h		1st	3rd	2nd	1st	3rd	10	779	2	1
+12	Hahahahahahahahhahahahahah		2nd	1st	2nd	1st	4th	10	775	2	2
+13	Notice Us Ahan Senpai		3rd	1st	1st	4th	1st	10	770	3	0
+14	UFD Mokingjay	Novice	2nd	1st	4th	2nd	1st	10	770	2	2
+15	I&#x27;ve to put my girlfriend on my Tod	Novice	1st	3rd	1st	2nd	3rd	10	770	2	1
+16	australian cricket world cup in the		1st	2nd	2nd	3rd	2nd	10	770	1	3
+17	No Constructives For Old Men		2nd	3rd	1st	3rd	1st	10	768	2	1
+18	Pierre Menard of The Quixote		1st	2nd	2nd	4th	2nd	9	775	1	3
+19	ARSD A		2nd	2nd	1st	3rd	3rd	9	770	1	2
+20	dosa dazzler try adab kebab		3rd	3rd	2nd	1st	2nd	9	769	1	2
+21	arguably downfalling		2nd	1st	3rd	2nd	3rd	9	768	1	2
+22	Just Pahadi X Dilli Personalities		3rd	1st	2nd	4th	1st	9	765	2	1
+23	PUoPisay - Alagad ni Matthew at Kel	Novice	2nd	4th	1st	3rd	1st	9	760	2	1
+24	broken back break	Novice	2nd	3rd	1st	3rd	2nd	9	735	1	2
+25	THS state-sponsored homosexuality		2nd	1st	4th	1st	4th	8	775	2	1
+26	neend ya nashe mein		1st	3rd	3rd	1st	4th	8	775	2	0
+27	100 la 1 kilo	Novice	3rd	3rd	2nd	2nd	2nd	8	768	0	3
+28	AM to PM		2nd	2nd	3rd	1st	4th	8	767	1	2
+29	Sasta Fight Club		2nd	4th	1st	4th	1st	8	762	2	1
+30	Praggy and the cockroaches		2nd	2nd	2nd	3rd	3rd	8	762	0	3
+31	RCL Beta Team		1st	3rd	3rd	2nd	3rd	8	760	1	1
+32	Break-Less	Novice	2nd	3rd	2nd	4th	1st	8	755	1	2
+33	PESt control		4th	4th	2nd	1st	1st	8	744	2	1
+34	swing 1		2nd	1st	—	—	1st	8	467	2	1
+35	Swing 2		2nd	1st	1st	—	—	8	460	2	1
+36=	Astral ArguMinds	Novice	3rd	4th	3rd	1st	2nd	7	757	1	1
+36=	RossNRachel	Novice	1st	2nd	4th	3rd	3rd	7	757	1	1
+38	Dep Zeppelin	Novice	2nd	2nd	4th	1st	4th	7	756	1	2
+39	Ullalalu Prasad Yadav		1st	3rd	3rd	3rd	3rd	7	756	1	0
+40	Platonic Lovers		4th	3rd	1st	1st	4th	7	755	2	0
+41	Kabhi Khushi Kabhi Gham	Novice	4th	2nd	1st	2nd	4th	7	754	1	2
+42	IITM_1	Novice	1st	4th	3rd	3rd	2nd	7	754	1	1
+43	nawabi gali mein kanooni keede		4th	1st	2nd	4th	2nd	7	750	1	2
+44	Spotted88		1st	4th	2nd	2nd	4th	7	747	1	2
+45	Not RMaLiens	Novice	3rd	3rd	2nd	2nd	3rd	7	747	0	2
+46	algorhythm		3rd	1st	2nd	4th	3rd	7	745	1	1
+47	XLers	Novice	3rd	2nd	3rd	—	1st	7	604	1	1
+48	Noddle cheese frankie	Novice	3rd	—	2nd	2nd	2nd	7	603	0	3
+49	PUoPisay - Tom and Jerry		1st	4th	2nd	3rd	4th	6	764	1	1
+50	beghairats		4th	3rd	1st	4th	2nd	6	759	1	1
+51	Khajuria and Yoosuf		1st	4th	3rd	3rd	3rd	6	757	1	0
+52	Chill kr tu thoda	Novice	3rd	2nd	3rd	3rd	3rd	6	749	0	1
+53	Creds dedo pls	Novice	2nd	3rd	4th	1st	4th	6	748	1	1
+54	The Crackerjacks	Novice	4th	4th	3rd	2nd	1st	6	744	1	1
+55	Average Bournvita Enjoyers	Novice	4th	2nd	4th	2nd	2nd	6	737	0	3
+56	Jaldi bol kal subah Panvel nikalna	Novice	1st	—	1st	4th	4th	6	601	2	0
+57	Swing Swong		—	—	—	1st	1st	6	300	2	0
+58	Bawana ke Bakchod		3rd	4th	3rd	1st	4th	5	743	1	0
+59	The talking heads	Novice	3rd	4th	4th	2nd	2nd	5	739	0	2
+60	We have an issue	Novice	4th	2nd	2nd	4th	3rd	5	738	0	2
+61	The Cutie Panel	Novice	3rd	4th	3rd	3rd	2nd	5	738	0	1
+62	Army Institute of law, Mohali	Novice	4th	1st	3rd	4th	3rd	5	737	1	0
+63	Team Hustlers	Novice	2nd	4th	4th	—	1st	5	598	1	1
+64	Swing 3		4th	2nd	1st	—	—	5	454	1	1
+65	Swing 4		—	—	1st	2nd	4th	5	452	1	1
+66	Swing 8		—	—	—	1st	2nd	5	305	1	1
+67	Swing 6		—	—	—	2nd	1st	5	303	1	1
+68	Scooby Doo	Novice	3rd	3rd	3rd	3rd	4th	4	747	0	0
+69	Cheeto ka Halal	Novice	1st	4th	4th	4th	3rd	4	746	1	0
+70	hello world	Novice	3rd	4th	2nd	3rd	4th	4	745	0	1
+71	Roasted Almond	Novice	3rd	2nd	4th	4th	3rd	4	730	0	1
+72=	Dev and Padmalaxmi	Novice	4th	—	2nd	2nd	4th	4	586	0	2
+72=	Mujhase debate karogi?	Novice	2nd	2nd	4th	4th	—	4	586	0	2
+74	Dead debaters society		3rd	1st	4th	—	—	4	444	1	0
+75	We miss mech	Novice	4th	4th	4th	3rd	2nd	3	734	0	1
+76	SPEED-UP B		4th	4th	3rd	3rd	3rd	3	731	0	0
+77	ILS	Novice	4th	3rd	3rd	3rd	—	3	590	0	0
+78	swing 5		—	—	—	1st	4th	3	302	1	0
+79	high and bi	Novice	2nd	3rd	—	—	—	3	302	0	1
+80	THP 241 USD		—	1st	—	—	—	3	159	1	0
+81	Lex loci	Novice	4th	3rd	4th	4th	3rd	2	735	0	0
+82	Ravenpuff	Novice	3rd	4th	3rd	4th	4th	2	727	0	0
+83	Shastrartha		4th	2nd	4th	4th	—	2	596	0	1
+84	Hello Peemps	Novice	2nd	4th	4th	—	4th	2	558	0	1
+85	We dissent	Novice	3rd	3rd	4th	—	—	2	450	0	0
+86	Parley-G Central	Novice	4th	2nd	4th	—	—	2	447	0	1
+87	&quot;Yeh Constructives Kya Hota Hai&quot;	Novice	4th	3rd	—	—	—	1	273	0	0
+88	This One’s on the House	Novice	3rd	—	—	—	—	1	150	0	0
+89	NLU buttiburi	Novice	4th	4th	4th	4th	—	0	587	0	0
+90	NLUJA Assam	Novice	4th	—	—	—	—	0	138	0	0
+91	Debs of XL	Novice	—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Hadar Goldberg		White and Wannabe White	83	83	83	85	84	418	83.60	0.80
+2=	Jordyn Gibson		Kamath &amp; Gibson	79	81	81	81	80	402	80.40	0.80
+2=	Shaurya Chandravanshi		Looking for our Baes of Bengal	81	80	80	78	83	402	80.40	1.62
+4=	V Sayiram		room 16 debut	80	78	81	80	81	400	80.00	1.10
+4=	Udai Kamath		Kamath &amp; Gibson	80	80	81	80	79	400	80.00	0.63
+6	Soumitra Tonapi		Trash Jokers, Just Kids	79	80	80	78	82	399	79.80	1.33
+7	Manasija Das		South Bombay fundraiser for Odisha 	80	78	79	79	82	398	79.60	1.36
+8=	Pratham Dikshit		room 16 debut	79	78	80	80	80	397	79.40	0.80
+8=	Himan Nayak		Looking for our Baes of Bengal	80	79	80	78	80	397	79.40	0.80
+10	Angad Singh Chawla		Wakar Zaka &amp; Bilal Khan aagya Cutoo	78	78	80	81	79	396	79.20	1.17
+11	Aradom Belai		Trash Jokers, Just Kids	78	79	80	77	80	394	78.80	1.17
+12=	Aayuushi Bose		Bad Luck and Worst Luck	79	78	78	78	80	393	78.60	0.80
+12=	Yashovardhan Balakrishnan		South Bombay fundraiser for Odisha 	80	77	79	77	80	393	78.60	1.36
+12=	Vansh Chadha		Sharabi and Sharabi Max Return	78	79	79	78	79	393	78.60	0.49
+15	Medhavini Singh		Bad Luck and Worst Luck	80	78	78	77	79	392	78.40	1.02
+16	Advaith Sai Nair		Mysore 1	78	78	79	78	78	391	78.20	0.40
+17=	Shashwat Dash		Raada boi does damage control for h	78	77	78	79	78	390	78.00	0.63
+17=	Sneha Verma		Pierre Menard of The Quixote	78	76	81	78	77	390	78.00	1.67
+19=	Aditya Jha		Mysore 1	77	78	78	78	78	389	77.80	0.40
+19=	Kaushiki Ishwar		Wakar Zaka &amp; Bilal Khan aagya Cutoo	76	77	79	79	78	389	77.80	1.17
+19=	Abhinav Mohanty		australian cricket world cup in the	78	79	78	76	78	389	77.80	0.98
+19=	Pranjal Singla		Raada boi does damage control for h	78	77	76	80	78	389	77.80	1.33
+23=	Adis		THS state-sponsored homosexuality	78	78	78	79	75	388	77.60	1.36
+23=	K Dhruv Singh		Hahahahahahahahhahahahahah	75	78	78	79	78	388	77.60	1.36
+23=	Varun Manda		neend ya nashe mein	79	79	76	78	76	388	77.60	1.36
+26=	Megh		THS state-sponsored homosexuality	78	77	77	80	75	387	77.40	1.62
+26=	Prashasti Saxena		Hahahahahahahahhahahahahah	76	77	77	79	78	387	77.40	1.02
+26=	Saatvik Dabral		Sharabi and Sharabi Max Return	77	77	79	76	78	387	77.40	1.02
+26=	Ishan Saikia		neend ya nashe mein	78	79	76	78	76	387	77.40	1.20
+30=	Anish Harsha		No Constructives For Old Men	77	76	78	77	78	386	77.20	0.75
+30=	Sarthak Sarkar		Notice Us Ahan Senpai	79	78	78	73	78	386	77.20	2.14
+30=	Banshaj Raj Bhardwaj		ARSD A	76	77	78	77	78	386	77.20	0.75
+30=	Ujan Sarkar	Novice	I&#x27;ve to put my girlfriend on my Tod	78	77	78	77	76	386	77.20	0.75
+30=	Aadya Singh	Novice	UFD Mokingjay	77	77	75	78	79	386	77.20	1.33
+35=	Garvit Gosain		dosa dazzler try adab kebab	77	75	78	77	78	385	77.00	1.10
+35=	Vansh Aggarwal		arguably downfalling	77	78	77	76	77	385	77.00	0.63
+35=	Yash Yadunath Alva		Pierre Menard of The Quixote	79	75	80	75	76	385	77.00	2.10
+38=	Kunal Bhattacharyya		Notice Us Ahan Senpai	78	77	77	74	78	384	76.80	1.47
+38=	Aaryan Gurav	Novice	100 la 1 kilo	76	77	77	77	77	384	76.80	0.40
+38=	Athang Shinde	Novice	100 la 1 kilo	76	76	77	77	78	384	76.80	0.75
+38=	Siddharth Iyer	Novice	dosa dazzler try adab kebab	76	75	77	78	78	384	76.80	1.17
+38=	Marushka Kenia		AM to PM	78	77	76	78	75	384	76.80	1.17
+38=	Aryan Chopra		ARSD A	76	76	77	77	78	384	76.80	0.75
+38=	Pratyush Singh	Novice	I&#x27;ve to put my girlfriend on my Tod	77	76	77	78	76	384	76.80	0.75
+38=	Ameena Nousheen	Novice	UFD Mokingjay	76	79	74	77	78	384	76.80	1.72
+46=	Parth Jain		arguably downfalling	77	77	76	77	76	383	76.60	0.49
+46=	Arush Ramachandran		Just Pahadi X Dilli Personalities	74	77	77	76	79	383	76.60	1.62
+46=	Purvi Reddy Dasari		AM to PM	77	77	76	78	75	383	76.60	1.02
+49=	Samuel Thomas		No Constructives For Old Men	76	75	77	77	77	382	76.40	0.80
+49=	Sumedh Chatterjee	Novice	Praggy and the cockroaches	77	77	77	76	75	382	76.40	0.80
+49=	Chirag Chauhan		Just Pahadi X Dilli Personalities	74	78	77	75	78	382	76.40	1.62
+49=	Srishti Agrawal		Sasta Fight Club	78	75	76	74	79	382	76.40	1.85
+49=	Matthew Ace Angelo Galiga Tinamisan	Novice	PUoPisay - Tom and Jerry	80	76	77	76	73	382	76.40	2.24
+49=	Kelvin Dwayne C. Lampon	Novice	PUoPisay - Tom and Jerry	81	75	77	76	73	382	76.40	2.65
+55=	Roktim Borah		RCL Beta Team	76	75	76	77	77	381	76.20	0.75
+55=	Shalwin Yoosuf		Khajuria and Yoosuf	75	76	77	77	76	381	76.20	0.75
+55=	Stacey Louise Hurtado	Novice	PUoPisay - Alagad ni Matthew at Kel	77	76	77	75	76	381	76.20	0.75
+58=	Pragyandipta Mishra		Praggy and the cockroaches	77	77	76	74	76	380	76.00	1.10
+58=	harshal		beghairats	77	75	77	76	75	380	76.00	0.89
+58=	Vasujit Dubey		Sasta Fight Club	77	74	76	75	78	380	76.00	1.41
+58=	Anushmita Dutta	Novice	Astral ArguMinds	76	76	76	76	76	380	76.00	0.00
+62=	HM Sharan		RCL Beta Team	77	75	76	76	75	379	75.80	0.75
+62=	Thanushree R		Ullalalu Prasad Yadav	76	76	77	76	74	379	75.80	0.98
+62=	vidhu		beghairats	78	75	77	75	74	379	75.80	1.47
+62=	Zehaan Naik	Novice	RossNRachel	77	77	74	75	76	379	75.80	1.17
+62=	Antonite De Luna	Novice	PUoPisay - Alagad ni Matthew at Kel	77	75	77	75	75	379	75.80	0.98
+67=	Anamika Unni		Platonic Lovers	72	77	76	78	75	378	75.60	2.06
+67=	Adhip Koshy	Novice	Break-Less	77	76	74	73	78	378	75.60	1.85
+67=	Aditya V	Novice	RossNRachel	76	78	74	74	76	378	75.60	1.50
+67=	Khushi Mishra	Novice	Kabhi Khushi Kabhi Gham	74	75	78	76	75	378	75.60	1.36
+67=	Yokheswara M D	Novice	Dep Zeppelin	74	76	76	78	74	378	75.60	1.50
+67=	Shree Hari A U	Novice	Dep Zeppelin	73	77	75	78	75	378	75.60	1.74
+73=	Tania Therese Sajeev		Platonic Lovers	72	76	77	77	75	377	75.40	1.85
+73=	Sagneek Sengupta	Novice	Break-Less	76	75	75	74	77	377	75.40	1.02
+73=	Ankita Kumari		Spotted88	75	75	75	78	74	377	75.40	1.36
+73=	Thejaswi A		Ullalalu Prasad Yadav	76	77	76	75	73	377	75.40	1.36
+73=	Sree Varshini V P	Novice	IITM_1	75	74	75	76	77	377	75.40	1.02
+73=	Jerry Jose	Novice	IITM_1	75	73	75	76	78	377	75.40	1.62
+73=	Rashmi Mishra	Novice	Astral ArguMinds	75	75	75	76	76	377	75.40	0.49
+80=	Ananya Singh	Novice	Chill kr tu thoda	75	76	73	76	76	376	75.20	1.17
+80=	Hitanshi		nawabi gali mein kanooni keede	74	77	77	72	76	376	75.20	1.94
+80=	Vasu Khajuria		Khajuria and Yoosuf	73	75	76	76	76	376	75.20	1.17
+83=	Diya Thakur	Novice	Creds dedo pls	75	77	74	76	73	375	75.00	1.41
+83=	Saaransh Saraf	Novice	Scooby Doo	76	76	74	74	75	375	75.00	0.89
+83=	P Shreyas Manu	Novice	Not RMaLiens	73	75	76	77	74	375	75.00	1.41
+86=	Aabhas Chaturvedi	Novice	nawabi gali mein kanooni keede	74	76	75	72	77	374	74.80	1.72
+86=	Taera Singh		algorhythm	74	78	78	69	75	374	74.80	3.31
+86=	Harish K	Novice	Cheeto ka Halal	75	75	75	74	75	374	74.80	0.40
+89=	Sanya Dewan	Novice	Creds dedo pls	74	76	73	77	73	373	74.60	1.62
+89=	Sachin Rout	Novice	Chill kr tu thoda	74	76	73	75	75	373	74.60	1.02
+89=	Ritisha Priya	Novice	hello world	74	75	76	74	74	373	74.60	0.80
+92=	Tejas Shetty	Novice	Cheeto ka Halal	75	74	74	74	75	372	74.40	0.49
+92=	Anshuman Singh Malhotra		Bawana ke Bakchod	73	75	75	75	74	372	74.40	0.80
+92=	Anirvin Srivatsan	Novice	hello world	74	75	75	75	73	372	74.40	0.80
+92=	Hrishav Dasgupta	Novice	The Crackerjacks	71	75	74	76	76	372	74.40	1.85
+92=	Vaishnav M	Novice	The Crackerjacks	71	75	74	77	75	372	74.40	1.96
+92=	Aadya	Novice	Not RMaLiens	74	73	75	77	73	372	74.40	1.50
+98=	Jessica Das		algorhythm	74	77	77	69	74	371	74.20	2.93
+98=	Vasu Gupta		Bawana ke Bakchod	73	73	75	76	74	371	74.20	1.17
+100=	Vanshika Ashu	Novice	We have an issue	73	73	74	75	75	370	74.00	0.89
+100=	Rituraj Yadav	Novice	Average Bournvita Enjoyers	73	75	74	73	75	370	74.00	0.89
+100=	Shreyash Jain	Novice	The talking heads	75	74	72	74	75	370	74.00	1.10
+100=	Anshika Thakur	Novice	The Cutie Panel	72	73	75	74	76	370	74.00	1.41
+100=	Priyanshu Lucky	Novice	Spotted88	76	70	75	75	74	370	74.00	2.10
+105=	Himani soni	Novice	The talking heads	75	75	70	75	74	369	73.80	1.94
+105=	Aaradhya	Novice	Army Institute of law, Mohali	74	73	74	74	74	369	73.80	0.40
+105=	Kyle Hermocilla		SPEED-UP B	75	74	74	73	73	369	73.80	0.75
+108=	Ashwani Kumar Singh	Novice	We have an issue	74	72	75	74	73	368	73.60	1.02
+108=	Antavya	Novice	Lex loci	75	72	73	72	76	368	73.60	1.62
+108=	Kirti Rathod	Novice	The Cutie Panel	71	73	74	74	76	368	73.60	1.62
+108=	Raghav Dagar	Novice	broken back break	75	65	76	76	76	368	73.60	4.32
+108=	Vijeta Hooda	Novice	Army Institute of law, Mohali	72	74	74	74	74	368	73.60	0.80
+108=	Navlika Mehta	Novice	We miss mech	71	73	73	75	76	368	73.60	1.74
+114=	Megha Sharma	Novice	Lex loci	74	72	73	73	75	367	73.40	1.02
+114=	Anisha Mishra	Novice	Average Bournvita Enjoyers	72	75	73	72	75	367	73.40	1.36
+114=	Siddharth Misra	Novice	broken back break	74	64	76	76	77	367	73.40	4.80
+114=	Vaishnavi Srivastav	Novice	Roasted Almond	71	77	72	74	73	367	73.40	2.06
+118	Akash Singh	Novice	We miss mech	70	73	73	74	76	366	73.20	1.94
+119	Bhairavi Ponkshe	Novice	Ravenpuff	73	75	75	70	72	365	73.00	1.90
+120	Areeza Chawdhary	Novice	Roasted Almond	69	77	72	73	72	363	72.60	2.58
+121=	Krupa Pandit	Novice	Ravenpuff	72	74	74	70	72	362	72.40	1.50
+121=	Louel M Abrehan		SPEED-UP B	70	73	73	73	73	362	72.40	1.20
+123	Sharun		White and Wannabe White	—	80	81	79	83	323	80.75	1.48
+124	Raihan Rahman		australian cricket world cup in the	—	79	76	72	76	303	75.75	2.49
+125=	Keshvi Arya	Novice	Noddle cheese frankie	75	—	77	75	75	302	75.50	0.87
+125=	Akanksha sendhil		PESt control	74	—	76	75	77	302	75.50	1.12
+125=	Daliya Thacker	Novice	XLers	75	77	75	—	75	302	75.50	0.87
+128=	Rushil Motwani	Novice	Noddle cheese frankie	75	—	76	75	75	301	75.25	0.43
+128=	Harshal Dorkhande	Novice	Jaldi bol kal subah Panvel nikalna	76	—	76	75	74	301	75.25	0.83
+130=	Shivam Shaurya	Novice	Jaldi bol kal subah Panvel nikalna	75	—	75	76	74	300	75.00	0.71
+130=	Aditya Bharath		PESt control	72	—	75	76	77	300	75.00	1.87
+132=	Tanishi Ahuja	Novice	Team Hustlers	75	74	74	—	76	299	74.75	0.83
+132=	Aadisha Dhaliwal	Novice	Team Hustlers	73	75	74	—	77	299	74.75	1.48
+132=	Khushi Kumar	Novice	Kabhi Khushi Kabhi Gham	74	76	—	75	74	299	74.75	0.83
+135	Anshita Tiwari	Novice	Scooby Doo	75	75	73	—	75	298	74.50	0.87
+136	Sukanya Nema	Novice	Shastrartha	75	75	74	73	—	297	74.25	0.83
+137=	Arya Mitkari	Novice	ILS	74	75	76	70	—	295	73.75	2.28
+137=	Snigdha Mukherjee	Novice	ILS	75	74	75	71	—	295	73.75	1.64
+137=	Chanakya kene	Novice	Mujhase debate karogi?	74	72	73	76	—	295	73.75	1.48
+140	Padmalaxmi Panchal	Novice	Dev and Padmalaxmi	69	—	74	77	74	294	73.50	2.87
+141=	Dev mehta	Novice	Dev and Padmalaxmi	68	—	75	76	73	292	73.00	3.08
+141=	Sahil Joshi	Novice	NLU buttiburi	74	74	72	72	—	292	73.00	1.00
+143	Mandar Latpate	Novice	Mujhase debate karogi?	73	70	74	74	—	291	72.75	1.64
+144	Shashwat Agarwal	Novice	Hello Peemps	72	62	74	—	72	280	70.00	4.69
+145	Likith Sai Jonna	Novice	Hello Peemps	72	61	72	—	73	278	69.50	4.92
+146	Speaker 1		swing 1	80	77	—	—	77	234	78.00	1.41
+147	Speaker 2		swing 1	79	77	—	—	77	233	77.67	0.94
+148	Speaker 3		Swing 2	75	80	76	—	—	231	77.00	2.16
+149=	Speaker 5		Swing 3	73	76	78	—	—	227	75.67	2.05
+149=	Speaker 1		Swing 4	—	—	77	75	75	227	75.67	0.94
+149=	Rohan Bhardwaj	Novice	XLers	76	76	75	—	—	227	75.67	0.47
+152=	Teesha Bathija	Novice	We dissent	75	75	76	—	—	226	75.33	0.47
+152=	Ashay Maske		Shastrartha	75	76	75	—	—	226	75.33	0.47
+154=	Samruddhi Nanoskar	Novice	We dissent	75	75	74	—	—	224	74.67	0.47
+154=	Aadithya J Nair	Novice	Parley-G Central	74	77	73	—	—	224	74.67	1.70
+156	Sruthi Susan Mathew	Novice	Parley-G Central	73	77	73	—	—	223	74.33	1.89
+157=	Tanishka jain	Novice	NLU buttiburi	74	75	73	—	—	222	74.00	0.82
+157=	Aman Goyal		Dead debaters society	72	76	74	—	—	222	74.00	1.63
+157=	Aditi	Novice	Dead debaters society	71	77	74	—	—	222	74.00	2.45
+160	Speaker 6		Swing 3	—	76	78	—	—	154	77.00	1.00
+161=	Speaker 4		Swing 2	74	79	—	—	—	153	76.50	2.50
+161=	Speaker 15		Swing 8	—	—	—	78	75	153	76.50	1.50
+163=	Speaker 11		Swing 6	—	—	—	76	76	152	76.00	0.00
+163=	Speaker 16		Swing 8	—	—	—	78	74	152	76.00	2.00
+163=	Priyanshu	Novice	high and bi	76	76	—	—	—	152	76.00	0.00
+166=	Speaker 2		Swing 4	—	—	76	75	—	151	75.50	0.50
+166=	Speaker 9		swing 5	—	—	—	78	73	151	75.50	2.50
+166=	Speaker 10		swing 5	—	—	—	78	73	151	75.50	2.50
+166=	Speaker 12		Swing 6	—	—	—	76	75	151	75.50	0.50
+170=	Speaker 13		Swing Swong	—	—	—	74	76	150	75.00	1.00
+170=	Speaker 14		Swing Swong	—	—	—	75	75	150	75.00	0.00
+170=	Awantika	Novice	high and bi	75	75	—	—	—	150	75.00	0.00
+173	Nandini Jain	Novice	&quot;Yeh Constructives Kya Hota Hai&quot;	62	75	—	—	—	137	68.50	6.50
+174	Vedant Bharadwaj Singh	Novice	&quot;Yeh Constructives Kya Hota Hai&quot;	62	74	—	—	—	136	68.00	6.00
+175	Ahmed Hussain		THP 241 USD	—	80	—	—	—	80	80.00	0.00
+176	Tanvir Thamid		THP 241 USD	—	79	—	—	—	79	79.00	0.00
+177	Khooshi Mukhi	Novice	This One’s on the House	76	—	—	—	—	76	76.00	0.00
+178	Sameep Baral	Novice	This One’s on the House	74	—	—	—	—	74	74.00	0.00
+179=	Abhay Sharma	Novice	NLUJA Assam	69	—	—	—	—	69	69.00	0.00
+179=	Priyansh Kanawat	Novice	NLUJA Assam	69	—	—	—	—	69	69.00	0.00
+181=	Chirag Roy	Novice	Debs of XL	—	—	—	—	—	—	—	—
+181=	Navya Karnwal	Novice	Debs of XL	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+Notice Us Ahan Senpai	3rd	Opening Government	View Ballot	Alexander OlafisoyeⒸ , Anushka Sanjay , Aoishi , Angelo Paquiao LadigohonⓉ , Pranav V KumarⓉ
+beghairats	4th	Opening Opposition	View Ballot	Alexander OlafisoyeⒸ , Anushka Sanjay , Aoishi , Angelo Paquiao LadigohonⓉ , Pranav V KumarⓉ
+PUoPisay - Tom and Jerry	1st	Closing Opposition	View Ballot	Alexander OlafisoyeⒸ , Anushka Sanjay , Aoishi , Angelo Paquiao LadigohonⓉ , Pranav V KumarⓉ
+swing 1	2nd	Closing Government	View Ballot	Alexander OlafisoyeⒸ , Anushka Sanjay , Aoishi , Angelo Paquiao LadigohonⓉ , Pranav V KumarⓉ
+Platonic Lovers	4th	Closing Government	View Ballot	Abdul WassayⒸ , Keshav Rai Bramhabhatt , Ananya GulatiⓉ , Griffith Biju JohnⓉ
+Ravenpuff	3rd	Closing Opposition	View Ballot	Abdul WassayⒸ , Keshav Rai Bramhabhatt , Ananya GulatiⓉ , Griffith Biju JohnⓉ
+Ullalalu Prasad Yadav	1st	Opening Opposition	View Ballot	Abdul WassayⒸ , Keshav Rai Bramhabhatt , Ananya GulatiⓉ , Griffith Biju JohnⓉ
+Team Hustlers	2nd	Opening Government	View Ballot	Abdul WassayⒸ , Keshav Rai Bramhabhatt , Ananya GulatiⓉ , Griffith Biju JohnⓉ
+Sasta Fight Club	2nd	Opening Opposition	View Ballot	Vrinda KudsiaⒸ , Rajyawardhan &quot;Bihari&quot; Singh , Aaryan BagrechaⓉ , Saesha WadhwaⓉ
+&quot;Yeh Constructives Kya Hota Hai&quot;	4th	Closing Opposition	View Ballot	Vrinda KudsiaⒸ , Rajyawardhan &quot;Bihari&quot; Singh , Aaryan BagrechaⓉ , Saesha WadhwaⓉ
+Not RMaLiens	3rd	Opening Government	View Ballot	Vrinda KudsiaⒸ , Rajyawardhan &quot;Bihari&quot; Singh , Aaryan BagrechaⓉ , Saesha WadhwaⓉ
+Pierre Menard of The Quixote	1st	Closing Government	View Ballot	Vrinda KudsiaⒸ , Rajyawardhan &quot;Bihari&quot; Singh , Aaryan BagrechaⓉ , Saesha WadhwaⓉ
+Trash Jokers, Just Kids	1st	Closing Government	View Ballot	Davida PaulⒸ , Ram , Arowolo Olayemi JoshuaⓉ , MAHI AGRAWALⓉ
+dosa dazzler try adab kebab	3rd	Opening Opposition	View Ballot	Davida PaulⒸ , Ram , Arowolo Olayemi JoshuaⓉ , MAHI AGRAWALⓉ
+Shastrartha	4th	Closing Opposition	View Ballot	Davida PaulⒸ , Ram , Arowolo Olayemi JoshuaⓉ , MAHI AGRAWALⓉ
+AM to PM	2nd	Opening Government	View Ballot	Davida PaulⒸ , Ram , Arowolo Olayemi JoshuaⓉ , MAHI AGRAWALⓉ
+Swing 2	2nd	Opening Government	View Ballot	Chinmaya MohanⒸ , Aditya , Rishabhraj Maiti , AnushkaⓉ , Namay ModiⓉ
+Jaldi bol kal subah Panvel nikalna	1st	Opening Opposition	View Ballot	Chinmaya MohanⒸ , Aditya , Rishabhraj Maiti , AnushkaⓉ , Namay ModiⓉ
+Bawana ke Bakchod	3rd	Closing Government	View Ballot	Chinmaya MohanⒸ , Aditya , Rishabhraj Maiti , AnushkaⓉ , Namay ModiⓉ
+The Crackerjacks	4th	Closing Opposition	View Ballot	Chinmaya MohanⒸ , Aditya , Rishabhraj Maiti , AnushkaⓉ , Namay ModiⓉ
+Chill kr tu thoda	3rd	Closing Opposition	View Ballot	Archit LahiriⒸ , Vagisha Mandloi , Vivek Raj , Kartik PendharkarⓉ , Pragya MathurⓉ
+Hahahahahahahahhahahahahah	2nd	Closing Government	View Ballot	Archit LahiriⒸ , Vagisha Mandloi , Vivek Raj , Kartik PendharkarⓉ , Pragya MathurⓉ
+Kabhi Khushi Kabhi Gham	4th	Opening Opposition	View Ballot	Archit LahiriⒸ , Vagisha Mandloi , Vivek Raj , Kartik PendharkarⓉ , Pragya MathurⓉ
+Sharabi and Sharabi Max Return	1st	Opening Government	View Ballot	Archit LahiriⒸ , Vagisha Mandloi , Vivek Raj , Kartik PendharkarⓉ , Pragya MathurⓉ
+We dissent	3rd	Opening Opposition	View Ballot	Sudiksha AggarwalⒸ , Uditi Kukreti , Shuvajyoti KarⓉ , Vedansh PandeyⓉ
+We have an issue	4th	Closing Government	View Ballot	Sudiksha AggarwalⒸ , Uditi Kukreti , Shuvajyoti KarⓉ , Vedansh PandeyⓉ
+South Bombay fundraiser for Odisha 	1st	Opening Government	View Ballot	Sudiksha AggarwalⒸ , Uditi Kukreti , Shuvajyoti KarⓉ , Vedansh PandeyⓉ
+UFD Mokingjay	2nd	Closing Opposition	View Ballot	Sudiksha AggarwalⒸ , Uditi Kukreti , Shuvajyoti KarⓉ , Vedansh PandeyⓉ
+RCL Beta Team	1st	Closing Government	View Ballot	Kaushik DasⒸ , Dhia Elsa Thomas , Kunal Dhawan , Aashirya MalikⓉ , Adrija BanerjeeⓉ , PranshulⓉ
+Lex loci	4th	Opening Opposition	View Ballot	Kaushik DasⒸ , Dhia Elsa Thomas , Kunal Dhawan , Aashirya MalikⓉ , Adrija BanerjeeⓉ , PranshulⓉ
+Noddle cheese frankie	3rd	Closing Opposition	View Ballot	Kaushik DasⒸ , Dhia Elsa Thomas , Kunal Dhawan , Aashirya MalikⓉ , Adrija BanerjeeⓉ , PranshulⓉ
+high and bi	2nd	Opening Government	View Ballot	Kaushik DasⒸ , Dhia Elsa Thomas , Kunal Dhawan , Aashirya MalikⓉ , Adrija BanerjeeⓉ , PranshulⓉ
+Scooby Doo	3rd	Closing Government	View Ballot	Jessica AwurumⒸ , M.Navakanth , Kushagra AdityaⓉ , Paurush PrakashⓉ , Pratyush ChakrabortyⓉ
+PESt control	4th	Opening Government	View Ballot	Jessica AwurumⒸ , M.Navakanth , Kushagra AdityaⓉ , Paurush PrakashⓉ , Pratyush ChakrabortyⓉ
+Kamath &amp; Gibson	1st	Opening Opposition	View Ballot	Jessica AwurumⒸ , M.Navakanth , Kushagra AdityaⓉ , Paurush PrakashⓉ , Pratyush ChakrabortyⓉ
+PUoPisay - Alagad ni Matthew at Kel	2nd	Closing Opposition	View Ballot	Jessica AwurumⒸ , M.Navakanth , Kushagra AdityaⓉ , Paurush PrakashⓉ , Pratyush ChakrabortyⓉ
+NLU buttiburi	4th	Opening Government	View Ballot	Ayodele SamuelⒸ , Pranjal Chakraborty , Rishabh SahuⓉ , Taichi YamamuraⓉ
+100 la 1 kilo	3rd	Closing Government	View Ballot	Ayodele SamuelⒸ , Pranjal Chakraborty , Rishabh SahuⓉ , Taichi YamamuraⓉ
+Praggy and the cockroaches	2nd	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Pranjal Chakraborty , Rishabh SahuⓉ , Taichi YamamuraⓉ
+neend ya nashe mein	1st	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Pranjal Chakraborty , Rishabh SahuⓉ , Taichi YamamuraⓉ
+NLUJA Assam	4th	Closing Government	View Ballot	Victor BervoetsⒸ , Opoola Opeyemi Toluwase , Ryna Saxena
+Roasted Almond	3rd	Opening Opposition	View Ballot	Victor BervoetsⒸ , Opoola Opeyemi Toluwase , Ryna Saxena
+Khajuria and Yoosuf	1st	Opening Government	View Ballot	Victor BervoetsⒸ , Opoola Opeyemi Toluwase , Ryna Saxena
+Mujhase debate karogi?	2nd	Closing Opposition	View Ballot	Victor BervoetsⒸ , Opoola Opeyemi Toluwase , Ryna Saxena
+Dev and Padmalaxmi	4th	Closing Opposition	View Ballot	Kamila KawczakⒸ , Kartik Rajoteaya , Nandika KhatorⓉ , Neha KumarⓉ , Vidisha BanerjeeⓉ
+The Cutie Panel	3rd	Closing Government	View Ballot	Kamila KawczakⒸ , Kartik Rajoteaya , Nandika KhatorⓉ , Neha KumarⓉ , Vidisha BanerjeeⓉ
+Cheeto ka Halal	1st	Opening Opposition	View Ballot	Kamila KawczakⒸ , Kartik Rajoteaya , Nandika KhatorⓉ , Neha KumarⓉ , Vidisha BanerjeeⓉ
+Dep Zeppelin	2nd	Opening Government	View Ballot	Kamila KawczakⒸ , Kartik Rajoteaya , Nandika KhatorⓉ , Neha KumarⓉ , Vidisha BanerjeeⓉ
+Mysore 1	3rd	Opening Opposition	View Ballot	Amelia PotockaⒸ , Shubhankar , Parth MathurⓉ , Prajjwal SinghⓉ
+Wakar Zaka &amp; Bilal Khan aagya Cutoo	4th	Closing Opposition	View Ballot	Amelia PotockaⒸ , Shubhankar , Parth MathurⓉ , Prajjwal SinghⓉ
+Looking for our Baes of Bengal	2nd	Closing Government	View Ballot	Amelia PotockaⒸ , Shubhankar , Parth MathurⓉ , Prajjwal SinghⓉ
+White and Wannabe White	1st	Opening Government	View Ballot	Amelia PotockaⒸ , Shubhankar , Parth MathurⓉ , Prajjwal SinghⓉ
+Army Institute of law, Mohali	4th	Closing Government	View Ballot	Reginald FajardoⒸ , Harvey Melendrez , Shwetang Parthsarthy , Nishka KhatriⓉ , Safna MujeebⓉ
+Break-Less	2nd	Closing Opposition	View Ballot	Reginald FajardoⒸ , Harvey Melendrez , Shwetang Parthsarthy , Nishka KhatriⓉ , Safna MujeebⓉ
+hello world	3rd	Opening Opposition	View Ballot	Reginald FajardoⒸ , Harvey Melendrez , Shwetang Parthsarthy , Nishka KhatriⓉ , Safna MujeebⓉ
+I&#x27;ve to put my girlfriend on my Tod	1st	Opening Government	View Ballot	Reginald FajardoⒸ , Harvey Melendrez , Shwetang Parthsarthy , Nishka KhatriⓉ , Safna MujeebⓉ
+Swing 3	4th	Opening Government	View Ballot	Christopher ChuaⒸ , Vishwa Raghav Raj , Anna Carissa BurtonⓉ , Souritri SantraⓉ
+Creds dedo pls	2nd	Closing Opposition	View Ballot	Christopher ChuaⒸ , Vishwa Raghav Raj , Anna Carissa BurtonⓉ , Souritri SantraⓉ
+Just Pahadi X Dilli Personalities	3rd	Closing Government	View Ballot	Christopher ChuaⒸ , Vishwa Raghav Raj , Anna Carissa BurtonⓉ , Souritri SantraⓉ
+IITM_1	1st	Opening Opposition	View Ballot	Christopher ChuaⒸ , Vishwa Raghav Raj , Anna Carissa BurtonⓉ , Souritri SantraⓉ
+Bad Luck and Worst Luck	1st	Closing Opposition	View Ballot	Bhaskar AgarwalⒸ , Vashmeet Kaur , Harsh MankarⓉ , ManikaⓉ , Pratham KadianⓉ
+Hello Peemps	2nd	Opening Opposition	View Ballot	Bhaskar AgarwalⒸ , Vashmeet Kaur , Harsh MankarⓉ , ManikaⓉ , Pratham KadianⓉ
+We miss mech	4th	Closing Government	View Ballot	Bhaskar AgarwalⒸ , Vashmeet Kaur , Harsh MankarⓉ , ManikaⓉ , Pratham KadianⓉ
+Dead debaters society	3rd	Opening Government	View Ballot	Bhaskar AgarwalⒸ , Vashmeet Kaur , Harsh MankarⓉ , ManikaⓉ , Pratham KadianⓉ
+Average Bournvita Enjoyers	4th	Opening Opposition	View Ballot	Smriti SultaniaⒸ , Aarav Machhral , Princess Farjanah , Prisha JainⓉ , Rajeshwar Singh ParmarⓉ , Tripti BansalⓉ
+broken back break	2nd	Closing Opposition	View Ballot	Smriti SultaniaⒸ , Aarav Machhral , Princess Farjanah , Prisha JainⓉ , Rajeshwar Singh ParmarⓉ , Tripti BansalⓉ
+Spotted88	1st	Closing Government	View Ballot	Smriti SultaniaⒸ , Aarav Machhral , Princess Farjanah , Prisha JainⓉ , Rajeshwar Singh ParmarⓉ , Tripti BansalⓉ
+algorhythm	3rd	Opening Government	View Ballot	Smriti SultaniaⒸ , Aarav Machhral , Princess Farjanah , Prisha JainⓉ , Rajeshwar Singh ParmarⓉ , Tripti BansalⓉ
+THS state-sponsored homosexuality	2nd	Closing Opposition	View Ballot	anushikhaⒸ , Adya Bhalla , Gnanith HunsurⓉ , Isha SrivastavaⓉ
+room 16 debut	1st	Closing Government	View Ballot	anushikhaⒸ , Adya Bhalla , Gnanith HunsurⓉ , Isha SrivastavaⓉ
+SPEED-UP B	4th	Opening Opposition	View Ballot	anushikhaⒸ , Adya Bhalla , Gnanith HunsurⓉ , Isha SrivastavaⓉ
+Astral ArguMinds	3rd	Opening Government	View Ballot	anushikhaⒸ , Adya Bhalla , Gnanith HunsurⓉ , Isha SrivastavaⓉ
+No Constructives For Old Men	2nd	Opening Government	View Ballot	Saleem SalisuⒸ , SHRIDHAR TIWARIⓉ , Snigdha RajaⓉ , Timothy AdediranⓉ
+This One’s on the House	3rd	Opening Opposition	View Ballot	Saleem SalisuⒸ , SHRIDHAR TIWARIⓉ , Snigdha RajaⓉ , Timothy AdediranⓉ
+ILS	4th	Closing Opposition	View Ballot	Saleem SalisuⒸ , SHRIDHAR TIWARIⓉ , Snigdha RajaⓉ , Timothy AdediranⓉ
+australian cricket world cup in the	1st	Closing Government	View Ballot	Saleem SalisuⒸ , SHRIDHAR TIWARIⓉ , Snigdha RajaⓉ , Timothy AdediranⓉ
+The talking heads	3rd	Closing Government	View Ballot	Vani BhardwajⒸ , Anugya Bhadauria , Mehal Bisht , Lakshita ParganihaⓉ
+nawabi gali mein kanooni keede	4th	Opening Opposition	View Ballot	Vani BhardwajⒸ , Anugya Bhadauria , Mehal Bisht , Lakshita ParganihaⓉ
+arguably downfalling	2nd	Closing Opposition	View Ballot	Vani BhardwajⒸ , Anugya Bhadauria , Mehal Bisht , Lakshita ParganihaⓉ
+Raada boi does damage control for h	1st	Opening Government	View Ballot	Vani BhardwajⒸ , Anugya Bhadauria , Mehal Bisht , Lakshita ParganihaⓉ
+XLers	3rd	Closing Government	View Ballot	Harshvardhan JakherⒸ , Ajay Joel , Shivani Mishra , Bhumika MalikⓉ , MonisⓉ
+RossNRachel	1st	Opening Opposition	View Ballot	Harshvardhan JakherⒸ , Ajay Joel , Shivani Mishra , Bhumika MalikⓉ , MonisⓉ
+ARSD A	2nd	Opening Government	View Ballot	Harshvardhan JakherⒸ , Ajay Joel , Shivani Mishra , Bhumika MalikⓉ , MonisⓉ
+Parley-G Central	4th	Closing Opposition	View Ballot	Harshvardhan JakherⒸ , Ajay Joel , Shivani Mishra , Bhumika MalikⓉ , MonisⓉ
+
+
+team	result	side	ballot	adjudicators
+The talking heads	4th	Closing Opposition	View Ballot	RamⒸ , Adya Bhalla , Kunal Dhawan , Shashank RⓉ
+Chill kr tu thoda	2nd	Opening Government	View Ballot	RamⒸ , Adya Bhalla , Kunal Dhawan , Shashank RⓉ
+Scooby Doo	3rd	Opening Opposition	View Ballot	RamⒸ , Adya Bhalla , Kunal Dhawan , Shashank RⓉ
+Dead debaters society	1st	Closing Government	View Ballot	RamⒸ , Adya Bhalla , Kunal Dhawan , Shashank RⓉ
+South Bombay fundraiser for Odisha 	2nd	Closing Opposition	View Ballot	Davida PaulⒸ , Shubhankar , Anushka SanjayⓉ , SHRIDHAR TIWARIⓉ
+room 16 debut	1st	Opening Government	View Ballot	Davida PaulⒸ , Shubhankar , Anushka SanjayⓉ , SHRIDHAR TIWARIⓉ
+Khajuria and Yoosuf	4th	Closing Government	View Ballot	Davida PaulⒸ , Shubhankar , Anushka SanjayⓉ , SHRIDHAR TIWARIⓉ
+Raada boi does damage control for h	3rd	Opening Opposition	View Ballot	Davida PaulⒸ , Shubhankar , Anushka SanjayⓉ , SHRIDHAR TIWARIⓉ
+Bad Luck and Worst Luck	1st	Opening Opposition	View Ballot	Christopher ChuaⒸ , Mehal Bisht , Namay ModiⓉ , Nandika KhatorⓉ , Vidisha BanerjeeⓉ
+Cheeto ka Halal	4th	Closing Opposition	View Ballot	Christopher ChuaⒸ , Mehal Bisht , Namay ModiⓉ , Nandika KhatorⓉ , Vidisha BanerjeeⓉ
+RossNRachel	2nd	Opening Government	View Ballot	Christopher ChuaⒸ , Mehal Bisht , Namay ModiⓉ , Nandika KhatorⓉ , Vidisha BanerjeeⓉ
+I&#x27;ve to put my girlfriend on my Tod	3rd	Closing Government	View Ballot	Christopher ChuaⒸ , Mehal Bisht , Namay ModiⓉ , Nandika KhatorⓉ , Vidisha BanerjeeⓉ
+Swing 2	1st	Opening Government	View Ballot	Alexander OlafisoyeⒸ , Kyra Mathur , ManikaⓉ , PranshulⓉ
+Mysore 1	2nd	Closing Opposition	View Ballot	Alexander OlafisoyeⒸ , Kyra Mathur , ManikaⓉ , PranshulⓉ
+100 la 1 kilo	3rd	Opening Opposition	View Ballot	Alexander OlafisoyeⒸ , Kyra Mathur , ManikaⓉ , PranshulⓉ
+Astral ArguMinds	4th	Closing Government	View Ballot	Alexander OlafisoyeⒸ , Kyra Mathur , ManikaⓉ , PranshulⓉ
+The Cutie Panel	4th	Closing Opposition	View Ballot	Bhaskar AgarwalⒸ , Aarav Machhral , Rishabhraj Maiti , Pranav V KumarⓉ , Pratham KadianⓉ
+algorhythm	1st	Opening Opposition	View Ballot	Bhaskar AgarwalⒸ , Aarav Machhral , Rishabhraj Maiti , Pranav V KumarⓉ , Pratham KadianⓉ
+XLers	2nd	Opening Government	View Ballot	Bhaskar AgarwalⒸ , Aarav Machhral , Rishabhraj Maiti , Pranav V KumarⓉ , Pratham KadianⓉ
+Not RMaLiens	3rd	Closing Government	View Ballot	Bhaskar AgarwalⒸ , Aarav Machhral , Rishabhraj Maiti , Pranav V KumarⓉ , Pratham KadianⓉ
+THS state-sponsored homosexuality	1st	Opening Opposition	View Ballot	Vrinda KudsiaⒸ , Aditya , Princess Farjanah , Harsh MankarⓉ , SanchitⓉ
+broken back break	3rd	Closing Government	View Ballot	Vrinda KudsiaⒸ , Aditya , Princess Farjanah , Harsh MankarⓉ , SanchitⓉ
+Hello Peemps	4th	Closing Opposition	View Ballot	Vrinda KudsiaⒸ , Aditya , Princess Farjanah , Harsh MankarⓉ , SanchitⓉ
+Mujhase debate karogi?	2nd	Opening Government	View Ballot	Vrinda KudsiaⒸ , Aditya , Princess Farjanah , Harsh MankarⓉ , SanchitⓉ
+RCL Beta Team	3rd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Keshav Rai Bramhabhatt , Paurush PrakashⓉ , Snigdha RajaⓉ
+IITM_1	4th	Closing Government	View Ballot	Rushdoon AhmedⒸ , Keshav Rai Bramhabhatt , Paurush PrakashⓉ , Snigdha RajaⓉ
+Sharabi and Sharabi Max Return	1st	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Keshav Rai Bramhabhatt , Paurush PrakashⓉ , Snigdha RajaⓉ
+Pierre Menard of The Quixote	2nd	Opening Government	View Ballot	Rushdoon AhmedⒸ , Keshav Rai Bramhabhatt , Paurush PrakashⓉ , Snigdha RajaⓉ
+dosa dazzler try adab kebab	3rd	Closing Government	View Ballot	Abdul WassayⒸ , Adrija Banerjee , Pranjal Chakraborty , Aashirya MalikⓉ , Vedansh PandeyⓉ
+Roasted Almond	2nd	Opening Government	View Ballot	Abdul WassayⒸ , Adrija Banerjee , Pranjal Chakraborty , Aashirya MalikⓉ , Vedansh PandeyⓉ
+Just Pahadi X Dilli Personalities	1st	Opening Opposition	View Ballot	Abdul WassayⒸ , Adrija Banerjee , Pranjal Chakraborty , Aashirya MalikⓉ , Vedansh PandeyⓉ
+Bawana ke Bakchod	4th	Closing Opposition	View Ballot	Abdul WassayⒸ , Adrija Banerjee , Pranjal Chakraborty , Aashirya MalikⓉ , Vedansh PandeyⓉ
+Creds dedo pls	3rd	Closing Government	View Ballot	anushikhaⒸ , Vivek Raj , Aaryan BagrechaⓉ , Griffith Biju JohnⓉ , Parth MathurⓉ
+arguably downfalling	1st	Opening Opposition	View Ballot	anushikhaⒸ , Vivek Raj , Aaryan BagrechaⓉ , Griffith Biju JohnⓉ , Parth MathurⓉ
+AM to PM	2nd	Closing Opposition	View Ballot	anushikhaⒸ , Vivek Raj , Aaryan BagrechaⓉ , Griffith Biju JohnⓉ , Parth MathurⓉ
+PUoPisay - Alagad ni Matthew at Kel	4th	Opening Government	View Ballot	anushikhaⒸ , Vivek Raj , Aaryan BagrechaⓉ , Griffith Biju JohnⓉ , Parth MathurⓉ
+Swing 3	2nd	Closing Opposition	View Ballot	Saleem SalisuⒸ , Prajjwal Singh , Smriti Sultania , Tripti Bansal
+We dissent	3rd	Opening Government	View Ballot	Saleem SalisuⒸ , Prajjwal Singh , Smriti Sultania , Tripti Bansal
+Notice Us Ahan Senpai	1st	Opening Opposition	View Ballot	Saleem SalisuⒸ , Prajjwal Singh , Smriti Sultania , Tripti Bansal
+Ravenpuff	4th	Closing Government	View Ballot	Saleem SalisuⒸ , Prajjwal Singh , Smriti Sultania , Tripti Bansal
+ILS	3rd	Closing Government	View Ballot	Reginald FajardoⒸ , Pragya Mathur , Vagisha Mandloi
+We miss mech	4th	Closing Opposition	View Ballot	Reginald FajardoⒸ , Pragya Mathur , Vagisha Mandloi
+Kabhi Khushi Kabhi Gham	2nd	Opening Government	View Ballot	Reginald FajardoⒸ , Pragya Mathur , Vagisha Mandloi
+swing 1	1st	Opening Opposition	View Ballot	Reginald FajardoⒸ , Pragya Mathur , Vagisha Mandloi
+NLU buttiburi	4th	Closing Opposition	View Ballot	Archit LahiriⒸ , Harvey Melendrez , Rajeshwar Singh Parmar , PranatiⓉ , SUJALⓉ
+Shastrartha	2nd	Opening Opposition	View Ballot	Archit LahiriⒸ , Harvey Melendrez , Rajeshwar Singh Parmar , PranatiⓉ , SUJALⓉ
+beghairats	3rd	Closing Government	View Ballot	Archit LahiriⒸ , Harvey Melendrez , Rajeshwar Singh Parmar , PranatiⓉ , SUJALⓉ
+Wakar Zaka &amp; Bilal Khan aagya Cutoo	1st	Opening Government	View Ballot	Archit LahiriⒸ , Harvey Melendrez , Rajeshwar Singh Parmar , PranatiⓉ , SUJALⓉ
+We have an issue	2nd	Closing Opposition	View Ballot	Harshvardhan JakherⒸ , Kushagra Aditya , Shwetang Parthsarthy , Kartik RajoteayaⓉ , Rishabh SahuⓉ
+Lex loci	3rd	Opening Government	View Ballot	Harshvardhan JakherⒸ , Kushagra Aditya , Shwetang Parthsarthy , Kartik RajoteayaⓉ , Rishabh SahuⓉ
+Army Institute of law, Mohali	1st	Opening Opposition	View Ballot	Harshvardhan JakherⒸ , Kushagra Aditya , Shwetang Parthsarthy , Kartik RajoteayaⓉ , Rishabh SahuⓉ
+PESt control	4th	Closing Government	View Ballot	Harshvardhan JakherⒸ , Kushagra Aditya , Shwetang Parthsarthy , Kartik RajoteayaⓉ , Rishabh SahuⓉ
+Average Bournvita Enjoyers	2nd	Opening Government	View Ballot	Shivani MishraⒸ , Kartik Pendharkar , Opoola Opeyemi Toluwase , Rohan KrishnanⓉ , Taichi YamamuraⓉ
+nawabi gali mein kanooni keede	1st	Closing Government	View Ballot	Shivani MishraⒸ , Kartik Pendharkar , Opoola Opeyemi Toluwase , Rohan KrishnanⓉ , Taichi YamamuraⓉ
+SPEED-UP B	4th	Closing Opposition	View Ballot	Shivani MishraⒸ , Kartik Pendharkar , Opoola Opeyemi Toluwase , Rohan KrishnanⓉ , Taichi YamamuraⓉ
+&quot;Yeh Constructives Kya Hota Hai&quot;	3rd	Opening Opposition	View Ballot	Shivani MishraⒸ , Kartik Pendharkar , Opoola Opeyemi Toluwase , Rohan KrishnanⓉ , Taichi YamamuraⓉ
+No Constructives For Old Men	3rd	Closing Government	View Ballot	Jessica AwurumⒸ , Bhumika Malik , Dhia Elsa Thomas , Gnanith HunsurⓉ
+Sasta Fight Club	4th	Opening Government	View Ballot	Jessica AwurumⒸ , Bhumika Malik , Dhia Elsa Thomas , Gnanith HunsurⓉ
+ARSD A	2nd	Closing Opposition	View Ballot	Jessica AwurumⒸ , Bhumika Malik , Dhia Elsa Thomas , Gnanith HunsurⓉ
+UFD Mokingjay	1st	Opening Opposition	View Ballot	Jessica AwurumⒸ , Bhumika Malik , Dhia Elsa Thomas , Gnanith HunsurⓉ
+Praggy and the cockroaches	2nd	Closing Opposition	View Ballot	Vani BhardwajⒸ , M.Navakanth , Ryna Saxena , Safna MujeebⓉ , Timothy AdediranⓉ
+Break-Less	3rd	Opening Government	View Ballot	Vani BhardwajⒸ , M.Navakanth , Ryna Saxena , Safna MujeebⓉ , Timothy AdediranⓉ
+Hahahahahahahahhahahahahah	1st	Opening Opposition	View Ballot	Vani BhardwajⒸ , M.Navakanth , Ryna Saxena , Safna MujeebⓉ , Timothy AdediranⓉ
+hello world	4th	Closing Government	View Ballot	Vani BhardwajⒸ , M.Navakanth , Ryna Saxena , Safna MujeebⓉ , Timothy AdediranⓉ
+Trash Jokers, Just Kids	2nd	Opening Opposition	View Ballot	Amelia PotockaⒸ , Vashmeet Kaur , Vishwa Raghav Raj , Ananya GulatiⓉ , Anugya BhadauriaⓉ
+Spotted88	4th	Closing Opposition	View Ballot	Amelia PotockaⒸ , Vashmeet Kaur , Vishwa Raghav Raj , Ananya GulatiⓉ , Anugya BhadauriaⓉ
+Kamath &amp; Gibson	1st	Opening Government	View Ballot	Amelia PotockaⒸ , Vashmeet Kaur , Vishwa Raghav Raj , Ananya GulatiⓉ , Anugya BhadauriaⓉ
+neend ya nashe mein	3rd	Closing Government	View Ballot	Amelia PotockaⒸ , Vashmeet Kaur , Vishwa Raghav Raj , Ananya GulatiⓉ , Anugya BhadauriaⓉ
+Ullalalu Prasad Yadav	3rd	Closing Opposition	View Ballot	Victor BervoetsⒸ , Uditi Kukreti , Kartik SharmaⓉ , MonisⓉ
+PUoPisay - Tom and Jerry	4th	Opening Opposition	View Ballot	Victor BervoetsⒸ , Uditi Kukreti , Kartik SharmaⓉ , MonisⓉ
+australian cricket world cup in the	2nd	Opening Government	View Ballot	Victor BervoetsⒸ , Uditi Kukreti , Kartik SharmaⓉ , MonisⓉ
+White and Wannabe White	1st	Closing Government	View Ballot	Victor BervoetsⒸ , Uditi Kukreti , Kartik SharmaⓉ , MonisⓉ
+high and bi	3rd	Closing Opposition	View Ballot	Chinmaya MohanⒸ , Shuvajyoti Kar , Ritu HiremathⓉ , Souritri SantraⓉ
+Team Hustlers	4th	Opening Opposition	View Ballot	Chinmaya MohanⒸ , Shuvajyoti Kar , Ritu HiremathⓉ , Souritri SantraⓉ
+Looking for our Baes of Bengal	1st	Opening Government	View Ballot	Chinmaya MohanⒸ , Shuvajyoti Kar , Ritu HiremathⓉ , Souritri SantraⓉ
+Dep Zeppelin	2nd	Closing Government	View Ballot	Chinmaya MohanⒸ , Shuvajyoti Kar , Ritu HiremathⓉ , Souritri SantraⓉ
+THP 241 USD	1st	Closing Opposition	View Ballot	Nipun SapruⒸ , Aoishi , Ayushi Nasa
+Platonic Lovers	3rd	Opening Government	View Ballot	Nipun SapruⒸ , Aoishi , Ayushi Nasa
+Parley-G Central	2nd	Opening Opposition	View Ballot	Nipun SapruⒸ , Aoishi , Ayushi Nasa
+The Crackerjacks	4th	Closing Government	View Ballot	Nipun SapruⒸ , Aoishi , Ayushi Nasa
+
+
+team	result	side	ballot	adjudicators
+THS state-sponsored homosexuality	4th	Opening Government	View Ballot	Chinmaya MohanⒸ , Aoishi , SUJAL , Griffith Biju JohnⓉ , VanishaⓉ
+room 16 debut	2nd	Opening Opposition	View Ballot	Chinmaya MohanⒸ , Aoishi , SUJAL , Griffith Biju JohnⓉ , VanishaⓉ
+Kamath &amp; Gibson	1st	Closing Opposition	View Ballot	Chinmaya MohanⒸ , Aoishi , SUJAL , Griffith Biju JohnⓉ , VanishaⓉ
+Sharabi and Sharabi Max Return	3rd	Closing Government	View Ballot	Chinmaya MohanⒸ , Aoishi , SUJAL , Griffith Biju JohnⓉ , VanishaⓉ
+Khajuria and Yoosuf	3rd	Closing Opposition	View Ballot	Jessica AwurumⒸ , Vishwa Raghav Raj , Harsh MankarⓉ , Kushagra AdityaⓉ
+Just Pahadi X Dilli Personalities	2nd	Opening Government	View Ballot	Jessica AwurumⒸ , Vishwa Raghav Raj , Harsh MankarⓉ , Kushagra AdityaⓉ
+ARSD A	1st	Closing Government	View Ballot	Jessica AwurumⒸ , Vishwa Raghav Raj , Harsh MankarⓉ , Kushagra AdityaⓉ
+Dead debaters society	4th	Opening Opposition	View Ballot	Jessica AwurumⒸ , Vishwa Raghav Raj , Harsh MankarⓉ , Kushagra AdityaⓉ
+Mysore 1	1st	Opening Government	View Ballot	anushikhaⒸ , Adya Bhalla , Vidisha BanerjeeⓉ
+Ullalalu Prasad Yadav	3rd	Closing Government	View Ballot	anushikhaⒸ , Adya Bhalla , Vidisha BanerjeeⓉ
+algorhythm	2nd	Closing Opposition	View Ballot	anushikhaⒸ , Adya Bhalla , Vidisha BanerjeeⓉ
+Dep Zeppelin	4th	Opening Opposition	View Ballot	anushikhaⒸ , Adya Bhalla , Vidisha BanerjeeⓉ
+Swing 4	1st	Closing Government	View Ballot	Uditi KukretiⒸ , M.Navakanth , Pranati , Kartik SharmaⓉ
+NLU buttiburi	4th	Opening Opposition	View Ballot	Uditi KukretiⒸ , M.Navakanth , Pranati , Kartik SharmaⓉ
+PESt control	2nd	Closing Opposition	View Ballot	Uditi KukretiⒸ , M.Navakanth , Pranati , Kartik SharmaⓉ
+SPEED-UP B	3rd	Opening Government	View Ballot	Uditi KukretiⒸ , M.Navakanth , Pranati , Kartik SharmaⓉ
+Average Bournvita Enjoyers	4th	Closing Government	View Ballot	Kunal DhawanⒸ , Harvey Melendrez , Ryna Saxena , Shuvajyoti KarⓉ
+Army Institute of law, Mohali	3rd	Closing Opposition	View Ballot	Kunal DhawanⒸ , Harvey Melendrez , Ryna Saxena , Shuvajyoti KarⓉ
+Jaldi bol kal subah Panvel nikalna	1st	Opening Government	View Ballot	Kunal DhawanⒸ , Harvey Melendrez , Ryna Saxena , Shuvajyoti KarⓉ
+Break-Less	2nd	Opening Opposition	View Ballot	Kunal DhawanⒸ , Harvey Melendrez , Ryna Saxena , Shuvajyoti KarⓉ
+Bawana ke Bakchod	3rd	Opening Government	View Ballot	Vivek RajⒸ , Ajay Joel , Vashmeet Kaur , SHRIDHAR TIWARIⓉ
+PUoPisay - Alagad ni Matthew at Kel	1st	Opening Opposition	View Ballot	Vivek RajⒸ , Ajay Joel , Vashmeet Kaur , SHRIDHAR TIWARIⓉ
+Parley-G Central	4th	Closing Government	View Ballot	Vivek RajⒸ , Ajay Joel , Vashmeet Kaur , SHRIDHAR TIWARIⓉ
+Not RMaLiens	2nd	Closing Opposition	View Ballot	Vivek RajⒸ , Ajay Joel , Vashmeet Kaur , SHRIDHAR TIWARIⓉ
+We have an issue	2nd	Opening Opposition	View Ballot	Reginald FajardoⒸ , Gnanith Hunsur , Ram , Anushka SanjayⓉ
+Scooby Doo	3rd	Closing Opposition	View Ballot	Reginald FajardoⒸ , Gnanith Hunsur , Ram , Anushka SanjayⓉ
+Hello Peemps	4th	Opening Government	View Ballot	Reginald FajardoⒸ , Gnanith Hunsur , Ram , Anushka SanjayⓉ
+Sasta Fight Club	1st	Closing Government	View Ballot	Reginald FajardoⒸ , Gnanith Hunsur , Ram , Anushka SanjayⓉ
+broken back break	1st	Opening Government	View Ballot	Vani BhardwajⒸ , Aarav Machhral , AdityaⓉ , Nishka KhatriⓉ
+Chill kr tu thoda	3rd	Closing Government	View Ballot	Vani BhardwajⒸ , Aarav Machhral , AdityaⓉ , Nishka KhatriⓉ
+Roasted Almond	4th	Closing Opposition	View Ballot	Vani BhardwajⒸ , Aarav Machhral , AdityaⓉ , Nishka KhatriⓉ
+Spotted88	2nd	Opening Opposition	View Ballot	Vani BhardwajⒸ , Aarav Machhral , AdityaⓉ , Nishka KhatriⓉ
+We dissent	4th	Closing Government	View Ballot	Abdul WassayⒸ , Kartik Pendharkar , Prajjwal Singh , Parth MathurⓉ
+100 la 1 kilo	2nd	Opening Government	View Ballot	Abdul WassayⒸ , Kartik Pendharkar , Prajjwal Singh , Parth MathurⓉ
+ILS	3rd	Opening Opposition	View Ballot	Abdul WassayⒸ , Kartik Pendharkar , Prajjwal Singh , Parth MathurⓉ
+Kabhi Khushi Kabhi Gham	1st	Closing Opposition	View Ballot	Abdul WassayⒸ , Kartik Pendharkar , Prajjwal Singh , Parth MathurⓉ
+South Bombay fundraiser for Odisha 	1st	Closing Government	View Ballot	Sudiksha AggarwalⒸ , Pranjal Chakraborty , MonisⓉ , Neha KumarⓉ
+RossNRachel	4th	Closing Opposition	View Ballot	Sudiksha AggarwalⒸ , Pranjal Chakraborty , MonisⓉ , Neha KumarⓉ
+neend ya nashe mein	3rd	Opening Government	View Ballot	Sudiksha AggarwalⒸ , Pranjal Chakraborty , MonisⓉ , Neha KumarⓉ
+australian cricket world cup in the	2nd	Opening Opposition	View Ballot	Sudiksha AggarwalⒸ , Pranjal Chakraborty , MonisⓉ , Neha KumarⓉ
+No Constructives For Old Men	1st	Closing Opposition	View Ballot	DivⒸ , Keshav Rai Bramhabhatt , Shubhankar , Aashirya MalikⓉ
+Shastrartha	4th	Closing Government	View Ballot	DivⒸ , Keshav Rai Bramhabhatt , Shubhankar , Aashirya MalikⓉ
+XLers	3rd	Opening Opposition	View Ballot	DivⒸ , Keshav Rai Bramhabhatt , Shubhankar , Aashirya MalikⓉ
+PUoPisay - Tom and Jerry	2nd	Opening Government	View Ballot	DivⒸ , Keshav Rai Bramhabhatt , Shubhankar , Aashirya MalikⓉ
+Hahahahahahahahhahahahahah	2nd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Opoola Opeyemi Toluwase , Kyra MathurⓉ , Saesha WadhwaⓉ
+arguably downfalling	3rd	Closing Government	View Ballot	Rushdoon AhmedⒸ , Opoola Opeyemi Toluwase , Kyra MathurⓉ , Saesha WadhwaⓉ
+Looking for our Baes of Bengal	1st	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Opoola Opeyemi Toluwase , Kyra MathurⓉ , Saesha WadhwaⓉ
+UFD Mokingjay	4th	Opening Government	View Ballot	Rushdoon AhmedⒸ , Opoola Opeyemi Toluwase , Kyra MathurⓉ , Saesha WadhwaⓉ
+Creds dedo pls	4th	Opening Opposition	View Ballot	Vrinda KudsiaⒸ , Bhumika Malik , Princess Farjanah
+nawabi gali mein kanooni keede	2nd	Opening Government	View Ballot	Vrinda KudsiaⒸ , Bhumika Malik , Princess Farjanah
+IITM_1	3rd	Closing Opposition	View Ballot	Vrinda KudsiaⒸ , Bhumika Malik , Princess Farjanah
+Wakar Zaka &amp; Bilal Khan aagya Cutoo	1st	Closing Government	View Ballot	Vrinda KudsiaⒸ , Bhumika Malik , Princess Farjanah
+Platonic Lovers	1st	Closing Opposition	View Ballot	Shivani MishraⒸ , Rajeshwar Singh Parmar , Tripti Bansal , Nandika KhatorⓉ
+Lex loci	4th	Closing Government	View Ballot	Shivani MishraⒸ , Rajeshwar Singh Parmar , Tripti Bansal , Nandika KhatorⓉ
+The Cutie Panel	3rd	Opening Opposition	View Ballot	Shivani MishraⒸ , Rajeshwar Singh Parmar , Tripti Bansal , Nandika KhatorⓉ
+hello world	2nd	Opening Government	View Ballot	Shivani MishraⒸ , Rajeshwar Singh Parmar , Tripti Bansal , Nandika KhatorⓉ
+Cheeto ka Halal	4th	Opening Government	View Ballot	Harshvardhan JakherⒸ , Adrija Banerjee , Pranav V KumarⓉ , Souritri SantraⓉ
+AM to PM	3rd	Closing Government	View Ballot	Harshvardhan JakherⒸ , Adrija Banerjee , Pranav V KumarⓉ , Souritri SantraⓉ
+I&#x27;ve to put my girlfriend on my Tod	1st	Opening Opposition	View Ballot	Harshvardhan JakherⒸ , Adrija Banerjee , Pranav V KumarⓉ , Souritri SantraⓉ
+Raada boi does damage control for h	2nd	Closing Opposition	View Ballot	Harshvardhan JakherⒸ , Adrija Banerjee , Pranav V KumarⓉ , Souritri SantraⓉ
+Noddle cheese frankie	2nd	Closing Government	View Ballot	Smriti SultaniaⒸ , Pranshul , Rajyawardhan &quot;Bihari&quot; Singh , Aaryan BagrechaⓉ
+The talking heads	4th	Opening Opposition	View Ballot	Smriti SultaniaⒸ , Pranshul , Rajyawardhan &quot;Bihari&quot; Singh , Aaryan BagrechaⓉ
+Ravenpuff	3rd	Opening Government	View Ballot	Smriti SultaniaⒸ , Pranshul , Rajyawardhan &quot;Bihari&quot; Singh , Aaryan BagrechaⓉ
+beghairats	1st	Closing Opposition	View Ballot	Smriti SultaniaⒸ , Pranshul , Rajyawardhan &quot;Bihari&quot; Singh , Aaryan BagrechaⓉ
+Swing 3	1st	Opening Opposition	View Ballot	Mehal BishtⒸ , Dhia Elsa Thomas , Pratham Kadian , Vedansh PandeyⓉ
+dosa dazzler try adab kebab	2nd	Opening Government	View Ballot	Mehal BishtⒸ , Dhia Elsa Thomas , Pratham Kadian , Vedansh PandeyⓉ
+Team Hustlers	4th	Closing Government	View Ballot	Mehal BishtⒸ , Dhia Elsa Thomas , Pratham Kadian , Vedansh PandeyⓉ
+Astral ArguMinds	3rd	Closing Opposition	View Ballot	Mehal BishtⒸ , Dhia Elsa Thomas , Pratham Kadian , Vedansh PandeyⓉ
+RCL Beta Team	3rd	Opening Opposition	View Ballot	Archit LahiriⒸ , Vagisha Mandloi , Snigdha RajaⓉ
+Notice Us Ahan Senpai	1st	Closing Opposition	View Ballot	Archit LahiriⒸ , Vagisha Mandloi , Snigdha RajaⓉ
+Praggy and the cockroaches	2nd	Opening Government	View Ballot	Archit LahiriⒸ , Vagisha Mandloi , Snigdha RajaⓉ
+Mujhase debate karogi?	4th	Closing Government	View Ballot	Archit LahiriⒸ , Vagisha Mandloi , Snigdha RajaⓉ
+Trash Jokers, Just Kids	3rd	Opening Government	View Ballot	Christopher ChuaⒸ , Ayushi Nasa , Prisha JainⓉ , Safna MujeebⓉ
+Bad Luck and Worst Luck	4th	Closing Government	View Ballot	Christopher ChuaⒸ , Ayushi Nasa , Prisha JainⓉ , Safna MujeebⓉ
+White and Wannabe White	1st	Closing Opposition	View Ballot	Christopher ChuaⒸ , Ayushi Nasa , Prisha JainⓉ , Safna MujeebⓉ
+Pierre Menard of The Quixote	2nd	Opening Opposition	View Ballot	Christopher ChuaⒸ , Ayushi Nasa , Prisha JainⓉ , Safna MujeebⓉ
+Swing 2	1st	Closing Opposition	View Ballot	Saleem SalisuⒸ , Paurush Prakash , Pragya Mathur , Taichi YamamuraⓉ
+Dev and Padmalaxmi	2nd	Closing Government	View Ballot	Saleem SalisuⒸ , Paurush Prakash , Pragya Mathur , Taichi YamamuraⓉ
+We miss mech	4th	Opening Opposition	View Ballot	Saleem SalisuⒸ , Paurush Prakash , Pragya Mathur , Taichi YamamuraⓉ
+The Crackerjacks	3rd	Opening Government	View Ballot	Saleem SalisuⒸ , Paurush Prakash , Pragya Mathur , Taichi YamamuraⓉ
+
+
+team	result	side	ballot	adjudicators
+THS state-sponsored homosexuality	1st	Closing Government	View Ballot	anushikhaⒸ , Dhia Elsa Thomas , Griffith Biju JohnⓉ , Pranav V KumarⓉ
+Spotted88	2nd	Opening Government	View Ballot	anushikhaⒸ , Dhia Elsa Thomas , Griffith Biju JohnⓉ , Pranav V KumarⓉ
+PUoPisay - Tom and Jerry	3rd	Closing Opposition	View Ballot	anushikhaⒸ , Dhia Elsa Thomas , Griffith Biju JohnⓉ , Pranav V KumarⓉ
+Mujhase debate karogi?	4th	Opening Opposition	View Ballot	anushikhaⒸ , Dhia Elsa Thomas , Griffith Biju JohnⓉ , Pranav V KumarⓉ
+Swing Swong	1st	Closing Government	View Ballot	Princess FarjanahⒸ , Aarav Machhral , Prisha JainⓉ
+Average Bournvita Enjoyers	2nd	Closing Opposition	View Ballot	Princess FarjanahⒸ , Aarav Machhral , Prisha JainⓉ
+Ravenpuff	4th	Opening Opposition	View Ballot	Princess FarjanahⒸ , Aarav Machhral , Prisha JainⓉ
+ILS	3rd	Opening Government	View Ballot	Princess FarjanahⒸ , Aarav Machhral , Prisha JainⓉ
+No Constructives For Old Men	3rd	Opening Opposition	View Ballot	Vani BhardwajⒸ , Rajyawardhan &quot;Bihari&quot; Singh , Gnanith HunsurⓉ
+Bad Luck and Worst Luck	2nd	Opening Government	View Ballot	Vani BhardwajⒸ , Rajyawardhan &quot;Bihari&quot; Singh , Gnanith HunsurⓉ
+Just Pahadi X Dilli Personalities	4th	Closing Opposition	View Ballot	Vani BhardwajⒸ , Rajyawardhan &quot;Bihari&quot; Singh , Gnanith HunsurⓉ
+Raada boi does damage control for h	1st	Closing Government	View Ballot	Vani BhardwajⒸ , Rajyawardhan &quot;Bihari&quot; Singh , Gnanith HunsurⓉ
+Noddle cheese frankie	2nd	Opening Government	View Ballot	ShubhankarⒸ , Shwetang Parthsarthy , Vagisha Mandloi , PranatiⓉ , Pratham KadianⓉ
+Cheeto ka Halal	4th	Closing Government	View Ballot	ShubhankarⒸ , Shwetang Parthsarthy , Vagisha Mandloi , PranatiⓉ , Pratham KadianⓉ
+Bawana ke Bakchod	1st	Opening Opposition	View Ballot	ShubhankarⒸ , Shwetang Parthsarthy , Vagisha Mandloi , PranatiⓉ , Pratham KadianⓉ
+hello world	3rd	Closing Opposition	View Ballot	ShubhankarⒸ , Shwetang Parthsarthy , Vagisha Mandloi , PranatiⓉ , Pratham KadianⓉ
+Lex loci	4th	Closing Opposition	View Ballot	Adya BhallaⒸ , Kartik Sharma , Rajeshwar Singh Parmar , Isha SrivastavaⓉ , Rohan KrishnanⓉ
+The talking heads	2nd	Opening Government	View Ballot	Adya BhallaⒸ , Kartik Sharma , Rajeshwar Singh Parmar , Isha SrivastavaⓉ , Rohan KrishnanⓉ
+SPEED-UP B	3rd	Closing Government	View Ballot	Adya BhallaⒸ , Kartik Sharma , Rajeshwar Singh Parmar , Isha SrivastavaⓉ , Rohan KrishnanⓉ
+Astral ArguMinds	1st	Opening Opposition	View Ballot	Adya BhallaⒸ , Kartik Sharma , Rajeshwar Singh Parmar , Isha SrivastavaⓉ , Rohan KrishnanⓉ
+Swing 4	2nd	Closing Opposition	View Ballot	Keshav Rai BramhabhattⒸ , Paurush Prakash , Snigdha Raja , Nishka KhatriⓉ , PranshulⓉ
+The Cutie Panel	3rd	Opening Government	View Ballot	Keshav Rai BramhabhattⒸ , Paurush Prakash , Snigdha Raja , Nishka KhatriⓉ , PranshulⓉ
+Shastrartha	4th	Closing Government	View Ballot	Keshav Rai BramhabhattⒸ , Paurush Prakash , Snigdha Raja , Nishka KhatriⓉ , PranshulⓉ
+PESt control	1st	Opening Opposition	View Ballot	Keshav Rai BramhabhattⒸ , Paurush Prakash , Snigdha Raja , Nishka KhatriⓉ , PranshulⓉ
+RCL Beta Team	2nd	Opening Government	View Ballot	Reginald FajardoⒸ , Kunal Dhawan , Ryna Saxena , Neha KumarⓉ , Rishabh SahuⓉ
+dosa dazzler try adab kebab	1st	Closing Opposition	View Ballot	Reginald FajardoⒸ , Kunal Dhawan , Ryna Saxena , Neha KumarⓉ , Rishabh SahuⓉ
+Break-Less	4th	Closing Government	View Ballot	Reginald FajardoⒸ , Kunal Dhawan , Ryna Saxena , Neha KumarⓉ , Rishabh SahuⓉ
+RossNRachel	3rd	Opening Opposition	View Ballot	Reginald FajardoⒸ , Kunal Dhawan , Ryna Saxena , Neha KumarⓉ , Rishabh SahuⓉ
+Swing 8	1st	Closing Opposition	View Ballot	Harvey MelendrezⒸ , Ajay Joel , Kyra Mathur , Tripti BansalⓉ , Vedansh PandeyⓉ
+NLU buttiburi	4th	Closing Government	View Ballot	Harvey MelendrezⒸ , Ajay Joel , Kyra Mathur , Tripti BansalⓉ , Vedansh PandeyⓉ
+We miss mech	3rd	Opening Government	View Ballot	Harvey MelendrezⒸ , Ajay Joel , Kyra Mathur , Tripti BansalⓉ , Vedansh PandeyⓉ
+The Crackerjacks	2nd	Opening Opposition	View Ballot	Harvey MelendrezⒸ , Ajay Joel , Kyra Mathur , Tripti BansalⓉ , Vedansh PandeyⓉ
+Swing 6	2nd	Closing Opposition	View Ballot	Vivek RajⒸ , Anushka Sanjay , Kartik Pendharkar , MonisⓉ , Saesha WadhwaⓉ
+Creds dedo pls	1st	Closing Government	View Ballot	Vivek RajⒸ , Anushka Sanjay , Kartik Pendharkar , MonisⓉ , Saesha WadhwaⓉ
+Chill kr tu thoda	3rd	Opening Opposition	View Ballot	Vivek RajⒸ , Anushka Sanjay , Kartik Pendharkar , MonisⓉ , Saesha WadhwaⓉ
+Army Institute of law, Mohali	4th	Opening Government	View Ballot	Vivek RajⒸ , Anushka Sanjay , Kartik Pendharkar , MonisⓉ , Saesha WadhwaⓉ
+Hahahahahahahahhahahahahah	1st	Opening Government	View Ballot	Bhaskar AgarwalⒸ , Christopher Chua , Ram , Parth MathurⓉ
+ARSD A	3rd	Opening Opposition	View Ballot	Bhaskar AgarwalⒸ , Christopher Chua , Ram , Parth MathurⓉ
+I&#x27;ve to put my girlfriend on my Tod	2nd	Closing Government	View Ballot	Bhaskar AgarwalⒸ , Christopher Chua , Ram , Parth MathurⓉ
+Pierre Menard of The Quixote	4th	Closing Opposition	View Ballot	Bhaskar AgarwalⒸ , Christopher Chua , Ram , Parth MathurⓉ
+Trash Jokers, Just Kids	2nd	Closing Opposition	View Ballot	Vrinda KudsiaⒸ , Uditi Kukreti , Nandika KhatorⓉ
+Praggy and the cockroaches	3rd	Opening Government	View Ballot	Vrinda KudsiaⒸ , Uditi Kukreti , Nandika KhatorⓉ
+algorhythm	4th	Closing Government	View Ballot	Vrinda KudsiaⒸ , Uditi Kukreti , Nandika KhatorⓉ
+Wakar Zaka &amp; Bilal Khan aagya Cutoo	1st	Opening Opposition	View Ballot	Vrinda KudsiaⒸ , Uditi Kukreti , Nandika KhatorⓉ
+swing 5	1st	Closing Opposition	View Ballot	Opoola Opeyemi ToluwaseⒸ , M.Navakanth , Pragya Mathur , Taichi YamamuraⓉ
+Dev and Padmalaxmi	2nd	Opening Opposition	View Ballot	Opoola Opeyemi ToluwaseⒸ , M.Navakanth , Pragya Mathur , Taichi YamamuraⓉ
+Scooby Doo	3rd	Opening Government	View Ballot	Opoola Opeyemi ToluwaseⒸ , M.Navakanth , Pragya Mathur , Taichi YamamuraⓉ
+Roasted Almond	4th	Closing Government	View Ballot	Opoola Opeyemi ToluwaseⒸ , M.Navakanth , Pragya Mathur , Taichi YamamuraⓉ
+nawabi gali mein kanooni keede	4th	Closing Opposition	View Ballot	Archit LahiriⒸ , Harshvardhan Jakher , Sudiksha Aggarwal
+PUoPisay - Alagad ni Matthew at Kel	3rd	Opening Government	View Ballot	Archit LahiriⒸ , Harshvardhan Jakher , Sudiksha Aggarwal
+Kabhi Khushi Kabhi Gham	2nd	Closing Government	View Ballot	Archit LahiriⒸ , Harshvardhan Jakher , Sudiksha Aggarwal
+neend ya nashe mein	1st	Opening Opposition	View Ballot	Archit LahiriⒸ , Harshvardhan Jakher , Sudiksha Aggarwal
+Mysore 1	1st	Closing Government	View Ballot	Saleem SalisuⒸ , Smriti Sultania , Bhumika MalikⓉ
+broken back break	3rd	Opening Opposition	View Ballot	Saleem SalisuⒸ , Smriti Sultania , Bhumika MalikⓉ
+Jaldi bol kal subah Panvel nikalna	4th	Closing Opposition	View Ballot	Saleem SalisuⒸ , Smriti Sultania , Bhumika MalikⓉ
+arguably downfalling	2nd	Opening Government	View Ballot	Saleem SalisuⒸ , Smriti Sultania , Bhumika MalikⓉ
+Ullalalu Prasad Yadav	3rd	Opening Government	View Ballot	Vashmeet KaurⒸ , Jessica Awurum , Vishwa Raghav Raj , Aashirya MalikⓉ
+Sasta Fight Club	4th	Closing Opposition	View Ballot	Vashmeet KaurⒸ , Jessica Awurum , Vishwa Raghav Raj , Aashirya MalikⓉ
+AM to PM	1st	Opening Opposition	View Ballot	Vashmeet KaurⒸ , Jessica Awurum , Vishwa Raghav Raj , Aashirya MalikⓉ
+UFD Mokingjay	2nd	Closing Government	View Ballot	Vashmeet KaurⒸ , Jessica Awurum , Vishwa Raghav Raj , Aashirya MalikⓉ
+Platonic Lovers	1st	Opening Opposition	View Ballot	Ayushi NasaⒸ , Adrija Banerjee , SUJALⓉ , Vidisha BanerjeeⓉ
+We have an issue	4th	Closing Government	View Ballot	Ayushi NasaⒸ , Adrija Banerjee , SUJALⓉ , Vidisha BanerjeeⓉ
+100 la 1 kilo	2nd	Closing Opposition	View Ballot	Ayushi NasaⒸ , Adrija Banerjee , SUJALⓉ , Vidisha BanerjeeⓉ
+IITM_1	3rd	Opening Government	View Ballot	Ayushi NasaⒸ , Adrija Banerjee , SUJALⓉ , Vidisha BanerjeeⓉ
+room 16 debut	3rd	Opening Government	View Ballot	Victor BervoetsⒸ , Amelia Potocka , Mehal Bisht
+Kamath &amp; Gibson	2nd	Closing Government	View Ballot	Victor BervoetsⒸ , Amelia Potocka , Mehal Bisht
+Looking for our Baes of Bengal	4th	Closing Opposition	View Ballot	Victor BervoetsⒸ , Amelia Potocka , Mehal Bisht
+White and Wannabe White	1st	Opening Opposition	View Ballot	Victor BervoetsⒸ , Amelia Potocka , Mehal Bisht
+Notice Us Ahan Senpai	4th	Closing Government	View Ballot	Rushdoon AhmedⒸ , Pranjal Chakraborty , SHRIDHAR TIWARIⓉ
+South Bombay fundraiser for Odisha 	1st	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Pranjal Chakraborty , SHRIDHAR TIWARIⓉ
+Sharabi and Sharabi Max Return	2nd	Opening Government	View Ballot	Rushdoon AhmedⒸ , Pranjal Chakraborty , SHRIDHAR TIWARIⓉ
+australian cricket world cup in the	3rd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Pranjal Chakraborty , SHRIDHAR TIWARIⓉ
+Khajuria and Yoosuf	3rd	Closing Government	View Ballot	Shivani MishraⒸ , Aoishi , Prajjwal Singh , Aaryan BagrechaⓉ , Souritri SantraⓉ
+beghairats	4th	Opening Government	View Ballot	Shivani MishraⒸ , Aoishi , Prajjwal Singh , Aaryan BagrechaⓉ , Souritri SantraⓉ
+Not RMaLiens	2nd	Opening Opposition	View Ballot	Shivani MishraⒸ , Aoishi , Prajjwal Singh , Aaryan BagrechaⓉ , Souritri SantraⓉ
+Dep Zeppelin	1st	Closing Opposition	View Ballot	Shivani MishraⒸ , Aoishi , Prajjwal Singh , Aaryan BagrechaⓉ , Souritri SantraⓉ
+
+
+team	result	side	ballot	adjudicators
+Swing 4	4th	Closing Government	View Ballot	Shwetang ParthsarthyⒸ , Kushagra Aditya , Tripti Bansal , Neha KumarⓉ
+Lex loci	3rd	Opening Opposition	View Ballot	Shwetang ParthsarthyⒸ , Kushagra Aditya , Tripti Bansal , Neha KumarⓉ
+We miss mech	2nd	Opening Government	View Ballot	Shwetang ParthsarthyⒸ , Kushagra Aditya , Tripti Bansal , Neha KumarⓉ
+swing 1	1st	Closing Opposition	View Ballot	Shwetang ParthsarthyⒸ , Kushagra Aditya , Tripti Bansal , Neha KumarⓉ
+Jaldi bol kal subah Panvel nikalna	4th	Closing Government	View Ballot	Aarav MachhralⒸ , Dhia Elsa Thomas , Rajyawardhan &quot;Bihari&quot; Singh , Isha SrivastavaⓉ
+PESt control	1st	Opening Opposition	View Ballot	Aarav MachhralⒸ , Dhia Elsa Thomas , Rajyawardhan &quot;Bihari&quot; Singh , Isha SrivastavaⓉ
+algorhythm	3rd	Closing Opposition	View Ballot	Aarav MachhralⒸ , Dhia Elsa Thomas , Rajyawardhan &quot;Bihari&quot; Singh , Isha SrivastavaⓉ
+Astral ArguMinds	2nd	Opening Government	View Ballot	Aarav MachhralⒸ , Dhia Elsa Thomas , Rajyawardhan &quot;Bihari&quot; Singh , Isha SrivastavaⓉ
+Khajuria and Yoosuf	3rd	Opening Opposition	View Ballot	Rajeshwar Singh ParmarⒸ , Adya Bhalla , Aoishi , Aashirya MalikⓉ
+IITM_1	2nd	Opening Government	View Ballot	Rajeshwar Singh ParmarⒸ , Adya Bhalla , Aoishi , Aashirya MalikⓉ
+Bawana ke Bakchod	4th	Closing Government	View Ballot	Rajeshwar Singh ParmarⒸ , Adya Bhalla , Aoishi , Aashirya MalikⓉ
+Sasta Fight Club	1st	Closing Opposition	View Ballot	Rajeshwar Singh ParmarⒸ , Adya Bhalla , Aoishi , Aashirya MalikⓉ
+Noddle cheese frankie	2nd	Opening Opposition	View Ballot	M.NavakanthⒸ , Ryna Saxena , Shubhankar , Saesha WadhwaⓉ
+Creds dedo pls	4th	Opening Government	View Ballot	M.NavakanthⒸ , Ryna Saxena , Shubhankar , Saesha WadhwaⓉ
+PUoPisay - Alagad ni Matthew at Kel	1st	Closing Government	View Ballot	M.NavakanthⒸ , Ryna Saxena , Shubhankar , Saesha WadhwaⓉ
+Not RMaLiens	3rd	Closing Opposition	View Ballot	M.NavakanthⒸ , Ryna Saxena , Shubhankar , Saesha WadhwaⓉ
+Praggy and the cockroaches	3rd	Closing Government	View Ballot	Abdul WassayⒸ , Smriti Sultania , anushikha , Nandika KhatorⓉ
+dosa dazzler try adab kebab	2nd	Closing Opposition	View Ballot	Abdul WassayⒸ , Smriti Sultania , anushikha , Nandika KhatorⓉ
+Dep Zeppelin	4th	Opening Opposition	View Ballot	Abdul WassayⒸ , Smriti Sultania , anushikha , Nandika KhatorⓉ
+UFD Mokingjay	1st	Opening Government	View Ballot	Abdul WassayⒸ , Smriti Sultania , anushikha , Nandika KhatorⓉ
+Platonic Lovers	4th	Closing Government	View Ballot	Reginald FajardoⒸ , Mehal Bisht , Ram , Safna MujeebⓉ
+Bad Luck and Worst Luck	1st	Closing Opposition	View Ballot	Reginald FajardoⒸ , Mehal Bisht , Ram , Safna MujeebⓉ
+arguably downfalling	3rd	Opening Opposition	View Ballot	Reginald FajardoⒸ , Mehal Bisht , Ram , Safna MujeebⓉ
+australian cricket world cup in the	2nd	Opening Government	View Ballot	Reginald FajardoⒸ , Mehal Bisht , Ram , Safna MujeebⓉ
+No Constructives For Old Men	1st	Opening Government	View Ballot	Archit LahiriⒸ , Ayushi Nasa , Vashmeet Kaur , MonisⓉ
+broken back break	2nd	Closing Opposition	View Ballot	Archit LahiriⒸ , Ayushi Nasa , Vashmeet Kaur , MonisⓉ
+RossNRachel	3rd	Closing Government	View Ballot	Archit LahiriⒸ , Ayushi Nasa , Vashmeet Kaur , MonisⓉ
+Kabhi Khushi Kabhi Gham	4th	Opening Opposition	View Ballot	Archit LahiriⒸ , Ayushi Nasa , Vashmeet Kaur , MonisⓉ
+swing 5	4th	Opening Government	View Ballot	Vagisha MandloiⒸ , Div , Snigdha Raja , Nishka KhatriⓉ
+The Cutie Panel	2nd	Closing Government	View Ballot	Vagisha MandloiⒸ , Div , Snigdha Raja , Nishka KhatriⓉ
+Team Hustlers	1st	Closing Opposition	View Ballot	Vagisha MandloiⒸ , Div , Snigdha Raja , Nishka KhatriⓉ
+Cheeto ka Halal	3rd	Opening Opposition	View Ballot	Vagisha MandloiⒸ , Div , Snigdha Raja , Nishka KhatriⓉ
+Trash Jokers, Just Kids	2nd	Closing Opposition	View Ballot	Vrinda KudsiaⒸ , Amelia Potocka , Bhaskar Agarwal , Griffith Biju JohnⓉ
+THS state-sponsored homosexuality	4th	Closing Government	View Ballot	Vrinda KudsiaⒸ , Amelia Potocka , Bhaskar Agarwal , Griffith Biju JohnⓉ
+ARSD A	3rd	Opening Opposition	View Ballot	Vrinda KudsiaⒸ , Amelia Potocka , Bhaskar Agarwal , Griffith Biju JohnⓉ
+Looking for our Baes of Bengal	1st	Opening Government	View Ballot	Vrinda KudsiaⒸ , Amelia Potocka , Bhaskar Agarwal , Griffith Biju JohnⓉ
+100 la 1 kilo	2nd	Opening Opposition	View Ballot	Adrija BanerjeeⒸ , Pranjal Chakraborty , Uditi Kukreti , Parth MathurⓉ
+Just Pahadi X Dilli Personalities	1st	Opening Government	View Ballot	Adrija BanerjeeⒸ , Pranjal Chakraborty , Uditi Kukreti , Parth MathurⓉ
+Ullalalu Prasad Yadav	3rd	Closing Opposition	View Ballot	Adrija BanerjeeⒸ , Pranjal Chakraborty , Uditi Kukreti , Parth MathurⓉ
+PUoPisay - Tom and Jerry	4th	Closing Government	View Ballot	Adrija BanerjeeⒸ , Pranjal Chakraborty , Uditi Kukreti , Parth MathurⓉ
+RCL Beta Team	3rd	Closing Government	View Ballot	Vivek RajⒸ , Saleem Salisu , Sudiksha Aggarwal , Vedansh PandeyⓉ
+Notice Us Ahan Senpai	1st	Closing Opposition	View Ballot	Vivek RajⒸ , Saleem Salisu , Sudiksha Aggarwal , Vedansh PandeyⓉ
+Spotted88	4th	Opening Opposition	View Ballot	Vivek RajⒸ , Saleem Salisu , Sudiksha Aggarwal , Vedansh PandeyⓉ
+Pierre Menard of The Quixote	2nd	Opening Government	View Ballot	Vivek RajⒸ , Saleem Salisu , Sudiksha Aggarwal , Vedansh PandeyⓉ
+Swing Swong	1st	Opening Opposition	View Ballot	Opoola Opeyemi ToluwaseⒸ , Prajjwal Singh , Pranati , Anushka SanjayⓉ
+Dev and Padmalaxmi	4th	Opening Government	View Ballot	Opoola Opeyemi ToluwaseⒸ , Prajjwal Singh , Pranati , Anushka SanjayⓉ
+Army Institute of law, Mohali	3rd	Closing Opposition	View Ballot	Opoola Opeyemi ToluwaseⒸ , Prajjwal Singh , Pranati , Anushka SanjayⓉ
+beghairats	2nd	Closing Government	View Ballot	Opoola Opeyemi ToluwaseⒸ , Prajjwal Singh , Pranati , Anushka SanjayⓉ
+Mysore 1	2nd	Closing Government	View Ballot	Vani BhardwajⒸ , Christopher Chua , Kunal Dhawan , Vidisha BanerjeeⓉ
+AM to PM	4th	Opening Government	View Ballot	Vani BhardwajⒸ , Christopher Chua , Kunal Dhawan , Vidisha BanerjeeⓉ
+I&#x27;ve to put my girlfriend on my Tod	3rd	Closing Opposition	View Ballot	Vani BhardwajⒸ , Christopher Chua , Kunal Dhawan , Vidisha BanerjeeⓉ
+Sharabi and Sharabi Max Return	1st	Opening Opposition	View Ballot	Vani BhardwajⒸ , Christopher Chua , Kunal Dhawan , Vidisha BanerjeeⓉ
+room 16 debut	1st	Closing Opposition	View Ballot	Victor BervoetsⒸ , Chinmaya Mohan , Harshvardhan Jakher , Shuvajyoti KarⓉ
+Wakar Zaka &amp; Bilal Khan aagya Cutoo	2nd	Opening Opposition	View Ballot	Victor BervoetsⒸ , Chinmaya Mohan , Harshvardhan Jakher , Shuvajyoti KarⓉ
+neend ya nashe mein	4th	Opening Government	View Ballot	Victor BervoetsⒸ , Chinmaya Mohan , Harshvardhan Jakher , Shuvajyoti KarⓉ
+Raada boi does damage control for h	3rd	Closing Government	View Ballot	Victor BervoetsⒸ , Chinmaya Mohan , Harshvardhan Jakher , Shuvajyoti KarⓉ
+We have an issue	3rd	Opening Government	View Ballot	Kyra MathurⒸ , Pranshul , Vishwa Raghav Raj , SHRIDHAR TIWARIⓉ
+Average Bournvita Enjoyers	2nd	Closing Opposition	View Ballot	Kyra MathurⒸ , Pranshul , Vishwa Raghav Raj , SHRIDHAR TIWARIⓉ
+hello world	4th	Closing Government	View Ballot	Kyra MathurⒸ , Pranshul , Vishwa Raghav Raj , SHRIDHAR TIWARIⓉ
+The Crackerjacks	1st	Opening Opposition	View Ballot	Kyra MathurⒸ , Pranshul , Vishwa Raghav Raj , SHRIDHAR TIWARIⓉ
+Chill kr tu thoda	3rd	Opening Opposition	View Ballot	Kartik PendharkarⒸ , Harvey Melendrez , Princess Farjanah , VanishaⓉ
+Scooby Doo	4th	Closing Opposition	View Ballot	Kartik PendharkarⒸ , Harvey Melendrez , Princess Farjanah , VanishaⓉ
+nawabi gali mein kanooni keede	2nd	Opening Government	View Ballot	Kartik PendharkarⒸ , Harvey Melendrez , Princess Farjanah , VanishaⓉ
+Break-Less	1st	Closing Government	View Ballot	Kartik PendharkarⒸ , Harvey Melendrez , Princess Farjanah , VanishaⓉ
+Swing 6	1st	Opening Opposition	View Ballot	Bhumika MalikⒸ , Aditya , Pranav V Kumar , Prisha JainⓉ
+Swing 8	2nd	Opening Government	View Ballot	Bhumika MalikⒸ , Aditya , Pranav V Kumar , Prisha JainⓉ
+SPEED-UP B	3rd	Closing Opposition	View Ballot	Bhumika MalikⒸ , Aditya , Pranav V Kumar , Prisha JainⓉ
+Hello Peemps	4th	Closing Government	View Ballot	Bhumika MalikⒸ , Aditya , Pranav V Kumar , Prisha JainⓉ
+South Bombay fundraiser for Odisha 	2nd	Opening Government	View Ballot	Jessica AwurumⒸ , Alexander Olafisoye , naman , Taichi YamamuraⓉ
+Hahahahahahahahhahahahahah	4th	Closing Opposition	View Ballot	Jessica AwurumⒸ , Alexander Olafisoye , naman , Taichi YamamuraⓉ
+Kamath &amp; Gibson	3rd	Opening Opposition	View Ballot	Jessica AwurumⒸ , Alexander Olafisoye , naman , Taichi YamamuraⓉ
+White and Wannabe White	1st	Closing Government	View Ballot	Jessica AwurumⒸ , Alexander Olafisoye , naman , Taichi YamamuraⓉ
+The talking heads	2nd	Closing Government	View Ballot	Kartik SharmaⒸ , Pratham Kadian , SUJAL , Rishabh SahuⓉ
+Ravenpuff	4th	Closing Opposition	View Ballot	Kartik SharmaⒸ , Pratham Kadian , SUJAL , Rishabh SahuⓉ
+Roasted Almond	3rd	Opening Government	View Ballot	Kartik SharmaⒸ , Pratham Kadian , SUJAL , Rishabh SahuⓉ
+XLers	1st	Opening Opposition	View Ballot	Kartik SharmaⒸ , Pratham Kadian , SUJAL , Rishabh SahuⓉ
+
+
+team	result	side	adjudicators
+Kamath &amp; Gibson	advancing	Closing Opposition	Vashmeet KaurⒸ , Pranjal Chakraborty , Rushdoon Ahmed
+Looking for our Baes of Bengal	advancing	Opening Opposition	Vashmeet KaurⒸ , Pranjal Chakraborty , Rushdoon Ahmed
+UFD Mokingjay	eliminated	Opening Government	Vashmeet KaurⒸ , Pranjal Chakraborty , Rushdoon Ahmed
+Raada boi does damage control for h	eliminated	Closing Government	Vashmeet KaurⒸ , Pranjal Chakraborty , Rushdoon Ahmed
+Trash Jokers, Just Kids	eliminated	Closing Government	Rajyawardhan &quot;Bihari&quot; SinghⒸ , Aoishi , Victor Bervoets
+South Bombay fundraiser for Odisha 	advancing	Closing Opposition	Rajyawardhan &quot;Bihari&quot; SinghⒸ , Aoishi , Victor Bervoets
+Wakar Zaka &amp; Bilal Khan aagya Cutoo	eliminated	Opening Government	Rajyawardhan &quot;Bihari&quot; SinghⒸ , Aoishi , Victor Bervoets
+I&#x27;ve to put my girlfriend on my Tod	advancing	Opening Opposition	Rajyawardhan &quot;Bihari&quot; SinghⒸ , Aoishi , Victor Bervoets
+Mysore 1	eliminated	Opening Opposition	Ryna SaxenaⒸ , Smriti Sultania , Vani Bhardwaj
+Bad Luck and Worst Luck	eliminated	Opening Government	Ryna SaxenaⒸ , Smriti Sultania , Vani Bhardwaj
+australian cricket world cup in the	advancing	Closing Opposition	Ryna SaxenaⒸ , Smriti Sultania , Vani Bhardwaj
+White and Wannabe White	advancing	Closing Government	Ryna SaxenaⒸ , Smriti Sultania , Vani Bhardwaj
+Notice Us Ahan Senpai	eliminated	Opening Government	Mehal BishtⒸ , Archit Lahiri , Vishwa Raghav Raj
+Hahahahahahahahhahahahahah	eliminated	Closing Opposition	Mehal BishtⒸ , Archit Lahiri , Vishwa Raghav Raj
+room 16 debut	advancing	Opening Opposition	Mehal BishtⒸ , Archit Lahiri , Vishwa Raghav Raj
+Sharabi and Sharabi Max Return	advancing	Closing Government	Mehal BishtⒸ , Archit Lahiri , Vishwa Raghav Raj
+
+
+team	result	side	adjudicators
+South Bombay fundraiser for Odisha 	advancing	Opening Opposition	Vrinda KudsiaⒸ , Bhaskar Agarwal , Chinmaya Mohan , Jessica Awurum , Rajyawardhan &quot;Bihari&quot; Singh
+Kamath &amp; Gibson	advancing	Closing Government	Vrinda KudsiaⒸ , Bhaskar Agarwal , Chinmaya Mohan , Jessica Awurum , Rajyawardhan &quot;Bihari&quot; Singh
+I&#x27;ve to put my girlfriend on my Tod	eliminated	Closing Opposition	Vrinda KudsiaⒸ , Bhaskar Agarwal , Chinmaya Mohan , Jessica Awurum , Rajyawardhan &quot;Bihari&quot; Singh
+Looking for our Baes of Bengal	eliminated	Opening Government	Vrinda KudsiaⒸ , Bhaskar Agarwal , Chinmaya Mohan , Jessica Awurum , Rajyawardhan &quot;Bihari&quot; Singh
+room 16 debut	advancing	Opening Opposition	Vani BhardwajⒸ , Adya Bhalla , Christopher Chua , Saleem Salisu , Victor Bervoets
+Sharabi and Sharabi Max Return	eliminated	Closing Opposition	Vani BhardwajⒸ , Adya Bhalla , Christopher Chua , Saleem Salisu , Victor Bervoets
+australian cricket world cup in the	eliminated	Closing Government	Vani BhardwajⒸ , Adya Bhalla , Christopher Chua , Saleem Salisu , Victor Bervoets
+White and Wannabe White	advancing	Opening Government	Vani BhardwajⒸ , Adya Bhalla , Christopher Chua , Saleem Salisu , Victor Bervoets
+
+
+team	result	side	adjudicators
+South Bombay fundraiser for Odisha 	eliminated	Closing Opposition	Victor BervoetsⒸ , Amelia Potocka , Christopher Chua , Shubhankar , Vani Bhardwaj
+room 16 debut	eliminated	Opening Opposition	Victor BervoetsⒸ , Amelia Potocka , Christopher Chua , Shubhankar , Vani Bhardwaj
+Kamath &amp; Gibson	advancing	Opening Government	Victor BervoetsⒸ , Amelia Potocka , Christopher Chua , Shubhankar , Vani Bhardwaj
+White and Wannabe White	eliminated	Closing Government	Victor BervoetsⒸ , Amelia Potocka , Christopher Chua , Shubhankar , Vani Bhardwaj
+
+
+team	result	side	adjudicators
+Break-Less	advancing	Closing Opposition	Uditi KukretiⒸ , Dhia Elsa Thomas , Harshvardhan Jakher , Kartik Pendharkar , Princess Farjanah
+RossNRachel	eliminated	Opening Opposition	Uditi KukretiⒸ , Dhia Elsa Thomas , Harshvardhan Jakher , Kartik Pendharkar , Princess Farjanah
+PUoPisay - Alagad ni Matthew at Kel	advancing	Opening Government	Uditi KukretiⒸ , Dhia Elsa Thomas , Harshvardhan Jakher , Kartik Pendharkar , Princess Farjanah
+Kabhi Khushi Kabhi Gham	eliminated	Closing Government	Uditi KukretiⒸ , Dhia Elsa Thomas , Harshvardhan Jakher , Kartik Pendharkar , Princess Farjanah
+broken back break	advancing	Closing Opposition	Kunal DhawanⒸ , Harvey Melendrez , Kartik Sharma , Pranshul , Shubhankar
+100 la 1 kilo	eliminated	Opening Government	Kunal DhawanⒸ , Harvey Melendrez , Kartik Sharma , Pranshul , Shubhankar
+Astral ArguMinds	eliminated	Closing Government	Kunal DhawanⒸ , Harvey Melendrez , Kartik Sharma , Pranshul , Shubhankar
+Dep Zeppelin	advancing	Opening Opposition	Kunal DhawanⒸ , Harvey Melendrez , Kartik Sharma , Pranshul , Shubhankar
+
+
+team	result	side	adjudicators
+broken back break	eliminated	Opening Opposition	ShubhankarⒸ , Aarav Machhral , Ayushi Nasa , Rajeshwar Singh Parmar , Ram , Sudiksha Aggarwal , anushikha
+Break-Less	advancing	Closing Opposition	ShubhankarⒸ , Aarav Machhral , Ayushi Nasa , Rajeshwar Singh Parmar , Ram , Sudiksha Aggarwal , anushikha
+PUoPisay - Alagad ni Matthew at Kel	eliminated	Closing Government	ShubhankarⒸ , Aarav Machhral , Ayushi Nasa , Rajeshwar Singh Parmar , Ram , Sudiksha Aggarwal , anushikha
+Dep Zeppelin	eliminated	Opening Government	ShubhankarⒸ , Aarav Machhral , Ayushi Nasa , Rajeshwar Singh Parmar , Ram , Sudiksha Aggarwal , anushikha
+

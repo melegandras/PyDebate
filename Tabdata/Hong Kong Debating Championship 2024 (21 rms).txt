@@ -1,0 +1,757 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Shanghai Starriver Bilingual School		1st	1st	2nd	1st	2nd	13	797	3	2
+2	Ateneo LG		1st	3rd	1st	1st	1st	13	784	4	0
+3	Braille		1st	1st	2nd	3rd	1st	12	791	3	1
+4	Hume believed in Wifi Gods		2nd	1st	1st	1st	3rd	12	783	3	1
+5	Swing 1		1st	2nd	1st	3rd	1st	12	779	3	1
+6	ADMU VY		1st	1st	1st	2nd	4th	11	791	3	1
+7	Chengdu flowers		2nd	1st	1st	4th	1st	11	778	3	1
+8	Busy Babies		2nd	2nd	1st	1st	3rd	11	776	2	2
+9	Olive is my trigger		3rd	2nd	1st	1st	2nd	11	767	2	2
+10	Singaporean Curry		2nd	3rd	2nd	1st	1st	11	766	2	2
+11	Let&#x27;s not Iron		1st	1st	3rd	3rd	2nd	10	780	2	1
+12	Do you k ow Dr. Hong?		1st	3rd	1st	4th	1st	10	777	3	0
+13	Double Whammy	Novice	2nd	2nd	2nd	3rd	1st	10	774	1	3
+14	Acute Triangle		3rd	4th	1st	1st	1st	10	772	3	0
+15	“The Swing that’s not a Swing”		3rd	1st	2nd	2nd	2nd	10	769	1	3
+16	Magnitude and Direction		2nd	1st	3rd	2nd	2nd	10	768	1	3
+17	LADY BOSSES		1st	1st	4th	1st	3rd	10	764	3	0
+18	It cost nothing to be toxic		1st	4th	1st	2nd	2nd	10	763	2	2
+19	AA Battery	Novice	4th	3rd	1st	1st	1st	10	757	3	0
+20	Danny in Penguinland		2nd	1st	2nd	2nd	4th	9	770	1	3
+21	gcx		2nd	1st	2nd	3rd	3rd	9	765	1	2
+22	Rusty F***heads		2nd	3rd	3rd	1st	2nd	9	764	1	2
+23	Bubble Tea		2nd	2nd	3rd	2nd	2nd	9	764	0	4
+24	Nazy		1st	4th	3rd	2nd	1st	9	762	2	1
+25	Makapaka	Novice	3rd	2nd	2nd	2nd	2nd	9	759	0	4
+26	MUST B		3rd	2nd	1st	2nd	3rd	9	758	1	2
+27	who ate the nutella		1st	2nd	3rd	4th	1st	9	755	2	1
+28	Suyasha and Ingrid	Novice	4th	2nd	2nd	2nd	1st	9	751	1	3
+29	Shieldmaidens	Novice	1st	2nd	4th	1st	3rd	9	749	2	1
+30	Nan-nan cooperation		1st	3rd	1st	4th	3rd	8	767	2	0
+31	Beijing Domestic Studies University		1st	3rd	2nd	3rd	3rd	8	765	1	1
+32	PLZ give us emphyrthy		3rd	1st	3rd	3rd	2nd	8	763	1	1
+33	Oriental Alchemist		2nd	4th	4th	1st	1st	8	762	2	1
+34	The delulus	Novice	3rd	2nd	2nd	1st	4th	8	761	1	2
+35	Just kidding	Novice	3rd	3rd	2nd	3rd	1st	8	760	1	1
+36	NUBS = Novice University &amp; BP Speak	Novice	2nd	2nd	2nd	2nd	4th	8	760	0	4
+37	（M）Wocao		1st	4th	2nd	2nd	3rd	8	757	1	2
+38	Capybara		4th	1st	3rd	2nd	2nd	8	753	1	2
+39	fairy mother		3rd	3rd	1st	1st	4th	8	752	2	0
+40	forever winter	Novice	4th	2nd	1st	1st	4th	8	751	2	1
+41	HKPUEDC	Novice	2nd	3rd	4th	2nd	1st	8	750	1	2
+42	Ambiguity	Novice	2nd	2nd	4th	3rd	1st	8	748	1	2
+43	Splat on your toon	Novice	4th	3rd	2nd	1st	2nd	8	743	1	2
+44	Emotionally Never Available		3rd	1st	3rd	4th	2nd	7	764	1	1
+45	Shorties	Novice	3rd	1st	4th	4th	1st	7	759	2	0
+46	why do we have 2 whips?		1st	4th	1st	3rd	4th	7	757	2	0
+47	Phenix Legend		4th	1st	4th	1st	3rd	7	752	2	0
+48	Supervillain		1st	3rd	3rd	4th	2nd	7	752	1	1
+49	Nick &amp; Amelia	Novice	2nd	2nd	4th	4th	1st	7	751	1	2
+50	私のディベートは、心の叫びだから		4th	1st	3rd	1st	4th	7	749	2	0
+51	I think you’re really cool		3rd	2nd	2nd	3rd	3rd	7	747	0	2
+52	Noor and Karina	Novice	4th	1st	4th	2nd	2nd	7	745	1	2
+53	Chaos		2nd	4th	1st	3rd	3rd	7	744	1	1
+54	The		4th	1st	1st	4th	4th	6	761	2	0
+55	Hiroshima A		1st	1st	4th	4th	4th	6	760	2	0
+56	Isabella Geri	Novice	3rd	4th	4th	1st	2nd	6	760	1	1
+57	If we lose, blame Yunhan	Novice	1st	2nd	3rd	4th	4th	6	755	1	1
+58	Hair Dye and Korean Girl		4th	3rd	2nd	2nd	3rd	6	752	0	2
+59	6pc chickenjoy bucket	Novice	1st	2nd	4th	3rd	4th	6	751	1	1
+60=	baby samuel	Novice	3rd	3rd	2nd	4th	2nd	6	749	0	2
+60=	Crispy	Novice	4th	2nd	3rd	3rd	2nd	6	749	0	2
+62	Irian		4th	2nd	3rd	2nd	3rd	6	738	0	2
+63	PTSD	Novice	2nd	4th	1st	4th	3rd	6	735	1	1
+64	98470911		4th	4th	1st	1st	—	6	603	2	0
+65	NYP A		2nd	4th	2nd	3rd	4th	5	747	0	2
+66	Redy	Novice	4th	3rd	3rd	4th	1st	5	746	1	0
+67	We&#x27;ll break		2nd	4th	4th	2nd	3rd	5	745	0	2
+68	FROM ZERO	Novice	3rd	4th	3rd	4th	1st	5	744	1	0
+69	SLSquare	Novice	3rd	4th	3rd	2nd	3rd	5	744	0	1
+70	A11	Novice	3rd	4th	1st	3rd	4th	5	740	1	0
+71	Piano Fire	Novice	4th	2nd	3rd	3rd	3rd	5	738	0	1
+72	Galaxy	Novice	4th	4th	2nd	1st	4th	5	732	1	1
+73	RUC red	Novice	2nd	3rd	4th	4th	2nd	5	732	0	2
+74	Tsukuba Sakuragumi		1st	3rd	4th	4th	4th	4	753	1	0
+75	Pina Colada	Novice	4th	1st	4th	3rd	4th	4	739	1	0
+76	MUST A	Novice	3rd	3rd	4th	3rd	3rd	4	736	0	0
+77	FDI	Novice	2nd	4th	3rd	4th	3rd	4	732	0	1
+78	Dreamer	Novice	4th	4th	2nd	2nd	—	4	593	0	2
+79	RIFP💔	Novice	3rd	3rd	3rd	4th	4th	3	744	0	0
+80	Lakers	Novice	3rd	3rd	4th	3rd	4th	3	742	0	0
+81	ABCD		4th	3rd	4th	4th	2nd	3	736	0	1
+82	Sherrina	Novice	3rd	4th	4th	2nd	4th	3	731	0	1
+83	Swing 3		—	—	—	—	1st	3	156	1	0
+84	Samoye	Novice	4th	4th	4th	3rd	3rd	2	730	0	0
+85	Swing 2		—	—	—	—	2nd	2	153	0	1
+86	Little ET	Novice	4th	4th	3rd	4th	4th	1	725	0	0
+87	First Blood	Novice	—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Sourodip Paul		Shanghai Starriver Bilingual School	81	79	82	83	80	405	81.00	1.41
+2=	Brian Chiang		Braille	80	78	77	80	81	396	79.20	1.47
+2=	Pio Ventura		ADMU VY	79	77	82	81	77	396	79.20	2.04
+4=	Belle Ho		Braille	80	78	79	80	78	395	79.00	0.89
+4=	Alexandra Ypil		ADMU VY	79	77	81	81	77	395	79.00	1.79
+4=	Rogelio Largo		Ateneo LG	78	78	78	80	81	395	79.00	1.26
+7=	Caleb Loh		Hume believed in Wifi Gods	77	79	77	81	78	392	78.40	1.50
+7=	Liu Chencheng	Novice	Shanghai Starriver Bilingual School	77	79	79	80	77	392	78.40	1.20
+7=	Ooi		Swing 1	79	79	78	78	78	392	78.40	0.49
+10=	Redacted		—	77	78	78	80	78	391	78.20	0.98
+10=	Andy Zhuoran Yang		Chengdu flowers	76	79	79	78	79	391	78.20	1.17
+10=	Charles Wong		“The Swing that’s not a Swing”	76	80	78	79	78	391	78.20	1.33
+13=	Ryunosuke Hashimoto		Let&#x27;s not Iron	78	79	79	76	78	390	78.00	1.10
+13=	Mizutani Tomoya		Let&#x27;s not Iron	78	79	80	75	78	390	78.00	1.67
+15=	Dongbin Lee		Do you k ow Dr. Hong?	78	75	78	77	81	389	77.80	1.94
+15=	Kyle Go		Ateneo LG	78	76	78	78	79	389	77.80	0.98
+17=	Joi Chen		Busy Babies	77	78	77	80	76	388	77.60	1.36
+17=	Carol Xu		Busy Babies	78	78	77	79	76	388	77.60	1.02
+17=	Milan Pfeiffer		Do you k ow Dr. Hong?	78	75	78	78	79	388	77.60	1.36
+17=	Abhiraj Saxena	Novice	Double Whammy	78	78	77	76	79	388	77.60	1.02
+21	Betty Peiyan Han		Chengdu flowers	75	79	79	75	79	387	77.40	1.96
+22=	Crystal Liao		Acute Triangle	77	75	78	78	78	386	77.20	1.17
+22=	Yulin Pan		Acute Triangle	77	75	78	79	77	386	77.20	1.33
+22=	Ethan Loh	Novice	Double Whammy	77	79	76	75	79	386	77.20	1.60
+25=	Sungyoon Choi	Novice	Danny in Penguinland	77	79	77	78	74	385	77.00	1.67
+25=	Shinrhee Lee		Danny in Penguinland	78	77	76	79	75	385	77.00	1.41
+25=	Redacted		—	74	76	79	79	77	385	77.00	1.90
+28=	Ali Omar Kassana Jimenez		Bubble Tea	77	77	75	78	77	384	76.80	0.98
+28=	Priscilla Chang		LADY BOSSES	76	78	74	80	76	384	76.80	2.04
+28=	Elle Tang		Nan-nan cooperation	78	76	79	74	77	384	76.80	1.72
+28=	Jeff Tsai		It cost nothing to be toxic	76	75	78	78	77	384	76.80	1.17
+28=	Carol Chan		Beijing Domestic Studies University	77	77	78	76	76	384	76.80	0.75
+28=	Minchang Kim		Magnitude and Direction	78	78	76	77	75	384	76.80	1.17
+28=	Yelin Kim		Magnitude and Direction	78	79	76	76	75	384	76.80	1.47
+35=	Glennis Tan Yu Yong		gcx	77	78	78	75	75	383	76.60	1.36
+35=	Aaron Wang		Nan-nan cooperation	78	76	79	74	76	383	76.60	1.74
+35=	Iris Yip		Oriental Alchemist	78	75	74	77	79	383	76.60	1.85
+35=	Anujit Saha		Rusty F***heads	76	76	75	78	78	383	76.60	1.20
+35=	Justin Wang		Singaporean Curry	77	75	77	77	77	383	76.60	0.80
+35=	Mahir Faiaz		Singaporean Curry	78	76	77	76	76	383	76.60	0.80
+41=	Faye	Novice	Emotionally Never Available	77	79	76	73	77	382	76.40	1.96
+41=	Sree		Emotionally Never Available	76	80	76	73	77	382	76.40	2.24
+41=	Liu Cheng Xiang		gcx	78	77	77	74	76	382	76.40	1.36
+41=	Ziyu		Nazy	76	76	76	78	76	382	76.40	0.80
+41=	Haeju Kim		Olive is my trigger	73	76	79	78	76	382	76.40	2.06
+41=	Emma Ying		PLZ give us emphyrthy	75	77	77	76	77	382	76.40	0.80
+47=	Yuuna Hirai		Hiroshima A	75	78	79	73	76	381	76.20	2.14
+47=	Geri	Novice	Isabella Geri	78	77	73	77	76	381	76.20	1.72
+47=	Erin	Novice	Just kidding	77	78	74	75	77	381	76.20	1.47
+47=	Zephyr		PLZ give us emphyrthy	75	77	76	76	77	381	76.20	0.75
+47=	Redacted		—	75	76	76	76	78	381	76.20	0.98
+47=	Jovan Ow Ray Keat		The	76	77	79	75	74	381	76.20	1.72
+47=	Mary Anne Chung Yuen KO	Novice	The delulus	73	79	78	77	74	381	76.20	2.32
+47=	Mandy Cui		Beijing Domestic Studies University	76	76	76	76	77	381	76.20	0.40
+47=	Ishmam-Ul HAQUE	Novice	NUBS = Novice University &amp; BP Speak	75	77	79	76	74	381	76.20	1.72
+56=	Musky shen		MUST B	73	77	78	76	76	380	76.00	1.67
+56=	Lei Un Hin, Leanna		Bubble Tea	75	77	75	77	76	380	76.00	0.89
+56=	Chloe Ong		LADY BOSSES	77	77	74	78	74	380	76.00	1.67
+56=	Zhong Yichen	Novice	Makapaka	74	77	76	76	77	380	76.00	1.10
+56=	Nina		Nazy	77	76	76	76	75	380	76.00	0.63
+56=	Alisha Calitz	Novice	Shorties	75	76	76	75	78	380	76.00	1.10
+56=	Hamilton Seah		The	76	77	78	75	74	380	76.00	1.41
+56=	Ho Jo Wei	Novice	The delulus	71	78	78	78	75	380	76.00	2.76
+64=	Wong Tsz Yan (Alyssa)	Novice	AA Battery	73	73	78	78	77	379	75.80	2.32
+64=	Hibiki Okada	Novice	Hiroshima A	74	78	77	74	76	379	75.80	1.60
+64=	Isabella	Novice	Isabella Geri	76	77	74	76	76	379	75.80	0.98
+64=	Oliver	Novice	Just kidding	76	78	74	74	77	379	75.80	1.60
+64=	Erina Li	Novice	Makapaka	74	77	75	76	77	379	75.80	1.17
+64=	Gem Gemin Liu		Oriental Alchemist	77	75	73	76	78	379	75.80	1.72
+64=	LEE Cho Ying	Novice	Shorties	75	77	75	75	77	379	75.80	0.98
+64=	Avery Hsia	Novice	It cost nothing to be toxic	75	74	77	77	76	379	75.80	1.17
+64=	Loh Cheng En Tammy		why do we have 2 whips?	76	75	77	75	76	379	75.80	0.75
+64=	Chloe WAN	Novice	NUBS = Novice University &amp; BP Speak	74	76	78	77	74	379	75.80	1.60
+64=	Alex Gao		（M）Wocao	76	76	77	75	75	379	75.80	0.75
+75=	Chelsea Zheng		MUST B	74	76	77	75	76	378	75.60	1.02
+75=	Lau Ka Yi Athena	Novice	AA Battery	73	72	78	77	78	378	75.60	2.58
+75=	Jingxiang Jia		Supervillain	74	76	77	73	78	378	75.60	1.85
+75=	Seungjae Han		who ate the nutella	74	77	76	75	76	378	75.60	1.02
+75=	Wong Wei Ning		why do we have 2 whips?	76	75	77	74	76	378	75.60	1.02
+75=	Ray Yang		（M）Wocao	76	76	75	75	76	378	75.60	0.49
+75=	Satvika Menon	Novice	“The Swing that’s not a Swing”	74	79	75	73	77	378	75.60	2.15
+82=	Carina Sun		Capybara	75	75	75	77	75	377	75.40	0.80
+82=	Eli		Phenix Legend	75	78	74	76	74	377	75.40	1.50
+82=	Haruto Masumitsu		Tsukuba Sakuragumi	77	77	74	75	74	377	75.40	1.36
+82=	Ian Desmond		who ate the nutella	74	77	76	74	76	377	75.40	1.20
+82=	Katherine Liu		fairy mother	73	75	76	79	74	377	75.40	2.06
+82=	Amelia	Novice	Nick &amp; Amelia	74	76	75	75	77	377	75.40	1.02
+88=	vanessa	Novice	6pc chickenjoy bucket	77	77	74	76	72	376	75.20	1.94
+88=	Lily Zeng	Novice	Capybara	75	74	74	77	76	376	75.20	1.17
+88=	Hesper	Novice	forever winter	76	75	77	76	72	376	75.20	1.72
+88=	Sophie Yuan		Hair Dye and Korean Girl	74	73	76	76	77	376	75.20	1.47
+88=	Eyedi Wen		Hair Dye and Korean Girl	73	73	77	77	76	376	75.20	1.83
+88=	Vu Nguyen Khanh Linh	Novice	Shieldmaidens	77	77	70	77	75	376	75.20	2.71
+88=	Takanosuke Ohno		Tsukuba Sakuragumi	76	76	74	75	75	376	75.20	0.75
+88=	Wang Haotian		私のディベートは、心の叫びだから	73	76	75	77	75	376	75.20	1.33
+88=	Luk Yui Yin Ingrid	Novice	Suyasha and Ingrid	72	76	74	76	78	376	75.20	2.04
+97=	ong chenxi	Novice	6pc chickenjoy bucket	75	77	74	75	74	375	75.00	1.10
+97=	Markus Fung	Novice	baby samuel	75	74	75	74	77	375	75.00	1.10
+97=	Joanna Huang	Novice	Crispy	73	76	75	74	77	375	75.00	1.41
+97=	Ariston	Novice	forever winter	75	75	77	75	73	375	75.00	1.26
+97=	QIN XIN	Novice	HKPUEDC	76	77	73	74	75	375	75.00	1.41
+97=	Yaseen Shafayet	Novice	HKPUEDC	75	77	73	75	75	375	75.00	1.26
+97=	Sraavya Srikumar		I think you’re really cool	73	76	76	74	76	375	75.00	1.26
+97=	Kelly		Phenix Legend	75	78	74	74	74	375	75.00	1.55
+97=	Mindy Sun		fairy mother	72	75	76	78	74	375	75.00	2.00
+97=	Narasipuram Suyasha Mohan	Novice	Suyasha and Ingrid	72	75	73	76	79	375	75.00	2.45
+97=	Yunhan	Novice	If we lose, blame Yunhan	77	76	75	74	73	375	75.00	1.41
+108=	Celina	Novice	Ambiguity	73	75	73	75	78	374	74.80	1.83
+108=	Lynn	Novice	Ambiguity	75	74	73	75	77	374	74.80	1.33
+108=	Bonnie lau	Novice	baby samuel	74	74	76	73	77	374	74.80	1.47
+108=	Lily Zhang	Novice	Crispy	72	77	75	74	76	374	74.80	1.72
+108=	Kok Karina Ka Ying	Novice	Noor and Karina	72	77	74	77	74	374	74.80	1.94
+108=	Then see han jerome	Novice	NYP A	72	74	77	76	75	374	74.80	1.72
+108=	Cindy Chen		Supervillain	72	73	76	75	78	374	74.80	2.14
+108=	Yeso	Novice	Redy	77	73	76	74	74	374	74.80	1.47
+108=	Nick	Novice	Nick &amp; Amelia	74	75	75	74	76	374	74.80	0.75
+117=	Sane Wu		Chaos	75	74	75	75	74	373	74.60	0.49
+117=	Jonah		NYP A	73	73	76	76	75	373	74.60	1.36
+117=	Bui Phan Thao Dan	Novice	Shieldmaidens	76	77	70	76	74	373	74.60	2.50
+117=	Sylvia Peng		We&#x27;ll break	75	75	74	73	76	373	74.60	1.02
+117=	Zohreh Chen		私のディベートは、心の叫びだから	73	75	74	76	75	373	74.60	1.02
+122=	Kasey	Novice	FROM ZERO	75	76	74	73	74	372	74.40	1.02
+122=	Ciara	Novice	FROM ZERO	76	76	74	73	73	372	74.40	1.36
+122=	Chow Ser Wei Mark Ethan	Novice	I think you’re really cool	72	75	75	73	77	372	74.40	1.74
+122=	Egbert Jefferson	Novice	RIFP💔	74	76	76	71	75	372	74.40	1.85
+122=	Nathan Lim	Novice	RIFP💔	75	75	75	71	76	372	74.40	1.74
+122=	Stacy Li	Novice	SLSquare	75	75	74	73	75	372	74.40	0.80
+122=	Stella Luo	Novice	SLSquare	74	75	75	73	75	372	74.40	0.80
+122=	Wang Han Yu	Novice	Splat on your toon	71	75	77	74	75	372	74.40	1.96
+122=	Sam Wang	Novice	A11	74	72	77	76	73	372	74.40	1.85
+122=	Edith Wu		We&#x27;ll break	75	75	72	74	76	372	74.40	1.36
+122=	Aria	Novice	Redy	76	73	76	73	74	372	74.40	1.36
+133=	Ashley Sun		Chaos	75	73	74	74	75	371	74.20	0.75
+133=	Sabrina Li	Novice	Lakers	74	75	75	74	73	371	74.20	0.75
+133=	Justin	Novice	Lakers	75	76	75	73	72	371	74.20	1.47
+133=	TAYYAB Noor	Novice	Noor and Karina	70	77	74	76	74	371	74.20	2.40
+133=	Leong Hao Nei	Novice	Splat on your toon	71	75	76	74	75	371	74.20	1.72
+138	Crissy Huang	Novice	Pina Colada	72	78	74	71	75	370	74.00	2.45
+139=	Siri Wang	Novice	Piano Fire	72	74	74	73	76	369	73.80	1.33
+139=	Archie Wang Sizhe	Novice	Piano Fire	72	74	75	72	76	369	73.80	1.60
+139=	Joey Feng	Novice	Pina Colada	71	78	74	71	75	369	73.80	2.64
+139=	Iris Sun		Irian	73	74	73	74	75	369	73.80	0.75
+139=	Shirley	Novice	MUST A	76	75	73	73	72	369	73.80	1.47
+139=	Wan Yixin		ABCD	75	75	75	71	73	369	73.80	1.60
+145=	Bosco U U Leng Kit	Novice	PTSD	75	72	74	74	73	368	73.60	1.02
+145=	Madeline Zhao	Novice	A11	73	73	75	75	72	368	73.60	1.20
+147=	Caitlin	Novice	FDI	73	74	73	74	73	367	73.40	0.49
+147=	Ryan Lee	Novice	Galaxy	72	71	75	74	75	367	73.40	1.62
+147=	Jack Chan CHEN CHON KAI	Novice	PTSD	74	71	74	74	74	367	73.40	1.20
+147=	Blues	Novice	MUST A	77	73	72	73	72	367	73.40	1.85
+147=	Li Yi		ABCD	75	74	75	71	72	367	73.40	1.62
+147=	Cathy Cheng	Novice	RUC red	73	75	75	70	74	367	73.40	1.85
+153	Liujia tong	Novice	Sherrina	73	73	72	76	72	366	73.20	1.47
+154=	April	Novice	FDI	73	73	73	73	73	365	73.00	0.00
+154=	Sissi Liu	Novice	Galaxy	72	71	74	74	74	365	73.00	1.26
+154=	Chen Hanya	Novice	Sherrina	73	73	72	76	71	365	73.00	1.67
+154=	宋妤昕Ethel	Novice	Samoye	71	72	73	74	75	365	73.00	1.41
+154=	Ari	Novice	Samoye	71	72	73	74	75	365	73.00	1.41
+154=	Zhao Yunfan	Novice	RUC red	75	73	74	70	73	365	73.00	1.67
+160	Eunice	Novice	Little ET	72	70	74	73	74	363	72.60	1.50
+161	Tess	Novice	Little ET	72	72	73	72	73	362	72.40	0.49
+162	Jayden		Swing 1	—	76	78	78	76	308	77.00	1.00
+163	Zhihe	Novice	If we lose, blame Yunhan	79	76	76	76	—	307	76.75	1.30
+164	Maggie Li		98470911	73	74	78	77	—	302	75.50	2.06
+165	Suri Lin		98470911	74	74	77	76	—	301	75.25	1.30
+166=	潘炫瑞 Pan Xuanrui	Novice	Dreamer	72	75	75	75	—	297	74.25	1.30
+166=	Vivian Zhang		Irian	—	73	74	75	75	297	74.25	0.83
+168	王皓尔 Wang Haoer	Novice	Dreamer	73	74	74	75	—	296	74.00	0.71
+169	Speaker 1		Swing 3	—	—	—	—	78	78	78.00	0.00
+170	Speaker 1		Swing 2	—	—	—	—	77	77	77.00	0.00
+171=	Jaden Wong	Novice	First Blood	—	—	—	—	—	—	—	—
+171=	Joyce Zhong	Novice	First Blood	—	—	—	—	—	—	—	—
+171=	Speaker 2		Swing 2	—	—	—	—	—	—	—	—
+171=	Speaker 2		Swing 3	—	—	—	—	—	—	—	—
+
+
+team	result	side	adjudicators
+Braille	1st	Opening Government	Adel Mostaque AhmedⒸ , Choy Sum Yee EvelynⓉ , Rui QinⓉ
+forever winter	4th	Closing Opposition	Adel Mostaque AhmedⒸ , Choy Sum Yee EvelynⓉ , Rui QinⓉ
+MUST A	3rd	Opening Opposition	Adel Mostaque AhmedⒸ , Choy Sum Yee EvelynⓉ , Rui QinⓉ
+Magnitude and Direction	2nd	Closing Government	Adel Mostaque AhmedⒸ , Choy Sum Yee EvelynⓉ , Rui QinⓉ
+98470911	4th	Opening Opposition	Youngwoo ParkⒸ , Jagad Al Ula
+SLSquare	3rd	Opening Government	Youngwoo ParkⒸ , Jagad Al Ula
+Tsukuba Sakuragumi	1st	Closing Opposition	Youngwoo ParkⒸ , Jagad Al Ula
+We&#x27;ll break	2nd	Closing Government	Youngwoo ParkⒸ , Jagad Al Ula
+Capybara	4th	Closing Opposition	Jean AtongⒸ , Hong ‘Chloe’ ShimingⓉ
+FROM ZERO	3rd	Opening Government	Jean AtongⒸ , Hong ‘Chloe’ ShimingⓉ
+Oriental Alchemist	2nd	Opening Opposition	Jean AtongⒸ , Hong ‘Chloe’ ShimingⓉ
+If we lose, blame Yunhan	1st	Closing Government	Jean AtongⒸ , Hong ‘Chloe’ ShimingⓉ
+Isabella Geri	3rd	Opening Opposition	Ritabrata MitraⒸ , Rachel CheongⓉ
+ADMU VY	1st	Opening Government	Ritabrata MitraⒸ , Rachel CheongⓉ
+ABCD	4th	Closing Opposition	Ritabrata MitraⒸ , Rachel CheongⓉ
+Double Whammy	2nd	Closing Government	Ritabrata MitraⒸ , Rachel CheongⓉ
+6pc chickenjoy bucket	1st	Opening Opposition	Angellia GiovanniⒸ , Tivlumun Alexander
+Ambiguity	2nd	Closing Government	Angellia GiovanniⒸ , Tivlumun Alexander
+Little ET	4th	Closing Opposition	Angellia GiovanniⒸ , Tivlumun Alexander
+Sherrina	3rd	Opening Government	Angellia GiovanniⒸ , Tivlumun Alexander
+NYP A	2nd	Opening Government	Bonfilio DazzleⒸ , YvonneⓉ
+Pina Colada	4th	Closing Opposition	Bonfilio DazzleⒸ , YvonneⓉ
+Supervillain	1st	Opening Opposition	Bonfilio DazzleⒸ , YvonneⓉ
+The delulus	3rd	Closing Government	Bonfilio DazzleⒸ , YvonneⓉ
+MUST B	3rd	Closing Government	Issac KoⒸ , LorraineⓉ
+Crispy	4th	Opening Government	Issac KoⒸ , LorraineⓉ
+Shanghai Starriver Bilingual School	1st	Closing Opposition	Issac KoⒸ , LorraineⓉ
+RUC red	2nd	Opening Opposition	Issac KoⒸ , LorraineⓉ
+why do we have 2 whips?	1st	Closing Government	Kimberly LopezⒸ , Jodel Avenis
+PTSD	2nd	Opening Government	Kimberly LopezⒸ , Jodel Avenis
+A11	3rd	Opening Opposition	Kimberly LopezⒸ , Jodel Avenis
+私のディベートは、心の叫びだから	4th	Closing Opposition	Kimberly LopezⒸ , Jodel Avenis
+Makapaka	3rd	Closing Government	Leonardus Hans SebastianⒸ , 袁令娜 LinaⓉ
+Splat on your toon	4th	Opening Opposition	Leonardus Hans SebastianⒸ , 袁令娜 LinaⓉ
+Beijing Domestic Studies University	1st	Closing Opposition	Leonardus Hans SebastianⒸ , 袁令娜 LinaⓉ
+NUBS = Novice University &amp; BP Speak	2nd	Opening Government	Leonardus Hans SebastianⒸ , 袁令娜 LinaⓉ
+Chaos	2nd	Closing Government	Mezen LababidiⒸ , Hinano Haraguchi
+Olive is my trigger	3rd	Opening Opposition	Mezen LababidiⒸ , Hinano Haraguchi
+Piano Fire	4th	Closing Opposition	Mezen LababidiⒸ , Hinano Haraguchi
+It cost nothing to be toxic	1st	Opening Government	Mezen LababidiⒸ , Hinano Haraguchi
+Acute Triangle	3rd	Opening Opposition	Prashasti SaxenaⒸ
+Danny in Penguinland	2nd	Closing Opposition	Prashasti SaxenaⒸ
+Redy	4th	Opening Government	Prashasti SaxenaⒸ
+Swing 1	1st	Closing Government	Prashasti SaxenaⒸ
+FDI	2nd	Opening Opposition	Prosper Michael AmetuⒸ , Prajwal GuptaⓉ
+who ate the nutella	1st	Opening Government	Prosper Michael AmetuⒸ , Prajwal GuptaⓉ
+fairy mother	3rd	Closing Government	Prosper Michael AmetuⒸ , Prajwal GuptaⓉ
+Samoye	4th	Closing Opposition	Prosper Michael AmetuⒸ , Prajwal GuptaⓉ
+RIFP💔	3rd	Opening Government	Ryosei KobayashiⒸ
+Chengdu flowers	2nd	Closing Government	Ryosei KobayashiⒸ
+（M）Wocao	1st	Closing Opposition	Ryosei KobayashiⒸ
+Suyasha and Ingrid	4th	Opening Opposition	Ryosei KobayashiⒸ
+baby samuel	3rd	Opening Government	Kotaro YoshidaⒸ , Jillian Wang , Wang BenⓉ
+Busy Babies	2nd	Closing Government	Kotaro YoshidaⒸ , Jillian Wang , Wang BenⓉ
+Noor and Karina	4th	Closing Opposition	Kotaro YoshidaⒸ , Jillian Wang , Wang BenⓉ
+Ateneo LG	1st	Opening Opposition	Kotaro YoshidaⒸ , Jillian Wang , Wang BenⓉ
+AA Battery	4th	Opening Opposition	Imran IlmamⒸ , Emily GuoⓉ , 吴晗宇 Wu HanyuⓉ
+Hume believed in Wifi Gods	2nd	Closing Opposition	Imran IlmamⒸ , Emily GuoⓉ , 吴晗宇 Wu HanyuⓉ
+Nan-nan cooperation	1st	Closing Government	Imran IlmamⒸ , Emily GuoⓉ , 吴晗宇 Wu HanyuⓉ
+“The Swing that’s not a Swing”	3rd	Opening Government	Imran IlmamⒸ , Emily GuoⓉ , 吴晗宇 Wu HanyuⓉ
+Just kidding	3rd	Closing Government	Rahul DattaⒸ
+Singaporean Curry	2nd	Closing Opposition	Rahul DattaⒸ
+The	4th	Opening Government	Rahul DattaⒸ
+Do you k ow Dr. Hong?	1st	Opening Opposition	Rahul DattaⒸ
+Emotionally Never Available	3rd	Closing Government	Ayafa TonyeⒸ , Serena XieⓉ
+gcx	2nd	Closing Opposition	Ayafa TonyeⒸ , Serena XieⓉ
+Let&#x27;s not Iron	1st	Opening Government	Ayafa TonyeⒸ , Serena XieⓉ
+Phenix Legend	4th	Opening Opposition	Ayafa TonyeⒸ , Serena XieⓉ
+Bubble Tea	2nd	Closing Government	Beauty Ariel Ben YuwantoⒸ , Yuya Kagazume , Clara Seoyoung KimⓉ
+Lakers	3rd	Opening Opposition	Beauty Ariel Ben YuwantoⒸ , Yuya Kagazume , Clara Seoyoung KimⓉ
+Shieldmaidens	1st	Closing Opposition	Beauty Ariel Ben YuwantoⒸ , Yuya Kagazume , Clara Seoyoung KimⓉ
+Irian	4th	Opening Government	Beauty Ariel Ben YuwantoⒸ , Yuya Kagazume , Clara Seoyoung KimⓉ
+Hair Dye and Korean Girl	4th	Closing Opposition	Ayushi NasaⒸ , Seah Zhi Hao
+Nazy	1st	Opening Government	Ayushi NasaⒸ , Seah Zhi Hao
+PLZ give us emphyrthy	3rd	Closing Government	Ayushi NasaⒸ , Seah Zhi Hao
+Rusty F***heads	2nd	Opening Opposition	Ayushi NasaⒸ , Seah Zhi Hao
+Dreamer	4th	Closing Opposition	Erasmus SegbefiaⒸ , Danielle ChuaⓉ , Zhu ShuairongⓉ
+HKPUEDC	2nd	Opening Opposition	Erasmus SegbefiaⒸ , Danielle ChuaⓉ , Zhu ShuairongⓉ
+LADY BOSSES	1st	Opening Government	Erasmus SegbefiaⒸ , Danielle ChuaⓉ , Zhu ShuairongⓉ
+Shorties	3rd	Closing Government	Erasmus SegbefiaⒸ , Danielle ChuaⓉ , Zhu ShuairongⓉ
+Galaxy	4th	Opening Government	Kojo O. AcheampongⒸ , Parmida, Cheong Ian Tong
+Hiroshima A	1st	Opening Opposition	Kojo O. AcheampongⒸ , Parmida, Cheong Ian Tong
+I think you’re really cool	3rd	Closing Government	Kojo O. AcheampongⒸ , Parmida, Cheong Ian Tong
+Nick &amp; Amelia	2nd	Closing Opposition	Kojo O. AcheampongⒸ , Parmida, Cheong Ian Tong
+
+
+team	result	side	adjudicators
+Acute Triangle	4th	Opening Government	Kojo O. AcheampongⒸ , Hong ‘Chloe’ Shiming
+Olive is my trigger	2nd	Closing Government	Kojo O. AcheampongⒸ , Hong ‘Chloe’ Shiming
+RIFP💔	3rd	Opening Opposition	Kojo O. AcheampongⒸ , Hong ‘Chloe’ Shiming
+Shorties	1st	Closing Opposition	Kojo O. AcheampongⒸ , Hong ‘Chloe’ Shiming
+Emotionally Never Available	1st	Closing Opposition	Imran IlmamⒸ , FeliciaⓉ
+Makapaka	2nd	Opening Opposition	Imran IlmamⒸ , FeliciaⓉ
+A11	4th	Closing Government	Imran IlmamⒸ , FeliciaⓉ
+fairy mother	3rd	Opening Government	Imran IlmamⒸ , FeliciaⓉ
+Bubble Tea	2nd	Opening Government	Angellia GiovanniⒸ , Naama Benamy Schoneveld
+Singaporean Curry	3rd	Closing Government	Angellia GiovanniⒸ , Naama Benamy Schoneveld
+We&#x27;ll break	4th	Opening Opposition	Angellia GiovanniⒸ , Naama Benamy Schoneveld
+Magnitude and Direction	1st	Closing Opposition	Angellia GiovanniⒸ , Naama Benamy Schoneveld
+Ambiguity	2nd	Opening Government	Leonardus Hans SebastianⒸ , Jagad Al Ula
+baby samuel	3rd	Closing Opposition	Leonardus Hans SebastianⒸ , Jagad Al Ula
+FDI	4th	Closing Government	Leonardus Hans SebastianⒸ , Jagad Al Ula
+Hume believed in Wifi Gods	1st	Opening Opposition	Leonardus Hans SebastianⒸ , Jagad Al Ula
+FROM ZERO	4th	Closing Government	Ayafa TonyeⒸ , Rui Qin
+HKPUEDC	3rd	Opening Government	Ayafa TonyeⒸ , Rui Qin
+Chengdu flowers	1st	Closing Opposition	Ayafa TonyeⒸ , Rui Qin
+Double Whammy	2nd	Opening Opposition	Ayafa TonyeⒸ , Rui Qin
+Busy Babies	2nd	Opening Opposition	Youngwoo ParkⒸ , Hinano Haraguchi , Rachel Cheong
+Nazy	4th	Closing Opposition	Youngwoo ParkⒸ , Hinano Haraguchi , Rachel Cheong
+Shanghai Starriver Bilingual School	1st	Opening Government	Youngwoo ParkⒸ , Hinano Haraguchi , Rachel Cheong
+Beijing Domestic Studies University	3rd	Closing Government	Youngwoo ParkⒸ , Hinano Haraguchi , Rachel Cheong
+6pc chickenjoy bucket	2nd	Closing Government	Daud Hernoud LoudoeⒸ , 吴晗宇 Wu HanyuⓉ
+LADY BOSSES	1st	Closing Opposition	Daud Hernoud LoudoeⒸ , 吴晗宇 Wu HanyuⓉ
+Nan-nan cooperation	3rd	Opening Government	Daud Hernoud LoudoeⒸ , 吴晗宇 Wu HanyuⓉ
+why do we have 2 whips?	4th	Opening Opposition	Daud Hernoud LoudoeⒸ , 吴晗宇 Wu HanyuⓉ
+It cost nothing to be toxic	4th	Closing Government	Prosper Michael AmetuⒸ , Yuya Kagazume
+Do you k ow Dr. Hong?	3rd	Opening Government	Prosper Michael AmetuⒸ , Yuya Kagazume
+ADMU VY	1st	Closing Opposition	Prosper Michael AmetuⒸ , Yuya Kagazume
+If we lose, blame Yunhan	2nd	Opening Opposition	Prosper Michael AmetuⒸ , Yuya Kagazume
+Braille	1st	Opening Opposition	Bonfilio DazzleⒸ , Wang BenⓉ , Zhu ShuairongⓉ
+Ateneo LG	3rd	Opening Government	Bonfilio DazzleⒸ , Wang BenⓉ , Zhu ShuairongⓉ
+（M）Wocao	4th	Closing Government	Bonfilio DazzleⒸ , Wang BenⓉ , Zhu ShuairongⓉ
+Swing 1	2nd	Closing Opposition	Bonfilio DazzleⒸ , Wang BenⓉ , Zhu ShuairongⓉ
+I think you’re really cool	2nd	Opening Government	Kimberly LopezⒸ , Danielle ChuaⓉ
+PLZ give us emphyrthy	1st	Opening Opposition	Kimberly LopezⒸ , Danielle ChuaⓉ
+Sherrina	4th	Closing Government	Kimberly LopezⒸ , Danielle ChuaⓉ
+MUST A	3rd	Closing Opposition	Kimberly LopezⒸ , Danielle ChuaⓉ
+Chaos	4th	Closing Opposition	Ryosei KobayashiⒸ
+Danny in Penguinland	1st	Opening Opposition	Ryosei KobayashiⒸ
+Rusty F***heads	3rd	Opening Government	Ryosei KobayashiⒸ
+NUBS = Novice University &amp; BP Speak	2nd	Closing Government	Ryosei KobayashiⒸ
+Hiroshima A	1st	Closing Government	Ritabrata MitraⒸ , Jillian Wang , Prajwal GuptaⓉ
+Oriental Alchemist	4th	Closing Opposition	Ritabrata MitraⒸ , Jillian Wang , Prajwal GuptaⓉ
+Shieldmaidens	2nd	Opening Government	Ritabrata MitraⒸ , Jillian Wang , Prajwal GuptaⓉ
+Tsukuba Sakuragumi	3rd	Opening Opposition	Ritabrata MitraⒸ , Jillian Wang , Prajwal GuptaⓉ
+gcx	1st	Closing Government	Erasmus SegbefiaⒸ , Ayushi Nasa , 袁令娜 LinaⓉ
+NYP A	4th	Closing Opposition	Erasmus SegbefiaⒸ , Ayushi Nasa , 袁令娜 LinaⓉ
+Nick &amp; Amelia	2nd	Opening Opposition	Erasmus SegbefiaⒸ , Ayushi Nasa , 袁令娜 LinaⓉ
+RUC red	3rd	Opening Government	Erasmus SegbefiaⒸ , Ayushi Nasa , 袁令娜 LinaⓉ
+Crispy	2nd	Closing Government	Rahul DattaⒸ , Serena XieⓉ
+Dreamer	4th	Opening Government	Rahul DattaⒸ , Serena XieⓉ
+Pina Colada	1st	Opening Opposition	Rahul DattaⒸ , Serena XieⓉ
+Splat on your toon	3rd	Closing Opposition	Rahul DattaⒸ , Serena XieⓉ
+Isabella Geri	4th	Closing Opposition	Adel Mostaque AhmedⒸ , Emily Guo , ChristyⓉ
+Just kidding	3rd	Opening Opposition	Adel Mostaque AhmedⒸ , Emily Guo , ChristyⓉ
+The delulus	2nd	Opening Government	Adel Mostaque AhmedⒸ , Emily Guo , ChristyⓉ
+“The Swing that’s not a Swing”	1st	Closing Government	Adel Mostaque AhmedⒸ , Emily Guo , ChristyⓉ
+Capybara	1st	Opening Government	Issac KoⒸ , Jodel Avenis , Zhou Man SIngⓉ
+Hair Dye and Korean Girl	3rd	Closing Government	Issac KoⒸ , Jodel Avenis , Zhou Man SIngⓉ
+Little ET	4th	Opening Opposition	Issac KoⒸ , Jodel Avenis , Zhou Man SIngⓉ
+Irian	2nd	Closing Opposition	Issac KoⒸ , Jodel Avenis , Zhou Man SIngⓉ
+AA Battery	3rd	Opening Government	Prashasti SaxenaⒸ , Leah Mercier , LorraineⓉ
+Galaxy	4th	Closing Opposition	Prashasti SaxenaⒸ , Leah Mercier , LorraineⓉ
+Phenix Legend	1st	Closing Government	Prashasti SaxenaⒸ , Leah Mercier , LorraineⓉ
+Piano Fire	2nd	Opening Opposition	Prashasti SaxenaⒸ , Leah Mercier , LorraineⓉ
+MUST B	2nd	Opening Government	Jean AtongⒸ
+Lakers	3rd	Closing Government	Jean AtongⒸ
+Noor and Karina	1st	Opening Opposition	Jean AtongⒸ
+SLSquare	4th	Closing Opposition	Jean AtongⒸ
+98470911	4th	Closing Government	Mezen LababidiⒸ , YvonneⓉ
+The	1st	Closing Opposition	Mezen LababidiⒸ , YvonneⓉ
+ABCD	3rd	Opening Opposition	Mezen LababidiⒸ , YvonneⓉ
+Suyasha and Ingrid	2nd	Opening Government	Mezen LababidiⒸ , YvonneⓉ
+Let&#x27;s not Iron	1st	Opening Opposition	Beauty Ariel Ben YuwantoⒸ , Choy Sum Yee Evelyn
+PTSD	4th	Closing Government	Beauty Ariel Ben YuwantoⒸ , Choy Sum Yee Evelyn
+Supervillain	3rd	Opening Government	Beauty Ariel Ben YuwantoⒸ , Choy Sum Yee Evelyn
+who ate the nutella	2nd	Closing Opposition	Beauty Ariel Ben YuwantoⒸ , Choy Sum Yee Evelyn
+forever winter	2nd	Opening Government	Christopher ChuaⒸ , Clara Seoyoung Kim , Parmida, Cheong Ian Tong
+私のディベートは、心の叫びだから	1st	Closing Government	Christopher ChuaⒸ , Clara Seoyoung Kim , Parmida, Cheong Ian Tong
+Redy	3rd	Closing Opposition	Christopher ChuaⒸ , Clara Seoyoung Kim , Parmida, Cheong Ian Tong
+Samoye	4th	Opening Opposition	Christopher ChuaⒸ , Clara Seoyoung Kim , Parmida, Cheong Ian Tong
+
+
+team	result	side	adjudicators
+Acute Triangle	1st	Closing Opposition	Kimberly LopezⒸ , Serena Xie , YvonneⓉ
+Hair Dye and Korean Girl	2nd	Opening Opposition	Kimberly LopezⒸ , Serena Xie , YvonneⓉ
+Isabella Geri	4th	Opening Government	Kimberly LopezⒸ , Serena Xie , YvonneⓉ
+SLSquare	3rd	Closing Government	Kimberly LopezⒸ , Serena Xie , YvonneⓉ
+MUST B	1st	Opening Opposition	Imran IlmamⒸ , Rachel Cheong , Wangxinyi 王心怡Ⓣ
+Capybara	3rd	Closing Government	Imran IlmamⒸ , Rachel Cheong , Wangxinyi 王心怡Ⓣ
+Phenix Legend	4th	Closing Opposition	Imran IlmamⒸ , Rachel Cheong , Wangxinyi 王心怡Ⓣ
+（M）Wocao	2nd	Opening Government	Imran IlmamⒸ , Rachel Cheong , Wangxinyi 王心怡Ⓣ
+HKPUEDC	4th	Closing Government	Christopher ChuaⒸ , Emily Guo , Zhou Man SIngⓉ
+Rusty F***heads	3rd	Closing Opposition	Christopher ChuaⒸ , Emily Guo , Zhou Man SIngⓉ
+Singaporean Curry	2nd	Opening Government	Christopher ChuaⒸ , Emily Guo , Zhou Man SIngⓉ
+It cost nothing to be toxic	1st	Opening Opposition	Christopher ChuaⒸ , Emily Guo , Zhou Man SIngⓉ
+FDI	3rd	Opening Government	Kojo O. AcheampongⒸ , Adya Sharma , Prajwal GuptaⓉ
+PTSD	1st	Opening Opposition	Kojo O. AcheampongⒸ , Adya Sharma , Prajwal GuptaⓉ
+MUST A	4th	Closing Government	Kojo O. AcheampongⒸ , Adya Sharma , Prajwal GuptaⓉ
+Suyasha and Ingrid	2nd	Closing Opposition	Kojo O. AcheampongⒸ , Adya Sharma , Prajwal GuptaⓉ
+forever winter	1st	Opening Opposition	Rahul DattaⒸ , 吴晗宇 Wu HanyuⓉ
+Lakers	4th	Opening Government	Rahul DattaⒸ , 吴晗宇 Wu HanyuⓉ
+NYP A	2nd	Closing Government	Rahul DattaⒸ , 吴晗宇 Wu HanyuⓉ
+RIFP💔	3rd	Closing Opposition	Rahul DattaⒸ , 吴晗宇 Wu HanyuⓉ
+Makapaka	2nd	Closing Opposition	Jean AtongⒸ , Wang BenⓉ
+Piano Fire	3rd	Closing Government	Jean AtongⒸ , Wang BenⓉ
+Pina Colada	4th	Opening Government	Jean AtongⒸ , Wang BenⓉ
+The	1st	Opening Opposition	Jean AtongⒸ , Wang BenⓉ
+baby samuel	2nd	Closing Government	Prashasti SaxenaⒸ
+Crispy	3rd	Opening Opposition	Prashasti SaxenaⒸ
+Oriental Alchemist	4th	Opening Government	Prashasti SaxenaⒸ
+fairy mother	1st	Closing Opposition	Prashasti SaxenaⒸ
+Braille	2nd	Closing Opposition	Kotaro YoshidaⒸ , Clara Seoyoung Kim , Jodel Avenis
+LADY BOSSES	4th	Closing Government	Kotaro YoshidaⒸ , Clara Seoyoung Kim , Jodel Avenis
+who ate the nutella	3rd	Opening Opposition	Kotaro YoshidaⒸ , Clara Seoyoung Kim , Jodel Avenis
+Chengdu flowers	1st	Opening Government	Kotaro YoshidaⒸ , Clara Seoyoung Kim , Jodel Avenis
+Chaos	1st	Opening Opposition	Bonfilio DazzleⒸ
+Just kidding	2nd	Closing Opposition	Bonfilio DazzleⒸ
+We&#x27;ll break	4th	Opening Government	Bonfilio DazzleⒸ
+Irian	3rd	Closing Government	Bonfilio DazzleⒸ
+FROM ZERO	3rd	Closing Opposition	Jagad Al UlaⒸ
+Galaxy	2nd	Closing Government	Jagad Al UlaⒸ
+Sherrina	4th	Opening Opposition	Jagad Al UlaⒸ
+A11	1st	Opening Government	Jagad Al UlaⒸ
+PLZ give us emphyrthy	3rd	Closing Opposition	Daud Hernoud LoudoeⒸ , FeliciaⓉ
+Shorties	4th	Opening Opposition	Daud Hernoud LoudoeⒸ , FeliciaⓉ
+Do you k ow Dr. Hong?	1st	Closing Government	Daud Hernoud LoudoeⒸ , FeliciaⓉ
+Beijing Domestic Studies University	2nd	Opening Government	Daud Hernoud LoudoeⒸ , FeliciaⓉ
+Busy Babies	1st	Opening Government	Ryosei KobayashiⒸ , Tivlumun Alexander , Danielle ChuaⓉ
+Emotionally Never Available	3rd	Opening Opposition	Ryosei KobayashiⒸ , Tivlumun Alexander , Danielle ChuaⓉ
+Tsukuba Sakuragumi	4th	Closing Government	Ryosei KobayashiⒸ , Tivlumun Alexander , Danielle ChuaⓉ
+“The Swing that’s not a Swing”	2nd	Closing Opposition	Ryosei KobayashiⒸ , Tivlumun Alexander , Danielle ChuaⓉ
+Nazy	3rd	Opening Opposition	Beauty Ariel Ben YuwantoⒸ , Naama Benamy Schoneveld , Zhu ShuairongⓉ
+Olive is my trigger	1st	Opening Government	Beauty Ariel Ben YuwantoⒸ , Naama Benamy Schoneveld , Zhu ShuairongⓉ
+The delulus	2nd	Closing Opposition	Beauty Ariel Ben YuwantoⒸ , Naama Benamy Schoneveld , Zhu ShuairongⓉ
+RUC red	4th	Closing Government	Beauty Ariel Ben YuwantoⒸ , Naama Benamy Schoneveld , Zhu ShuairongⓉ
+98470911	1st	Closing Opposition	Seah Zhi HaoⒸ
+Dreamer	2nd	Opening Opposition	Seah Zhi HaoⒸ
+Little ET	3rd	Opening Government	Seah Zhi HaoⒸ
+Samoye	4th	Closing Government	Seah Zhi HaoⒸ
+Nan-nan cooperation	1st	Opening Opposition	Ritabrata MitraⒸ , Angellia Giovanni , Jillian Wang
+Supervillain	3rd	Closing Government	Ritabrata MitraⒸ , Angellia Giovanni , Jillian Wang
+NUBS = Novice University &amp; BP Speak	2nd	Closing Opposition	Ritabrata MitraⒸ , Angellia Giovanni , Jillian Wang
+Nick &amp; Amelia	4th	Opening Government	Ritabrata MitraⒸ , Angellia Giovanni , Jillian Wang
+Ambiguity	4th	Closing Opposition	Prosper Michael AmetuⒸ , Choy Sum Yee Evelyn , Hinano Haraguchi
+Bubble Tea	3rd	Opening Opposition	Prosper Michael AmetuⒸ , Choy Sum Yee Evelyn , Hinano Haraguchi
+Ateneo LG	1st	Closing Government	Prosper Michael AmetuⒸ , Choy Sum Yee Evelyn , Hinano Haraguchi
+Double Whammy	2nd	Opening Government	Prosper Michael AmetuⒸ , Choy Sum Yee Evelyn , Hinano Haraguchi
+I think you’re really cool	2nd	Opening Opposition	Issac KoⒸ , Ayushi Nasa , Hong ‘Chloe’ Shiming
+Noor and Karina	4th	Closing Government	Issac KoⒸ , Ayushi Nasa , Hong ‘Chloe’ Shiming
+why do we have 2 whips?	1st	Closing Opposition	Issac KoⒸ , Ayushi Nasa , Hong ‘Chloe’ Shiming
+私のディベートは、心の叫びだから	3rd	Opening Government	Issac KoⒸ , Ayushi Nasa , Hong ‘Chloe’ Shiming
+AA Battery	1st	Closing Opposition	Ayafa TonyeⒸ
+Splat on your toon	2nd	Closing Government	Ayafa TonyeⒸ
+Redy	3rd	Opening Opposition	Ayafa TonyeⒸ
+ABCD	4th	Opening Government	Ayafa TonyeⒸ
+gcx	2nd	Opening Opposition	Leonardus Hans SebastianⒸ , Adel Mostaque Ahmed , Parmida, Cheong Ian Tong
+Shieldmaidens	4th	Closing Government	Leonardus Hans SebastianⒸ , Adel Mostaque Ahmed , Parmida, Cheong Ian Tong
+If we lose, blame Yunhan	3rd	Closing Opposition	Leonardus Hans SebastianⒸ , Adel Mostaque Ahmed , Parmida, Cheong Ian Tong
+Swing 1	1st	Opening Government	Leonardus Hans SebastianⒸ , Adel Mostaque Ahmed , Parmida, Cheong Ian Tong
+6pc chickenjoy bucket	4th	Closing Opposition	Youngwoo ParkⒸ , Lorraine , Yuya Kagazume
+Danny in Penguinland	2nd	Closing Government	Youngwoo ParkⒸ , Lorraine , Yuya Kagazume
+Hume believed in Wifi Gods	1st	Opening Government	Youngwoo ParkⒸ , Lorraine , Yuya Kagazume
+Magnitude and Direction	3rd	Opening Opposition	Youngwoo ParkⒸ , Lorraine , Yuya Kagazume
+Hiroshima A	4th	Opening Government	Erasmus SegbefiaⒸ , Mezen Lababidi , Rui Qin
+Let&#x27;s not Iron	3rd	Closing Opposition	Erasmus SegbefiaⒸ , Mezen Lababidi , Rui Qin
+Shanghai Starriver Bilingual School	2nd	Closing Government	Erasmus SegbefiaⒸ , Mezen Lababidi , Rui Qin
+ADMU VY	1st	Opening Opposition	Erasmus SegbefiaⒸ , Mezen Lababidi , Rui Qin
+
+
+team	result	side	adjudicators
+Chaos	3rd	Opening Government	Leonardus Hans SebastianⒸ , Hong ‘Chloe’ Shiming
+Nazy	2nd	Closing Government	Leonardus Hans SebastianⒸ , Hong ‘Chloe’ Shiming
+PTSD	4th	Closing Opposition	Leonardus Hans SebastianⒸ , Hong ‘Chloe’ Shiming
+The delulus	1st	Opening Opposition	Leonardus Hans SebastianⒸ , Hong ‘Chloe’ Shiming
+Bubble Tea	2nd	Closing Opposition	Adya SharmaⒸ , Adel Mostaque Ahmed
+PLZ give us emphyrthy	3rd	Opening Government	Adya SharmaⒸ , Adel Mostaque Ahmed
+fairy mother	1st	Opening Opposition	Adya SharmaⒸ , Adel Mostaque Ahmed
+Nick &amp; Amelia	4th	Closing Government	Adya SharmaⒸ , Adel Mostaque Ahmed
+Emotionally Never Available	4th	Opening Government	Yuya KagazumeⒸ , Jagad Al Ula , Jillian WangⓉ
+forever winter	1st	Closing Government	Yuya KagazumeⒸ , Jagad Al Ula , Jillian WangⓉ
+I think you’re really cool	3rd	Closing Opposition	Yuya KagazumeⒸ , Jagad Al Ula , Jillian WangⓉ
+（M）Wocao	2nd	Opening Opposition	Yuya KagazumeⒸ , Jagad Al Ula , Jillian WangⓉ
+baby samuel	4th	Opening Opposition	Erasmus SegbefiaⒸ
+Just kidding	3rd	Closing Opposition	Erasmus SegbefiaⒸ
+Noor and Karina	2nd	Opening Government	Erasmus SegbefiaⒸ
+Rusty F***heads	1st	Closing Government	Erasmus SegbefiaⒸ
+Braille	3rd	Closing Government	Christopher ChuaⒸ
+Shanghai Starriver Bilingual School	1st	Opening Opposition	Christopher ChuaⒸ
+ADMU VY	2nd	Opening Government	Christopher ChuaⒸ
+Chengdu flowers	4th	Closing Opposition	Christopher ChuaⒸ
+Acute Triangle	1st	Closing Government	Ritabrata MitraⒸ , Rui Qin
+Capybara	2nd	Opening Opposition	Ritabrata MitraⒸ , Rui Qin
+NYP A	3rd	Closing Opposition	Ritabrata MitraⒸ , Rui Qin
+Shorties	4th	Opening Government	Ritabrata MitraⒸ , Rui Qin
+Tsukuba Sakuragumi	4th	Opening Government	Rahul DattaⒸ , Emily Guo
+A11	3rd	Closing Opposition	Rahul DattaⒸ , Emily Guo
+私のディベートは、心の叫びだから	1st	Opening Opposition	Rahul DattaⒸ , Emily Guo
+Suyasha and Ingrid	2nd	Closing Government	Rahul DattaⒸ , Emily Guo
+98470911	1st	Opening Opposition	Imran IlmamⒸ , Hinano Haraguchi
+HKPUEDC	2nd	Closing Opposition	Imran IlmamⒸ , Hinano Haraguchi
+Piano Fire	3rd	Opening Government	Imran IlmamⒸ , Hinano Haraguchi
+RIFP💔	4th	Closing Government	Imran IlmamⒸ , Hinano Haraguchi
+Dreamer	2nd	Opening Government	Tivlumun AlexanderⒸ , YvonneⓉ
+FROM ZERO	4th	Opening Opposition	Tivlumun AlexanderⒸ , YvonneⓉ
+Lakers	3rd	Closing Opposition	Tivlumun AlexanderⒸ , YvonneⓉ
+Oriental Alchemist	1st	Closing Government	Tivlumun AlexanderⒸ , YvonneⓉ
+Galaxy	1st	Opening Opposition	Ryosei KobayashiⒸ , Parmida, Cheong Ian TongⓉ
+We&#x27;ll break	2nd	Closing Opposition	Ryosei KobayashiⒸ , Parmida, Cheong Ian TongⓉ
+MUST A	3rd	Opening Government	Ryosei KobayashiⒸ , Parmida, Cheong Ian TongⓉ
+ABCD	4th	Closing Government	Ryosei KobayashiⒸ , Parmida, Cheong Ian TongⓉ
+6pc chickenjoy bucket	3rd	Opening Government	Issac KoⒸ , Kojo O. Acheampong , 吴晗宇 Wu HanyuⓉ
+Makapaka	2nd	Closing Government	Issac KoⒸ , Kojo O. Acheampong , 吴晗宇 Wu HanyuⓉ
+Singaporean Curry	1st	Opening Opposition	Issac KoⒸ , Kojo O. Acheampong , 吴晗宇 Wu HanyuⓉ
+Supervillain	4th	Closing Opposition	Issac KoⒸ , Kojo O. Acheampong , 吴晗宇 Wu HanyuⓉ
+MUST B	2nd	Closing Opposition	Prosper Michael AmetuⒸ , Zhou Man SIngⓉ
+Hiroshima A	4th	Closing Government	Prosper Michael AmetuⒸ , Zhou Man SIngⓉ
+Shieldmaidens	1st	Opening Opposition	Prosper Michael AmetuⒸ , Zhou Man SIngⓉ
+why do we have 2 whips?	3rd	Opening Government	Prosper Michael AmetuⒸ , Zhou Man SIngⓉ
+Danny in Penguinland	2nd	Opening Government	Mezen LababidiⒸ , Choy Sum Yee Evelyn
+Hume believed in Wifi Gods	1st	Closing Government	Mezen LababidiⒸ , Choy Sum Yee Evelyn
+Do you k ow Dr. Hong?	4th	Closing Opposition	Mezen LababidiⒸ , Choy Sum Yee Evelyn
+Swing 1	3rd	Opening Opposition	Mezen LababidiⒸ , Choy Sum Yee Evelyn
+Pina Colada	3rd	Closing Government	Prashasti SaxenaⒸ , Prajwal Gupta
+SLSquare	2nd	Opening Opposition	Prashasti SaxenaⒸ , Prajwal Gupta
+Splat on your toon	1st	Opening Government	Prashasti SaxenaⒸ , Prajwal Gupta
+RUC red	4th	Closing Opposition	Prashasti SaxenaⒸ , Prajwal Gupta
+Isabella Geri	1st	Closing Government	Ayafa TonyeⒸ , Danielle ChuaⓉ
+Little ET	4th	Opening Opposition	Ayafa TonyeⒸ , Danielle ChuaⓉ
+Sherrina	2nd	Closing Opposition	Ayafa TonyeⒸ , Danielle ChuaⓉ
+Samoye	3rd	Opening Government	Ayafa TonyeⒸ , Danielle ChuaⓉ
+LADY BOSSES	1st	Opening Opposition	Angellia GiovanniⒸ , Lorraine , Zhu ShuairongⓉ
+It cost nothing to be toxic	2nd	Closing Opposition	Angellia GiovanniⒸ , Lorraine , Zhu ShuairongⓉ
+who ate the nutella	4th	Closing Government	Angellia GiovanniⒸ , Lorraine , Zhu ShuairongⓉ
+Double Whammy	3rd	Opening Government	Angellia GiovanniⒸ , Lorraine , Zhu ShuairongⓉ
+AA Battery	1st	Closing Government	Clara Seoyoung KimⒸ , Rachel Cheong
+Ambiguity	3rd	Opening Opposition	Clara Seoyoung KimⒸ , Rachel Cheong
+FDI	4th	Closing Opposition	Clara Seoyoung KimⒸ , Rachel Cheong
+Hair Dye and Korean Girl	2nd	Opening Government	Clara Seoyoung KimⒸ , Rachel Cheong
+Busy Babies	1st	Closing Government	Leah MercierⒸ , Beauty Ariel Ben Yuwanto , FeliciaⓉ
+gcx	3rd	Opening Government	Leah MercierⒸ , Beauty Ariel Ben Yuwanto , FeliciaⓉ
+Nan-nan cooperation	4th	Closing Opposition	Leah MercierⒸ , Beauty Ariel Ben Yuwanto , FeliciaⓉ
+“The Swing that’s not a Swing”	2nd	Opening Opposition	Leah MercierⒸ , Beauty Ariel Ben Yuwanto , FeliciaⓉ
+Olive is my trigger	1st	Closing Opposition	Kotaro YoshidaⒸ , Christy
+The	4th	Closing Government	Kotaro YoshidaⒸ , Christy
+Beijing Domestic Studies University	3rd	Opening Opposition	Kotaro YoshidaⒸ , Christy
+Magnitude and Direction	2nd	Opening Government	Kotaro YoshidaⒸ , Christy
+Let&#x27;s not Iron	3rd	Closing Government	Bonfilio DazzleⒸ , Serena Xie
+NUBS = Novice University &amp; BP Speak	2nd	Opening Opposition	Bonfilio DazzleⒸ , Serena Xie
+Ateneo LG	1st	Closing Opposition	Bonfilio DazzleⒸ , Serena Xie
+If we lose, blame Yunhan	4th	Opening Government	Bonfilio DazzleⒸ , Serena Xie
+Crispy	3rd	Closing Opposition	Kimberly LopezⒸ , Ayushi Nasa , Wang BenⓉ
+Phenix Legend	1st	Opening Government	Kimberly LopezⒸ , Ayushi Nasa , Wang BenⓉ
+Irian	2nd	Opening Opposition	Kimberly LopezⒸ , Ayushi Nasa , Wang BenⓉ
+Redy	4th	Closing Government	Kimberly LopezⒸ , Ayushi Nasa , Wang BenⓉ
+
+
+team	result	side	adjudicators
+Hiroshima A	4th	Closing Opposition	Ritabrata MitraⒸ , Wangxinyi 王心怡Ⓣ
+I think you’re really cool	3rd	Opening Opposition	Ritabrata MitraⒸ , Wangxinyi 王心怡Ⓣ
+PLZ give us emphyrthy	2nd	Closing Government	Ritabrata MitraⒸ , Wangxinyi 王心怡Ⓣ
+Suyasha and Ingrid	1st	Opening Government	Ritabrata MitraⒸ , Wangxinyi 王心怡Ⓣ
+Hair Dye and Korean Girl	3rd	Closing Government	Naama Benamy SchoneveldⒸ , Parmida, Cheong Ian TongⓉ
+NYP A	4th	Opening Opposition	Naama Benamy SchoneveldⒸ , Parmida, Cheong Ian TongⓉ
+Oriental Alchemist	1st	Opening Government	Naama Benamy SchoneveldⒸ , Parmida, Cheong Ian TongⓉ
+Supervillain	2nd	Closing Opposition	Naama Benamy SchoneveldⒸ , Parmida, Cheong Ian TongⓉ
+Isabella Geri	2nd	Opening Government	Clara Seoyoung KimⒸ , 吴晗宇 Wu HanyuⓉ
+SLSquare	3rd	Closing Government	Clara Seoyoung KimⒸ , 吴晗宇 Wu HanyuⓉ
+Tsukuba Sakuragumi	4th	Closing Opposition	Clara Seoyoung KimⒸ , 吴晗宇 Wu HanyuⓉ
+Nick &amp; Amelia	1st	Opening Opposition	Clara Seoyoung KimⒸ , 吴晗宇 Wu HanyuⓉ
+baby samuel	2nd	Closing Government	Adel Mostaque AhmedⒸ , Zhu Shuairong
+RIFP💔	4th	Closing Opposition	Adel Mostaque AhmedⒸ , Zhu Shuairong
+Shorties	1st	Opening Government	Adel Mostaque AhmedⒸ , Zhu Shuairong
+We&#x27;ll break	3rd	Opening Opposition	Adel Mostaque AhmedⒸ , Zhu Shuairong
+Crispy	2nd	Closing Government	Ayafa TonyeⒸ , Zhou Man SIng
+Galaxy	4th	Closing Opposition	Ayafa TonyeⒸ , Zhou Man SIng
+Just kidding	1st	Opening Government	Ayafa TonyeⒸ , Zhou Man SIng
+Irian	3rd	Opening Opposition	Ayafa TonyeⒸ , Zhou Man SIng
+Chaos	3rd	Opening Opposition	Issac KoⒸ , Rui Qin
+Nazy	1st	Closing Government	Issac KoⒸ , Rui Qin
+Splat on your toon	2nd	Opening Government	Issac KoⒸ , Rui Qin
+The	4th	Closing Opposition	Issac KoⒸ , Rui Qin
+Nan-nan cooperation	3rd	Opening Government	Kimberly LopezⒸ , Yuya Kagazume
+Rusty F***heads	2nd	Opening Opposition	Kimberly LopezⒸ , Yuya Kagazume
+why do we have 2 whips?	4th	Closing Government	Kimberly LopezⒸ , Yuya Kagazume
+Double Whammy	1st	Closing Opposition	Kimberly LopezⒸ , Yuya Kagazume
+6pc chickenjoy bucket	4th	Closing Opposition	Beauty Ariel Ben YuwantoⒸ , Wang BenⓉ
+Makapaka	2nd	Opening Government	Beauty Ariel Ben YuwantoⒸ , Wang BenⓉ
+Do you k ow Dr. Hong?	1st	Closing Government	Beauty Ariel Ben YuwantoⒸ , Wang BenⓉ
+Beijing Domestic Studies University	3rd	Opening Opposition	Beauty Ariel Ben YuwantoⒸ , Wang BenⓉ
+Acute Triangle	1st	Closing Government	Youngwoo ParkⒸ , Hong ‘Chloe’ Shiming
+gcx	3rd	Closing Opposition	Youngwoo ParkⒸ , Hong ‘Chloe’ Shiming
+It cost nothing to be toxic	2nd	Opening Opposition	Youngwoo ParkⒸ , Hong ‘Chloe’ Shiming
+NUBS = Novice University &amp; BP Speak	4th	Opening Government	Youngwoo ParkⒸ , Hong ‘Chloe’ Shiming
+Hume believed in Wifi Gods	3rd	Opening Government	Bonfilio DazzleⒸ
+Shanghai Starriver Bilingual School	2nd	Opening Opposition	Bonfilio DazzleⒸ
+ADMU VY	4th	Closing Government	Bonfilio DazzleⒸ
+Ateneo LG	1st	Closing Opposition	Bonfilio DazzleⒸ
+Busy Babies	3rd	Closing Opposition	Daud Hernoud LoudoeⒸ , Jean Atong
+Danny in Penguinland	4th	Closing Government	Daud Hernoud LoudoeⒸ , Jean Atong
+Olive is my trigger	2nd	Opening Opposition	Daud Hernoud LoudoeⒸ , Jean Atong
+Swing 1	1st	Opening Government	Daud Hernoud LoudoeⒸ , Jean Atong
+Shieldmaidens	3rd	Opening Government	Mezen LababidiⒸ , Rachel Cheong
+Singaporean Curry	1st	Closing Government	Mezen LababidiⒸ , Rachel Cheong
+fairy mother	4th	Closing Opposition	Mezen LababidiⒸ , Rachel Cheong
+Magnitude and Direction	2nd	Opening Opposition	Mezen LababidiⒸ , Rachel Cheong
+Braille	1st	Closing Government	Leonardus Hans SebastianⒸ
+forever winter	4th	Closing Opposition	Leonardus Hans SebastianⒸ
+LADY BOSSES	3rd	Opening Government	Leonardus Hans SebastianⒸ
+Let&#x27;s not Iron	2nd	Opening Opposition	Leonardus Hans SebastianⒸ
+MUST B	3rd	Closing Opposition	Imran IlmamⒸ , Emily Guo , Jillian Wang
+The delulus	4th	Closing Government	Imran IlmamⒸ , Emily Guo , Jillian Wang
+Chengdu flowers	1st	Opening Opposition	Imran IlmamⒸ , Emily Guo , Jillian Wang
+“The Swing that’s not a Swing”	2nd	Opening Government	Imran IlmamⒸ , Emily Guo , Jillian Wang
+HKPUEDC	1st	Opening Government	Angellia GiovanniⒸ
+Noor and Karina	2nd	Closing Government	Angellia GiovanniⒸ
+PTSD	3rd	Closing Opposition	Angellia GiovanniⒸ
+A11	4th	Opening Opposition	Angellia GiovanniⒸ
+Ambiguity	1st	Closing Government	Rahul DattaⒸ
+Emotionally Never Available	2nd	Opening Government	Rahul DattaⒸ
+Piano Fire	3rd	Opening Opposition	Rahul DattaⒸ
+Pina Colada	4th	Closing Opposition	Rahul DattaⒸ
+FDI	3rd	Closing Government	Kojo O. AcheampongⒸ
+Lakers	4th	Closing Opposition	Kojo O. AcheampongⒸ
+Redy	1st	Opening Government	Kojo O. AcheampongⒸ
+RUC red	2nd	Opening Opposition	Kojo O. AcheampongⒸ
+Little ET	4th	Closing Government	Tivlumun AlexanderⒸ
+Samoye	3rd	Opening Opposition	Tivlumun AlexanderⒸ
+Swing 2	2nd	Opening Government	Tivlumun AlexanderⒸ
+Swing 3	1st	Closing Opposition	Tivlumun AlexanderⒸ
+Capybara	2nd	Closing Government	Christopher ChuaⒸ , Jodel Avenis , LorraineⓉ
+Phenix Legend	3rd	Opening Opposition	Christopher ChuaⒸ , Jodel Avenis , LorraineⓉ
+who ate the nutella	1st	Opening Government	Christopher ChuaⒸ , Jodel Avenis , LorraineⓉ
+If we lose, blame Yunhan	4th	Closing Opposition	Christopher ChuaⒸ , Jodel Avenis , LorraineⓉ
+FROM ZERO	1st	Closing Government	Ayushi NasaⒸ
+Sherrina	4th	Opening Opposition	Ayushi NasaⒸ
+MUST A	3rd	Closing Opposition	Ayushi NasaⒸ
+ABCD	2nd	Opening Government	Ayushi NasaⒸ
+AA Battery	1st	Opening Opposition	Prosper Michael AmetuⒸ , YvonneⓉ
+Bubble Tea	2nd	Opening Government	Prosper Michael AmetuⒸ , YvonneⓉ
+私のディベートは、心の叫びだから	4th	Closing Opposition	Prosper Michael AmetuⒸ , YvonneⓉ
+（M）Wocao	3rd	Closing Government	Prosper Michael AmetuⒸ , YvonneⓉ
+
+
+team	result	side	adjudicators
+Acute Triangle	eliminated	Opening Government	Leonardus Hans SebastianⒸ , Leah Mercier , Mezen Lababidi
+Braille	advancing	Closing Opposition	Leonardus Hans SebastianⒸ , Leah Mercier , Mezen Lababidi
+Let&#x27;s not Iron	advancing	Opening Opposition	Leonardus Hans SebastianⒸ , Leah Mercier , Mezen Lababidi
+ADMU VY	eliminated	Closing Government	Leonardus Hans SebastianⒸ , Leah Mercier , Mezen Lababidi
+Singaporean Curry	eliminated	Closing Opposition	Ritabrata MitraⒸ , Angellia Giovanni , Erasmus Segbefia
+Ateneo LG	advancing	Opening Opposition	Ritabrata MitraⒸ , Angellia Giovanni , Erasmus Segbefia
+Chengdu flowers	advancing	Opening Government	Ritabrata MitraⒸ , Angellia Giovanni , Erasmus Segbefia
+“The Swing that’s not a Swing”	eliminated	Closing Government	Ritabrata MitraⒸ , Angellia Giovanni , Erasmus Segbefia
+Busy Babies	eliminated	Opening Opposition	Issac KoⒸ , Jean Atong , Ryosei Kobayashi
+Olive is my trigger	advancing	Opening Government	Issac KoⒸ , Jean Atong , Ryosei Kobayashi
+Shanghai Starriver Bilingual School	advancing	Closing Government	Issac KoⒸ , Jean Atong , Ryosei Kobayashi
+Magnitude and Direction	eliminated	Closing Opposition	Issac KoⒸ , Jean Atong , Ryosei Kobayashi
+Hume believed in Wifi Gods	advancing	Closing Government	Beauty Ariel Ben YuwantoⒸ , Imran Ilmam , Youngwoo Park
+Do you k ow Dr. Hong?	advancing	Opening Government	Beauty Ariel Ben YuwantoⒸ , Imran Ilmam , Youngwoo Park
+Double Whammy	eliminated	Closing Opposition	Beauty Ariel Ben YuwantoⒸ , Imran Ilmam , Youngwoo Park
+Swing 1	eliminated	Opening Opposition	Beauty Ariel Ben YuwantoⒸ , Imran Ilmam , Youngwoo Park
+
+
+team	result	side	adjudicators
+Braille	advancing	Opening Opposition	Leonardus Hans SebastianⒸ , Beauty Ariel Ben Yuwanto , Clara Seoyoung Kim , Youngwoo Park , Yuya Kagazume
+Let&#x27;s not Iron	eliminated	Opening Government	Leonardus Hans SebastianⒸ , Beauty Ariel Ben Yuwanto , Clara Seoyoung Kim , Youngwoo Park , Yuya Kagazume
+Ateneo LG	eliminated	Closing Government	Leonardus Hans SebastianⒸ , Beauty Ariel Ben Yuwanto , Clara Seoyoung Kim , Youngwoo Park , Yuya Kagazume
+Chengdu flowers	advancing	Closing Opposition	Leonardus Hans SebastianⒸ , Beauty Ariel Ben Yuwanto , Clara Seoyoung Kim , Youngwoo Park , Yuya Kagazume
+Hume believed in Wifi Gods	eliminated	Closing Opposition	Prosper Michael AmetuⒸ , Daud Hernoud Loudoe , Erasmus Segbefia , Jean Atong , Ryosei Kobayashi
+Olive is my trigger	advancing	Closing Government	Prosper Michael AmetuⒸ , Daud Hernoud Loudoe , Erasmus Segbefia , Jean Atong , Ryosei Kobayashi
+Shanghai Starriver Bilingual School	advancing	Opening Opposition	Prosper Michael AmetuⒸ , Daud Hernoud Loudoe , Erasmus Segbefia , Jean Atong , Ryosei Kobayashi
+Do you k ow Dr. Hong?	eliminated	Opening Government	Prosper Michael AmetuⒸ , Daud Hernoud Loudoe , Erasmus Segbefia , Jean Atong , Ryosei Kobayashi
+
+
+team	result	side	adjudicators
+Braille	eliminated	Opening Opposition	Issac KoⒸ , Beauty Ariel Ben Yuwanto , Daud Hernoud Loudoe , Jean Atong , Kimberly Lopez , Mezen Lababidi , Prosper Michael Ametu
+Olive is my trigger	eliminated	Opening Government	Issac KoⒸ , Beauty Ariel Ben Yuwanto , Daud Hernoud Loudoe , Jean Atong , Kimberly Lopez , Mezen Lababidi , Prosper Michael Ametu
+Shanghai Starriver Bilingual School	advancing	Closing Government	Issac KoⒸ , Beauty Ariel Ben Yuwanto , Daud Hernoud Loudoe , Jean Atong , Kimberly Lopez , Mezen Lababidi , Prosper Michael Ametu
+Chengdu flowers	eliminated	Closing Opposition	Issac KoⒸ , Beauty Ariel Ben Yuwanto , Daud Hernoud Loudoe , Jean Atong , Kimberly Lopez , Mezen Lababidi , Prosper Michael Ametu
+
+
+team	result	side	adjudicators
+Just kidding	eliminated	Opening Government	Adel Mostaque AhmedⒸ , Ayushi Nasa , Clara Seoyoung Kim , Rahul Datta , Yuya Kagazume
+Makapaka	eliminated	Closing Government	Adel Mostaque AhmedⒸ , Ayushi Nasa , Clara Seoyoung Kim , Rahul Datta , Yuya Kagazume
+NUBS = Novice University &amp; BP Speak	advancing	Closing Opposition	Adel Mostaque AhmedⒸ , Ayushi Nasa , Clara Seoyoung Kim , Rahul Datta , Yuya Kagazume
+Suyasha and Ingrid	advancing	Opening Opposition	Adel Mostaque AhmedⒸ , Ayushi Nasa , Clara Seoyoung Kim , Rahul Datta , Yuya Kagazume
+AA Battery	advancing	Opening Opposition	Christopher ChuaⒸ , Ayafa Tonye , Jagad Al Ula , Kojo O. Acheampong , Rachel Cheong
+forever winter	advancing	Closing Opposition	Christopher ChuaⒸ , Ayafa Tonye , Jagad Al Ula , Kojo O. Acheampong , Rachel Cheong
+Shieldmaidens	eliminated	Closing Government	Christopher ChuaⒸ , Ayafa Tonye , Jagad Al Ula , Kojo O. Acheampong , Rachel Cheong
+The delulus	eliminated	Opening Government	Christopher ChuaⒸ , Ayafa Tonye , Jagad Al Ula , Kojo O. Acheampong , Rachel Cheong
+
+
+team	result	side	adjudicators
+AA Battery	eliminated	Opening Opposition	Mezen LababidiⒸ , Adel Mostaque Ahmed , Angellia Giovanni , Imran Ilmam , Issac Ko , Kimberly Lopez , Ritabrata Mitra
+forever winter	eliminated	Closing Government	Mezen LababidiⒸ , Adel Mostaque Ahmed , Angellia Giovanni , Imran Ilmam , Issac Ko , Kimberly Lopez , Ritabrata Mitra
+NUBS = Novice University &amp; BP Speak	advancing	Opening Government	Mezen LababidiⒸ , Adel Mostaque Ahmed , Angellia Giovanni , Imran Ilmam , Issac Ko , Kimberly Lopez , Ritabrata Mitra
+Suyasha and Ingrid	eliminated	Closing Opposition	Mezen LababidiⒸ , Adel Mostaque Ahmed , Angellia Giovanni , Imran Ilmam , Issac Ko , Kimberly Lopez , Ritabrata Mitra
+

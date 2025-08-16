@@ -1,0 +1,817 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds	DS
+1	Mat Sushi My Mommy		1st	1st	1st	1st	1st	15	807	5	0	142
+2	She finally said yes (to a tourname		1st	1st	1st	2nd	2nd	13	794	3	2	151
+3	Shinhan bank		3rd	1st	1st	2nd	1st	12	791	3	1	120
+4	Two Chinitos eating Piattos		1st	4th	1st	1st	1st	12	776	4	0	128
+5	5 AM STICKY BALLS SLURPIES 🧋		1st	2nd	1st	3rd	2nd	11	789	2	2	145
+6	UPD u down for a halfie tonight?		1st	3rd	1st	1st	3rd	11	787	3	0	131
+7	Watching the Sandcastle Crumble		1st	1st	3rd	3rd	1st	11	773	3	0	149
+8	THP the left sock to the right sock		1st	3rd	2nd	1st	2nd	11	773	2	2	144
+9	Spicy G	Schools	1st	1st	4th	2nd	1st	11	771	3	1	128
+10	ZFLS &amp; NFLS, from PKU to Macau		3rd	1st	2nd	2nd	1st	11	767	2	2	125
+11	Captain Bailey&#x27;s Bizarre Babygworls		1st	2nd	2nd	2nd	3rd	10	781	1	3	127
+12	MUST MUST’s worst		2nd	1st	2nd	1st	4th	10	779	2	2	133
+13	I&#x27;ve Debated this Motion Before	Schools	2nd	1st	3rd	1st	3rd	10	775	2	1	135
+14	Anti-hero	Schools	3rd	1st	3rd	2nd	1st	10	773	2	1	118
+15	MWS white peach oolong from chagee	Schools	1st	3rd	1st	1st	4th	10	772	3	0	144
+16	Dialogy Toni Morrison	Schools	3rd	2nd	2nd	1st	2nd	10	772	1	3	120
+17	CUHKSZ Dhakdnusbkal		2nd	2nd	3rd	1st	2nd	10	769	1	3	127
+18	Atlantis A		1st	3rd	2nd	2nd	2nd	10	769	1	3	125
+19	Surella		2nd	2nd	3rd	2nd	1st	10	762	1	3	109
+20	SYSU Snake or snack		3rd	2nd	1st	3rd	1st	10	760	2	1	108
+21	White Chocolate	Novice, Schools	2nd	1st	2nd	2nd	4th	9	778	1	3	142
+22	HKU Mothers		2nd	2nd	1st	3rd	3rd	9	773	1	2	133
+23	Zhejiang Fried Sauce Lightbox		2nd	1st	1st	4th	3rd	9	772	2	1	145
+24	Haven’t debated for so long		4th	1st	2nd	1st	3rd	9	772	2	1	125
+25	Lodge Lodge Debate Society	Schools	1st	2nd	3rd	4th	1st	9	771	2	1	129
+26	Twenty		1st	2nd	2nd	4th	2nd	9	770	1	3	140
+27	CS		1st	3rd	2nd	4th	1st	9	768	2	1	117
+28	Delay No More		1st	3rd	4th	2nd	1st	9	766	2	1	121
+29	Seth		2nd	1st	3rd	4th	1st	9	763	2	1	124
+30	CFAU 对对对你说的队 Yes Yes Yes You are Correct	Novice	3rd	2nd	3rd	1st	2nd	9	759	1	2	112
+31	BFSU Dynamo	Novice	2nd	2nd	1st	3rd	4th	8	782	1	2	142
+32	Our partner is working on her paper		1st	4th	3rd	1st	3rd	8	768	2	0	115
+33	Airwing		3rd	1st	4th	2nd	2nd	8	765	1	2	109
+34	BFSU AR	Novice	3rd	1st	4th	2nd	2nd	8	763	1	2	112
+35	UM Thank you David for making this hap		1st	2nd	4th	4th	1st	8	760	2	1	118
+36	CityU Macau A&amp;S		4th	2nd	2nd	1st	3rd	8	755	1	2	94
+37	BFSU Treeva	Novice	2nd	3rd	4th	1st	2nd	8	753	1	2	108
+38	BFSU Florina	Novice	2nd	3rd	2nd	1st	4th	8	752	1	2	115
+39	SYSU I cannot tell between nine and nein		2nd	4th	1st	4th	1st	8	751	2	1	103
+40	Macau PolyU UPM		4th	1st	2nd	3rd	2nd	8	750	1	2	106
+41	Swing 1		4th	1st	4th	1st	2nd	8	749	2	1	97
+42	CFAU JanFeb Elite	Novice	2nd	3rd	3rd	1st	3rd	8	749	1	1	114
+43	CFAU 乐高 Lego	Novice	3rd	3rd	1st	4th	1st	8	747	2	0	102
+44	UM Random Team Name		1st	1st	4th	3rd	4th	7	771	2	0	135
+45	Swing 2		2nd	2nd	4th	4th	1st	7	764	1	2	123
+46	SYSU BE COMPARATIVE		1st	4th	3rd	3rd	2nd	7	758	1	1	115
+47	Broke Girls		4th	2nd	1st	2nd	4th	7	754	1	2	110
+48	SYSU November Rain		4th	1st	3rd	3rd	2nd	7	752	1	1	103
+49	BFSU Volcanos	Novice	4th	4th	1st	1st	3rd	7	751	2	0	89
+50	Bravo	Novice, Schools	3rd	4th	1st	4th	1st	7	748	2	0	102
+51	BFSU AFfi	Novice	3rd	3rd	2nd	2nd	3rd	7	748	0	2	98
+52	LC	Novice, Schools	1st	4th	1st	4th	3rd	7	747	2	0	114
+53	xy	Novice	4th	3rd	3rd	1st	2nd	7	736	1	1	82
+54	Swing 3		2nd	1st	4th	2nd	—	7	604	1	2	91
+55	Chittagong A	Novice	—	3rd	1st	2nd	3rd	7	600	1	1	70
+56	SYSU Phoenix		2nd	4th	1st	3rd	4th	6	758	1	1	115
+57	Code	Novice	2nd	3rd	2nd	3rd	4th	6	758	0	2	111
+58	Pui Ching Bananna	Novice, Schools	2nd	2nd	4th	4th	2nd	6	751	0	3	103
+59	CUHKSZ Geeks	Novice	2nd	3rd	2nd	3rd	4th	6	751	0	2	109
+60	NU Forever Debatable		4th	1st	1st	4th	4th	6	748	2	0	120
+61	BFSU Wild Lions	Novice	3rd	3rd	1st	3rd	4th	6	748	1	0	100
+62	SYSU Love what you love	Novice	3rd	4th	4th	1st	2nd	6	747	1	1	88
+63	MUST plz wake up		3rd	4th	2nd	2nd	3rd	6	747	0	2	99
+64	BFSU Twilight	Novice	1st	4th	4th	2nd	3rd	6	742	1	1	112
+65	Wonder	Novice, Schools	4th	4th	2nd	3rd	1st	6	740	1	1	86
+66	BFSU brat	Novice	2nd	4th	3rd	4th	1st	6	738	1	1	88
+67	PKUSZ Purple People Purple Heart		2nd	4th	3rd	1st	—	6	600	1	1	87
+68	Jareds		4th	1st	3rd	4th	3rd	5	749	1	0	108
+69	Nankai C&amp;T	Novice	3rd	2nd	4th	2nd	4th	5	749	0	2	109
+70	Watch out Taro		2nd	4th	3rd	4th	2nd	5	748	0	2	94
+71	Hard Black	Novice	3rd	3rd	2nd	3rd	4th	5	746	0	1	104
+72	BATTER UP!!!		4th	2nd	4th	2nd	3rd	5	742	0	2	86
+73	MUST plzletuswon	Novice	3rd	2nd	4th	4th	2nd	5	736	0	2	93
+74	MUST Annpower	Novice	4th	4th	2nd	1st	4th	5	735	1	1	76
+75	GGJJ	Novice	4th	2nd	2nd	3rd	4th	5	733	0	2	92
+76	Sleep Deprived		1st	4th	3rd	3rd	—	5	614	1	0	108
+77	UM black tea dumpling	Novice	3rd	4th	1st	4th	4th	4	744	1	0	94
+78	BFSU YOLO	Novice	3rd	4th	4th	2nd	3rd	4	744	0	1	85
+79	UM We haven’t debated for a while	Novice	4th	2nd	3rd	3rd	4th	4	741	0	1	98
+80	CUHKSZ Supernova	Novice	4th	3rd	2nd	4th	3rd	4	738	0	1	84
+81	叶如雨 Leaves Falling Like Rain		3rd	4th	4th	4th	1st	4	733	1	0	81
+82	CAFUC 1	Novice	3rd	3rd	4th	3rd	3rd	4	730	0	0	93
+83	UM Alef and Jocelyn	Novice	4th	3rd	3rd	2nd	—	4	589	0	1	69
+84	Huaxia π team	Novice	4th	4th	3rd	3rd	3rd	3	741	0	0	77
+85	MUST Bet On Me	Novice	3rd	3rd	4th	3rd	4th	3	735	0	0	100
+86	Clement &amp; Cruz	Novice, Schools	—	3rd	3rd	3rd	4th	3	589	0	0	62
+87	Pui Ching Stay and Moa	Novice, Schools	4th	4th	4th	4th	2nd	2	739	0	1	87
+88	Pui Ching Jazdé	Novice, Schools	4th	2nd	4th	4th	4th	2	734	0	1	80
+89	Defying Gravity		4th	—	—	—	—	0	150	0	0	21
+90	Swing 4		4th	—	—	—	—	0	146	0	0	31
+91=	OMNHS+ASHS = W+Ratio	Schools	—	—	—	—	—	—	—	0	0	0
+91=	SolBridge 1	Novice	—	—	—	—	—	—	—	0	0	0
+91=	Dolphins🐬	Novice, Schools	—	—	—	—	—	—	—	0	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Youngwoo Park		Mat Sushi My Mommy	80	80	81	83	81	405	81.00	1.10
+2	Sunghyun Park		Mat Sushi My Mommy	80	81	80	81	80	402	80.40	0.49
+3	Ray Wang		She finally said yes (to a tourname	79	80	80	81	80	400	80.00	0.63
+4=	Thea Madrilejo		UPD u down for a halfie tonight?	78	79	79	81	79	396	79.20	0.98
+4=	Shinrhee Lee		Shinhan bank	76	80	79	80	81	396	79.20	1.72
+6=	Daud Hernoud		5 AM STICKY BALLS SLURPIES 🧋	78	79	79	79	80	395	79.00	0.63
+6=	Seungjae Han		Shinhan bank	77	80	78	79	81	395	79.00	1.41
+8=	Nina Zeng		She finally said yes (to a tourname	78	79	78	80	79	394	78.80	0.75
+8=	Jonathan Tuliao		5 AM STICKY BALLS SLURPIES 🧋	78	79	78	79	80	394	78.80	0.75
+10	Sunny 郎思敏	Novice	BFSU Dynamo	77	80	80	78	78	393	78.60	1.20
+11=	Oliver Zhou		MUST MUST’s worst	78	78	77	80	78	391	78.20	0.98
+11=	Christopher Chua		Two Chinitos eating Piattos	80	76	78	77	80	391	78.20	1.60
+11=	Keshav Rai Bramhabhatt		Captain Bailey&#x27;s Bizarre Babygworls	79	80	76	79	77	391	78.20	1.47
+11=	Carlo Recio		UPD u down for a halfie tonight?	78	79	77	79	78	391	78.20	0.75
+15=	Yuhyeok Han		Watching the Sandcastle Crumble	79	79	76	77	79	390	78.00	1.26
+15=	Linh Đặng-Hoàng		THP the left sock to the right sock	78	77	78	78	79	390	78.00	0.63
+17=	Demi 彭镜霓	Novice	BFSU Dynamo	76	79	79	78	77	389	77.80	1.17
+17=	Joshua Lim	Novice, School	White Chocolate	77	81	77	78	76	389	77.80	1.72
+17=	Chew Xure	Novice, School	White Chocolate	78	81	77	76	77	389	77.80	1.72
+20=	Zha Jianing 查嘉宁		Zhejiang Fried Sauce Lightbox	77	79	77	78	77	388	77.60	0.80
+20=	Ethel Song		MUST MUST’s worst	77	77	78	79	77	388	77.60	0.80
+20=	Owen Chong	School	I&#x27;ve Debated this Motion Before	78	78	76	78	78	388	77.60	0.80
+20=	Priyanka Gunalan	School	MWS white peach oolong from chagee	77	77	78	79	77	388	77.60	0.80
+24=	Aaron Wang		ZFLS &amp; NFLS, from PKU to Macau	77	78	78	76	78	387	77.40	0.80
+24=	CongCong Zhao	School	Anti-hero	77	78	78	76	78	387	77.40	0.80
+24=	Hanyu Wang		UM Random Team Name	78	81	76	76	76	387	77.40	1.96
+24=	Jayden Ooi	School	I&#x27;ve Debated this Motion Before	77	77	76	78	79	387	77.40	1.02
+24=	Harah Jeon		Twenty	78	78	77	77	77	387	77.40	0.49
+24=	Iby Yip		HKU Mothers	77	76	78	77	79	387	77.40	1.02
+30=	Guo Peng	School	Anti-hero	76	77	78	77	78	386	77.20	0.75
+30=	Karin Chow	School	Dialogy Toni Morrison	76	78	79	77	76	386	77.20	1.17
+30=	Ivy Li	School	Dialogy Toni Morrison	75	77	79	77	78	386	77.20	1.33
+30=	Mandy Cui		Haven’t debated for so long	75	78	77	79	77	386	77.20	1.33
+30=	Ziyu Yang		Haven’t debated for so long	76	78	77	79	76	386	77.20	1.17
+30=	Cynthia Yu	School	Spicy G	77	78	75	75	81	386	77.20	2.23
+30=	Natasha Ho		HKU Mothers	77	75	78	78	78	386	77.20	1.17
+30=	Olive Yao		CUHKSZ Dhakdnusbkal	76	75	77	78	80	386	77.20	1.72
+30=	Kelvin Ang Ka Loke	School	Lodge Lodge Debate Society	76	78	77	76	79	386	77.20	1.17
+39=	Mia Cui		Atlantis A	76	78	78	76	77	385	77.00	0.89
+39=	Richelle Liu		CS	77	77	77	74	80	385	77.00	1.90
+39=	Eyedi Wen		Our partner is working on her paper	77	78	76	77	77	385	77.00	0.63
+39=	Andrew Lim		Delay No More	79	77	73	76	80	385	77.00	2.45
+39=	Christina Zhang	School	Spicy G	78	77	75	76	79	385	77.00	1.41
+39=	Jinhai		Two Chinitos eating Piattos	78	76	77	76	78	385	77.00	0.89
+39=	Keagan Chang Liang Je	School	Lodge Lodge Debate Society	77	79	76	74	79	385	77.00	1.90
+46=	Zephyr		Atlantis A	76	78	77	76	77	384	76.80	0.75
+46=	Zhu Qingyang 朱清扬	Novice	Zhejiang Fried Sauce Lightbox	78	77	76	77	76	384	76.80	0.75
+46=	Shuairong Zhu		UM Random Team Name	77	82	74	75	76	384	76.80	2.79
+46=	Cheryl Chan	School	MWS white peach oolong from chagee	77	77	78	77	75	384	76.80	0.98
+50=	Bella Wu		Surella	76	76	75	78	78	383	76.60	1.20
+50=	Awen		Airwing	74	76	77	77	79	383	76.60	1.62
+50=	周熙宸 Xichen Zhou	Novice, School	CS	78	76	76	74	79	383	76.60	1.74
+50=	Ray Yang		Our partner is working on her paper	76	78	77	77	75	383	76.60	1.02
+50=	吴凌静 Lingjing Wu		Seth	77	76	76	77	77	383	76.60	0.49
+50=	Sihyun Park	Novice, School	Twenty	77	77	77	75	77	383	76.60	0.80
+50=	Jimin Song		Watching the Sandcastle Crumble	78	78	76	74	77	383	76.60	1.50
+50=	Gem Liu		CUHKSZ Dhakdnusbkal	76	76	76	77	78	383	76.60	0.80
+58=	Irene		Airwing	75	76	76	76	79	382	76.40	1.36
+58=	Amber	Novice	BFSU AR	75	79	75	75	78	382	76.40	1.74
+58=	Speaker 1		Swing 2	77	77	76	76	76	382	76.40	0.49
+58=	Speaker 2		Swing 2	77	78	75	75	77	382	76.40	1.20
+62=	Jinjutha (Eve) Liangwatthanakol		UM Thank you David for making this hap	76	77	75	77	76	381	76.20	0.75
+62=	Li Jiayi		SYSU Phoenix	76	75	79	75	76	381	76.20	1.47
+62=	Rita	Novice	BFSU AR	75	78	75	75	78	381	76.20	1.47
+62=	Anony Huang		Delay No More	76	76	73	76	80	381	76.20	2.23
+66=	Mindy Sun		ZFLS &amp; NFLS, from PKU to Macau	75	76	76	76	77	380	76.00	0.63
+66=	徐颜钰 Yanyu Xu	Novice	CFAU 对对对你说的队 Yes Yes Yes You are Correct	74	76	76	77	77	380	76.00	1.10
+66=	徐咏彤 Yongtong Xu		SYSU Snake or snack	74	74	78	75	79	380	76.00	2.10
+66=	张小艺 Xiaoyi Zhang		SYSU Snake or snack	74	75	77	76	78	380	76.00	1.41
+66=	Li Danran	Novice	Code	77	76	75	77	75	380	76.00	0.89
+66=	阮心妍 Xinyan Ruan		Seth	76	76	75	76	77	380	76.00	0.63
+72=	Suri Shang		Surella	77	74	73	78	77	379	75.80	1.94
+72=	常晏子 Yanzi Chang	Novice	CFAU 对对对你说的队 Yes Yes Yes You are Correct	75	75	76	77	76	379	75.80	0.75
+72=	Usee Zhang		UM Thank you David for making this hap	77	77	75	75	75	379	75.80	0.98
+72=	Qiu Tong		SYSU BE COMPARATIVE	76	76	75	76	76	379	75.80	0.40
+72=	Schlabach Joseph P		SYSU BE COMPARATIVE	74	77	76	76	76	379	75.80	0.98
+77=	Tree	Novice	BFSU Treeva	75	76	75	75	77	378	75.60	0.80
+77=	Louis Yi 易俊豪		Broke Girls	74	76	76	77	75	378	75.60	1.02
+77=	Wang Ziyang	Novice	Code	76	76	75	76	75	378	75.60	0.49
+77=	刘籽萱 Zixuan Liu		CityU Macau A&amp;S	73	77	76	75	77	378	75.60	1.50
+81=	Ou Qikai		SYSU Phoenix	75	74	79	73	76	377	75.40	2.06
+81=	Abraham J. Mo		SYSU November Rain	76	78	73	75	75	377	75.40	1.62
+81=	吴烨桐 Yetong Wu		CityU Macau A&amp;S	73	77	76	75	76	377	75.40	1.36
+84=	张柏翎 Jessie		Jareds	73	77	76	74	76	376	75.20	1.47
+84=	张祎越 Lindsey Zhang	Novice	CFAU JanFeb Elite	74	76	74	76	76	376	75.20	0.98
+84=	Joy	Novice	BFSU YOLO	76	75	74	77	74	376	75.20	1.17
+84=	Jiyang Wei / Florence	Novice	BFSU Florina	74	75	77	75	75	376	75.20	0.98
+84=	Yuxuan Yin / Alina	Novice	BFSU Florina	76	73	77	75	75	376	75.20	1.33
+84=	Cici	Novice	Nankai C&amp;T	74	76	76	73	77	376	75.20	1.47
+84=	刘一丹 Yidan Liu		SYSU I cannot tell between nine and nein	75	76	76	75	74	376	75.20	0.75
+84=	Guo Ana	Novice, School	Pui Ching Bananna	77	77	73	74	75	376	75.20	1.60
+84=	Ivy Wang		Watch out Taro	77	76	75	74	74	376	75.20	1.17
+84=	Joyce Li 李瞳		Broke Girls	75	74	76	76	75	376	75.20	0.75
+84=	黄湘茹 Echo	Novice	CUHKSZ Geeks	75	74	76	76	75	376	75.20	0.75
+84=	Charlotty	Novice	BFSU Volcanos	75	74	74	75	78	376	75.20	1.47
+84=	Kleven Jiawen Deng		Macau PolyU UPM	75	76	74	74	77	376	75.20	1.17
+97=	Cheng Athena Kan	Novice, School	Bravo	76	72	76	74	77	375	75.00	1.79
+97=	李晨溪 (Li Chenxi)	Novice, School	LC	77	75	76	71	76	375	75.00	2.10
+97=	Speaker 2		Swing 1	74	77	72	74	78	375	75.00	2.19
+97=	李佳惠 Jiahui Li	Novice	BFSU Wild Lions	76	74	77	74	74	375	75.00	1.26
+97=	Eva	Novice	BFSU Treeva	72	77	75	75	76	375	75.00	1.67
+97=	娄舫 Fang Lou		SYSU I cannot tell between nine and nein	75	76	75	76	73	375	75.00	1.10
+97=	Anne Chen	Novice	SYSU November Rain	76	78	73	74	74	375	75.00	1.79
+97=	YuanChen		NU Forever Debatable	76	76	74	73	76	375	75.00	1.26
+97=	Choy Si Ioi	Novice, School	Pui Ching Bananna	77	76	73	73	76	375	75.00	1.67
+97=	Ashley	Novice	BFSU AFfi	74	74	76	76	75	375	75.00	0.89
+97=	Icey	Novice	BFSU Volcanos	75	73	75	74	78	375	75.00	1.67
+108=	高薪媛 Xinyuan Gao	Novice	CFAU 乐高 Lego	74	74	77	72	77	374	74.80	1.94
+108=	Speaker 1		Swing 1	74	76	72	74	78	374	74.80	2.04
+108=	江璟怡 Jingyi Jiang	Novice	BFSU Twilight	78	75	75	73	73	374	74.80	1.83
+108=	Tiffany	Novice	UM black tea dumpling	75	75	76	74	74	374	74.80	0.75
+108=	姚雨馨 Yuxin Yao	Novice	SYSU Love what you love	73	73	74	78	76	374	74.80	1.94
+108=	陈辰 Cecilia	Novice	Hard Black	73	76	77	75	73	374	74.80	1.60
+108=	Erin		MUST plz wake up	77	74	76	73	74	374	74.80	1.47
+108=	Randy Zhiyu He		Macau PolyU UPM	74	75	73	76	76	374	74.80	1.17
+116=	Wang Yuqing Clark	Novice, School	Bravo	76	72	76	74	75	373	74.60	1.50
+116=	李莹璐 Rachel		Jareds	72	76	76	74	75	373	74.60	1.50
+116=	黄乐轩 Lexuan Huang	Novice	CFAU 乐高 Lego	72	75	76	72	78	373	74.60	2.33
+116=	陈彦汐 Cherry Chen	Novice	CFAU JanFeb Elite	73	74	75	75	76	373	74.60	1.02
+116=	李曜弛 Yaochi Li	Novice	BFSU Wild Lions	75	74	76	74	74	373	74.60	0.80
+116=	Tracy	Novice	Nankai C&amp;T	73	74	75	73	78	373	74.60	1.85
+116=	王子彤 Zitong Wang	Novice	SYSU Love what you love	73	74	75	77	74	373	74.60	1.36
+116=	Rik		NU Forever Debatable	75	76	74	73	75	373	74.60	1.02
+116=	Felicia	Novice	BFSU AFfi	73	75	75	76	74	373	74.60	1.02
+116=	Kristen		MUST plz wake up	76	74	75	74	74	373	74.60	0.80
+126=	Yehlii bao		BATTER UP!!!	73	78	76	70	75	372	74.40	2.73
+126=	陈泰然 (Chen Tairan)	Novice, School	LC	75	75	77	70	75	372	74.40	2.33
+126=	Lam Iok Hou	Novice, School	Pui Ching Stay and Moa	73	75	73	74	77	372	74.40	1.50
+126=	晏梓青 Skippy	Novice	Hard Black	72	75	77	74	74	372	74.40	1.62
+126=	Sua Luo		Watch out Taro	75	75	74	74	74	372	74.40	0.49
+131=	韩铱文 Yiwen Han	Novice, School	Wonder	75	74	75	72	75	371	74.20	1.17
+131=	袁梦 Lareina	Novice	Huaxia π team	72	73	74	76	76	371	74.20	1.60
+131=	Norah Wu YiNuo	Novice	UM We haven’t debated for a while	74	77	75	73	72	371	74.20	1.72
+134=	Grace 李沐泽	Novice	BFSU brat	76	73	75	71	75	370	74.00	1.79
+134=	赵祎晴 Ashley	Novice	Huaxia π team	75	71	73	75	76	370	74.00	1.79
+134=	Melissa	Novice	UM black tea dumpling	73	75	75	73	74	370	74.00	0.89
+134=	Luke	Novice	MUST plzletuswon	74	76	74	72	74	370	74.00	1.26
+134=	Hazel Chan Cheng Tong	Novice	UM We haven’t debated for a while	73	76	76	72	73	370	74.00	1.67
+134=	Christine	Novice	CUHKSZ Supernova	75	75	75	72	73	370	74.00	1.26
+140=	佘竹萱 Zhuxuan She	Novice, School	Wonder	74	73	76	72	74	369	73.80	1.33
+140=	Lai Yu Ching Jasmine	Novice, School	Pui Ching Jazdé	73	76	73	72	75	369	73.80	1.47
+142=	Phoenix 李中意	Novice	xy	73	76	74	73	72	368	73.60	1.36
+142=	Dim 林晓轩	Novice	xy	72	76	75	73	72	368	73.60	1.62
+142=	Luna 伍沐阳	Novice	BFSU brat	75	72	75	71	75	368	73.60	1.74
+142=	Elsey	Novice	BFSU YOLO	75	73	73	75	72	368	73.60	1.20
+142=	杨蕴琦 Yunqi Yang	Novice	BFSU Twilight	76	75	74	73	70	368	73.60	2.06
+142=	Fiona	Novice	MUST Bet On Me	75	75	74	73	71	368	73.60	1.50
+142=	Anna 王茜莎	Novice	MUST Annpower	74	74	74	71	75	368	73.60	1.36
+142=	Alina	Novice	CUHKSZ Supernova	75	74	75	72	72	368	73.60	1.36
+150=	Maggie Jin	Novice	GGJJ	73	76	76	74	68	367	73.40	2.94
+150=	Vivien	Novice	MUST Bet On Me	76	75	74	72	70	367	73.40	2.15
+150=	Lynn 钱丽颖	Novice	MUST Annpower	74	74	74	70	75	367	73.40	1.74
+150=	Tsui Lok Chun	Novice, School	Pui Ching Stay and Moa	72	75	69	74	77	367	73.40	2.73
+150=	胡叶芬 Amie		叶如雨 Leaves Falling Like Rain	75	72	74	68	78	367	73.40	3.32
+155=	Mia Guan	Novice	GGJJ	73	76	75	74	68	366	73.20	2.79
+155=	Elliy	Novice	MUST plzletuswon	74	75	73	71	73	366	73.20	1.33
+155=	李思雨 Lene		叶如雨 Leaves Falling Like Rain	75	72	74	67	78	366	73.20	3.66
+158=	Kwong Pui U Jade	Novice, School	Pui Ching Jazdé	72	76	71	71	75	365	73.00	2.10
+158=	Zhang Qianqian	Novice	CAFUC 1	75	73	75	69	73	365	73.00	2.19
+158=	Zhang Jingyuan	Novice	CAFUC 1	75	75	75	68	72	365	73.00	2.76
+161	Svasti Kholia		Captain Bailey&#x27;s Bizarre Babygworls	79	79	76	—	77	311	77.75	1.30
+162	Olamide Esther Olayinka		Sleep Deprived	79	77	77	75	—	308	77.00	1.41
+163	Henry Kyewalyanga		Sleep Deprived	78	77	76	75	—	306	76.50	1.12
+164	Speaker 1		Swing 3	77	76	75	75	—	303	75.75	0.83
+165=	Maruf Islam Munna	Novice	Chittagong A	—	74	77	75	75	301	75.25	1.09
+165=	曾熙然 Xiran Zeng	Novice	CUHKSZ Geeks	75	74	76	76	—	301	75.25	0.83
+165=	Speaker 2		Swing 3	77	75	75	74	—	301	75.25	1.09
+168=	Kelly		PKUSZ Purple People Purple Heart	75	73	75	77	—	300	75.00	1.41
+168=	Rosa		PKUSZ Purple People Purple Heart	75	71	77	77	—	300	75.00	2.45
+170	Ehsan Ahmed Himel	Novice	Chittagong A	—	74	76	74	75	299	74.75	0.83
+171=	Alef	Novice	UM Alef and Jocelyn	72	75	75	73	—	295	73.75	1.30
+171=	Li Hin seng Cruz	Novice, School	Clement &amp; Cruz	—	76	75	72	72	295	73.75	1.79
+173=	Jocelyn	Novice	UM Alef and Jocelyn	72	75	75	72	—	294	73.50	1.50
+173=	Wong Ho Ting Clement	Novice, School	Clement &amp; Cruz	—	75	75	72	72	294	73.50	1.50
+175	Hiền Đỗ		THP the left sock to the right sock	—	77	76	75	—	228	76.00	0.82
+176=	Clare		Defying Gravity	75	—	—	—	—	75	75.00	0.00
+176=	Candice		Defying Gravity	75	—	—	—	—	75	75.00	0.00
+178=	Speaker 1		Swing 4	73	—	—	—	—	73	73.00	0.00
+178=	Speaker 2		Swing 4	73	—	—	—	—	73	73.00	0.00
+180=	Azalea Jiang		BATTER UP!!!	—	—	—	—	—	—	—	—
+180=	Leah Katz	Novice, School	Dolphins🐬	—	—	—	—	—	—	—	—
+180=	Gwendolyn Basi	Novice, School	Dolphins🐬	—	—	—	—	—	—	—	—
+180=	Marcus Christophe L. Parial	School	OMNHS+ASHS = W+Ratio	—	—	—	—	—	—	—	—
+180=	Miguel Alfonso D. Mujar	School	OMNHS+ASHS = W+Ratio	—	—	—	—	—	—	—	—
+180=	Zulpukarova Saadat	Novice	SolBridge 1	—	—	—	—	—	—	—	—
+180=	Bektursun Kartaev	Novice	SolBridge 1	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+HKU Mothers	2nd	Opening Government	View Ballot	Gelson EngⒸ
+MUST plz wake up	3rd	Opening Opposition	View Ballot	Gelson EngⒸ
+SYSU November Rain	4th	Closing Government	View Ballot	Gelson EngⒸ
+Twenty	1st	Closing Opposition	View Ballot	Gelson EngⒸ
+叶如雨 Leaves Falling Like Rain	3rd	Opening Government	View Ballot	Ayodele SamuelⒸ
+Watch out Taro	2nd	Opening Opposition	View Ballot	Ayodele SamuelⒸ
+Macau PolyU UPM	4th	Closing Government	View Ballot	Ayodele SamuelⒸ
+UM Random Team Name	1st	Closing Opposition	View Ballot	Ayodele SamuelⒸ
+Airwing	3rd	Opening Government	View Ballot	Josef SingsonⒸ
+MWS white peach oolong from chagee	1st	Opening Opposition	View Ballot	Josef SingsonⒸ
+UM We haven’t debated for a while	4th	Closing Government	View Ballot	Josef SingsonⒸ
+PKUSZ Purple People Purple Heart	2nd	Closing Opposition	View Ballot	Josef SingsonⒸ
+Surella	2nd	Opening Government	View Ballot	Chelsea ZhengⒸ , Amanda 王雯琪
+BFSU Twilight	1st	Opening Opposition	View Ballot	Chelsea ZhengⒸ , Amanda 王雯琪
+CUHKSZ Supernova	4th	Closing Government	View Ballot	Chelsea ZhengⒸ , Amanda 王雯琪
+BFSU Wild Lions	3rd	Closing Opposition	View Ballot	Chelsea ZhengⒸ , Amanda 王雯琪
+UM Thank you David for making this hap	1st	Opening Government	View Ballot	Desmond DorvloⒸ
+BFSU brat	2nd	Opening Opposition	View Ballot	Desmond DorvloⒸ
+CityU Macau A&amp;S	4th	Closing Government	View Ballot	Desmond DorvloⒸ
+MUST plzletuswon	3rd	Closing Opposition	View Ballot	Desmond DorvloⒸ
+White Chocolate	2nd	Opening Government	View Ballot	Prosper Michael AmetuⒸ , Shakran Salekin
+BFSU Volcanos	4th	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ , Shakran Salekin
+Shinhan bank	3rd	Closing Government	View Ballot	Prosper Michael AmetuⒸ , Shakran Salekin
+Sleep Deprived	1st	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ , Shakran Salekin
+SYSU I cannot tell between nine and nein	2nd	Opening Government	View Ballot	Shashwat DashⒸ , Eitan Ern Loo
+Atlantis A	1st	Opening Opposition	View Ballot	Shashwat DashⒸ , Eitan Ern Loo
+Hard Black	3rd	Closing Government	View Ballot	Shashwat DashⒸ , Eitan Ern Loo
+UM Alef and Jocelyn	4th	Closing Opposition	View Ballot	Shashwat DashⒸ , Eitan Ern Loo
+Bravo	3rd	Opening Government	View Ballot	TobiⒸ
+Two Chinitos eating Piattos	1st	Opening Opposition	View Ballot	TobiⒸ
+NU Forever Debatable	4th	Closing Government	View Ballot	TobiⒸ
+Seth	2nd	Closing Opposition	View Ballot	TobiⒸ
+MUST MUST’s worst	2nd	Opening Government	View Ballot	KaiⒸ , Violet
+Captain Bailey&#x27;s Bizarre Babygworls	1st	Opening Opposition	View Ballot	KaiⒸ , Violet
+Wonder	4th	Closing Government	View Ballot	KaiⒸ , Violet
+MUST Bet On Me	3rd	Closing Opposition	View Ballot	KaiⒸ , Violet
+Delay No More	1st	Opening Government	View Ballot	Uphie abdurrahmanⒸ
+BFSU Florina	2nd	Opening Opposition	View Ballot	Uphie abdurrahmanⒸ
+Huaxia π team	4th	Closing Government	View Ballot	Uphie abdurrahmanⒸ
+CFAU 对对对你说的队 Yes Yes Yes You are Correct	3rd	Closing Opposition	View Ballot	Uphie abdurrahmanⒸ
+CFAU 乐高 Lego	3rd	Opening Government	View Ballot	Raymond ChumaⒸ
+BFSU Treeva	2nd	Opening Opposition	View Ballot	Raymond ChumaⒸ
+xy	4th	Closing Government	View Ballot	Raymond ChumaⒸ
+SYSU BE COMPARATIVE	1st	Closing Opposition	View Ballot	Raymond ChumaⒸ
+SYSU Love what you love	3rd	Opening Government	View Ballot	Imran IlmamⒸ
+CFAU JanFeb Elite	2nd	Opening Opposition	View Ballot	Imran IlmamⒸ
+Jareds	4th	Closing Government	View Ballot	Imran IlmamⒸ
+Mat Sushi My Mommy	1st	Closing Opposition	View Ballot	Imran IlmamⒸ
+THP the left sock to the right sock	1st	Opening Government	View Ballot	Adel Mostaque AhmedⒸ , Jack Chan
+Swing 1	4th	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ , Jack Chan
+BFSU Dynamo	2nd	Closing Government	View Ballot	Adel Mostaque AhmedⒸ , Jack Chan
+Dialogy Toni Morrison	3rd	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ , Jack Chan
+Swing 2	2nd	Opening Government	View Ballot	Ayafa TonyeⒸ
+Anti-hero	3rd	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+She finally said yes (to a tourname	1st	Closing Government	View Ballot	Ayafa TonyeⒸ
+Haven’t debated for so long	4th	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+CUHKSZ Geeks	2nd	Opening Government	View Ballot	Leauren S. JiⒸ , Andreas Lorenziuz
+UM black tea dumpling	3rd	Opening Opposition	View Ballot	Leauren S. JiⒸ , Andreas Lorenziuz
+Our partner is working on her paper	1st	Closing Government	View Ballot	Leauren S. JiⒸ , Andreas Lorenziuz
+BATTER UP!!!	4th	Closing Opposition	View Ballot	Leauren S. JiⒸ , Andreas Lorenziuz
+BFSU AR	3rd	Opening Government	View Ballot	Teye Prince-DanielⒸ , Blues
+Pui Ching Stay and Moa	4th	Opening Opposition	View Ballot	Teye Prince-DanielⒸ , Blues
+Spicy G	1st	Closing Government	View Ballot	Teye Prince-DanielⒸ , Blues
+Swing 3	2nd	Closing Opposition	View Ballot	Teye Prince-DanielⒸ , Blues
+CAFUC 1	3rd	Opening Government	View Ballot	Donner TangⒸ
+SYSU Phoenix	2nd	Opening Opposition	View Ballot	Donner TangⒸ
+MUST Annpower	4th	Closing Government	View Ballot	Donner TangⒸ
+LC	1st	Closing Opposition	View Ballot	Donner TangⒸ
+BFSU YOLO	3rd	Opening Government	View Ballot	Robin AhujaⒸ
+Pui Ching Bananna	2nd	Opening Opposition	View Ballot	Robin AhujaⒸ
+UPD u down for a halfie tonight?	1st	Closing Government	View Ballot	Robin AhujaⒸ
+Defying Gravity	4th	Closing Opposition	View Ballot	Robin AhujaⒸ
+Broke Girls	4th	Opening Government	View Ballot	Joy HadomeⒸ
+Zhejiang Fried Sauce Lightbox	2nd	Opening Opposition	View Ballot	Joy HadomeⒸ
+ZFLS &amp; NFLS, from PKU to Macau	3rd	Closing Government	View Ballot	Joy HadomeⒸ
+Watching the Sandcastle Crumble	1st	Closing Opposition	View Ballot	Joy HadomeⒸ
+Nankai C&amp;T	3rd	Opening Government	View Ballot	RalphⒸ
+GGJJ	4th	Opening Opposition	View Ballot	RalphⒸ
+Lodge Lodge Debate Society	1st	Closing Government	View Ballot	RalphⒸ
+CUHKSZ Dhakdnusbkal	2nd	Closing Opposition	View Ballot	RalphⒸ
+SYSU Snake or snack	3rd	Opening Government	View Ballot	Vincent ChauⒸ
+I&#x27;ve Debated this Motion Before	2nd	Opening Opposition	View Ballot	Vincent ChauⒸ
+5 AM STICKY BALLS SLURPIES 🧋	1st	Closing Government	View Ballot	Vincent ChauⒸ
+Swing 4	4th	Closing Opposition	View Ballot	Vincent ChauⒸ
+Code	2nd	Opening Government	View Ballot	Namita PandeyⒸ , Olivia Yu 余若菡Ⓣ
+CS	1st	Opening Opposition	View Ballot	Namita PandeyⒸ , Olivia Yu 余若菡Ⓣ
+Pui Ching Jazdé	4th	Closing Government	View Ballot	Namita PandeyⒸ , Olivia Yu 余若菡Ⓣ
+BFSU AFfi	3rd	Closing Opposition	View Ballot	Namita PandeyⒸ , Olivia Yu 余若菡Ⓣ
+
+
+team	result	side	ballot	adjudicators
+Pui Ching Stay and Moa	4th	Opening Government	View Ballot	KaiⒸ
+CityU Macau A&amp;S	2nd	Opening Opposition	View Ballot	KaiⒸ
+Haven’t debated for so long	1st	Closing Government	View Ballot	KaiⒸ
+xy	3rd	Closing Opposition	View Ballot	KaiⒸ
+UPD u down for a halfie tonight?	3rd	Opening Government	View Ballot	Syed Hamza JavaidⒸ
+BFSU Dynamo	2nd	Opening Opposition	View Ballot	Syed Hamza JavaidⒸ
+UM Random Team Name	1st	Closing Government	View Ballot	Syed Hamza JavaidⒸ
+Our partner is working on her paper	4th	Closing Opposition	View Ballot	Syed Hamza JavaidⒸ
+BFSU Florina	3rd	Opening Government	View Ballot	Desmond DorvloⒸ , Shakran Salekin
+HKU Mothers	2nd	Opening Opposition	View Ballot	Desmond DorvloⒸ , Shakran Salekin
+PKUSZ Purple People Purple Heart	4th	Closing Government	View Ballot	Desmond DorvloⒸ , Shakran Salekin
+I&#x27;ve Debated this Motion Before	1st	Closing Opposition	View Ballot	Desmond DorvloⒸ , Shakran Salekin
+BFSU Treeva	3rd	Opening Government	View Ballot	Gelson EngⒸ , Violet
+Swing 2	2nd	Opening Opposition	View Ballot	Gelson EngⒸ , Violet
+SYSU I cannot tell between nine and nein	4th	Closing Government	View Ballot	Gelson EngⒸ , Violet
+Zhejiang Fried Sauce Lightbox	1st	Closing Opposition	View Ballot	Gelson EngⒸ , Violet
+BATTER UP!!!	2nd	Opening Government	View Ballot	Joy HadomeⒸ , Olivia Yu 余若菡
+Shinhan bank	1st	Opening Opposition	View Ballot	Joy HadomeⒸ , Olivia Yu 余若菡
+UM black tea dumpling	4th	Closing Government	View Ballot	Joy HadomeⒸ , Olivia Yu 余若菡
+Hard Black	3rd	Closing Opposition	View Ballot	Joy HadomeⒸ , Olivia Yu 余若菡
+BFSU Wild Lions	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ
+Airwing	1st	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+叶如雨 Leaves Falling Like Rain	4th	Closing Government	View Ballot	Ayafa TonyeⒸ
+SYSU Snake or snack	2nd	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+GGJJ	2nd	Opening Government	View Ballot	Adel Mostaque AhmedⒸ
+Jareds	1st	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ
+UM Alef and Jocelyn	3rd	Closing Government	View Ballot	Adel Mostaque AhmedⒸ
+MUST Annpower	4th	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ
+Captain Bailey&#x27;s Bizarre Babygworls	2nd	Opening Government	View Ballot	Robin AhujaⒸ , Blues
+White Chocolate	1st	Opening Opposition	View Ballot	Robin AhujaⒸ , Blues
+Sleep Deprived	4th	Closing Government	View Ballot	Robin AhujaⒸ , Blues
+Atlantis A	3rd	Closing Opposition	View Ballot	Robin AhujaⒸ , Blues
+Dialogy Toni Morrison	2nd	Opening Government	View Ballot	Uphie abdurrahmanⒸ
+BFSU AR	1st	Opening Opposition	View Ballot	Uphie abdurrahmanⒸ
+BFSU AFfi	3rd	Closing Government	View Ballot	Uphie abdurrahmanⒸ
+BFSU YOLO	4th	Closing Opposition	View Ballot	Uphie abdurrahmanⒸ
+LC	4th	Opening Government	View Ballot	Teye Prince-DanielⒸ , Andreas Lorenziuz
+UM Thank you David for making this hap	2nd	Opening Opposition	View Ballot	Teye Prince-DanielⒸ , Andreas Lorenziuz
+CS	3rd	Closing Government	View Ballot	Teye Prince-DanielⒸ , Andreas Lorenziuz
+Spicy G	1st	Closing Opposition	View Ballot	Teye Prince-DanielⒸ , Andreas Lorenziuz
+UM We haven’t debated for a while	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ
+SYSU November Rain	1st	Opening Opposition	View Ballot	Ayodele SamuelⒸ
+Chittagong A	3rd	Closing Government	View Ballot	Ayodele SamuelⒸ
+Wonder	4th	Closing Opposition	View Ballot	Ayodele SamuelⒸ
+Swing 3	1st	Opening Government	View Ballot	Raymond ChumaⒸ , Leauren S. Ji
+CUHKSZ Geeks	3rd	Opening Opposition	View Ballot	Raymond ChumaⒸ , Leauren S. Ji
+Surella	2nd	Closing Government	View Ballot	Raymond ChumaⒸ , Leauren S. Ji
+BFSU brat	4th	Closing Opposition	View Ballot	Raymond ChumaⒸ , Leauren S. Ji
+NU Forever Debatable	1st	Opening Government	View Ballot	Shashwat DashⒸ
+CUHKSZ Supernova	3rd	Opening Opposition	View Ballot	Shashwat DashⒸ
+Broke Girls	2nd	Closing Government	View Ballot	Shashwat DashⒸ
+Huaxia π team	4th	Closing Opposition	View Ballot	Shashwat DashⒸ
+Pui Ching Bananna	2nd	Opening Government	View Ballot	Prosper Michael AmetuⒸ
+MUST MUST’s worst	1st	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ
+Watch out Taro	4th	Closing Government	View Ballot	Prosper Michael AmetuⒸ
+Code	3rd	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ
+SYSU Phoenix	4th	Opening Government	View Ballot	Eitan Ern LooⒸ
+CUHKSZ Dhakdnusbkal	2nd	Opening Opposition	View Ballot	Eitan Ern LooⒸ
+Seth	1st	Closing Government	View Ballot	Eitan Ern LooⒸ
+CFAU JanFeb Elite	3rd	Closing Opposition	View Ballot	Eitan Ern LooⒸ
+CFAU 对对对你说的队 Yes Yes Yes You are Correct	2nd	Opening Government	View Ballot	Namita PandeyⒸ
+ZFLS &amp; NFLS, from PKU to Macau	1st	Opening Opposition	View Ballot	Namita PandeyⒸ
+Bravo	4th	Closing Government	View Ballot	Namita PandeyⒸ
+CAFUC 1	3rd	Closing Opposition	View Ballot	Namita PandeyⒸ
+MUST plzletuswon	2nd	Opening Government	View Ballot	Donner TangⒸ
+MUST Bet On Me	3rd	Opening Opposition	View Ballot	Donner TangⒸ
+Anti-hero	1st	Closing Government	View Ballot	Donner TangⒸ
+SYSU Love what you love	4th	Closing Opposition	View Ballot	Donner TangⒸ
+Mat Sushi My Mommy	1st	Opening Government	View Ballot	TobiⒸ , Jack Chan
+Delay No More	3rd	Opening Opposition	View Ballot	TobiⒸ , Jack Chan
+BFSU Twilight	4th	Closing Government	View Ballot	TobiⒸ , Jack Chan
+Lodge Lodge Debate Society	2nd	Closing Opposition	View Ballot	TobiⒸ , Jack Chan
+Clement &amp; Cruz	3rd	Opening Government	View Ballot	Chelsea ZhengⒸ
+Pui Ching Jazdé	2nd	Opening Opposition	View Ballot	Chelsea ZhengⒸ
+BFSU Volcanos	4th	Closing Government	View Ballot	Chelsea ZhengⒸ
+Swing 1	1st	Closing Opposition	View Ballot	Chelsea ZhengⒸ
+Watching the Sandcastle Crumble	1st	Opening Government	View Ballot	RalphⒸ , Josef Singson
+THP the left sock to the right sock	3rd	Opening Opposition	View Ballot	RalphⒸ , Josef Singson
+Twenty	2nd	Closing Government	View Ballot	RalphⒸ , Josef Singson
+Two Chinitos eating Piattos	4th	Closing Opposition	View Ballot	RalphⒸ , Josef Singson
+5 AM STICKY BALLS SLURPIES 🧋	2nd	Opening Government	View Ballot	Imran IlmamⒸ , Amanda 王雯琪
+SYSU BE COMPARATIVE	4th	Opening Opposition	View Ballot	Imran IlmamⒸ , Amanda 王雯琪
+MWS white peach oolong from chagee	3rd	Closing Government	View Ballot	Imran IlmamⒸ , Amanda 王雯琪
+She finally said yes (to a tourname	1st	Closing Opposition	View Ballot	Imran IlmamⒸ , Amanda 王雯琪
+Macau PolyU UPM	1st	Opening Government	View Ballot	Sarah KhanⒸ
+CFAU 乐高 Lego	3rd	Opening Opposition	View Ballot	Sarah KhanⒸ
+MUST plz wake up	4th	Closing Government	View Ballot	Sarah KhanⒸ
+Nankai C&amp;T	2nd	Closing Opposition	View Ballot	Sarah KhanⒸ
+
+
+team	result	side	ballot	adjudicators
+CityU Macau A&amp;S	2nd	Opening Government	View Ballot	TobiⒸ
+CAFUC 1	4th	Opening Opposition	View Ballot	TobiⒸ
+CFAU 乐高 Lego	1st	Closing Government	View Ballot	TobiⒸ
+UM We haven’t debated for a while	3rd	Closing Opposition	View Ballot	TobiⒸ
+Wonder	2nd	Opening Government	View Ballot	KaiⒸ
+叶如雨 Leaves Falling Like Rain	4th	Opening Opposition	View Ballot	KaiⒸ
+Clement &amp; Cruz	3rd	Closing Government	View Ballot	KaiⒸ
+Chittagong A	1st	Closing Opposition	View Ballot	KaiⒸ
+SYSU November Rain	3rd	Opening Government	View Ballot	James Ryan CacholaⒸ
+NU Forever Debatable	1st	Opening Opposition	View Ballot	James Ryan CacholaⒸ
+Swing 1	4th	Closing Government	View Ballot	James Ryan CacholaⒸ
+Macau PolyU UPM	2nd	Closing Opposition	View Ballot	James Ryan CacholaⒸ
+CFAU JanFeb Elite	3rd	Opening Government	View Ballot	Sarah KhanⒸ
+Code	2nd	Opening Opposition	View Ballot	Sarah KhanⒸ
+MUST plzletuswon	4th	Closing Government	View Ballot	Sarah KhanⒸ
+SYSU I cannot tell between nine and nein	1st	Closing Opposition	View Ballot	Sarah KhanⒸ
+Spicy G	4th	Opening Government	View Ballot	Ayodele SamuelⒸ , Olivia Yu 余若菡
+Mat Sushi My Mommy	1st	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Olivia Yu 余若菡
+Watching the Sandcastle Crumble	3rd	Closing Government	View Ballot	Ayodele SamuelⒸ , Olivia Yu 余若菡
+MUST MUST’s worst	2nd	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Olivia Yu 余若菡
+Jareds	3rd	Opening Government	View Ballot	Syed Hamza JavaidⒸ
+Nankai C&amp;T	4th	Opening Opposition	View Ballot	Syed Hamza JavaidⒸ
+SYSU Snake or snack	1st	Closing Government	View Ballot	Syed Hamza JavaidⒸ
+BFSU Florina	2nd	Closing Opposition	View Ballot	Syed Hamza JavaidⒸ
+CUHKSZ Dhakdnusbkal	3rd	Opening Government	View Ballot	Namita PandeyⒸ
+UPD u down for a halfie tonight?	1st	Opening Opposition	View Ballot	Namita PandeyⒸ
+THP the left sock to the right sock	2nd	Closing Government	View Ballot	Namita PandeyⒸ
+Delay No More	4th	Closing Opposition	View Ballot	Namita PandeyⒸ
+MWS white peach oolong from chagee	1st	Opening Government	View Ballot	Imran IlmamⒸ , Shakran Salekin
+Surella	3rd	Opening Opposition	View Ballot	Imran IlmamⒸ , Shakran Salekin
+Pui Ching Bananna	4th	Closing Government	View Ballot	Imran IlmamⒸ , Shakran Salekin
+ZFLS &amp; NFLS, from PKU to Macau	2nd	Closing Opposition	View Ballot	Imran IlmamⒸ , Shakran Salekin
+Sleep Deprived	3rd	Opening Government	View Ballot	Chelsea ZhengⒸ
+Haven’t debated for so long	2nd	Opening Opposition	View Ballot	Chelsea ZhengⒸ
+Two Chinitos eating Piattos	1st	Closing Government	View Ballot	Chelsea ZhengⒸ
+BFSU Treeva	4th	Closing Opposition	View Ballot	Chelsea ZhengⒸ
+Atlantis A	2nd	Opening Government	View Ballot	Raymond ChumaⒸ
+Our partner is working on her paper	3rd	Opening Opposition	View Ballot	Raymond ChumaⒸ
+Swing 2	4th	Closing Government	View Ballot	Raymond ChumaⒸ
+Shinhan bank	1st	Closing Opposition	View Ballot	Raymond ChumaⒸ
+UM Random Team Name	4th	Opening Government	View Ballot	Shashwat DashⒸ , Violet
+She finally said yes (to a tourname	1st	Opening Opposition	View Ballot	Shashwat DashⒸ , Violet
+I&#x27;ve Debated this Motion Before	3rd	Closing Government	View Ballot	Shashwat DashⒸ , Violet
+White Chocolate	2nd	Closing Opposition	View Ballot	Shashwat DashⒸ , Violet
+PKUSZ Purple People Purple Heart	3rd	Opening Government	View Ballot	Uphie abdurrahmanⒸ , Jack Chan
+Hard Black	2nd	Opening Opposition	View Ballot	Uphie abdurrahmanⒸ , Jack Chan
+BATTER UP!!!	4th	Closing Government	View Ballot	Uphie abdurrahmanⒸ , Jack Chan
+SYSU Phoenix	1st	Closing Opposition	View Ballot	Uphie abdurrahmanⒸ , Jack Chan
+Pui Ching Jazdé	4th	Opening Government	View Ballot	Charles WongⒸ
+BFSU Wild Lions	1st	Opening Opposition	View Ballot	Charles WongⒸ
+BFSU brat	3rd	Closing Government	View Ballot	Charles WongⒸ
+GGJJ	2nd	Closing Opposition	View Ballot	Charles WongⒸ
+Huaxia π team	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ
+MUST Annpower	2nd	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+Pui Ching Stay and Moa	4th	Closing Government	View Ballot	Ayafa TonyeⒸ
+BFSU Volcanos	1st	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+BFSU Dynamo	1st	Opening Government	View Ballot	Robin AhujaⒸ , Blues
+Dialogy Toni Morrison	2nd	Opening Opposition	View Ballot	Robin AhujaⒸ , Blues
+Airwing	4th	Closing Government	View Ballot	Robin AhujaⒸ , Blues
+Anti-hero	3rd	Closing Opposition	View Ballot	Robin AhujaⒸ , Blues
+CUHKSZ Supernova	2nd	Opening Government	View Ballot	Josef SingsonⒸ
+xy	3rd	Opening Opposition	View Ballot	Josef SingsonⒸ
+BFSU YOLO	4th	Closing Government	View Ballot	Josef SingsonⒸ
+UM black tea dumpling	1st	Closing Opposition	View Ballot	Josef SingsonⒸ
+MUST plz wake up	2nd	Opening Government	View Ballot	Prosper Michael AmetuⒸ
+UM Alef and Jocelyn	3rd	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ
+SYSU Love what you love	4th	Closing Government	View Ballot	Prosper Michael AmetuⒸ
+Bravo	1st	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ
+BFSU AFfi	2nd	Opening Government	View Ballot	Gelson EngⒸ
+Broke Girls	1st	Opening Opposition	View Ballot	Gelson EngⒸ
+MUST Bet On Me	4th	Closing Government	View Ballot	Gelson EngⒸ
+Watch out Taro	3rd	Closing Opposition	View Ballot	Gelson EngⒸ
+BFSU Twilight	4th	Opening Government	View Ballot	Joy HadomeⒸ , Sihan (Echo) Ni
+LC	1st	Opening Opposition	View Ballot	Joy HadomeⒸ , Sihan (Echo) Ni
+SYSU BE COMPARATIVE	3rd	Closing Government	View Ballot	Joy HadomeⒸ , Sihan (Echo) Ni
+CUHKSZ Geeks	2nd	Closing Opposition	View Ballot	Joy HadomeⒸ , Sihan (Echo) Ni
+Zhejiang Fried Sauce Lightbox	1st	Opening Government	View Ballot	Desmond DorvloⒸ , Andreas Lorenziuz
+Seth	3rd	Opening Opposition	View Ballot	Desmond DorvloⒸ , Andreas Lorenziuz
+Swing 3	4th	Closing Government	View Ballot	Desmond DorvloⒸ , Andreas Lorenziuz
+Captain Bailey&#x27;s Bizarre Babygworls	2nd	Closing Opposition	View Ballot	Desmond DorvloⒸ , Andreas Lorenziuz
+CS	2nd	Opening Government	View Ballot	RalphⒸ , Amanda 王雯琪
+CFAU 对对对你说的队 Yes Yes Yes You are Correct	3rd	Opening Opposition	View Ballot	RalphⒸ , Amanda 王雯琪
+BFSU AR	4th	Closing Government	View Ballot	RalphⒸ , Amanda 王雯琪
+HKU Mothers	1st	Closing Opposition	View Ballot	RalphⒸ , Amanda 王雯琪
+Twenty	2nd	Opening Government	View Ballot	Adel Mostaque AhmedⒸ , Eitan Ern Loo
+Lodge Lodge Debate Society	3rd	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ , Eitan Ern Loo
+UM Thank you David for making this hap	4th	Closing Government	View Ballot	Adel Mostaque AhmedⒸ , Eitan Ern Loo
+5 AM STICKY BALLS SLURPIES 🧋	1st	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ , Eitan Ern Loo
+
+
+team	result	side	ballot	adjudicators
+Watch out Taro	4th	Opening Government	View Ballot	Desmond DorvloⒸ
+BFSU AFfi	2nd	Opening Opposition	View Ballot	Desmond DorvloⒸ
+CFAU 对对对你说的队 Yes Yes Yes You are Correct	1st	Closing Government	View Ballot	Desmond DorvloⒸ
+SYSU November Rain	3rd	Closing Opposition	View Ballot	Desmond DorvloⒸ
+SYSU BE COMPARATIVE	3rd	Opening Government	View Ballot	Syed Hamza JavaidⒸ
+PKUSZ Purple People Purple Heart	1st	Opening Opposition	View Ballot	Syed Hamza JavaidⒸ
+Airwing	2nd	Closing Government	View Ballot	Syed Hamza JavaidⒸ
+Swing 2	4th	Closing Opposition	View Ballot	Syed Hamza JavaidⒸ
+MUST Annpower	1st	Opening Government	View Ballot	Shashwat DashⒸ
+BATTER UP!!!	2nd	Opening Opposition	View Ballot	Shashwat DashⒸ
+CAFUC 1	3rd	Closing Government	View Ballot	Shashwat DashⒸ
+叶如雨 Leaves Falling Like Rain	4th	Closing Opposition	View Ballot	Shashwat DashⒸ
+Hard Black	3rd	Opening Government	View Ballot	Josef SingsonⒸ
+Bravo	4th	Opening Opposition	View Ballot	Josef SingsonⒸ
+CFAU JanFeb Elite	1st	Closing Government	View Ballot	Josef SingsonⒸ
+BFSU AR	2nd	Closing Opposition	View Ballot	Josef SingsonⒸ
+SYSU Love what you love	1st	Opening Government	View Ballot	Jack ChanⒸ
+Huaxia π team	3rd	Opening Opposition	View Ballot	Jack ChanⒸ
+BFSU YOLO	2nd	Closing Government	View Ballot	Jack ChanⒸ
+Pui Ching Stay and Moa	4th	Closing Opposition	View Ballot	Jack ChanⒸ
+xy	1st	Opening Government	View Ballot	James Ryan CacholaⒸ
+Clement &amp; Cruz	3rd	Opening Opposition	View Ballot	James Ryan CacholaⒸ
+UM Alef and Jocelyn	2nd	Closing Government	View Ballot	James Ryan CacholaⒸ
+Pui Ching Jazdé	4th	Closing Opposition	View Ballot	James Ryan CacholaⒸ
+Anti-hero	2nd	Opening Government	View Ballot	Namita PandeyⒸ , Kai
+Macau PolyU UPM	3rd	Opening Opposition	View Ballot	Namita PandeyⒸ , Kai
+CUHKSZ Dhakdnusbkal	1st	Closing Government	View Ballot	Namita PandeyⒸ , Kai
+CFAU 乐高 Lego	4th	Closing Opposition	View Ballot	Namita PandeyⒸ , Kai
+Dialogy Toni Morrison	1st	Opening Government	View Ballot	Gelson EngⒸ
+SYSU I cannot tell between nine and nein	4th	Opening Opposition	View Ballot	Gelson EngⒸ
+CUHKSZ Geeks	3rd	Closing Government	View Ballot	Gelson EngⒸ
+Broke Girls	2nd	Closing Opposition	View Ballot	Gelson EngⒸ
+Our partner is working on her paper	1st	Opening Government	View Ballot	Ayafa TonyeⒸ
+Sleep Deprived	3rd	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+Delay No More	2nd	Closing Government	View Ballot	Ayafa TonyeⒸ
+Jareds	4th	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+She finally said yes (to a tourname	2nd	Opening Government	View Ballot	Donner TangⒸ , Blues
+5 AM STICKY BALLS SLURPIES 🧋	3rd	Opening Opposition	View Ballot	Donner TangⒸ , Blues
+Zhejiang Fried Sauce Lightbox	4th	Closing Government	View Ballot	Donner TangⒸ , Blues
+Mat Sushi My Mommy	1st	Closing Opposition	View Ballot	Donner TangⒸ , Blues
+Shinhan bank	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ , Andreas Lorenziuz
+Twenty	4th	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Andreas Lorenziuz
+HKU Mothers	3rd	Closing Government	View Ballot	Ayodele SamuelⒸ , Andreas Lorenziuz
+UPD u down for a halfie tonight?	1st	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Andreas Lorenziuz
+I&#x27;ve Debated this Motion Before	1st	Opening Government	View Ballot	Imran IlmamⒸ , Sihan (Echo) Ni
+SYSU Snake or snack	3rd	Opening Opposition	View Ballot	Imran IlmamⒸ , Sihan (Echo) Ni
+Atlantis A	2nd	Closing Government	View Ballot	Imran IlmamⒸ , Sihan (Echo) Ni
+CS	4th	Closing Opposition	View Ballot	Imran IlmamⒸ , Sihan (Echo) Ni
+Seth	4th	Opening Government	View Ballot	Joy HadomeⒸ , Amanda 王雯琪
+MUST MUST’s worst	1st	Opening Opposition	View Ballot	Joy HadomeⒸ , Amanda 王雯琪
+Captain Bailey&#x27;s Bizarre Babygworls	2nd	Closing Government	View Ballot	Joy HadomeⒸ , Amanda 王雯琪
+BFSU Dynamo	3rd	Closing Opposition	View Ballot	Joy HadomeⒸ , Amanda 王雯琪
+BFSU Florina	1st	Opening Government	View Ballot	RalphⒸ
+Swing 3	2nd	Opening Opposition	View Ballot	RalphⒸ
+BFSU Wild Lions	3rd	Closing Government	View Ballot	RalphⒸ
+Pui Ching Bananna	4th	Closing Opposition	View Ballot	RalphⒸ
+Haven’t debated for so long	1st	Opening Government	View Ballot	Robin AhujaⒸ
+UM Thank you David for making this hap	4th	Opening Opposition	View Ballot	Robin AhujaⒸ
+Code	3rd	Closing Government	View Ballot	Robin AhujaⒸ
+Surella	2nd	Closing Opposition	View Ballot	Robin AhujaⒸ
+Lodge Lodge Debate Society	4th	Opening Government	View Ballot	Uphie abdurrahmanⒸ , Violet
+Watching the Sandcastle Crumble	3rd	Opening Opposition	View Ballot	Uphie abdurrahmanⒸ , Violet
+White Chocolate	2nd	Closing Government	View Ballot	Uphie abdurrahmanⒸ , Violet
+MWS white peach oolong from chagee	1st	Closing Opposition	View Ballot	Uphie abdurrahmanⒸ , Violet
+Two Chinitos eating Piattos	1st	Opening Government	View Ballot	Adel Mostaque AhmedⒸ
+Spicy G	2nd	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ
+SYSU Phoenix	3rd	Closing Government	View Ballot	Adel Mostaque AhmedⒸ
+NU Forever Debatable	4th	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ
+BFSU Volcanos	1st	Opening Government	View Ballot	Eitan Ern LooⒸ
+Wonder	3rd	Opening Opposition	View Ballot	Eitan Ern LooⒸ
+BFSU brat	4th	Closing Government	View Ballot	Eitan Ern LooⒸ
+BFSU Twilight	2nd	Closing Opposition	View Ballot	Eitan Ern LooⒸ
+UM black tea dumpling	4th	Opening Government	View Ballot	Raymond ChumaⒸ
+Chittagong A	2nd	Opening Opposition	View Ballot	Raymond ChumaⒸ
+GGJJ	3rd	Closing Government	View Ballot	Raymond ChumaⒸ
+CityU Macau A&amp;S	1st	Closing Opposition	View Ballot	Raymond ChumaⒸ
+Swing 1	1st	Opening Government	View Ballot	Ivy YuⒸ
+UM We haven’t debated for a while	3rd	Opening Opposition	View Ballot	Ivy YuⒸ
+Nankai C&amp;T	2nd	Closing Government	View Ballot	Ivy YuⒸ
+CUHKSZ Supernova	4th	Closing Opposition	View Ballot	Ivy YuⒸ
+ZFLS &amp; NFLS, from PKU to Macau	2nd	Opening Government	View Ballot	Leauren S. JiⒸ , Olivia Yu 余若菡
+UM Random Team Name	3rd	Opening Opposition	View Ballot	Leauren S. JiⒸ , Olivia Yu 余若菡
+LC	4th	Closing Government	View Ballot	Leauren S. JiⒸ , Olivia Yu 余若菡
+THP the left sock to the right sock	1st	Closing Opposition	View Ballot	Leauren S. JiⒸ , Olivia Yu 余若菡
+MUST Bet On Me	3rd	Opening Government	View Ballot	Teye Prince-DanielⒸ
+MUST plzletuswon	4th	Opening Opposition	View Ballot	Teye Prince-DanielⒸ
+BFSU Treeva	1st	Closing Government	View Ballot	Teye Prince-DanielⒸ
+MUST plz wake up	2nd	Closing Opposition	View Ballot	Teye Prince-DanielⒸ
+
+
+team	result	side	ballot	adjudicators
+Pui Ching Stay and Moa	2nd	Opening Government	View Ballot	BluesⒸ
+叶如雨 Leaves Falling Like Rain	1st	Opening Opposition	View Ballot	BluesⒸ
+Pui Ching Jazdé	4th	Closing Government	View Ballot	BluesⒸ
+Huaxia π team	3rd	Closing Opposition	View Ballot	BluesⒸ
+Atlantis A	2nd	Opening Government	View Ballot	Vincent ChauⒸ
+Haven’t debated for so long	3rd	Opening Opposition	View Ballot	Vincent ChauⒸ
+BFSU Florina	4th	Closing Government	View Ballot	Vincent ChauⒸ
+ZFLS &amp; NFLS, from PKU to Macau	1st	Closing Opposition	View Ballot	Vincent ChauⒸ
+UM black tea dumpling	4th	Opening Government	View Ballot	Adel Mostaque AhmedⒸ , Andreas Lorenziuz
+SYSU Love what you love	2nd	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ , Andreas Lorenziuz
+BATTER UP!!!	3rd	Closing Government	View Ballot	Adel Mostaque AhmedⒸ , Andreas Lorenziuz
+Swing 2	1st	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ , Andreas Lorenziuz
+UM We haven’t debated for a while	4th	Opening Government	View Ballot	Syed Hamza JavaidⒸ
+BFSU YOLO	3rd	Opening Opposition	View Ballot	Syed Hamza JavaidⒸ
+Pui Ching Bananna	2nd	Closing Government	View Ballot	Syed Hamza JavaidⒸ
+Bravo	1st	Closing Opposition	View Ballot	Syed Hamza JavaidⒸ
+CityU Macau A&amp;S	3rd	Opening Government	View Ballot	TobiⒸ
+Twenty	2nd	Opening Opposition	View Ballot	TobiⒸ
+Anti-hero	1st	Closing Government	View Ballot	TobiⒸ
+SYSU Phoenix	4th	Closing Opposition	View Ballot	TobiⒸ
+Swing 1	2nd	Opening Government	View Ballot	Robin AhujaⒸ , Shakran Salekin
+BFSU Wild Lions	4th	Opening Opposition	View Ballot	Robin AhujaⒸ , Shakran Salekin
+BFSU AFfi	3rd	Closing Government	View Ballot	Robin AhujaⒸ , Shakran Salekin
+Delay No More	1st	Closing Opposition	View Ballot	Robin AhujaⒸ , Shakran Salekin
+Nankai C&amp;T	4th	Opening Government	View Ballot	Desmond DorvloⒸ , Jack Chan
+BFSU Volcanos	3rd	Opening Opposition	View Ballot	Desmond DorvloⒸ , Jack Chan
+CS	1st	Closing Government	View Ballot	Desmond DorvloⒸ , Jack Chan
+Airwing	2nd	Closing Opposition	View Ballot	Desmond DorvloⒸ , Jack Chan
+LC	3rd	Opening Government	View Ballot	Chelsea ZhengⒸ
+Macau PolyU UPM	2nd	Opening Opposition	View Ballot	Chelsea ZhengⒸ
+Code	4th	Closing Government	View Ballot	Chelsea ZhengⒸ
+Seth	1st	Closing Opposition	View Ballot	Chelsea ZhengⒸ
+Spicy G	1st	Opening Government	View Ballot	Uphie abdurrahmanⒸ
+BFSU Dynamo	4th	Opening Opposition	View Ballot	Uphie abdurrahmanⒸ
+HKU Mothers	3rd	Closing Government	View Ballot	Uphie abdurrahmanⒸ
+CUHKSZ Dhakdnusbkal	2nd	Closing Opposition	View Ballot	Uphie abdurrahmanⒸ
+SYSU November Rain	2nd	Opening Government	View Ballot	Josef SingsonⒸ
+MUST plz wake up	3rd	Opening Opposition	View Ballot	Josef SingsonⒸ
+Hard Black	4th	Closing Government	View Ballot	Josef SingsonⒸ
+UM Thank you David for making this hap	1st	Closing Opposition	View Ballot	Josef SingsonⒸ
+She finally said yes (to a tourname	2nd	Opening Government	View Ballot	Joy HadomeⒸ
+UPD u down for a halfie tonight?	3rd	Opening Opposition	View Ballot	Joy HadomeⒸ
+Mat Sushi My Mommy	1st	Closing Government	View Ballot	Joy HadomeⒸ
+MWS white peach oolong from chagee	4th	Closing Opposition	View Ballot	Joy HadomeⒸ
+Jareds	3rd	Opening Government	View Ballot	Gelson EngⒸ , Amanda 王雯琪
+SYSU BE COMPARATIVE	2nd	Opening Opposition	View Ballot	Gelson EngⒸ , Amanda 王雯琪
+CFAU 乐高 Lego	1st	Closing Government	View Ballot	Gelson EngⒸ , Amanda 王雯琪
+MUST Annpower	4th	Closing Opposition	View Ballot	Gelson EngⒸ , Amanda 王雯琪
+BFSU brat	1st	Opening Government	View Ballot	Sarah KhanⒸ
+CAFUC 1	3rd	Opening Opposition	View Ballot	Sarah KhanⒸ
+MUST plzletuswon	2nd	Closing Government	View Ballot	Sarah KhanⒸ
+Clement &amp; Cruz	4th	Closing Opposition	View Ballot	Sarah KhanⒸ
+Watching the Sandcastle Crumble	1st	Opening Government	View Ballot	Raymond ChumaⒸ
+Zhejiang Fried Sauce Lightbox	3rd	Opening Opposition	View Ballot	Raymond ChumaⒸ
+Dialogy Toni Morrison	2nd	Closing Government	View Ballot	Raymond ChumaⒸ
+UM Random Team Name	4th	Closing Opposition	View Ballot	Raymond ChumaⒸ
+Shinhan bank	1st	Opening Government	View Ballot	Prosper Michael AmetuⒸ , Sihan (Echo) Ni
+5 AM STICKY BALLS SLURPIES 🧋	2nd	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ , Sihan (Echo) Ni
+MUST MUST’s worst	4th	Closing Government	View Ballot	Prosper Michael AmetuⒸ , Sihan (Echo) Ni
+I&#x27;ve Debated this Motion Before	3rd	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ , Sihan (Echo) Ni
+Chittagong A	3rd	Opening Government	View Ballot	KaiⒸ , Eitan Ern Loo
+CUHKSZ Geeks	4th	Opening Opposition	View Ballot	KaiⒸ , Eitan Ern Loo
+Lodge Lodge Debate Society	1st	Closing Government	View Ballot	KaiⒸ , Eitan Ern Loo
+BFSU Treeva	2nd	Closing Opposition	View Ballot	KaiⒸ , Eitan Ern Loo
+CFAU 对对对你说的队 Yes Yes Yes You are Correct	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ , Olivia Yu 余若菡
+Broke Girls	4th	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Olivia Yu 余若菡
+Our partner is working on her paper	3rd	Closing Government	View Ballot	Ayodele SamuelⒸ , Olivia Yu 余若菡
+Surella	1st	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Olivia Yu 余若菡
+SYSU I cannot tell between nine and nein	1st	Opening Government	View Ballot	Shashwat DashⒸ , Violet
+BFSU Twilight	3rd	Opening Opposition	View Ballot	Shashwat DashⒸ , Violet
+GGJJ	4th	Closing Government	View Ballot	Shashwat DashⒸ , Violet
+xy	2nd	Closing Opposition	View Ballot	Shashwat DashⒸ , Violet
+Captain Bailey&#x27;s Bizarre Babygworls	3rd	Opening Government	View Ballot	Donner TangⒸ , Ralph
+THP the left sock to the right sock	2nd	Opening Opposition	View Ballot	Donner TangⒸ , Ralph
+Two Chinitos eating Piattos	1st	Closing Government	View Ballot	Donner TangⒸ , Ralph
+White Chocolate	4th	Closing Opposition	View Ballot	Donner TangⒸ , Ralph
+BFSU AR	2nd	Opening Government	View Ballot	Ayafa TonyeⒸ , Jamin Min
+SYSU Snake or snack	1st	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Jamin Min
+NU Forever Debatable	4th	Closing Government	View Ballot	Ayafa TonyeⒸ , Jamin Min
+CFAU JanFeb Elite	3rd	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Jamin Min
+Wonder	1st	Opening Government	View Ballot	Teye Prince-DanielⒸ
+Watch out Taro	2nd	Opening Opposition	View Ballot	Teye Prince-DanielⒸ
+CUHKSZ Supernova	3rd	Closing Government	View Ballot	Teye Prince-DanielⒸ
+MUST Bet On Me	4th	Closing Opposition	View Ballot	Teye Prince-DanielⒸ
+
+
+team	result	side	adjudicators
+CUHKSZ Dhakdnusbkal	eliminated	Opening Government	Jack ChanⒸ , Imran Ilmam , Prosper Michael Ametu
+She finally said yes (to a tourname	advancing	Opening Opposition	Jack ChanⒸ , Imran Ilmam , Prosper Michael Ametu
+Captain Bailey&#x27;s Bizarre Babygworls	advancing	Closing Government	Jack ChanⒸ , Imran Ilmam , Prosper Michael Ametu
+Watching the Sandcastle Crumble	eliminated	Closing Opposition	Jack ChanⒸ , Imran Ilmam , Prosper Michael Ametu
+Shinhan bank	advancing	Opening Government	Sarah KhanⒸ , Teye Prince-Daniel , Uphie abdurrahman
+UPD u down for a halfie tonight?	advancing	Opening Opposition	Sarah KhanⒸ , Teye Prince-Daniel , Uphie abdurrahman
+MUST MUST’s worst	eliminated	Closing Government	Sarah KhanⒸ , Teye Prince-Daniel , Uphie abdurrahman
+Dialogy Toni Morrison	eliminated	Closing Opposition	Sarah KhanⒸ , Teye Prince-Daniel , Uphie abdurrahman
+5 AM STICKY BALLS SLURPIES 🧋	advancing	Opening Government	BluesⒸ , Ayodele Samuel , Namita Pandey
+MWS white peach oolong from chagee	eliminated	Opening Opposition	BluesⒸ , Ayodele Samuel , Namita Pandey
+Two Chinitos eating Piattos	eliminated	Closing Government	BluesⒸ , Ayodele Samuel , Namita Pandey
+I&#x27;ve Debated this Motion Before	advancing	Closing Opposition	BluesⒸ , Ayodele Samuel , Namita Pandey
+ZFLS &amp; NFLS, from PKU to Macau	eliminated	Opening Government	Chelsea ZhengⒸ , Joy Hadome , Ralph
+Atlantis A	eliminated	Opening Opposition	Chelsea ZhengⒸ , Joy Hadome , Ralph
+THP the left sock to the right sock	advancing	Closing Government	Chelsea ZhengⒸ , Joy Hadome , Ralph
+Mat Sushi My Mommy	advancing	Closing Opposition	Chelsea ZhengⒸ , Joy Hadome , Ralph
+
+
+team	result	side	adjudicators
+THP the left sock to the right sock	eliminated	Opening Government	Adel Mostaque AhmedⒸ , Desmond Dorvlo , Joy Hadome , Shashwat Dash
+Mat Sushi My Mommy	advancing	Opening Opposition	Adel Mostaque AhmedⒸ , Desmond Dorvlo , Joy Hadome , Shashwat Dash
+5 AM STICKY BALLS SLURPIES 🧋	advancing	Closing Government	Adel Mostaque AhmedⒸ , Desmond Dorvlo , Joy Hadome , Shashwat Dash
+I&#x27;ve Debated this Motion Before	eliminated	Closing Opposition	Adel Mostaque AhmedⒸ , Desmond Dorvlo , Joy Hadome , Shashwat Dash
+UPD u down for a halfie tonight?	advancing	Opening Government	Imran IlmamⒸ , Gelson Eng , Kai
+Shinhan bank	eliminated	Opening Opposition	Imran IlmamⒸ , Gelson Eng , Kai
+Captain Bailey&#x27;s Bizarre Babygworls	eliminated	Closing Government	Imran IlmamⒸ , Gelson Eng , Kai
+She finally said yes (to a tourname	advancing	Closing Opposition	Imran IlmamⒸ , Gelson Eng , Kai
+
+
+team	result	side	adjudicators
+She finally said yes (to a tourname	eliminated	Opening Government	Joy HadomeⒸ , Adel Mostaque Ahmed , Gelson Eng , Imran Ilmam , Leauren S. Ji
+5 AM STICKY BALLS SLURPIES 🧋	eliminated	Closing Government	Joy HadomeⒸ , Adel Mostaque Ahmed , Gelson Eng , Imran Ilmam , Leauren S. Ji
+UPD u down for a halfie tonight?	eliminated	Closing Opposition	Joy HadomeⒸ , Adel Mostaque Ahmed , Gelson Eng , Imran Ilmam , Leauren S. Ji
+Mat Sushi My Mommy	advancing	Opening Opposition	Joy HadomeⒸ , Adel Mostaque Ahmed , Gelson Eng , Imran Ilmam , Leauren S. Ji
+
+
+team	result	side	adjudicators
+xy	advancing	Opening Government	Josef SingsonⒸ , Adel Mostaque Ahmed , Syed Hamza Javaid
+BFSU Treeva	advancing	Opening Opposition	Josef SingsonⒸ , Adel Mostaque Ahmed , Syed Hamza Javaid
+BFSU Florina	eliminated	Closing Opposition	Josef SingsonⒸ , Adel Mostaque Ahmed , Syed Hamza Javaid
+Swing 1	eliminated	Closing Government	Josef SingsonⒸ , Adel Mostaque Ahmed , Syed Hamza Javaid
+BFSU AR	eliminated	Opening Government	Ayafa TonyeⒸ , Raymond Chuma , Robin Ahuja
+Code	advancing	Opening Opposition	Ayafa TonyeⒸ , Raymond Chuma , Robin Ahuja
+CFAU JanFeb Elite	eliminated	Closing Government	Ayafa TonyeⒸ , Raymond Chuma , Robin Ahuja
+LC	advancing	Closing Opposition	Ayafa TonyeⒸ , Raymond Chuma , Robin Ahuja
+BFSU Volcanos	advancing	Opening Government	Shakran SalekinⒸ , Desmond Dorvlo , Gelson Eng
+Bravo	advancing	Opening Opposition	Shakran SalekinⒸ , Desmond Dorvlo , Gelson Eng
+BFSU Wild Lions	eliminated	Closing Government	Shakran SalekinⒸ , Desmond Dorvlo , Gelson Eng
+CFAU 对对对你说的队 Yes Yes Yes You are Correct	eliminated	Closing Opposition	Shakran SalekinⒸ , Desmond Dorvlo , Gelson Eng
+BFSU Dynamo	advancing	Opening Government	Jamin MinⒸ , Eitan Ern Loo , Kai
+Pui Ching Bananna	advancing	Opening Opposition	Jamin MinⒸ , Eitan Ern Loo , Kai
+BFSU AFfi	eliminated	Closing Government	Jamin MinⒸ , Eitan Ern Loo , Kai
+CFAU 乐高 Lego	eliminated	Closing Opposition	Jamin MinⒸ , Eitan Ern Loo , Kai
+
+
+team	result	side	adjudicators
+xy	advancing	Opening Government	Josef SingsonⒸ , Ayafa Tonye , James Ryan Cachola
+BFSU Volcanos	advancing	Opening Opposition	Josef SingsonⒸ , Ayafa Tonye , James Ryan Cachola
+Bravo	eliminated	Closing Government	Josef SingsonⒸ , Ayafa Tonye , James Ryan Cachola
+BFSU Treeva	eliminated	Closing Opposition	Josef SingsonⒸ , Ayafa Tonye , James Ryan Cachola
+Code	eliminated	Closing Opposition	Uphie abdurrahmanⒸ , Shakran Salekin , Tobi
+BFSU Dynamo	advancing	Opening Opposition	Uphie abdurrahmanⒸ , Shakran Salekin , Tobi
+LC	advancing	Opening Government	Uphie abdurrahmanⒸ , Shakran Salekin , Tobi
+Pui Ching Bananna	eliminated	Closing Government	Uphie abdurrahmanⒸ , Shakran Salekin , Tobi
+
+
+team	result	side	adjudicators
+BFSU Dynamo	eliminated	Opening Government	Ayafa TonyeⒸ , Namita Pandey , Sarah Khan , Shashwat Dash , Teye Prince-Daniel
+LC	advancing	Opening Opposition	Ayafa TonyeⒸ , Namita Pandey , Sarah Khan , Shashwat Dash , Teye Prince-Daniel
+xy	eliminated	Closing Government	Ayafa TonyeⒸ , Namita Pandey , Sarah Khan , Shashwat Dash , Teye Prince-Daniel
+BFSU Volcanos	eliminated	Closing Opposition	Ayafa TonyeⒸ , Namita Pandey , Sarah Khan , Shashwat Dash , Teye Prince-Daniel
+
+
+team	result	side	adjudicators
+Anti-hero	advancing	Opening Government	RalphⒸ , Raymond Chuma , Sarah Khan , Vincent Chau
+Spicy G	eliminated	Opening Opposition	RalphⒸ , Raymond Chuma , Sarah Khan , Vincent Chau
+Lodge Lodge Debate Society	eliminated	Closing Government	RalphⒸ , Raymond Chuma , Sarah Khan , Vincent Chau
+White Chocolate	eliminated	Closing Opposition	RalphⒸ , Raymond Chuma , Sarah Khan , Vincent Chau
+

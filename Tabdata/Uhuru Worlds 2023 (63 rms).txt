@@ -1,0 +1,2017 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Oxford AP		1st	1st	1st	2nd	1st	14	791	4	1
+2	Only chronically partnerless		1st	1st	1st	1st	3rd	13	795	4	0
+3	Harold and Kumar (guess which one		1st	1st	3rd	1st	1st	13	791	4	0
+4	Bucharest A	ESL	1st	1st	2nd	1st	2nd	13	790	3	2
+5	TCD Hist Rehan and Ziyad		2nd	2nd	1st	1st	1st	13	787	3	2
+6	LSE If u can&#x27;t pre with alchool, pre w	ESL	1st	2nd	1st	2nd	1st	13	786	3	2
+7	DU Kunwar Adhiraj Pratap Singh	ESL	2nd	1st	2nd	1st	2nd	12	803	2	3
+8	Pirates of the Gulf of Guinea		1st	3rd	1st	1st	2nd	12	792	3	1
+9	Questern		2nd	2nd	1st	1st	2nd	12	790	2	3
+10	Will confirm asap	ESL	1st	1st	2nd	3rd	1st	12	786	3	1
+11	GUU (B)reaking Free		1st	3rd	2nd	1st	1st	12	785	3	1
+12	Bucharest B	ESL	1st	1st	1st	4th	1st	12	783	4	0
+13	TCD Hist I’m not ticklish, you are!		3rd	1st	1st	2nd	1st	12	779	3	1
+14	Cornell Gaveal&#x27;s biggest fans		1st	2nd	1st	1st	4th	11	795	3	1
+15	Chulalongkorn SS	ESL, Novice	1st	2nd	2nd	3rd	1st	11	795	2	2
+16	Edinburgh ... B? C? A-Z? Σ		1st	1st	2nd	3rd	2nd	11	790	2	2
+17	We retired from retirement because	ESL	2nd	1st	2nd	2nd	2nd	11	787	1	4
+18	subject to change	ESL	1st	3rd	1st	2nd	2nd	11	786	2	2
+19	Founders League Union	Novice	1st	4th	1st	1st	2nd	11	782	3	1
+20	Alberta THBT it is biologically advantageo		1st	1st	1st	3rd	3rd	11	777	3	0
+21	Exeter EXit Stage Left		2nd	1st	3rd	2nd	1st	11	775	2	2
+22	Shady phsychopath	ESL	2nd	1st	1st	4th	1st	11	773	3	1
+23	homeless kiddoss w/o albert	ESL, Novice, Schools	3rd	2nd	2nd	1st	1st	11	772	2	2
+24	CU A	ESL	2nd	2nd	2nd	1st	2nd	11	771	1	4
+25	FTU wuh wuh what?	ESL	1st	2nd	2nd	1st	3rd	11	768	2	2
+26	FLSS CNN Befuddled	Novice, Schools	1st	2nd	1st	4th	1st	11	767	3	1
+27	Queen&#x27;s astral projecting into ur butthole		3rd	1st	1st	3rd	1st	11	766	3	0
+28	Break X Hunters	ESL, Novice	2nd	3rd	2nd	1st	1st	11	759	2	2
+29	Whiptical Illusion	ESL, Novice	1st	2nd	2nd	2nd	3rd	10	791	1	3
+30	TSRS Reg time running out	ESL, Novice, Schools	2nd	1st	4th	1st	2nd	10	787	2	2
+31	KCL the equity officer and the walking		1st	1st	3rd	4th	1st	10	785	3	0
+32	no eco motions pls	ESL	2nd	1st	1st	2nd	4th	10	784	2	2
+33	Strathmore Pee Oh Eye	ESL	2nd	1st	3rd	1st	3rd	10	783	2	1
+34	HG F(orever single, hopefully not ???	Novice, Schools	2nd	1st	2nd	4th	1st	10	782	2	2
+35	Iguanakant		1st	4th	3rd	1st	1st	10	781	3	0
+36	USIU Ikenga		1st	3rd	2nd	2nd	2nd	10	780	1	3
+37	Cornell Recycle		1st	3rd	1st	3rd	2nd	10	778	2	1
+38=	HG E - exhausted eject exit ?????em f	Novice, Schools	1st	2nd	1st	3rd	3rd	10	777	2	1
+38=	Tora and Aru	Novice, Schools	1st	3rd	1st	2nd	3rd	10	777	2	1
+40	NMU Top of the TABlet		1st	2nd	3rd	1st	3rd	10	774	2	1
+41=	LGS JT Powerpuff Boys	Novice, Schools	1st	1st	2nd	2nd	4th	10	773	2	2
+41=	XU-AdC The Rise of Bilateralism	ESL, Novice	2nd	2nd	1st	1st	4th	10	773	2	2
+43	ALU A		3rd	2nd	1st	1st	3rd	10	773	2	1
+44	Miki’s looking a bit different tod		1st	2nd	1st	4th	2nd	10	772	2	2
+45	UHAS UpDown	ESL	3rd	1st	1st	4th	1st	10	770	3	0
+46	J and J		2nd	1st	4th	1st	2nd	10	765	2	2
+47	NMIMS ASMSOC e-mommy affliction	ESL, Novice	3rd	4th	1st	1st	1st	10	763	3	0
+48	Kings	ESL, Novice	1st	2nd	2nd	4th	1st	10	761	2	2
+49=	WPGA Laddu	Novice, Schools	1st	3rd	2nd	2nd	2nd	10	761	1	3
+49=	Transoceanic Javertists	Novice	2nd	2nd	3rd	2nd	1st	10	761	1	3
+51	Coerce you !	ESL	1st	1st	4th	3rd	1st	10	760	3	0
+52	sin cos tan, your mom my onlyfan	ESL, Novice	1st	3rd	4th	1st	1st	10	755	3	0
+53	IIT Roorkee zengel	ESL, Novice	3rd	1st	2nd	2nd	2nd	10	753	1	3
+54	IIT Bombay Why is GC still our debate peak?	ESL	1st	2nd	4th	1st	3rd	9	781	2	1
+55	2 philosophers stoned	ESL	3rd	1st	4th	2nd	1st	9	779	2	1
+56	pp on the pp (get your mind out of	ESL, Novice, Schools	2nd	1st	3rd	3rd	2nd	9	775	1	2
+57	Japan Yamagishi	ESL	2nd	3rd	1st	1st	4th	9	774	2	1
+58	KNUST B	ESL	4th	2nd	3rd	1st	1st	9	772	2	1
+59	St Andrews (B)arking up the wrong tree		1st	2nd	3rd	2nd	3rd	9	772	1	2
+60	Jinx homies	ESL	1st	1st	3rd	2nd	4th	9	771	2	1
+61	HG A - HGDT but just the cuties	Novice, Schools	2nd	3rd	3rd	2nd	1st	9	771	1	2
+62	IIT Delhi Not a loss but a strategic 4th	ESL, Novice	2nd	2nd	2nd	1st	4th	9	770	1	3
+63	Alberta Winning is a Canon Event		3rd	2nd	1st	3rd	2nd	9	770	1	2
+64	KNUST PETRICHOR	ESL	1st	3rd	3rd	2nd	2nd	9	768	1	2
+65	LGS JT Phantom Troupe		3rd	1st	2nd	2nd	3rd	9	767	1	2
+66	Santo Tomas debasties	ESL, Novice	2nd	2nd	1st	4th	2nd	9	765	1	3
+67	Berlin B	ESL	2nd	1st	3rd	3rd	2nd	9	765	1	2
+68	CAITO KINGS	ESL	2nd	3rd	3rd	2nd	1st	9	764	1	2
+69	PSHS ADDU Bangkal Campus	ESL, Novice, Schools	1st	3rd	4th	2nd	1st	9	763	2	1
+70	Spring 1975	ESL	1st	3rd	3rd	1st	3rd	9	761	2	0
+71	GNLU Doofenshmirtz and his (emotional s	Novice	2nd	4th	2nd	1st	2nd	9	761	1	3
+72	XU-AdC SASHA COLBY!		1st	3rd	2nd	4th	1st	9	759	2	1
+73	we fought each other in uhuru last	Novice, Schools	3rd	1st	3rd	2nd	2nd	9	759	1	2
+74	HG C - She says I am the One (but t	Novice, Schools	4th	1st	2nd	3rd	1st	9	758	2	1
+75	ADDU Rikk and Nurty	ESL	2nd	3rd	1st	2nd	3rd	9	756	1	2
+76	Coimbra PRC - People&#x27;s Republic of Coimbra	ESL	1st	4th	1st	3rd	2nd	9	754	2	1
+77	We are here		2nd	3rd	2nd	1st	3rd	9	752	1	2
+78	GU Easy Company		—	2nd	3rd	1st	1st	9	603	2	1
+79	Budapest BanDia	ESL	3rd	2nd	2nd	1st	4th	8	777	1	2
+80	ARSDC DU 3 inches is not enough ?	ESL, Novice	1st	3rd	3rd	2nd	3rd	8	773	1	1
+81=	Strathmore Onigashima	ESL	2nd	1st	4th	1st	4th	8	772	2	1
+81=	we&#x27;re contacting you about your ca	Schools	1st	1st	4th	2nd	4th	8	772	2	1
+83	NMU Anbu Black Ops		1st	3rd	1st	3rd	4th	8	768	2	0
+84	Spirit of the Coast	ESL	1st	1st	4th	2nd	4th	8	767	2	1
+85	AUD THS Heartache	ESL, Novice	4th	3rd	1st	3rd	1st	8	765	2	0
+86	Sun kissed HOEmies	ESL, Novice	1st	2nd	3rd	3rd	3rd	8	765	1	1
+87	Dundee Euros Champions 2023		2nd	4th	1st	4th	1st	8	764	2	1
+88	Strathmore Tirana	ESL	1st	1st	3rd	3rd	4th	8	763	2	0
+89	ENU Nothing to say	ESL	2nd	4th	3rd	1st	2nd	8	763	1	2
+90	ITS 4AM AT 107		2nd	2nd	4th	2nd	2nd	8	763	0	4
+91=	PHDS Excuse Me, He Asked For No Pickles	Novice, Schools	2nd	3rd	1st	4th	2nd	8	759	1	2
+91=	Sir MVIT SMVIT	ESL, Novice	2nd	4th	3rd	2nd	1st	8	759	1	2
+91=	Frenemies	ESL, Novice, Schools	2nd	3rd	2nd	1st	4th	8	759	1	2
+91=	one of us gave the other daddy iss	ESL, Novice, Schools	4th	2nd	1st	2nd	3rd	8	759	1	2
+95=	AUD Haldiram	ESL	1st	3rd	3rd	2nd	3rd	8	758	1	1
+95=	Back Again	ESL	3rd	3rd	2nd	3rd	1st	8	758	1	1
+97=	Mastermind Chicks with kicks	ESL, Novice, Schools	4th	3rd	1st	1st	3rd	8	757	2	0
+97=	Bin roomers	ESL	1st	4th	1st	3rd	3rd	8	757	2	0
+99	IIT Delhi Two Whips	ESL, Novice	4th	2nd	1st	2nd	3rd	8	757	1	2
+100	THR Messi`s move to Inter Miami	Novice	1st	3rd	2nd	4th	2nd	8	756	1	2
+101	KNUST WeGoJapa	ESL	2nd	3rd	3rd	1st	3rd	8	756	1	1
+102=	KMC Kowalski and Skipper	ESL	4th	1st	1st	4th	2nd	8	754	2	1
+102=	Swing 2		4th	4th	2nd	1st	1st	8	754	2	1
+104	KU Apple	ESL	3rd	3rd	1st	4th	1st	8	753	2	0
+105	JUST Goku &amp; Saitama	ESL	3rd	3rd	1st	3rd	2nd	8	751	1	1
+106	Hiroogakuen Goat and Toad	Novice, Schools	1st	4th	4th	2nd	1st	8	750	2	1
+107	ACCDC 101	ESL, Novice	3rd	2nd	2nd	2nd	3rd	8	750	0	3
+108	KNUST From Me 2 You	ESL	3rd	1st	3rd	1st	4th	8	749	2	0
+109	GCU The Ahl e Dard Cabinet		3rd	3rd	2nd	2nd	2nd	8	746	0	3
+110	PES Broke without breaks	ESL	4th	1st	3rd	1st	4th	7	772	2	0
+111	Kung-fu Panda	ESL	1st	4th	1st	3rd	4th	7	769	2	0
+112	PHDS Osmanthus wine tastes as weird as	Novice, Schools	3rd	3rd	3rd	3rd	1st	7	769	1	0
+113	BITS Goa A50x	ESL	2nd	4th	2nd	2nd	3rd	7	766	0	3
+114	DNLU Shastrartha		1st	4th	3rd	1st	4th	7	764	2	0
+115	FUV composite	ESL	3rd	1st	4th	4th	1st	7	763	2	0
+116	KNUST Fire and Ice	ESL	3rd	1st	3rd	4th	2nd	7	763	1	1
+117	KNUST WesieAcheaw	ESL, Novice	2nd	4th	1st	3rd	3rd	7	762	1	1
+118	we can make the whole debate shimm	ESL, Novice, Schools	4th	2nd	2nd	2nd	3rd	7	761	0	3
+119	BUP B	ESL	4th	1st	1st	3rd	4th	7	760	2	0
+120	surprise me w speaks, adj	ESL	1st	4th	2nd	3rd	3rd	7	760	1	1
+121	MAULERS GMT +7	ESL, Novice, Schools	2nd	2nd	3rd	3rd	3rd	7	756	0	2
+122	Up for Debate UFD India	ESL, Novice, Schools	2nd	3rd	1st	4th	3rd	7	755	1	1
+123	KCW KC A	ESL	2nd	3rd	3rd	1st	4th	7	754	1	1
+124	WMSU count to ten please	ESL, Novice	2nd	2nd	4th	3rd	2nd	7	754	0	3
+125	NSTU DS Pioneer		3rd	3rd	2nd	3rd	2nd	7	753	0	2
+126	NWU Potchefstroom Zucchini		3rd	1st	4th	4th	1st	7	752	2	0
+127=	KIIT Chosen Ones	ESL, Novice	2nd	1st	3rd	3rd	4th	7	751	1	1
+127=	KNUST Game of Thrones	ESL, Novice	3rd	3rd	1st	2nd	4th	7	751	1	1
+129	CU B		4th	2nd	1st	4th	2nd	7	750	1	2
+130	DTU chukuchukuchuku	ESL, Novice	2nd	4th	3rd	1st	3rd	7	749	1	1
+131	USIU Gunners		4th	1st	2nd	4th	2nd	7	748	1	2
+132=	IIT Delhi Legit Law	ESL	3rd	4th	1st	1st	4th	7	747	2	0
+132=	Nairobi Wolf ??	ESL	1st	4th	3rd	4th	1st	7	747	2	0
+134=	RMLNLU Brampton ke Munde	ESL, Novice	4th	3rd	1st	3rd	2nd	7	747	1	1
+134=	NSTU DS Warriors	Novice	3rd	3rd	4th	2nd	1st	7	747	1	1
+136	HG D-either we break or break down	Novice, Schools	3rd	2nd	4th	2nd	2nd	7	745	0	3
+137	USIU cereal killer		4th	4th	2nd	1st	2nd	7	743	1	2
+138	Dhaka DUDS	ESL, Novice	3rd	2nd	4th	1st	3rd	7	743	1	1
+139	GLC Mumbai Won plus won equals two		4th	1st	2nd	2nd	4th	7	740	1	2
+140	Swing 1		1st	2nd	2nd	4th	—	7	610	1	2
+141	UHAS Strange beings	Novice	—	3rd	4th	1st	1st	7	595	2	0
+142	GLC 1+1		3rd	3rd	2nd	2nd	4th	6	761	0	2
+143	Ilorin Law and Medic	ESL, Novice	3rd	4th	2nd	1st	4th	6	758	1	1
+144	SRCC Pakoda simps	ESL, Novice	4th	1st	1st	4th	4th	6	756	2	0
+145	Abeg flex		3rd	1st	4th	2nd	4th	6	756	1	1
+146	KNUST Fire Nation ??	ESL	2nd	4th	4th	1st	3rd	6	755	1	1
+147	Bonnie-Clyde		4th	2nd	1st	3rd	4th	6	754	1	1
+148=	Nairobi Under the bleachers	ESL	2nd	1st	4th	4th	3rd	6	753	1	1
+148=	Utilitarian arguments disguised as	ESL	3rd	4th	2nd	1st	4th	6	753	1	1
+150	KNUST Outlaws	ESL, Novice	3rd	2nd	4th	2nd	3rd	6	753	0	2
+151	Kekuatan		4th	1st	1st	4th	4th	6	752	2	0
+152	CU Hills		4th	2nd	4th	3rd	1st	6	752	1	1
+153	IIT Roorkee Strawberries over Peaches	ESL, Novice	2nd	4th	4th	1st	3rd	6	751	1	1
+154	CU C	ESL, Novice	4th	3rd	3rd	3rd	1st	6	751	1	0
+155	Berlin C	ESL, Novice	2nd	3rd	3rd	4th	2nd	6	751	0	2
+156	The Boys		3rd	1st	2nd	4th	4th	6	748	1	1
+157=	NMU Your Opponents	Novice	4th	2nd	2nd	3rd	3rd	6	748	0	2
+157=	PUDS Spurs	Novice	4th	3rd	3rd	2nd	2nd	6	748	0	2
+159	Raiden Ajeng Kartini	ESL, Novice, Schools	3rd	3rd	4th	2nd	2nd	6	747	0	2
+160	NUST Operation Restore Legacy		2nd	4th	3rd	3rd	2nd	6	746	0	2
+161	HG G	Novice, Schools	4th	1st	4th	2nd	3rd	6	739	1	1
+162	WMSU anti regionalian girlies	ESL, Novice	4th	1st	4th	4th	1st	6	736	2	0
+163	KNUST Team Fire	ESL, Novice	4th	3rd	3rd	2nd	2nd	6	722	0	2
+164	Aberystwyth EpIc PogChamp Gamers		1st	2nd	4th	3rd	—	6	619	1	1
+165	SVC BP is not our cup of tea	ESL, Novice	2nd	2nd	2nd	4th	—	6	619	0	3
+166	washed up seniors		1st	1st	4th	4th	—	6	615	2	0
+167	IIT Bombay Bubble room trauma	ESL	2nd	4th	1st	3rd	—	6	612	1	1
+168	SBSCDU Chindi in Sainik Farms	ESL	2nd	3rd	2nd	3rd	—	6	612	0	2
+169	PES kya hi bolu	ESL	2nd	4th	1st	3rd	—	6	601	1	1
+170	HG B - Fo Shizzle My Drizzle	Novice, Schools	1st	2nd	4th	4th	4th	5	763	1	1
+171	HG H - GyuDONE with Debate ??	Novice, Schools	2nd	2nd	4th	4th	3rd	5	757	0	2
+172	KCW KC D	ESL, Novice	3rd	2nd	4th	3rd	3rd	5	753	0	1
+173	NMIMS to spit or to swallow…the argument	ESL, Novice	2nd	4th	4th	3rd	2nd	5	752	0	2
+174	MAULERS leon lovers	ESL, Novice, Schools	2nd	4th	3rd	3rd	3rd	5	747	0	1
+175	Nairobi Never Have l Ever	Novice	4th	1st	4th	2nd	4th	5	746	1	1
+176	KNUST Hashmirdom		3rd	3rd	2nd	4th	3rd	5	746	0	1
+177	average semi-support/offlane role	ESL	4th	4th	1st	2nd	4th	5	745	1	1
+178	BITS Goa DH2 Boiz	ESL, Novice	3rd	3rd	2nd	4th	3rd	5	745	0	1
+179	HG J(ust dance)	Novice, Schools	4th	4th	4th	1st	2nd	5	743	1	1
+180	CU D	ESL	4th	4th	3rd	2nd	2nd	5	738	0	2
+181	UHAS B	Novice	4th	2nd	4th	4th	1st	5	731	1	1
+182	HLU 1	ESL, Novice	3rd	2nd	4th	2nd	4th	5	731	0	2
+183	J.K.U.A.T Here to fill the bins.		3rd	2nd	3rd	3rd	4th	5	731	0	1
+184	CU ACC	ESL, Novice	3rd	4th	3rd	1st	4th	5	716	1	0
+185	Foster kids		3rd	1st	4th	3rd	—	5	608	1	0
+186	we identify as novices ??	ESL	3rd	2nd	2nd	4th	—	5	605	0	2
+187	Team Water Lily	ESL, Novice	4th	2nd	2nd	3rd	—	5	597	0	2
+188	IIT Bombay Sex fiends	Novice	3rd	1st	3rd	4th	—	5	596	1	0
+189	Delhi 1	ESL	2nd	2nd	3rd	4th	—	5	552	0	2
+190	English Opening and Eight Queens		1st	2nd	4th	—	—	5	459	1	1
+191=	KNUST PACESETTERS	Novice	2nd	4th	—	1st	—	5	454	1	1
+191=	Lyceum B	ESL	1st	4th	—	—	2nd	5	454	1	1
+193	UNAL Ñame with Cheese Ñoquis	ESL	2nd	1st	—	—	—	5	303	1	1
+194	KCW KC F	ESL, Novice	4th	2nd	2nd	4th	4th	4	749	0	2
+195	KCW KC B	ESL	3rd	4th	4th	1st	4th	4	746	1	0
+196	CU B&#x27;	ESL, Novice	4th	4th	1st	3rd	4th	4	739	1	0
+197	KCW KC E	ESL, Novice	4th	3rd	4th	3rd	2nd	4	739	0	1
+198	CU E	ESL, Novice	4th	4th	2nd	3rd	3rd	4	733	0	1
+199	MAULERS Sleeping beauty	ESL, Novice, Schools	4th	4th	2nd	2nd	4th	4	718	0	2
+200	PES pura sunle	ESL	4th	3rd	2nd	3rd	4th	4	692	0	1
+201	side chicks without consent	ESL	4th	1st	3rd	4th	—	4	602	1	0
+202	Double A	Novice, Schools	1st	—	4th	4th	3rd	4	593	1	0
+203	Laban Humanista	Novice	2nd	4th	3rd	3rd	—	4	590	0	1
+204	DU Average Debater L	ESL, Novice	3rd	4th	2nd	3rd	—	4	584	0	1
+205	DU Noida to Paris		3rd	4th	—	4th	1st	4	549	1	0
+206	TNSHS It&#x27;s 5am in my our country		4th	4th	1st	3rd	—	4	548	1	0
+207	NLIUB Machas	ESL	1st	4th	3rd	—	—	4	459	1	0
+208	ALU Dreamers		4th	1st	3rd	—	—	4	457	1	0
+209	IIT Bombay You can&#x27;t make a Tomelette without	ESL	4th	1st	3rd	—	—	4	447	1	0
+210	Swing 8		—	—	1st	—	3rd	4	312	1	0
+211	PHDS kahit ano basta magbreak	Schools	4th	4th	4th	2nd	3rd	3	745	0	1
+212	PHDS ABCDEbators	Novice, Schools	4th	2nd	4th	4th	3rd	3	744	0	1
+213	WMSU lato-lato main slayers		4th	4th	3rd	2nd	4th	3	738	0	1
+214	JUDO Amar Ekush	ESL	4th	2nd	4th	4th	3rd	3	736	0	1
+215	CU Depressed Soul		4th	2nd	3rd	4th	4th	3	733	0	1
+216	Daring Devils		4th	3rd	4th	3rd	3rd	3	729	0	0
+217	Uyo IDAN 2.0		4th	3rd	2nd	4th	4th	3	700	0	1
+218	Strathmore Balloon		3rd	2nd	4th	4th	—	3	593	0	1
+219	ALU mocha		3rd	4th	2nd	4th	—	3	585	0	1
+220	Strathmore Sled	ESL, Novice	3rd	—	4th	4th	2nd	3	584	0	1
+221	IIT Roorkee Forked over by ChatGPT	ESL, Novice	3rd	2nd	4th	4th	—	3	569	0	1
+222	Ilorin The conglomerate		2nd	3rd	4th	—	—	3	455	0	1
+223	International Khiladi	ESL	3rd	2nd	4th	—	—	3	398	0	1
+224	making a comeback uwu	Novice, Schools	2nd	3rd	—	—	—	3	310	0	1
+225	TCD Phil Blasian persuasion		1st	4th	—	—	—	3	306	1	0
+226	Hopes ??	Novice, Schools	—	4th	—	—	1st	3	301	1	0
+227	Dhaka Tyrion &amp; Cersei		4th	1st	—	—	—	3	300	1	0
+228	Swing 9		—	—	3rd	—	2nd	3	299	0	1
+229	MDS You know what? I don&#x27;t know		3rd	2nd	—	—	—	3	293	0	1
+230	Ilorin Holy Matrimony	ESL	1st	4th	—	—	—	3	257	1	0
+231	KCW KC C	ESL, Novice	4th	4th	3rd	3rd	4th	2	748	0	0
+232	Kyushu S		4th	3rd	3rd	4th	4th	2	736	0	0
+233	Ilorin Lotus		4th	4th	3rd	4th	3rd	2	728	0	0
+234	Illuminati Brothers	ESL, Novice	3rd	4th	4th	3rd	—	2	577	0	0
+235	Father and Son on our first try	ESL	3rd	3rd	4th	4th	—	2	497	0	0
+236	NMU Agree to Disagree	Novice	3rd	3rd	4th	—	—	2	430	0	0
+237	One of us may Mhalaki Teiti		3rd	3rd	—	—	—	2	303	0	0
+238	Swing 6		2nd	—	—	—	4th	2	289	0	1
+239	Swing 4		2nd	—	—	—	4th	2	278	0	1
+240	We are not lazy we are just being		2nd	4th	—	—	—	2	255	0	1
+241	BUTEX C A		2nd	—	—	—	—	2	149	0	1
+242	NMU Ultimately Karma	Novice	4th	3rd	4th	4th	4th	1	646	0	0
+243	Integrate your rebuttals	ESL	3rd	4th	—	—	—	1	296	0	0
+244	IIT Delhi Please don&#x27;t swap our speaker scor	ESL, Novice	3rd	4th	—	—	—	1	286	0	0
+245	Perlas		4th	3rd	—	—	—	1	271	0	0
+246	Dhaka Psycholinguist		3rd	4th	—	—	—	1	253	0	0
+247	Swing 5		3rd	—	—	—	—	1	153	0	0
+248=	BSU Team Fuck OSS		3rd	—	—	—	—	1	151	0	0
+248=	Colosseum CAPybara is the CAP	Novice	3rd	—	—	—	—	1	151	0	0
+250	FUTA T. A. T		—	3rd	—	—	—	1	138	0	0
+251	GLC Mumbai Teeth Smashers	Novice	4th	4th	—	—	—	0	290	0	0
+252	IIT Bombay Apu kutti	ESL	4th	4th	—	—	—	0	247	0	0
+253	IIT Delhi The Novicists	Novice	4th	4th	—	—	—	0	243	0	0
+254	IAIT Almond Debate Varsity		4th	4th	—	—	—	0	236	0	0
+255	Rabid Mouse Mode	ESL	4th	—	—	—	—	0	153	0	0
+256	Swing 7		4th	—	—	—	—	0	150	0	0
+257	Swing 3		4th	—	—	—	—	0	149	0	0
+258	BUET Team Gravity		4th	—	—	—	—	0	145	0	0
+259	Swing 10		—	—	4th	—	—	0	120	0	0
+260=	USIU Ikenga		—	—	—	—	—	—	—	0	0
+260=	Dada&#x27;s Ravioli		—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Krishaang Kohli	ESL	DU Kunwar Adhiraj Pratap Singh	79	82	79	81	81	402	80.40	1.20
+2	naman	ESL	DU Kunwar Adhiraj Pratap Singh	79	81	79	81	81	401	80.20	0.98
+3=	Sompoom Sunpaweravong	ESL	Chulalongkorn SS	85	78	78	80	79	400	80.00	2.61
+3=	Wajeeh Maaz		Only chronically partnerless	78	83	81	78	80	400	80.00	1.90
+3=	Eli Pallrand		Cornell Gaveal&#x27;s biggest fans	80	81	78	83	78	400	80.00	1.90
+6=	Pranav Anand		Harold and Kumar (guess which one	79	81	77	81	79	397	79.40	1.50
+6=	Pranav Baskar		Oxford AP	80	79	79	77	82	397	79.40	1.62
+6=	Ana Coman	ESL	Bucharest A	78	77	79	82	81	397	79.40	1.85
+6=	Harsh Gupta	ESL, Novice	Whiptical Illusion	78	81	76	81	81	397	79.40	2.06
+10=	Alyssa Mills		GUU (B)reaking Free	79	77	75	82	83	396	79.20	2.99
+10=	Joshua Cohen		Pirates of the Gulf of Guinea	81	79	79	80	77	396	79.20	1.33
+10=	Nicholas Abernathy		Questern	80	77	79	82	78	396	79.20	1.72
+10=	Eziel Johnson	ESL	Pirates of the Gulf of Guinea	80	80	79	80	77	396	79.20	1.17
+10=	Adam Mallis		Edinburgh ... B? C? A-Z? Σ	78	79	80	77	82	396	79.20	1.72
+15=	Aryan Shrestha	ESL, Novice	Chulalongkorn SS	84	76	77	78	80	395	79.00	2.83
+15=	Matt Mauriello		Only chronically partnerless	77	82	81	77	78	395	79.00	2.10
+15=	Ram Orfanel		Cornell Gaveal&#x27;s biggest fans	80	81	79	78	77	395	79.00	1.41
+15=	Rance Peralta	ESL	We retired from retirement because	77	80	78	80	80	395	79.00	1.26
+15=	Tania Acsinte	ESL, Novice	Will confirm asap	79	81	78	77	80	395	79.00	1.41
+20=	Muzamil Godil		Harold and Kumar (guess which one	78	80	77	81	78	394	78.80	1.47
+20=	Daniel Svirsky		Questern	79	78	79	81	77	394	78.80	1.33
+20=	Medhavini Singh	ESL	subject to change	79	73	79	82	81	394	78.80	3.12
+20=	Zainab Sardar	Novice	Edinburgh ... B? C? A-Z? Σ	78	79	79	76	82	394	78.80	1.94
+20=	Irin Chatterjee	ESL, Novice	Whiptical Illusion	76	81	77	80	80	394	78.80	1.94
+20=	Sachin Tissera	ESL	LSE If u can&#x27;t pre with alchool, pre w	79	78	77	78	82	394	78.80	1.72
+20=	Rehan Haneef		TCD Hist Rehan and Ziyad	77	79	77	82	79	394	78.80	1.83
+20=	Sambhav Jain	ESL, Novice, Schools	TSRS Reg time running out	82	79	76	79	78	394	78.80	1.94
+28=	Valeriu Carasel	ESL	Bucharest A	77	77	77	82	80	393	78.60	2.06
+28=	Arjun Raman		KCL the equity officer and the walking	76	81	78	78	80	393	78.60	1.74
+28=	Ziyad Anwer		TCD Hist Rehan and Ziyad	79	79	75	82	78	393	78.60	2.24
+28=	Mo Islam		Cornell Recycle	80	77	82	78	76	393	78.60	2.15
+32=	Kamila Kawczak		KCL the equity officer and the walking	77	80	77	80	78	392	78.40	1.36
+32=	Rahul Kalavagunta	Novice	Founders League Union	77	76	82	78	79	392	78.40	2.06
+32=	Dragos Sassu	ESL	Bucharest B	77	78	80	76	81	392	78.40	1.85
+32=	Antash Misra	ESL	no eco motions pls	73	82	79	77	81	392	78.40	3.20
+32=	Kaushiki Ishwar	ESL	subject to change	78	75	78	81	80	392	78.40	2.06
+32=	Pranjal Chakraborty	ESL	IIT Bombay Why is GC still our debate peak?	78	80	76	79	79	392	78.40	1.36
+32=	MICHELLE ADIKA	ESL	Strathmore Pee Oh Eye	76	81	76	81	78	392	78.40	2.24
+32=	Akshatha Sabaji	ESL	no eco motions pls	73	83	80	77	79	392	78.40	3.32
+32=	Aprylle Yesshua Amparo	ESL, Novice	We retired from retirement because	76	79	77	79	81	392	78.40	1.74
+32=	Angelica Ashley D. Vega	Novice, Schools	HG F(orever single, hopefully not ???	78	81	79	76	78	392	78.40	1.62
+32=	Stefan Milicescu	ESL	LSE If u can&#x27;t pre with alchool, pre w	79	77	77	78	81	392	78.40	1.50
+43=	Theo Simion	ESL	Bucharest B	77	76	81	76	81	391	78.20	2.32
+43=	Diána Pásztor	ESL, Novice	Budapest BanDia	78	79	77	76	81	391	78.20	1.72
+43=	Shamiah Muchesia	ESL	Strathmore Pee Oh Eye	75	81	77	81	77	391	78.20	2.40
+46=	Tess Moraa Nyamwanda	ESL	2 philosophers stoned	77	84	76	75	78	390	78.00	3.16
+46=	Justin Wu	Novice	Founders League Union	77	76	82	76	79	390	78.00	2.28
+46=	William Logue	Novice	Iguanakant	80	76	73	79	82	390	78.00	3.16
+46=	Asaph Elisha C. Posadas	Novice, Schools	HG F(orever single, hopefully not ???	78	81	78	76	77	390	78.00	1.67
+46=	Tom Francis		TCD Hist I’m not ticklish, you are!	79	75	77	78	81	390	78.00	2.00
+46=	Emilie Torwalt		Alberta THBT it is biologically advantageo	79	79	79	77	76	390	78.00	1.26
+52=	BP Ndolo	ESL	2 philosophers stoned	77	84	76	75	77	389	77.80	3.19
+52=	Aryaman Sarda	Novice, Schools	Tora and Aru	79	75	78	80	77	389	77.80	1.72
+52=	Haruka Sawazaki	ESL	Japan Yamagishi	80	77	77	79	76	389	77.80	1.47
+52=	Isaac Gilbert		GUU (B)reaking Free	78	75	74	80	82	389	77.80	2.99
+52=	Joshua Wambugu	ESL	USIU Ikenga	79	75	78	78	79	389	77.80	1.47
+52=	Gautam Khona	ESL	IIT Bombay Why is GC still our debate peak?	78	79	76	78	78	389	77.80	0.98
+52=	Ellie Middleton	Novice	Exeter EXit Stage Left	75	78	77	78	81	389	77.80	1.94
+52=	Qasim Osman		NMU Top of the TABlet	78	77	76	77	81	389	77.80	1.72
+52=	Justine Beatriz B. Candazo	Schools	HG E - exhausted eject exit ?????em f	76	77	78	77	81	389	77.80	1.72
+52=	Molly Carroll		TCD Hist I’m not ticklish, you are!	79	76	76	77	81	389	77.80	1.94
+62=	Toranosuke Hashimoto	ESL, Novice, Schools	Tora and Aru	79	76	77	79	77	388	77.60	1.20
+62=	Jack Jillings	Novice	St Andrews (B)arking up the wrong tree	77	79	76	78	78	388	77.60	1.02
+62=	Craig McDonald		Miki’s looking a bit different tod	77	76	79	76	80	388	77.60	1.62
+62=	Muhammad Bakhtiar	ESL	CU A	77	80	74	78	79	388	77.60	2.06
+62=	Aryan Chopra	ESL, Novice	ARSDC DU 3 inches is not enough ?	80	78	77	78	75	388	77.60	1.62
+62=	Donkor Archimedes	ESL	UHAS UpDown	77	76	79	76	80	388	77.60	1.62
+62=	Trudeau Okech	ESL	Strathmore Onigashima	78	79	76	78	77	388	77.60	1.02
+62=	K Dhruv Singh	ESL	Shady phsychopath	78	80	78	76	76	388	77.60	1.50
+62=	Ashah Mercado	Schools	HG E - exhausted eject exit ?????em f	77	77	77	77	80	388	77.60	1.20
+62=	Saadman Sakib Mahi	ESL, Schools	pp on the pp (get your mind out of	76	78	75	80	79	388	77.60	1.85
+72=	Smart Isreal		ALU A	76	74	79	79	79	387	77.40	2.06
+72=	Ahmad Saadan	Schools	LGS JT Powerpuff Boys	76	82	78	78	73	387	77.40	2.94
+72=	Kojo O. Acheampong	ESL	KNUST B	75	77	75	80	80	387	77.40	2.24
+72=	Azka Matsuzawa	ESL, Novice, Schools	homeless kiddoss w/o albert	77	77	77	76	80	387	77.40	1.36
+72=	Nguyen Thi Minh Thao	ESL	FTU wuh wuh what?	78	77	78	78	76	387	77.40	0.80
+72=	Yeisha Abejo	ESL, Novice	XU-AdC The Rise of Bilateralism	74	80	79	79	75	387	77.40	2.42
+72=	Jacob Tombs		Alberta THBT it is biologically advantageo	79	77	78	76	77	387	77.40	1.02
+79=	Rohan Campion	Novice, Schools	we&#x27;re contacting you about your ca	79	79	77	75	76	386	77.20	1.60
+79=	Aristotle	ESL	Jinx homies	73	78	77	79	79	386	77.20	2.23
+79=	Mika Bosano	Schools	HG A - HGDT but just the cuties	79	76	77	77	77	386	77.20	0.98
+79=	András Meleg	ESL	Budapest BanDia	77	78	76	76	79	386	77.20	1.17
+79=	N M Aditya	ESL	PES Broke without breaks	76	79	78	78	75	386	77.20	1.47
+79=	Chris	Schools	we&#x27;re contacting you about your ca	79	78	77	76	76	386	77.20	1.17
+79=	Takura Ndoro		ALU A	75	75	79	78	79	386	77.20	1.83
+79=	Xola Twayise		NMU Anbu Black Ops	79	80	77	77	73	386	77.20	2.40
+79=	Samuel Thomas	ESL	PES Broke without breaks	76	79	77	79	75	386	77.20	1.60
+79=	Alex Martin		Exeter EXit Stage Left	74	79	76	77	80	386	77.20	2.14
+79=	Dhruv Kairon	ESL	Alberta Winning is a Canon Event	76	80	78	74	78	386	77.20	2.04
+79=	Allen Arc Megreño	ESL, Novice	XU-AdC The Rise of Bilateralism	73	79	80	79	75	386	77.20	2.71
+91=	Ivy Musundi	ESL	Kung-fu Panda	78	80	76	75	76	385	77.00	1.79
+91=	Owolabi Victor Oluwatobi	ESL	Jinx homies	73	77	78	78	79	385	77.00	2.10
+91=	Yuta Yamagishi	ESL	Japan Yamagishi	78	77	77	78	75	385	77.00	1.10
+91=	Ayush Verma	ESL	Shady phsychopath	77	80	76	77	75	385	77.00	1.67
+91=	DJ Salud	Schools	HG A - HGDT but just the cuties	78	77	77	77	76	385	77.00	0.63
+91=	Kelvin Damptey	ESL	KNUST B	75	76	74	80	80	385	77.00	2.53
+91=	Yehezkiel Vito	ESL, Novice, Schools	homeless kiddoss w/o albert	77	76	76	77	79	385	77.00	1.10
+91=	Saleem Salisu	ESL	KNUST PETRICHOR	79	76	77	76	77	385	77.00	1.10
+91=	Kriti.V.Rambiritch	Novice	NMU Top of the TABlet	77	77	76	76	79	385	77.00	1.10
+91=	Svasti Kholia	ESL, Novice	ARSDC DU 3 inches is not enough ?	80	77	77	77	74	385	77.00	1.90
+91=	Kokovina Aida	ESL	ENU Nothing to say	76	76	78	79	76	385	77.00	1.26
+91=	Chantal Paige U. Vargas	Schools	PHDS Osmanthus wine tastes as weird as	77	77	77	77	77	385	77.00	0.00
+91=	Chintada srinivasa rao	ESL, Novice	IIT Delhi Not a loss but a strategic 4th	77	76	78	77	77	385	77.00	0.63
+91=	Sumukh Bansal	ESL, Novice	IIT Delhi Not a loss but a strategic 4th	77	76	77	77	78	385	77.00	0.63
+91=	Gaveal Fan		Cornell Recycle	77	76	81	78	73	385	77.00	2.61
+106=	Vagarth Dvivedi	ESL	BITS Goa A50x	72	76	81	77	78	384	76.80	2.93
+106=	Liv Misztowt		Miki’s looking a bit different tod	75	75	78	76	80	384	76.80	1.94
+106=	Abigael Eminza	ESL	Kung-fu Panda	79	78	75	76	76	384	76.80	1.47
+106=	Owen Goodacre		St Andrews (B)arking up the wrong tree	76	78	76	77	77	384	76.80	0.75
+106=	Nana Yaw Ofosu-Ababio	ESL	Spirit of the Coast	77	78	77	76	76	384	76.80	0.75
+106=	Nguyễn Bảo Trân	Schools	FLSS CNN Befuddled	76	79	79	75	75	384	76.80	1.83
+106=	Eamon Tan		Alberta Winning is a Canon Event	76	80	78	73	77	384	76.80	2.32
+106=	Ryeona Rillorta	Schools	PHDS Osmanthus wine tastes as weird as	76	79	76	76	77	384	76.80	1.17
+106=	Fritz Nathan A. diaz	ESL, Novice	Santo Tomas debasties	78	77	76	75	78	384	76.80	1.17
+106=	Kiragu Kimani	ESL	Strathmore Onigashima	78	79	75	76	76	384	76.80	1.47
+116=	Redacted	ESL	—	76	77	77	77	76	383	76.60	0.49
+116=	Christine D. Sintos	ESL, Novice, Schools	PSHS ADDU Bangkal Campus	73	79	75	77	79	383	76.60	2.33
+116=	Claire Chen	Novice	Queen&#x27;s astral projecting into ur butthole	70	75	80	77	81	383	76.60	3.93
+116=	Eleazar Asase	ESL	CAITO KINGS	78	75	77	75	78	383	76.60	1.36
+116=	Freddy Simonnet-Lefevre		Dundee Euros Champions 2023	78	76	80	76	73	383	76.60	2.33
+116=	MARTIN AVORGAH	ESL	KNUST PETRICHOR	78	75	77	76	77	383	76.60	1.02
+116=	Felix Reischl	ESL	Berlin B	76	79	75	78	75	383	76.60	1.62
+116=	Harvey Olden	Novice	Transoceanic Javertists	73	82	75	76	77	383	76.60	3.01
+116=	Emmanuel Justice		J and J	77	77	77	75	77	383	76.60	0.80
+116=	Nimai Koneru		Queen&#x27;s astral projecting into ur butthole	70	76	80	77	80	383	76.60	3.67
+116=	Arush Ramachandran	ESL, Novice	Sun kissed HOEmies	78	76	77	76	76	383	76.60	0.80
+116=	Divya Yadav	ESL	surprise me w speaks, adj	80	77	77	75	74	383	76.60	2.06
+116=	Ted Iha	ESL	Strathmore Tirana	78	78	79	76	72	383	76.60	2.50
+129=	Minh Nguyen	ESL	FUV composite	75	79	73	76	79	382	76.40	2.33
+129=	Ditumiso Chiloane		NMU Anbu Black Ops	77	79	76	77	73	382	76.40	1.96
+129=	Kpeglo Joyce Delali		J and J	77	78	76	75	76	382	76.40	1.02
+129=	Tejas Goyal		ITS 4AM AT 107	78	78	74	78	74	382	76.40	1.96
+129=	Agata Konopka	ESL	Berlin B	75	79	76	77	75	382	76.40	1.50
+129=	Kimberly Co	Schools	HG B - Fo Shizzle My Drizzle	79	78	75	75	75	382	76.40	1.74
+129=	Sravani Bobba	ESL	BITS Goa A50x	70	77	80	77	78	382	76.40	3.38
+129=	Saksham Goyal	ESL, Novice	NMIMS ASMSOC e-mommy affliction	76	74	77	77	78	382	76.40	1.36
+129=	Miriam Ennim	ESL	KNUST Fire and Ice	76	76	78	75	77	382	76.40	1.02
+129=	Kelvin Delali	ESL	UHAS UpDown	76	75	76	76	79	382	76.40	1.36
+129=	Mutasim Khan	ESL, Novice	Kings	75	77	77	75	78	382	76.40	1.20
+129=	Ashay Maske		DNLU Shastrartha	78	77	75	75	77	382	76.40	1.20
+129=	Talin sharma	ESL, Novice	Sun kissed HOEmies	78	75	77	75	77	382	76.40	1.20
+129=	Sukanya nema		DNLU Shastrartha	78	76	76	76	76	382	76.40	0.80
+143=	Chaahat Arora	ESL	Coerce you !	74	78	75	77	77	381	76.20	1.47
+143=	Ahsan Saleem	ESL	GLC 1+1	76	75	77	78	75	381	76.20	1.17
+143=	Jennifer Anderson	Novice	Dundee Euros Champions 2023	77	75	79	76	74	381	76.20	1.72
+143=	Linh Dang-Hoang	ESL	FUV composite	74	80	73	74	80	381	76.20	3.12
+143=	Thao-Linh Vo	ESL, Novice, Schools	we can make the whole debate shimm	76	76	78	75	76	381	76.20	0.98
+143=	Aethan Meir Casuga	Schools	HG B - Fo Shizzle My Drizzle	79	77	75	74	76	381	76.20	1.72
+143=	Huỳnh Vĩnh Thụy	ESL	Spring 1975	76	80	75	76	74	381	76.20	2.04
+143=	John Marwin V. Puti	ESL, Novice	Santo Tomas debasties	76	76	77	76	76	381	76.20	0.40
+143=	Maithreyi Muthukrishnan	Novice	GNLU Doofenshmirtz and his (emotional s	79	75	74	78	75	381	76.20	1.94
+143=	Gloria Nelson	ESL, Novice, Schools	Frenemies	74	77	77	78	75	381	76.20	1.47
+143=	James Wang	Novice, Schools	WPGA Laddu	76	75	78	77	75	381	76.20	1.17
+143=	Kelvin	ESL, Novice, Schools	MAULERS GMT +7	77	76	76	76	76	381	76.20	0.40
+143=	Yohan Kapri	ESL, Novice	NMIMS ASMSOC e-mommy affliction	76	73	76	78	78	381	76.20	1.83
+143=	Jeffery Owusu Acheaw	ESL, Novice	KNUST WesieAcheaw	79	73	79	76	74	381	76.20	2.48
+143=	Emmanuella Deborah Acquah	ESL	KNUST Fire and Ice	76	76	78	74	77	381	76.20	1.33
+143=	Sophia Grace Shanti Saracho Gulle	Schools	PHDS Excuse Me, He Asked For No Pickles	76	74	78	75	78	381	76.20	1.60
+143=	Ken Matthew Gabriel Singson	ESL, Schools	one of us gave the other daddy iss	76	72	81	74	78	381	76.20	3.12
+160=	Jack Lim	Schools	HG C - She says I am the One (but t	72	79	78	75	76	380	76.00	2.45
+160=	Mamunur Hamid	ESL	BUP B	76	77	78	75	74	380	76.00	1.41
+160=	Md Alvi Hossain Tonoy	ESL	BUP B	75	78	78	75	74	380	76.00	1.67
+160=	Tejvir Singh	ESL	AUD Haldiram	74	75	78	77	76	380	76.00	1.41
+160=	Gabrielle Lim	Schools	we fought each other in uhuru last	77	76	73	76	78	380	76.00	1.67
+160=	Odong Vincent	ESL	Back Again	77	73	77	76	77	380	76.00	1.55
+160=	Raihan Rahman	ESL, Novice	Break X Hunters	77	76	75	75	77	380	76.00	0.89
+160=	Kiarra Dlahmane Lingating		XU-AdC SASHA COLBY!	80	77	75	73	75	380	76.00	2.37
+160=	Harold Wang	Novice, Schools	WPGA Laddu	76	75	78	76	75	380	76.00	1.10
+160=	Aryan Nagpure	Novice	GNLU Doofenshmirtz and his (emotional s	77	75	73	80	75	380	76.00	2.37
+160=	Vũ Hoàng Anh	ESL	Spring 1975	78	78	74	75	75	380	76.00	1.67
+160=	Jeff Melita	ESL	Strathmore Tirana	76	77	78	77	72	380	76.00	2.10
+160=	Opoola Opeyemi	ESL, Novice	Ilorin Law and Medic	77	76	73	77	77	380	76.00	1.55
+160=	Rikk Nalzaro	ESL	ADDU Rikk and Nurty	77	77	80	75	71	380	76.00	2.97
+160=	Okuku James Junior	ESL	Bin roomers	75	74	78	76	77	380	76.00	1.41
+160=	Maryam Zahid		GLC 1+1	79	74	77	76	74	380	76.00	1.90
+160=	Saksham Kaila	ESL, Novice	sin cos tan, your mom my onlyfan	78	77	72	76	77	380	76.00	2.10
+160=	Sneha S	ESL, Novice	Sir MVIT SMVIT	75	77	76	74	78	380	76.00	1.41
+160=	Kelvin Dwayne C. Lampon	ESL, Novice, Schools	PSHS ADDU Bangkal Campus	74	78	74	76	78	380	76.00	1.79
+179=	Gladstone		Abeg flex	70	78	77	78	76	379	75.80	2.99
+179=	Kaie	Schools	we fought each other in uhuru last	75	76	75	75	78	379	75.80	1.17
+179=	Lesedi Lekoto	ESL	Bonnie-Clyde	74	78	77	76	74	379	75.80	1.60
+179=	Aditya Jha	ESL, Novice	Break X Hunters	78	75	74	74	78	379	75.80	1.83
+179=	Dominic Stanley-Marcus	ESL	We are here	78	77	72	78	74	379	75.80	2.40
+179=	Inga Peters	ESL, Novice	Berlin C	75	76	74	76	78	379	75.80	1.33
+179=	Mahpara Faatin	ESL, Schools	Mastermind Chicks with kicks	74	73	77	78	77	379	75.80	1.94
+179=	Bhasvar	Novice	THR Messi`s move to Inter Miami	78	76	75	70	80	379	75.80	3.37
+179=	Nina Ysabelle Tan	ESL	XU-AdC SASHA COLBY!	79	77	76	72	75	379	75.80	2.32
+179=	Emmanuel Ayite-Atiapa	ESL	KNUST WeGoJapa	78	80	72	77	72	379	75.80	3.25
+179=	Faseeha Neil	ESL	KCW KC A	73	76	77	76	77	379	75.80	1.47
+179=	Abheek Gera	ESL, Novice	IIT Delhi Two Whips	74	77	76	75	77	379	75.80	1.17
+179=	Abel koshy	ESL, Novice	SRCC Pakoda simps	75	79	77	74	74	379	75.80	1.94
+179=	Adetor Dela Kwame	ESL, Novice	KNUST Outlaws	75	74	77	77	76	379	75.80	1.17
+179=	Kunaal Gautam	ESL, Novice	Kings	76	76	76	74	77	379	75.80	0.98
+179=	Jennifer Khang	ESL, Novice, Schools	MAULERS leon lovers	76	79	77	75	72	379	75.80	2.32
+179=	Speaker 1		Swing 2	70	76	77	76	80	379	75.80	3.25
+179=	Pratyush Kumar Shekhar	ESL, Novice	Sir MVIT SMVIT	75	78	75	74	77	379	75.80	1.47
+179=	Filipe Gírio	ESL	Coimbra PRC - People&#x27;s Republic of Coimbra	80	75	74	72	78	379	75.80	2.86
+198=	Perez Nguono	ESL	KU Apple	76	76	75	75	76	378	75.60	0.49
+198=	Areez Binte Hossain	ESL, Schools	Mastermind Chicks with kicks	74	73	77	77	77	378	75.60	1.74
+198=	Michael Azriel Casuga	Schools	HG C - She says I am the One (but t	72	78	77	75	76	378	75.60	2.06
+198=	Pascal Ausensi	Novice	Transoceanic Javertists	75	78	75	76	74	378	75.60	1.36
+198=	Saira Aman	ESL, Novice	KCW KC D	76	74	76	76	76	378	75.60	0.80
+198=	Mehak Bahl	ESL	AUD Haldiram	73	76	77	76	76	378	75.60	1.36
+198=	Advika Gangele	ESL, Novice, Schools	Up for Debate UFD India	73	80	74	74	77	378	75.60	2.58
+198=	Nurmagambetov Shyngyz	ESL	ENU Nothing to say	75	74	75	79	75	378	75.60	1.74
+198=	Anavi Panjwani	ESL, Novice	NMIMS to spit or to swallow…the argument	77	78	76	72	75	378	75.60	2.06
+198=	Fatrina Sherata A. Miguel	ESL, Novice	WMSU count to ten please	75	77	75	77	74	378	75.60	1.20
+198=	Varun Manda	ESL	KMC Kowalski and Skipper	71	78	77	77	75	378	75.60	2.50
+198=	Adetunji Tesleem	ESL, Novice	Ilorin Law and Medic	75	77	72	78	76	378	75.60	2.06
+198=	Jude Chiedu	ESL, Novice, Schools	Frenemies	73	76	76	78	75	378	75.60	1.62
+198=	Md. Nafis Fuad		NSTU DS Pioneer	75	72	77	77	77	378	75.60	1.96
+198=	John Arthur Gregory Dolor	ESL, Schools	one of us gave the other daddy iss	75	72	82	72	77	378	75.60	3.72
+198=	Haydn Alexander M. Tan	Schools	PHDS Excuse Me, He Asked For No Pickles	75	74	77	75	77	378	75.60	1.20
+198=	Manuel Englert	ESL	Utilitarian arguments disguised as	71	76	78	75	78	378	75.60	2.58
+198=	Shrenik Sakala	ESL, Novice	IIT Delhi Two Whips	74	76	75	75	78	378	75.60	1.36
+216=	Rishabh Gupta	ESL, Novice	DTU chukuchukuchuku	72	73	79	79	74	377	75.40	3.01
+216=	Nathaniel Fleku	ESL	KNUST WeGoJapa	74	79	73	78	73	377	75.40	2.58
+216=	Md Nayem Zaman	ESL	JUST Goku &amp; Saitama	71	76	79	74	77	377	75.40	2.73
+216=	Ganesh Prasad	Novice	THR Messi`s move to Inter Miami	76	77	75	70	79	377	75.40	3.01
+216=	Mercy Vugutsa	ESL	Nairobi Under the bleachers	79	77	76	73	72	377	75.40	2.58
+216=	Doreenda Nti	ESL, Novice	KNUST Game of Thrones	77	73	78	76	73	377	75.40	2.06
+216=	zenith gupta	ESL, Novice	IIT Roorkee zengel	76	74	75	78	74	377	75.40	1.50
+216=	Shreya Raghuwanshi	ESL, Novice	SRCC Pakoda simps	75	80	77	73	72	377	75.40	2.87
+216=	Aadya Singh	ESL, Novice, Schools	Up for Debate UFD India	72	79	75	74	77	377	75.40	2.42
+225=	Miles Kean Robinson		NWU Potchefstroom Zucchini	76	78	74	71	77	376	75.20	2.48
+225=	Twagirimana Gael		The Boys	75	76	76	74	75	376	75.20	0.75
+225=	Jaodun Muntasir	ESL, Novice	ACCDC 101	74	75	78	75	74	376	75.20	1.47
+225=	Sadik Rahman	ESL, Novice	CU C	74	74	76	77	75	376	75.20	1.17
+225=	Zukisani Nameka		NWU Potchefstroom Zucchini	78	78	74	70	76	376	75.20	2.99
+225=	Niranjana Anil	ESL, Novice	IIT Roorkee Strawberries over Peaches	76	75	73	78	74	376	75.20	1.72
+225=	Vince Khent A. Pastor	ESL, Novice	WMSU count to ten please	75	77	74	76	74	376	75.20	1.17
+225=	angel mittal	ESL, Novice	IIT Roorkee zengel	76	74	75	76	75	376	75.20	0.75
+225=	Rijul Kumar Mishra	ESL	KMC Kowalski and Skipper	71	78	77	76	74	376	75.20	2.48
+225=	Shuvajyoti Kar	ESL, Novice	KIIT Chosen Ones	72	78	77	75	74	376	75.20	2.14
+225=	Md.Ashraful Islam		CU Hills	75	72	79	74	76	376	75.20	2.32
+225=	Rayne malan	Novice	NMU Your Opponents	75	73	76	77	75	376	75.20	1.33
+225=	Nurhata Mizhuari	ESL	ADDU Rikk and Nurty	76	77	78	74	71	376	75.20	2.48
+225=	Paul Kituyi	ESL	Nairobi Under the bleachers	80	77	75	72	72	376	75.20	3.06
+239=	Tanzim Ahmed		CU B	72	75	79	74	75	375	75.00	2.28
+239=	Khaled Mahmud Onik	ESL, Novice	CU C	74	74	75	76	76	375	75.00	0.89
+239=	Kayes Md Sayfullah		CU B	74	75	78	74	74	375	75.00	1.55
+239=	Md Tanvir Ahmed	ESL, Novice	KIIT Chosen Ones	72	76	77	76	74	375	75.00	1.79
+239=	Siu Yen/Yeni	ESL, Novice, Schools	MAULERS GMT +7	76	74	74	75	76	375	75.00	0.89
+239=	Ryotaro Makita	Novice, Schools	Hiroogakuen Goat and Toad	74	74	73	78	76	375	75.00	1.79
+239=	Aneeqa Kaleem	ESL, Novice	KCW KC D	75	73	75	76	76	375	75.00	1.10
+239=	Emma Hansen	ESL	Utilitarian arguments disguised as	71	77	76	74	77	375	75.00	2.28
+239=	Bernard Opoku Baah	ESL	KNUST From Me 2 You	73	77	75	80	70	375	75.00	3.41
+239=	Zaeema Khan	ESL	KCW KC A	71	76	76	75	77	375	75.00	2.10
+239=	Shin Morimoto	Novice, Schools	Hiroogakuen Goat and Toad	74	76	72	78	75	375	75.00	2.00
+239=	Kenneth Lobo	ESL, Novice	IIT Roorkee Strawberries over Peaches	77	75	72	78	73	375	75.00	2.28
+239=	Tasnim Tabassum Awreen	Novice	NSTU DS Warriors	73	73	75	76	78	375	75.00	1.90
+239=	Bhaskar Agarwal	ESL, Novice	sin cos tan, your mom my onlyfan	75	76	72	76	76	375	75.00	1.55
+239=	André Chichorro de Carvalho	ESL	Coimbra PRC - People&#x27;s Republic of Coimbra	80	75	70	72	78	375	75.00	3.69
+239=	Adita Das Gupta	Novice	PUDS Spurs	75	76	77	72	75	375	75.00	1.67
+255=	Nipun sapru	ESL, Novice	RMLNLU Brampton ke Munde	73	75	75	74	77	374	74.80	1.33
+255=	Zil Jawshan	ESL, Novice	ACCDC 101	73	75	77	75	74	374	74.80	1.33
+255=	Andrea Sabrina Reyes	Schools	HG D-either we break or break down	77	76	70	78	73	374	74.80	2.93
+255=	Euodia Marfowaa Appiah	ESL, Novice	KNUST Game of Thrones	76	70	78	76	74	374	74.80	2.71
+255=	Md Shahriar Kabir	ESL	JUST Goku &amp; Saitama	72	75	78	72	77	374	74.80	2.48
+255=	Belinda Nketia	ESL	KNUST From Me 2 You	72	78	75	79	70	374	74.80	3.43
+255=	Roshnik Zahoor	ESL, Novice	KCW KC C	73	76	76	74	75	374	74.80	1.17
+255=	Harram Saqib	ESL, Novice	KCW KC C	73	75	75	76	75	374	74.80	0.98
+255=	Azeem Abdul	Novice	GLC Mumbai Won plus won equals two	75	76	77	75	71	374	74.80	2.04
+255=	Albert Ong	ESL, Novice, Schools	Raiden Ajeng Kartini	74	74	75	74	77	374	74.80	1.17
+255=	Baraza Jane	Novice	Nairobi Never Have l Ever	73	75	72	76	78	374	74.80	2.14
+255=	Agartha Mensah-Twumasi	ESL, Novice	KNUST Outlaws	74	70	76	77	77	374	74.80	2.64
+255=	Muhammad Muhibbullah Khan	ESL, Novice	Dhaka DUDS	75	72	76	76	75	374	74.80	1.47
+255=	Chirag Chauhan	ESL	IIT Delhi Legit Law	74	71	78	77	74	374	74.80	2.48
+255=	Elsie Sirengo		USIU Gunners	75	78	74	72	75	374	74.80	1.94
+255=	mduduzi P Ncube		NUST Operation Restore Legacy	77	76	75	73	73	374	74.80	1.60
+255=	Anjali Singh	ESL, Novice	NMIMS to spit or to swallow…the argument	76	78	75	69	76	374	74.80	3.06
+255=	Louis Gitu		USIU Gunners	76	77	74	71	76	374	74.80	2.14
+273=	Furgurson Awuni		We are here	77	76	71	77	72	373	74.60	2.58
+273=	Liam Anton Zuriel C. Balacano	Novice, Schools	PHDS ABCDEbators	70	78	76	73	76	373	74.60	2.80
+273=	Aditya Bhatia	ESL, Novice	RMLNLU Brampton ke Munde	73	75	75	73	77	373	74.60	1.50
+273=	Aisha Ahmed		USIU cereal killer	71	73	77	72	80	373	74.60	3.38
+273=	Muhammad Hassan Butt		GCU The Ahl e Dard Cabinet	72	72	78	75	76	373	74.60	2.33
+273=	Samantha Aeon Roquero	Novice, Schools	HG J(ust dance)	70	72	75	78	78	373	74.60	3.20
+273=	Meiirzhan Yerulan	ESL, Novice	average semi-support/offlane role	73	75	80	73	72	373	74.60	2.87
+273=	Amanda Natasha	ESL, Novice, Schools	Raiden Ajeng Kartini	75	73	74	75	76	373	74.60	1.02
+273=	Patience Maame Efua Agyiri Andoh	ESL, Novice	KNUST Hashmirdom	77	70	77	74	75	373	74.60	2.58
+273=	Laiba Zubair	ESL, Novice	KCW KC F	75	78	75	71	74	373	74.60	2.24
+273=	Daniel		KNUST Hashmirdom	78	69	77	75	74	373	74.60	3.14
+273=	Kanzul Eman	ESL	KCW KC B	75	71	77	77	73	373	74.60	2.33
+273=	Srijan Daga	ESL, Novice	BITS Goa DH2 Boiz	72	75	78	73	75	373	74.60	2.06
+273=	Penielle Jazz A. Cruz	Schools	PHDS kahit ano basta magbreak	74	74	74	77	74	373	74.60	1.20
+273=	Vibhor Jain	ESL	IIT Delhi Legit Law	74	72	76	77	74	373	74.60	1.74
+273=	Md Dastagir Jisan	Novice	PUDS Spurs	75	76	78	70	74	373	74.60	2.65
+273=	Michael Awimbo	ESL	Nairobi Wolf ??	73	76	71	75	78	373	74.60	2.42
+290=	Dalida Kalandarova	ESL	average semi-support/offlane role	74	75	80	72	71	372	74.40	3.14
+290=	Luise Stoß	ESL, Novice	Berlin C	74	75	73	75	75	372	74.40	0.80
+290=	Mozzammel Masum	ESL, Novice	CU B&#x27;	73	73	74	74	78	372	74.40	1.85
+290=	Roxan Dionne R. Caparas	Novice, Schools	PHDS kahit ano basta magbreak	74	74	73	77	74	372	74.40	1.36
+290=	Mazingi Spamandla	Novice	NMU Your Opponents	75	72	75	76	74	372	74.40	1.36
+290=	Joe Ramon	Novice	Nairobi Never Have l Ever	73	77	71	74	77	372	74.40	2.33
+290=	Ayushi Nasa	ESL, Novice	DTU chukuchukuchuku	72	72	76	78	74	372	74.40	2.33
+290=	Nazmul Islam	Novice	NSTU DS Warriors	74	72	74	75	77	372	74.40	1.62
+290=	Dhruba Chatterjee	ESL, Novice	BITS Goa DH2 Boiz	71	75	78	73	75	372	74.40	2.33
+290=	Tinaye		NUST Operation Restore Legacy	76	76	75	72	73	372	74.40	1.62
+300=	Hans Emmanuel Vargas	Schools	PHDS ABCDEbators	71	76	75	74	75	371	74.20	1.72
+300=	Josiah Gatchalian	Schools	HG D-either we break or break down	76	76	71	75	73	371	74.20	1.94
+302=	Elohgracie Castilo	Novice, Schools	HG G	74	74	71	78	73	370	74.00	2.28
+302=	Zaira Ysobelle Rioja Morales	Novice, Schools	HG J(ust dance)	69	70	76	78	77	370	74.00	3.74
+302=	Maria		USIU cereal killer	70	72	77	72	79	370	74.00	3.41
+302=	Naomi G	ESL, Novice	WMSU anti regionalian girlies	73	68	77	74	78	370	74.00	3.52
+302=	Khushi Naveed	ESL, Novice	KCW KC E	69	76	73	76	76	370	74.00	2.76
+307=	Md. Hasib Khan	ESL	CU D	73	71	76	75	74	369	73.80	1.72
+307=	Md. Mushfiqur Rahman	ESL, Novice	CU D	72	70	76	76	75	369	73.80	2.40
+307=	Lourd Therese Magbuhos	Novice, Schools	HG G	75	73	70	78	73	369	73.80	2.64
+307=	Summayah Salik	ESL, Novice	KCW KC E	68	76	74	74	77	369	73.80	3.12
+307=	Iffat Mehraj	ESL, Novice	Dhaka DUDS	73	70	76	75	75	369	73.80	2.14
+312=	Sadman Olive	ESL	JUDO Amar Ekush	73	76	76	68	75	368	73.60	3.01
+312=	Sora Nishimura		Kyushu S	76	75	72	70	75	368	73.60	2.24
+312=	Zunaid Jahin	ESL, Novice	JUDO Amar Ekush	73	76	77	67	75	368	73.60	3.56
+312=	Haruka Sato		Kyushu S	75	75	72	72	74	368	73.60	1.36
+312=	Liora Livia Ng	ESL, Novice, Schools	MAULERS leon lovers	76	70	77	74	71	368	73.60	2.73
+317=	Seikh Sadia Siddiqua	ESL, Novice	CU E	74	70	77	72	74	367	73.40	2.33
+317=	Sadjaratul A. Reamon	ESL, Novice	WMSU lato-lato main slayers	74	66	77	76	74	367	73.40	3.88
+319=	Dee C	ESL, Novice	WMSU anti regionalian girlies	73	67	75	74	77	366	73.20	3.37
+319=	Mohammad Nafiz Imtiaz	ESL, Novice	CU E	73	71	76	73	73	366	73.20	1.60
+319=	Unaiza Shahid		Daring Devils	72	65	76	77	76	366	73.20	4.45
+319=	Robert Gabah	Novice	UHAS B	64	77	74	72	79	366	73.20	5.19
+319=	Wambugu Muhota		J.K.U.A.T Here to fill the bins.	72	74	71	76	73	366	73.20	1.72
+319=	Alexander Tivlumun		Ilorin Lotus	65	76	75	75	75	366	73.20	4.12
+319=	Ayushi gupta		GLC Mumbai Won plus won equals two	74	76	72	73	71	366	73.20	1.72
+319=	Nguyen Quang Minh	ESL, Novice, Schools	HLU 1	74	73	72	76	71	366	73.20	1.72
+327	Oyewumi Emmanuel Oluwatobi		Ilorin Lotus	63	76	74	74	75	362	72.40	4.76
+328=	Jolin Xie	ESL, Novice, Schools	MAULERS Sleeping beauty	69	73	74	78	67	361	72.20	3.87
+328=	Agyare Ranveer Yeboah	ESL, Novice	KNUST Team Fire	75	68	69	72	77	361	72.20	3.43
+330=	Mehraj Hossain Murad	ESL, Novice	CU ACC	72	71	69	71	75	358	71.60	1.96
+330=	Joyanta Sarkar	ESL, Novice	CU ACC	71	71	68	73	75	358	71.60	2.33
+332	Cherry Silvia	ESL, Novice, Schools	MAULERS Sleeping beauty	70	74	70	77	66	357	71.40	3.77
+333	Akara Emaediong Nseobong		Uyo IDAN 2.0	75	75	79	72	50	351	70.20	10.34
+334	Akinsanmi Temitope Dapo		Uyo IDAN 2.0	75	75	78	71	50	349	69.80	10.15
+335	Anish Harsha	ESL	PES pura sunle	77	75	70	76	50	348	69.60	10.09
+336	Anirudh Kashyap	ESL	PES pura sunle	75	73	70	76	50	344	68.80	9.62
+337	Peregrine Beckett		Iguanakant	79	77	—	79	81	316	79.00	1.41
+338	Apal Jain	ESL, Novice, Schools	TSRS Reg time running out	83	—	76	79	77	315	78.75	2.68
+339	Irina Chicus	ESL	Will confirm asap	78	81	—	76	79	314	78.50	1.80
+340	raiyan zoaher	ESL, Schools	pp on the pp (get your mind out of	76	78	—	80	79	313	78.25	1.48
+341=	Alex McCreadie		Aberystwyth EpIc PogChamp Gamers	77	80	76	77	—	310	77.50	1.50
+341=	Alabhya Pandey	ESL, Novice	SVC BP is not our cup of tea	78	76	79	77	—	310	77.50	1.12
+343=	Akmal Mahmood	Schools	LGS JT Powerpuff Boys	76	81	—	77	74	308	77.00	2.55
+343=	Bùi Ngô Đoan Trang	Schools	FLSS CNN Befuddled	76	78	79	—	75	308	77.00	1.58
+343=	Eric Trinh		washed up seniors	77	77	77	77	—	308	77.00	0.00
+346=	Sharun Nikesh G	ESL	IIT Bombay Bubble room trauma	77	76	78	75	—	306	76.50	1.12
+346=	Baidawu Wesoamo Ibrahim	ESL, Novice	KNUST WesieAcheaw	77	74	80	—	75	306	76.50	2.29
+346=	Nayantara	ESL	IIT Bombay Bubble room trauma	77	76	78	75	—	306	76.50	1.12
+349=	Matthew Godslove		Kekuatan	76	76	78	75	—	305	76.25	1.09
+349=	Arafat Islam Rifat	ESL, Novice	CU A	75	80	74	76	—	305	76.25	2.28
+349=	Speaker 1		Swing 1	78	79	76	72	—	305	76.25	2.68
+349=	Ali Nasir		LGS JT Phantom Troupe	74	77	78	—	76	305	76.25	1.48
+349=	Yatharth Surana	ESL, Novice	AUD THS Heartache	77	77	77	74	—	305	76.25	1.30
+354=	Sneha Verma		ITS 4AM AT 107	76	79	74	—	75	304	76.00	1.87
+354=	Nguyen Viet Tung	ESL	FTU wuh wuh what?	77	75	—	78	74	304	76.00	1.58
+354=	Vedang Choudhary	ESL, Novice	AUD THS Heartache	76	77	78	73	—	304	76.00	1.87
+354=	Dang Pham	ESL, Novice, Schools	we can make the whole debate shimm	77	—	77	74	76	304	76.00	1.22
+358=	Rahim Foster		Foster kids	76	79	72	76	—	303	75.75	2.49
+358=	Simarjit Singh	ESL	surprise me w speaks, adj	75	76	78	74	—	303	75.75	1.48
+358=	Onenrwot Brian		GU Easy Company	—	67	80	80	76	303	75.75	5.31
+358=	Kaliyah Chanco Belen	Novice, Schools	HG H - GyuDONE with Debate ??	—	78	76	75	74	303	75.75	1.48
+358=	Xandy Sophia Armamento	ESL	we identify as novices ??	76	76	78	73	—	303	75.75	1.79
+358=	Matthew Galido	Novice, Schools	HG H - GyuDONE with Debate ??	76	78	—	75	74	303	75.75	1.48
+364=	Nitiksha Tyagi	ESL	Coerce you !	73	78	76	—	75	302	75.50	1.80
+364=	Aleah Casco	ESL	side chicks without consent	77	74	75	76	—	302	75.50	1.12
+364=	Kristiane Josh Gubatan	ESL, Novice, Schools	we identify as novices ??	75	77	77	73	—	302	75.50	1.66
+367=	Alishba Fatima	ESL	KCW KC B	75	72	76	78	—	301	75.25	2.17
+367=	Harsha R	ESL	PES kya hi bolu	78	72	77	74	—	301	75.25	2.38
+367=	Randy Mugambi	ESL	Nairobi Wolf ??	—	77	71	75	78	301	75.25	2.68
+367=	Jay Garshong	ESL	KNUST Fire Nation ??	73	78	75	75	—	301	75.25	1.79
+371=	Anant Gulati	ESL	PES kya hi bolu	77	72	78	73	—	300	75.00	2.55
+371=	Tamzidur Rahman	ESL, Novice	Team Water Lily	70	78	77	75	—	300	75.00	3.08
+371=	Verra De Villa	ESL	side chicks without consent	75	73	77	75	—	300	75.00	1.41
+371=	Sadeku Mujtoba Mahi	ESL, Novice	CU Hills	74	73	79	74	—	300	75.00	2.35
+371=	Rackara Felix Kakanda		GU Easy Company	—	65	80	79	76	300	75.00	5.96
+376=	Puja Dhar	Novice	NSTU DS Pioneer	73	73	77	76	—	299	74.75	1.79
+376=	Isaac Nudanu	Novice	UHAS Strange beings	—	78	68	76	77	299	74.75	3.96
+378=	Mohd Faiq		Kekuatan	75	—	75	75	73	298	74.50	0.87
+378=	Moshiur Rahman Nayem	Novice	CU Depressed Soul	—	76	71	75	76	298	74.50	2.06
+378=	Jazib Ud Din		GCU The Ahl e Dard Cabinet	74	72	77	75	—	298	74.50	1.80
+378=	Yashowardhan Rai	Novice	IIT Bombay Sex fiends	74	78	73	73	—	298	74.50	2.06
+378=	Pratik Sahoo	Novice	IIT Bombay Sex fiends	73	78	73	74	—	298	74.50	2.06
+383=	Nguyen Ha An	Novice, Schools	Double A	76	—	72	73	76	297	74.25	1.79
+383=	Nazmul Hasan	ESL, Novice	Team Water Lily	66	79	78	74	—	297	74.25	5.12
+383=	Ahmad Rauf Abdurauf		WMSU lato-lato main slayers	76	67	76	78	—	297	74.25	4.26
+386=	Nashley Luistro	Novice, Schools	Laban Humanista	76	73	74	72	—	295	73.75	1.48
+386=	Clivann Joshua Climaco	Novice	Laban Humanista	76	74	73	72	—	295	73.75	1.48
+386=	Sheikh Saif Ahmed Afridi	ESL, Novice	CU B&#x27;	74	74	—	74	73	295	73.75	0.43
+389=	Ansh Kumar Arora	ESL, Novice	DU Average Debater L	69	73	76	75	—	293	73.25	2.68
+389=	Vicky Bamurange		ALU mocha	77	67	73	76	—	293	73.25	3.90
+391=	Eseosa Kay-Uwagboe		ALU mocha	77	68	73	74	—	292	73.00	3.24
+391=	Bartels Cornelius	ESL, Novice	KNUST Team Fire	75	68	—	70	79	292	73.00	4.30
+393	Abdullah Al Mashrif	ESL, Novice	Illuminati Brothers	75	74	71	71	—	291	72.75	1.79
+394=	Phuong Tran (Daniel)	ESL, Novice	HLU 1	74	72	73	—	71	290	72.50	1.12
+394=	Md. Moshiur Rahman Emon		CU Depressed Soul	70	—	70	75	75	290	72.50	2.50
+396=	Goku Bright Mawunyega	Novice	UHAS B	63	77	74	72	—	286	71.50	5.22
+396=	Mostafizur Rahman Fahim	ESL, Novice, Schools	Illuminati Brothers	74	72	70	70	—	286	71.50	1.66
+396=	Prajwal Sastry	ESL, Novice	IIT Roorkee Forked over by ChatGPT	81	81	74	50	—	286	71.50	12.74
+399	Vanshika Singh	ESL, Novice	IIT Roorkee Forked over by ChatGPT	80	80	73	50	—	283	70.75	12.32
+400	Aayuushi Bose	ESL	Delhi 1	76	78	73	50	—	277	69.25	11.26
+401=	Joshua Junn P. Morata		TNSHS It&#x27;s 5am in my our country	74	50	78	73	—	275	68.75	10.99
+401=	Pulastya Singh		DU Noida to Paris	75	73	—	50	77	275	68.75	10.92
+403	Zandile Kama	Novice	NMU Ultimately Karma	74	70	—	75	50	269	67.25	10.13
+404	Henry Kyewalyanga	ESL, Novice	Father and Son on our first try	76	74	50	50	—	250	62.50	12.52
+405	Kashaka Jeremiah		USIU Ikenga	—	—	79	79	79	237	79.00	0.00
+406	Ahmed Hussain		Oxford AP	—	—	78	77	81	236	78.67	1.70
+407	Sehaj Reen	ESL	SBSCDU Chindi in Sainik Farms	78	76	80	—	—	234	78.00	1.63
+408	Paula Djaković	ESL	English Opening and Eight Queens	79	78	74	—	—	231	77.00	2.16
+409	Yohann Titus Mathew	ESL	NLIUB Machas	78	76	76	—	—	230	76.67	0.94
+410=	Rean foster		Foster kids	77	80	72	—	—	229	76.33	3.30
+410=	Prince Dennis Atisu	ESL	CAITO KINGS	—	—	77	73	79	229	76.33	2.49
+410=	Aishat Ojibara		ALU Dreamers	76	78	75	—	—	229	76.33	1.25
+410=	Hoor Polani	ESL	Lyceum B	81	73	—	—	75	229	76.33	3.40
+410=	Jyotsna Sood	ESL	NLIUB Machas	78	76	75	—	—	229	76.33	1.25
+415=	Sonia Teta Nyantaba		ALU Dreamers	76	77	75	—	—	228	76.00	0.82
+415=	RICHARDSON DUGHAN	ESL, Novice	KNUST PACESETTERS	78	74	—	76	—	228	76.00	1.63
+415=	Olufisoye Alex		Ilorin The conglomerate	76	79	73	—	—	228	76.00	2.45
+418=	Vrinda Kudsia	ESL	SBSCDU Chindi in Sainik Farms	78	76	—	73	—	227	75.67	2.05
+418=	Victoria Kendi		Strathmore Balloon	76	77	74	—	—	227	75.67	1.25
+418=	Rauf Nawaz		LGS JT Phantom Troupe	74	78	—	—	75	227	75.67	1.70
+421=	&quot;Chidiadi &quot;&quot;TFA&quot;&quot; Oscar&quot;	ESL	Back Again	77	73	76	—	—	226	75.33	1.70
+421=	Sumaila Aguriyine Hamzah	Novice	KNUST PACESETTERS	75	75	—	76	—	226	75.33	0.47
+423	Beatrice Pretta	ESL	KU Apple	75	—	76	74	—	225	75.00	0.82
+424=	Victor		Abeg flex	70	78	76	—	—	224	74.67	3.40
+424=	Zarlish Azhar	ESL, Novice	KCW KC F	79	—	74	71	—	224	74.67	3.30
+424=	Ruchita Somisetty	ESL	IIT Bombay You can&#x27;t make a Tomelette without	72	77	75	—	—	224	74.67	2.05
+427	Mukul Hatekar	ESL	IIT Bombay You can&#x27;t make a Tomelette without	71	77	75	—	—	223	74.33	2.49
+428	Benjamin Tait		Strathmore Balloon	76	75	—	71	—	222	74.00	2.16
+429	Bellama Godo	Novice	UHAS Strange beings	—	—	67	76	77	220	73.33	4.50
+430	Divita Diwan	ESL, Novice	DU Average Debater L	68	—	77	74	—	219	73.00	3.74
+431	Kwezi Mpyisi	ESL, Novice	Strathmore Sled	—	—	65	76	76	217	72.33	5.19
+432	Tamryn	Novice	NMU Agree to Disagree	66	77	73	—	—	216	72.00	4.55
+433	Ayesha Arshad		Daring Devils	72	65	—	76	—	213	71.00	4.55
+434=	Mehal Bisht	ESL	Delhi 1	—	77	72	50	—	199	66.33	11.73
+434=	Simran Nischal	ESL	International Khiladi	71	78	50	—	—	199	66.33	11.90
+434=	Madhav Arora	ESL	International Khiladi	72	77	50	—	—	199	66.33	11.73
+437	Speaker 1		Swing 8	—	—	78	—	79	157	78.50	0.50
+438	Ai-Khanh Ngo Vu	Novice, Schools	making a comeback uwu	76	80	—	—	—	156	78.00	2.00
+439=	Muskan Singh	ESL, Novice	SVC BP is not our cup of tea	78	76	—	—	—	154	77.00	1.00
+439=	Thien-Lam Nguyen	Novice, Schools	making a comeback uwu	76	78	—	—	—	154	77.00	1.00
+439=	Roselyn Generalao		washed up seniors	—	—	77	77	—	154	77.00	0.00
+439=	Henrietta Vanni		TCD Phil Blasian persuasion	78	76	—	—	—	154	77.00	1.00
+443=	FELARCA ISAIAH		One of us may Mhalaki Teiti	75	78	—	—	—	153	76.50	1.50
+443=	Savino Owiredu	ESL	KNUST Fire Nation ??	75	78	—	—	—	153	76.50	1.50
+443=	Arowolo Olayemi Joshua		Ilorin The conglomerate	75	78	—	—	—	153	76.50	1.50
+446=	Sebastián Becerra	ESL	UNAL Ñame with Cheese Ñoquis	75	77	—	—	—	152	76.00	1.00
+446=	Dominic Ferris		Aberystwyth EpIc PogChamp Gamers	—	—	75	77	—	152	76.00	1.00
+446=	Speaker 2		Swing 1	80	—	—	72	—	152	76.00	4.00
+446=	Tommy Koh		TCD Phil Blasian persuasion	77	75	—	—	—	152	76.00	1.00
+450=	Speaker 1		Swing 9	—	—	73	—	78	151	75.50	2.50
+450=	Ummay Suhala		Dhaka Tyrion &amp; Cersei	74	77	—	—	—	151	75.50	1.50
+450=	Temioluwa	Novice, Schools	Hopes ??	—	74	—	—	77	151	75.50	1.50
+450=	BEEP		Swing 4	78	—	—	—	73	151	75.50	2.50
+454=	WILLIAM JR GALLEROS		One of us may Mhalaki Teiti	73	77	—	—	—	150	75.00	2.00
+454=	Zainab Javaid	ESL	Lyceum B	79	71	—	—	—	150	75.00	4.00
+456=	Millie Shao		English Opening and Eight Queens	—	76	73	—	—	149	74.50	1.50
+456=	Esther Olamide Olayinka	ESL	Integrate your rebuttals	74	75	—	—	—	149	74.50	0.50
+456=	Moyo Raymond Nyasha	ESL	Bin roomers	75	74	—	—	—	149	74.50	0.50
+459=	Nana Frimpong		Perlas	75	73	—	—	—	148	74.00	1.00
+459=	Kirui Brian		J.K.U.A.T Here to fill the bins.	—	—	71	77	—	148	74.00	3.00
+461=	Leodine Sithole	ESL	Integrate your rebuttals	72	75	—	—	—	147	73.50	1.50
+461=	Kathleen Claire Bantuana		MDS You know what? I don&#x27;t know	72	75	—	—	—	147	73.50	1.50
+463=	Nawaf D. Belalang		MDS You know what? I don&#x27;t know	72	74	—	—	—	146	73.00	1.00
+463=	Nagesh Bhandewar	Novice	GLC Mumbai Teeth Smashers	74	72	—	—	—	146	73.00	1.00
+463=	Speaker 2		Swing 2	71	—	75	—	—	146	73.00	2.00
+466=	Rahul Arvind Masand	ESL, Novice	IIT Delhi Please don&#x27;t swap our speaker scor	76	68	—	—	—	144	72.00	4.00
+466=	Yasir Siddiqui	Novice	GLC Mumbai Teeth Smashers	73	71	—	—	—	144	72.00	1.00
+468=	Mbasakazi	Novice	NMU Agree to Disagree	65	77	—	—	—	142	71.00	6.00
+468=	Rahul Athipatla	ESL, Novice	IIT Delhi Please don&#x27;t swap our speaker scor	75	67	—	—	—	142	71.00	4.00
+470	Peace John-Kalio	ESL	Ilorin Holy Matrimony	79	50	—	—	—	129	64.50	14.50
+471=	Tian Xia		We are not lazy we are just being	77	50	—	—	—	127	63.50	13.50
+471=	Alexa Nicole R. Andresan		TNSHS It&#x27;s 5am in my our country	—	50	77	—	—	127	63.50	13.50
+471=	Mohiuddin Moin		Dhaka Psycholinguist	77	50	—	—	—	127	63.50	13.50
+474	Mucktadir Momen Shourov		Dhaka Psycholinguist	76	50	—	—	—	126	63.00	13.00
+475	Aditya Sharma		DU Noida to Paris	75	—	—	50	—	125	62.50	12.50
+476	Aparna ramesh	ESL	IIT Bombay Apu kutti	74	50	—	—	—	124	62.00	12.00
+477=	Harsitha Devaraj	ESL	IIT Bombay Apu kutti	73	50	—	—	—	123	61.50	11.50
+477=	Dhruv Jhunjunwala	Novice	IIT Delhi The Novicists	73	50	—	—	—	123	61.50	11.50
+479	Shahid khan	Novice	IIT Delhi The Novicists	70	50	—	—	—	120	60.00	10.00
+480=	Relaine Cabal		IAIT Almond Debate Varsity	68	50	—	—	—	118	59.00	9.00
+480=	Thokozile	Novice	NMU Ultimately Karma	—	—	68	—	50	118	59.00	9.00
+482=	Speaker 2		Swing 8	—	—	77	—	—	77	77.00	0.00
+482=	Camila Carballo	ESL	Rabid Mouse Mode	77	—	—	—	—	77	77.00	0.00
+482=	MEEP		Swing 5	77	—	—	—	—	77	77.00	0.00
+485=	oh		Swing 7	76	—	—	—	—	76	76.00	0.00
+485=	Do Quynh Anh	Novice, Schools	Double A	—	—	—	—	76	76	76.00	0.00
+485=	David Varillas	ESL	Rabid Mouse Mode	76	—	—	—	—	76	76.00	0.00
+485=	Ceos Pronto		BSU Team Fuck OSS	76	—	—	—	—	76	76.00	0.00
+485=	Lan Nghi Vu	Novice	Colosseum CAPybara is the CAP	76	—	—	—	—	76	76.00	0.00
+485=	MORP		Swing 5	76	—	—	—	—	76	76.00	0.00
+491=	Kim	Novice	Colosseum CAPybara is the CAP	75	—	—	—	—	75	75.00	0.00
+491=	Kei		BSU Team Fuck OSS	75	—	—	—	—	75	75.00	0.00
+491=	Awurum Ifeanyi	Novice, Schools	Hopes ??	—	75	—	—	—	75	75.00	0.00
+491=	Ahnaf Sharar Hossain		BUTEX C A	75	—	—	—	—	75	75.00	0.00
+491=	Speaker 1		Swing 3	75	—	—	—	—	75	75.00	0.00
+496	no		Swing 7	74	—	—	—	—	74	74.00	0.00
+497	Audrey Dzoboku		Perlas	73	—	—	—	—	73	73.00	0.00
+498	Babble		Swing 6	—	—	—	—	72	72	72.00	0.00
+499=	Speaker 1		Swing 10	—	—	70	—	—	70	70.00	0.00
+499=	Amoo Abdussomod		FUTA T. A. T	—	70	—	—	—	70	70.00	0.00
+501=	Jovie Macalolo-oy		IAIT Almond Debate Varsity	—	50	—	—	—	50	50.00	0.00
+501=	Kun Liu	Novice	We are not lazy we are just being	—	50	—	—	—	50	50.00	0.00
+501=	Ayafa Tonye	ESL	Father and Son on our first try	—	—	—	50	—	50	50.00	0.00
+501=	Farhan Sodiq	ESL	Ilorin Holy Matrimony	—	50	—	—	—	50	50.00	0.00
+505=	Joshua Wambugu		USIU Ikenga	—	—	—	—	—	—	—	—
+505=	UwUrange		Swing 6	—	—	—	—	—	—	—	—
+505=	Speaker 2		Swing 9	—	—	—	—	—	—	—	—
+505=	Kashaka Jeremiah		USIU Ikenga	—	—	—	—	—	—	—	—
+505=	Speaker 2		Swing 10	—	—	—	—	—	—	—	—
+505=	Mbulelo Gobo		Bonnie-Clyde	—	—	—	—	—	—	—	—
+505=	Kushagra Aditya		Dada&#x27;s Ravioli	—	—	—	—	—	—	—	—
+505=	RWEMERA ALLY HAMIS		The Boys	—	—	—	—	—	—	—	—
+505=	Ridwan Ullah Muhsin Gazi		Dhaka Tyrion &amp; Cersei	—	—	—	—	—	—	—	—
+505=	Yessica Suarez	ESL	UNAL Ñame with Cheese Ñoquis	—	—	—	—	—	—	—	—
+505=	Nabagesera Immy Karen	ESL, Novice	Strathmore Sled	—	—	—	—	—	—	—	—
+505=	Speaker 2		Swing 3	—	—	—	—	—	—	—	—
+505=	BOOP		Swing 4	—	—	—	—	—	—	—	—
+505=	Timilehin Olamijulo		FUTA T. A. T	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+KNUST Outlaws	3rd	Closing Government	View Ballot	Anna SawickaⒸ , Esther Ayodele
+WMSU count to ten please	2nd	Opening Government	View Ballot	Anna SawickaⒸ , Esther Ayodele
+Nairobi Never Have l Ever	4th	Opening Opposition	View Ballot	Anna SawickaⒸ , Esther Ayodele
+WPGA Laddu	1st	Closing Opposition	View Ballot	Anna SawickaⒸ , Esther Ayodele
+MAULERS GMT +7	2nd	Closing Opposition	View Ballot	Brian KamⒸ
+Sun kissed HOEmies	1st	Opening Government	View Ballot	Brian KamⒸ
+NMU Ultimately Karma	4th	Opening Opposition	View Ballot	Brian KamⒸ
+Alberta Winning is a Canon Event	3rd	Closing Government	View Ballot	Brian KamⒸ
+KNUST Hashmirdom	3rd	Closing Government	View Ballot	Abdul-Lateef Balikis AdukeⒸ , Daud Salahudeen Olamilekan
+HG A - HGDT but just the cuties	2nd	Opening Opposition	View Ballot	Abdul-Lateef Balikis AdukeⒸ , Daud Salahudeen Olamilekan
+we can make the whole debate shimm	4th	Opening Government	View Ballot	Abdul-Lateef Balikis AdukeⒸ , Daud Salahudeen Olamilekan
+XU-AdC SASHA COLBY!	1st	Closing Opposition	View Ballot	Abdul-Lateef Balikis AdukeⒸ , Daud Salahudeen Olamilekan
+IIT Bombay Apu kutti	4th	Opening Government	View Ballot	Maison Pieterson MaphosaⒸ
+Swing 5	3rd	Opening Opposition	View Ballot	Maison Pieterson MaphosaⒸ
+surprise me w speaks, adj	1st	Closing Opposition	View Ballot	Maison Pieterson MaphosaⒸ
+Santo Tomas debasties	2nd	Closing Government	View Ballot	Maison Pieterson MaphosaⒸ
+TCD Hist I’m not ticklish, you are!	3rd	Closing Opposition	View Ballot	Mahadi Awedaga AyiwoliⒸ
+Coimbra PRC - People&#x27;s Republic of Coimbra	1st	Opening Government	View Ballot	Mahadi Awedaga AyiwoliⒸ
+Nairobi Under the bleachers	2nd	Closing Government	View Ballot	Mahadi Awedaga AyiwoliⒸ
+KCW KC F	4th	Opening Opposition	View Ballot	Mahadi Awedaga AyiwoliⒸ
+HG F(orever single, hopefully not ???	2nd	Closing Government	View Ballot	Collins ChinonsoⒸ
+CU Hills	4th	Opening Opposition	View Ballot	Collins ChinonsoⒸ
+ALU mocha	3rd	Opening Government	View Ballot	Collins ChinonsoⒸ
+English Opening and Eight Queens	1st	Closing Opposition	View Ballot	Collins ChinonsoⒸ
+no eco motions pls	2nd	Closing Opposition	View Ballot	Adrish Kumar SikdarⒸ
+Queen&#x27;s astral projecting into ur butthole	3rd	Opening Opposition	View Ballot	Adrish Kumar SikdarⒸ
+KCW KC E	4th	Opening Government	View Ballot	Adrish Kumar SikdarⒸ
+Coerce you !	1st	Closing Government	View Ballot	Adrish Kumar SikdarⒸ
+NMIMS to spit or to swallow…the argument	2nd	Opening Opposition	View Ballot	Jessica Afi FayoseⒸ , Rashidat Yusuf
+Whiptical Illusion	1st	Closing Opposition	View Ballot	Jessica Afi FayoseⒸ , Rashidat Yusuf
+average semi-support/offlane role	4th	Closing Government	View Ballot	Jessica Afi FayoseⒸ , Rashidat Yusuf
+One of us may Mhalaki Teiti	3rd	Opening Government	View Ballot	Jessica Afi FayoseⒸ , Rashidat Yusuf
+ALU A	3rd	Closing Government	View Ballot	V SathvikⒸ
+Bucharest B	1st	Closing Opposition	View Ballot	V SathvikⒸ
+SRCC Pakoda simps	4th	Opening Government	View Ballot	V SathvikⒸ
+Delhi 1	2nd	Opening Opposition	View Ballot	V SathvikⒸ
+Dhaka Psycholinguist	3rd	Opening Opposition	View Ballot	Alexandra AdoteyⒸ
+Iguanakant	1st	Opening Government	View Ballot	Alexandra AdoteyⒸ
+Swing 7	4th	Closing Government	View Ballot	Alexandra AdoteyⒸ
+Japan Yamagishi	2nd	Closing Opposition	View Ballot	Alexandra AdoteyⒸ
+KNUST WesieAcheaw	2nd	Opening Opposition	View Ballot	Aman KaushikⒸ , Sarabjeet Singh
+ALU Dreamers	4th	Closing Government	View Ballot	Aman KaushikⒸ , Sarabjeet Singh
+homeless kiddoss w/o albert	3rd	Opening Government	View Ballot	Aman KaushikⒸ , Sarabjeet Singh
+Ilorin Holy Matrimony	1st	Closing Opposition	View Ballot	Aman KaushikⒸ , Sarabjeet Singh
+GLC 1+1	3rd	Closing Opposition	View Ballot	William SmithⒸ , Jaira Mei Barua
+DU Kunwar Adhiraj Pratap Singh	2nd	Closing Government	View Ballot	William SmithⒸ , Jaira Mei Barua
+Oxford AP	1st	Opening Government	View Ballot	William SmithⒸ , Jaira Mei Barua
+side chicks without consent	4th	Opening Opposition	View Ballot	William SmithⒸ , Jaira Mei Barua
+HG H - GyuDONE with Debate ??	2nd	Closing Opposition	View Ballot	Desmond DorvloⒸ , Barakat Abdulraheem Onaolapo
+DNLU Shastrartha	1st	Opening Government	View Ballot	Desmond DorvloⒸ , Barakat Abdulraheem Onaolapo
+WMSU lato-lato main slayers	4th	Opening Opposition	View Ballot	Desmond DorvloⒸ , Barakat Abdulraheem Onaolapo
+Colosseum CAPybara is the CAP	3rd	Closing Government	View Ballot	Desmond DorvloⒸ , Barakat Abdulraheem Onaolapo
+Up for Debate UFD India	2nd	Closing Government	View Ballot	Régis GourdelⒸ
+NMU Agree to Disagree	3rd	Opening Opposition	View Ballot	Régis GourdelⒸ
+Ilorin Lotus	4th	Closing Opposition	View Ballot	Régis GourdelⒸ
+THR Messi`s move to Inter Miami	1st	Opening Government	View Ballot	Régis GourdelⒸ
+HG G	4th	Opening Government	View Ballot	Fiachra NolanⒸ
+we&#x27;re contacting you about your ca	1st	Closing Government	View Ballot	Fiachra NolanⒸ
+Back Again	3rd	Closing Opposition	View Ballot	Fiachra NolanⒸ
+Shady phsychopath	2nd	Opening Opposition	View Ballot	Fiachra NolanⒸ
+NLIUB Machas	1st	Opening Opposition	View Ballot	Soumitro Kumar DasⒸ , Gopal Krishan
+We are not lazy we are just being	2nd	Closing Opposition	View Ballot	Soumitro Kumar DasⒸ , Gopal Krishan
+PES Broke without breaks	4th	Closing Government	View Ballot	Soumitro Kumar DasⒸ , Gopal Krishan
+Foster kids	3rd	Opening Government	View Ballot	Soumitro Kumar DasⒸ , Gopal Krishan
+HG J(ust dance)	4th	Opening Government	View Ballot	Hormenoo Emmanuella SelasiⒸ , Racheet
+BITS Goa DH2 Boiz	3rd	Closing Government	View Ballot	Hormenoo Emmanuella SelasiⒸ , Racheet
+PSHS ADDU Bangkal Campus	1st	Opening Opposition	View Ballot	Hormenoo Emmanuella SelasiⒸ , Racheet
+Swing 6	2nd	Closing Opposition	View Ballot	Hormenoo Emmanuella SelasiⒸ , Racheet
+KIIT Chosen Ones	2nd	Opening Government	View Ballot	Alishba IrfanⒸ
+MAULERS Sleeping beauty	4th	Closing Opposition	View Ballot	Alishba IrfanⒸ
+AUD Haldiram	1st	Opening Opposition	View Ballot	Alishba IrfanⒸ
+International Khiladi	3rd	Closing Government	View Ballot	Alishba IrfanⒸ
+Kyushu S	4th	Opening Opposition	View Ballot	Brian MuindiⒸ
+IIT Roorkee Strawberries over Peaches	2nd	Closing Government	View Ballot	Brian MuindiⒸ
+we fought each other in uhuru last	3rd	Opening Government	View Ballot	Brian MuindiⒸ
+Founders League Union	1st	Closing Opposition	View Ballot	Brian MuindiⒸ
+CU E	4th	Opening Government	View Ballot	Jantzen ErosⒸ
+We are here	2nd	Closing Government	View Ballot	Jantzen ErosⒸ
+KCW KC B	3rd	Opening Opposition	View Ballot	Jantzen ErosⒸ
+Kung-fu Panda	1st	Closing Opposition	View Ballot	Jantzen ErosⒸ
+DU Average Debater L	3rd	Opening Opposition	View Ballot	Tatiana SevyanⒸ
+Aberystwyth EpIc PogChamp Gamers	1st	Closing Government	View Ballot	Tatiana SevyanⒸ
+BITS Goa A50x	2nd	Opening Government	View Ballot	Tatiana SevyanⒸ
+UHAS B	4th	Closing Opposition	View Ballot	Tatiana SevyanⒸ
+AUD THS Heartache	4th	Opening Opposition	View Ballot	Pratik SinghⒸ
+Swing 1	1st	Closing Opposition	View Ballot	Pratik SinghⒸ
+SVC BP is not our cup of tea	2nd	Closing Government	View Ballot	Pratik SinghⒸ
+2 philosophers stoned	3rd	Opening Government	View Ballot	Pratik SinghⒸ
+IIT Bombay Bubble room trauma	2nd	Closing Opposition	View Ballot	Mahadi Rahman NikashⒸ
+IIT Roorkee zengel	3rd	Opening Government	View Ballot	Mahadi Rahman NikashⒸ
+Bucharest A	1st	Opening Opposition	View Ballot	Mahadi Rahman NikashⒸ
+Kekuatan	4th	Closing Government	View Ballot	Mahadi Rahman NikashⒸ
+CU B	4th	Closing Opposition	View Ballot	Anveisha SrivastavaⒸ , Eshitv Kumar
+BUTEX C A	2nd	Opening Government	View Ballot	Anveisha SrivastavaⒸ , Eshitv Kumar
+HLU 1	3rd	Opening Opposition	View Ballot	Anveisha SrivastavaⒸ , Eshitv Kumar
+Double A	1st	Closing Government	View Ballot	Anveisha SrivastavaⒸ , Eshitv Kumar
+KNUST Fire and Ice	3rd	Opening Opposition	View Ballot	Godswill IfeanyichukwuⒸ
+HG B - Fo Shizzle My Drizzle	1st	Closing Government	View Ballot	Godswill IfeanyichukwuⒸ
+Break X Hunters	2nd	Opening Government	View Ballot	Godswill IfeanyichukwuⒸ
+one of us gave the other daddy iss	4th	Closing Opposition	View Ballot	Godswill IfeanyichukwuⒸ
+HG E - exhausted eject exit ?????em f	1st	Opening Opposition	View Ballot	Harsh BattulwarⒸ
+UNAL Ñame with Cheese Ñoquis	2nd	Closing Government	View Ballot	Harsh BattulwarⒸ
+Perlas	4th	Opening Government	View Ballot	Harsh BattulwarⒸ
+Illuminati Brothers	3rd	Closing Opposition	View Ballot	Harsh BattulwarⒸ
+KNUST WeGoJapa	2nd	Closing Government	View Ballot	Joy Stella MbabaziⒸ
+KNUST From Me 2 You	3rd	Opening Government	View Ballot	Joy Stella MbabaziⒸ
+Swing 2	4th	Opening Opposition	View Ballot	Joy Stella MbabaziⒸ
+sin cos tan, your mom my onlyfan	1st	Closing Opposition	View Ballot	Joy Stella MbabaziⒸ
+KNUST Team Fire	4th	Closing Opposition	View Ballot	Emily Yinchang ShiⒸ
+NWU Potchefstroom Zucchini	3rd	Opening Opposition	View Ballot	Emily Yinchang ShiⒸ
+Cornell Recycle	1st	Closing Government	View Ballot	Emily Yinchang ShiⒸ
+PES kya hi bolu	2nd	Opening Government	View Ballot	Emily Yinchang ShiⒸ
+LSE If u can&#x27;t pre with alchool, pre w	1st	Closing Opposition	View Ballot	Aleksandra DurbazevaⒸ
+Dhaka DUDS	3rd	Closing Government	View Ballot	Aleksandra DurbazevaⒸ
+SBSCDU Chindi in Sainik Farms	2nd	Opening Government	View Ballot	Aleksandra DurbazevaⒸ
+JUDO Amar Ekush	4th	Opening Opposition	View Ballot	Aleksandra DurbazevaⒸ
+IIT Bombay Why is GC still our debate peak?	1st	Opening Government	View Ballot	Sarmad AhmedⒸ
+Dhaka Tyrion &amp; Cersei	4th	Closing Opposition	View Ballot	Sarmad AhmedⒸ
+Swing 4	2nd	Closing Government	View Ballot	Sarmad AhmedⒸ
+Father and Son on our first try	3rd	Opening Opposition	View Ballot	Sarmad AhmedⒸ
+ENU Nothing to say	2nd	Closing Opposition	View Ballot	Abdul-Malik IssifuⒸ
+DU Noida to Paris	3rd	Opening Opposition	View Ballot	Abdul-Malik IssifuⒸ
+IIT Delhi Two Whips	4th	Closing Government	View Ballot	Abdul-Malik IssifuⒸ
+Only chronically partnerless	1st	Opening Government	View Ballot	Abdul-Malik IssifuⒸ
+IIT Roorkee Forked over by ChatGPT	3rd	Opening Government	View Ballot	Abigail AsieduⒸ , Jefferson Asare
+Chulalongkorn SS	1st	Closing Opposition	View Ballot	Abigail AsieduⒸ , Jefferson Asare
+TSRS Reg time running out	2nd	Closing Government	View Ballot	Abigail AsieduⒸ , Jefferson Asare
+IIT Delhi The Novicists	4th	Opening Opposition	View Ballot	Abigail AsieduⒸ , Jefferson Asare
+IIT Bombay Sex fiends	3rd	Opening Government	View Ballot	Mariko KawabataⒸ , Samar Pratap Singh
+MAULERS leon lovers	2nd	Opening Opposition	View Ballot	Mariko KawabataⒸ , Samar Pratap Singh
+WMSU anti regionalian girlies	4th	Closing Government	View Ballot	Mariko KawabataⒸ , Samar Pratap Singh
+St Andrews (B)arking up the wrong tree	1st	Closing Opposition	View Ballot	Mariko KawabataⒸ , Samar Pratap Singh
+KNUST Fire Nation ??	2nd	Closing Opposition	View Ballot	Farissa MachembaⒸ
+Team Water Lily	4th	Closing Government	View Ballot	Farissa MachembaⒸ
+Strathmore Tirana	1st	Opening Opposition	View Ballot	Farissa MachembaⒸ
+Abeg flex	3rd	Opening Government	View Ballot	Farissa MachembaⒸ
+IIT Bombay You can&#x27;t make a Tomelette without	4th	Opening Opposition	View Ballot	Aaliya BauryⒸ , Katy Harrington
+J.K.U.A.T Here to fill the bins.	3rd	Closing Government	View Ballot	Aaliya BauryⒸ , Katy Harrington
+Edinburgh ... B? C? A-Z? Σ	1st	Closing Opposition	View Ballot	Aaliya BauryⒸ , Katy Harrington
+Frenemies	2nd	Opening Government	View Ballot	Aaliya BauryⒸ , Katy Harrington
+Kings	1st	Closing Government	View Ballot	Banshaj Raj BhardwajⒸ
+Raiden Ajeng Kartini	3rd	Opening Opposition	View Ballot	Banshaj Raj BhardwajⒸ
+Sir MVIT SMVIT	2nd	Opening Government	View Ballot	Banshaj Raj BhardwajⒸ
+PHDS kahit ano basta magbreak	4th	Closing Opposition	View Ballot	Banshaj Raj BhardwajⒸ
+NSTU DS Warriors	3rd	Opening Government	View Ballot	Khushi SharmaⒸ , Harshit Singh
+washed up seniors	1st	Opening Opposition	View Ballot	Khushi SharmaⒸ , Harshit Singh
+Ilorin The conglomerate	2nd	Closing Opposition	View Ballot	Khushi SharmaⒸ , Harshit Singh
+KCW KC C	4th	Closing Government	View Ballot	Khushi SharmaⒸ , Harshit Singh
+KNUST PACESETTERS	2nd	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ
+TCD Phil Blasian persuasion	1st	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ
+Ilorin Law and Medic	3rd	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ
+TNSHS It&#x27;s 5am in my our country	4th	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ
+GLC Mumbai Won plus won equals two	4th	Closing Government	View Ballot	Shivani MishraⒸ
+FLSS CNN Befuddled	1st	Opening Opposition	View Ballot	Shivani MishraⒸ
+Berlin B	2nd	Opening Government	View Ballot	Shivani MishraⒸ
+The Boys	3rd	Closing Opposition	View Ballot	Shivani MishraⒸ
+ITS 4AM AT 107	2nd	Opening Government	View Ballot	Vivek RajⒸ
+Daring Devils	4th	Closing Government	View Ballot	Vivek RajⒸ
+ACCDC 101	3rd	Closing Opposition	View Ballot	Vivek RajⒸ
+Harold and Kumar (guess which one	1st	Opening Opposition	View Ballot	Vivek RajⒸ
+KU Apple	3rd	Closing Government	View Ballot	Fahamid Rahman SiamⒸ , Badshah Akbar Rafi
+CU C	4th	Opening Opposition	View Ballot	Fahamid Rahman SiamⒸ , Badshah Akbar Rafi
+NMU Top of the TABlet	1st	Closing Opposition	View Ballot	Fahamid Rahman SiamⒸ , Badshah Akbar Rafi
+pp on the pp (get your mind out of	2nd	Opening Government	View Ballot	Fahamid Rahman SiamⒸ , Badshah Akbar Rafi
+CU D	4th	Closing Government	View Ballot	Heather AshworthⒸ
+Cornell Gaveal&#x27;s biggest fans	1st	Closing Opposition	View Ballot	Heather AshworthⒸ
+We retired from retirement because	2nd	Opening Government	View Ballot	Heather AshworthⒸ
+FUV composite	3rd	Opening Opposition	View Ballot	Heather AshworthⒸ
+NUST Operation Restore Legacy	2nd	Closing Opposition	View Ballot	Henry KofiⒸ , Desmond Papa Arhinful
+NMIMS ASMSOC e-mommy affliction	3rd	Closing Government	View Ballot	Henry KofiⒸ , Desmond Papa Arhinful
+BUP B	4th	Opening Government	View Ballot	Henry KofiⒸ , Desmond Papa Arhinful
+NMU Anbu Black Ops	1st	Opening Opposition	View Ballot	Henry KofiⒸ , Desmond Papa Arhinful
+KMC Kowalski and Skipper	4th	Opening Opposition	View Ballot	Mateusz KossonⒸ , Brandon Zhang
+GUU (B)reaking Free	1st	Closing Government	View Ballot	Mateusz KossonⒸ , Brandon Zhang
+Exeter EXit Stage Left	2nd	Closing Opposition	View Ballot	Mateusz KossonⒸ , Brandon Zhang
+Integrate your rebuttals	3rd	Opening Government	View Ballot	Mateusz KossonⒸ , Brandon Zhang
+Dundee Euros Champions 2023	2nd	Closing Opposition	View Ballot	Teye Prince-DanielⒸ , Prosper Michael AmetuⓉ
+USIU Ikenga	1st	Opening Opposition	View Ballot	Teye Prince-DanielⒸ , Prosper Michael AmetuⓉ
+USIU Gunners	4th	Closing Government	View Ballot	Teye Prince-DanielⒸ , Prosper Michael AmetuⓉ
+UHAS UpDown	3rd	Opening Government	View Ballot	Teye Prince-DanielⒸ , Prosper Michael AmetuⓉ
+JUST Goku &amp; Saitama	3rd	Opening Opposition	View Ballot	Dishita DubeyⒸ , Mohanish Tatiya
+USIU cereal killer	4th	Closing Opposition	View Ballot	Dishita DubeyⒸ , Mohanish Tatiya
+KCW KC A	2nd	Opening Government	View Ballot	Dishita DubeyⒸ , Mohanish Tatiya
+Jinx homies	1st	Closing Government	View Ballot	Dishita DubeyⒸ , Mohanish Tatiya
+Will confirm asap	1st	Opening Government	View Ballot	Joseph HutchisonⒸ
+Strathmore Sled	3rd	Closing Opposition	View Ballot	Joseph HutchisonⒸ
+IIT Delhi Not a loss but a strategic 4th	2nd	Opening Opposition	View Ballot	Joseph HutchisonⒸ
+Swing 3	4th	Closing Government	View Ballot	Joseph HutchisonⒸ
+KNUST PETRICHOR	1st	Closing Opposition	View Ballot	Tousif Tanvir AlamⒸ
+GLC Mumbai Teeth Smashers	4th	Opening Government	View Ballot	Tousif Tanvir AlamⒸ
+TCD Hist Rehan and Ziyad	2nd	Opening Opposition	View Ballot	Tousif Tanvir AlamⒸ
+BSU Team Fuck OSS	3rd	Closing Government	View Ballot	Tousif Tanvir AlamⒸ
+Budapest BanDia	3rd	Closing Government	View Ballot	Cynthia ChristelleⒸ
+Rabid Mouse Mode	4th	Opening Government	View Ballot	Cynthia ChristelleⒸ
+Pirates of the Gulf of Guinea	1st	Closing Opposition	View Ballot	Cynthia ChristelleⒸ
+Questern	2nd	Opening Opposition	View Ballot	Cynthia ChristelleⒸ
+DTU chukuchukuchuku	2nd	Opening Government	View Ballot	Austin KelachukwuⒸ
+CU Depressed Soul	4th	Closing Government	View Ballot	Austin KelachukwuⒸ
+Utilitarian arguments disguised as	3rd	Closing Opposition	View Ballot	Austin KelachukwuⒸ
+Nairobi Wolf ??	1st	Opening Opposition	View Ballot	Austin KelachukwuⒸ
+RMLNLU Brampton ke Munde	4th	Closing Government	View Ballot	Aarya HoraⒸ
+CU A	2nd	Closing Opposition	View Ballot	Aarya HoraⒸ
+subject to change	1st	Opening Opposition	View Ballot	Aarya HoraⒸ
+IIT Delhi Legit Law	3rd	Opening Government	View Ballot	Aarya HoraⒸ
+FTU wuh wuh what?	1st	Closing Government	View Ballot	Nana Akua LarbiⒸ
+ADDU Rikk and Nurty	2nd	Opening Government	View Ballot	Nana Akua LarbiⒸ
+NMU Your Opponents	4th	Opening Opposition	View Ballot	Nana Akua LarbiⒸ
+KCW KC D	3rd	Closing Opposition	View Ballot	Nana Akua LarbiⒸ
+HG D-either we break or break down	3rd	Opening Government	View Ballot	Ezekiel N. T. A. AddyⒸ
+GNLU Doofenshmirtz and his (emotional s	2nd	Closing Opposition	View Ballot	Ezekiel N. T. A. AddyⒸ
+Tora and Aru	1st	Opening Opposition	View Ballot	Ezekiel N. T. A. AddyⒸ
+Uyo IDAN 2.0	4th	Closing Government	View Ballot	Ezekiel N. T. A. AddyⒸ
+Laban Humanista	2nd	Closing Government	View Ballot	Parshav JainⒸ
+KCL the equity officer and the walking	1st	Opening Opposition	View Ballot	Parshav JainⒸ
+IIT Delhi Please don&#x27;t swap our speaker scor	3rd	Closing Opposition	View Ballot	Parshav JainⒸ
+Bonnie-Clyde	4th	Opening Government	View Ballot	Parshav JainⒸ
+LGS JT Powerpuff Boys	1st	Closing Opposition	View Ballot	Nimay SanghiⒸ
+LGS JT Phantom Troupe	3rd	Opening Government	View Ballot	Nimay SanghiⒸ
+BUET Team Gravity	4th	Closing Government	View Ballot	Nimay SanghiⒸ
+Strathmore Pee Oh Eye	2nd	Opening Opposition	View Ballot	Nimay SanghiⒸ
+Alberta THBT it is biologically advantageo	1st	Closing Opposition	View Ballot	Oladi GabisiⒸ
+J and J	2nd	Closing Government	View Ballot	Oladi GabisiⒸ
+PUDS Spurs	4th	Opening Government	View Ballot	Oladi GabisiⒸ
+PHDS Osmanthus wine tastes as weird as	3rd	Opening Opposition	View Ballot	Oladi GabisiⒸ
+HG C - She says I am the One (but t	4th	Closing Opposition	View Ballot	Nivesh AggarwalⒸ
+GCU The Ahl e Dard Cabinet	3rd	Opening Government	View Ballot	Nivesh AggarwalⒸ
+Transoceanic Javertists	2nd	Opening Opposition	View Ballot	Nivesh AggarwalⒸ
+Bin roomers	1st	Closing Government	View Ballot	Nivesh AggarwalⒸ
+KNUST B	4th	Opening Opposition	View Ballot	Keshav RaiⒸ
+we identify as novices ??	3rd	Closing Opposition	View Ballot	Keshav RaiⒸ
+Spirit of the Coast	1st	Opening Government	View Ballot	Keshav RaiⒸ
+making a comeback uwu	2nd	Closing Government	View Ballot	Keshav RaiⒸ
+Spring 1975	1st	Closing Opposition	View Ballot	Yi Zoe Zhu WangⒸ , Evangeline Lin
+MDS You know what? I don&#x27;t know	3rd	Opening Government	View Ballot	Yi Zoe Zhu WangⒸ , Evangeline Lin
+PHDS Excuse Me, He Asked For No Pickles	2nd	Closing Government	View Ballot	Yi Zoe Zhu WangⒸ , Evangeline Lin
+PHDS ABCDEbators	4th	Opening Opposition	View Ballot	Yi Zoe Zhu WangⒸ , Evangeline Lin
+NSTU DS Pioneer	3rd	Opening Government	View Ballot	Toru OgaⒸ
+CU B&#x27;	4th	Closing Government	View Ballot	Toru OgaⒸ
+Berlin C	2nd	Closing Opposition	View Ballot	Toru OgaⒸ
+Miki’s looking a bit different tod	1st	Opening Opposition	View Ballot	Toru OgaⒸ
+KNUST Game of Thrones	3rd	Closing Government	View Ballot	Brynley HamerⒸ
+ARSDC DU 3 inches is not enough ?	1st	Closing Opposition	View Ballot	Brynley HamerⒸ
+Strathmore Onigashima	2nd	Opening Government	View Ballot	Brynley HamerⒸ
+PES pura sunle	4th	Opening Opposition	View Ballot	Brynley HamerⒸ
+Strathmore Balloon	3rd	Opening Opposition	View Ballot	Benjamin J. SpethⒸ
+Mastermind Chicks with kicks	4th	Opening Government	View Ballot	Benjamin J. SpethⒸ
+Lyceum B	1st	Closing Opposition	View Ballot	Benjamin J. SpethⒸ
+CAITO KINGS	2nd	Closing Government	View Ballot	Benjamin J. SpethⒸ
+Hiroogakuen Goat and Toad	1st	Closing Government	View Ballot	Jaskaran Singh SodhiⒸ
+CU ACC	3rd	Opening Government	View Ballot	Jaskaran Singh SodhiⒸ
+IAIT Almond Debate Varsity	4th	Closing Opposition	View Ballot	Jaskaran Singh SodhiⒸ
+XU-AdC The Rise of Bilateralism	2nd	Opening Opposition	View Ballot	Jaskaran Singh SodhiⒸ
+
+
+team	result	side	ballot	adjudicators
+IIT Roorkee Forked over by ChatGPT	2nd	Opening Opposition	View Ballot	Brian MuindiⒸ
+Utilitarian arguments disguised as	4th	Opening Government	View Ballot	Brian MuindiⒸ
+PHDS Osmanthus wine tastes as weird as	3rd	Closing Government	View Ballot	Brian MuindiⒸ
+2 philosophers stoned	1st	Closing Opposition	View Ballot	Brian MuindiⒸ
+Budapest BanDia	2nd	Opening Government	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+Dhaka Psycholinguist	4th	Closing Government	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+NMU Agree to Disagree	3rd	Closing Opposition	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+Foster kids	1st	Opening Opposition	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+LSE If u can&#x27;t pre with alchool, pre w	2nd	Closing Government	View Ballot	Sarmad AhmedⒸ
+Swing 2	4th	Opening Opposition	View Ballot	Sarmad AhmedⒸ
+we&#x27;re contacting you about your ca	1st	Closing Opposition	View Ballot	Sarmad AhmedⒸ
+sin cos tan, your mom my onlyfan	3rd	Opening Government	View Ballot	Sarmad AhmedⒸ
+IIT Bombay You can&#x27;t make a Tomelette without	1st	Opening Government	View Ballot	Oladi GabisiⒸ
+JUDO Amar Ekush	2nd	Closing Government	View Ballot	Oladi GabisiⒸ
+Uyo IDAN 2.0	3rd	Closing Opposition	View Ballot	Oladi GabisiⒸ
+PHDS kahit ano basta magbreak	4th	Opening Opposition	View Ballot	Oladi GabisiⒸ
+Dundee Euros Champions 2023	4th	Opening Government	View Ballot	Daud Salahudeen OlamilekanⒸ , Badshah Akbar Rafi
+We are here	3rd	Opening Opposition	View Ballot	Daud Salahudeen OlamilekanⒸ , Badshah Akbar Rafi
+Delhi 1	2nd	Closing Government	View Ballot	Daud Salahudeen OlamilekanⒸ , Badshah Akbar Rafi
+pp on the pp (get your mind out of	1st	Closing Opposition	View Ballot	Daud Salahudeen OlamilekanⒸ , Badshah Akbar Rafi
+CU E	4th	Closing Government	View Ballot	Malte MatthesⒸ , Abigail Asiedu
+PES pura sunle	3rd	Opening Government	View Ballot	Malte MatthesⒸ , Abigail Asiedu
+SRCC Pakoda simps	1st	Opening Opposition	View Ballot	Malte MatthesⒸ , Abigail Asiedu
+KCW KC F	2nd	Closing Opposition	View Ballot	Malte MatthesⒸ , Abigail Asiedu
+International Khiladi	2nd	Closing Opposition	View Ballot	Aleksandra DurbazevaⒸ , Katy Harrington
+Strathmore Onigashima	1st	Closing Government	View Ballot	Aleksandra DurbazevaⒸ , Katy Harrington
+Laban Humanista	4th	Opening Government	View Ballot	Aleksandra DurbazevaⒸ , Katy Harrington
+KCW KC A	3rd	Opening Opposition	View Ballot	Aleksandra DurbazevaⒸ , Katy Harrington
+DTU chukuchukuchuku	4th	Opening Opposition	View Ballot	Yi Zoe Zhu WangⒸ
+TSRS Reg time running out	1st	Closing Opposition	View Ballot	Yi Zoe Zhu WangⒸ
+PHDS Excuse Me, He Asked For No Pickles	3rd	Opening Government	View Ballot	Yi Zoe Zhu WangⒸ
+Questern	2nd	Closing Government	View Ballot	Yi Zoe Zhu WangⒸ
+KNUST PACESETTERS	4th	Closing Government	View Ballot	Brian KamⒸ
+FTU wuh wuh what?	2nd	Opening Government	View Ballot	Brian KamⒸ
+USIU Ikenga	3rd	Closing Opposition	View Ballot	Brian KamⒸ
+Coerce you !	1st	Opening Opposition	View Ballot	Brian KamⒸ
+DNLU Shastrartha	4th	Closing Opposition	View Ballot	Henry KofiⒸ
+ARSDC DU 3 inches is not enough ?	3rd	Opening Government	View Ballot	Henry KofiⒸ
+KCL the equity officer and the walking	1st	Closing Government	View Ballot	Henry KofiⒸ
+St Andrews (B)arking up the wrong tree	2nd	Opening Opposition	View Ballot	Henry KofiⒸ
+RMLNLU Brampton ke Munde	3rd	Closing Opposition	View Ballot	Shivani MishraⒸ
+BUP B	1st	Closing Government	View Ballot	Shivani MishraⒸ
+IIT Delhi Two Whips	2nd	Opening Government	View Ballot	Shivani MishraⒸ
+Hopes ??	4th	Opening Opposition	View Ballot	Shivani MishraⒸ
+Aberystwyth EpIc PogChamp Gamers	2nd	Opening Opposition	View Ballot	Jantzen ErosⒸ
+Nairobi Wolf ??	4th	Opening Government	View Ballot	Jantzen ErosⒸ
+Harold and Kumar (guess which one	1st	Closing Opposition	View Ballot	Jantzen ErosⒸ
+Pirates of the Gulf of Guinea	3rd	Closing Government	View Ballot	Jantzen ErosⒸ
+ALU Dreamers	1st	Closing Opposition	View Ballot	Esther AyodeleⒸ
+PUDS Spurs	3rd	Closing Government	View Ballot	Esther AyodeleⒸ
+UHAS B	2nd	Opening Government	View Ballot	Esther AyodeleⒸ
+KCW KC C	4th	Opening Opposition	View Ballot	Esther AyodeleⒸ
+KNUST WesieAcheaw	4th	Opening Government	View Ballot	Joseph HutchisonⒸ
+HG A - HGDT but just the cuties	3rd	Closing Opposition	View Ballot	Joseph HutchisonⒸ
+Exeter EXit Stage Left	1st	Opening Opposition	View Ballot	Joseph HutchisonⒸ
+WMSU count to ten please	2nd	Closing Government	View Ballot	Joseph HutchisonⒸ
+KNUST From Me 2 You	1st	Closing Government	View Ballot	Godswill IfeanyichukwuⒸ
+KU Apple	3rd	Closing Opposition	View Ballot	Godswill IfeanyichukwuⒸ
+homeless kiddoss w/o albert	2nd	Opening Opposition	View Ballot	Godswill IfeanyichukwuⒸ
+Illuminati Brothers	4th	Opening Government	View Ballot	Godswill IfeanyichukwuⒸ
+KNUST WeGoJapa	3rd	Opening Opposition	View Ballot	Cynthia ChristelleⒸ
+MAULERS leon lovers	4th	Closing Opposition	View Ballot	Cynthia ChristelleⒸ
+no eco motions pls	1st	Closing Government	View Ballot	Cynthia ChristelleⒸ
+Transoceanic Javertists	2nd	Opening Government	View Ballot	Cynthia ChristelleⒸ
+HG G	1st	Closing Government	View Ballot	Régis GourdelⒸ
+FUTA T. A. T	3rd	Opening Opposition	View Ballot	Régis GourdelⒸ
+NMU Your Opponents	2nd	Closing Opposition	View Ballot	Régis GourdelⒸ
+IAIT Almond Debate Varsity	4th	Opening Government	View Ballot	Régis GourdelⒸ
+Cornell Gaveal&#x27;s biggest fans	2nd	Opening Opposition	View Ballot	Ezekiel N. T. A. AddyⒸ
+NMU Anbu Black Ops	3rd	Closing Opposition	View Ballot	Ezekiel N. T. A. AddyⒸ
+Only chronically partnerless	1st	Closing Government	View Ballot	Ezekiel N. T. A. AddyⒸ
+Kung-fu Panda	4th	Opening Government	View Ballot	Ezekiel N. T. A. AddyⒸ
+HG H - GyuDONE with Debate ??	2nd	Opening Government	View Ballot	Collins ChinonsoⒸ
+Berlin B	1st	Closing Government	View Ballot	Collins ChinonsoⒸ
+BITS Goa A50x	4th	Closing Opposition	View Ballot	Collins ChinonsoⒸ
+Japan Yamagishi	3rd	Opening Opposition	View Ballot	Collins ChinonsoⒸ
+BITS Goa DH2 Boiz	3rd	Closing Opposition	View Ballot	Aarya HoraⒸ
+we identify as novices ??	2nd	Opening Government	View Ballot	Aarya HoraⒸ
+USIU cereal killer	4th	Closing Government	View Ballot	Aarya HoraⒸ
+Abeg flex	1st	Opening Opposition	View Ballot	Aarya HoraⒸ
+FLSS CNN Befuddled	2nd	Closing Opposition	View Ballot	Jessica Afi FayoseⒸ
+AUD Haldiram	3rd	Closing Government	View Ballot	Jessica Afi FayoseⒸ
+Oxford AP	1st	Opening Opposition	View Ballot	Jessica Afi FayoseⒸ
+Ilorin Holy Matrimony	4th	Opening Government	View Ballot	Jessica Afi FayoseⒸ
+Swing 1	2nd	Opening Opposition	View Ballot	Teye Prince-DanielⒸ
+Ilorin Law and Medic	4th	Opening Government	View Ballot	Teye Prince-DanielⒸ
+One of us may Mhalaki Teiti	3rd	Closing Government	View Ballot	Teye Prince-DanielⒸ
+FUV composite	1st	Closing Opposition	View Ballot	Teye Prince-DanielⒸ
+NMIMS to spit or to swallow…the argument	4th	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ
+CU A	2nd	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ
+DU Kunwar Adhiraj Pratap Singh	1st	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ
+Up for Debate UFD India	3rd	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ
+KIIT Chosen Ones	1st	Closing Government	View Ballot	Joy Stella MbabaziⒸ
+MAULERS GMT +7	2nd	Opening Opposition	View Ballot	Joy Stella MbabaziⒸ
+PES kya hi bolu	4th	Closing Opposition	View Ballot	Joy Stella MbabaziⒸ
+CAITO KINGS	3rd	Opening Government	View Ballot	Joy Stella MbabaziⒸ
+IIT Roorkee Strawberries over Peaches	4th	Closing Opposition	View Ballot	Mahadi Rahman NikashⒸ
+SVC BP is not our cup of tea	2nd	Opening Government	View Ballot	Mahadi Rahman NikashⒸ
+Nairobi Under the bleachers	1st	Opening Opposition	View Ballot	Mahadi Rahman NikashⒸ
+Break X Hunters	3rd	Closing Government	View Ballot	Mahadi Rahman NikashⒸ
+HG J(ust dance)	4th	Closing Opposition	View Ballot	Khushi SharmaⒸ , Farissa Machemba
+CU B	2nd	Opening Government	View Ballot	Khushi SharmaⒸ , Farissa Machemba
+Mastermind Chicks with kicks	3rd	Opening Opposition	View Ballot	Khushi SharmaⒸ , Farissa Machemba
+Nairobi Never Have l Ever	1st	Closing Government	View Ballot	Khushi SharmaⒸ , Farissa Machemba
+IIT Bombay Apu kutti	4th	Closing Opposition	View Ballot	Parshav JainⒸ
+CU Hills	2nd	Opening Government	View Ballot	Parshav JainⒸ
+Perlas	3rd	Closing Government	View Ballot	Parshav JainⒸ
+Kekuatan	1st	Opening Opposition	View Ballot	Parshav JainⒸ
+AUD THS Heartache	3rd	Opening Government	View Ballot	Aman KaushikⒸ , Gopal Krishan
+Team Water Lily	2nd	Opening Opposition	View Ballot	Aman KaushikⒸ , Gopal Krishan
+PES Broke without breaks	1st	Closing Opposition	View Ballot	Aman KaushikⒸ , Gopal Krishan
+Ilorin Lotus	4th	Closing Government	View Ballot	Aman KaushikⒸ , Gopal Krishan
+ALU A	2nd	Opening Opposition	View Ballot	Hormenoo Emmanuella SelasiⒸ
+Raiden Ajeng Kartini	3rd	Opening Government	View Ballot	Hormenoo Emmanuella SelasiⒸ
+Queen&#x27;s astral projecting into ur butthole	1st	Closing Government	View Ballot	Hormenoo Emmanuella SelasiⒸ
+IIT Delhi Legit Law	4th	Closing Opposition	View Ballot	Hormenoo Emmanuella SelasiⒸ
+KNUST Team Fire	3rd	Opening Government	View Ballot	Tatiana SevyanⒸ
+WMSU lato-lato main slayers	4th	Closing Government	View Ballot	Tatiana SevyanⒸ
+side chicks without consent	1st	Closing Opposition	View Ballot	Tatiana SevyanⒸ
+one of us gave the other daddy iss	2nd	Opening Opposition	View Ballot	Tatiana SevyanⒸ
+GU Easy Company	2nd	Closing Government	View Ballot	Mohanish TatiyaⒸ
+WMSU anti regionalian girlies	1st	Opening Opposition	View Ballot	Mohanish TatiyaⒸ
+TNSHS It&#x27;s 5am in my our country	4th	Opening Government	View Ballot	Mohanish TatiyaⒸ
+Daring Devils	3rd	Closing Opposition	View Ballot	Mohanish TatiyaⒸ
+NSTU DS Warriors	3rd	Closing Government	View Ballot	Jefferson AsareⒸ , Omesh Dhar Dwivedi
+LGS JT Phantom Troupe	1st	Opening Opposition	View Ballot	Jefferson AsareⒸ , Omesh Dhar Dwivedi
+KCW KC B	4th	Closing Opposition	View Ballot	Jefferson AsareⒸ , Omesh Dhar Dwivedi
+ACCDC 101	2nd	Opening Government	View Ballot	Jefferson AsareⒸ , Omesh Dhar Dwivedi
+IIT Bombay Bubble room trauma	4th	Opening Opposition	View Ballot	Austin KelachukwuⒸ
+TCD Hist Rehan and Ziyad	2nd	Opening Government	View Ballot	Austin KelachukwuⒸ
+Frenemies	3rd	Closing Opposition	View Ballot	Austin KelachukwuⒸ
+We retired from retirement because	1st	Closing Government	View Ballot	Austin KelachukwuⒸ
+Cornell Recycle	3rd	Closing Opposition	View Ballot	Keshav RaiⒸ , Sarabjeet Singh
+TCD Phil Blasian persuasion	4th	Opening Opposition	View Ballot	Keshav RaiⒸ , Sarabjeet Singh
+Strathmore Tirana	1st	Opening Government	View Ballot	Keshav RaiⒸ , Sarabjeet Singh
+English Opening and Eight Queens	2nd	Closing Government	View Ballot	Keshav RaiⒸ , Sarabjeet Singh
+NWU Potchefstroom Zucchini	1st	Closing Opposition	View Ballot	Fiachra NolanⒸ
+GLC 1+1	3rd	Opening Opposition	View Ballot	Fiachra NolanⒸ
+NMIMS ASMSOC e-mommy affliction	4th	Opening Government	View Ballot	Fiachra NolanⒸ
+Strathmore Balloon	2nd	Closing Government	View Ballot	Fiachra NolanⒸ
+Hiroogakuen Goat and Toad	4th	Opening Government	View Ballot	Mariko KawabataⒸ
+HG E - exhausted eject exit ?????em f	2nd	Closing Government	View Ballot	Mariko KawabataⒸ
+Tora and Aru	3rd	Closing Opposition	View Ballot	Mariko KawabataⒸ
+Jinx homies	1st	Opening Opposition	View Ballot	Mariko KawabataⒸ
+JUST Goku &amp; Saitama	3rd	Opening Government	View Ballot	Banshaj Raj BhardwajⒸ , Racheet
+IIT Bombay Sex fiends	1st	Closing Government	View Ballot	Banshaj Raj BhardwajⒸ , Racheet
+HG D-either we break or break down	2nd	Opening Opposition	View Ballot	Banshaj Raj BhardwajⒸ , Racheet
+Integrate your rebuttals	4th	Closing Opposition	View Ballot	Banshaj Raj BhardwajⒸ , Racheet
+GLC Mumbai Won plus won equals two	1st	Opening Government	View Ballot	Harshit SinghⒸ
+CU B&#x27;	4th	Opening Opposition	View Ballot	Harshit SinghⒸ
+CU Depressed Soul	2nd	Closing Opposition	View Ballot	Harshit SinghⒸ
+CU C	3rd	Closing Government	View Ballot	Harshit SinghⒸ
+Alberta THBT it is biologically advantageo	1st	Opening Opposition	View Ballot	Toru OgaⒸ
+HG B - Fo Shizzle My Drizzle	2nd	Closing Opposition	View Ballot	Toru OgaⒸ
+Iguanakant	4th	Closing Government	View Ballot	Toru OgaⒸ
+XU-AdC SASHA COLBY!	3rd	Opening Government	View Ballot	Toru OgaⒸ
+IIT Roorkee zengel	1st	Closing Government	View Ballot	Adrish Kumar SikdarⒸ
+GCU The Ahl e Dard Cabinet	3rd	Opening Opposition	View Ballot	Adrish Kumar SikdarⒸ
+CU D	4th	Closing Opposition	View Ballot	Adrish Kumar SikdarⒸ
+HLU 1	2nd	Opening Government	View Ballot	Adrish Kumar SikdarⒸ
+KNUST B	2nd	Closing Opposition	View Ballot	Fahamid Rahman SiamⒸ , Rashidat Yusuf
+HG C - She says I am the One (but t	1st	Opening Government	View Ballot	Fahamid Rahman SiamⒸ , Rashidat Yusuf
+average semi-support/offlane role	4th	Opening Opposition	View Ballot	Fahamid Rahman SiamⒸ , Rashidat Yusuf
+KCW KC E	3rd	Closing Government	View Ballot	Fahamid Rahman SiamⒸ , Rashidat Yusuf
+ENU Nothing to say	4th	Opening Government	View Ballot	Eshitv KumarⒸ
+Berlin C	3rd	Opening Opposition	View Ballot	Eshitv KumarⒸ
+UNAL Ñame with Cheese Ñoquis	1st	Closing Opposition	View Ballot	Eshitv KumarⒸ
+IIT Delhi Not a loss but a strategic 4th	2nd	Closing Government	View Ballot	Eshitv KumarⒸ
+KNUST PETRICHOR	3rd	Opening Government	View Ballot	Harsh BattulwarⒸ
+Kings	2nd	Closing Opposition	View Ballot	Harsh BattulwarⒸ
+Bucharest B	1st	Closing Government	View Ballot	Harsh BattulwarⒸ
+Coimbra PRC - People&#x27;s Republic of Coimbra	4th	Opening Opposition	View Ballot	Harsh BattulwarⒸ
+KNUST Game of Thrones	3rd	Opening Opposition	View Ballot	Mateusz KossonⒸ
+KNUST Outlaws	2nd	Closing Opposition	View Ballot	Mateusz KossonⒸ
+TCD Hist I’m not ticklish, you are!	1st	Opening Government	View Ballot	Mateusz KossonⒸ
+IIT Delhi Please don&#x27;t swap our speaker scor	4th	Closing Government	View Ballot	Mateusz KossonⒸ
+Edinburgh ... B? C? A-Z? Σ	1st	Opening Opposition	View Ballot	Umar BuckusⒸ , Benjamin J. Speth
+Chulalongkorn SS	2nd	Closing Government	View Ballot	Umar BuckusⒸ , Benjamin J. Speth
+THR Messi`s move to Inter Miami	3rd	Closing Opposition	View Ballot	Umar BuckusⒸ , Benjamin J. Speth
+Founders League Union	4th	Opening Government	View Ballot	Umar BuckusⒸ , Benjamin J. Speth
+KNUST Fire and Ice	1st	Closing Opposition	View Ballot	Lisa Marie VirellaⒸ
+J.K.U.A.T Here to fill the bins.	2nd	Opening Government	View Ballot	Lisa Marie VirellaⒸ
+DU Noida to Paris	4th	Closing Government	View Ballot	Lisa Marie VirellaⒸ
+Back Again	3rd	Opening Opposition	View Ballot	Lisa Marie VirellaⒸ
+GUU (B)reaking Free	3rd	Opening Opposition	View Ballot	William SmithⒸ
+We are not lazy we are just being	4th	Closing Government	View Ballot	William SmithⒸ
+NMU Top of the TABlet	2nd	Opening Government	View Ballot	William SmithⒸ
+Spirit of the Coast	1st	Closing Opposition	View Ballot	William SmithⒸ
+KNUST Fire Nation ??	4th	Closing Government	View Ballot	Mahadi Awedaga AyiwoliⒸ
+HG F(orever single, hopefully not ???	1st	Opening Opposition	View Ballot	Mahadi Awedaga AyiwoliⒸ
+Ilorin The conglomerate	3rd	Opening Government	View Ballot	Mahadi Awedaga AyiwoliⒸ
+Alberta Winning is a Canon Event	2nd	Closing Opposition	View Ballot	Mahadi Awedaga AyiwoliⒸ
+Sun kissed HOEmies	2nd	Closing Opposition	View Ballot	Nimay SanghiⒸ
+Bin roomers	4th	Opening Government	View Ballot	Nimay SanghiⒸ
+Bucharest A	1st	Closing Government	View Ballot	Nimay SanghiⒸ
+WPGA Laddu	3rd	Opening Opposition	View Ballot	Nimay SanghiⒸ
+GNLU Doofenshmirtz and his (emotional s	4th	Opening Opposition	View Ballot	Nana Akua LarbiⒸ
+J and J	1st	Opening Government	View Ballot	Nana Akua LarbiⒸ
+Santo Tomas debasties	2nd	Closing Opposition	View Ballot	Nana Akua LarbiⒸ
+SBSCDU Chindi in Sainik Farms	3rd	Closing Government	View Ballot	Nana Akua LarbiⒸ
+KNUST Hashmirdom	3rd	Closing Opposition	View Ballot	Alishba IrfanⒸ
+Dhaka DUDS	2nd	Opening Government	View Ballot	Alishba IrfanⒸ
+ALU mocha	4th	Opening Opposition	View Ballot	Alishba IrfanⒸ
+we fought each other in uhuru last	1st	Closing Government	View Ballot	Alishba IrfanⒸ
+Strathmore Pee Oh Eye	1st	Closing Government	View Ballot	Alexandra AdoteyⒸ
+Sir MVIT SMVIT	4th	Closing Opposition	View Ballot	Alexandra AdoteyⒸ
+XU-AdC The Rise of Bilateralism	2nd	Opening Government	View Ballot	Alexandra AdoteyⒸ
+making a comeback uwu	3rd	Opening Opposition	View Ballot	Alexandra AdoteyⒸ
+NMU Ultimately Karma	3rd	Opening Government	View Ballot	Samar Pratap SinghⒸ
+USIU Gunners	1st	Opening Opposition	View Ballot	Samar Pratap SinghⒸ
+IIT Delhi The Novicists	4th	Closing Opposition	View Ballot	Samar Pratap SinghⒸ
+PHDS ABCDEbators	2nd	Closing Government	View Ballot	Samar Pratap SinghⒸ
+IIT Bombay Why is GC still our debate peak?	2nd	Opening Opposition	View Ballot	Brynley HamerⒸ
+surprise me w speaks, adj	4th	Closing Government	View Ballot	Brynley HamerⒸ
+Spring 1975	3rd	Opening Government	View Ballot	Brynley HamerⒸ
+Will confirm asap	1st	Closing Opposition	View Ballot	Brynley HamerⒸ
+subject to change	3rd	Opening Government	View Ballot	Heather AshworthⒸ
+washed up seniors	1st	Closing Government	View Ballot	Heather AshworthⒸ
+Lyceum B	4th	Opening Opposition	View Ballot	Heather AshworthⒸ
+Miki’s looking a bit different tod	2nd	Closing Opposition	View Ballot	Heather AshworthⒸ
+NSTU DS Pioneer	3rd	Closing Opposition	View Ballot	Emily Yinchang ShiⒸ
+CU ACC	4th	Closing Government	View Ballot	Emily Yinchang ShiⒸ
+The Boys	1st	Opening Government	View Ballot	Emily Yinchang ShiⒸ
+KCW KC D	2nd	Opening Opposition	View Ballot	Emily Yinchang ShiⒸ
+MAULERS Sleeping beauty	4th	Opening Opposition	View Ballot	Anveisha SrivastavaⒸ , Portuphy Calvin Ofori
+Kyushu S	3rd	Closing Opposition	View Ballot	Anveisha SrivastavaⒸ , Portuphy Calvin Ofori
+Dhaka Tyrion &amp; Cersei	1st	Opening Government	View Ballot	Anveisha SrivastavaⒸ , Portuphy Calvin Ofori
+we can make the whole debate shimm	2nd	Closing Government	View Ballot	Anveisha SrivastavaⒸ , Portuphy Calvin Ofori
+NUST Operation Restore Legacy	4th	Closing Government	View Ballot	Vivek RajⒸ
+ADDU Rikk and Nurty	3rd	Closing Opposition	View Ballot	Vivek RajⒸ
+ITS 4AM AT 107	2nd	Opening Opposition	View Ballot	Vivek RajⒸ
+Shady phsychopath	1st	Opening Government	View Ballot	Vivek RajⒸ
+DU Average Debater L	4th	Closing Government	View Ballot	Anna SawickaⒸ
+UHAS UpDown	1st	Closing Opposition	View Ballot	Anna SawickaⒸ
+MDS You know what? I don&#x27;t know	2nd	Opening Opposition	View Ballot	Anna SawickaⒸ
+Father and Son on our first try	3rd	Opening Government	View Ballot	Anna SawickaⒸ
+KMC Kowalski and Skipper	1st	Closing Government	View Ballot	Tousif Tanvir AlamⒸ
+GLC Mumbai Teeth Smashers	4th	Opening Opposition	View Ballot	Tousif Tanvir AlamⒸ
+UHAS Strange beings	3rd	Opening Government	View Ballot	Tousif Tanvir AlamⒸ
+Bonnie-Clyde	2nd	Closing Opposition	View Ballot	Tousif Tanvir AlamⒸ
+NLIUB Machas	4th	Closing Government	View Ballot	Desmond DorvloⒸ
+LGS JT Powerpuff Boys	1st	Opening Opposition	View Ballot	Desmond DorvloⒸ
+Whiptical Illusion	2nd	Opening Government	View Ballot	Desmond DorvloⒸ
+PSHS ADDU Bangkal Campus	3rd	Closing Opposition	View Ballot	Desmond DorvloⒸ
+
+
+team	result	side	ballot	adjudicators
+KNUST Hashmirdom	2nd	Opening Opposition	View Ballot	Aleksandra DurbazevaⒸ
+Berlin C	3rd	Opening Government	View Ballot	Aleksandra DurbazevaⒸ
+HLU 1	4th	Closing Government	View Ballot	Aleksandra DurbazevaⒸ
+PHDS Excuse Me, He Asked For No Pickles	1st	Closing Opposition	View Ballot	Aleksandra DurbazevaⒸ
+HG D-either we break or break down	4th	Closing Government	View Ballot	Mohanish TatiyaⒸ
+J.K.U.A.T Here to fill the bins.	3rd	Closing Opposition	View Ballot	Mohanish TatiyaⒸ
+Up for Debate UFD India	1st	Opening Opposition	View Ballot	Mohanish TatiyaⒸ
+USIU Gunners	2nd	Opening Government	View Ballot	Mohanish TatiyaⒸ
+HG C - She says I am the One (but t	2nd	Opening Opposition	View Ballot	Aman KaushikⒸ
+ALU A	1st	Opening Government	View Ballot	Aman KaushikⒸ
+KCW KC D	4th	Closing Government	View Ballot	Aman KaushikⒸ
+CAITO KINGS	3rd	Closing Opposition	View Ballot	Aman KaushikⒸ
+JUST Goku &amp; Saitama	1st	Closing Opposition	View Ballot	Tousif Tanvir AlamⒸ
+NMIMS to spit or to swallow…the argument	4th	Closing Government	View Ballot	Tousif Tanvir AlamⒸ
+GLC 1+1	2nd	Opening Government	View Ballot	Tousif Tanvir AlamⒸ
+ENU Nothing to say	3rd	Opening Opposition	View Ballot	Tousif Tanvir AlamⒸ
+ALU Dreamers	3rd	Opening Opposition	View Ballot	Jaskaran Singh SodhiⒸ , Omesh Dhar Dwivedi
+homeless kiddoss w/o albert	2nd	Closing Government	View Ballot	Jaskaran Singh SodhiⒸ , Omesh Dhar Dwivedi
+Double A	4th	Closing Opposition	View Ballot	Jaskaran Singh SodhiⒸ , Omesh Dhar Dwivedi
+Japan Yamagishi	1st	Opening Government	View Ballot	Jaskaran Singh SodhiⒸ , Omesh Dhar Dwivedi
+KNUST Outlaws	4th	Opening Opposition	View Ballot	Emily Yinchang ShiⒸ
+PES Broke without breaks	3rd	Opening Government	View Ballot	Emily Yinchang ShiⒸ
+SBSCDU Chindi in Sainik Farms	2nd	Closing Opposition	View Ballot	Emily Yinchang ShiⒸ
+Founders League Union	1st	Closing Government	View Ballot	Emily Yinchang ShiⒸ
+KNUST WeGoJapa	3rd	Opening Government	View Ballot	Hormenoo Emmanuella SelasiⒸ
+Nairobi Never Have l Ever	4th	Closing Opposition	View Ballot	Hormenoo Emmanuella SelasiⒸ
+Break X Hunters	2nd	Opening Opposition	View Ballot	Hormenoo Emmanuella SelasiⒸ
+Kung-fu Panda	1st	Closing Government	View Ballot	Hormenoo Emmanuella SelasiⒸ
+Alberta Winning is a Canon Event	1st	Opening Government	View Ballot	Harsh BattulwarⒸ
+we identify as novices ??	2nd	Opening Opposition	View Ballot	Harsh BattulwarⒸ
+WMSU anti regionalian girlies	4th	Closing Opposition	View Ballot	Harsh BattulwarⒸ
+KCW KC A	3rd	Closing Government	View Ballot	Harsh BattulwarⒸ
+Budapest BanDia	2nd	Opening Opposition	View Ballot	Jasmine FuⒸ , Hoàng-Dũng Lê
+DNLU Shastrartha	3rd	Closing Government	View Ballot	Jasmine FuⒸ , Hoàng-Dũng Lê
+Strathmore Balloon	4th	Opening Government	View Ballot	Jasmine FuⒸ , Hoàng-Dũng Lê
+SRCC Pakoda simps	1st	Closing Opposition	View Ballot	Jasmine FuⒸ , Hoàng-Dũng Lê
+CU ACC	3rd	Closing Opposition	View Ballot	Régis GourdelⒸ , Evangeline Lin
+Strathmore Sled	4th	Opening Government	View Ballot	Régis GourdelⒸ , Evangeline Lin
+Ilorin Law and Medic	2nd	Closing Government	View Ballot	Régis GourdelⒸ , Evangeline Lin
+IIT Delhi Legit Law	1st	Opening Opposition	View Ballot	Régis GourdelⒸ , Evangeline Lin
+Dundee Euros Champions 2023	1st	Closing Government	View Ballot	Anveisha SrivastavaⒸ
+DTU chukuchukuchuku	3rd	Closing Opposition	View Ballot	Anveisha SrivastavaⒸ
+BITS Goa DH2 Boiz	2nd	Opening Opposition	View Ballot	Anveisha SrivastavaⒸ
+JUDO Amar Ekush	4th	Opening Government	View Ballot	Anveisha SrivastavaⒸ
+KNUST Fire and Ice	3rd	Closing Government	View Ballot	Brynley HamerⒸ
+Cornell Recycle	1st	Opening Opposition	View Ballot	Brynley HamerⒸ
+SVC BP is not our cup of tea	2nd	Closing Opposition	View Ballot	Brynley HamerⒸ
+PSHS ADDU Bangkal Campus	4th	Opening Government	View Ballot	Brynley HamerⒸ
+KNUST PETRICHOR	3rd	Closing Government	View Ballot	Vivek RajⒸ
+HG H - GyuDONE with Debate ??	4th	Opening Opposition	View Ballot	Vivek RajⒸ
+Queen&#x27;s astral projecting into ur butthole	1st	Closing Opposition	View Ballot	Vivek RajⒸ
+USIU Ikenga	2nd	Opening Government	View Ballot	Vivek RajⒸ
+we fought each other in uhuru last	3rd	Closing Opposition	View Ballot	Heather AshworthⒸ
+Tora and Aru	1st	Opening Government	View Ballot	Heather AshworthⒸ
+sin cos tan, your mom my onlyfan	4th	Closing Government	View Ballot	Heather AshworthⒸ
+THR Messi`s move to Inter Miami	2nd	Opening Opposition	View Ballot	Heather AshworthⒸ
+AUD Haldiram	3rd	Closing Opposition	View Ballot	Collins ChinonsoⒸ
+XU-AdC The Rise of Bilateralism	1st	Closing Government	View Ballot	Collins ChinonsoⒸ
+WPGA Laddu	2nd	Opening Government	View Ballot	Collins ChinonsoⒸ
+2 philosophers stoned	4th	Opening Opposition	View Ballot	Collins ChinonsoⒸ
+Frenemies	2nd	Opening Opposition	View Ballot	Joy Stella MbabaziⒸ
+International Khiladi	4th	Opening Government	View Ballot	Joy Stella MbabaziⒸ
+Bin roomers	1st	Closing Opposition	View Ballot	Joy Stella MbabaziⒸ
+side chicks without consent	3rd	Closing Government	View Ballot	Joy Stella MbabaziⒸ
+Edinburgh ... B? C? A-Z? Σ	2nd	Opening Government	View Ballot	Fiachra NolanⒸ
+we&#x27;re contacting you about your ca	4th	Opening Opposition	View Ballot	Fiachra NolanⒸ
+Strathmore Tirana	3rd	Closing Government	View Ballot	Fiachra NolanⒸ
+Only chronically partnerless	1st	Closing Opposition	View Ballot	Fiachra NolanⒸ
+Will confirm asap	2nd	Opening Opposition	View Ballot	Teye Prince-DanielⒸ , Farissa Machemba
+Oxford AP	1st	Closing Government	View Ballot	Teye Prince-DanielⒸ , Farissa Machemba
+Coerce you !	4th	Closing Opposition	View Ballot	Teye Prince-DanielⒸ , Farissa Machemba
+Harold and Kumar (guess which one	3rd	Opening Government	View Ballot	Teye Prince-DanielⒸ , Farissa Machemba
+The Boys	2nd	Closing Government	View Ballot	Shivani MishraⒸ
+Transoceanic Javertists	3rd	Closing Opposition	View Ballot	Shivani MishraⒸ
+WMSU count to ten please	4th	Opening Opposition	View Ballot	Shivani MishraⒸ
+Santo Tomas debasties	1st	Opening Government	View Ballot	Shivani MishraⒸ
+LGS JT Phantom Troupe	2nd	Closing Opposition	View Ballot	Alishba IrfanⒸ
+MAULERS GMT +7	3rd	Opening Government	View Ballot	Alishba IrfanⒸ
+UHAS UpDown	1st	Opening Opposition	View Ballot	Alishba IrfanⒸ
+FUV composite	4th	Closing Government	View Ballot	Alishba IrfanⒸ
+DU Kunwar Adhiraj Pratap Singh	2nd	Opening Government	View Ballot	Banshaj Raj BhardwajⒸ
+Aberystwyth EpIc PogChamp Gamers	4th	Closing Opposition	View Ballot	Banshaj Raj BhardwajⒸ
+no eco motions pls	1st	Opening Opposition	View Ballot	Banshaj Raj BhardwajⒸ
+St Andrews (B)arking up the wrong tree	3rd	Closing Government	View Ballot	Banshaj Raj BhardwajⒸ
+NSTU DS Pioneer	2nd	Opening Opposition	View Ballot	Jaira Mei BaruaⒸ
+IIT Bombay Bubble room trauma	1st	Closing Government	View Ballot	Jaira Mei BaruaⒸ
+PHDS ABCDEbators	4th	Closing Opposition	View Ballot	Jaira Mei BaruaⒸ
+PHDS Osmanthus wine tastes as weird as	3rd	Opening Government	View Ballot	Jaira Mei BaruaⒸ
+KMC Kowalski and Skipper	1st	Opening Government	View Ballot	William SmithⒸ
+GLC Mumbai Won plus won equals two	2nd	Closing Opposition	View Ballot	William SmithⒸ
+Iguanakant	3rd	Opening Opposition	View Ballot	William SmithⒸ
+Ilorin The conglomerate	4th	Closing Government	View Ballot	William SmithⒸ
+CU A	2nd	Opening Opposition	View Ballot	Khushi SharmaⒸ , Dishita Dubey
+TCD Hist Rehan and Ziyad	1st	Closing Government	View Ballot	Khushi SharmaⒸ , Dishita Dubey
+Delhi 1	3rd	Opening Government	View Ballot	Khushi SharmaⒸ , Dishita Dubey
+Foster kids	4th	Closing Opposition	View Ballot	Khushi SharmaⒸ , Dishita Dubey
+HG A - HGDT but just the cuties	3rd	Opening Government	View Ballot	Nana Akua LarbiⒸ
+Dhaka DUDS	4th	Opening Opposition	View Ballot	Nana Akua LarbiⒸ
+BUP B	1st	Closing Opposition	View Ballot	Nana Akua LarbiⒸ
+ACCDC 101	2nd	Closing Government	View Ballot	Nana Akua LarbiⒸ
+HG B - Fo Shizzle My Drizzle	4th	Opening Government	View Ballot	Keshav RaiⒸ
+Berlin B	3rd	Closing Opposition	View Ballot	Keshav RaiⒸ
+Kings	2nd	Opening Opposition	View Ballot	Keshav RaiⒸ
+Shady phsychopath	1st	Closing Government	View Ballot	Keshav RaiⒸ
+IIT Bombay You can&#x27;t make a Tomelette without	3rd	Closing Opposition	View Ballot	Joseph HutchisonⒸ
+IIT Roorkee Forked over by ChatGPT	4th	Closing Government	View Ballot	Joseph HutchisonⒸ
+ADDU Rikk and Nurty	1st	Opening Opposition	View Ballot	Joseph HutchisonⒸ
+surprise me w speaks, adj	2nd	Opening Government	View Ballot	Joseph HutchisonⒸ
+KU Apple	1st	Opening Opposition	View Ballot	Jessica Afi FayoseⒸ , Brandon Zhang
+GNLU Doofenshmirtz and his (emotional s	2nd	Closing Government	View Ballot	Jessica Afi FayoseⒸ , Brandon Zhang
+CU Depressed Soul	3rd	Opening Government	View Ballot	Jessica Afi FayoseⒸ , Brandon Zhang
+NMU Ultimately Karma	4th	Closing Opposition	View Ballot	Jessica Afi FayoseⒸ , Brandon Zhang
+KNUST From Me 2 You	3rd	Closing Opposition	View Ballot	Nimay SanghiⒸ
+NWU Potchefstroom Zucchini	4th	Opening Government	View Ballot	Nimay SanghiⒸ
+NMU Anbu Black Ops	1st	Closing Government	View Ballot	Nimay SanghiⒸ
+XU-AdC SASHA COLBY!	2nd	Opening Opposition	View Ballot	Nimay SanghiⒸ
+Hiroogakuen Goat and Toad	4th	Closing Opposition	View Ballot	Austin KelachukwuⒸ
+IIT Bombay Sex fiends	3rd	Opening Opposition	View Ballot	Austin KelachukwuⒸ
+GUU (B)reaking Free	2nd	Opening Government	View Ballot	Austin KelachukwuⒸ
+TCD Hist I’m not ticklish, you are!	1st	Closing Government	View Ballot	Austin KelachukwuⒸ
+NLIUB Machas	3rd	Opening Government	View Ballot	Nivesh AggarwalⒸ , Rashidat Yusuf
+Swing 2	2nd	Closing Government	View Ballot	Nivesh AggarwalⒸ , Rashidat Yusuf
+UHAS B	4th	Opening Opposition	View Ballot	Nivesh AggarwalⒸ , Rashidat Yusuf
+Kekuatan	1st	Closing Opposition	View Ballot	Nivesh AggarwalⒸ , Rashidat Yusuf
+IIT Roorkee zengel	2nd	Closing Opposition	View Ballot	Brian KamⒸ
+ITS 4AM AT 107	4th	Closing Government	View Ballot	Brian KamⒸ
+Spring 1975	3rd	Opening Opposition	View Ballot	Brian KamⒸ
+Questern	1st	Opening Government	View Ballot	Brian KamⒸ
+IIT Bombay Why is GC still our debate peak?	4th	Closing Government	View Ballot	Samar Pratap SinghⒸ
+Chulalongkorn SS	2nd	Opening Opposition	View Ballot	Samar Pratap SinghⒸ
+subject to change	1st	Closing Opposition	View Ballot	Samar Pratap SinghⒸ
+Strathmore Pee Oh Eye	3rd	Opening Government	View Ballot	Samar Pratap SinghⒸ
+average semi-support/offlane role	1st	Closing Opposition	View Ballot	Alexandra AdoteyⒸ , Desmond Papa Arhinful
+PUDS Spurs	3rd	Opening Opposition	View Ballot	Alexandra AdoteyⒸ , Desmond Papa Arhinful
+Uyo IDAN 2.0	2nd	Opening Government	View Ballot	Alexandra AdoteyⒸ , Desmond Papa Arhinful
+KCW KC B	4th	Closing Government	View Ballot	Alexandra AdoteyⒸ , Desmond Papa Arhinful
+HG E - exhausted eject exit ?????em f	1st	Closing Opposition	View Ballot	Aarya HoraⒸ
+Swing 1	2nd	Opening Opposition	View Ballot	Aarya HoraⒸ
+English Opening and Eight Queens	4th	Opening Government	View Ballot	Aarya HoraⒸ
+pp on the pp (get your mind out of	3rd	Closing Government	View Ballot	Aarya HoraⒸ
+HG G	4th	Opening Opposition	View Ballot	Adrish Kumar SikdarⒸ
+We are here	2nd	Opening Government	View Ballot	Adrish Kumar SikdarⒸ
+Coimbra PRC - People&#x27;s Republic of Coimbra	1st	Closing Government	View Ballot	Adrish Kumar SikdarⒸ
+Nairobi Wolf ??	3rd	Closing Opposition	View Ballot	Adrish Kumar SikdarⒸ
+HG F(orever single, hopefully not ???	2nd	Opening Government	View Ballot	Henry KofiⒸ , Tatiana Sevyan
+FLSS CNN Befuddled	1st	Closing Government	View Ballot	Henry KofiⒸ , Tatiana Sevyan
+J and J	4th	Closing Opposition	View Ballot	Henry KofiⒸ , Tatiana Sevyan
+Sun kissed HOEmies	3rd	Opening Opposition	View Ballot	Henry KofiⒸ , Tatiana Sevyan
+KNUST B	3rd	Closing Government	View Ballot	Yi Zoe Zhu WangⒸ
+PES kya hi bolu	1st	Opening Opposition	View Ballot	Yi Zoe Zhu WangⒸ
+Father and Son on our first try	4th	Closing Opposition	View Ballot	Yi Zoe Zhu WangⒸ
+Back Again	2nd	Opening Government	View Ballot	Yi Zoe Zhu WangⒸ
+KNUST Team Fire	3rd	Opening Opposition	View Ballot	Benjamin J. SpethⒸ
+RMLNLU Brampton ke Munde	1st	Opening Government	View Ballot	Benjamin J. SpethⒸ
+PES pura sunle	2nd	Closing Government	View Ballot	Benjamin J. SpethⒸ
+UHAS Strange beings	4th	Closing Opposition	View Ballot	Benjamin J. SpethⒸ
+ARSDC DU 3 inches is not enough ?	3rd	Closing Government	View Ballot	Abdul-Malik IssifuⒸ
+IIT Delhi Not a loss but a strategic 4th	2nd	Opening Government	View Ballot	Abdul-Malik IssifuⒸ
+Abeg flex	4th	Closing Opposition	View Ballot	Abdul-Malik IssifuⒸ
+Pirates of the Gulf of Guinea	1st	Opening Opposition	View Ballot	Abdul-Malik IssifuⒸ
+Alberta THBT it is biologically advantageo	1st	Closing Government	View Ballot	Sarmad AhmedⒸ
+KCL the equity officer and the walking	3rd	Closing Opposition	View Ballot	Sarmad AhmedⒸ
+Bucharest A	2nd	Opening Government	View Ballot	Sarmad AhmedⒸ
+Spirit of the Coast	4th	Opening Opposition	View Ballot	Sarmad AhmedⒸ
+AUD THS Heartache	1st	Closing Government	View Ballot	Jantzen ErosⒸ , Badshah Akbar Rafi
+Utilitarian arguments disguised as	2nd	Opening Opposition	View Ballot	Jantzen ErosⒸ , Badshah Akbar Rafi
+Ilorin Lotus	3rd	Opening Government	View Ballot	Jantzen ErosⒸ , Badshah Akbar Rafi
+KCW KC E	4th	Closing Opposition	View Ballot	Jantzen ErosⒸ , Badshah Akbar Rafi
+LGS JT Powerpuff Boys	2nd	Closing Government	View Ballot	Maison Pieterson MaphosaⒸ
+washed up seniors	4th	Closing Opposition	View Ballot	Maison Pieterson MaphosaⒸ
+Bucharest B	1st	Opening Opposition	View Ballot	Maison Pieterson MaphosaⒸ
+Jinx homies	3rd	Opening Government	View Ballot	Maison Pieterson MaphosaⒸ
+CU B	1st	Opening Opposition	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+CU C	3rd	Closing Opposition	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+Team Water Lily	2nd	Opening Government	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+Raiden Ajeng Kartini	4th	Closing Government	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+HG J(ust dance)	4th	Closing Government	View Ballot	Mahadi Rahman NikashⒸ , Gopal Krishan
+WMSU lato-lato main slayers	3rd	Opening Government	View Ballot	Mahadi Rahman NikashⒸ , Gopal Krishan
+USIU cereal killer	2nd	Opening Opposition	View Ballot	Mahadi Rahman NikashⒸ , Gopal Krishan
+TNSHS It&#x27;s 5am in my our country	1st	Closing Opposition	View Ballot	Mahadi Rahman NikashⒸ , Gopal Krishan
+FTU wuh wuh what?	2nd	Opening Opposition	View Ballot	Godswill IfeanyichukwuⒸ
+Exeter EXit Stage Left	3rd	Closing Government	View Ballot	Godswill IfeanyichukwuⒸ
+Cornell Gaveal&#x27;s biggest fans	1st	Opening Government	View Ballot	Godswill IfeanyichukwuⒸ
+Nairobi Under the bleachers	4th	Closing Opposition	View Ballot	Godswill IfeanyichukwuⒸ
+MAULERS Sleeping beauty	2nd	Closing Government	View Ballot	Mariko KawabataⒸ
+CU B&#x27;	1st	Opening Government	View Ballot	Mariko KawabataⒸ
+Swing 9	3rd	Opening Opposition	View Ballot	Mariko KawabataⒸ
+Swing 10	4th	Closing Opposition	View Ballot	Mariko KawabataⒸ
+KIIT Chosen Ones	3rd	Opening Opposition	View Ballot	Fahamid Rahman SiamⒸ , Eshitv Kumar
+We retired from retirement because	2nd	Closing Opposition	View Ballot	Fahamid Rahman SiamⒸ , Eshitv Kumar
+TSRS Reg time running out	4th	Opening Government	View Ballot	Fahamid Rahman SiamⒸ , Eshitv Kumar
+Miki’s looking a bit different tod	1st	Closing Government	View Ballot	Fahamid Rahman SiamⒸ , Eshitv Kumar
+KNUST Game of Thrones	1st	Opening Government	View Ballot	Brian MuindiⒸ
+KNUST Fire Nation ??	4th	Opening Opposition	View Ballot	Brian MuindiⒸ
+MAULERS leon lovers	3rd	Closing Government	View Ballot	Brian MuindiⒸ
+GCU The Ahl e Dard Cabinet	2nd	Closing Opposition	View Ballot	Brian MuindiⒸ
+LSE If u can&#x27;t pre with alchool, pre w	1st	Opening Government	View Ballot	Rajyawardhan SinghⒸ
+Whiptical Illusion	2nd	Opening Opposition	View Ballot	Rajyawardhan SinghⒸ
+Strathmore Onigashima	4th	Closing Opposition	View Ballot	Rajyawardhan SinghⒸ
+NMU Top of the TABlet	3rd	Closing Government	View Ballot	Rajyawardhan SinghⒸ
+GU Easy Company	3rd	Opening Opposition	View Ballot	Mahadi Awedaga AyiwoliⒸ
+CU Hills	4th	Closing Opposition	View Ballot	Mahadi Awedaga AyiwoliⒸ
+BITS Goa A50x	2nd	Closing Government	View Ballot	Mahadi Awedaga AyiwoliⒸ
+one of us gave the other daddy iss	1st	Opening Government	View Ballot	Mahadi Awedaga AyiwoliⒸ
+CU E	2nd	Opening Opposition	View Ballot	Toru OgaⒸ , Sarabjeet Singh
+PHDS kahit ano basta magbreak	4th	Opening Government	View Ballot	Toru OgaⒸ , Sarabjeet Singh
+KCW KC C	3rd	Closing Opposition	View Ballot	Toru OgaⒸ , Sarabjeet Singh
+Swing 8	1st	Closing Government	View Ballot	Toru OgaⒸ , Sarabjeet Singh
+KNUST WesieAcheaw	1st	Closing Opposition	View Ballot	Abigail AsieduⒸ
+IIT Roorkee Strawberries over Peaches	4th	Opening Government	View Ballot	Abigail AsieduⒸ
+we can make the whole debate shimm	2nd	Opening Opposition	View Ballot	Abigail AsieduⒸ
+Sir MVIT SMVIT	3rd	Closing Government	View Ballot	Abigail AsieduⒸ
+NUST Operation Restore Legacy	3rd	Opening Opposition	View Ballot	Ananya KumarⒸ
+NSTU DS Warriors	4th	Closing Opposition	View Ballot	Ananya KumarⒸ
+NMU Your Opponents	2nd	Opening Government	View Ballot	Ananya KumarⒸ
+Bonnie-Clyde	1st	Closing Government	View Ballot	Ananya KumarⒸ
+Laban Humanista	3rd	Opening Opposition	View Ballot	Harshit SinghⒸ
+NMU Agree to Disagree	4th	Closing Government	View Ballot	Harshit SinghⒸ
+IIT Delhi Two Whips	1st	Closing Opposition	View Ballot	Harshit SinghⒸ
+KCW KC F	2nd	Opening Government	View Ballot	Harshit SinghⒸ
+CU D	3rd	Opening Opposition	View Ballot	Soumitro Kumar DasⒸ
+DU Average Debater L	2nd	Closing Opposition	View Ballot	Soumitro Kumar DasⒸ
+Mastermind Chicks with kicks	1st	Closing Government	View Ballot	Soumitro Kumar DasⒸ
+Daring Devils	4th	Opening Government	View Ballot	Soumitro Kumar DasⒸ
+Kyushu S	3rd	Opening Government	View Ballot	Mateusz KossonⒸ
+NMIMS ASMSOC e-mommy affliction	1st	Opening Opposition	View Ballot	Mateusz KossonⒸ
+ALU mocha	2nd	Closing Opposition	View Ballot	Mateusz KossonⒸ
+Illuminati Brothers	4th	Closing Government	View Ballot	Mateusz KossonⒸ
+
+
+team	result	side	ballot	adjudicators
+MAULERS leon lovers	3rd	Opening Government	View Ballot	Omesh Dhar DwivediⒸ
+HG D-either we break or break down	2nd	Closing Government	View Ballot	Omesh Dhar DwivediⒸ
+IIT Roorkee Forked over by ChatGPT	4th	Closing Opposition	View Ballot	Omesh Dhar DwivediⒸ
+Ilorin Law and Medic	1st	Opening Opposition	View Ballot	Omesh Dhar DwivediⒸ
+HG H - GyuDONE with Debate ??	4th	Opening Government	View Ballot	Samar Pratap SinghⒸ
+J.K.U.A.T Here to fill the bins.	3rd	Opening Opposition	View Ballot	Samar Pratap SinghⒸ
+GLC 1+1	2nd	Closing Government	View Ballot	Samar Pratap SinghⒸ
+Mastermind Chicks with kicks	1st	Closing Opposition	View Ballot	Samar Pratap SinghⒸ
+Exeter EXit Stage Left	2nd	Opening Government	View Ballot	Austin KelachukwuⒸ
+ALU A	1st	Closing Opposition	View Ballot	Austin KelachukwuⒸ
+Sun kissed HOEmies	3rd	Closing Government	View Ballot	Austin KelachukwuⒸ
+PHDS Excuse Me, He Asked For No Pickles	4th	Opening Opposition	View Ballot	Austin KelachukwuⒸ
+DU Kunwar Adhiraj Pratap Singh	1st	Closing Opposition	View Ballot	Alishba IrfanⒸ
+Tora and Aru	2nd	Closing Government	View Ballot	Alishba IrfanⒸ
+NMU Anbu Black Ops	3rd	Opening Government	View Ballot	Alishba IrfanⒸ
+Santo Tomas debasties	4th	Opening Opposition	View Ballot	Alishba IrfanⒸ
+NUST Operation Restore Legacy	3rd	Opening Government	View Ballot	Khushi SharmaⒸ
+we can make the whole debate shimm	2nd	Closing Opposition	View Ballot	Khushi SharmaⒸ
+sin cos tan, your mom my onlyfan	1st	Opening Opposition	View Ballot	Khushi SharmaⒸ
+KCW KC F	4th	Closing Government	View Ballot	Khushi SharmaⒸ
+HG G	2nd	Closing Opposition	View Ballot	Collins ChinonsoⒸ
+ENU Nothing to say	1st	Closing Government	View Ballot	Collins ChinonsoⒸ
+CU Depressed Soul	4th	Opening Opposition	View Ballot	Collins ChinonsoⒸ
+KCW KC D	3rd	Opening Government	View Ballot	Collins ChinonsoⒸ
+CU D	2nd	Opening Government	View Ballot	Keshav RaiⒸ
+UHAS Strange beings	1st	Closing Government	View Ballot	Keshav RaiⒸ
+Ilorin Lotus	4th	Opening Opposition	View Ballot	Keshav RaiⒸ
+KCW KC E	3rd	Closing Opposition	View Ballot	Keshav RaiⒸ
+FLSS CNN Befuddled	4th	Opening Opposition	View Ballot	Fahamid Rahman SiamⒸ , Desmond Papa Arhinful
+no eco motions pls	2nd	Opening Government	View Ballot	Fahamid Rahman SiamⒸ , Desmond Papa Arhinful
+Will confirm asap	3rd	Closing Government	View Ballot	Fahamid Rahman SiamⒸ , Desmond Papa Arhinful
+XU-AdC The Rise of Bilateralism	1st	Closing Opposition	View Ballot	Fahamid Rahman SiamⒸ , Desmond Papa Arhinful
+IIT Bombay Sex fiends	4th	Closing Opposition	View Ballot	Jessica Afi FayoseⒸ , Eshitv Kumar
+surprise me w speaks, adj	3rd	Opening Government	View Ballot	Jessica Afi FayoseⒸ , Eshitv Kumar
+Spring 1975	1st	Closing Government	View Ballot	Jessica Afi FayoseⒸ , Eshitv Kumar
+ACCDC 101	2nd	Opening Opposition	View Ballot	Jessica Afi FayoseⒸ , Eshitv Kumar
+NMIMS ASMSOC e-mommy affliction	1st	Closing Opposition	View Ballot	Joseph HutchisonⒸ
+Back Again	3rd	Closing Government	View Ballot	Joseph HutchisonⒸ
+PSHS ADDU Bangkal Campus	2nd	Opening Opposition	View Ballot	Joseph HutchisonⒸ
+FUV composite	4th	Opening Government	View Ballot	Joseph HutchisonⒸ
+Utilitarian arguments disguised as	1st	Closing Government	View Ballot	Nivesh AggarwalⒸ
+average semi-support/offlane role	2nd	Opening Government	View Ballot	Nivesh AggarwalⒸ
+Laban Humanista	3rd	Closing Opposition	View Ballot	Nivesh AggarwalⒸ
+Uyo IDAN 2.0	4th	Opening Opposition	View Ballot	Nivesh AggarwalⒸ
+GCU The Ahl e Dard Cabinet	2nd	Closing Government	View Ballot	Toru OgaⒸ
+DNLU Shastrartha	1st	Opening Opposition	View Ballot	Toru OgaⒸ
+Team Water Lily	3rd	Closing Opposition	View Ballot	Toru OgaⒸ
+WMSU anti regionalian girlies	4th	Opening Government	View Ballot	Toru OgaⒸ
+Alberta THBT it is biologically advantageo	3rd	Closing Government	View Ballot	Rajyawardhan SinghⒸ , Brandon ZhangⓉ
+Bucharest B	4th	Opening Government	View Ballot	Rajyawardhan SinghⒸ , Brandon ZhangⓉ
+Oxford AP	2nd	Closing Opposition	View Ballot	Rajyawardhan SinghⒸ , Brandon ZhangⓉ
+Only chronically partnerless	1st	Opening Opposition	View Ballot	Rajyawardhan SinghⒸ , Brandon ZhangⓉ
+NSTU DS Warriors	2nd	Opening Opposition	View Ballot	Jaskaran Singh SodhiⒸ
+CU E	3rd	Closing Opposition	View Ballot	Jaskaran Singh SodhiⒸ
+Swing 2	1st	Opening Government	View Ballot	Jaskaran Singh SodhiⒸ
+UHAS B	4th	Closing Government	View Ballot	Jaskaran Singh SodhiⒸ
+HG F(orever single, hopefully not ???	4th	Closing Opposition	View Ballot	Tousif Tanvir AlamⒸ , Dishita Dubey , Jaira Mei Barua
+Chulalongkorn SS	3rd	Opening Government	View Ballot	Tousif Tanvir AlamⒸ , Dishita Dubey , Jaira Mei Barua
+We retired from retirement because	2nd	Opening Opposition	View Ballot	Tousif Tanvir AlamⒸ , Dishita Dubey , Jaira Mei Barua
+Harold and Kumar (guess which one	1st	Closing Government	View Ballot	Tousif Tanvir AlamⒸ , Dishita Dubey , Jaira Mei Barua
+KNUST Team Fire	2nd	Closing Government	View Ballot	William SmithⒸ
+NMIMS to spit or to swallow…the argument	3rd	Opening Government	View Ballot	William SmithⒸ
+CU ACC	1st	Opening Opposition	View Ballot	William SmithⒸ
+JUDO Amar Ekush	4th	Closing Opposition	View Ballot	William SmithⒸ
+NWU Potchefstroom Zucchini	4th	Opening Government	View Ballot	Mohanish TatiyaⒸ
+AUD THS Heartache	3rd	Closing Opposition	View Ballot	Mohanish TatiyaⒸ
+IIT Delhi Legit Law	1st	Closing Government	View Ballot	Mohanish TatiyaⒸ
+CAITO KINGS	2nd	Opening Opposition	View Ballot	Mohanish TatiyaⒸ
+NSTU DS Pioneer	3rd	Opening Opposition	View Ballot	Soumitro Kumar DasⒸ
+KNUST WeGoJapa	1st	Closing Opposition	View Ballot	Soumitro Kumar DasⒸ
+HG A - HGDT but just the cuties	2nd	Closing Government	View Ballot	Soumitro Kumar DasⒸ
+Nairobi Wolf ??	4th	Opening Government	View Ballot	Soumitro Kumar DasⒸ
+RMLNLU Brampton ke Munde	3rd	Opening Opposition	View Ballot	Fiachra NolanⒸ
+BITS Goa DH2 Boiz	4th	Opening Government	View Ballot	Fiachra NolanⒸ
+KCW KC A	1st	Closing Opposition	View Ballot	Fiachra NolanⒸ
+2 philosophers stoned	2nd	Closing Government	View Ballot	Fiachra NolanⒸ
+GLC Mumbai Won plus won equals two	2nd	Opening Opposition	View Ballot	Teye Prince-DanielⒸ
+PES kya hi bolu	3rd	Closing Government	View Ballot	Teye Prince-DanielⒸ
+Nairobi Under the bleachers	4th	Opening Government	View Ballot	Teye Prince-DanielⒸ
+Break X Hunters	1st	Closing Opposition	View Ballot	Teye Prince-DanielⒸ
+KNUST PACESETTERS	1st	Opening Opposition	View Ballot	Parshav JainⒸ
+CU Hills	3rd	Closing Government	View Ballot	Parshav JainⒸ
+Raiden Ajeng Kartini	2nd	Closing Opposition	View Ballot	Parshav JainⒸ
+PHDS ABCDEbators	4th	Opening Government	View Ballot	Parshav JainⒸ
+BUP B	3rd	Opening Opposition	View Ballot	Lidya Andreani LiuⒸ , Abigail Asiedu
+we&#x27;re contacting you about your ca	2nd	Opening Government	View Ballot	Lidya Andreani LiuⒸ , Abigail Asiedu
+SRCC Pakoda simps	4th	Closing Government	View Ballot	Lidya Andreani LiuⒸ , Abigail Asiedu
+Founders League Union	1st	Closing Opposition	View Ballot	Lidya Andreani LiuⒸ , Abigail Asiedu
+GNLU Doofenshmirtz and his (emotional s	1st	Opening Government	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+Berlin C	4th	Opening Opposition	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+ITS 4AM AT 107	2nd	Closing Opposition	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+NMU Your Opponents	3rd	Closing Government	View Ballot	Abdul-Lateef Balikis AdukeⒸ
+PUDS Spurs	2nd	Closing Opposition	View Ballot	Adrish Kumar SikdarⒸ
+USIU cereal killer	1st	Opening Government	View Ballot	Adrish Kumar SikdarⒸ
+Father and Son on our first try	4th	Closing Government	View Ballot	Adrish Kumar SikdarⒸ
+Illuminati Brothers	3rd	Opening Opposition	View Ballot	Adrish Kumar SikdarⒸ
+HG C - She says I am the One (but t	3rd	Closing Government	View Ballot	Shivani MishraⒸ
+KU Apple	4th	Opening Government	View Ballot	Shivani MishraⒸ
+Budapest BanDia	1st	Closing Opposition	View Ballot	Shivani MishraⒸ
+we fought each other in uhuru last	2nd	Opening Opposition	View Ballot	Shivani MishraⒸ
+Dundee Euros Champions 2023	4th	Opening Opposition	View Ballot	Nana Akua LarbiⒸ
+ARSDC DU 3 inches is not enough ?	2nd	Closing Opposition	View Ballot	Nana Akua LarbiⒸ
+Aberystwyth EpIc PogChamp Gamers	3rd	Opening Government	View Ballot	Nana Akua LarbiⒸ
+Frenemies	1st	Closing Government	View Ballot	Nana Akua LarbiⒸ
+WMSU lato-lato main slayers	2nd	Closing Opposition	View Ballot	Aman KaushikⒸ
+Strathmore Sled	4th	Closing Government	View Ballot	Aman KaushikⒸ
+KCW KC B	1st	Opening Government	View Ballot	Aman KaushikⒸ
+Daring Devils	3rd	Opening Opposition	View Ballot	Aman KaushikⒸ
+KNUST Hashmirdom	4th	Opening Government	View Ballot	Benjamin J. SpethⒸ
+BITS Goa A50x	2nd	Opening Opposition	View Ballot	Benjamin J. SpethⒸ
+Iguanakant	1st	Closing Opposition	View Ballot	Benjamin J. SpethⒸ
+Foster kids	3rd	Closing Government	View Ballot	Benjamin J. SpethⒸ
+KIIT Chosen Ones	3rd	Closing Opposition	View Ballot	Anna SawickaⒸ , Badshah Akbar Rafi
+CU A	1st	Opening Government	View Ballot	Anna SawickaⒸ , Badshah Akbar Rafi
+The Boys	4th	Opening Opposition	View Ballot	Anna SawickaⒸ , Badshah Akbar Rafi
+WPGA Laddu	2nd	Closing Government	View Ballot	Anna SawickaⒸ , Badshah Akbar Rafi
+Bin roomers	3rd	Opening Opposition	View Ballot	Harshit SinghⒸ , Gopal Krishan
+IIT Delhi Not a loss but a strategic 4th	1st	Closing Opposition	View Ballot	Harshit SinghⒸ , Gopal Krishan
+Spirit of the Coast	2nd	Closing Government	View Ballot	Harshit SinghⒸ , Gopal Krishan
+Kekuatan	4th	Opening Government	View Ballot	Harshit SinghⒸ , Gopal Krishan
+KNUST Fire and Ice	4th	Opening Government	View Ballot	Mariko KawabataⒸ
+KNUST PETRICHOR	2nd	Opening Opposition	View Ballot	Mariko KawabataⒸ
+MAULERS GMT +7	3rd	Closing Government	View Ballot	Mariko KawabataⒸ
+We are here	1st	Closing Opposition	View Ballot	Mariko KawabataⒸ
+KNUST WesieAcheaw	3rd	Opening Government	View Ballot	Harsh BattulwarⒸ
+KNUST Game of Thrones	2nd	Closing Opposition	View Ballot	Harsh BattulwarⒸ
+CU B	4th	Closing Government	View Ballot	Harsh BattulwarⒸ
+Strathmore Onigashima	1st	Opening Opposition	View Ballot	Harsh BattulwarⒸ
+WMSU count to ten please	3rd	Closing Opposition	View Ballot	Anveisha SrivastavaⒸ , Sarabjeet Singh
+PES Broke without breaks	1st	Opening Opposition	View Ballot	Anveisha SrivastavaⒸ , Sarabjeet Singh
+Abeg flex	2nd	Closing Government	View Ballot	Anveisha SrivastavaⒸ , Sarabjeet Singh
+side chicks without consent	4th	Opening Government	View Ballot	Anveisha SrivastavaⒸ , Sarabjeet Singh
+J and J	1st	Opening Opposition	View Ballot	Heather AshworthⒸ
+SBSCDU Chindi in Sainik Farms	3rd	Opening Government	View Ballot	Heather AshworthⒸ
+Delhi 1	4th	Closing Opposition	View Ballot	Heather AshworthⒸ
+one of us gave the other daddy iss	2nd	Closing Government	View Ballot	Heather AshworthⒸ
+KMC Kowalski and Skipper	4th	Closing Opposition	View Ballot	Jantzen ErosⒸ
+KNUST From Me 2 You	1st	Opening Opposition	View Ballot	Jantzen ErosⒸ
+USIU Ikenga	2nd	Closing Government	View Ballot	Jantzen ErosⒸ
+Coerce you !	3rd	Opening Government	View Ballot	Jantzen ErosⒸ
+IIT Bombay Bubble room trauma	3rd	Opening Government	View Ballot	Nimay SanghiⒸ
+HG B - Fo Shizzle My Drizzle	4th	Opening Opposition	View Ballot	Nimay SanghiⒸ
+Transoceanic Javertists	2nd	Closing Government	View Ballot	Nimay SanghiⒸ
+homeless kiddoss w/o albert	1st	Closing Opposition	View Ballot	Nimay SanghiⒸ
+LGS JT Phantom Troupe	2nd	Closing Government	View Ballot	Brian MuindiⒸ , Farissa Machemba
+Berlin B	3rd	Opening Opposition	View Ballot	Brian MuindiⒸ , Farissa Machemba
+washed up seniors	4th	Opening Government	View Ballot	Brian MuindiⒸ , Farissa Machemba
+Strathmore Pee Oh Eye	1st	Closing Opposition	View Ballot	Brian MuindiⒸ , Farissa Machemba
+LGS JT Powerpuff Boys	2nd	Opening Opposition	View Ballot	Brian KamⒸ
+Edinburgh ... B? C? A-Z? Σ	3rd	Closing Government	View Ballot	Brian KamⒸ
+Bucharest A	1st	Closing Opposition	View Ballot	Brian KamⒸ
+Miki’s looking a bit different tod	4th	Opening Government	View Ballot	Brian KamⒸ
+Alberta Winning is a Canon Event	3rd	Opening Government	View Ballot	Régis GourdelⒸ
+IIT Roorkee zengel	2nd	Opening Opposition	View Ballot	Régis GourdelⒸ
+GUU (B)reaking Free	1st	Closing Opposition	View Ballot	Régis GourdelⒸ
+XU-AdC SASHA COLBY!	4th	Closing Government	View Ballot	Régis GourdelⒸ
+Strathmore Tirana	3rd	Opening Opposition	View Ballot	Godswill IfeanyichukwuⒸ , Desmond Dorvlo
+UHAS UpDown	4th	Closing Government	View Ballot	Godswill IfeanyichukwuⒸ , Desmond Dorvlo
+Jinx homies	2nd	Closing Opposition	View Ballot	Godswill IfeanyichukwuⒸ , Desmond Dorvlo
+Pirates of the Gulf of Guinea	1st	Opening Government	View Ballot	Godswill IfeanyichukwuⒸ , Desmond Dorvlo
+HG E - exhausted eject exit ?????em f	3rd	Opening Government	View Ballot	Andrews TerkuⒸ , Abdul-Malik Issifu
+LSE If u can&#x27;t pre with alchool, pre w	2nd	Opening Opposition	View Ballot	Andrews TerkuⒸ , Abdul-Malik Issifu
+Cornell Gaveal&#x27;s biggest fans	1st	Closing Government	View Ballot	Andrews TerkuⒸ , Abdul-Malik Issifu
+Shady phsychopath	4th	Closing Opposition	View Ballot	Andrews TerkuⒸ , Abdul-Malik Issifu
+JUST Goku &amp; Saitama	3rd	Closing Government	View Ballot	Mateusz KossonⒸ
+TSRS Reg time running out	1st	Opening Opposition	View Ballot	Mateusz KossonⒸ
+USIU Gunners	4th	Closing Opposition	View Ballot	Mateusz KossonⒸ
+IIT Delhi Two Whips	2nd	Opening Government	View Ballot	Mateusz KossonⒸ
+KNUST Outlaws	2nd	Opening Government	View Ballot	Vivek RajⒸ
+DTU chukuchukuchuku	1st	Closing Government	View Ballot	Vivek RajⒸ
+Swing 1	4th	Opening Opposition	View Ballot	Vivek RajⒸ
+PHDS Osmanthus wine tastes as weird as	3rd	Closing Opposition	View Ballot	Vivek RajⒸ
+Dhaka DUDS	1st	Closing Opposition	View Ballot	Ananya KumarⒸ
+CU B&#x27;	3rd	Closing Government	View Ballot	Ananya KumarⒸ
+Nairobi Never Have l Ever	2nd	Opening Government	View Ballot	Ananya KumarⒸ
+Double A	4th	Opening Opposition	View Ballot	Ananya KumarⒸ
+Hiroogakuen Goat and Toad	2nd	Opening Opposition	View Ballot	Henry KofiⒸ
+GU Easy Company	1st	Opening Government	View Ballot	Henry KofiⒸ
+ALU mocha	4th	Closing Government	View Ballot	Henry KofiⒸ
+PES pura sunle	3rd	Closing Opposition	View Ballot	Henry KofiⒸ
+TCD Hist Rehan and Ziyad	1st	Closing Opposition	View Ballot	Brynley HamerⒸ
+subject to change	2nd	Closing Government	View Ballot	Brynley HamerⒸ
+KCL the equity officer and the walking	4th	Opening Government	View Ballot	Brynley HamerⒸ
+pp on the pp (get your mind out of	3rd	Opening Opposition	View Ballot	Brynley HamerⒸ
+KNUST Fire Nation ??	1st	Opening Government	View Ballot	Hormenoo Emmanuella SelasiⒸ , Aarya Hora
+Strathmore Balloon	4th	Closing Opposition	View Ballot	Hormenoo Emmanuella SelasiⒸ , Aarya Hora
+Sir MVIT SMVIT	2nd	Opening Opposition	View Ballot	Hormenoo Emmanuella SelasiⒸ , Aarya Hora
+TNSHS It&#x27;s 5am in my our country	3rd	Closing Government	View Ballot	Hormenoo Emmanuella SelasiⒸ , Aarya Hora
+KNUST B	1st	Opening Opposition	View Ballot	Emily Yinchang ShiⒸ
+Kyushu S	4th	Closing Government	View Ballot	Emily Yinchang ShiⒸ
+DU Average Debater L	3rd	Opening Government	View Ballot	Emily Yinchang ShiⒸ
+HLU 1	2nd	Closing Opposition	View Ballot	Emily Yinchang ShiⒸ
+HG J(ust dance)	1st	Opening Opposition	View Ballot	Oladi GabisiⒸ , Rashidat YusufⓉ
+DU Noida to Paris	4th	Closing Opposition	View Ballot	Oladi GabisiⒸ , Rashidat YusufⓉ
+PHDS kahit ano basta magbreak	2nd	Closing Government	View Ballot	Oladi GabisiⒸ , Rashidat YusufⓉ
+KCW KC C	3rd	Opening Government	View Ballot	Oladi GabisiⒸ , Rashidat YusufⓉ
+FTU wuh wuh what?	1st	Closing Opposition	View Ballot	Hoàng-Dũng LêⒸ
+TCD Hist I’m not ticklish, you are!	2nd	Opening Opposition	View Ballot	Hoàng-Dũng LêⒸ
+Kings	4th	Opening Government	View Ballot	Hoàng-Dũng LêⒸ
+Queen&#x27;s astral projecting into ur butthole	3rd	Closing Government	View Ballot	Hoàng-Dũng LêⒸ
+Up for Debate UFD India	4th	Closing Opposition	View Ballot	Aleksandra DurbazevaⒸ
+St Andrews (B)arking up the wrong tree	2nd	Opening Government	View Ballot	Aleksandra DurbazevaⒸ
+Japan Yamagishi	1st	Closing Government	View Ballot	Aleksandra DurbazevaⒸ
+Kung-fu Panda	3rd	Opening Opposition	View Ballot	Aleksandra DurbazevaⒸ
+ADDU Rikk and Nurty	2nd	Opening Government	View Ballot	Banshaj Raj BhardwajⒸ , Tatiana Sevyan
+NMU Top of the TABlet	1st	Opening Opposition	View Ballot	Banshaj Raj BhardwajⒸ , Tatiana Sevyan
+Coimbra PRC - People&#x27;s Republic of Coimbra	3rd	Closing Opposition	View Ballot	Banshaj Raj BhardwajⒸ , Tatiana Sevyan
+THR Messi`s move to Inter Miami	4th	Closing Government	View Ballot	Banshaj Raj BhardwajⒸ , Tatiana Sevyan
+MAULERS Sleeping beauty	2nd	Closing Opposition	View Ballot	Alexandra AdoteyⒸ
+IIT Roorkee Strawberries over Peaches	1st	Opening Opposition	View Ballot	Alexandra AdoteyⒸ
+CU C	3rd	Opening Government	View Ballot	Alexandra AdoteyⒸ
+NMU Ultimately Karma	4th	Closing Government	View Ballot	Alexandra AdoteyⒸ
+IIT Bombay Why is GC still our debate peak?	1st	Closing Opposition	View Ballot	Yi Zoe Zhu WangⒸ
+AUD Haldiram	2nd	Opening Government	View Ballot	Yi Zoe Zhu WangⒸ
+we identify as novices ??	4th	Closing Government	View Ballot	Yi Zoe Zhu WangⒸ
+Bonnie-Clyde	3rd	Opening Opposition	View Ballot	Yi Zoe Zhu WangⒸ
+Cornell Recycle	3rd	Opening Government	View Ballot	Sarmad AhmedⒸ , Jefferson Asare , Mahadi Awedaga Ayiwoli
+Whiptical Illusion	2nd	Closing Government	View Ballot	Sarmad AhmedⒸ , Jefferson Asare , Mahadi Awedaga Ayiwoli
+SVC BP is not our cup of tea	4th	Opening Opposition	View Ballot	Sarmad AhmedⒸ , Jefferson Asare , Mahadi Awedaga Ayiwoli
+Questern	1st	Closing Opposition	View Ballot	Sarmad AhmedⒸ , Jefferson Asare , Mahadi Awedaga Ayiwoli
+
+
+team	result	side	ballot	adjudicators
+LGS JT Powerpuff Boys	4th	Opening Government	View Ballot	Joel LawⒸ
+FTU wuh wuh what?	3rd	Closing Government	View Ballot	Joel LawⒸ
+Harold and Kumar (guess which one	1st	Closing Opposition	View Ballot	Joel LawⒸ
+Questern	2nd	Opening Opposition	View Ballot	Joel LawⒸ
+DNLU Shastrartha	4th	Closing Opposition	View Ballot	Collins ChinonsoⒸ
+Coimbra PRC - People&#x27;s Republic of Coimbra	2nd	Opening Government	View Ballot	Collins ChinonsoⒸ
+UHAS UpDown	1st	Closing Government	View Ballot	Collins ChinonsoⒸ
+IIT Delhi Two Whips	3rd	Opening Opposition	View Ballot	Collins ChinonsoⒸ
+CU E	3rd	Closing Opposition	View Ballot	Jefferson AsareⒸ
+CU C	1st	Closing Government	View Ballot	Jefferson AsareⒸ
+Uyo IDAN 2.0	4th	Opening Opposition	View Ballot	Jefferson AsareⒸ
+Lyceum B	2nd	Opening Government	View Ballot	Jefferson AsareⒸ
+CU B&#x27;	4th	Closing Opposition	View Ballot	Brian MuindiⒸ
+Berlin C	2nd	Closing Government	View Ballot	Brian MuindiⒸ
+UHAS Strange beings	1st	Opening Opposition	View Ballot	Brian MuindiⒸ
+KCW KC D	3rd	Opening Government	View Ballot	Brian MuindiⒸ
+KNUST WeGoJapa	3rd	Closing Government	View Ballot	Heather AshworthⒸ
+GLC Mumbai Won plus won equals two	4th	Closing Opposition	View Ballot	Heather AshworthⒸ
+GNLU Doofenshmirtz and his (emotional s	2nd	Opening Government	View Ballot	Heather AshworthⒸ
+Transoceanic Javertists	1st	Opening Opposition	View Ballot	Heather AshworthⒸ
+KNUST From Me 2 You	4th	Closing Opposition	View Ballot	Benjamin J. SpethⒸ
+FLSS CNN Befuddled	1st	Opening Government	View Ballot	Benjamin J. SpethⒸ
+Cornell Recycle	2nd	Opening Opposition	View Ballot	Benjamin J. SpethⒸ
+ADDU Rikk and Nurty	3rd	Closing Government	View Ballot	Benjamin J. SpethⒸ
+Berlin B	2nd	Closing Government	View Ballot	Mariko KawabataⒸ
+ARSDC DU 3 inches is not enough ?	3rd	Opening Opposition	View Ballot	Mariko KawabataⒸ
+sin cos tan, your mom my onlyfan	1st	Closing Opposition	View Ballot	Mariko KawabataⒸ
+IIT Delhi Legit Law	4th	Opening Government	View Ballot	Mariko KawabataⒸ
+HG C - She says I am the One (but t	1st	Closing Government	View Ballot	Ananya KumarⒸ
+GLC 1+1	4th	Opening Opposition	View Ballot	Ananya KumarⒸ
+GCU The Ahl e Dard Cabinet	2nd	Opening Government	View Ballot	Ananya KumarⒸ
+Dhaka DUDS	3rd	Closing Opposition	View Ballot	Ananya KumarⒸ
+Cornell Gaveal&#x27;s biggest fans	4th	Closing Government	View Ballot	William SmithⒸ
+Bucharest A	2nd	Opening Opposition	View Ballot	William SmithⒸ
+Oxford AP	1st	Closing Opposition	View Ballot	William SmithⒸ
+Only chronically partnerless	3rd	Opening Government	View Ballot	William SmithⒸ
+we fought each other in uhuru last	2nd	Opening Opposition	View Ballot	Toru OgaⒸ
+KCL the equity officer and the walking	1st	Closing Government	View Ballot	Toru OgaⒸ
+KCW KC A	4th	Closing Opposition	View Ballot	Toru OgaⒸ
+one of us gave the other daddy iss	3rd	Opening Government	View Ballot	Toru OgaⒸ
+NUST Operation Restore Legacy	2nd	Opening Opposition	View Ballot	Tatiana SevyanⒸ
+MAULERS leon lovers	3rd	Closing Opposition	View Ballot	Tatiana SevyanⒸ
+MAULERS Sleeping beauty	4th	Opening Government	View Ballot	Tatiana SevyanⒸ
+NWU Potchefstroom Zucchini	1st	Closing Government	View Ballot	Tatiana SevyanⒸ
+GU Easy Company	1st	Closing Opposition	View Ballot	Nana Akua LarbiⒸ , Godswill Ifeanyichukwu
+DTU chukuchukuchuku	3rd	Closing Government	View Ballot	Nana Akua LarbiⒸ , Godswill Ifeanyichukwu
+ITS 4AM AT 107	2nd	Opening Government	View Ballot	Nana Akua LarbiⒸ , Godswill Ifeanyichukwu
+SRCC Pakoda simps	4th	Opening Opposition	View Ballot	Nana Akua LarbiⒸ , Godswill Ifeanyichukwu
+Strathmore Sled	2nd	Opening Opposition	View Ballot	Sarabjeet SinghⒸ , Brandon Zhang , Desmond Papa Arhinful
+NMU Ultimately Karma	4th	Closing Government	View Ballot	Sarabjeet SinghⒸ , Brandon Zhang , Desmond Papa Arhinful
+Ilorin Lotus	3rd	Opening Government	View Ballot	Sarabjeet SinghⒸ , Brandon Zhang , Desmond Papa Arhinful
+Hopes ??	1st	Closing Opposition	View Ballot	Sarabjeet SinghⒸ , Brandon Zhang , Desmond Papa Arhinful
+LSE If u can&#x27;t pre with alchool, pre w	1st	Opening Opposition	View Ballot	Umar BuckusⒸ
+DU Kunwar Adhiraj Pratap Singh	2nd	Closing Government	View Ballot	Umar BuckusⒸ
+no eco motions pls	4th	Closing Opposition	View Ballot	Umar BuckusⒸ
+Whiptical Illusion	3rd	Opening Government	View Ballot	Umar BuckusⒸ
+KNUST Team Fire	2nd	Closing Opposition	View Ballot	Cynthia ChristelleⒸ
+CU Depressed Soul	4th	Closing Government	View Ballot	Cynthia ChristelleⒸ
+Double A	3rd	Opening Government	View Ballot	Cynthia ChristelleⒸ
+FUV composite	1st	Opening Opposition	View Ballot	Cynthia ChristelleⒸ
+NSTU DS Pioneer	2nd	Closing Government	View Ballot	Abdul-Lateef Balikis AdukeⒸ , Austin Kelachukwu , Banshaj Raj Bhardwaj
+we can make the whole debate shimm	3rd	Opening Opposition	View Ballot	Abdul-Lateef Balikis AdukeⒸ , Austin Kelachukwu , Banshaj Raj Bhardwaj
+Abeg flex	4th	Closing Opposition	View Ballot	Abdul-Lateef Balikis AdukeⒸ , Austin Kelachukwu , Banshaj Raj Bhardwaj
+2 philosophers stoned	1st	Opening Government	View Ballot	Abdul-Lateef Balikis AdukeⒸ , Austin Kelachukwu , Banshaj Raj Bhardwaj
+DU Noida to Paris	1st	Opening Government	View Ballot	Jaira Mei BaruaⒸ
+KCW KC C	4th	Closing Opposition	View Ballot	Jaira Mei BaruaⒸ
+KCW KC E	2nd	Opening Opposition	View Ballot	Jaira Mei BaruaⒸ
+Daring Devils	3rd	Closing Government	View Ballot	Jaira Mei BaruaⒸ
+KNUST B	1st	Opening Government	View Ballot	Mahadi Awedaga AyiwoliⒸ , Dishita Dubey , Rajyawardhan Singh
+BITS Goa A50x	3rd	Opening Opposition	View Ballot	Mahadi Awedaga AyiwoliⒸ , Dishita Dubey , Rajyawardhan Singh
+Utilitarian arguments disguised as	4th	Closing Opposition	View Ballot	Mahadi Awedaga AyiwoliⒸ , Dishita Dubey , Rajyawardhan Singh
+THR Messi`s move to Inter Miami	2nd	Closing Government	View Ballot	Mahadi Awedaga AyiwoliⒸ , Dishita Dubey , Rajyawardhan Singh
+BUP B	4th	Closing Opposition	View Ballot	Nimay SanghiⒸ
+Spring 1975	3rd	Opening Opposition	View Ballot	Nimay SanghiⒸ
+WPGA Laddu	2nd	Closing Government	View Ballot	Nimay SanghiⒸ
+Shady phsychopath	1st	Opening Government	View Ballot	Nimay SanghiⒸ
+HG H - GyuDONE with Debate ??	3rd	Closing Government	View Ballot	Omesh Dhar DwivediⒸ
+PUDS Spurs	2nd	Closing Opposition	View Ballot	Omesh Dhar DwivediⒸ
+PES pura sunle	4th	Opening Opposition	View Ballot	Omesh Dhar DwivediⒸ
+PHDS Osmanthus wine tastes as weird as	1st	Opening Government	View Ballot	Omesh Dhar DwivediⒸ
+IIT Roorkee zengel	2nd	Closing Government	View Ballot	Régis GourdelⒸ
+We are here	3rd	Opening Government	View Ballot	Régis GourdelⒸ
+Strathmore Tirana	4th	Closing Opposition	View Ballot	Régis GourdelⒸ
+Coerce you !	1st	Opening Opposition	View Ballot	Régis GourdelⒸ
+NMIMS to spit or to swallow…the argument	2nd	Closing Government	View Ballot	Badshah Akbar RafiⒸ
+JUDO Amar Ekush	3rd	Closing Opposition	View Ballot	Badshah Akbar RafiⒸ
+WMSU anti regionalian girlies	1st	Opening Government	View Ballot	Badshah Akbar RafiⒸ
+WMSU lato-lato main slayers	4th	Opening Opposition	View Ballot	Badshah Akbar RafiⒸ
+HG F(orever single, hopefully not ???	1st	Closing Opposition	View Ballot	Henry KofiⒸ
+AUD Haldiram	3rd	Opening Government	View Ballot	Henry KofiⒸ
+Santo Tomas debasties	2nd	Closing Government	View Ballot	Henry KofiⒸ
+PES Broke without breaks	4th	Opening Opposition	View Ballot	Henry KofiⒸ
+Frenemies	4th	Closing Government	View Ballot	Anna SawickaⒸ
+Sun kissed HOEmies	3rd	Opening Opposition	View Ballot	Anna SawickaⒸ
+homeless kiddoss w/o albert	1st	Opening Government	View Ballot	Anna SawickaⒸ
+TSRS Reg time running out	2nd	Closing Opposition	View Ballot	Anna SawickaⒸ
+ALU A	3rd	Closing Opposition	View Ballot	Fiachra NolanⒸ
+subject to change	2nd	Closing Government	View Ballot	Fiachra NolanⒸ
+Bucharest B	1st	Opening Government	View Ballot	Fiachra NolanⒸ
+IIT Delhi Not a loss but a strategic 4th	4th	Opening Opposition	View Ballot	Fiachra NolanⒸ
+IIT Bombay Why is GC still our debate peak?	3rd	Closing Government	View Ballot	Emily Yinchang ShiⒸ
+Queen&#x27;s astral projecting into ur butthole	1st	Opening Government	View Ballot	Emily Yinchang ShiⒸ
+USIU Ikenga	2nd	Opening Opposition	View Ballot	Emily Yinchang ShiⒸ
+Spirit of the Coast	4th	Closing Opposition	View Ballot	Emily Yinchang ShiⒸ
+Will confirm asap	1st	Closing Opposition	View Ballot	Andrews TerkuⒸ
+Strathmore Pee Oh Eye	3rd	Opening Government	View Ballot	Andrews TerkuⒸ
+Strathmore Onigashima	4th	Closing Government	View Ballot	Andrews TerkuⒸ
+Founders League Union	2nd	Opening Opposition	View Ballot	Andrews TerkuⒸ
+Exeter EXit Stage Left	1st	Opening Opposition	View Ballot	Alec BeckyⒸ
+we&#x27;re contacting you about your ca	4th	Closing Government	View Ballot	Alec BeckyⒸ
+St Andrews (B)arking up the wrong tree	3rd	Closing Opposition	View Ballot	Alec BeckyⒸ
+Miki’s looking a bit different tod	2nd	Opening Government	View Ballot	Alec BeckyⒸ
+HG E - exhausted eject exit ?????em f	3rd	Opening Opposition	View Ballot	Tousif Tanvir AlamⒸ
+GUU (B)reaking Free	1st	Closing Government	View Ballot	Tousif Tanvir AlamⒸ
+Budapest BanDia	4th	Opening Government	View Ballot	Tousif Tanvir AlamⒸ
+Edinburgh ... B? C? A-Z? Σ	2nd	Closing Opposition	View Ballot	Tousif Tanvir AlamⒸ
+Swing 4	4th	Opening Government	View Ballot	Teye Prince-DanielⒸ
+NMU Your Opponents	3rd	Closing Opposition	View Ballot	Teye Prince-DanielⒸ
+USIU Gunners	2nd	Opening Opposition	View Ballot	Teye Prince-DanielⒸ
+Back Again	1st	Closing Government	View Ballot	Teye Prince-DanielⒸ
+HG J(ust dance)	2nd	Closing Opposition	View Ballot	Desmond DorvloⒸ
+BITS Goa DH2 Boiz	3rd	Opening Government	View Ballot	Desmond DorvloⒸ
+Nairobi Wolf ??	1st	Closing Government	View Ballot	Desmond DorvloⒸ
+KCW KC F	4th	Opening Opposition	View Ballot	Desmond DorvloⒸ
+Alberta Winning is a Canon Event	2nd	Opening Opposition	View Ballot	Parshav JainⒸ
+NMIMS ASMSOC e-mommy affliction	1st	Closing Opposition	View Ballot	Parshav JainⒸ
+Mastermind Chicks with kicks	3rd	Closing Government	View Ballot	Parshav JainⒸ
+Kung-fu Panda	4th	Opening Government	View Ballot	Parshav JainⒸ
+Swing 2	1st	Closing Opposition	View Ballot	Anveisha SrivastavaⒸ
+USIU cereal killer	2nd	Closing Government	View Ballot	Anveisha SrivastavaⒸ
+Nairobi Never Have l Ever	4th	Opening Government	View Ballot	Anveisha SrivastavaⒸ
+Swing 8	3rd	Opening Opposition	View Ballot	Anveisha SrivastavaⒸ
+Up for Debate UFD India	3rd	Opening Government	View Ballot	Alexandra AdoteyⒸ , Aman Kaushik , Hormenoo Emmanuella Selasi
+Ilorin Law and Medic	4th	Closing Opposition	View Ballot	Alexandra AdoteyⒸ , Aman Kaushik , Hormenoo Emmanuella Selasi
+PHDS Excuse Me, He Asked For No Pickles	2nd	Opening Opposition	View Ballot	Alexandra AdoteyⒸ , Aman Kaushik , Hormenoo Emmanuella Selasi
+CAITO KINGS	1st	Closing Government	View Ballot	Alexandra AdoteyⒸ , Aman Kaushik , Hormenoo Emmanuella Selasi
+HG G	3rd	Opening Opposition	View Ballot	Khushi SharmaⒸ
+KU Apple	1st	Closing Government	View Ballot	Khushi SharmaⒸ
+average semi-support/offlane role	4th	Closing Opposition	View Ballot	Khushi SharmaⒸ
+WMSU count to ten please	2nd	Opening Government	View Ballot	Khushi SharmaⒸ
+KNUST Fire Nation ??	3rd	Closing Opposition	View Ballot	Mahadi Rahman NikashⒸ , Nivesh Aggarwal , Samar Pratap Singh
+HG B - Fo Shizzle My Drizzle	4th	Opening Government	View Ballot	Mahadi Rahman NikashⒸ , Nivesh Aggarwal , Samar Pratap Singh
+RMLNLU Brampton ke Munde	2nd	Opening Opposition	View Ballot	Mahadi Rahman NikashⒸ , Nivesh Aggarwal , Samar Pratap Singh
+AUD THS Heartache	1st	Closing Government	View Ballot	Mahadi Rahman NikashⒸ , Nivesh Aggarwal , Samar Pratap Singh
+Hiroogakuen Goat and Toad	1st	Opening Opposition	View Ballot	Jessica Afi FayoseⒸ
+J.K.U.A.T Here to fill the bins.	4th	Closing Government	View Ballot	Jessica Afi FayoseⒸ
+IIT Roorkee Strawberries over Peaches	3rd	Closing Opposition	View Ballot	Jessica Afi FayoseⒸ
+CU B	2nd	Opening Government	View Ballot	Jessica Afi FayoseⒸ
+KMC Kowalski and Skipper	2nd	Closing Government	View Ballot	Lidya Andreani LiuⒸ , Hoàng-Dũng Lê
+surprise me w speaks, adj	3rd	Opening Opposition	View Ballot	Lidya Andreani LiuⒸ , Hoàng-Dũng Lê
+XU-AdC SASHA COLBY!	1st	Opening Government	View Ballot	Lidya Andreani LiuⒸ , Hoàng-Dũng Lê
+Bonnie-Clyde	4th	Closing Opposition	View Ballot	Lidya Andreani LiuⒸ , Hoàng-Dũng Lê
+HG D-either we break or break down	2nd	Closing Opposition	View Ballot	Adrish Kumar SikdarⒸ , Abigail Asiedu
+Dundee Euros Champions 2023	1st	Closing Government	View Ballot	Adrish Kumar SikdarⒸ , Abigail Asiedu
+HLU 1	4th	Opening Opposition	View Ballot	Adrish Kumar SikdarⒸ , Abigail Asiedu
+Nairobi Under the bleachers	3rd	Opening Government	View Ballot	Adrish Kumar SikdarⒸ , Abigail Asiedu
+NSTU DS Warriors	1st	Opening Opposition	View Ballot	Gopal KrishanⒸ
+KNUST Hashmirdom	3rd	Closing Government	View Ballot	Gopal KrishanⒸ
+Raiden Ajeng Kartini	2nd	Opening Government	View Ballot	Gopal KrishanⒸ
+KCW KC B	4th	Closing Opposition	View Ballot	Gopal KrishanⒸ
+CU D	2nd	Opening Government	View Ballot	Aarya HoraⒸ
+CU Hills	1st	Closing Opposition	View Ballot	Aarya HoraⒸ
+PHDS kahit ano basta magbreak	3rd	Opening Opposition	View Ballot	Aarya HoraⒸ
+Swing 6	4th	Closing Government	View Ballot	Aarya HoraⒸ
+KNUST WesieAcheaw	3rd	Closing Government	View Ballot	Keshav RaiⒸ , Harshit Singh , Mohanish Tatiya
+HG A - HGDT but just the cuties	1st	Opening Opposition	View Ballot	Keshav RaiⒸ , Harshit Singh , Mohanish Tatiya
+ENU Nothing to say	2nd	Opening Government	View Ballot	Keshav RaiⒸ , Harshit Singh , Mohanish Tatiya
+Kekuatan	4th	Closing Opposition	View Ballot	Keshav RaiⒸ , Harshit Singh , Mohanish Tatiya
+JUST Goku &amp; Saitama	2nd	Closing Opposition	View Ballot	Oladi GabisiⒸ , Joy Stella Mbabazi
+MAULERS GMT +7	3rd	Opening Opposition	View Ballot	Oladi GabisiⒸ , Joy Stella Mbabazi
+The Boys	4th	Opening Government	View Ballot	Oladi GabisiⒸ , Joy Stella Mbabazi
+PSHS ADDU Bangkal Campus	1st	Closing Government	View Ballot	Oladi GabisiⒸ , Joy Stella Mbabazi
+Chulalongkorn SS	1st	Opening Government	View Ballot	Yi Zoe Zhu WangⒸ
+CU A	2nd	Closing Government	View Ballot	Yi Zoe Zhu WangⒸ
+Tora and Aru	3rd	Opening Opposition	View Ballot	Yi Zoe Zhu WangⒸ
+Japan Yamagishi	4th	Closing Opposition	View Ballot	Yi Zoe Zhu WangⒸ
+Alberta THBT it is biologically advantageo	3rd	Opening Government	View Ballot	Brian KamⒸ
+TCD Hist Rehan and Ziyad	1st	Closing Government	View Ballot	Brian KamⒸ
+XU-AdC The Rise of Bilateralism	4th	Closing Opposition	View Ballot	Brian KamⒸ
+Pirates of the Gulf of Guinea	2nd	Opening Opposition	View Ballot	Brian KamⒸ
+KNUST PETRICHOR	2nd	Closing Opposition	View Ballot	Joseph HutchisonⒸ
+KNUST Game of Thrones	4th	Opening Opposition	View Ballot	Joseph HutchisonⒸ
+Kings	1st	Closing Government	View Ballot	Joseph HutchisonⒸ
+ACCDC 101	3rd	Opening Government	View Ballot	Joseph HutchisonⒸ
+TCD Hist I’m not ticklish, you are!	1st	Closing Government	View Ballot	Brynley HamerⒸ
+We retired from retirement because	2nd	Closing Opposition	View Ballot	Brynley HamerⒸ
+NMU Top of the TABlet	3rd	Opening Opposition	View Ballot	Brynley HamerⒸ
+Jinx homies	4th	Opening Government	View Ballot	Brynley HamerⒸ
+LGS JT Phantom Troupe	3rd	Opening Government	View Ballot	Aleksandra DurbazevaⒸ
+J and J	2nd	Opening Opposition	View Ballot	Aleksandra DurbazevaⒸ
+NMU Anbu Black Ops	4th	Closing Government	View Ballot	Aleksandra DurbazevaⒸ
+Break X Hunters	1st	Closing Opposition	View Ballot	Aleksandra DurbazevaⒸ
+KIIT Chosen Ones	4th	Closing Government	View Ballot	Mateusz KossonⒸ
+Iguanakant	1st	Opening Opposition	View Ballot	Mateusz KossonⒸ
+Bin roomers	3rd	Opening Government	View Ballot	Mateusz KossonⒸ
+pp on the pp (get your mind out of	2nd	Closing Opposition	View Ballot	Mateusz KossonⒸ
+KNUST Fire and Ice	2nd	Opening Government	View Ballot	Soumitro Kumar DasⒸ
+KNUST Outlaws	3rd	Closing Opposition	View Ballot	Soumitro Kumar DasⒸ
+CU ACC	4th	Closing Government	View Ballot	Soumitro Kumar DasⒸ
+Sir MVIT SMVIT	1st	Opening Opposition	View Ballot	Soumitro Kumar DasⒸ
+Kyushu S	4th	Opening Government	View Ballot	Farissa MachembaⒸ
+UHAS B	1st	Closing Opposition	View Ballot	Farissa MachembaⒸ
+PHDS ABCDEbators	3rd	Opening Opposition	View Ballot	Farissa MachembaⒸ
+Swing 9	2nd	Closing Government	View Ballot	Farissa MachembaⒸ
+
+
+team	result	side	adjudicators
+Chulalongkorn SS	advancing	Closing Government	Heather AshworthⒸ , Brynley Hamer , Jantzen Eros
+DU Kunwar Adhiraj Pratap Singh	eliminated	Opening Opposition	Heather AshworthⒸ , Brynley Hamer , Jantzen Eros
+Will confirm asap	eliminated	Closing Opposition	Heather AshworthⒸ , Brynley Hamer , Jantzen Eros
+Only chronically partnerless	advancing	Opening Government	Heather AshworthⒸ , Brynley Hamer , Jantzen Eros
+Edinburgh ... B? C? A-Z? Σ	eliminated	Opening Government	Mariko KawabataⒸ , Andrews Terku , Toru Oga
+Oxford AP	advancing	Closing Opposition	Mariko KawabataⒸ , Andrews Terku , Toru Oga
+Pirates of the Gulf of Guinea	advancing	Opening Opposition	Mariko KawabataⒸ , Andrews Terku , Toru Oga
+Questern	eliminated	Closing Government	Mariko KawabataⒸ , Andrews Terku , Toru Oga
+TCD Hist I’m not ticklish, you are!	eliminated	Opening Government	Joseph HutchisonⒸ , Hormenoo Emmanuella Selasi , Oladi Gabisi
+TCD Hist Rehan and Ziyad	advancing	Opening Opposition	Joseph HutchisonⒸ , Hormenoo Emmanuella Selasi , Oladi Gabisi
+Bucharest B	eliminated	Closing Government	Joseph HutchisonⒸ , Hormenoo Emmanuella Selasi , Oladi Gabisi
+Bucharest A	advancing	Closing Opposition	Joseph HutchisonⒸ , Hormenoo Emmanuella Selasi , Oladi Gabisi
+LSE If u can&#x27;t pre with alchool, pre w	advancing	Closing Government	Henry KofiⒸ , Shivani Mishra , William Smith
+GUU (B)reaking Free	eliminated	Opening Opposition	Henry KofiⒸ , Shivani Mishra , William Smith
+Cornell Gaveal&#x27;s biggest fans	advancing	Opening Government	Henry KofiⒸ , Shivani Mishra , William Smith
+Harold and Kumar (guess which one	eliminated	Closing Opposition	Henry KofiⒸ , Shivani Mishra , William Smith
+
+
+team	result	side	adjudicators
+TCD Hist Rehan and Ziyad	eliminated	Opening Opposition	William SmithⒸ , Joseph Hutchison , Nimay Sanghi , Oladi Gabisi , Yi Zoe Zhu Wang
+Bucharest A	advancing	Closing Opposition	William SmithⒸ , Joseph Hutchison , Nimay Sanghi , Oladi Gabisi , Yi Zoe Zhu Wang
+Oxford AP	advancing	Closing Government	William SmithⒸ , Joseph Hutchison , Nimay Sanghi , Oladi Gabisi , Yi Zoe Zhu Wang
+Pirates of the Gulf of Guinea	eliminated	Opening Government	William SmithⒸ , Joseph Hutchison , Nimay Sanghi , Oladi Gabisi , Yi Zoe Zhu Wang
+LSE If u can&#x27;t pre with alchool, pre w	advancing	Opening Government	Alishba IrfanⒸ , Anna Sawicka , Fiachra Nolan , Mariko Kawabata , Tousif Tanvir Alam
+Chulalongkorn SS	eliminated	Opening Opposition	Alishba IrfanⒸ , Anna Sawicka , Fiachra Nolan , Mariko Kawabata , Tousif Tanvir Alam
+Cornell Gaveal&#x27;s biggest fans	eliminated	Closing Opposition	Alishba IrfanⒸ , Anna Sawicka , Fiachra Nolan , Mariko Kawabata , Tousif Tanvir Alam
+Only chronically partnerless	advancing	Closing Government	Alishba IrfanⒸ , Anna Sawicka , Fiachra Nolan , Mariko Kawabata , Tousif Tanvir Alam
+
+
+team	result	side	adjudicators
+LSE If u can&#x27;t pre with alchool, pre w	eliminated	Closing Opposition	Tousif Tanvir AlamⒸ , Ananya Kumar , Anna Sawicka , Benjamin J. Speth , William Smith
+Bucharest A	eliminated	Opening Government	Tousif Tanvir AlamⒸ , Ananya Kumar , Anna Sawicka , Benjamin J. Speth , William Smith
+Oxford AP	eliminated	Closing Government	Tousif Tanvir AlamⒸ , Ananya Kumar , Anna Sawicka , Benjamin J. Speth , William Smith
+Only chronically partnerless	advancing	Opening Opposition	Tousif Tanvir AlamⒸ , Ananya Kumar , Anna Sawicka , Benjamin J. Speth , William Smith
+
+
+team	result	side	adjudicators
+FTU wuh wuh what?	eliminated	Closing Government	Nimay SanghiⒸ , Anna Sawicka , Benjamin J. Speth , Tousif Tanvir Alam , Yi Zoe Zhu Wang
+subject to change	advancing	Opening Opposition	Nimay SanghiⒸ , Anna Sawicka , Benjamin J. Speth , Tousif Tanvir Alam , Yi Zoe Zhu Wang
+Break X Hunters	eliminated	Opening Government	Nimay SanghiⒸ , Anna Sawicka , Benjamin J. Speth , Tousif Tanvir Alam , Yi Zoe Zhu Wang
+Shady phsychopath	advancing	Closing Opposition	Nimay SanghiⒸ , Anna Sawicka , Benjamin J. Speth , Tousif Tanvir Alam , Yi Zoe Zhu Wang
+CU A	advancing	Closing Government	Mohanish TatiyaⒸ , Alec Becky , Alexandra Adotey , Alishba Irfan , Fiachra Nolan
+Whiptical Illusion	eliminated	Opening Government	Mohanish TatiyaⒸ , Alec Becky , Alexandra Adotey , Alishba Irfan , Fiachra Nolan
+homeless kiddoss w/o albert	eliminated	Opening Opposition	Mohanish TatiyaⒸ , Alec Becky , Alexandra Adotey , Alishba Irfan , Fiachra Nolan
+We retired from retirement because	advancing	Closing Opposition	Mohanish TatiyaⒸ , Alec Becky , Alexandra Adotey , Alishba Irfan , Fiachra Nolan
+
+
+team	result	side	adjudicators
+CU A	eliminated	Closing Opposition	Nimay SanghiⒸ , Harshit Singh , Mariko Kawabata , Mohanish Tatiya , Yi Zoe Zhu Wang
+subject to change	eliminated	Closing Government	Nimay SanghiⒸ , Harshit Singh , Mariko Kawabata , Mohanish Tatiya , Yi Zoe Zhu Wang
+We retired from retirement because	advancing	Opening Opposition	Nimay SanghiⒸ , Harshit Singh , Mariko Kawabata , Mohanish Tatiya , Yi Zoe Zhu Wang
+Shady phsychopath	eliminated	Opening Government	Nimay SanghiⒸ , Harshit Singh , Mariko Kawabata , Mohanish Tatiya , Yi Zoe Zhu Wang
+
+
+team	result	side	adjudicators
+HG F(orever single, hopefully not ???	eliminated	Opening Opposition	Harshit SinghⒸ , Aleksandra Durbazeva , Emily Yinchang Shi
+FLSS CNN Befuddled	eliminated	Closing Government	Harshit SinghⒸ , Aleksandra Durbazeva , Emily Yinchang Shi
+TSRS Reg time running out	eliminated	Closing Opposition	Harshit SinghⒸ , Aleksandra Durbazeva , Emily Yinchang Shi
+Founders League Union	advancing	Opening Government	Harshit SinghⒸ , Aleksandra Durbazeva , Emily Yinchang Shi
+
+
+team	result	side	adjudicators
+LGS JT Powerpuff Boys	eliminated	Closing Opposition	Ananya KumarⒸ , Benjamin J. Speth , Jessica Afi Fayose
+HG E - exhausted eject exit ?????em f	eliminated	Opening Opposition	Ananya KumarⒸ , Benjamin J. Speth , Jessica Afi Fayose
+Tora and Aru	advancing	Closing Government	Ananya KumarⒸ , Benjamin J. Speth , Jessica Afi Fayose
+WPGA Laddu	eliminated	Opening Government	Ananya KumarⒸ , Benjamin J. Speth , Jessica Afi Fayose
+

@@ -1,0 +1,786 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	this is just for the team dynamics	ESL	1st	1st	1st	1st	1st	15	826	5	0
+2	Two blondes trading barbs		1st	1st	2nd	2nd	2nd	12	816	2	3
+3	If need carry = carry		1st	3rd	1st	2nd	1st	12	814	3	1
+4	Haifa AL	ESL	1st	1st	4th	1st	1st	12	806	4	0
+5	Naomi and Alek		1st	2nd	1st	1st	3rd	12	799	3	1
+6	woshiwangr		2nd	1st	2nd	1st	2nd	12	799	2	3
+7	Ljubljana ČmrLJ	ESL	1st	1st	2nd	2nd	3rd	11	805	2	2
+8	Zagreb ET	ESL	1st	3rd	3rd	1st	1st	11	804	3	0
+9	Zagreb A	ESL	1st	4th	1st	2nd	1st	11	796	3	1
+10	EDS POIs N-2	ESL	4th	1st	1st	1st	2nd	11	791	3	1
+11	Zagreb C	ESL	1st	3rd	1st	3rd	1st	11	772	3	0
+12	youtube.com/@structural.reasons	ESL	1st	1st	3rd	1st	4th	10	808	3	0
+13	HUJI If it&#x27;s horny is it a unicorn?		1st	2nd	1st	3rd	3rd	10	808	2	1
+14	TAU A&amp;B	ESL	1st	1st	3rd	3rd	2nd	10	795	2	1
+15	St Andrews my biggest achievement is getting		1st	3rd	2nd	2nd	2nd	10	795	1	3
+16	Belgrade Šone&#x27;s Girlfriend and Dačić&#x27;s Wife	ESL	2nd	2nd	1st	4th	1st	10	791	2	2
+17	Imperial getting as far away from eurovisio		2nd	4th	1st	1st	2nd	10	781	2	2
+18	Technion We will overstay our visa	ESL	1st	3rd	4th	1st	1st	10	780	3	0
+19	Haifa A&amp;P	ESL	3rd	1st	4th	1st	1st	10	763	3	0
+20	(English accent) &#x27;You alright luv?		2nd	2nd	2nd	2nd	3rd	9	795	0	4
+21	Belgrade Arts The second worst thing that Serbs	ESL	2nd	1st	3rd	1st	4th	9	786	2	1
+22	Weizmann DS	ESL	3rd	1st	4th	2nd	1st	9	784	2	1
+23	Technion W&amp;W	ESL	1st	2nd	2nd	2nd	4th	9	777	1	3
+24	ARGO A	ESL	1st	4th	2nd	1st	3rd	9	775	2	1
+25	AUBG A	ESL	3rd	1st	1st	4th	2nd	9	773	2	1
+26	TCD Phil B		2nd	1st	4th	3rd	1st	9	771	2	1
+27	Oxford Outlaws		1st	4th	1st	3rd	2nd	9	767	2	1
+28	Warsaw We is dragon	ESL	3rd	2nd	2nd	2nd	2nd	9	764	0	4
+29	Weizmann NS	ESL, Novice	1st	2nd	4th	3rd	1st	9	761	2	1
+30	Split Mercator	ESL	3rd	3rd	1st	1st	3rd	9	761	2	0
+31	Zürich You&#x27;ll understand when you&#x27;re olde		3rd	2nd	3rd	2nd	1st	9	761	1	2
+32	Cambridge Old Age Retirement Centre		1st	4th	3rd	2nd	2nd	8	775	1	2
+33	EDS Garam Masala Pretzel	Novice	3rd	3rd	3rd	1st	2nd	8	769	1	1
+34	Sheffield we got help from Monash		2nd	4th	2nd	1st	3rd	8	766	1	2
+35	Berlin B		1st	2nd	1st	4th	4th	8	764	2	1
+36	Hydrated Iron (III) Oxide		3rd	1st	3rd	4th	1st	8	761	2	0
+37	Budapest Fallacy Factory	ESL	3rd	3rd	1st	3rd	2nd	8	760	1	1
+38	Berlin A	ESL	3rd	1st	3rd	2nd	3rd	8	759	1	1
+39	St Andrews If we stand up and cry for 14 minu	Novice	2nd	2nd	3rd	4th	1st	8	758	1	2
+40	TCD Phil C		3rd	4th	1st	3rd	1st	8	757	2	0
+41	Belgrade 404 - Name not found	ESL	2nd	4th	3rd	1st	3rd	7	767	1	1
+42	ESDA Chronos Freedom for Sealand	ESL	1st	4th	3rd	1st	4th	7	765	2	0
+43	Weizmann DR	ESL	2nd	2nd	2nd	3rd	4th	7	765	0	3
+44	Ben Gurion Romantic vacation	ESL, Novice	3rd	2nd	1st	3rd	4th	7	764	1	1
+45	Ljubljana Borut Pahor	ESL	2nd	1st	4th	2nd	4th	7	763	1	2
+46=	Cambridge CM	Novice	2nd	3rd	1st	4th	3rd	7	762	1	1
+46=	Weizmann N&amp;M	ESL	2nd	1st	3rd	3rd	4th	7	762	1	1
+48	Ala&#x27;s boyfriend and his girlfriend	ESL	3rd	2nd	4th	3rd	1st	7	754	1	1
+49	Adam Mickiewicz Jungle girls	ESL, Novice	3rd	4th	2nd	3rd	1st	7	751	1	1
+50	The Neural Netwits	ESL	3rd	1st	4th	3rd	2nd	7	750	1	1
+51	PEP DEB8	ESL, Novice	2nd	4th	2nd	3rd	2nd	7	750	0	3
+52	LDU Id, ego and debater-ego		2nd	3rd	4th	1st	3rd	7	748	1	1
+53	UCL Here for the schnitzel	Novice	4th	2nd	2nd	3rd	2nd	7	740	0	3
+54	ESDA Chronos Generic Platitudes		4th	3rd	1st	4th	1st	7	737	2	0
+55	HMDA C	ESL, Novice	4th	2nd	2nd	2nd	3rd	7	713	0	3
+56	DK Wien Swing 1		2nd	2nd	1st	4th	—	7	615	1	2
+57	UCL TN		1st	3rd	2nd	4th	4th	6	774	1	1
+58	Sciences Po AB	ESL, Novice	2nd	3rd	3rd	2nd	4th	6	770	0	2
+59	Bucharest B	ESL	2nd	2nd	2nd	4th	4th	6	765	0	3
+60	Berlin C	Novice	3rd	2nd	4th	2nd	3rd	6	757	0	2
+61	Technion At least here gov doesn’t control	ESL, Novice	4th	2nd	4th	2nd	2nd	6	755	0	3
+62	HMDA Queen	ESL, Novice	3rd	2nd	2nd	4th	3rd	6	741	0	2
+63	ESDA Chronos Tristan		4th	3rd	4th	1st	2nd	6	740	1	1
+64	HMDA Slay	Novice	2nd	3rd	3rd	3rd	3rd	6	739	0	1
+65	Coincidentally the day my mother g	ESL, Novice	4th	3rd	3rd	2nd	2nd	6	738	0	2
+66	Weizmann DG	ESL, Novice	4th	1st	3rd	3rd	3rd	6	733	1	0
+67	HMDA Beryllium	ESL, Novice	4th	1st	4th	4th	1st	6	719	2	0
+68	CEU 2		4th	1st	4th	1st	—	6	599	2	0
+69	Belgrade K&amp;P	ESL	2nd	4th	4th	1st	4th	5	752	1	1
+70	Only the family	ESL, Novice	2nd	3rd	4th	3rd	3rd	5	752	0	1
+71	PEP Sintegration	ESL	3rd	3rd	3rd	2nd	4th	5	746	0	1
+72	Handsome Bearded Romanians	ESL	4th	3rd	2nd	4th	2nd	5	741	0	2
+73	Budapest EmJ	Novice	3rd	4th	1st	4th	3rd	5	712	1	0
+74	DISKO WAS ROBBED	ESL	4th	4th	1st	4th	2nd	5	706	1	1
+75	Warsaw Get Good	ESL, Novice	4th	1st	2nd	4th	4th	5	698	1	1
+76	Budapest CM	ESL, Novice	4th	3rd	3rd	1st	4th	5	693	1	0
+77	We&#x27;ll be there soon	ESL, Novice	3rd	4th	2nd	4th	3rd	4	742	0	1
+78	BNDT 1	ESL, Novice	2nd	4th	2nd	4th	4th	4	738	0	2
+79	UBC Pacific Pacifiers		4th	2nd	4th	3rd	3rd	4	734	0	1
+80	under pressure cooker	ESL, Novice	3rd	4th	3rd	2nd	4th	4	718	0	1
+81	Pastor&#x27;s favorite choir boys	ESL	4th	3rd	4th	4th	1st	4	715	1	0
+82	Budapest Dilu	ESL, Novice	4th	2nd	4th	4th	2nd	4	700	0	2
+83	Singidunum PA?!	ESL, Novice	4th	4th	2nd	2nd	4th	4	699	0	2
+84	DK Wien Swing 2		3rd	4th	1st	4th	—	4	590	1	0
+85	Adam Mickiewicz Ekipa Remontowa	ESL, Novice	4th	4th	3rd	2nd	—	3	579	0	1
+86	Ljubljana Duolingo owl	ESL, Novice	4th	4th	3rd	4th	3rd	2	715	0	0
+87	CEU 3		4th	3rd	4th	3rd	4th	2	674	0	0
+88	BHS DS	ESL, Novice	4th	4th	4th	3rd	4th	1	720	0	0
+89	Selling golf 4 real kilometres	ESL	—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Maria Matcheva	ESL	this is just for the team dynamics	83	82	84	84	82	415	83.00	0.89
+2	Miriam Kalman		Two blondes trading barbs	81	85	82	83	81	412	82.40	1.50
+3	Biser Angelov	ESL	this is just for the team dynamics	82	83	81	83	82	411	82.20	0.75
+4	Lucy Murphy		If need carry = carry	82	76	82	84	85	409	81.80	3.12
+5	Ayal Mor	ESL	Haifa AL	83	82	78	82	82	407	81.40	1.74
+6	Tin Puljić	ESL	Zagreb ET	82	80	77	83	84	406	81.20	2.48
+7=	Matija Pušnik	ESL	Ljubljana ČmrLJ	80	84	80	83	78	405	81.00	2.19
+7=	Rumen Marinov	ESL	youtube.com/@structural.reasons	79	85	79	84	78	405	81.00	2.90
+7=	Petar Žnidar	ESL	If need carry = carry	81	76	82	83	83	405	81.00	2.61
+10=	Naomi Gillis		HUJI If it&#x27;s horny is it a unicorn?	80	80	81	82	81	404	80.80	0.75
+10=	Yishai Binnes		HUJI If it&#x27;s horny is it a unicorn?	80	81	82	82	79	404	80.80	1.17
+10=	Naomi Panovka		Naomi and Alek	80	78	81	85	80	404	80.80	2.32
+10=	Neta Kenneth Portal	ESL	Two blondes trading barbs	79	82	81	82	80	404	80.80	1.17
+14	Nikolay Angelov	ESL	youtube.com/@structural.reasons	80	85	77	84	77	403	80.60	3.38
+15	Che-Jui (Ted) Chang		woshiwangr	78	80	82	80	81	401	80.20	1.33
+16=	Lucija Ivanuša	ESL	Ljubljana ČmrLJ	80	83	78	82	77	400	80.00	2.28
+16=	William Smith		St Andrews my biggest achievement is getting	82	79	77	81	81	400	80.00	1.79
+16=	Annie Schwartz	ESL	TAU A&amp;B	81	78	81	80	80	400	80.00	1.10
+19=	Robert Raos	ESL	Zagreb A	82	77	78	81	81	399	79.80	1.94
+19=	Lilach Ben David	ESL	Haifa AL	84	78	77	80	80	399	79.80	2.40
+19=	Ana Coman	ESL	(English accent) &#x27;You alright luv?	79	82	80	80	78	399	79.80	1.33
+22=	Đorđe Radosavljević	ESL	Belgrade Šone&#x27;s Girlfriend and Dačić&#x27;s Wife	80	80	82	78	78	398	79.60	1.50
+22=	Ema Vlajčević	ESL, Novice	Zagreb ET	80	79	75	82	82	398	79.60	2.58
+22=	Anna Cox	ESL	EDS POIs N-2	75	80	79	82	82	398	79.60	2.58
+22=	Stefan-Christian Milicescu	ESL	woshiwangr	79	80	80	80	79	398	79.60	0.49
+26	Paula Djaković	ESL	Zagreb A	82	78	77	80	80	397	79.40	1.74
+27	Shaquille Scott Davis		(English accent) &#x27;You alright luv?	79	82	78	80	77	396	79.20	1.72
+28=	Parth Pandya		St Andrews my biggest achievement is getting	81	77	76	80	81	395	79.00	2.10
+28=	Boaz Katzir	ESL	TAU A&amp;B	81	77	80	79	78	395	79.00	1.41
+28=	Alek Selveliev	ESL	Naomi and Alek	78	75	80	84	78	395	79.00	2.97
+31=	Stefan Josipović	ESL	Belgrade Arts The second worst thing that Serbs	77	81	80	82	73	393	78.60	3.26
+31=	Mihailo Babić	ESL	Belgrade Arts The second worst thing that Serbs	76	82	80	82	73	393	78.60	3.56
+31=	Novak Celebic	ESL	Belgrade Šone&#x27;s Girlfriend and Dačić&#x27;s Wife	80	78	81	76	78	393	78.60	1.74
+31=	Shachar Gold	ESL	Weizmann DS	77	82	75	78	81	393	78.60	2.58
+31=	Yannis Diakantonis	ESL	EDS POIs N-2	74	79	78	81	81	393	78.60	2.58
+36	Daanish Sohail Sonawala		Imperial getting as far away from eurovisio	81	76	78	80	77	392	78.40	1.85
+37	Dror Ettlinger	ESL	Weizmann DS	77	81	74	78	81	391	78.20	2.64
+38=	Omer Bareket	ESL	Technion We will overstay our visa	78	77	74	85	76	390	78.00	3.74
+38=	Yuval Gamzon-Kapeller	ESL	Technion We will overstay our visa	77	77	74	85	77	390	78.00	3.69
+38=	Guy Wolf	ESL	Technion W&amp;W	78	79	76	78	79	390	78.00	1.10
+41=	Fraser McConachie	Novice	Cambridge CM	81	76	79	77	76	389	77.80	1.94
+41=	Matthew Hamer		Imperial getting as far away from eurovisio	80	75	77	80	77	389	77.80	1.94
+43=	Maya Hollander		Cambridge Old Age Retirement Centre	80	75	78	78	77	388	77.60	1.62
+43=	Rick Tan Wei Yang	Novice	UCL TN	81	75	80	78	74	388	77.60	2.73
+43=	Andrei Dan Olaru	ESL	ARGO A	85	74	76	76	77	388	77.60	3.83
+46=	Benjamin Goh		Cambridge Old Age Retirement Centre	80	75	78	78	76	387	77.40	1.74
+46=	Ani Kovacheva	ESL	AUBG A	76	81	78	75	77	387	77.40	2.06
+46=	Oisín Browne		TCD Phil B	79	78	78	73	79	387	77.40	2.24
+46=	Lara-Nika Holjevac Stasiow	ESL	Zagreb C	79	78	74	78	78	387	77.40	1.74
+46=	Yael Wolff	ESL	Technion W&amp;W	76	79	75	80	77	387	77.40	1.85
+46=	Elisa Laures	Novice	EDS Garam Masala Pretzel	77	77	76	79	78	387	77.40	1.02
+46=	Ahmed Hussain		Oxford Outlaws	78	77	78	77	77	387	77.40	0.49
+46=	Laura Drăgoi	ESL	ARGO A	84	74	77	77	75	387	77.40	3.50
+54=	Latinka Minkova	ESL	AUBG A	76	80	78	75	77	386	77.20	1.72
+54=	Hamza Nouman	ESL	UCL TN	81	76	79	76	74	386	77.20	2.48
+56=	Felix Reischl	ESL	Berlin B	78	80	78	74	75	385	77.00	2.19
+56=	Tania Acsinte	ESL, Novice	Sciences Po AB	76	78	74	83	74	385	77.00	3.35
+56=	Mara Bulzan	ESL, Novice	Sciences Po AB	76	79	74	81	75	385	77.00	2.61
+56=	Vladimira Šuflaj	ESL	Zagreb C	79	76	73	78	79	385	77.00	2.28
+60=	Djordje Mirkovic	ESL	Belgrade 404 - Name not found	79	75	77	79	74	384	76.80	2.04
+60=	Alfie Devine-Wright		TCD Phil B	80	77	76	73	78	384	76.80	2.32
+60=	Jessica Gurevich	ESL, Novice	Ben Gurion Romantic vacation	79	79	73	78	75	384	76.80	2.40
+60=	Dragos Sassu	ESL	Bucharest B	78	81	73	78	74	384	76.80	2.93
+60=	Brian Kam	ESL	Sheffield we got help from Monash	80	72	77	82	73	384	76.80	3.87
+60=	Alicja Filbier	ESL	Ala&#x27;s boyfriend and his girlfriend	77	81	75	76	75	384	76.80	2.23
+66=	Alex Weber-Herrmann	Novice	Berlin C	76	79	75	78	75	383	76.60	1.62
+66=	Emma Hansen	ESL	Berlin A	77	80	76	76	74	383	76.60	1.96
+66=	Miloš Prokić	ESL	Belgrade 404 - Name not found	78	75	77	78	75	383	76.60	1.36
+66=	Maj Hrovatin	ESL	Ljubljana Borut Pahor	77	77	75	81	73	383	76.60	2.65
+66=	Leon Kersten	ESL	ESDA Chronos Freedom for Sealand	78	75	76	80	74	383	76.60	2.15
+66=	Krzysztof Ludwiczak	ESL	Warsaw We is dragon	78	78	76	76	75	383	76.60	1.20
+66=	Ann Chantal Goutier	ESL	Zürich You&#x27;ll understand when you&#x27;re olde	76	78	74	76	79	383	76.60	1.74
+66=	Ro’i Makov	ESL	Weizmann DR	77	74	80	79	73	383	76.60	2.73
+66=	Navve Wasserman	ESL	Weizmann N&amp;M	78	77	75	78	75	383	76.60	1.36
+75=	Amitai Wagner	ESL	Haifa A&amp;P	78	78	74	75	77	382	76.40	1.62
+75=	Sara Burazer Turko	ESL	Split Mercator	77	75	78	76	76	382	76.40	1.02
+75=	Alessandro Sona	ESL	ESDA Chronos Freedom for Sealand	78	76	76	79	73	382	76.40	2.06
+75=	Jack Jillings	Novice	St Andrews If we stand up and cry for 14 minu	80	77	75	73	77	382	76.40	2.33
+75=	Dror Brook (Bar)	ESL	Weizmann DR	75	75	80	79	73	382	76.40	2.65
+75=	Nathalie Bechon	ESL, Novice	Weizmann NS	78	76	73	76	79	382	76.40	2.06
+75=	Shivyaa Kumar Shrivastav	ESL, Novice	EDS Garam Masala Pretzel	74	76	77	79	76	382	76.40	1.62
+75=	Danigan Keecha-Milsom		Sheffield we got help from Monash	80	73	77	77	75	382	76.40	2.33
+83=	Peli Meir	ESL	Haifa A&amp;P	78	78	73	76	76	381	76.20	1.83
+83=	Roland Umanan		TCD Phil C	75	75	77	74	80	381	76.20	2.14
+83=	Hanna Pabiś	ESL	Warsaw We is dragon	78	77	75	75	76	381	76.20	1.17
+83=	Theo Simion	ESL	Bucharest B	76	81	73	77	74	381	76.20	2.79
+83=	Flora Baek		Hydrated Iron (III) Oxide	78	80	71	77	75	381	76.20	3.06
+88=	Teja Sapač	ESL	Ljubljana Borut Pahor	77	78	75	79	71	380	76.00	2.83
+88=	Roy Yaron	ESL, Novice	Ben Gurion Romantic vacation	78	77	74	78	73	380	76.00	2.10
+88=	Hudáky Márton Gyula	ESL	Budapest Fallacy Factory	73	75	78	78	76	380	76.00	1.90
+88=	András Meleg	ESL	Budapest Fallacy Factory	72	73	79	79	77	380	76.00	2.97
+88=	Amelia Potocka		Oxford Outlaws	77	76	77	75	75	380	76.00	0.89
+88=	Joris Graff	ESL	Hydrated Iron (III) Oxide	78	79	71	76	76	380	76.00	2.76
+94=	Damir Juric	ESL	Split Mercator	74	76	77	76	76	379	75.80	0.98
+94=	Itay Tal	ESL, Novice	Technion At least here gov doesn’t control	74	79	74	78	74	379	75.80	2.23
+94=	Maya Segal	ESL, Novice	Weizmann NS	77	76	74	74	78	379	75.80	1.60
+94=	Michal Hartstein	ESL	Weizmann N&amp;M	76	77	75	78	73	379	75.80	1.72
+98=	Giacomo Pelloni	Novice	Zürich You&#x27;ll understand when you&#x27;re olde	76	77	73	74	78	378	75.60	1.85
+98=	Ramy Masalha	ESL	The Neural Netwits	77	77	75	74	75	378	75.60	1.20
+98=	Ines Cutaru	ESL, Novice	Only the family	78	76	75	76	73	378	75.60	1.62
+101=	Kristina Lazić	ESL, Novice	PEP DEB8	74	75	78	69	80	376	75.20	3.76
+101=	Manuel Englert	ESL	Berlin A	75	78	75	74	74	376	75.20	1.47
+101=	Pavle Antonijević	ESL	Belgrade K&amp;P	77	76	74	77	72	376	75.20	1.94
+101=	Katarina Lazić	ESL	Belgrade K&amp;P	78	77	74	75	72	376	75.20	2.14
+101=	Isaac Moloney		LDU Id, ego and debater-ego	78	74	72	77	75	376	75.20	2.14
+101=	David Kelly	Novice	TCD Phil C	75	72	77	73	79	376	75.20	2.56
+101=	Mikołaj Piekutowski	ESL, Novice	Adam Mickiewicz Jungle girls	75	74	75	76	76	376	75.20	0.75
+101=	Karni Shifrin	ESL, Novice	Technion At least here gov doesn’t control	74	79	73	76	74	376	75.20	2.14
+101=	Olivia Ortlieb	Novice	St Andrews If we stand up and cry for 14 minu	77	75	76	72	76	376	75.20	1.72
+110	Zuzanna Rubaszewska	ESL, Novice	Adam Mickiewicz Jungle girls	75	74	74	75	77	375	75.00	1.10
+111=	Luka Maksić	ESL, Novice	PEP DEB8	75	74	77	70	78	374	74.80	2.79
+111=	Luise Stoß	ESL, Novice	Berlin C	71	77	74	78	74	374	74.80	2.48
+111=	Samuel Krech	ESL, Novice	Only the family	76	75	75	74	74	374	74.80	0.75
+114=	Luka Mackic	ESL, Novice	PEP Sintegration	76	75	74	76	72	373	74.60	1.50
+114=	Pavle Mackic	ESL	PEP Sintegration	77	75	74	75	72	373	74.60	1.62
+114=	Hayoung Choi	ESL, Novice	Cambridge CM	76	74	76	74	73	373	74.60	1.20
+117=	Riccardo Tosellini		LDU Id, ego and debater-ego	76	73	72	76	75	372	74.40	1.62
+117=	Tristan Tomilin	ESL	ESDA Chronos Tristan	77	73	73	74	75	372	74.40	1.50
+117=	Carmel Kenneth	ESL	The Neural Netwits	74	77	74	73	74	372	74.40	1.36
+117=	Horia Velciu	ESL	Handsome Bearded Romanians	74	75	77	72	74	372	74.40	1.62
+121=	Mario Ilea Răzvan	ESL, Novice	We&#x27;ll be there soon	74	75	74	74	74	371	74.20	0.40
+121=	Bertalan Andrei-Eduard	ESL, Novice	We&#x27;ll be there soon	73	75	74	75	74	371	74.20	0.75
+121=	Flora Zsoldos	ESL, Novice	HMDA Queen	78	74	75	70	74	371	74.20	2.56
+124=	Adhil Sunil Kumar	Novice	UCL Here for the schnitzel	73	73	72	75	77	370	74.00	1.79
+124=	Preet Patel	Novice	UCL Here for the schnitzel	72	74	72	76	76	370	74.00	1.79
+124=	Dvij Mankad	ESL, Novice	Weizmann DG	74	78	69	74	75	370	74.00	2.90
+124=	Valentin Katzarov	ESL, Novice	BNDT 1	78	73	75	73	71	370	74.00	2.37
+124=	Annamaria Wirtz	Novice	HMDA Slay	78	74	75	71	72	370	74.00	2.45
+124=	Franciska Bethlenfalvy	ESL, Novice	HMDA Queen	75	77	75	71	72	370	74.00	2.19
+124=	Rong Tao	ESL, Novice	Coincidentally the day my mother g	72	75	70	77	76	370	74.00	2.61
+124=	Grzegorz Zińczuk	ESL	Ala&#x27;s boyfriend and his girlfriend	75	79	66	76	74	370	74.00	4.34
+132=	Anne van Gils		ESDA Chronos Generic Platitudes	73	77	73	72	74	369	73.80	1.72
+132=	Sara Doczi	ESL, Novice	HMDA Slay	76	74	76	71	72	369	73.80	2.04
+132=	Mihnea Savulescu	ESL	Handsome Bearded Romanians	73	75	76	72	73	369	73.80	1.47
+135=	Nicolai Glen Cornelis van Kruijsdijk		UBC Pacific Pacifiers	74	77	75	69	73	368	73.60	2.65
+135=	Tristan Trouwen		ESDA Chronos Tristan	76	73	72	72	75	368	73.60	1.62
+135=	Simon Frijns		ESDA Chronos Generic Platitudes	72	76	72	72	76	368	73.60	1.96
+135=	Aleksandar Paskalev	ESL, Novice	BNDT 1	77	73	76	72	70	368	73.60	2.58
+135=	Koen Rabenberg	ESL, Novice	Coincidentally the day my mother g	72	74	71	76	75	368	73.60	1.85
+140	Takeshi Matsuda	ESL	UBC Pacific Pacifiers	74	76	72	70	74	366	73.20	2.04
+141	Gil Amoyal	ESL, Novice	Weizmann DG	73	78	67	72	73	363	72.60	3.50
+142	Nevena Savić	ESL, Novice	BHS DS	75	76	67	71	73	362	72.40	3.20
+143	Emilia Janowska	ESL, Novice	under pressure cooker	75	73	73	68	72	361	72.20	2.32
+144	Csikos Léda Zsuzsa	ESL, Novice	HMDA Beryllium	73	74	63	74	76	360	72.00	4.60
+145=	Lukas Eigėlis	ESL	DISKO WAS ROBBED	75	66	72	71	75	359	71.80	3.31
+145=	Matthias Roshardt	ESL	Pastor&#x27;s favorite choir boys	75	72	69	66	77	359	71.80	3.97
+145=	Emily Tacey	ESL, Novice	HMDA Beryllium	73	74	62	75	75	359	71.80	4.96
+148=	Aleksandra Dudić	ESL, Novice	BHS DS	73	74	67	71	73	358	71.60	2.50
+148=	Bri Norčič (Martin)	ESL, Novice	Ljubljana Duolingo owl	74	71	68	70	75	358	71.60	2.58
+148=	Csillag Jázmin Kiss	ESL, Novice	Budapest EmJ	77	74	75	65	67	358	71.60	4.72
+148=	Hanna Jánoskuti	ESL, Novice	HMDA C	71	68	70	77	72	358	71.60	3.01
+152=	Pia Zupančič	ESL, Novice	Ljubljana Duolingo owl	74	70	68	71	74	357	71.40	2.33
+152=	Krzysztof Majcher	ESL, Novice	under pressure cooker	73	72	72	69	71	357	71.40	1.36
+154	Max Grüner	ESL	Pastor&#x27;s favorite choir boys	74	71	68	66	77	356	71.20	3.97
+155	Márton Szilágyi	ESL, Novice	HMDA C	70	67	71	77	70	355	71.00	3.29
+156=	Emma Grace Decker	Novice	Budapest EmJ	75	74	74	65	66	354	70.80	4.35
+156=	Jan Żuk	ESL, Novice	Warsaw Get Good	71	70	77	64	72	354	70.80	4.17
+158	Pásztor Diána	ESL, Novice	Budapest Dilu	73	77	68	58	77	353	70.60	7.12
+159	Petra Stanojević	ESL, Novice	Singidunum PA?!	73	72	69	71	66	351	70.20	2.48
+160	Andrijana Stojkovic	ESL, Novice	Singidunum PA?!	75	69	68	70	66	348	69.60	3.01
+161=	Bajnai Lucia	ESL, Novice	Budapest Dilu	71	76	67	58	75	347	69.40	6.53
+161=	Vija Turulytė	ESL, Novice	DISKO WAS ROBBED	74	66	69	63	75	347	69.40	4.59
+163	Koppány Csizek	ESL, Novice	Budapest CM	70	76	69	68	62	345	69.00	4.47
+164	Weronika Hupert	ESL, Novice	Warsaw Get Good	70	66	76	62	70	344	68.80	4.66
+165=	Xiyue Yang		CEU 3	67	66	71	63	70	337	67.40	2.87
+165=	Milan Stankovic		CEU 3	68	68	72	59	70	337	67.40	4.45
+167	Speaker 1		DK Wien Swing 1	77	76	81	74	—	308	77.00	2.55
+168	Speaker 2		DK Wien Swing 1	77	77	79	74	—	307	76.75	1.79
+169	Kata Moravecz		CEU 2	68	80	74	80	—	302	75.50	4.97
+170	Ruben Mate Jengibarjan		CEU 2	68	79	72	78	—	297	74.25	4.49
+171	Speaker 1		DK Wien Swing 2	76	74	77	69	—	296	74.00	3.08
+172	Dominik Bąk	ESL, Novice	Adam Mickiewicz Ekipa Remontowa	71	74	72	73	—	290	72.50	1.12
+173	Oskar Turowicz	ESL, Novice	Adam Mickiewicz Ekipa Remontowa	70	73	74	72	—	289	72.25	1.48
+174	Jaodun Muntasir	ESL, Novice	Budapest CM	70	77	69	70	—	286	71.50	3.20
+175	Speaker 2		DK Wien Swing 2	—	—	78	68	—	146	73.00	5.00
+176=	Martha Kliemt	ESL	Berlin B	—	—	—	—	—	—	—	—
+176=	Patricia Porutiu	ESL, Novice	Selling golf 4 real kilometres	—	—	—	—	—	—	—	—
+176=	Porutiu Theodor Aron	ESL	Selling golf 4 real kilometres	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+Pastor&#x27;s favorite choir boys	4th	Closing Opposition	View Ballot	Alexandra McCreadieⒸ , Gil Levi , Lily Ní DhrisceoilⓉ
+BNDT 1	2nd	Opening Government	View Ballot	Alexandra McCreadieⒸ , Gil Levi , Lily Ní DhrisceoilⓉ
+Cambridge Old Age Retirement Centre	1st	Closing Government	View Ballot	Alexandra McCreadieⒸ , Gil Levi , Lily Ní DhrisceoilⓉ
+PEP Sintegration	3rd	Opening Opposition	View Ballot	Alexandra McCreadieⒸ , Gil Levi , Lily Ní DhrisceoilⓉ
+The Neural Netwits	3rd	Opening Opposition	View Ballot	Hadar GoldbergⒸ , Guyberli van Thuijl , György Nemes
+this is just for the team dynamics	1st	Closing Government	View Ballot	Hadar GoldbergⒸ , Guyberli van Thuijl , György Nemes
+Weizmann DR	2nd	Opening Government	View Ballot	Hadar GoldbergⒸ , Guyberli van Thuijl , György Nemes
+Adam Mickiewicz Ekipa Remontowa	4th	Closing Opposition	View Ballot	Hadar GoldbergⒸ , Guyberli van Thuijl , György Nemes
+HMDA C	4th	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Danielle Avidan , Nadja Vujović
+Zürich You&#x27;ll understand when you&#x27;re olde	3rd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Danielle Avidan , Nadja Vujović
+Ljubljana ČmrLJ	1st	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Danielle Avidan , Nadja Vujović
+LDU Id, ego and debater-ego	2nd	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Danielle Avidan , Nadja Vujović
+DK Wien Swing 2	3rd	Opening Government	View Ballot	Lucy McManusⒸ , Yuval Fishman , Daniela AchelusⓉ
+Ljubljana Borut Pahor	2nd	Opening Opposition	View Ballot	Lucy McManusⒸ , Yuval Fishman , Daniela AchelusⓉ
+CEU 2	4th	Closing Government	View Ballot	Lucy McManusⒸ , Yuval Fishman , Daniela AchelusⓉ
+Berlin B	1st	Closing Opposition	View Ballot	Lucy McManusⒸ , Yuval Fishman , Daniela AchelusⓉ
+Singidunum PA?!	4th	Opening Government	View Ballot	Pjotr KosterⒸ , Marta Sanz Wawer
+Haifa AL	1st	Opening Opposition	View Ballot	Pjotr KosterⒸ , Marta Sanz Wawer
+Budapest EmJ	3rd	Closing Opposition	View Ballot	Pjotr KosterⒸ , Marta Sanz Wawer
+TCD Phil B	2nd	Closing Government	View Ballot	Pjotr KosterⒸ , Marta Sanz Wawer
+HMDA Beryllium	4th	Opening Government	View Ballot	Velina AndonovaⒸ , Agnieszka Podstolak , Dominic Ferris
+Two blondes trading barbs	1st	Closing Opposition	View Ballot	Velina AndonovaⒸ , Agnieszka Podstolak , Dominic Ferris
+(English accent) &#x27;You alright luv?	2nd	Opening Opposition	View Ballot	Velina AndonovaⒸ , Agnieszka Podstolak , Dominic Ferris
+Berlin C	3rd	Closing Government	View Ballot	Velina AndonovaⒸ , Agnieszka Podstolak , Dominic Ferris
+Naomi and Alek	1st	Closing Opposition	View Ballot	Marina KojićⒸ , Andras Balazsy , Gal Mercado
+Weizmann DS	3rd	Opening Opposition	View Ballot	Marina KojićⒸ , Andras Balazsy , Gal Mercado
+UCL Here for the schnitzel	4th	Opening Government	View Ballot	Marina KojićⒸ , Andras Balazsy , Gal Mercado
+Belgrade 404 - Name not found	2nd	Closing Government	View Ballot	Marina KojićⒸ , Andras Balazsy , Gal Mercado
+Hydrated Iron (III) Oxide	3rd	Opening Government	View Ballot	Liam UrbanⒸ , Karin Matkovski , Oisin WardⓉ
+EDS POIs N-2	4th	Closing Government	View Ballot	Liam UrbanⒸ , Karin Matkovski , Oisin WardⓉ
+St Andrews If we stand up and cry for 14 minu	2nd	Opening Opposition	View Ballot	Liam UrbanⒸ , Karin Matkovski , Oisin WardⓉ
+Zagreb ET	1st	Closing Opposition	View Ballot	Liam UrbanⒸ , Karin Matkovski , Oisin WardⓉ
+Handsome Bearded Romanians	4th	Opening Government	View Ballot	Uzair TajuddinⒸ , Nina Sołowiej , Michael CriolloⓉ
+Oxford Outlaws	1st	Opening Opposition	View Ballot	Uzair TajuddinⒸ , Nina Sołowiej , Michael CriolloⓉ
+TCD Phil C	3rd	Closing Government	View Ballot	Uzair TajuddinⒸ , Nina Sołowiej , Michael CriolloⓉ
+Sciences Po AB	2nd	Closing Opposition	View Ballot	Uzair TajuddinⒸ , Nina Sołowiej , Michael CriolloⓉ
+DISKO WAS ROBBED	4th	Closing Government	View Ballot	Jack PalmerⒸ , Noam Ottolenghi , Maja PiczmanⓉ
+St Andrews my biggest achievement is getting	1st	Opening Opposition	View Ballot	Jack PalmerⒸ , Noam Ottolenghi , Maja PiczmanⓉ
+Belgrade Šone&#x27;s Girlfriend and Dačić&#x27;s Wife	2nd	Opening Government	View Ballot	Jack PalmerⒸ , Noam Ottolenghi , Maja PiczmanⓉ
+Haifa A&amp;P	3rd	Closing Opposition	View Ballot	Jack PalmerⒸ , Noam Ottolenghi , Maja PiczmanⓉ
+If need carry = carry	1st	Closing Opposition	View Ballot	Alastair BowyerⒸ , Maria Rebecca Augstburger , Rina Hendrie
+under pressure cooker	3rd	Opening Government	View Ballot	Alastair BowyerⒸ , Maria Rebecca Augstburger , Rina Hendrie
+Sheffield we got help from Monash	2nd	Opening Opposition	View Ballot	Alastair BowyerⒸ , Maria Rebecca Augstburger , Rina Hendrie
+Budapest Dilu	4th	Closing Government	View Ballot	Alastair BowyerⒸ , Maria Rebecca Augstburger , Rina Hendrie
+HMDA Queen	3rd	Opening Opposition	View Ballot	Josef MoscoviciⒸ , Aakrati Sharma , Natalija Gavrilović
+ARGO A	1st	Closing Opposition	View Ballot	Josef MoscoviciⒸ , Aakrati Sharma , Natalija Gavrilović
+Only the family	2nd	Opening Government	View Ballot	Josef MoscoviciⒸ , Aakrati Sharma , Natalija Gavrilović
+Ljubljana Duolingo owl	4th	Closing Government	View Ballot	Josef MoscoviciⒸ , Aakrati Sharma , Natalija Gavrilović
+HMDA Slay	2nd	Opening Opposition	View Ballot	Helena HeckeⒸ , Alicia Wang , Zeeshan ChaudaryⓉ
+youtube.com/@structural.reasons	1st	Closing Opposition	View Ballot	Helena HeckeⒸ , Alicia Wang , Zeeshan ChaudaryⓉ
+ESDA Chronos Generic Platitudes	4th	Closing Government	View Ballot	Helena HeckeⒸ , Alicia Wang , Zeeshan ChaudaryⓉ
+Berlin A	3rd	Opening Government	View Ballot	Helena HeckeⒸ , Alicia Wang , Zeeshan ChaudaryⓉ
+Warsaw We is dragon	3rd	Opening Opposition	View Ballot	Dino WildiⒸ , Inbal Spigel , Aljaž SušnikⓉ
+Zagreb A	1st	Closing Opposition	View Ballot	Dino WildiⒸ , Inbal Spigel , Aljaž SušnikⓉ
+BHS DS	4th	Opening Government	View Ballot	Dino WildiⒸ , Inbal Spigel , Aljaž SušnikⓉ
+Cambridge CM	2nd	Closing Government	View Ballot	Dino WildiⒸ , Inbal Spigel , Aljaž SušnikⓉ
+Budapest Fallacy Factory	3rd	Closing Opposition	View Ballot	Paula BreyerⒸ , Michal Tamir , Julian HesseⓉ
+Zagreb C	1st	Closing Government	View Ballot	Paula BreyerⒸ , Michal Tamir , Julian HesseⓉ
+Belgrade K&amp;P	2nd	Opening Opposition	View Ballot	Paula BreyerⒸ , Michal Tamir , Julian HesseⓉ
+CEU 3	4th	Opening Government	View Ballot	Paula BreyerⒸ , Michal Tamir , Julian HesseⓉ
+TAU A&amp;B	1st	Opening Opposition	View Ballot	Fiachra NolanⒸ , Lili Torocsik , Dora Eszter GnadigⓉ
+Imperial getting as far away from eurovisio	2nd	Closing Opposition	View Ballot	Fiachra NolanⒸ , Lili Torocsik , Dora Eszter GnadigⓉ
+ESDA Chronos Tristan	4th	Opening Government	View Ballot	Fiachra NolanⒸ , Lili Torocsik , Dora Eszter GnadigⓉ
+Ben Gurion Romantic vacation	3rd	Closing Government	View Ballot	Fiachra NolanⒸ , Lili Torocsik , Dora Eszter GnadigⓉ
+Bucharest B	2nd	Closing Opposition	View Ballot	Jack StanleyⒸ , Milica Kostin , Shirel Ladyjensky
+HUJI If it&#x27;s horny is it a unicorn?	1st	Closing Government	View Ballot	Jack StanleyⒸ , Milica Kostin , Shirel Ladyjensky
+Weizmann DG	4th	Opening Government	View Ballot	Jack StanleyⒸ , Milica Kostin , Shirel Ladyjensky
+AUBG A	3rd	Opening Opposition	View Ballot	Jack StanleyⒸ , Milica Kostin , Shirel Ladyjensky
+Coincidentally the day my mother g	4th	Opening Government	View Ballot	Matt CaitoⒸ , Aleksandra Auksztulewicz
+ESDA Chronos Freedom for Sealand	1st	Closing Opposition	View Ballot	Matt CaitoⒸ , Aleksandra Auksztulewicz
+Split Mercator	3rd	Opening Opposition	View Ballot	Matt CaitoⒸ , Aleksandra Auksztulewicz
+Belgrade Arts The second worst thing that Serbs	2nd	Closing Government	View Ballot	Matt CaitoⒸ , Aleksandra Auksztulewicz
+EDS Garam Masala Pretzel	3rd	Opening Opposition	View Ballot	Olja BošnjakⒸ , Idan Ben Avi , Yi Zoe Zhu Wang
+Weizmann N&amp;M	2nd	Closing Government	View Ballot	Olja BošnjakⒸ , Idan Ben Avi , Yi Zoe Zhu Wang
+Technion We will overstay our visa	1st	Opening Government	View Ballot	Olja BošnjakⒸ , Idan Ben Avi , Yi Zoe Zhu Wang
+UBC Pacific Pacifiers	4th	Closing Opposition	View Ballot	Olja BošnjakⒸ , Idan Ben Avi , Yi Zoe Zhu Wang
+Weizmann NS	1st	Closing Government	View Ballot	Lara DragojevićⒸ , Yutong Liang , Catarina Lufinha Borges Gonçalves PereiraⓉ
+Technion At least here gov doesn’t control	4th	Opening Government	View Ballot	Lara DragojevićⒸ , Yutong Liang , Catarina Lufinha Borges Gonçalves PereiraⓉ
+DK Wien Swing 1	2nd	Opening Opposition	View Ballot	Lara DragojevićⒸ , Yutong Liang , Catarina Lufinha Borges Gonçalves PereiraⓉ
+Adam Mickiewicz Jungle girls	3rd	Closing Opposition	View Ballot	Lara DragojevićⒸ , Yutong Liang , Catarina Lufinha Borges Gonçalves PereiraⓉ
+We&#x27;ll be there soon	3rd	Closing Government	View Ballot	Eli FerrellⒸ , Joep van Heugten , Tamar Ben Meir
+Warsaw Get Good	4th	Closing Opposition	View Ballot	Eli FerrellⒸ , Joep van Heugten , Tamar Ben Meir
+Technion W&amp;W	1st	Opening Government	View Ballot	Eli FerrellⒸ , Joep van Heugten , Tamar Ben Meir
+PEP DEB8	2nd	Opening Opposition	View Ballot	Eli FerrellⒸ , Joep van Heugten , Tamar Ben Meir
+Ala&#x27;s boyfriend and his girlfriend	3rd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Benjamin J. Speth , Patrick HanleyⓉ
+woshiwangr	2nd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Benjamin J. Speth , Patrick HanleyⓉ
+UCL TN	1st	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Benjamin J. Speth , Patrick HanleyⓉ
+Budapest CM	4th	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Benjamin J. Speth , Patrick HanleyⓉ
+
+
+team	result	side	ballot	adjudicators
+HMDA Slay	3rd	Opening Government	View Ballot	Tamar Ben MeirⒸ , Guyberli van Thuijl , Julian HesseⓉ
+BNDT 1	4th	Closing Opposition	View Ballot	Tamar Ben MeirⒸ , Guyberli van Thuijl , Julian HesseⓉ
+Weizmann N&amp;M	1st	Opening Opposition	View Ballot	Tamar Ben MeirⒸ , Guyberli van Thuijl , Julian HesseⓉ
+St Andrews If we stand up and cry for 14 minu	2nd	Closing Government	View Ballot	Tamar Ben MeirⒸ , Guyberli van Thuijl , Julian HesseⓉ
+EDS Garam Masala Pretzel	3rd	Opening Government	View Ballot	Josef MoscoviciⒸ , Maria Rebecca Augstburger , Lily Ní DhrisceoilⓉ
+Warsaw We is dragon	2nd	Closing Opposition	View Ballot	Josef MoscoviciⒸ , Maria Rebecca Augstburger , Lily Ní DhrisceoilⓉ
+DK Wien Swing 2	4th	Opening Opposition	View Ballot	Josef MoscoviciⒸ , Maria Rebecca Augstburger , Lily Ní DhrisceoilⓉ
+Haifa A&amp;P	1st	Closing Government	View Ballot	Josef MoscoviciⒸ , Maria Rebecca Augstburger , Lily Ní DhrisceoilⓉ
+Only the family	3rd	Closing Opposition	View Ballot	Velina AndonovaⒸ , Régis Gourdel , Shirel Ladyjensky
+woshiwangr	1st	Opening Government	View Ballot	Velina AndonovaⒸ , Régis Gourdel , Shirel Ladyjensky
+Belgrade 404 - Name not found	4th	Opening Opposition	View Ballot	Velina AndonovaⒸ , Régis Gourdel , Shirel Ladyjensky
+Belgrade Šone&#x27;s Girlfriend and Dačić&#x27;s Wife	2nd	Closing Government	View Ballot	Velina AndonovaⒸ , Régis Gourdel , Shirel Ladyjensky
+HMDA Beryllium	1st	Closing Opposition	View Ballot	Liam UrbanⒸ , Inbal Spigel , Maja PiczmanⓉ
+Pastor&#x27;s favorite choir boys	3rd	Closing Government	View Ballot	Liam UrbanⒸ , Inbal Spigel , Maja PiczmanⓉ
+UCL Here for the schnitzel	2nd	Opening Opposition	View Ballot	Liam UrbanⒸ , Inbal Spigel , Maja PiczmanⓉ
+Ljubljana Duolingo owl	4th	Opening Government	View Ballot	Liam UrbanⒸ , Inbal Spigel , Maja PiczmanⓉ
+ARGO A	4th	Opening Opposition	View Ballot	Alexandra McCreadieⒸ , Benjamin J. Speth , Danielle Avidan
+this is just for the team dynamics	1st	Opening Government	View Ballot	Alexandra McCreadieⒸ , Benjamin J. Speth , Danielle Avidan
+Weizmann NS	2nd	Closing Opposition	View Ballot	Alexandra McCreadieⒸ , Benjamin J. Speth , Danielle Avidan
+UCL TN	3rd	Closing Government	View Ballot	Alexandra McCreadieⒸ , Benjamin J. Speth , Danielle Avidan
+HMDA Queen	2nd	Closing Opposition	View Ballot	Dino WildiⒸ , Karin Matkovski , Nina SołowiejⓉ
+under pressure cooker	4th	Opening Opposition	View Ballot	Dino WildiⒸ , Karin Matkovski , Nina SołowiejⓉ
+The Neural Netwits	1st	Closing Government	View Ballot	Dino WildiⒸ , Karin Matkovski , Nina SołowiejⓉ
+Budapest Fallacy Factory	3rd	Opening Government	View Ballot	Dino WildiⒸ , Karin Matkovski , Nina SołowiejⓉ
+Handsome Bearded Romanians	3rd	Closing Opposition	View Ballot	Marina KojićⒸ , Idan Ben Avi , Aljaž SušnikⓉ
+Ben Gurion Romantic vacation	2nd	Opening Opposition	View Ballot	Marina KojićⒸ , Idan Ben Avi , Aljaž SušnikⓉ
+TCD Phil C	4th	Opening Government	View Ballot	Marina KojićⒸ , Idan Ben Avi , Aljaž SušnikⓉ
+Berlin A	1st	Closing Government	View Ballot	Marina KojićⒸ , Idan Ben Avi , Aljaž SušnikⓉ
+Weizmann DS	1st	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Agnieszka Podstolak , Joep van Heugten
+Budapest CM	3rd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Agnieszka Podstolak , Joep van Heugten
+Adam Mickiewicz Jungle girls	4th	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Agnieszka Podstolak , Joep van Heugten
+Berlin C	2nd	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Agnieszka Podstolak , Joep van Heugten
+Technion W&amp;W	2nd	Opening Opposition	View Ballot	Jack StanleyⒸ , Yi Zoe Zhu Wang , Dora Eszter GnadigⓉ
+Technion We will overstay our visa	3rd	Closing Opposition	View Ballot	Jack StanleyⒸ , Yi Zoe Zhu Wang , Dora Eszter GnadigⓉ
+ESDA Chronos Freedom for Sealand	4th	Closing Government	View Ballot	Jack StanleyⒸ , Yi Zoe Zhu Wang , Dora Eszter GnadigⓉ
+Ljubljana ČmrLJ	1st	Opening Government	View Ballot	Jack StanleyⒸ , Yi Zoe Zhu Wang , Dora Eszter GnadigⓉ
+If need carry = carry	3rd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Gil Levi , Klaudia Maciejewska
+Naomi and Alek	2nd	Closing Government	View Ballot	Pjotr KosterⒸ , Gil Levi , Klaudia Maciejewska
+TAU A&amp;B	1st	Closing Opposition	View Ballot	Pjotr KosterⒸ , Gil Levi , Klaudia Maciejewska
+Cambridge Old Age Retirement Centre	4th	Opening Government	View Ballot	Pjotr KosterⒸ , Gil Levi , Klaudia Maciejewska
+DK Wien Swing 1	2nd	Opening Government	View Ballot	Olja BošnjakⒸ , Noam Ottolenghi , Zeeshan ChaudaryⓉ
+TCD Phil B	1st	Closing Opposition	View Ballot	Olja BošnjakⒸ , Noam Ottolenghi , Zeeshan ChaudaryⓉ
+Cambridge CM	3rd	Opening Opposition	View Ballot	Olja BošnjakⒸ , Noam Ottolenghi , Zeeshan ChaudaryⓉ
+PEP DEB8	4th	Closing Government	View Ballot	Olja BošnjakⒸ , Noam Ottolenghi , Zeeshan ChaudaryⓉ
+Oxford Outlaws	4th	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Andras Balazsy , Natalija Gavrilović
+youtube.com/@structural.reasons	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Andras Balazsy , Natalija Gavrilović
+(English accent) &#x27;You alright luv?	2nd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Andras Balazsy , Natalija Gavrilović
+Zagreb ET	3rd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Andras Balazsy , Natalija Gavrilović
+Coincidentally the day my mother g	3rd	Opening Opposition	View Ballot	Alastair BowyerⒸ , Gal Mercado , Daniela AchelusⓉ
+EDS POIs N-2	1st	Closing Opposition	View Ballot	Alastair BowyerⒸ , Gal Mercado , Daniela AchelusⓉ
+Budapest Dilu	2nd	Opening Government	View Ballot	Alastair BowyerⒸ , Gal Mercado , Daniela AchelusⓉ
+Adam Mickiewicz Ekipa Remontowa	4th	Closing Government	View Ballot	Alastair BowyerⒸ , Gal Mercado , Daniela AchelusⓉ
+HMDA C	2nd	Opening Opposition	View Ballot	Lara DragojevićⒸ , Dominic Ferris , Oisin WardⓉ
+DISKO WAS ROBBED	4th	Closing Opposition	View Ballot	Lara DragojevićⒸ , Dominic Ferris , Oisin WardⓉ
+Warsaw Get Good	1st	Opening Government	View Ballot	Lara DragojevićⒸ , Dominic Ferris , Oisin WardⓉ
+CEU 3	3rd	Closing Government	View Ballot	Lara DragojevićⒸ , Dominic Ferris , Oisin WardⓉ
+Singidunum PA?!	4th	Opening Opposition	View Ballot	Lucy McManusⒸ , György Nemes , Catarina Lufinha Borges Gonçalves PereiraⓉ
+Weizmann DG	1st	Closing Government	View Ballot	Lucy McManusⒸ , György Nemes , Catarina Lufinha Borges Gonçalves PereiraⓉ
+ESDA Chronos Tristan	3rd	Closing Opposition	View Ballot	Lucy McManusⒸ , György Nemes , Catarina Lufinha Borges Gonçalves PereiraⓉ
+UBC Pacific Pacifiers	2nd	Opening Government	View Ballot	Lucy McManusⒸ , György Nemes , Catarina Lufinha Borges Gonçalves PereiraⓉ
+Technion At least here gov doesn’t control	2nd	Closing Opposition	View Ballot	Eli FerrellⒸ , Michal Tamir , Michael CriolloⓉ
+ESDA Chronos Generic Platitudes	3rd	Opening Opposition	View Ballot	Eli FerrellⒸ , Michal Tamir , Michael CriolloⓉ
+BHS DS	4th	Closing Government	View Ballot	Eli FerrellⒸ , Michal Tamir , Michael CriolloⓉ
+CEU 2	1st	Opening Government	View Ballot	Eli FerrellⒸ , Michal Tamir , Michael CriolloⓉ
+Sheffield we got help from Monash	4th	Closing Opposition	View Ballot	Helena HeckeⒸ , Aakrati Sharma , Patrick HanleyⓉ
+Weizmann DR	2nd	Opening Opposition	View Ballot	Helena HeckeⒸ , Aakrati Sharma , Patrick HanleyⓉ
+Ljubljana Borut Pahor	1st	Opening Government	View Ballot	Helena HeckeⒸ , Aakrati Sharma , Patrick HanleyⓉ
+LDU Id, ego and debater-ego	3rd	Closing Government	View Ballot	Helena HeckeⒸ , Aakrati Sharma , Patrick HanleyⓉ
+Two blondes trading barbs	1st	Opening Opposition	View Ballot	Matt CaitoⒸ , Marta Sanz Wawer , Milica Kostin
+HUJI If it&#x27;s horny is it a unicorn?	2nd	Closing Opposition	View Ballot	Matt CaitoⒸ , Marta Sanz Wawer , Milica Kostin
+St Andrews my biggest achievement is getting	3rd	Opening Government	View Ballot	Matt CaitoⒸ , Marta Sanz Wawer , Milica Kostin
+Zagreb A	4th	Closing Government	View Ballot	Matt CaitoⒸ , Marta Sanz Wawer , Milica Kostin
+Hydrated Iron (III) Oxide	1st	Closing Opposition	View Ballot	Fiachra NolanⒸ , Yutong Liang , Lili TorocsikⓉ
+Zürich You&#x27;ll understand when you&#x27;re olde	2nd	Opening Opposition	View Ballot	Fiachra NolanⒸ , Yutong Liang , Lili TorocsikⓉ
+Budapest EmJ	4th	Opening Government	View Ballot	Fiachra NolanⒸ , Yutong Liang , Lili TorocsikⓉ
+PEP Sintegration	3rd	Closing Government	View Ballot	Fiachra NolanⒸ , Yutong Liang , Lili TorocsikⓉ
+Imperial getting as far away from eurovisio	4th	Closing Government	View Ballot	Hadar GoldbergⒸ , Mira Eberdorfer , Nadja Vujović , Jakob MrazⓉ
+Haifa AL	1st	Closing Opposition	View Ballot	Hadar GoldbergⒸ , Mira Eberdorfer , Nadja Vujović , Jakob MrazⓉ
+Zagreb C	3rd	Opening Government	View Ballot	Hadar GoldbergⒸ , Mira Eberdorfer , Nadja Vujović , Jakob MrazⓉ
+Berlin B	2nd	Opening Opposition	View Ballot	Hadar GoldbergⒸ , Mira Eberdorfer , Nadja Vujović , Jakob MrazⓉ
+Ala&#x27;s boyfriend and his girlfriend	2nd	Closing Opposition	View Ballot	Uzair TajuddinⒸ , Alicia Wang , Rina Hendrie
+We&#x27;ll be there soon	4th	Opening Opposition	View Ballot	Uzair TajuddinⒸ , Alicia Wang , Rina Hendrie
+Split Mercator	3rd	Closing Government	View Ballot	Uzair TajuddinⒸ , Alicia Wang , Rina Hendrie
+AUBG A	1st	Opening Government	View Ballot	Uzair TajuddinⒸ , Alicia Wang , Rina Hendrie
+Bucharest B	2nd	Closing Government	View Ballot	Jack PalmerⒸ , Aleksandra Auksztulewicz , Yuval Fishman
+Sciences Po AB	3rd	Opening Opposition	View Ballot	Jack PalmerⒸ , Aleksandra Auksztulewicz , Yuval Fishman
+Belgrade K&amp;P	4th	Opening Government	View Ballot	Jack PalmerⒸ , Aleksandra Auksztulewicz , Yuval Fishman
+Belgrade Arts The second worst thing that Serbs	1st	Closing Opposition	View Ballot	Jack PalmerⒸ , Aleksandra Auksztulewicz , Yuval Fishman
+
+
+team	result	side	ballot	adjudicators
+Pastor&#x27;s favorite choir boys	4th	Opening Government	View Ballot	Eli FerrellⒸ , Yuval Fishman , Aljaž SušnikⓉ
+DK Wien Swing 2	1st	Closing Opposition	View Ballot	Eli FerrellⒸ , Yuval Fishman , Aljaž SušnikⓉ
+Budapest CM	3rd	Opening Opposition	View Ballot	Eli FerrellⒸ , Yuval Fishman , Aljaž SušnikⓉ
+Adam Mickiewicz Jungle girls	2nd	Closing Government	View Ballot	Eli FerrellⒸ , Yuval Fishman , Aljaž SušnikⓉ
+woshiwangr	2nd	Closing Opposition	View Ballot	Josef MoscoviciⒸ , Marta Sanz Wawer , Oisin Ward
+HUJI If it&#x27;s horny is it a unicorn?	1st	Opening Opposition	View Ballot	Josef MoscoviciⒸ , Marta Sanz Wawer , Oisin Ward
+Ljubljana Borut Pahor	4th	Closing Government	View Ballot	Josef MoscoviciⒸ , Marta Sanz Wawer , Oisin Ward
+Belgrade Arts The second worst thing that Serbs	3rd	Opening Government	View Ballot	Josef MoscoviciⒸ , Marta Sanz Wawer , Oisin Ward
+under pressure cooker	3rd	Closing Government	View Ballot	Alicia WangⒸ , Benjamin J. Speth , Catarina Lufinha Borges Gonçalves PereiraⓉ
+We&#x27;ll be there soon	2nd	Opening Government	View Ballot	Alicia WangⒸ , Benjamin J. Speth , Catarina Lufinha Borges Gonçalves PereiraⓉ
+Budapest EmJ	1st	Opening Opposition	View Ballot	Alicia WangⒸ , Benjamin J. Speth , Catarina Lufinha Borges Gonçalves PereiraⓉ
+CEU 3	4th	Closing Opposition	View Ballot	Alicia WangⒸ , Benjamin J. Speth , Catarina Lufinha Borges Gonçalves PereiraⓉ
+Budapest Fallacy Factory	1st	Closing Government	View Ballot	Pjotr KosterⒸ , Rina Hendrie , Patrick HanleyⓉ
+UBC Pacific Pacifiers	4th	Opening Opposition	View Ballot	Pjotr KosterⒸ , Rina Hendrie , Patrick HanleyⓉ
+Belgrade 404 - Name not found	3rd	Opening Government	View Ballot	Pjotr KosterⒸ , Rina Hendrie , Patrick HanleyⓉ
+PEP DEB8	2nd	Closing Opposition	View Ballot	Pjotr KosterⒸ , Rina Hendrie , Patrick HanleyⓉ
+Weizmann DS	4th	Closing Opposition	View Ballot	Jack PalmerⒸ , Klaudia Maciejewska , Nadja Vujović
+UCL TN	2nd	Opening Government	View Ballot	Jack PalmerⒸ , Klaudia Maciejewska , Nadja Vujović
+Zagreb ET	3rd	Closing Government	View Ballot	Jack PalmerⒸ , Klaudia Maciejewska , Nadja Vujović
+Belgrade Šone&#x27;s Girlfriend and Dačić&#x27;s Wife	1st	Opening Opposition	View Ballot	Jack PalmerⒸ , Klaudia Maciejewska , Nadja Vujović
+Coincidentally the day my mother g	3rd	Closing Opposition	View Ballot	Dino WildiⒸ , Shirel Ladyjensky , Daniela AchelusⓉ
+UCL Here for the schnitzel	2nd	Closing Government	View Ballot	Dino WildiⒸ , Shirel Ladyjensky , Daniela AchelusⓉ
+ESDA Chronos Generic Platitudes	1st	Opening Government	View Ballot	Dino WildiⒸ , Shirel Ladyjensky , Daniela AchelusⓉ
+Budapest Dilu	4th	Opening Opposition	View Ballot	Dino WildiⒸ , Shirel Ladyjensky , Daniela AchelusⓉ
+BNDT 1	2nd	Opening Opposition	View Ballot	Fiachra NolanⒸ , Aleksandra Auksztulewicz , Zeeshan ChaudaryⓉ
+Technion At least here gov doesn’t control	4th	Closing Government	View Ballot	Fiachra NolanⒸ , Aleksandra Auksztulewicz , Zeeshan ChaudaryⓉ
+Split Mercator	1st	Closing Opposition	View Ballot	Fiachra NolanⒸ , Aleksandra Auksztulewicz , Zeeshan ChaudaryⓉ
+PEP Sintegration	3rd	Opening Government	View Ballot	Fiachra NolanⒸ , Aleksandra Auksztulewicz , Zeeshan ChaudaryⓉ
+HMDA Queen	2nd	Opening Government	View Ballot	Olja BošnjakⒸ , Gal Mercado , Julian HesseⓉ
+EDS POIs N-2	1st	Opening Opposition	View Ballot	Olja BošnjakⒸ , Gal Mercado , Julian HesseⓉ
+Sciences Po AB	3rd	Closing Government	View Ballot	Olja BošnjakⒸ , Gal Mercado , Julian HesseⓉ
+LDU Id, ego and debater-ego	4th	Closing Opposition	View Ballot	Olja BošnjakⒸ , Gal Mercado , Julian HesseⓉ
+HMDA C	2nd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , György Nemes , Jakob MrazⓉ
+HMDA Beryllium	4th	Closing Government	View Ballot	Martha McKinney-PerryⒸ , György Nemes , Jakob MrazⓉ
+Weizmann DG	3rd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , György Nemes , Jakob MrazⓉ
+Ben Gurion Romantic vacation	1st	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , György Nemes , Jakob MrazⓉ
+If need carry = carry	1st	Opening Government	View Ballot	Matt CaitoⒸ , Agnieszka Podstolak , Yutong Liang
+The Neural Netwits	4th	Closing Opposition	View Ballot	Matt CaitoⒸ , Agnieszka Podstolak , Yutong Liang
+Weizmann DR	2nd	Closing Government	View Ballot	Matt CaitoⒸ , Agnieszka Podstolak , Yutong Liang
+Berlin A	3rd	Opening Opposition	View Ballot	Matt CaitoⒸ , Agnieszka Podstolak , Yutong Liang
+St Andrews my biggest achievement is getting	2nd	Closing Opposition	View Ballot	Lara DragojevićⒸ , Noam Ottolenghi , Velina Andonova
+St Andrews If we stand up and cry for 14 minu	3rd	Opening Government	View Ballot	Lara DragojevićⒸ , Noam Ottolenghi , Velina Andonova
+Technion We will overstay our visa	4th	Opening Opposition	View Ballot	Lara DragojevićⒸ , Noam Ottolenghi , Velina Andonova
+AUBG A	1st	Closing Government	View Ballot	Lara DragojevićⒸ , Noam Ottolenghi , Velina Andonova
+Sheffield we got help from Monash	2nd	Opening Government	View Ballot	Lucy McManusⒸ , Andras Balazsy , Joep van Heugten
+Imperial getting as far away from eurovisio	1st	Opening Opposition	View Ballot	Lucy McManusⒸ , Andras Balazsy , Joep van Heugten
+EDS Garam Masala Pretzel	3rd	Closing Opposition	View Ballot	Lucy McManusⒸ , Andras Balazsy , Joep van Heugten
+Belgrade K&amp;P	4th	Closing Government	View Ballot	Lucy McManusⒸ , Andras Balazsy , Joep van Heugten
+Ala&#x27;s boyfriend and his girlfriend	4th	Closing Government	View Ballot	Hadar GoldbergⒸ , Karin Matkovski , Yi Zoe Zhu Wang
+Hydrated Iron (III) Oxide	3rd	Opening Opposition	View Ballot	Hadar GoldbergⒸ , Karin Matkovski , Yi Zoe Zhu Wang
+Bucharest B	2nd	Opening Government	View Ballot	Hadar GoldbergⒸ , Karin Matkovski , Yi Zoe Zhu Wang
+Zagreb C	1st	Closing Opposition	View Ballot	Hadar GoldbergⒸ , Karin Matkovski , Yi Zoe Zhu Wang
+Zürich You&#x27;ll understand when you&#x27;re olde	3rd	Closing Government	View Ballot	Helena HeckeⒸ , Michal Tamir , Lily Ní DhrisceoilⓉ
+Warsaw We is dragon	2nd	Opening Government	View Ballot	Helena HeckeⒸ , Michal Tamir , Lily Ní DhrisceoilⓉ
+Zagreb A	1st	Opening Opposition	View Ballot	Helena HeckeⒸ , Michal Tamir , Lily Ní DhrisceoilⓉ
+CEU 2	4th	Closing Opposition	View Ballot	Helena HeckeⒸ , Michal Tamir , Lily Ní DhrisceoilⓉ
+DISKO WAS ROBBED	1st	Opening Government	View Ballot	Dominic FerrisⒸ , Idan Ben Avi , Nina Sołowiej
+Singidunum PA?!	2nd	Closing Government	View Ballot	Dominic FerrisⒸ , Idan Ben Avi , Nina Sołowiej
+Ljubljana Duolingo owl	3rd	Opening Opposition	View Ballot	Dominic FerrisⒸ , Idan Ben Avi , Nina Sołowiej
+BHS DS	4th	Closing Opposition	View Ballot	Dominic FerrisⒸ , Idan Ben Avi , Nina Sołowiej
+Two blondes trading barbs	2nd	Closing Government	View Ballot	Marina KojićⒸ , Aakrati Sharma , Lili Torocsik
+this is just for the team dynamics	1st	Closing Opposition	View Ballot	Marina KojićⒸ , Aakrati Sharma , Lili Torocsik
+TAU A&amp;B	3rd	Opening Government	View Ballot	Marina KojićⒸ , Aakrati Sharma , Lili Torocsik
+TCD Phil B	4th	Opening Opposition	View Ballot	Marina KojićⒸ , Aakrati Sharma , Lili Torocsik
+(English accent) &#x27;You alright luv?	2nd	Closing Government	View Ballot	Jack StanleyⒸ , Gil Levi , Natalija Gavrilović
+DK Wien Swing 1	1st	Closing Opposition	View Ballot	Jack StanleyⒸ , Gil Levi , Natalija Gavrilović
+Cambridge Old Age Retirement Centre	3rd	Opening Opposition	View Ballot	Jack StanleyⒸ , Gil Levi , Natalija Gavrilović
+Haifa A&amp;P	4th	Opening Government	View Ballot	Jack StanleyⒸ , Gil Levi , Natalija Gavrilović
+ARGO A	2nd	Closing Government	View Ballot	Uzair TajuddinⒸ , Inbal Spigel , Michael Criollo
+Only the family	4th	Opening Opposition	View Ballot	Uzair TajuddinⒸ , Inbal Spigel , Michael Criollo
+Oxford Outlaws	1st	Closing Opposition	View Ballot	Uzair TajuddinⒸ , Inbal Spigel , Michael Criollo
+ESDA Chronos Freedom for Sealand	3rd	Opening Government	View Ballot	Uzair TajuddinⒸ , Inbal Spigel , Michael Criollo
+Handsome Bearded Romanians	2nd	Closing Government	View Ballot	Liam UrbanⒸ , Danielle Avidan , Dora Eszter GnadigⓉ
+ESDA Chronos Tristan	4th	Opening Opposition	View Ballot	Liam UrbanⒸ , Danielle Avidan , Dora Eszter GnadigⓉ
+Adam Mickiewicz Ekipa Remontowa	3rd	Opening Government	View Ballot	Liam UrbanⒸ , Danielle Avidan , Dora Eszter GnadigⓉ
+TCD Phil C	1st	Closing Opposition	View Ballot	Liam UrbanⒸ , Danielle Avidan , Dora Eszter GnadigⓉ
+youtube.com/@structural.reasons	3rd	Opening Opposition	View Ballot	Alastair BowyerⒸ , Maja Piczman , Tamar Ben Meir
+Naomi and Alek	1st	Opening Government	View Ballot	Alastair BowyerⒸ , Maja Piczman , Tamar Ben Meir
+Haifa AL	4th	Closing Government	View Ballot	Alastair BowyerⒸ , Maja Piczman , Tamar Ben Meir
+Ljubljana ČmrLJ	2nd	Closing Opposition	View Ballot	Alastair BowyerⒸ , Maja Piczman , Tamar Ben Meir
+Weizmann N&amp;M	3rd	Closing Opposition	View Ballot	Alexandra McCreadieⒸ , Guyberli van Thuijl , Milica Kostin
+Weizmann NS	4th	Opening Opposition	View Ballot	Alexandra McCreadieⒸ , Guyberli van Thuijl , Milica Kostin
+Technion W&amp;W	2nd	Closing Government	View Ballot	Alexandra McCreadieⒸ , Guyberli van Thuijl , Milica Kostin
+Berlin B	1st	Opening Government	View Ballot	Alexandra McCreadieⒸ , Guyberli van Thuijl , Milica Kostin
+HMDA Slay	3rd	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Maria Rebecca Augstburger
+Warsaw Get Good	2nd	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Maria Rebecca Augstburger
+Cambridge CM	1st	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Maria Rebecca Augstburger
+Berlin C	4th	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Maria Rebecca Augstburger
+
+
+team	result	side	ballot	adjudicators
+HMDA C	2nd	Closing Government	View Ballot	Lucy McManusⒸ , Yi Zoe Zhu Wang , Zeeshan ChaudaryⓉ
+The Neural Netwits	3rd	Opening Government	View Ballot	Lucy McManusⒸ , Yi Zoe Zhu Wang , Zeeshan ChaudaryⓉ
+ESDA Chronos Generic Platitudes	4th	Closing Opposition	View Ballot	Lucy McManusⒸ , Yi Zoe Zhu Wang , Zeeshan ChaudaryⓉ
+ESDA Chronos Freedom for Sealand	1st	Opening Opposition	View Ballot	Lucy McManusⒸ , Yi Zoe Zhu Wang , Zeeshan ChaudaryⓉ
+ARGO A	1st	Opening Government	View Ballot	Helena HeckeⒸ , Inbal Spigel , Natalija Gavrilović
+Warsaw Get Good	4th	Closing Government	View Ballot	Helena HeckeⒸ , Inbal Spigel , Natalija Gavrilović
+TCD Phil C	3rd	Opening Opposition	View Ballot	Helena HeckeⒸ , Inbal Spigel , Natalija Gavrilović
+Berlin A	2nd	Closing Opposition	View Ballot	Helena HeckeⒸ , Inbal Spigel , Natalija Gavrilović
+HMDA Queen	4th	Closing Government	View Ballot	Jack PalmerⒸ , Aleksandra Auksztulewicz , Rina Hendrie
+Imperial getting as far away from eurovisio	1st	Opening Opposition	View Ballot	Jack PalmerⒸ , Aleksandra Auksztulewicz , Rina Hendrie
+Weizmann NS	3rd	Opening Government	View Ballot	Jack PalmerⒸ , Aleksandra Auksztulewicz , Rina Hendrie
+Cambridge Old Age Retirement Centre	2nd	Closing Opposition	View Ballot	Jack PalmerⒸ , Aleksandra Auksztulewicz , Rina Hendrie
+St Andrews my biggest achievement is getting	2nd	Closing Government	View Ballot	Dino WildiⒸ , Benjamin J. Speth , Marina Kojić
+UCL TN	4th	Closing Opposition	View Ballot	Dino WildiⒸ , Benjamin J. Speth , Marina Kojić
+Ben Gurion Romantic vacation	3rd	Opening Government	View Ballot	Dino WildiⒸ , Benjamin J. Speth , Marina Kojić
+Belgrade Arts The second worst thing that Serbs	1st	Opening Opposition	View Ballot	Dino WildiⒸ , Benjamin J. Speth , Marina Kojić
+Sheffield we got help from Monash	1st	Closing Government	View Ballot	Paula BreyerⒸ , Shirel Ladyjensky , Yutong Liang
+Weizmann DG	3rd	Closing Opposition	View Ballot	Paula BreyerⒸ , Shirel Ladyjensky , Yutong Liang
+Budapest EmJ	4th	Opening Government	View Ballot	Paula BreyerⒸ , Shirel Ladyjensky , Yutong Liang
+Berlin C	2nd	Opening Opposition	View Ballot	Paula BreyerⒸ , Shirel Ladyjensky , Yutong Liang
+under pressure cooker	2nd	Closing Opposition	View Ballot	Dominic FerrisⒸ , Jakob Mraz , Julian HesseⓉ
+Budapest Dilu	4th	Opening Government	View Ballot	Dominic FerrisⒸ , Jakob Mraz , Julian HesseⓉ
+Budapest CM	1st	Closing Government	View Ballot	Dominic FerrisⒸ , Jakob Mraz , Julian HesseⓉ
+CEU 3	3rd	Opening Opposition	View Ballot	Dominic FerrisⒸ , Jakob Mraz , Julian HesseⓉ
+Oxford Outlaws	3rd	Opening Government	View Ballot	Jack StanleyⒸ , Hadar Goldberg , Lili Torocsik
+woshiwangr	1st	Opening Opposition	View Ballot	Jack StanleyⒸ , Hadar Goldberg , Lili Torocsik
+Technion W&amp;W	2nd	Closing Opposition	View Ballot	Jack StanleyⒸ , Hadar Goldberg , Lili Torocsik
+DK Wien Swing 1	4th	Closing Government	View Ballot	Jack StanleyⒸ , Hadar Goldberg , Lili Torocsik
+Ala&#x27;s boyfriend and his girlfriend	3rd	Opening Government	View Ballot	Alastair BowyerⒸ , Marta Sanz Wawer , Yuval Fishman , Aljaž SušnikⓉ
+Coincidentally the day my mother g	2nd	Closing Government	View Ballot	Alastair BowyerⒸ , Marta Sanz Wawer , Yuval Fishman , Aljaž SušnikⓉ
+HMDA Beryllium	4th	Opening Opposition	View Ballot	Alastair BowyerⒸ , Marta Sanz Wawer , Yuval Fishman , Aljaž SušnikⓉ
+Belgrade 404 - Name not found	1st	Closing Opposition	View Ballot	Alastair BowyerⒸ , Marta Sanz Wawer , Yuval Fishman , Aljaž SušnikⓉ
+We&#x27;ll be there soon	4th	Closing Opposition	View Ballot	Mira EberdorferⒸ , Michael Criollo , Catarina Lufinha Borges Gonçalves PereiraⓉ
+EDS Garam Masala Pretzel	1st	Closing Government	View Ballot	Mira EberdorferⒸ , Michael Criollo , Catarina Lufinha Borges Gonçalves PereiraⓉ
+Technion At least here gov doesn’t control	2nd	Opening Opposition	View Ballot	Mira EberdorferⒸ , Michael Criollo , Catarina Lufinha Borges Gonçalves PereiraⓉ
+Adam Mickiewicz Jungle girls	3rd	Opening Government	View Ballot	Mira EberdorferⒸ , Michael Criollo , Catarina Lufinha Borges Gonçalves PereiraⓉ
+Hydrated Iron (III) Oxide	4th	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Idan Ben Avi , Noam Ottolenghi
+Budapest Fallacy Factory	3rd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Idan Ben Avi , Noam Ottolenghi
+Zagreb ET	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Idan Ben Avi , Noam Ottolenghi
+Ljubljana Borut Pahor	2nd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Idan Ben Avi , Noam Ottolenghi
+If need carry = carry	2nd	Closing Government	View Ballot	Josef MoscoviciⒸ , György Nemes , Maja Piczman
+youtube.com/@structural.reasons	1st	Opening Government	View Ballot	Josef MoscoviciⒸ , György Nemes , Maja Piczman
+Zagreb C	3rd	Opening Opposition	View Ballot	Josef MoscoviciⒸ , György Nemes , Maja Piczman
+Belgrade Šone&#x27;s Girlfriend and Dačić&#x27;s Wife	4th	Closing Opposition	View Ballot	Josef MoscoviciⒸ , György Nemes , Maja Piczman
+Warsaw We is dragon	2nd	Closing Government	View Ballot	Olja BošnjakⒸ , Milica Kostin , Tamar Ben Meir
+St Andrews If we stand up and cry for 14 minu	4th	Closing Opposition	View Ballot	Olja BošnjakⒸ , Milica Kostin , Tamar Ben Meir
+TCD Phil B	3rd	Opening Opposition	View Ballot	Olja BošnjakⒸ , Milica Kostin , Tamar Ben Meir
+Split Mercator	1st	Opening Government	View Ballot	Olja BošnjakⒸ , Milica Kostin , Tamar Ben Meir
+EDS POIs N-2	1st	Closing Opposition	View Ballot	Fiachra NolanⒸ , Klaudia Maciejewska , Oisin Ward
+Weizmann N&amp;M	3rd	Opening Government	View Ballot	Fiachra NolanⒸ , Klaudia Maciejewska , Oisin Ward
+Zagreb A	2nd	Opening Opposition	View Ballot	Fiachra NolanⒸ , Klaudia Maciejewska , Oisin Ward
+Cambridge CM	4th	Closing Government	View Ballot	Fiachra NolanⒸ , Klaudia Maciejewska , Oisin Ward
+HMDA Slay	3rd	Closing Opposition	View Ballot	Pjotr KosterⒸ , Michal Tamir , Nadja Vujović
+DISKO WAS ROBBED	4th	Opening Opposition	View Ballot	Pjotr KosterⒸ , Michal Tamir , Nadja Vujović
+Technion We will overstay our visa	1st	Closing Government	View Ballot	Pjotr KosterⒸ , Michal Tamir , Nadja Vujović
+Sciences Po AB	2nd	Opening Government	View Ballot	Pjotr KosterⒸ , Michal Tamir , Nadja Vujović
+(English accent) &#x27;You alright luv?	2nd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Gal Mercado , Velina Andonova
+Bucharest B	4th	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Gal Mercado , Velina Andonova
+Weizmann DR	3rd	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Gal Mercado , Velina Andonova
+Haifa AL	1st	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Gal Mercado , Velina Andonova
+Pastor&#x27;s favorite choir boys	4th	Opening Opposition	View Ballot	Liam UrbanⒸ , Lily Ní Dhrisceoil , Dora Eszter GnadigⓉ
+Singidunum PA?!	2nd	Closing Opposition	View Ballot	Liam UrbanⒸ , Lily Ní Dhrisceoil , Dora Eszter GnadigⓉ
+UBC Pacific Pacifiers	3rd	Closing Government	View Ballot	Liam UrbanⒸ , Lily Ní Dhrisceoil , Dora Eszter GnadigⓉ
+Belgrade K&amp;P	1st	Opening Government	View Ballot	Liam UrbanⒸ , Lily Ní Dhrisceoil , Dora Eszter GnadigⓉ
+Handsome Bearded Romanians	4th	Opening Opposition	View Ballot	Eli FerrellⒸ , Nina Sołowiej , Daniela AchelusⓉ
+Only the family	3rd	Closing Government	View Ballot	Eli FerrellⒸ , Nina Sołowiej , Daniela AchelusⓉ
+LDU Id, ego and debater-ego	1st	Opening Government	View Ballot	Eli FerrellⒸ , Nina Sołowiej , Daniela AchelusⓉ
+PEP Sintegration	2nd	Closing Opposition	View Ballot	Eli FerrellⒸ , Nina Sołowiej , Daniela AchelusⓉ
+this is just for the team dynamics	1st	Opening Opposition	View Ballot	Matt CaitoⒸ , Guyberli van Thuijl , Karin Matkovski
+HUJI If it&#x27;s horny is it a unicorn?	3rd	Opening Government	View Ballot	Matt CaitoⒸ , Guyberli van Thuijl , Karin Matkovski
+Ljubljana ČmrLJ	2nd	Closing Opposition	View Ballot	Matt CaitoⒸ , Guyberli van Thuijl , Karin Matkovski
+Berlin B	4th	Closing Government	View Ballot	Matt CaitoⒸ , Guyberli van Thuijl , Karin Matkovski
+BNDT 1	4th	Closing Government	View Ballot	Uzair TajuddinⒸ , Agnieszka Podstolak , Maria Rebecca Augstburger
+Weizmann DS	2nd	Opening Government	View Ballot	Uzair TajuddinⒸ , Agnieszka Podstolak , Maria Rebecca Augstburger
+UCL Here for the schnitzel	3rd	Closing Opposition	View Ballot	Uzair TajuddinⒸ , Agnieszka Podstolak , Maria Rebecca Augstburger
+CEU 2	1st	Opening Opposition	View Ballot	Uzair TajuddinⒸ , Agnieszka Podstolak , Maria Rebecca Augstburger
+Zürich You&#x27;ll understand when you&#x27;re olde	2nd	Closing Opposition	View Ballot	Lara DragojevićⒸ , Aakrati Sharma , Andras Balazsy
+DK Wien Swing 2	4th	Closing Government	View Ballot	Lara DragojevićⒸ , Aakrati Sharma , Andras Balazsy
+PEP DEB8	3rd	Opening Government	View Ballot	Lara DragojevićⒸ , Aakrati Sharma , Andras Balazsy
+Haifa A&amp;P	1st	Opening Opposition	View Ballot	Lara DragojevićⒸ , Aakrati Sharma , Andras Balazsy
+ESDA Chronos Tristan	1st	Closing Government	View Ballot	Alicia WangⒸ , Danielle Avidan , Patrick HanleyⓉ
+Adam Mickiewicz Ekipa Remontowa	2nd	Opening Opposition	View Ballot	Alicia WangⒸ , Danielle Avidan , Patrick HanleyⓉ
+Ljubljana Duolingo owl	4th	Closing Opposition	View Ballot	Alicia WangⒸ , Danielle Avidan , Patrick HanleyⓉ
+BHS DS	3rd	Opening Government	View Ballot	Alicia WangⒸ , Danielle Avidan , Patrick HanleyⓉ
+Two blondes trading barbs	2nd	Opening Government	View Ballot	Alexandra McCreadieⒸ , Gil Levi , Joep van Heugten
+Naomi and Alek	1st	Opening Opposition	View Ballot	Alexandra McCreadieⒸ , Gil Levi , Joep van Heugten
+TAU A&amp;B	3rd	Closing Government	View Ballot	Alexandra McCreadieⒸ , Gil Levi , Joep van Heugten
+AUBG A	4th	Closing Opposition	View Ballot	Alexandra McCreadieⒸ , Gil Levi , Joep van Heugten
+
+
+team	result	side	ballot	adjudicators
+BNDT 1	4th	Closing Government	View Ballot	Benjamin J. SpethⒸ , Dora Eszter Gnadig , Gal Mercado
+ESDA Chronos Tristan	2nd	Opening Government	View Ballot	Benjamin J. SpethⒸ , Dora Eszter Gnadig , Gal Mercado
+UBC Pacific Pacifiers	3rd	Closing Opposition	View Ballot	Benjamin J. SpethⒸ , Dora Eszter Gnadig , Gal Mercado
+Adam Mickiewicz Jungle girls	1st	Opening Opposition	View Ballot	Benjamin J. SpethⒸ , Dora Eszter Gnadig , Gal Mercado
+Pastor&#x27;s favorite choir boys	1st	Closing Government	View Ballot	Régis GourdelⒸ , Catarina Lufinha Borges Gonçalves Pereira , Danielle Avidan
+Budapest Dilu	2nd	Closing Opposition	View Ballot	Régis GourdelⒸ , Catarina Lufinha Borges Gonçalves Pereira , Danielle Avidan
+Ljubljana Duolingo owl	3rd	Opening Government	View Ballot	Régis GourdelⒸ , Catarina Lufinha Borges Gonçalves Pereira , Danielle Avidan
+BHS DS	4th	Opening Opposition	View Ballot	Régis GourdelⒸ , Catarina Lufinha Borges Gonçalves Pereira , Danielle Avidan
+HMDA Beryllium	1st	Closing Government	View Ballot	Maria Rebecca AugstburgerⒸ , Aljaž Sušnik
+We&#x27;ll be there soon	3rd	Opening Government	View Ballot	Maria Rebecca AugstburgerⒸ , Aljaž Sušnik
+DISKO WAS ROBBED	2nd	Opening Opposition	View Ballot	Maria Rebecca AugstburgerⒸ , Aljaž Sušnik
+CEU 3	4th	Closing Opposition	View Ballot	Maria Rebecca AugstburgerⒸ , Aljaž Sušnik
+Coincidentally the day my mother g	2nd	Opening Opposition	View Ballot	Aleksandra AuksztulewiczⒸ , György Nemes , Shirel Ladyjensky
+HMDA Queen	3rd	Closing Government	View Ballot	Aleksandra AuksztulewiczⒸ , György Nemes , Shirel Ladyjensky
+St Andrews If we stand up and cry for 14 minu	1st	Opening Government	View Ballot	Aleksandra AuksztulewiczⒸ , György Nemes , Shirel Ladyjensky
+Belgrade K&amp;P	4th	Closing Opposition	View Ballot	Aleksandra AuksztulewiczⒸ , György Nemes , Shirel Ladyjensky
+Ben Gurion Romantic vacation	4th	Closing Opposition	View Ballot	Alexandra McCreadieⒸ , Alicia Wang , Tamar Ben Meir
+AUBG A	2nd	Closing Government	View Ballot	Alexandra McCreadieⒸ , Alicia Wang , Tamar Ben Meir
+Belgrade Šone&#x27;s Girlfriend and Dačić&#x27;s Wife	1st	Opening Opposition	View Ballot	Alexandra McCreadieⒸ , Alicia Wang , Tamar Ben Meir
+Cambridge CM	3rd	Opening Government	View Ballot	Alexandra McCreadieⒸ , Alicia Wang , Tamar Ben Meir
+Oxford Outlaws	2nd	Opening Opposition	View Ballot	Dino WildiⒸ , Gil Levi , Nadja Vujović
+Sheffield we got help from Monash	3rd	Closing Government	View Ballot	Dino WildiⒸ , Gil Levi , Nadja Vujović
+Weizmann DR	4th	Closing Opposition	View Ballot	Dino WildiⒸ , Gil Levi , Nadja Vujović
+Haifa A&amp;P	1st	Opening Government	View Ballot	Dino WildiⒸ , Gil Levi , Nadja Vujović
+(English accent) &#x27;You alright luv?	3rd	Opening Opposition	View Ballot	Jack PalmerⒸ , Marta Sanz Wawer , Natalija Gavrilović
+Weizmann N&amp;M	4th	Opening Government	View Ballot	Jack PalmerⒸ , Marta Sanz Wawer , Natalija Gavrilović
+St Andrews my biggest achievement is getting	2nd	Closing Opposition	View Ballot	Jack PalmerⒸ , Marta Sanz Wawer , Natalija Gavrilović
+Zagreb ET	1st	Closing Government	View Ballot	Jack PalmerⒸ , Marta Sanz Wawer , Natalija Gavrilović
+Weizmann DG	3rd	Closing Opposition	View Ballot	Paula BreyerⒸ , Joep van Heugten , Yi Zoe Zhu Wang
+TCD Phil C	1st	Opening Government	View Ballot	Paula BreyerⒸ , Joep van Heugten , Yi Zoe Zhu Wang
+PEP DEB8	2nd	Closing Government	View Ballot	Paula BreyerⒸ , Joep van Heugten , Yi Zoe Zhu Wang
+PEP Sintegration	4th	Opening Opposition	View Ballot	Paula BreyerⒸ , Joep van Heugten , Yi Zoe Zhu Wang
+Ala&#x27;s boyfriend and his girlfriend	1st	Opening Opposition	View Ballot	Idan Ben AviⒸ , Andras Balazsy , Nina Sołowiej
+Handsome Bearded Romanians	2nd	Opening Government	View Ballot	Idan Ben AviⒸ , Andras Balazsy , Nina Sołowiej
+Singidunum PA?!	4th	Closing Opposition	View Ballot	Idan Ben AviⒸ , Andras Balazsy , Nina Sołowiej
+Budapest EmJ	3rd	Closing Government	View Ballot	Idan Ben AviⒸ , Andras Balazsy , Nina Sołowiej
+EDS Garam Masala Pretzel	2nd	Opening Opposition	View Ballot	Eli FerrellⒸ , Noam Ottolenghi , Zeeshan Chaudary
+Zürich You&#x27;ll understand when you&#x27;re olde	1st	Closing Government	View Ballot	Eli FerrellⒸ , Noam Ottolenghi , Zeeshan Chaudary
+Sciences Po AB	4th	Closing Opposition	View Ballot	Eli FerrellⒸ , Noam Ottolenghi , Zeeshan Chaudary
+LDU Id, ego and debater-ego	3rd	Opening Government	View Ballot	Eli FerrellⒸ , Noam Ottolenghi , Zeeshan Chaudary
+If need carry = carry	1st	Opening Opposition	View Ballot	Josef MoscoviciⒸ , Karin Matkovski , Velina Andonova
+HUJI If it&#x27;s horny is it a unicorn?	3rd	Closing Government	View Ballot	Josef MoscoviciⒸ , Karin Matkovski , Velina Andonova
+EDS POIs N-2	2nd	Opening Government	View Ballot	Josef MoscoviciⒸ , Karin Matkovski , Velina Andonova
+Technion W&amp;W	4th	Closing Opposition	View Ballot	Josef MoscoviciⒸ , Karin Matkovski , Velina Andonova
+woshiwangr	2nd	Opening Opposition	View Ballot	Jack StanleyⒸ , Lara Dragojević , Yuval Fishman
+youtube.com/@structural.reasons	4th	Closing Government	View Ballot	Jack StanleyⒸ , Lara Dragojević , Yuval Fishman
+this is just for the team dynamics	1st	Opening Government	View Ballot	Jack StanleyⒸ , Lara Dragojević , Yuval Fishman
+Naomi and Alek	3rd	Closing Opposition	View Ballot	Jack StanleyⒸ , Lara Dragojević , Yuval Fishman
+ARGO A	3rd	Opening Opposition	View Ballot	Hadar GoldbergⒸ , Helena Hecke , Lucy McManus , Marina Kojić
+Imperial getting as far away from eurovisio	2nd	Opening Government	View Ballot	Hadar GoldbergⒸ , Helena Hecke , Lucy McManus , Marina Kojić
+Zagreb C	1st	Closing Opposition	View Ballot	Hadar GoldbergⒸ , Helena Hecke , Lucy McManus , Marina Kojić
+Ljubljana Borut Pahor	4th	Closing Government	View Ballot	Hadar GoldbergⒸ , Helena Hecke , Lucy McManus , Marina Kojić
+Hydrated Iron (III) Oxide	1st	Closing Government	View Ballot	Inbal SpigelⒸ , Aakrati Sharma , Julian Hesse
+HMDA Slay	3rd	Opening Opposition	View Ballot	Inbal SpigelⒸ , Aakrati Sharma , Julian Hesse
+The Neural Netwits	2nd	Closing Opposition	View Ballot	Inbal SpigelⒸ , Aakrati Sharma , Julian Hesse
+Warsaw Get Good	4th	Opening Government	View Ballot	Inbal SpigelⒸ , Aakrati Sharma , Julian Hesse
+HMDA C	3rd	Closing Opposition	View Ballot	Pjotr KosterⒸ , Oisin Ward , Yutong Liang
+Weizmann DS	1st	Opening Government	View Ballot	Pjotr KosterⒸ , Oisin Ward , Yutong Liang
+UCL Here for the schnitzel	2nd	Closing Government	View Ballot	Pjotr KosterⒸ , Oisin Ward , Yutong Liang
+Budapest CM	4th	Opening Opposition	View Ballot	Pjotr KosterⒸ , Oisin Ward , Yutong Liang
+TAU A&amp;B	2nd	Closing Opposition	View Ballot	Uzair TajuddinⒸ , Dominic Ferris , Klaudia Maciejewska , Martha McKinney-Perry
+Zagreb A	1st	Opening Government	View Ballot	Uzair TajuddinⒸ , Dominic Ferris , Klaudia Maciejewska , Martha McKinney-Perry
+Split Mercator	3rd	Opening Opposition	View Ballot	Uzair TajuddinⒸ , Dominic Ferris , Klaudia Maciejewska , Martha McKinney-Perry
+Berlin B	4th	Closing Government	View Ballot	Uzair TajuddinⒸ , Dominic Ferris , Klaudia Maciejewska , Martha McKinney-Perry
+Bucharest B	4th	Closing Opposition	View Ballot	Olja BošnjakⒸ , Guyberli van Thuijl , Michal Tamir
+Budapest Fallacy Factory	2nd	Opening Opposition	View Ballot	Olja BošnjakⒸ , Guyberli van Thuijl , Michal Tamir
+TCD Phil B	1st	Opening Government	View Ballot	Olja BošnjakⒸ , Guyberli van Thuijl , Michal Tamir
+Berlin C	3rd	Closing Government	View Ballot	Olja BošnjakⒸ , Guyberli van Thuijl , Michal Tamir
+Only the family	3rd	Opening Opposition	View Ballot	Milica KostinⒸ , Lily Ní Dhrisceoil , Michael Criollo
+under pressure cooker	4th	Opening Government	View Ballot	Milica KostinⒸ , Lily Ní Dhrisceoil , Michael Criollo
+Technion At least here gov doesn’t control	2nd	Closing Opposition	View Ballot	Milica KostinⒸ , Lily Ní Dhrisceoil , Michael Criollo
+ESDA Chronos Generic Platitudes	1st	Closing Government	View Ballot	Milica KostinⒸ , Lily Ní Dhrisceoil , Michael Criollo
+Two blondes trading barbs	2nd	Closing Government	View Ballot	Matt CaitoⒸ , Alastair Bowyer , Rina Hendrie
+Haifa AL	1st	Opening Government	View Ballot	Matt CaitoⒸ , Alastair Bowyer , Rina Hendrie
+Ljubljana ČmrLJ	3rd	Opening Opposition	View Ballot	Matt CaitoⒸ , Alastair Bowyer , Rina Hendrie
+Belgrade Arts The second worst thing that Serbs	4th	Closing Opposition	View Ballot	Matt CaitoⒸ , Alastair Bowyer , Rina Hendrie
+Weizmann NS	1st	Closing Opposition	View Ballot	Fiachra NolanⒸ , Agnieszka Podstolak , Daniela Achelus
+UCL TN	4th	Closing Government	View Ballot	Fiachra NolanⒸ , Agnieszka Podstolak , Daniela Achelus
+Belgrade 404 - Name not found	3rd	Opening Opposition	View Ballot	Fiachra NolanⒸ , Agnieszka Podstolak , Daniela Achelus
+Cambridge Old Age Retirement Centre	2nd	Opening Government	View Ballot	Fiachra NolanⒸ , Agnieszka Podstolak , Daniela Achelus
+Warsaw We is dragon	2nd	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Lili Torocsik , Maja Piczman
+Technion We will overstay our visa	1st	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Lili Torocsik , Maja Piczman
+ESDA Chronos Freedom for Sealand	4th	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Lili Torocsik , Maja Piczman
+Berlin A	3rd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Lili Torocsik , Maja Piczman
+
+
+team	result	side	adjudicators
+this is just for the team dynamics	eliminated	Closing Opposition	Fiachra NolanⒸ , Josef Moscovici , Lili Torocsik
+Zagreb ET	advancing	Opening Opposition	Fiachra NolanⒸ , Josef Moscovici , Lili Torocsik
+Zagreb A	advancing	Closing Government	Fiachra NolanⒸ , Josef Moscovici , Lili Torocsik
+Belgrade Šone&#x27;s Girlfriend and Dačić&#x27;s Wife	eliminated	Opening Government	Fiachra NolanⒸ , Josef Moscovici , Lili Torocsik
+youtube.com/@structural.reasons	advancing	Opening Government	Jack StanleyⒸ , Karin Matkovski , Matt Caito
+Naomi and Alek	advancing	Closing Opposition	Jack StanleyⒸ , Karin Matkovski , Matt Caito
+HUJI If it&#x27;s horny is it a unicorn?	eliminated	Opening Opposition	Jack StanleyⒸ , Karin Matkovski , Matt Caito
+Haifa AL	eliminated	Closing Government	Jack StanleyⒸ , Karin Matkovski , Matt Caito
+If need carry = carry	advancing	Closing Government	Uzair TajuddinⒸ , Paula Breyer , Velina Andonova
+woshiwangr	advancing	Opening Government	Uzair TajuddinⒸ , Paula Breyer , Velina Andonova
+TAU A&amp;B	eliminated	Opening Opposition	Uzair TajuddinⒸ , Paula Breyer , Velina Andonova
+Zagreb C	eliminated	Closing Opposition	Uzair TajuddinⒸ , Paula Breyer , Velina Andonova
+Two blondes trading barbs	advancing	Opening Government	Jack PalmerⒸ , Eli Ferrell , Marina Kojić
+EDS POIs N-2	eliminated	Opening Opposition	Jack PalmerⒸ , Eli Ferrell , Marina Kojić
+St Andrews my biggest achievement is getting	eliminated	Closing Government	Jack PalmerⒸ , Eli Ferrell , Marina Kojić
+Ljubljana ČmrLJ	advancing	Closing Opposition	Jack PalmerⒸ , Eli Ferrell , Marina Kojić
+
+
+team	result	side	adjudicators
+ARGO A	advancing	Opening Government	Helena HeckeⒸ , Pjotr Koster , Tamar Ben Meir
+AUBG A	eliminated	Closing Government	Helena HeckeⒸ , Pjotr Koster , Tamar Ben Meir
+Belgrade Arts The second worst thing that Serbs	advancing	Closing Opposition	Helena HeckeⒸ , Pjotr Koster , Tamar Ben Meir
+Haifa A&amp;P	eliminated	Opening Opposition	Helena HeckeⒸ , Pjotr Koster , Tamar Ben Meir
+Warsaw We is dragon	eliminated	Opening Opposition	Martha McKinney-PerryⒸ , Alastair Bowyer , Olja Bošnjak
+Weizmann DS	eliminated	Closing Opposition	Martha McKinney-PerryⒸ , Alastair Bowyer , Olja Bošnjak
+Technion W&amp;W	advancing	Closing Government	Martha McKinney-PerryⒸ , Alastair Bowyer , Olja Bošnjak
+Technion We will overstay our visa	advancing	Opening Government	Martha McKinney-PerryⒸ , Alastair Bowyer , Olja Bošnjak
+
+
+team	result	side	adjudicators
+EDS Garam Masala Pretzel	advancing	Opening Government	Zach Godley-McAvoyⒸ , Alicia Wang , Dino Wildi , Klaudia Maciejewska
+Weizmann NS	eliminated	Closing Opposition	Zach Godley-McAvoyⒸ , Alicia Wang , Dino Wildi , Klaudia Maciejewska
+St Andrews If we stand up and cry for 14 minu	eliminated	Closing Government	Zach Godley-McAvoyⒸ , Alicia Wang , Dino Wildi , Klaudia Maciejewska
+Ben Gurion Romantic vacation	eliminated	Opening Opposition	Zach Godley-McAvoyⒸ , Alicia Wang , Dino Wildi , Klaudia Maciejewska
+
+
+team	result	side	adjudicators
+If need carry = carry	advancing	Closing Opposition	Josef MoscoviciⒸ , Marina Kojić , Uzair Tajuddin , Velina Andonova , Zach Godley-McAvoy
+woshiwangr	eliminated	Opening Opposition	Josef MoscoviciⒸ , Marina Kojić , Uzair Tajuddin , Velina Andonova , Zach Godley-McAvoy
+Two blondes trading barbs	eliminated	Opening Government	Josef MoscoviciⒸ , Marina Kojić , Uzair Tajuddin , Velina Andonova , Zach Godley-McAvoy
+Ljubljana ČmrLJ	advancing	Closing Government	Josef MoscoviciⒸ , Marina Kojić , Uzair Tajuddin , Velina Andonova , Zach Godley-McAvoy
+youtube.com/@structural.reasons	advancing	Opening Government	Alexandra McCreadieⒸ , Klaudia Maciejewska , Liam Urban , Matt Caito , Paula Breyer
+Naomi and Alek	advancing	Opening Opposition	Alexandra McCreadieⒸ , Klaudia Maciejewska , Liam Urban , Matt Caito , Paula Breyer
+Zagreb ET	eliminated	Closing Opposition	Alexandra McCreadieⒸ , Klaudia Maciejewska , Liam Urban , Matt Caito , Paula Breyer
+Zagreb A	eliminated	Closing Government	Alexandra McCreadieⒸ , Klaudia Maciejewska , Liam Urban , Matt Caito , Paula Breyer
+
+
+team	result	side	adjudicators
+ARGO A	eliminated	Opening Government	Hadar GoldbergⒸ , Jack Palmer , Jack Stanley , Olja Bošnjak , Pjotr Koster
+Technion W&amp;W	advancing	Opening Opposition	Hadar GoldbergⒸ , Jack Palmer , Jack Stanley , Olja Bošnjak , Pjotr Koster
+Technion We will overstay our visa	eliminated	Closing Opposition	Hadar GoldbergⒸ , Jack Palmer , Jack Stanley , Olja Bošnjak , Pjotr Koster
+Belgrade Arts The second worst thing that Serbs	eliminated	Closing Government	Hadar GoldbergⒸ , Jack Palmer , Jack Stanley , Olja Bošnjak , Pjotr Koster
+
+
+team	result	side	adjudicators
+If need carry = carry	eliminated	Closing Opposition	Matt CaitoⒸ , Alicia Wang , Marina Kojić , Tamar Ben Meir , Uzair Tajuddin
+youtube.com/@structural.reasons	eliminated	Closing Government	Matt CaitoⒸ , Alicia Wang , Marina Kojić , Tamar Ben Meir , Uzair Tajuddin
+Naomi and Alek	advancing	Opening Government	Matt CaitoⒸ , Alicia Wang , Marina Kojić , Tamar Ben Meir , Uzair Tajuddin
+Ljubljana ČmrLJ	eliminated	Opening Opposition	Matt CaitoⒸ , Alicia Wang , Marina Kojić , Tamar Ben Meir , Uzair Tajuddin
+

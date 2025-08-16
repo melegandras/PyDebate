@@ -1,0 +1,736 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	XU 1		1st	2nd	1st	1st	2nd	13	797	3	2
+2	SV B		1st	1st	3rd	1st	1st	13	794	4	0
+3	DTU A		1st	1st	2nd	2nd	1st	13	792	3	2
+4	DDUC A		1st	3rd	1st	1st	2nd	12	787	3	1
+5	UNILORIN E		1st	1st	1st	1st	4th	12	785	4	0
+6	BAC A		1st	2nd	2nd	2nd	1st	12	785	2	3
+7	UNILORIN P		2nd	1st	1st	2nd	3rd	11	786	2	2
+8	SAS 1	Novice	3rd	2nd	2nd	1st	1st	11	776	2	2
+9	ABSU A		1st	3rd	2nd	2nd	1st	11	774	2	2
+10	UNILORIN D		1st	3rd	1st	2nd	2nd	11	773	2	2
+11	KNUST D		1st	3rd	1st	1st	3rd	11	766	3	0
+12	UNILORIN C	Novice	2nd	2nd	2nd	2nd	1st	11	758	1	4
+13	DTU B		1st	1st	1st	3rd	4th	10	787	3	0
+14	NLUO 1		1st	1st	3rd	4th	1st	10	781	3	0
+15	DRC D		3rd	1st	1st	3rd	2nd	10	780	2	1
+16	UPV 2		1st	2nd	2nd	3rd	2nd	10	780	1	3
+17	Star Academy 1		1st	4th	1st	1st	3rd	10	775	3	0
+18	KNUST C	Novice	2nd	4th	1st	2nd	1st	10	775	2	2
+19	Witwatersrand 1		4th	1st	3rd	1st	1st	10	761	3	0
+20	Johannesburg A		2nd	1st	4th	3rd	1st	9	772	2	1
+21	UN Nsukka 3		2nd	2nd	2nd	3rd	2nd	9	771	0	4
+22	KNUST O	Novice	2nd	2nd	4th	1st	2nd	9	770	1	3
+23	Johannesburg C		4th	1st	1st	1st	4th	9	766	3	0
+24	Kyambogo A		3rd	1st	3rd	1st	3rd	9	766	2	0
+25	RPDA RL	Novice	4th	1st	2nd	2nd	2nd	9	766	1	3
+26	Kenyatta A		3rd	3rd	1st	1st	3rd	9	765	2	0
+27	London B	Novice	2nd	1st	4th	3rd	1st	9	764	2	1
+28	RAIPUR A	Novice	1st	1st	2nd	4th	3rd	9	762	2	1
+29	UNILORIN I	Novice	1st	2nd	2nd	4th	2nd	9	759	1	3
+30	Oxford A		1st	4th	—	1st	1st	9	607	3	0
+31	Swing James		—	1st	1st	—	1st	9	458	3	0
+32	GC A		2nd	1st	3rd	3rd	3rd	8	770	1	1
+33	UCC C	Novice	2nd	4th	1st	2nd	3rd	8	767	1	2
+34	DAV A		2nd	2nd	4th	3rd	1st	8	765	1	2
+35	FTU A		2nd	2nd	4th	2nd	2nd	8	760	0	4
+36	UG A	Novice	3rd	3rd	1st	4th	1st	8	759	2	0
+37=	MUST 5		1st	2nd	4th	2nd	3rd	8	759	1	2
+37=	OSU 2		1st	4th	2nd	3rd	2nd	8	759	1	2
+39	London A	Novice	3rd	2nd	2nd	1st	4th	8	757	1	2
+40	UNILORIN G	Novice	1st	4th	4th	1st	2nd	8	749	2	1
+41	UNILORIN B	Novice	1st	3rd	1st	4th	4th	7	768	2	0
+42	Nnamdi Azakiwe 4	Novice	4th	1st	1st	3rd	4th	7	763	2	0
+43	DRC B		2nd	1st	3rd	3rd	4th	7	763	1	1
+44	UCC F	Novice	2nd	4th	2nd	2nd	3rd	7	755	0	3
+45	SUST 1		2nd	3rd	4th	1st	3rd	7	754	1	1
+46	Nnamdi Azakiwe 2		4th	2nd	2nd	1st	4th	7	752	1	2
+47	UNILORIN F	Novice	3rd	3rd	3rd	2nd	2nd	7	752	0	2
+48	UHAS 1	Novice	4th	3rd	1st	4th	1st	7	751	2	0
+49	UG F		3rd	1st	3rd	4th	2nd	7	740	1	1
+50	UCC E	Novice	1st	3rd	3rd	4th	3rd	6	765	1	0
+51	UCC H	Novice	3rd	2nd	3rd	2nd	4th	6	763	0	2
+52	MU A		2nd	4th	2nd	4th	2nd	6	762	0	3
+53	EWUDC A	Novice	2nd	3rd	1st	4th	4th	6	758	1	1
+54	NITR 2		1st	2nd	4th	4th	3rd	6	757	1	1
+55	UCC B	Novice	3rd	2nd	4th	4th	1st	6	750	1	1
+56	AUD A	Novice	4th	4th	2nd	3rd	1st	6	747	1	1
+57	DRC A	Novice	3rd	4th	3rd	2nd	2nd	6	746	0	2
+58	Dschang 1		3rd	1st	2nd	4th	4th	6	745	1	1
+59	KNUST A		1st	4th	3rd	3rd	3rd	6	745	1	0
+60	UN Nsukka 4		3rd	4th	3rd	2nd	3rd	5	750	0	1
+61	NITR 1		3rd	2nd	4th	2nd	4th	5	746	0	2
+62	Buea 1		4th	1st	3rd	3rd	4th	5	744	1	0
+63	UCC G	Novice	4th	2nd	4th	1st	4th	5	741	1	1
+64	EWUDC C	Novice	4th	4th	1st	3rd	3rd	5	737	1	0
+65	UBOTSWANA 2	Novice	—	4th	3rd	2nd	2nd	5	594	0	2
+66	UG D		3rd	1st	3rd	—	—	5	455	1	0
+67	Great Zimbabwe A		3rd	3rd	—	—	1st	5	452	1	0
+68	FLSS A	Novice	2nd	3rd	4th	3rd	4th	4	752	0	1
+69	KUKC A	Novice	4th	4th	2nd	3rd	3rd	4	733	0	1
+70	DRC C	Novice	3rd	1st	4th	4th	—	4	605	1	0
+71	UNILORIN M	Novice	3rd	4th	3rd	—	2nd	4	592	0	1
+72	Nnamdi Azakiwe 3		4th	3rd	2nd	—	3rd	4	590	0	1
+73	Johannesburg B		1st	4th	3rd	—	—	4	463	1	0
+74	CNLU 1		2nd	3rd	3rd	—	—	4	453	0	1
+75	Beta Swing		—	3rd	1st	—	—	4	300	1	0
+76	GIST A	Novice	4th	3rd	4th	3rd	3rd	3	749	0	0
+77=	Kabale B	Novice	3rd	4th	4th	4th	2nd	3	739	0	1
+77=	NYABIKONI A		4th	3rd	2nd	4th	4th	3	739	0	1
+79	MSU 1		4th	2nd	3rd	4th	4th	3	736	0	1
+80	Swing Ball		3rd	—	2nd	—	—	3	306	0	1
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Stdev	Avg
+1	James Cachola		XU 1	79	80	80	81	80	400	0.63	80.00
+2	Narayan Sharma		SV B	79	80	78	81	81	399	1.17	79.80
+3	Nicolo Macoy		XU 1	78	80	79	80	80	397	0.80	79.40
+4	Vansh Chadha		DTU A	79	79	79	79	80	396	0.40	79.20
+5	Angad Singh		DTU A	78	79	80	79	80	396	0.75	79.20
+6	Salleh		BAC A	79	78	79	81	78	395	1.10	79.00
+7	Mahesh R		SV B	78	78	78	81	80	395	1.26	79.00
+8	Robin Ahuja		DDUC A	79	78	78	80	79	394	0.75	78.80
+9	Sodiq Farhan A		UNILORIN P	78	80	77	79	80	394	1.17	78.80
+10	Keshav Mohan		DTU B	77	82	81	77	77	394	2.23	78.80
+11	Lavanya Puri		DDUC A	78	79	79	79	78	393	0.49	78.60
+12	Oloruntoyin Muhammadbaqir Akorede		UNILORIN E	77	80	78	79	79	393	1.02	78.60
+13	Ashutosh Bahuguna		DTU B	78	80	80	78	77	393	1.20	78.60
+14=	Halimat Ojone Usman		UNILORIN P	77	80	77	79	79	392	1.20	78.40
+14=	Ibrahim Idris		UNILORIN E	77	80	77	79	79	392	1.20	78.40
+16	Abeer Haroon		DRC D	76	78	79	80	78	391	1.33	78.20
+17	Kushagra Dash		NLUO 1	79	79	74	79	80	391	2.14	78.20
+18	Kim Nocon		UPV 2	78	78	78	78	78	390	0.00	78.00
+19	Ivy Pilatan		UPV 2	79	78	77	78	78	390	0.63	78.00
+20=	Ezeri chidinma Grace		ABSU A	78	77	77	78	80	390	1.10	78.00
+20=	Cheng		BAC A	78	77	78	80	77	390	1.10	78.00
+22	Kaushik Das		NLUO 1	79	78	75	78	80	390	1.67	78.00
+23	Belinda Nketia	Novice	KNUST C	77	76	78	80	78	389	1.33	77.80
+24	Bilal Najaf		Star Academy 1	79	76	79	79	76	389	1.47	77.80
+25	Riya Gupta		DRC D	76	77	80	79	77	389	1.47	77.80
+26=	Siyabonga Ndebele		Johannesburg A	77	79	77	76	79	388	1.20	77.60
+26=	Shiven Kunal	Novice	SAS 1	77	77	77	77	80	388	1.20	77.60
+28	Ayodele Samuel		UNILORIN D	80	77	78	76	77	388	1.36	77.60
+29	Chaewon Kim	Novice	SAS 1	76	77	76	79	80	388	1.62	77.60
+30	Emmanuel Ngozichukwu		UN Nsukka 3	76	78	77	76	79	386	1.17	77.20
+31=	Treshan		Star Academy 1	79	76	78	78	75	386	1.47	77.20
+31=	Prarthna Jhawar		GC A	78	79	78	76	75	386	1.47	77.20
+33	Bernard Opoku Baah	Novice	KNUST O	75	79	76	81	75	386	2.40	77.20
+34=	Collins Chinonso		UN Nsukka 3	76	76	77	77	79	385	1.10	77.00
+34=	Ayomide Atolagbe	Novice	UNILORIN B	78	77	78	77	75	385	1.10	77.00
+36	Kien-Minh Ngo		DAV A	79	77	77	78	74	385	1.67	77.00
+37=	Leodine Sithole	Novice	RPDA RL	75	77	78	78	76	384	1.17	76.80
+37=	Jonathan Agbetsoamedo	Novice	UCC C	78	75	77	76	78	384	1.17	76.80
+39=	Dominic Stanley Marcus		ABSU A	75	76	77	77	79	384	1.33	76.80
+39=	Kavya Papreja		GC A	77	79	77	75	76	384	1.33	76.80
+41	Nana Yaa Ntodi	Novice	KNUST D	77	74	77	78	78	384	1.47	76.80
+42	Onyeka Mirabelle	Novice	Nnamdi Azakiwe 4	74	79	79	77	75	384	2.04	76.80
+43	Peter Elianu Atoto		Kyambogo A	75	78	76	77	77	383	1.02	76.60
+44=	Poul Oyala Luop		Kyambogo A	75	78	76	78	76	383	1.20	76.60
+44=	Anjani Chauhan		DRC B	78	78	76	75	76	383	1.20	76.60
+46	Ajake Israel		OSU 2	78	75	78	75	77	383	1.36	76.60
+47=	Elijah Oyindamola	Novice	UNILORIN B	77	76	79	77	74	383	1.62	76.60
+47=	Naika Gooneratne	Novice	London B	75	79	75	76	78	383	1.62	76.60
+49	Perez Nguono		Kenyatta A	76	75	78	80	74	383	2.15	76.60
+50	Dorvlo Desmond		KNUST D	77	75	76	77	77	382	0.80	76.40
+51=	Fortunate Samuel Okello		MU A	78	75	77	76	76	382	1.02	76.40
+51=	Isabela Mumu Rozario	Novice	EWUDC A	76	77	78	76	75	382	1.02	76.40
+53=	Raymond Moyo	Novice	RPDA RL	75	76	77	79	75	382	1.50	76.40
+53=	Bukhosi Mpofu		Witwatersrand 1	75	75	76	77	79	382	1.50	76.40
+55	Nana Opoku Frimpong	Novice	UCC E	79	77	77	75	74	382	1.74	76.40
+56	Godfred Nana Boakye	Novice	UCC H	77	77	76	79	73	382	1.96	76.40
+57	Nqobizitha Mncube		Johannesburg C	73	76	79	79	75	382	2.33	76.40
+58	Vishma Arachchi	Novice	London B	75	77	75	77	77	381	0.98	76.20
+59	Owolabi Victor Oluwatobi	Novice	UNILORIN I	75	77	76	75	78	381	1.17	76.20
+60	Vrinda Chaturvedi	Novice	RAIPUR A	79	76	76	74	76	381	1.60	76.20
+61=	Ashlesha Pandey	Novice	RAIPUR A	78	77	76	73	77	381	1.72	76.20
+61=	Phan Yen Minh		FTU A	77	77	73	78	76	381	1.72	76.20
+63	Jackline Ballang	Novice	UCC H	76	76	75	80	74	381	2.04	76.20
+64	Ayebare Denise		MU A	76	75	77	76	76	380	0.63	76.00
+65	Muskan		NITR 2	77	76	77	75	75	380	0.89	76.00
+66	Nitiksha Tyagi		DRC B	77	77	76	74	76	380	1.10	76.00
+67	Oderanti Olamilekan Joshua	Novice	UNILORIN C	73	77	76	77	77	380	1.55	76.00
+68=	Emmanuel Akpagli	Novice	UG A	75	75	79	74	77	380	1.79	76.00
+68=	Mutungisa Edgar		MUST 5	77	78	73	77	75	380	1.79	76.00
+68=	Hien-Do Thi Thu		DAV A	78	76	74	78	74	380	1.79	76.00
+71	Kyewalyanga Henry	Novice	MUST 5	77	77	74	76	75	379	1.17	75.80
+72	Joel Wontumi	Novice	UG A	75	75	78	74	77	379	1.47	75.80
+73	Emma Greeff		Witwatersrand 1	73	75	77	77	77	379	1.60	75.80
+74	Lihn Dang Hoang	Novice	London A	75	74	78	78	74	379	1.83	75.80
+75	Chekwubechukwu Agwaraonye	Novice	Nnamdi Azakiwe 4	73	78	78	76	74	379	2.04	75.80
+76	Huynh Vinh Thuy		FTU A	75	78	72	77	77	379	2.14	75.80
+77	Haneef Mohammed Saani	Novice	UCC F	77	75	76	76	74	378	1.02	75.60
+78=	Peace John-Kalio	Novice	UNILORIN I	75	78	76	74	75	378	1.36	75.60
+78=	Gastin Gabriel	Novice	London A	76	74	77	77	74	378	1.36	75.60
+80	Ibitoye Oyindamola Priscilla	Novice	UNILORIN C	72	77	76	77	76	378	1.85	75.60
+81=	Jeremiah Emmanuel		UN Nsukka 4	75	76	76	74	76	377	0.80	75.40
+81=	Sai Vanshika		NITR 2	76	76	76	74	75	377	0.80	75.40
+83	Rayan		SUST 1	76	77	74	76	74	377	1.20	75.40
+84	Vũ Ngô Ái Khanh	Novice	FLSS A	77	77	75	74	74	377	1.36	75.40
+85	Nusrat Charu		SUST 1	76	77	73	75	76	377	1.36	75.40
+86	Chinaka Chigozie Daniel.		Nnamdi Azakiwe 2	73	74	78	79	73	377	2.58	75.40
+87=	Nadhratan Adeoti		OSU 2	76	75	76	74	75	376	0.75	75.20
+87=	Chole	Novice	GIST A	75	76	74	76	75	376	0.75	75.20
+87=	Md. Faishal Ahmed Rudro	Novice	EWUDC A	75	76	76	75	74	376	0.75	75.20
+90=	Hassan Abubakar	Novice	UNILORIN F	76	78	75	75	72	376	1.94	75.20
+90=	Hassan Usman	Novice	UNILORIN F	77	77	76	74	72	376	1.94	75.20
+92	Kelvin Delali Azameti-Mensah	Novice	UHAS 1	76	70	78	75	77	376	2.79	75.20
+93	Arowolo Olayemi Joshua	Novice	UNILORIN G	75	75	76	74	75	375	0.63	75.00
+94	Manuella Coffie	Novice	UCC B	75	78	76	73	73	375	1.90	75.00
+95	Esi Bentuma Nortey	Novice	UCC B	73	79	76	74	73	375	2.28	75.00
+96	Bright Goku	Novice	UHAS 1	75	70	78	76	76	375	2.68	75.00
+97	Vaishnavi Goel	Novice	AUD A	74	74	76	75	75	374	0.75	74.80
+98	Aditi	Novice	DRC A	76	74	72	75	77	374	1.72	74.80
+99	Simran Singh	Novice	AUD A	74	75	76	74	74	373	0.80	74.60
+100	Banseka Rigobert Nsa		Dschang 1	76	75	75	73	74	373	1.02	74.60
+101	Azoribe Blessing		UN Nsukka 4	74	76	73	74	76	373	1.20	74.60
+102=	Harsh Baid		NITR 1	74	78	75	73	73	373	1.85	74.60
+102=	Sonakshi Satpathy		NITR 1	73	78	75	74	73	373	1.85	74.60
+104	Suparna	Novice	DRC A	75	74	71	76	76	372	1.85	74.40
+105	Tebson Haruna Mohammed	Novice	UCC G	75	75	73	75	73	371	0.98	74.20
+106	MUHUMUZA EVARIST		NYABIKONI A	74	75	77	70	74	370	2.28	74.00
+107	Jessica Afi Fayose		KNUST A	76	72	76	77	69	370	3.03	74.00
+108	Takunda Musengi		MSU 1	74	76	74	73	72	369	1.33	73.80
+109	Abdul Mutalib Iddrisu		UG F	70	75	75	73	76	369	2.14	73.80
+110	ANKUNDA PROSSY		NYABIKONI A	74	74	78	70	73	369	2.56	73.80
+111	Mahamudul Hasan Durlov	Novice	EWUDC C	74	69	77	73	76	369	2.79	73.80
+112	Shahjadi Fananna Kotha	Novice	EWUDC C	74	68	78	73	75	368	3.26	73.60
+113	AMUTUHEIRE DIANAH	Novice	KUKC A	72	75	76	73	71	367	1.85	73.40
+114	Ashemeza Eryn	Novice	Kabale C	75	72	74	72	70	363	1.74	72.60
+115	Ayebare onesmus	Novice	Kabale C	75	70	72	72	70	359	1.83	71.80
+116	Gideon opeyemi Faith Durnsin		UNILORIN D	79	—	78	76	76	309	1.30	77.25
+117	Joyce Delali Kpeglo	Novice	KNUST C	78	75	77	79	—	309	1.48	77.25
+118	Tehoho Lekhetha		Johannesburg C	75	—	79	79	75	308	2.00	77.00
+119	Yichen Huang		Oxford A	77	74	—	78	76	305	1.48	76.25
+120	Aarti Sharma	Novice	DRC C	76	79	73	75	—	303	2.17	75.75
+121	Ahumuza Levicato	Novice	Kabale B	77	73	—	76	76	302	1.50	75.50
+122	Simran Behl	Novice	DRC C	76	78	74	74	—	302	1.66	75.50
+123	Jerry Tang	Novice	Oxford A	76	72	—	79	75	302	2.50	75.50
+124	Ijioma Chinedum		Nnamdi Azakiwe 2	72	74	78	78	—	302	2.60	75.50
+125	Vũ Ngọc Lan Nhi	Novice	FLSS A	76	77	74	74	—	301	1.30	75.25
+126	Ruby Njonde	Novice	UBOTSWANA 2	—	73	75	79	74	301	2.28	75.25
+127	Rachel Hong	Novice	GIST A	74	—	74	76	75	299	0.83	74.75
+128	Ebubechukwu		Nnamdi Azakiwe 3	73	77	73	—	73	296	1.73	74.00
+129	AbdulQayyum Yussuf	Novice	UNILORIN M	73	73	77	—	72	295	1.92	73.75
+130	Oppong Daniel Date		UG F	69	76	76	74	—	295	2.86	73.75
+131	Ikeoba Pius		Nnamdi Azakiwe 3	73	76	73	—	72	294	1.50	73.50
+132	Darcey Njonde	Novice	UBOTSWANA 2	—	72	73	75	73	293	1.09	73.25
+133	TUSIIME JAMESON	Novice	KUKC A	72	—	76	72	71	291	1.92	72.75
+134	Alhassan Umuhairu	Novice	KNUST O	76	77	—	80	—	233	1.70	77.67
+135	Zibusiso Moyo		Johannesburg B	80	76	76	—	—	232	1.89	77.33
+136	Junior Khumalo		Johannesburg B	79	75	77	—	—	231	1.63	77.00
+137	Emmanuel Ofosu Oduro	Novice	UCC E	79	—	—	76	75	230	1.70	76.67
+138	Abigael Eminza		Kenyatta A	75	75	79	—	—	229	1.89	76.33
+139	Hjlk		Swing James	—	73	77	—	79	229	2.49	76.33
+140	Ritul Aryan Tripathy		CNLU 1	76	77	75	—	—	228	0.82	76.00
+141	Eleazar Asase		KNUST A	78	73	77	—	—	228	2.16	76.00
+142	Calem Darko		UG D	73	80	75	—	—	228	2.94	76.00
+143=	Natasha Karimakwenda		Johannesburg A	76	—	76	75	—	227	0.47	75.67
+143=	Ghkd		Swing Leg	76	76	75	—	—	227	0.47	75.67
+145	Kwabena Addae Marfo		UG D	73	79	75	—	—	227	2.49	75.67
+146	Godwin Jonathan	Novice	UNILORIN G	76	75	75	—	—	226	0.47	75.33
+147	Petiho Beatrice		Buea 1	74	—	77	75	—	226	1.25	75.33
+148	Nqobile Maphosa		Great Zimbabwe A	77	73	—	—	76	226	1.70	75.33
+149=	Shehar Bano		PULC 1	75	74	76	—	—	225	0.82	75.00
+149=	Seval Jain		CNLU 1	75	76	74	—	—	225	0.82	75.00
+151	Abdusalam Abdulqoyum	Novice	UNILORIN M	74	74	77	—	—	225	1.41	75.00
+152	Mai Bemsii William Junior		Dschang 1	75	—	—	73	74	222	0.82	74.00
+153	Ian Mudiwa		MSU 1	74	76	—	—	71	221	2.05	73.67
+154	Aineobusigye Godwin	Novice	Kabale B	76	—	70	74	—	220	2.49	73.33
+155	Kwaku Boakye Gyamfi	Novice	UCC D	69	76	75	—	—	220	3.09	73.33
+156	Michael Akangye	Novice	UCC D	69	75	74	—	—	218	2.62	72.67
+157	Tabe Etchok Desmond Bessong		Buea 1	73	—	—	76	69	218	2.87	72.67
+158	Hj		Swing Ball	77	—	77	—	—	154	0.00	77.00
+159=	Alexandra Adotey	Novice	UCC C	—	—	76	—	77	153	0.50	76.50
+159=	Speaker 1		Omega Swing	77	—	76	—	—	153	0.50	76.50
+
+
+team	result	side	adjudicators
+NLUO 1	1st	Opening Government	Pushpit SinghⒸ , Martin Mireku
+NYABIKONI A	4th	Closing Opposition	Pushpit SinghⒸ , Martin Mireku
+SAS 1	3rd	Opening Opposition	Pushpit SinghⒸ , Martin Mireku
+GC A	2nd	Closing Government	Pushpit SinghⒸ , Martin Mireku
+MU A	2nd	Closing Opposition	Jayeesh AroraⒸ , RainⓉ
+PUP 1	3rd	Opening Opposition	Jayeesh AroraⒸ , RainⓉ
+SV B	1st	Closing Government	Jayeesh AroraⒸ , RainⓉ
+Swing Leg	4th	Opening Government	Jayeesh AroraⒸ , RainⓉ
+Swing	2nd	Closing Government	Becky AlekⒸ , Ahana Chaudhuri
+LU A	4th	Closing Opposition	Becky AlekⒸ , Ahana Chaudhuri
+XU 1	1st	Opening Government	Becky AlekⒸ , Ahana Chaudhuri
+Swing Jerita	3rd	Opening Opposition	Becky AlekⒸ , Ahana Chaudhuri
+UN Nsukka 4	3rd	Closing Opposition	Himanshi WadhwaⒸ , Olayinka Olamide Esther
+UNILORIN G	1st	Opening Opposition	Himanshi WadhwaⒸ , Olayinka Olamide Esther
+SV A	2nd	Opening Government	Himanshi WadhwaⒸ , Olayinka Olamide Esther
+AUD A	4th	Closing Government	Himanshi WadhwaⒸ , Olayinka Olamide Esther
+RPDA RL	4th	Closing Government	Thembani KhumaloⒸ , Vanshika Kalra
+DTU A	1st	Opening Government	Thembani KhumaloⒸ , Vanshika Kalra
+Dschang 1	3rd	Opening Opposition	Thembani KhumaloⒸ , Vanshika Kalra
+FLSS A	2nd	Closing Opposition	Thembani KhumaloⒸ , Vanshika Kalra
+ABSU A	1st	Closing Government	Joy HadomeⒸ , Serg Mascot
+UG A	3rd	Closing Opposition	Joy HadomeⒸ , Serg Mascot
+Swing nugget	2nd	Opening Government	Joy HadomeⒸ , Serg Mascot
+Buea 1	4th	Opening Opposition	Joy HadomeⒸ , Serg Mascot
+Johannesburg C	4th	Opening Opposition	Elgin LinⒸ , Pratap Chandra SenⓉ
+KNUST D	1st	Closing Opposition	Elgin LinⒸ , Pratap Chandra SenⓉ
+Kyambogo A	3rd	Closing Government	Elgin LinⒸ , Pratap Chandra SenⓉ
+CNLU 1	2nd	Opening Government	Elgin LinⒸ , Pratap Chandra SenⓉ
+UCC H	3rd	Opening Opposition	OluwaTobilobaⒸ
+UNILORIN D	1st	Closing Government	OluwaTobilobaⒸ
+UNILORIN J	4th	Opening Government	OluwaTobilobaⒸ
+DAV A	2nd	Closing Opposition	OluwaTobilobaⒸ
+UNILORIN O	4th	Opening Opposition	Utkarsh PandeyⒸ
+Star Academy 1	1st	Closing Opposition	Utkarsh PandeyⒸ
+DRC C	3rd	Closing Government	Utkarsh PandeyⒸ
+DRC B	2nd	Opening Government	Utkarsh PandeyⒸ
+Nnamdi Azakiwe 2	4th	Opening Government	Zach Godley-McAvoyⒸ , Hamza Nouman
+KNUST O	2nd	Closing Opposition	Zach Godley-McAvoyⒸ , Hamza Nouman
+UG D	3rd	Closing Government	Zach Godley-McAvoyⒸ , Hamza Nouman
+OSU 2	1st	Opening Opposition	Zach Godley-McAvoyⒸ , Hamza Nouman
+Swing Cricket	2nd	Opening Opposition	Oisín BrowneⒸ , Harshitha S
+UPV 2	1st	Closing Opposition	Oisín BrowneⒸ , Harshitha S
+Swing Ball	3rd	Opening Government	Oisín BrowneⒸ , Harshitha S
+Witwatersrand 1	4th	Closing Government	Oisín BrowneⒸ , Harshitha S
+UN Nsukka 2	3rd	Closing Opposition	Comfort AyelomiⒸ
+KNUST C	2nd	Opening Opposition	Comfort AyelomiⒸ
+UCC E	1st	Closing Government	Comfort AyelomiⒸ
+Kabale C	4th	Opening Government	Comfort AyelomiⒸ
+RAIPUR A	1st	Closing Government	Sergio Adu-NontwiriⒸ , Alisha Pattanayak
+ULUSAKA 1	4th	Opening Government	Sergio Adu-NontwiriⒸ , Alisha Pattanayak
+UNILORIN P	2nd	Closing Opposition	Sergio Adu-NontwiriⒸ , Alisha Pattanayak
+Great Zimbabwe A	3rd	Opening Opposition	Sergio Adu-NontwiriⒸ , Alisha Pattanayak
+DTU B	1st	Opening Opposition	Shubh PipaliaⒸ , Ukpe Sophia , Avika SInghⓉ
+SUST 1	2nd	Opening Government	Shubh PipaliaⒸ , Ukpe Sophia , Avika SInghⓉ
+UNITALKS 1	3rd	Closing Opposition	Shubh PipaliaⒸ , Ukpe Sophia , Avika SInghⓉ
+EWUDC C	4th	Closing Government	Shubh PipaliaⒸ , Ukpe Sophia , Avika SInghⓉ
+Johannesburg A	2nd	Closing Government	Donkor ArchimedesⒸ , Lindsey Bonsu
+UCC G	4th	Closing Opposition	Donkor ArchimedesⒸ , Lindsey Bonsu
+UNILORIN E	1st	Opening Government	Donkor ArchimedesⒸ , Lindsey Bonsu
+DRC D	3rd	Opening Opposition	Donkor ArchimedesⒸ , Lindsey Bonsu
+MSU 1	4th	Opening Government	Lame BusangⒸ , Maafia Comfort
+KNUST A	1st	Closing Government	Lame BusangⒸ , Maafia Comfort
+DRC A	3rd	Opening Opposition	Lame BusangⒸ , Maafia Comfort
+FTU A	2nd	Closing Opposition	Lame BusangⒸ , Maafia Comfort
+PULC 1	4th	Opening Opposition	Shruti PoddarⒸ , Paul Lorenz L. AltaresⓉ
+UCC F	2nd	Opening Government	Shruti PoddarⒸ , Paul Lorenz L. AltaresⓉ
+UNILORIN F	3rd	Closing Government	Shruti PoddarⒸ , Paul Lorenz L. AltaresⓉ
+DDUC A	1st	Closing Opposition	Shruti PoddarⒸ , Paul Lorenz L. AltaresⓉ
+Johannesburg B	1st	Closing Opposition	Archi guptaⒸ , All Shafa Sadia OyshoriⓉ
+UHAS 1	4th	Opening Opposition	Archi guptaⒸ , All Shafa Sadia OyshoriⓉ
+UCC C	2nd	Closing Government	Archi guptaⒸ , All Shafa Sadia OyshoriⓉ
+Kabale B	3rd	Opening Government	Archi guptaⒸ , All Shafa Sadia OyshoriⓉ
+UN Nsukka 3	2nd	Closing Opposition	Soumitra TonapiⒸ , Furgurson Dawuda Abubakari Awuni
+Kenyatta A	3rd	Opening Government	Soumitra TonapiⒸ , Furgurson Dawuda Abubakari Awuni
+KUKC A	4th	Closing Government	Soumitra TonapiⒸ , Furgurson Dawuda Abubakari Awuni
+BAC A	1st	Opening Opposition	Soumitra TonapiⒸ , Furgurson Dawuda Abubakari Awuni
+UG F	3rd	Opening Government	Henry KofiⒸ , Jonathan GodwinⓉ
+MUST 5	1st	Opening Opposition	Henry KofiⒸ , Jonathan GodwinⓉ
+UCC D	4th	Closing Government	Henry KofiⒸ , Jonathan GodwinⓉ
+UNILORIN C	2nd	Closing Opposition	Henry KofiⒸ , Jonathan GodwinⓉ
+Nnamdi Azakiwe 3	4th	Opening Opposition	Darth VaderⒸ , Meghana Srinivas
+UG C	2nd	Closing Government	Darth VaderⒸ , Meghana Srinivas
+UNILORIN M	3rd	Closing Opposition	Darth VaderⒸ , Meghana Srinivas
+UNILORIN I	1st	Opening Government	Darth VaderⒸ , Meghana Srinivas
+NITR 2	1st	Closing Government	Erasmus Elorm AgboⒸ
+NITR 1	3rd	Opening Government	Erasmus Elorm AgboⒸ
+London B	2nd	Opening Opposition	Erasmus Elorm AgboⒸ
+EWUDC B	4th	Closing Opposition	Erasmus Elorm AgboⒸ
+UNILORIN B	1st	Closing Government	Gladstone ClementⒸ
+London A	3rd	Opening Opposition	Gladstone ClementⒸ
+Omega Swing	2nd	Opening Government	Gladstone ClementⒸ
+GIST A	4th	Closing Opposition	Gladstone ClementⒸ
+Nnamdi Azakiwe 4	4th	Closing Opposition	Alishba IrfanⒸ , Precious Ugochukwu
+UCC B	3rd	Opening Government	Alishba IrfanⒸ , Precious Ugochukwu
+Oxford A	1st	Opening Opposition	Alishba IrfanⒸ , Precious Ugochukwu
+EWUDC A	2nd	Closing Government	Alishba IrfanⒸ , Precious Ugochukwu
+
+
+team	result	side	adjudicators
+KNUST C	4th	Opening Government	Becky AlekⒸ
+DRC B	1st	Closing Government	Becky AlekⒸ
+Swing Leg	3rd	Closing Opposition	Becky AlekⒸ
+DAV A	2nd	Opening Opposition	Becky AlekⒸ
+UN Nsukka 4	4th	Opening Government	Sergio Adu-NontwiriⒸ , Vanshika Kalra
+UG D	1st	Opening Opposition	Sergio Adu-NontwiriⒸ , Vanshika Kalra
+UCC B	2nd	Closing Government	Sergio Adu-NontwiriⒸ , Vanshika Kalra
+UNILORIN F	3rd	Closing Opposition	Sergio Adu-NontwiriⒸ , Vanshika Kalra
+PULC 1	4th	Opening Government	Maafia ComfortⒸ
+UCC D	2nd	Closing Opposition	Maafia ComfortⒸ
+Buea 1	1st	Closing Government	Maafia ComfortⒸ
+GIST A	3rd	Opening Opposition	Maafia ComfortⒸ
+UN Nsukka 3	2nd	Closing Government	Oisín BrowneⒸ , OluwaTobiloba
+UCC F	4th	Closing Opposition	Oisín BrowneⒸ , OluwaTobiloba
+CNLU 1	3rd	Opening Opposition	Oisín BrowneⒸ , OluwaTobiloba
+GC A	1st	Opening Government	Oisín BrowneⒸ , OluwaTobiloba
+Nnamdi Azakiwe 2	2nd	Opening Opposition	Donkor ArchimedesⒸ , Akankwatsa Paul
+UBOTSWANA 2	4th	Opening Government	Donkor ArchimedesⒸ , Akankwatsa Paul
+Witwatersrand 1	1st	Closing Opposition	Donkor ArchimedesⒸ , Akankwatsa Paul
+EWUDC B	3rd	Closing Government	Donkor ArchimedesⒸ , Akankwatsa Paul
+ABSU A	3rd	Opening Government	Archi guptaⒸ , Meghana Srinivas
+UPV 2	2nd	Opening Opposition	Archi guptaⒸ , Meghana Srinivas
+SV B	1st	Closing Opposition	Archi guptaⒸ , Meghana Srinivas
+Star Academy 1	4th	Closing Government	Archi guptaⒸ , Meghana Srinivas
+Johannesburg C	1st	Closing Opposition	Himanshi WadhwaⒸ , Hamza Nouman
+LU A	3rd	Opening Opposition	Himanshi WadhwaⒸ , Hamza Nouman
+COMSU 1	2nd	Closing Government	Himanshi WadhwaⒸ , Hamza Nouman
+AUD A	4th	Opening Government	Himanshi WadhwaⒸ , Hamza Nouman
+UNITALKS 1	4th	Opening Opposition	Utkarsh PandeyⒸ , Martin Mireku
+London A	2nd	Opening Government	Utkarsh PandeyⒸ , Martin Mireku
+Great Zimbabwe A	3rd	Closing Opposition	Utkarsh PandeyⒸ , Martin Mireku
+Dschang 1	1st	Closing Government	Utkarsh PandeyⒸ , Martin Mireku
+Johannesburg A	1st	Closing Opposition	Pushpit SinghⒸ , Lindsey Bonsu
+SUST 1	3rd	Closing Government	Pushpit SinghⒸ , Lindsey Bonsu
+UCC C	4th	Opening Government	Pushpit SinghⒸ , Lindsey Bonsu
+FTU A	2nd	Opening Opposition	Pushpit SinghⒸ , Lindsey Bonsu
+UG A	3rd	Opening Government	Ethan John FloroⒸ , All Shafa Sadia Oyshori
+UNILORIN M	4th	Opening Opposition	Ethan John FloroⒸ , All Shafa Sadia Oyshori
+SAS 1	2nd	Closing Government	Ethan John FloroⒸ , All Shafa Sadia Oyshori
+DRC D	1st	Closing Opposition	Ethan John FloroⒸ , All Shafa Sadia Oyshori
+KNUST O	2nd	Opening Opposition	Comfort AyelomiⒸ , Okuku James Junior
+UNILORIN P	1st	Closing Government	Comfort AyelomiⒸ , Okuku James Junior
+SV A	4th	Closing Opposition	Comfort AyelomiⒸ , Okuku James Junior
+FLSS A	3rd	Opening Government	Comfort AyelomiⒸ , Okuku James Junior
+KNUST A	4th	Opening Government	Jeronya MbiatatⒸ , Paul Lorenz L. Altares
+KNUST D	3rd	Closing Government	Jeronya MbiatatⒸ , Paul Lorenz L. Altares
+RAIPUR A	1st	Opening Opposition	Jeronya MbiatatⒸ , Paul Lorenz L. Altares
+NITR 2	2nd	Closing Opposition	Jeronya MbiatatⒸ , Paul Lorenz L. Altares
+RPDA RL	1st	Opening Opposition	Jayeesh AroraⒸ , Samuel Ackom
+MSU 1	2nd	Closing Government	Jayeesh AroraⒸ , Samuel Ackom
+KUKC A	4th	Opening Government	Jayeesh AroraⒸ , Samuel Ackom
+Beta Swing	3rd	Closing Opposition	Jayeesh AroraⒸ , Samuel Ackom
+DTU B	1st	Opening Government	Maria MakelveⒸ , Zach Godley-McAvoy
+XU 1	2nd	Closing Government	Maria MakelveⒸ , Zach Godley-McAvoy
+UNILORIN G	4th	Closing Opposition	Maria MakelveⒸ , Zach Godley-McAvoy
+DDUC A	3rd	Opening Opposition	Maria MakelveⒸ , Zach Godley-McAvoy
+Nnamdi Azakiwe 4	1st	Closing Government	Lame BusangⒸ
+ULUSAKA 1	2nd	Opening Opposition	Lame BusangⒸ
+UNILORIN J	4th	Closing Opposition	Lame BusangⒸ
+NYABIKONI A	3rd	Opening Government	Lame BusangⒸ
+UG F	1st	Closing Government	Joy HadomeⒸ
+UCC G	2nd	Opening Opposition	Joy HadomeⒸ
+Kabale B	4th	Closing Opposition	Joy HadomeⒸ
+UNILORIN O	3rd	Opening Government	Joy HadomeⒸ
+Nnamdi Azakiwe 3	3rd	Closing Government	Gladstone ClementⒸ , Furgurson Dawuda Abubakari Awuni
+UN Nsukka 2	4th	Opening Opposition	Gladstone ClementⒸ , Furgurson Dawuda Abubakari Awuni
+NITR 1	2nd	Closing Opposition	Gladstone ClementⒸ , Furgurson Dawuda Abubakari Awuni
+DRC C	1st	Opening Government	Gladstone ClementⒸ , Furgurson Dawuda Abubakari Awuni
+DTU A	1st	Closing Opposition	Anaïs KneppersⒸ , Jonathan Godwin , Olayinka Olamide Esther
+OSU 2	4th	Closing Government	Anaïs KneppersⒸ , Jonathan Godwin , Olayinka Olamide Esther
+UCC E	3rd	Opening Government	Anaïs KneppersⒸ , Jonathan Godwin , Olayinka Olamide Esther
+UNILORIN I	2nd	Opening Opposition	Anaïs KneppersⒸ , Jonathan Godwin , Olayinka Olamide Esther
+UCC H	2nd	Opening Government	Harshitha SⒸ , Alisha Pattanayak
+Kenyatta A	3rd	Closing Government	Harshitha SⒸ , Alisha Pattanayak
+Kyambogo A	1st	Opening Opposition	Harshitha SⒸ , Alisha Pattanayak
+DRC A	4th	Closing Opposition	Harshitha SⒸ , Alisha Pattanayak
+UHAS 1	3rd	Closing Opposition	Soumitra TonapiⒸ , Pratap Chandra Sen
+Swing James	1st	Opening Opposition	Soumitra TonapiⒸ , Pratap Chandra Sen
+Kabale C	2nd	Closing Government	Soumitra TonapiⒸ , Pratap Chandra Sen
+EWUDC C	4th	Opening Government	Soumitra TonapiⒸ , Pratap Chandra Sen
+Johannesburg B	4th	Closing Government	Shubh PipaliaⒸ , Precious Ugochukwu
+NLUO 1	1st	Closing Opposition	Shubh PipaliaⒸ , Precious Ugochukwu
+UNILORIN B	3rd	Opening Opposition	Shubh PipaliaⒸ , Precious Ugochukwu
+BAC A	2nd	Opening Government	Shubh PipaliaⒸ , Precious Ugochukwu
+MU A	4th	Closing Government	Ryoji YoshisadaⒸ , Ahana Chaudhuri , Dongbin Lee
+UNILORIN C	2nd	Opening Opposition	Ryoji YoshisadaⒸ , Ahana Chaudhuri , Dongbin Lee
+London B	1st	Closing Opposition	Ryoji YoshisadaⒸ , Ahana Chaudhuri , Dongbin Lee
+EWUDC A	3rd	Opening Government	Ryoji YoshisadaⒸ , Ahana Chaudhuri , Dongbin Lee
+MUST 5	2nd	Closing Government	Elgin LinⒸ , Darth Vader , Rain
+UNILORIN D	3rd	Closing Opposition	Elgin LinⒸ , Darth Vader , Rain
+UNILORIN E	1st	Opening Opposition	Elgin LinⒸ , Darth Vader , Rain
+Oxford A	4th	Opening Government	Elgin LinⒸ , Darth Vader , Rain
+
+
+team	result	side	adjudicators
+Kenyatta A	1st	Closing Opposition	Joy HadomeⒸ
+Swing Ball	2nd	Closing Government	Joy HadomeⒸ
+Swing Leg	4th	Opening Government	Joy HadomeⒸ
+Omega Swing	3rd	Opening Opposition	Joy HadomeⒸ
+Johannesburg B	3rd	Opening Government	Maafia ComfortⒸ , Sergio Adu-Nontwiri
+Nnamdi Azakiwe 4	1st	Opening Opposition	Maafia ComfortⒸ , Sergio Adu-Nontwiri
+UNILORIN G	4th	Closing Government	Maafia ComfortⒸ , Sergio Adu-Nontwiri
+London A	2nd	Closing Opposition	Maafia ComfortⒸ , Sergio Adu-Nontwiri
+KNUST D	1st	Opening Government	Soumitra TonapiⒸ , Meghana Srinivas
+UG D	3rd	Closing Opposition	Soumitra TonapiⒸ , Meghana Srinivas
+UNILORIN C	2nd	Closing Government	Soumitra TonapiⒸ , Meghana Srinivas
+DRC C	4th	Opening Opposition	Soumitra TonapiⒸ , Meghana Srinivas
+UN Nsukka 4	3rd	Opening Opposition	Harshitha SⒸ , Serg Mascot
+Swing James	1st	Closing Government	Harshitha SⒸ , Serg Mascot
+AUD A	2nd	Closing Opposition	Harshitha SⒸ , Serg Mascot
+GIST A	4th	Opening Government	Harshitha SⒸ , Serg Mascot
+UBOTSWANA 2	3rd	Closing Government	All Shafa Sadia OyshoriⒸ , Jonathan Godwin
+KUKC A	2nd	Opening Opposition	All Shafa Sadia OyshoriⒸ , Jonathan Godwin
+Alpha Swing	4th	Opening Government	All Shafa Sadia OyshoriⒸ , Jonathan Godwin
+EWUDC C	1st	Closing Opposition	All Shafa Sadia OyshoriⒸ , Jonathan Godwin
+Nnamdi Azakiwe 3	2nd	Closing Opposition	Donkor ArchimedesⒸ
+Kabale B	4th	Closing Government	Donkor ArchimedesⒸ
+Beta Swing	1st	Opening Opposition	Donkor ArchimedesⒸ
+DRC A	3rd	Opening Government	Donkor ArchimedesⒸ
+MSU 1	3rd	Opening Opposition	Jeronya MbiatatⒸ
+KNUST C	1st	Closing Opposition	Jeronya MbiatatⒸ
+MU A	2nd	Opening Government	Jeronya MbiatatⒸ
+UCC G	4th	Closing Government	Jeronya MbiatatⒸ
+RPDA RL	2nd	Opening Government	OluwaTobilobaⒸ , Akankwatsa Paul
+KNUST A	3rd	Closing Opposition	OluwaTobilobaⒸ , Akankwatsa Paul
+UG A	1st	Closing Government	OluwaTobilobaⒸ , Akankwatsa Paul
+FLSS A	4th	Opening Opposition	OluwaTobilobaⒸ , Akankwatsa Paul
+RAIPUR A	2nd	Closing Opposition	Erasmus Elorm AgboⒸ , Pratap Chandra Sen
+MUST 5	4th	Opening Government	Erasmus Elorm AgboⒸ , Pratap Chandra Sen
+NLUO 1	3rd	Opening Opposition	Erasmus Elorm AgboⒸ , Pratap Chandra Sen
+UNILORIN E	1st	Closing Government	Erasmus Elorm AgboⒸ , Pratap Chandra Sen
+SUST 1	4th	Opening Opposition	Becky AlekⒸ , Olayinka Olamide Esther
+UCC H	3rd	Closing Government	Becky AlekⒸ , Olayinka Olamide Esther
+SAS 1	2nd	Opening Government	Becky AlekⒸ , Olayinka Olamide Esther
+EWUDC A	1st	Closing Opposition	Becky AlekⒸ , Olayinka Olamide Esther
+Johannesburg C	1st	Opening Government	Ethan John FloroⒸ , Morenikeji Fatimah
+Nnamdi Azakiwe 2	2nd	Closing Government	Ethan John FloroⒸ , Morenikeji Fatimah
+UCC B	4th	Opening Opposition	Ethan John FloroⒸ , Morenikeji Fatimah
+Buea 1	3rd	Closing Opposition	Ethan John FloroⒸ , Morenikeji Fatimah
+ABSU A	2nd	Closing Opposition	Jayeesh AroraⒸ , Utkarsh Pandey
+KNUST O	4th	Opening Government	Jayeesh AroraⒸ , Utkarsh Pandey
+UCC E	3rd	Opening Opposition	Jayeesh AroraⒸ , Utkarsh Pandey
+DDUC A	1st	Closing Government	Jayeesh AroraⒸ , Utkarsh Pandey
+DTU B	1st	Closing Opposition	Comfort AyelomiⒸ , Minkateko Majoko
+DTU A	2nd	Closing Government	Comfort AyelomiⒸ , Minkateko Majoko
+NITR 2	4th	Opening Government	Comfort AyelomiⒸ , Minkateko Majoko
+SV B	3rd	Opening Opposition	Comfort AyelomiⒸ , Minkateko Majoko
+UN Nsukka 3	2nd	Opening Opposition	Maria MakelveⒸ , Lindsey Bonsu
+UCC D	4th	Closing Government	Maria MakelveⒸ , Lindsey Bonsu
+UNILORIN B	1st	Closing Opposition	Maria MakelveⒸ , Lindsey Bonsu
+Kyambogo A	3rd	Opening Government	Maria MakelveⒸ , Lindsey Bonsu
+UG F	3rd	Opening Opposition	Himanshi WadhwaⒸ , Odong Vincent
+UNILORIN P	1st	Opening Government	Himanshi WadhwaⒸ , Odong Vincent
+UNILORIN I	2nd	Closing Opposition	Himanshi WadhwaⒸ , Odong Vincent
+London B	4th	Closing Government	Himanshi WadhwaⒸ , Odong Vincent
+UNILORIN D	1st	Opening Opposition	Zach Godley-McAvoyⒸ , Ahana Chaudhuri
+CNLU 1	3rd	Closing Government	Zach Godley-McAvoyⒸ , Ahana Chaudhuri
+Dschang 1	2nd	Closing Opposition	Zach Godley-McAvoyⒸ , Ahana Chaudhuri
+FTU A	4th	Opening Government	Zach Godley-McAvoyⒸ , Ahana Chaudhuri
+UCC F	2nd	Closing Government	Lame BusangⒸ
+UCC C	1st	Closing Opposition	Lame BusangⒸ
+Kabale C	4th	Opening Opposition	Lame BusangⒸ
+UNILORIN F	3rd	Opening Government	Lame BusangⒸ
+UPV 2	2nd	Opening Government	Henry KofiⒸ , Shubh Pipalia
+XU 1	1st	Opening Opposition	Henry KofiⒸ , Shubh Pipalia
+DRC B	3rd	Closing Opposition	Henry KofiⒸ , Shubh Pipalia
+DAV A	4th	Closing Government	Henry KofiⒸ , Shubh Pipalia
+Johannesburg A	4th	Opening Government	Gladstone ClementⒸ , Amanya Oscar
+BAC A	2nd	Closing Opposition	Gladstone ClementⒸ , Amanya Oscar
+GC A	3rd	Opening Opposition	Gladstone ClementⒸ , Amanya Oscar
+DRC D	1st	Closing Government	Gladstone ClementⒸ , Amanya Oscar
+UHAS 1	1st	Closing Government	Vanshika KalraⒸ
+PULC 1	4th	Closing Opposition	Vanshika KalraⒸ
+UNILORIN M	3rd	Opening Government	Vanshika KalraⒸ
+NYABIKONI A	2nd	Opening Opposition	Vanshika KalraⒸ
+NITR 1	4th	Closing Government	Ryoji YoshisadaⒸ , Paul Lorenz L. Altares
+OSU 2	2nd	Closing Opposition	Ryoji YoshisadaⒸ , Paul Lorenz L. Altares
+Star Academy 1	1st	Opening Government	Ryoji YoshisadaⒸ , Paul Lorenz L. Altares
+Witwatersrand 1	3rd	Opening Opposition	Ryoji YoshisadaⒸ , Paul Lorenz L. Altares
+
+
+team	result	side	adjudicators
+MSU 1	4th	Closing Opposition	Becky AlekⒸ , Morenikeji Fatimah
+UN Nsukka 4	2nd	Closing Government	Becky AlekⒸ , Morenikeji Fatimah
+UCC G	1st	Opening Government	Becky AlekⒸ , Morenikeji Fatimah
+EWUDC C	3rd	Opening Opposition	Becky AlekⒸ , Morenikeji Fatimah
+UNILORIN C	2nd	Closing Government	Ryoji YoshisadaⒸ , All Shafa Sadia Oyshori
+SAS 1	1st	Closing Opposition	Ryoji YoshisadaⒸ , All Shafa Sadia Oyshori
+DRC B	3rd	Opening Opposition	Ryoji YoshisadaⒸ , All Shafa Sadia Oyshori
+Dschang 1	4th	Opening Government	Ryoji YoshisadaⒸ , All Shafa Sadia Oyshori
+KNUST O	1st	Closing Government	Shruti PoddarⒸ , Meghana Srinivas
+MU A	4th	Opening Opposition	Shruti PoddarⒸ , Meghana Srinivas
+UCC H	2nd	Closing Opposition	Shruti PoddarⒸ , Meghana Srinivas
+DAV A	3rd	Opening Government	Shruti PoddarⒸ , Meghana Srinivas
+KNUST D	1st	Opening Opposition	Maria MakelveⒸ , Dongbin Lee , Vanshika Kalra
+UNILORIN D	2nd	Opening Government	Maria MakelveⒸ , Dongbin Lee , Vanshika Kalra
+UNILORIN I	4th	Closing Government	Maria MakelveⒸ , Dongbin Lee , Vanshika Kalra
+GC A	3rd	Closing Opposition	Maria MakelveⒸ , Dongbin Lee , Vanshika Kalra
+RPDA RL	2nd	Closing Opposition	Henry KofiⒸ , Gladstone Clement , Maafia Comfort
+Johannesburg C	1st	Closing Government	Henry KofiⒸ , Gladstone Clement , Maafia Comfort
+UN Nsukka 3	3rd	Opening Government	Henry KofiⒸ , Gladstone Clement , Maafia Comfort
+EWUDC A	4th	Opening Opposition	Henry KofiⒸ , Gladstone Clement , Maafia Comfort
+Nnamdi Azakiwe 2	1st	Closing Opposition	Joy HadomeⒸ , Amanya Oscar
+UHAS 1	4th	Opening Government	Joy HadomeⒸ , Amanya Oscar
+KNUST A	3rd	Opening Opposition	Joy HadomeⒸ , Amanya Oscar
+FTU A	2nd	Closing Government	Joy HadomeⒸ , Amanya Oscar
+UCC F	2nd	Opening Opposition	Himanshi WadhwaⒸ , Olayinka Olamide Esther
+DRC C	4th	Closing Opposition	Himanshi WadhwaⒸ , Olayinka Olamide Esther
+Buea 1	3rd	Closing Government	Himanshi WadhwaⒸ , Olayinka Olamide Esther
+Witwatersrand 1	1st	Opening Government	Himanshi WadhwaⒸ , Olayinka Olamide Esther
+NITR 1	2nd	Opening Opposition	Archi guptaⒸ , Darth Vader
+UNILORIN G	1st	Opening Government	Archi guptaⒸ , Darth Vader
+NYABIKONI A	4th	Closing Government	Archi guptaⒸ , Darth Vader
+KUKC A	3rd	Closing Opposition	Archi guptaⒸ , Darth Vader
+UG A	4th	Opening Opposition	Donkor ArchimedesⒸ , Shubh Pipalia
+MUST 5	2nd	Closing Opposition	Donkor ArchimedesⒸ , Shubh Pipalia
+OSU 2	3rd	Opening Government	Donkor ArchimedesⒸ , Shubh Pipalia
+London A	1st	Closing Government	Donkor ArchimedesⒸ , Shubh Pipalia
+UBOTSWANA 2	2nd	Closing Opposition	OluwaTobilobaⒸ , Lindsey Bonsu
+Kabale B	4th	Opening Opposition	OluwaTobilobaⒸ , Lindsey Bonsu
+Oxford A	1st	Closing Government	OluwaTobilobaⒸ , Lindsey Bonsu
+GIST A	3rd	Opening Government	OluwaTobilobaⒸ , Lindsey Bonsu
+KNUST C	2nd	Closing Government	Okuku James JuniorⒸ , Zach Godley-McAvoy
+UG F	4th	Closing Opposition	Okuku James JuniorⒸ , Zach Godley-McAvoy
+Kenyatta A	1st	Opening Opposition	Okuku James JuniorⒸ , Zach Godley-McAvoy
+London B	3rd	Opening Government	Okuku James JuniorⒸ , Zach Godley-McAvoy
+Kabale C	4th	Closing Opposition	Lame BusangⒸ , Sergio Adu-Nontwiri
+UNILORIN E	1st	Opening Government	Lame BusangⒸ , Sergio Adu-Nontwiri
+AUD A	3rd	Opening Opposition	Lame BusangⒸ , Sergio Adu-Nontwiri
+DRC A	2nd	Closing Government	Lame BusangⒸ , Sergio Adu-Nontwiri
+NLUO 1	4th	Opening Opposition	Ethan John FloroⒸ , Jeronya Mbiatat , Paul Lorenz L. Altares
+SV B	1st	Closing Opposition	Ethan John FloroⒸ , Jeronya Mbiatat , Paul Lorenz L. Altares
+BAC A	2nd	Closing Government	Ethan John FloroⒸ , Jeronya Mbiatat , Paul Lorenz L. Altares
+DRC D	3rd	Opening Government	Ethan John FloroⒸ , Jeronya Mbiatat , Paul Lorenz L. Altares
+ABSU A	2nd	Opening Opposition	Harshitha SⒸ , Ahana Chaudhuri , Pratap Chandra Sen
+Nnamdi Azakiwe 4	3rd	Opening Government	Harshitha SⒸ , Ahana Chaudhuri , Pratap Chandra Sen
+UCC E	4th	Closing Opposition	Harshitha SⒸ , Ahana Chaudhuri , Pratap Chandra Sen
+Star Academy 1	1st	Closing Government	Harshitha SⒸ , Ahana Chaudhuri , Pratap Chandra Sen
+DTU A	2nd	Opening Opposition	Anaïs KneppersⒸ , Akankwatsa Paul , Erasmus Elorm Agbo
+UPV 2	3rd	Closing Government	Anaïs KneppersⒸ , Akankwatsa Paul , Erasmus Elorm Agbo
+UNILORIN B	4th	Opening Government	Anaïs KneppersⒸ , Akankwatsa Paul , Erasmus Elorm Agbo
+DDUC A	1st	Closing Opposition	Anaïs KneppersⒸ , Akankwatsa Paul , Erasmus Elorm Agbo
+Johannesburg A	3rd	Opening Opposition	Soumitra TonapiⒸ , Jayeesh Arora
+NITR 2	4th	Opening Government	Soumitra TonapiⒸ , Jayeesh Arora
+UCC C	2nd	Closing Government	Soumitra TonapiⒸ , Jayeesh Arora
+Kyambogo A	1st	Closing Opposition	Soumitra TonapiⒸ , Jayeesh Arora
+DTU B	3rd	Closing Government	Elgin LinⒸ , Comfort Ayelomi , Utkarsh Pandey
+RAIPUR A	4th	Opening Government	Elgin LinⒸ , Comfort Ayelomi , Utkarsh Pandey
+XU 1	1st	Closing Opposition	Elgin LinⒸ , Comfort Ayelomi , Utkarsh Pandey
+UNILORIN P	2nd	Opening Opposition	Elgin LinⒸ , Comfort Ayelomi , Utkarsh Pandey
+SUST 1	1st	Opening Government	Serg MascotⒸ , Odong Vincent
+UCC B	4th	Closing Opposition	Serg MascotⒸ , Odong Vincent
+UNILORIN F	2nd	Opening Opposition	Serg MascotⒸ , Odong Vincent
+FLSS A	3rd	Closing Government	Serg MascotⒸ , Odong Vincent
+
+
+team	result	side	adjudicators
+UNILORIN B	4th	Closing Opposition	Becky AlekⒸ , Pratap Chandra Sen
+UNILORIN I	2nd	Opening Government	Becky AlekⒸ , Pratap Chandra Sen
+Witwatersrand 1	1st	Closing Government	Becky AlekⒸ , Pratap Chandra Sen
+GC A	3rd	Opening Opposition	Becky AlekⒸ , Pratap Chandra Sen
+London A	4th	Closing Opposition	Elgin LinⒸ , Maafia Comfort
+SAS 1	1st	Closing Government	Elgin LinⒸ , Maafia Comfort
+Kyambogo A	3rd	Opening Opposition	Elgin LinⒸ , Maafia Comfort
+DRC D	2nd	Opening Government	Elgin LinⒸ , Maafia Comfort
+ABSU A	1st	Opening Opposition	Serg MascotⒸ , Olayinka Olamide Esther
+RAIPUR A	3rd	Opening Government	Serg MascotⒸ , Olayinka Olamide Esther
+UPV 2	2nd	Closing Government	Serg MascotⒸ , Olayinka Olamide Esther
+DRC B	4th	Closing Opposition	Serg MascotⒸ , Olayinka Olamide Esther
+UG A	1st	Opening Government	Morenikeji FatimahⒸ , Meghana Srinivas
+UG F	2nd	Opening Opposition	Morenikeji FatimahⒸ , Meghana Srinivas
+NITR 1	4th	Closing Opposition	Morenikeji FatimahⒸ , Meghana Srinivas
+UCC E	3rd	Closing Government	Morenikeji FatimahⒸ , Meghana Srinivas
+UCC H	4th	Opening Government	Soumitra TonapiⒸ , Akankwatsa Paul
+UCC F	3rd	Closing Government	Soumitra TonapiⒸ , Akankwatsa Paul
+UNILORIN G	2nd	Opening Opposition	Soumitra TonapiⒸ , Akankwatsa Paul
+Oxford A	1st	Closing Opposition	Soumitra TonapiⒸ , Akankwatsa Paul
+KNUST D	3rd	Closing Opposition	Anaïs KneppersⒸ , OluwaTobiloba
+DTU B	4th	Closing Government	Anaïs KneppersⒸ , OluwaTobiloba
+DTU A	1st	Opening Opposition	Anaïs KneppersⒸ , OluwaTobiloba
+DDUC A	2nd	Opening Government	Anaïs KneppersⒸ , OluwaTobiloba
+UN Nsukka 3	2nd	Opening Government	Ryoji YoshisadaⒸ , Zach Godley-McAvoy
+NLUO 1	1st	Closing Government	Ryoji YoshisadaⒸ , Zach Godley-McAvoy
+UCC C	3rd	Opening Opposition	Ryoji YoshisadaⒸ , Zach Godley-McAvoy
+EWUDC A	4th	Closing Opposition	Ryoji YoshisadaⒸ , Zach Godley-McAvoy
+Nnamdi Azakiwe 2	4th	Closing Opposition	Harshitha SⒸ , Shubh Pipalia
+KNUST O	2nd	Opening Opposition	Harshitha SⒸ , Shubh Pipalia
+Kenyatta A	3rd	Closing Government	Harshitha SⒸ , Shubh Pipalia
+UNILORIN C	1st	Opening Government	Harshitha SⒸ , Shubh Pipalia
+XU 1	2nd	Closing Government	Ethan John FloroⒸ , Archi gupta , Lindsey Bonsu
+UNILORIN P	3rd	Opening Opposition	Ethan John FloroⒸ , Archi gupta , Lindsey Bonsu
+UNILORIN E	4th	Closing Opposition	Ethan John FloroⒸ , Archi gupta , Lindsey Bonsu
+SV B	1st	Opening Government	Ethan John FloroⒸ , Archi gupta , Lindsey Bonsu
+COMSU 1	4th	Opening Opposition	Jayeesh AroraⒸ
+Kabale B	2nd	Closing Opposition	Jayeesh AroraⒸ
+Great Zimbabwe A	1st	Opening Government	Jayeesh AroraⒸ
+GIST A	3rd	Closing Government	Jayeesh AroraⒸ
+RPDA RL	2nd	Opening Opposition	Maria MakelveⒸ , Paul Lorenz L. Altares
+Nnamdi Azakiwe 4	4th	Closing Opposition	Maria MakelveⒸ , Paul Lorenz L. Altares
+KNUST C	1st	Closing Government	Maria MakelveⒸ , Paul Lorenz L. Altares
+MUST 5	3rd	Opening Government	Maria MakelveⒸ , Paul Lorenz L. Altares
+KNUST A	3rd	Opening Opposition	Pushpit SinghⒸ , Comfort Ayelomi
+UNILORIN F	2nd	Closing Opposition	Pushpit SinghⒸ , Comfort Ayelomi
+Buea 1	4th	Opening Government	Pushpit SinghⒸ , Comfort Ayelomi
+DAV A	1st	Closing Government	Pushpit SinghⒸ , Comfort Ayelomi
+UN Nsukka 4	3rd	Closing Government	Odong VincentⒸ , Ahana Chaudhuri
+Swing James	1st	Opening Government	Odong VincentⒸ , Ahana Chaudhuri
+NYABIKONI A	4th	Closing Opposition	Odong VincentⒸ , Ahana Chaudhuri
+DRC A	2nd	Opening Opposition	Odong VincentⒸ , Ahana Chaudhuri
+OSU 2	2nd	Opening Opposition	Lame BusangⒸ , Sergio Adu-Nontwiri
+SUST 1	3rd	Closing Opposition	Lame BusangⒸ , Sergio Adu-Nontwiri
+UCC G	4th	Opening Government	Lame BusangⒸ , Sergio Adu-Nontwiri
+London B	1st	Closing Government	Lame BusangⒸ , Sergio Adu-Nontwiri
+Johannesburg A	1st	Closing Opposition	Joy HadomeⒸ , Jeronya Mbiatat
+NITR 2	3rd	Opening Opposition	Joy HadomeⒸ , Jeronya Mbiatat
+Dschang 1	4th	Closing Government	Joy HadomeⒸ , Jeronya Mbiatat
+FTU A	2nd	Opening Government	Joy HadomeⒸ , Jeronya Mbiatat
+MSU 1	4th	Closing Opposition	Gladstone ClementⒸ , All Shafa Sadia Oyshori
+Nnamdi Azakiwe 3	3rd	Opening Government	Gladstone ClementⒸ , All Shafa Sadia Oyshori
+UBOTSWANA 2	2nd	Opening Opposition	Gladstone ClementⒸ , All Shafa Sadia Oyshori
+AUD A	1st	Closing Government	Gladstone ClementⒸ , All Shafa Sadia Oyshori
+Johannesburg C	4th	Closing Opposition	Donkor ArchimedesⒸ , Vanshika Kalra
+UNILORIN D	2nd	Opening Government	Donkor ArchimedesⒸ , Vanshika Kalra
+Star Academy 1	3rd	Opening Opposition	Donkor ArchimedesⒸ , Vanshika Kalra
+BAC A	1st	Closing Government	Donkor ArchimedesⒸ , Vanshika Kalra
+UCC B	1st	Closing Opposition	Utkarsh PandeyⒸ
+Kabale C	4th	Opening Government	Utkarsh PandeyⒸ
+UNILORIN M	2nd	Closing Government	Utkarsh PandeyⒸ
+KUKC A	3rd	Opening Opposition	Utkarsh PandeyⒸ
+UHAS 1	1st	Closing Opposition	Henry KofiⒸ
+MU A	2nd	Closing Government	Henry KofiⒸ
+FLSS A	4th	Opening Opposition	Henry KofiⒸ
+EWUDC C	3rd	Opening Government	Henry KofiⒸ
+
+
+team	result	side	adjudicators
+UNILORIN P	eliminated	Closing Government	Soumitra TonapiⒸ , Gladstone Clement , Meghana Srinivas
+UNILORIN D	advancing	Opening Government	Soumitra TonapiⒸ , Gladstone Clement , Meghana Srinivas
+SV B	advancing	Opening Opposition	Soumitra TonapiⒸ , Gladstone Clement , Meghana Srinivas
+DRC D	eliminated	Closing Opposition	Soumitra TonapiⒸ , Gladstone Clement , Meghana Srinivas
+ABSU A	eliminated	Opening Opposition	Archi guptaⒸ , Jayeesh Arora , Lame Busang
+UPV 2	eliminated	Closing Government	Archi guptaⒸ , Jayeesh Arora , Lame Busang
+XU 1	advancing	Opening Government	Archi guptaⒸ , Jayeesh Arora , Lame Busang
+SAS 1	advancing	Closing Opposition	Archi guptaⒸ , Jayeesh Arora , Lame Busang
+KNUST D	advancing	Closing Opposition	Jeronya MbiatatⒸ , Maafia Comfort , Vanshika Kalra
+DTU A	advancing	Closing Government	Jeronya MbiatatⒸ , Maafia Comfort , Vanshika Kalra
+NLUO 1	eliminated	Opening Opposition	Jeronya MbiatatⒸ , Maafia Comfort , Vanshika Kalra
+BAC A	eliminated	Opening Government	Jeronya MbiatatⒸ , Maafia Comfort , Vanshika Kalra
+DTU B	advancing	Closing Opposition	Ryoji YoshisadaⒸ , Sergio Adu-Nontwiri , Zach Godley-McAvoy
+UNILORIN C	eliminated	Opening Opposition	Ryoji YoshisadaⒸ , Sergio Adu-Nontwiri , Zach Godley-McAvoy
+UNILORIN E	eliminated	Closing Government	Ryoji YoshisadaⒸ , Sergio Adu-Nontwiri , Zach Godley-McAvoy
+DDUC A	advancing	Opening Government	Ryoji YoshisadaⒸ , Sergio Adu-Nontwiri , Zach Godley-McAvoy
+
+
+team	result	side	adjudicators
+KNUST C	advancing	Opening Opposition	Becky AlekⒸ , Himanshi Wadhwa , Utkarsh Pandey
+UG A	eliminated	Closing Government	Becky AlekⒸ , Himanshi Wadhwa , Utkarsh Pandey
+RAIPUR A	eliminated	Opening Government	Becky AlekⒸ , Himanshi Wadhwa , Utkarsh Pandey
+London B	advancing	Closing Opposition	Becky AlekⒸ , Himanshi Wadhwa , Utkarsh Pandey
+RPDA RL	advancing	Opening Opposition	Morenikeji FatimahⒸ , Comfort Ayelomi , Joy Hadome
+KNUST O	advancing	Opening Government	Morenikeji FatimahⒸ , Comfort Ayelomi , Joy Hadome
+UCC C	eliminated	Closing Government	Morenikeji FatimahⒸ , Comfort Ayelomi , Joy Hadome
+UNILORIN I	eliminated	Closing Opposition	Morenikeji FatimahⒸ , Comfort Ayelomi , Joy Hadome
+
+
+team	result	side	adjudicators
+RPDA RL	advancing	Closing Government	Ethan John FloroⒸ , Archi gupta , Harshitha S , OluwaTobiloba , Ryoji Yoshisada
+KNUST C	eliminated	Opening Government	Ethan John FloroⒸ , Archi gupta , Harshitha S , OluwaTobiloba , Ryoji Yoshisada
+KNUST O	eliminated	Closing Opposition	Ethan John FloroⒸ , Archi gupta , Harshitha S , OluwaTobiloba , Ryoji Yoshisada
+London B	eliminated	Opening Opposition	Ethan John FloroⒸ , Archi gupta , Harshitha S , OluwaTobiloba , Ryoji Yoshisada
+
+
+team	result	side	adjudicators
+DTU B	eliminated	Opening Government	Anaïs KneppersⒸ , Maria Makelve , Pushpit Singh
+XU 1	eliminated	Opening Opposition	Anaïs KneppersⒸ , Maria Makelve , Pushpit Singh
+SAS 1	advancing	Closing Opposition	Anaïs KneppersⒸ , Maria Makelve , Pushpit Singh
+DDUC A	advancing	Closing Government	Anaïs KneppersⒸ , Maria Makelve , Pushpit Singh
+KNUST D	eliminated	Opening Government	Lame BusangⒸ , Serg Mascot , Soumitra Tonapi
+DTU A	advancing	Opening Opposition	Lame BusangⒸ , Serg Mascot , Soumitra Tonapi
+UNILORIN D	eliminated	Closing Opposition	Lame BusangⒸ , Serg Mascot , Soumitra Tonapi
+SV B	advancing	Closing Government	Lame BusangⒸ , Serg Mascot , Soumitra Tonapi
+
+
+team	result	side	adjudicators
+DTU A	advancing	Opening Government	Serg MascotⒸ , Anaïs Kneppers , Becky Alek , Elgin Lin , Ethan John Floro , Lame Busang , Soumitra Tonapi
+SV B	eliminated	Closing Opposition	Serg MascotⒸ , Anaïs Kneppers , Becky Alek , Elgin Lin , Ethan John Floro , Lame Busang , Soumitra Tonapi
+SAS 1	eliminated	Closing Government	Serg MascotⒸ , Anaïs Kneppers , Becky Alek , Elgin Lin , Ethan John Floro , Lame Busang , Soumitra Tonapi
+DDUC A	eliminated	Opening Opposition	Serg MascotⒸ , Anaïs Kneppers , Becky Alek , Elgin Lin , Ethan John Floro , Lame Busang , Soumitra Tonapi
+

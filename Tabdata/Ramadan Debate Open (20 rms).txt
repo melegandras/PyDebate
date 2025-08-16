@@ -1,0 +1,663 @@
+
+Rk	team	categories	R1	R2	R3	R4	Pts	Spk	1sts	2nds	SSD
+1	Revenge of Ahmet Mohsin		1st	1st	1st	2nd	11	633	3	1	2.05
+2	is debating halal?		1st	1st	2nd	1st	11	624	3	1	3.54
+3	MUST A		1st	3rd	1st	1st	10	622	3	0	1.80
+4	Wake up babe, Cody&#x27;s about to lose 		1st	3rd	1st	1st	10	621	3	0	1.48
+5	pestilence and destruction	Novice	2nd	1st	3rd	1st	9	627	2	1	0.83
+6	Soyi hui qoum		1st	2nd	1st	3rd	9	625	2	1	2.95
+7	A schoolie and a drop out		1st	2nd	2nd	2nd	9	622	1	3	2.29
+8	SLU RT		2nd	3rd	1st	1st	9	616	2	1	2.92
+9	GC A		2nd	1st	2nd	2nd	9	616	1	3	2.92
+10	Habib Uni Team A		1st	1st	1st	4th	9	613	3	0	2.05
+11	From Gilgít to Tamil Nadú		1st	—	1st	1st	9	468	3	0	2.16
+12	chino the dog &amp; fifi the cat		3rd	2nd	1st	2nd	8	620	1	2	2.45
+13	GC Barkat		2nd	2nd	3rd	1st	8	617	1	2	4.02
+14	Swing 1		1st	2nd	3rd	2nd	8	612	1	2	3.08
+15	UVAS A	Novice	4th	1st	2nd	1st	8	610	2	1	5.02
+16	Professional Yappers		3rd	1st	1st	3rd	8	610	2	0	2.29
+17	Circuit Breakers		2nd	4th	1st	1st	8	608	2	1	3.67
+18	Killugon Coded		1st	3rd	2nd	2nd	8	606	1	2	1.50
+19	Mera BP high hogaya hai		1st	4th	2nd	2nd	7	620	1	2	1.87
+20	GC Aligarh Campus		2nd	1st	2nd	4th	7	619	1	2	4.66
+21	MagJacKarl tayo tuwing gabi naman		1st	1st	4th	3rd	7	617	2	0	3.56
+22	Mobile Nikaal		3rd	1st	1st	4th	7	614	2	0	4.15
+23	Criss Cross		1st	1st	4th	3rd	7	612	2	0	2.45
+24	Nemnems		1st	2nd	4th	2nd	7	612	1	2	2.24
+25	Brothers in Christ	Novice	2nd	1st	3rd	3rd	7	608	1	1	1.00
+26	Amc No surprises		4th	3rd	1st	1st	7	607	2	0	3.49
+27	Nova Institute SJ		4th	2nd	2nd	1st	7	604	1	2	3.24
+28	Team Agree to Disagree	Novice	3rd	1st	3rd	2nd	7	603	1	1	1.79
+29	Ana &amp; Huy	Novice	3rd	1st	2nd	3rd	7	601	1	1	1.79
+30	UPCountToTen		3rd	3rd	1st	3rd	6	611	1	0	3.96
+31	TNS Left	Novice	2nd	2nd	4th	2nd	6	611	0	3	2.68
+32	We&#x27;re Supposed to be on Vacation		2nd	3rd	3rd	2nd	6	610	0	2	2.29
+33	Credit the extension or we&#x27;ll burn 		2nd	2nd	3rd	3rd	6	609	0	2	2.17
+34	Just for fun 2.0		3rd	3rd	1st	3rd	6	607	1	0	3.56
+35	CU C	Novice	2nd	1st	3rd	4th	6	602	1	1	1.12
+36	Tell me why	Novice	2nd	3rd	4th	1st	6	602	1	1	2.87
+37	KC A		3rd	2nd	4th	1st	6	601	1	1	2.59
+38	Shuank Q	Novice	4th	1st	3rd	2nd	6	597	1	1	2.86
+39	Potential Losers	Novice	4th	3rd	1st	2nd	6	596	1	1	3.24
+40	Archetypes	Novice	4th	3rd	2nd	1st	6	591	1	1	5.31
+41	Swing 3		1st	4th	—	1st	6	469	2	0	1.25
+42	TNS Right	Novice	4th	2nd	1st	4th	5	610	1	1	3.35
+43	Halal Debates	Novice	2nd	3rd	3rd	3rd	5	606	0	1	1.12
+44	Khaki Club	Novice	2nd	2nd	4th	3rd	5	605	0	2	3.27
+45	Wonton		3rd	2nd	2nd	4th	5	604	0	2	0.71
+46	Dreamweavers	Novice	1st	4th	2nd	4th	5	601	1	1	2.38
+47	Convince Us	Novice	4th	4th	2nd	1st	5	598	1	1	1.66
+48	Panel Persuaders	Novice	4th	1st	4th	2nd	5	598	1	1	2.06
+49	Panel understand 🙏 (our whole case.	Novice	3rd	1st	4th	3rd	5	597	1	0	2.59
+50	UVAS B		2nd	4th	1st	4th	5	596	1	1	2.55
+51	Religious Bluds	Novice	4th	1st	2nd	4th	5	596	1	1	3.94
+52	BNMDC 1	Novice	4th	4th	1st	2nd	5	595	1	1	4.15
+53	Swing 2		2nd	4th	—	1st	5	446	1	1	4.78
+54	Do crime		1st	2nd	—	—	5	310	1	1	1.00
+55	S n K		1st	3rd	4th	4th	4	608	1	0	3.67
+56	McKimmy Pro Max	Novice	3rd	4th	2nd	3rd	4	607	0	1	3.83
+57	CUSD Acme	Novice	4th	2nd	2nd	4th	4	604	0	2	2.55
+58	CU A		1st	4th	3rd	4th	4	601	1	0	1.30
+59	Walking 15k	Novice	2nd	4th	2nd	4th	4	601	0	2	1.09
+60	DGBDS 06	Novice	3rd	4th	4th	1st	4	599	1	0	1.48
+61	Gyrmmberial Mugguls	Novice	3rd	4th	3rd	2nd	4	599	0	1	0.83
+62	Prep=Chika	Novice	3rd	3rd	3rd	3rd	4	591	0	0	2.38
+63	Have to finish the debate, new ep o	Novice	3rd	2nd	4th	4th	3	600	0	1	0.71
+64	BDC A Hu Tao Thighs		2nd	4th	4th	3rd	3	598	0	1	1.12
+65	father feather federzo	Novice	3rd	4th	3rd	3rd	3	595	0	0	1.30
+66	Anamoly X 🦋	Novice	4th	3rd	4th	2nd	3	589	0	1	1.92
+67	Team UCFM	Novice	3rd	3rd	3rd	4th	3	589	0	0	4.02
+68	UMT Same	Novice	3rd	3rd	3rd	—	3	455	0	0	1.89
+69	BUP Z		4th	2nd	3rd	—	3	448	0	1	2.05
+70	HELP ME	Novice	3rd	4th	2nd	—	3	448	0	1	4.50
+71	Satan May Be Caged, We&#x27;re Not		4th	3rd	—	2nd	3	446	0	1	1.25
+72	Swing 5		2nd	—	—	3rd	3	305	0	1	1.50
+73	KEMU Good cop Bad Cop		1st	4th	—	—	3	301	1	0	1.50
+74	CU B		3rd	3rd	4th	4th	2	593	0	0	1.48
+75	Muneeba Square	Novice	4th	2nd	4th	4th	2	591	0	1	2.49
+76	Raccoon and the Catto		2nd	—	4th	—	2	303	0	1	1.50
+77	BDC B Ramadan Yappers	Novice	4th	2nd	—	—	2	296	0	1	2.00
+78	KSDC Error	Novice	4th	4th	4th	3rd	1	585	0	0	0.83
+79	Fixhana	Novice	4th	4th	3rd	—	1	440	0	0	0.94
+80	Swing 4		4th	—	—	4th	0	291	0	0	0.50
+81=	BDC C		—	—	—	—	—	—	0	0	—
+81=	Don&#x27;t Blink		—	—	—	—	—	—	0	0	—
+81=	Dukh, Dard, Debates	Novice	—	—	—	—	—	—	0	0	—
+81=	Halal Debaters		—	—	—	—	—	—	0	0	—
+81=	High Tax &amp; High Corruption	Novice	—	—	—	—	—	—	0	0	—
+81=	In Key Sath To Nahein Bolna Tha		—	—	—	—	—	—	0	0	—
+81=	ITGIRL	Novice	—	—	—	—	—	—	0	0	—
+81=	ITU A		—	—	—	—	—	—	0	0	—
+81=	Peculiar Mavericks	Novice	—	—	—	—	—	—	0	0	—
+81=	PUDS Shonar Bangla	Novice	—	—	—	—	—	—	0	0	—
+81=	Swing 6		—	—	—	—	—	—	0	0	—
+81=	The Lahori Echochamber		—	—	—	—	—	—	0	0	—
+81=	UMT Charters		—	—	—	—	—	—	0	0	—
+
+
+Rk	name	category	team	R1	R2	R3	R4	Total	Avg	Stdev
+1	Imaad Hasan		Revenge of Ahmet Mohsin	79	81	78	80	318	79.50	1.12
+2	Zaid Abro		Revenge of Ahmet Mohsin	79	79	77	80	315	78.75	1.09
+3=	Hasan Askari		Soyi hui qoum	78	78	80	78	314	78.50	0.87
+3=	Ebenezer Appiah	Novice	pestilence and destruction	79	79	78	78	314	78.50	0.50
+5=	Sarim Karim		is debating halal?	77	78	77	81	313	78.25	1.64
+5=	Diego Castillo	Novice	pestilence and destruction	78	79	78	78	313	78.25	0.43
+7	Cláudia		A schoolie and a drop out	80	77	77	78	312	78.00	1.22
+8=	Christopher Tao		SLU RT	77	80	78	76	311	77.75	1.48
+8=	Alex Gao		MUST A	79	77	77	78	311	77.75	0.83
+8=	Musky Shen		MUST A	79	78	76	78	311	77.75	1.09
+8=	Muhammad Ali Khan		is debating halal?	76	77	77	81	311	77.75	1.92
+8=	Ahmad Subhani		Soyi hui qoum	75	78	81	77	311	77.75	2.17
+8=	Ayesha Farrukh		Mera BP high hogaya hai	79	77	77	78	311	77.75	0.83
+8=	Sayed Aly Osjah Bukhari		GC Aligarh Campus	78	81	77	75	311	77.75	2.17
+8=	Shezreen Shah		chino the dog &amp; fifi the cat	76	78	78	79	311	77.75	1.09
+8=	Mahad Akbar		Wake up babe, Cody&#x27;s about to lose 	76	79	77	79	311	77.75	1.30
+17=	Jazib &quot;Tippy Toppy&quot; Khan		GC A	76	77	80	77	310	77.50	1.50
+17=	Hamza Farookhi		Wake up babe, Cody&#x27;s about to lose 	77	77	78	78	310	77.50	0.50
+19=	Karl Mossesgeld Oxciano		MagJacKarl tayo tuwing gabi naman	78	79	75	77	309	77.25	1.48
+19=	Aleezay Masood		Mera BP high hogaya hai	79	76	77	77	309	77.25	1.09
+19=	Hooria Shafiq		GC Barkat	75	80	76	78	309	77.25	1.92
+19=	Huzaifa		chino the dog &amp; fifi the cat	75	77	79	78	309	77.25	1.48
+23=	Ahmad Bin Tahir		Mobile Nikaal	74	79	79	76	308	77.00	2.12
+23=	Jack Reginald Casela		MagJacKarl tayo tuwing gabi naman	77	80	74	77	308	77.00	2.12
+23=	Abdullah Fateh		GC Aligarh Campus	78	80	77	73	308	77.00	2.55
+23=	Huzaifa Zeeshan Awan		GC Barkat	75	80	75	78	308	77.00	2.12
+23=	Najaf Abbas		Habib Uni Team A	78	77	78	75	308	77.00	1.22
+28=	Michel Macahilo		Nemnems	77	77	75	78	307	76.75	1.09
+28=	Zarar Tariq	Novice	TNS Left	77	79	75	76	307	76.75	1.48
+30=	Mustapha Vasi		Mobile Nikaal	74	79	78	75	306	76.50	2.06
+30=	Swing Speaker 1		Swing 1	76	80	75	75	306	76.50	2.06
+30=	Swing Speaker 2		Swing 1	77	78	76	75	306	76.50	1.12
+30=	Jan Hanzhenri Endrina		UPCountToTen	76	76	80	74	306	76.50	2.18
+30=	Rashedul Islam Eon		We&#x27;re Supposed to be on Vacation	75	77	76	78	306	76.50	1.12
+30=	Muhammad Hassan &quot;Raw&quot; Butt		GC A	76	76	79	75	306	76.50	1.50
+30=	Daud Rafi Khan	Novice	TNS Right	74	76	79	77	306	76.50	1.80
+30=	Ahsan Saleem		Professional Yappers	75	79	76	76	306	76.50	1.50
+30=	Akarsh	Novice	Brothers in Christ	76	77	76	77	306	76.50	0.50
+39=	Christine Mae Bagazin		UPCountToTen	76	76	79	74	305	76.25	1.79
+39=	Wreighnel Ricci	Novice	SLU RT	75	79	75	76	305	76.25	1.64
+39=	Miko Geanne		Nemnems	77	75	75	78	305	76.25	1.30
+39=	Sarmad Ahmed		Credit the extension or we&#x27;ll burn 	77	76	74	78	305	76.25	1.48
+39=	Licel Ann Martinez	Novice	McKimmy Pro Max	77	75	79	74	305	76.25	1.92
+39=	Alina Mansoor	Novice	UVAS A	72	78	77	78	305	76.25	2.49
+39=	Aleeza Khan	Novice	UVAS A	72	77	77	79	305	76.25	2.59
+39=	Marziya Rasheed		Habib Uni Team A	77	76	77	75	305	76.25	0.83
+47=	Sompoom (Sam) Sunpaweravong		Nova Institute SJ	76	73	78	77	304	76.00	1.87
+47=	Bilal Ijaz		Just for fun 2.0	74	75	78	77	304	76.00	1.58
+47=	Rana Umer		Amc No surprises	75	74	77	78	304	76.00	1.58
+47=	Fawwaz Ahmed		Credit the extension or we&#x27;ll burn 	76	76	75	77	304	76.00	0.71
+47=	Muhammad Tayyab Ullah	Novice	Halal Debates	77	76	75	76	304	76.00	0.71
+47=	Hoor Polani		Killugon Coded	76	75	76	77	304	76.00	0.71
+47=	Taqi Freud Abbas		Circuit Breakers	77	73	78	76	304	76.00	1.87
+47=	Ali Ahmed MBBS		Circuit Breakers	76	73	78	77	304	76.00	1.87
+47=	Jarif Mahmud		We&#x27;re Supposed to be on Vacation	74	77	76	77	304	76.00	1.22
+47=	Samin Ahmad		S n K	78	76	77	73	304	76.00	1.87
+47=	Kashaf Fatima		S n K	77	76	78	73	304	76.00	1.87
+47=	Raayan Mir	Novice	TNS Left	76	78	75	75	304	76.00	1.22
+47=	Ali Azam	Novice	TNS Right	74	75	78	77	304	76.00	1.58
+47=	Vedang Choudhary		Professional Yappers	75	77	77	75	304	76.00	1.00
+61=	Aryaman Adhlakha	Novice	Team Agree to Disagree	76	77	74	76	303	75.75	1.09
+61=	Haleema Umar		Just for fun 2.0	74	74	79	76	303	75.75	2.05
+61=	Manahil Malikk		Amc No surprises	75	73	77	78	303	75.75	1.92
+61=	Md Ridwan Ahmed Siam	Novice	CUSD Acme	75	76	78	74	303	75.75	1.48
+61=	Affan Ibne Anwar	Novice	Khaki Club	77	76	73	77	303	75.75	1.64
+66=	John Top		Wonton	76	75	76	75	302	75.50	0.50
+66=	Stan Zheng		Wonton	75	76	76	75	302	75.50	0.50
+66=	Abdul Rauf	Novice	Halal Debates	76	74	76	76	302	75.50	0.87
+66=	Rija Ali Khan		Killugon Coded	75	75	75	77	302	75.50	0.87
+66=	Marayah Domingo	Novice	McKimmy Pro Max	78	74	77	73	302	75.50	2.06
+66=	Zihad bin Hassan	Novice	Khaki Club	77	75	73	77	302	75.50	1.66
+66=	Aheli Azman	Novice	CU C	75	76	76	75	302	75.50	0.50
+66=	Jewel Damunesa	Novice	Brothers in Christ	75	76	75	76	302	75.50	0.50
+74=	Srinithi Vijay	Novice	Dreamweavers	76	74	77	74	301	75.25	1.30
+74=	Arc Daniel	Novice	Walking 15k	74	76	76	75	301	75.25	0.83
+74=	Fatima Ijaz		KC A	75	78	74	74	301	75.25	1.64
+74=	Md. Moshiur Rahman Emon	Novice	CUSD Acme	75	75	77	74	301	75.25	1.09
+74=	Sibgha Fatima	Novice	Tell me why	73	75	75	78	301	75.25	1.79
+74=	Maryam Zahid	Novice	Tell me why	74	75	75	77	301	75.25	1.09
+74=	Ana Pham	Novice	Ana &amp; Huy	74	76	76	75	301	75.25	0.83
+74=	Shehroze Husham		BDC A Hu Tao Thighs	76	75	75	75	301	75.25	0.43
+74=	Marzook E Elahi		CU A	75	75	75	76	301	75.25	0.43
+83=	Jason Wang		Nova Institute SJ	75	73	77	75	300	75.00	1.41
+83=	Prithwiraj Purkait	Novice	Team Agree to Disagree	75	76	74	75	300	75.00	0.71
+83=	Aliza Sajjad	Novice	Dreamweavers	76	75	76	73	300	75.00	1.22
+83=	Crisjo Cadsap	Novice	Walking 15k	75	76	74	75	300	75.00	0.71
+83=	Khushi Singh	Novice	Panel understand 🙏 (our whole case.	74	77	73	76	300	75.00	1.58
+83=	Hirannya Kumaresan	Novice	Gyrmmberial Mugguls	75	75	75	75	300	75.00	0.00
+83=	Jacob Joseph	Novice	Panel Persuaders	74	76	74	76	300	75.00	1.00
+83=	Alishba Fatima		KC A	76	76	73	75	300	75.00	1.22
+83=	Huyy V. le Nguyen	Novice	Ana &amp; Huy	74	76	76	74	300	75.00	1.00
+83=	Shahir Muhammed Zabir	Novice	Have to finish the debate, new ep o	76	75	74	75	300	75.00	0.71
+83=	Ahsan Zaman	Novice	DGBDS 06	75	76	74	75	300	75.00	0.71
+83=	Tanzim Ahmed		CU A	76	74	74	76	300	75.00	1.00
+83=	Wasif Ar Rahman	Novice	CU C	74	75	76	75	300	75.00	0.71
+96=	Freya Liang	Novice	Shuank Q	73	74	75	77	299	74.75	1.48
+96=	Md. Samin Yasar Sakif	Novice	Religious Bluds	73	76	77	73	299	74.75	1.79
+96=	Ayesha Sayeed	Novice	Gyrmmberial Mugguls	74	74	75	76	299	74.75	0.83
+96=	Rica	Novice	Convince Us	75	74	75	75	299	74.75	0.43
+96=	Moriyom Islam Avro	Novice	Convince Us	76	73	74	76	299	74.75	1.30
+96=	MD MANAF RAHMAN	Novice	DGBDS 06	74	76	74	75	299	74.75	0.83
+96=	Jawad Ahmad	Novice	UVAS B	75	73	77	74	299	74.75	1.48
+103=	Andrew Lim	Novice	Shuank Q	72	75	75	76	298	74.50	1.50
+103=	Suraya Islam Tithi	Novice	Potential Losers	72	75	77	74	298	74.50	1.80
+103=	Mohammad Sajid Sadman	Novice	Potential Losers	73	74	77	74	298	74.50	1.50
+103=	Rameen Aayan Mahmud	Novice	BNMDC 1	74	72	75	77	298	74.50	1.80
+103=	Mohammad Fauzan	Novice	Panel Persuaders	73	76	74	75	298	74.50	1.12
+108=	Muneeba Khalid	Novice	Muneeba Square	74	74	76	73	297	74.25	1.09
+108=	Jami Rahman	Novice	Religious Bluds	72	74	78	73	297	74.25	2.28
+108=	S Thiluckshi	Novice	Panel understand 🙏 (our whole case.	74	76	73	74	297	74.25	1.09
+108=	Nazia Nawar Karim	Novice	BNMDC 1	75	70	76	76	297	74.25	2.49
+108=	Antonite De Luna	Novice	Prep=Chika	73	73	76	75	297	74.25	1.30
+108=	Haani Bukhari	Novice	BDC A Hu Tao Thighs	75	73	75	74	297	74.25	0.83
+108=	Arnob Mitra		CU B	75	75	74	73	297	74.25	0.83
+115=	Tashriq	Novice	Archetypes	70	74	76	76	296	74.00	2.45
+115=	Shrabosti Talukder	Novice	CU B	74	75	74	73	296	74.00	0.71
+117=	Sumetha Mathivannan	Novice	Team UCFM	71	75	77	72	295	73.75	2.38
+117=	Samiha	Novice	Archetypes	69	74	76	76	295	73.75	2.86
+117=	Nameer Hasan	Novice	Anamoly X 🦋	74	73	74	74	295	73.75	0.43
+120=	Muneeba Izhar	Novice	Muneeba Square	73	72	76	73	294	73.50	1.50
+120=	Welikadage Thiyesa Nimandi Botheju	Novice	Team UCFM	72	74	76	72	294	73.50	1.66
+120=	Alreigne Santos	Novice	Prep=Chika	73	72	75	74	294	73.50	1.12
+123	Mujtaba Shafee	Novice	KSDC Error	73	73	73	73	292	73.00	0.00
+124=	Swing Speaker 5		Swing 3	78	79	—	78	235	78.33	0.47
+124=	Advocate Saran Ullah Khan Karimi		From Gilgít to Tamil Nadú	78	—	77	80	235	78.33	1.25
+126	Zaakir		A schoolie and a drop out	79	77	—	78	234	78.00	0.82
+127	Subhan Jamil		Criss Cross	—	78	75	77	230	76.67	1.25
+128	Amaaem Abuzar	Novice	UMT Same	74	77	77	—	228	76.00	1.41
+129=	Haroon	Novice	UMT Same	75	76	76	—	227	75.67	0.47
+129=	Ameer Hamza Kharal		Criss Cross	—	77	74	76	227	75.67	1.25
+131	Amanna Farajabin Mahnaz	Novice	Have to finish the debate, new ep o	75	—	75	75	225	75.00	0.00
+132=	Swing Speaker 3		Swing 2	76	71	—	77	224	74.67	2.62
+132=	Irfan Khan Joy		Satan May Be Caged, We&#x27;re Not	75	75	—	74	224	74.67	0.47
+132=	Alvi Tonoy		BUP Z	73	76	75	—	224	74.67	1.25
+135=	Ahona Bakhtiar Jim	Novice	Anamoly X 🦋	74	—	74	75	223	74.33	0.47
+135=	Gian Cairo Gonzales	Novice	father feather federzo	75	74	—	74	223	74.33	0.47
+137=	Swing Speaker 4		Swing 2	75	71	—	76	222	74.00	2.16
+137=	Ariana Rahman		Satan May Be Caged, We&#x27;re Not	75	74	—	73	222	74.00	0.82
+137=	Joshua Rodwin Cruz	Novice	father feather federzo	75	74	—	73	222	74.00	0.82
+140	Abdullah Asjad		UVAS B	—	73	75	73	221	73.67	0.94
+141=	Rameen Abuzar	Novice	Fixhana	73	73	74	—	220	73.33	0.47
+141=	Aroush Abuzar	Novice	Fixhana	73	73	74	—	220	73.33	0.47
+143	Swing Speaker 6		Swing 3	—	79	—	78	157	78.50	0.50
+144	isa		Do crime	78	77	—	—	155	77.50	0.50
+145	Speaker 2		Swing 5	77	—	—	76	153	76.50	0.50
+146	Speaker 1		Swing 5	77	—	—	75	152	76.00	1.00
+147	Mohammad Rayyan Naseer		KEMU Good cop Bad Cop	74	77	—	—	151	75.50	1.50
+148=	Mohsin Rashid		KEMU Good cop Bad Cop	75	75	—	—	150	75.00	0.00
+148=	Mamunur Hamid		BUP Z	74	76	—	—	150	75.00	1.00
+150=	Nawshin Sayara	Novice	KSDC Error	74	74	—	—	148	74.00	0.00
+150=	Umamah Malik	Novice	BDC B Ramadan Yappers	73	75	—	—	148	74.00	1.00
+150=	Aneeqa Majeed	Novice	BDC B Ramadan Yappers	73	75	—	—	148	74.00	1.00
+150=	Ho Jon Yew	Novice	HELP ME	76	72	—	—	148	74.00	2.00
+154	Speaker 1		Swing 4	73	—	—	73	146	73.00	0.00
+155	Speaker 2		Swing 4	73	—	—	72	145	72.50	0.50
+156	Gin Nguyen		Raccoon and the Catto	77	—	—	—	77	77.00	0.00
+157=	Nguyen Ngoc Bao Tram		Raccoon and the Catto	76	—	—	—	76	76.00	0.00
+157=	WY	Novice	HELP ME	76	—	—	—	76	76.00	0.00
+159=	MD Ismaill Hossain	Novice	PUDS Shonar Bangla	—	—	—	—	—	—	—
+159=	Kazi Mohammad Aldin Fardin	Novice	PUDS Shonar Bangla	—	—	—	—	—	—	—
+159=	Fariya Hoque Orin	Novice	High Tax &amp; High Corruption	—	—	—	—	—	—	—
+159=	Tasfiya Afista	Novice	High Tax &amp; High Corruption	—	—	—	—	—	—	—
+159=	Ali Zar		In Key Sath To Nahein Bolna Tha	—	—	—	—	—	—	—
+159=	Bakhtiar Ahmed		In Key Sath To Nahein Bolna Tha	—	—	—	—	—	—	—
+159=	Muhammad Uzair	Novice	Dukh, Dard, Debates	—	—	—	—	—	—	—
+159=	Faiq Ali	Novice	Dukh, Dard, Debates	—	—	—	—	—	—	—
+159=	Mirfaqa Saif	Novice	ITGIRL	—	—	—	—	—	—	—
+159=	Momina Chaudhry	Novice	ITGIRL	—	—	—	—	—	—	—
+159=	Aadi Daftardar		Don&#x27;t Blink	—	—	—	—	—	—	—
+159=	Vagarth Dvivedi		Don&#x27;t Blink	—	—	—	—	—	—	—
+159=	Lyba Shoaib		The Lahori Echochamber	—	—	—	—	—	—	—
+159=	Rija Zaidi		The Lahori Echochamber	—	—	—	—	—	—	—
+159=	Subhan Saleem	Novice	Peculiar Mavericks	—	—	—	—	—	—	—
+159=	Zain Shahzad	Novice	Peculiar Mavericks	—	—	—	—	—	—	—
+159=	Airas		Do crime	—	—	—	—	—	—	—
+159=	Advocate Syed Jawad Arshad		From Gilgít to Tamil Nadú	—	—	—	—	—	—	—
+159=	Hanzala Chaudhry		ITU A	—	—	—	—	—	—	—
+159=	Manal Rana	Novice	ITU A	—	—	—	—	—	—	—
+159=	Aimen Sheraz		Halal Debaters	—	—	—	—	—	—	—
+159=	Kevin C Kotigala		Halal Debaters	—	—	—	—	—	—	—
+159=	Speaker 1		Swing 6	—	—	—	—	—	—	—
+159=	Speaker 2		Swing 6	—	—	—	—	—	—	—
+159=	Ali Gulbaz		UMT Charters	—	—	—	—	—	—	—
+159=	Fatima u Zahra		UMT Charters	—	—	—	—	—	—	—
+159=	Rao Ismail Ul Haq		BDC C	—	—	—	—	—	—	—
+159=	Mariam Ashraf		BDC C	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+Circuit Breakers	2nd	Opening Opposition	View Ballot	RegiⒸ , Neil Ivan Florencio , Nusaibah Hossain
+From Gilgít to Tamil Nadú	1st	Closing Government	View Ballot	RegiⒸ , Neil Ivan Florencio , Nusaibah Hossain
+TNS Right	4th	Closing Opposition	View Ballot	RegiⒸ , Neil Ivan Florencio , Nusaibah Hossain
+CU B	3rd	Opening Government	View Ballot	RegiⒸ , Neil Ivan Florencio , Nusaibah Hossain
+MUST A	1st	Closing Government	View Ballot	Imran IlmamⒸ
+Professional Yappers	3rd	Closing Opposition	View Ballot	Imran IlmamⒸ
+Brothers in Christ	2nd	Opening Opposition	View Ballot	Imran IlmamⒸ
+BUP Z	4th	Opening Government	View Ballot	Imran IlmamⒸ
+SLU RT	2nd	Opening Government	View Ballot	Dang PhamⒸ , Sobaan Qadeer
+Soyi hui qoum	1st	Closing Government	View Ballot	Dang PhamⒸ , Sobaan Qadeer
+chino the dog &amp; fifi the cat	3rd	Opening Opposition	View Ballot	Dang PhamⒸ , Sobaan Qadeer
+Fixhana	4th	Closing Opposition	View Ballot	Dang PhamⒸ , Sobaan Qadeer
+KSDC Error	4th	Opening Government	View Ballot	PolⒸ
+We&#x27;re Supposed to be on Vacation	2nd	Opening Opposition	View Ballot	PolⒸ
+Ana &amp; Huy	3rd	Closing Opposition	View Ballot	PolⒸ
+CU A	1st	Closing Government	View Ballot	PolⒸ
+Nova Institute SJ	4th	Closing Government	View Ballot	MonisⒸ
+UPCountToTen	3rd	Closing Opposition	View Ballot	MonisⒸ
+Raccoon and the Catto	2nd	Opening Government	View Ballot	MonisⒸ
+Criss Cross	1st	Opening Opposition	View Ballot	MonisⒸ
+DGBDS 06	3rd	Opening Government	View Ballot	AyodeleⒸ , Arshiya , Athai Roy Dwip
+Mera BP high hogaya hai	1st	Closing Government	View Ballot	AyodeleⒸ , Arshiya , Athai Roy Dwip
+TNS Left	2nd	Opening Opposition	View Ballot	AyodeleⒸ , Arshiya , Athai Roy Dwip
+Swing 4	4th	Closing Opposition	View Ballot	AyodeleⒸ , Arshiya , Athai Roy Dwip
+Shuank Q	4th	Closing Opposition	View Ballot	Alexis NgaosiⒸ
+Nemnems	1st	Opening Opposition	View Ballot	Alexis NgaosiⒸ
+GC A	2nd	Closing Government	View Ballot	Alexis NgaosiⒸ
+father feather federzo	3rd	Opening Government	View Ballot	Alexis NgaosiⒸ
+KEMU Good cop Bad Cop	1st	Opening Government	View Ballot	Taha MasudⒸ , Prathom Mitra
+Potential Losers	4th	Opening Opposition	View Ballot	Taha MasudⒸ , Prathom Mitra
+Tell me why	2nd	Closing Government	View Ballot	Taha MasudⒸ , Prathom Mitra
+Prep=Chika	3rd	Closing Opposition	View Ballot	Taha MasudⒸ , Prathom Mitra
+BNMDC 1	4th	Closing Government	View Ballot	Isaac BagalawisⒸ , Aneeqa Kaleem , Vishesh Kumar Alpuria
+S n K	1st	Opening Opposition	View Ballot	Isaac BagalawisⒸ , Aneeqa Kaleem , Vishesh Kumar Alpuria
+Have to finish the debate, new ep o	3rd	Closing Opposition	View Ballot	Isaac BagalawisⒸ , Aneeqa Kaleem , Vishesh Kumar Alpuria
+Swing 5	2nd	Opening Government	View Ballot	Isaac BagalawisⒸ , Aneeqa Kaleem , Vishesh Kumar Alpuria
+Wonton	3rd	Closing Government	View Ballot	Saleem SalisuⒸ , Sadik Jahan , Steffi Francis
+Swing 3	1st	Opening Opposition	View Ballot	Saleem SalisuⒸ , Sadik Jahan , Steffi Francis
+CUSD Acme	4th	Opening Government	View Ballot	Saleem SalisuⒸ , Sadik Jahan , Steffi Francis
+Khaki Club	2nd	Closing Opposition	View Ballot	Saleem SalisuⒸ , Sadik Jahan , Steffi Francis
+Just for fun 2.0	3rd	Opening Opposition	View Ballot	Nkosilathi NkalaⒸ
+Walking 15k	2nd	Opening Government	View Ballot	Nkosilathi NkalaⒸ
+MagJacKarl tayo tuwing gabi naman	1st	Closing Government	View Ballot	Nkosilathi NkalaⒸ
+BDC B Ramadan Yappers	4th	Closing Opposition	View Ballot	Nkosilathi NkalaⒸ
+Team Agree to Disagree	3rd	Closing Opposition	View Ballot	Adam Malik RozmanⒸ , Faseeh Nadeem , Timsal Fatima
+Satan May Be Caged, We&#x27;re Not	4th	Opening Opposition	View Ballot	Adam Malik RozmanⒸ , Faseeh Nadeem , Timsal Fatima
+pestilence and destruction	2nd	Opening Government	View Ballot	Adam Malik RozmanⒸ , Faseeh Nadeem , Timsal Fatima
+A schoolie and a drop out	1st	Closing Government	View Ballot	Adam Malik RozmanⒸ , Faseeh Nadeem , Timsal Fatima
+Convince Us	4th	Closing Opposition	View Ballot	Umuhairu AlhassanⒸ , Diksha Sharma , Marvhie S. Binwag
+Revenge of Ahmet Mohsin	1st	Opening Government	View Ballot	Umuhairu AlhassanⒸ , Diksha Sharma , Marvhie S. Binwag
+McKimmy Pro Max	3rd	Closing Government	View Ballot	Umuhairu AlhassanⒸ , Diksha Sharma , Marvhie S. Binwag
+GC Aligarh Campus	2nd	Opening Opposition	View Ballot	Umuhairu AlhassanⒸ , Diksha Sharma , Marvhie S. Binwag
+Religious Bluds	4th	Opening Government	View Ballot	Abdul WassayⒸ , Didarul Mohsin , Prajanmo Paul
+Dreamweavers	1st	Closing Government	View Ballot	Abdul WassayⒸ , Didarul Mohsin , Prajanmo Paul
+UVAS B	2nd	Closing Opposition	View Ballot	Abdul WassayⒸ , Didarul Mohsin , Prajanmo Paul
+UMT Same	3rd	Opening Opposition	View Ballot	Abdul WassayⒸ , Didarul Mohsin , Prajanmo Paul
+Team UCFM	3rd	Opening Opposition	View Ballot	Sadaf FaisalⒸ
+Archetypes	4th	Closing Opposition	View Ballot	Sadaf FaisalⒸ
+CU C	2nd	Opening Government	View Ballot	Sadaf FaisalⒸ
+Wake up babe, Cody&#x27;s about to lose 	1st	Closing Government	View Ballot	Sadaf FaisalⒸ
+Gyrmmberial Mugguls	3rd	Closing Opposition	View Ballot	Donkor ArchimedesⒸ , Nadesh Ragunath , Saud Salic
+is debating halal?	1st	Opening Government	View Ballot	Donkor ArchimedesⒸ , Nadesh Ragunath , Saud Salic
+Anamoly X 🦋	4th	Closing Government	View Ballot	Donkor ArchimedesⒸ , Nadesh Ragunath , Saud Salic
+BDC A Hu Tao Thighs	2nd	Opening Opposition	View Ballot	Donkor ArchimedesⒸ , Nadesh Ragunath , Saud Salic
+Mobile Nikaal	3rd	Opening Opposition	View Ballot	Samridhi UpadhyayⒸ , Beranio Eric , Jodel Avenis
+Swing 1	1st	Opening Government	View Ballot	Samridhi UpadhyayⒸ , Beranio Eric , Jodel Avenis
+Swing 2	2nd	Closing Opposition	View Ballot	Samridhi UpadhyayⒸ , Beranio Eric , Jodel Avenis
+UVAS A	4th	Closing Government	View Ballot	Samridhi UpadhyayⒸ , Beranio Eric , Jodel Avenis
+Muneeba Square	4th	Opening Opposition	View Ballot	Joyce Delali KpegloⒸ , Aryan Dwivedi , Syeda Jessica
+Credit the extension or we&#x27;ll burn 	2nd	Closing Government	View Ballot	Joyce Delali KpegloⒸ , Aryan Dwivedi , Syeda Jessica
+KC A	3rd	Closing Opposition	View Ballot	Joyce Delali KpegloⒸ , Aryan Dwivedi , Syeda Jessica
+Do crime	1st	Opening Government	View Ballot	Joyce Delali KpegloⒸ , Aryan Dwivedi , Syeda Jessica
+Panel understand 🙏 (our whole case.	3rd	Closing Government	View Ballot	Axcel France EcoⒸ
+Panel Persuaders	4th	Closing Opposition	View Ballot	Axcel France EcoⒸ
+Killugon Coded	1st	Opening Opposition	View Ballot	Axcel France EcoⒸ
+GC Barkat	2nd	Opening Government	View Ballot	Axcel France EcoⒸ
+Amc No surprises	4th	Closing Government	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ
+Halal Debates	2nd	Closing Opposition	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ
+Habib Uni Team A	1st	Opening Government	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ
+HELP ME	3rd	Opening Opposition	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ
+
+
+team	result	side	ballot	adjudicators
+KEMU Good cop Bad Cop	4th	Closing Government	View Ballot	Saleem SalisuⒸ , Axcel France Eco
+MUST A	3rd	Opening Government	View Ballot	Saleem SalisuⒸ , Axcel France Eco
+Soyi hui qoum	2nd	Opening Opposition	View Ballot	Saleem SalisuⒸ , Axcel France Eco
+MagJacKarl tayo tuwing gabi naman	1st	Closing Opposition	View Ballot	Saleem SalisuⒸ , Axcel France Eco
+KSDC Error	4th	Closing Government	View Ballot	RegiⒸ , Didarul Mohsin
+Potential Losers	3rd	Closing Opposition	View Ballot	RegiⒸ , Didarul Mohsin
+Panel Persuaders	1st	Opening Government	View Ballot	RegiⒸ , Didarul Mohsin
+BDC B Ramadan Yappers	2nd	Opening Opposition	View Ballot	RegiⒸ , Didarul Mohsin
+Swing 1	2nd	Closing Opposition	View Ballot	Taha MasudⒸ , Aneeqa Kaleem , Prajanmo Paul
+Revenge of Ahmet Mohsin	1st	Closing Government	View Ballot	Taha MasudⒸ , Aneeqa Kaleem , Prajanmo Paul
+Mera BP high hogaya hai	4th	Opening Opposition	View Ballot	Taha MasudⒸ , Aneeqa Kaleem , Prajanmo Paul
+Wake up babe, Cody&#x27;s about to lose 	3rd	Opening Government	View Ballot	Taha MasudⒸ , Aneeqa Kaleem , Prajanmo Paul
+Amc No surprises	3rd	Opening Government	View Ballot	Nkosilathi NkalaⒸ , Nadesh Ragunath
+UVAS A	1st	Closing Opposition	View Ballot	Nkosilathi NkalaⒸ , Nadesh Ragunath
+Fixhana	4th	Closing Government	View Ballot	Nkosilathi NkalaⒸ , Nadesh Ragunath
+BUP Z	2nd	Opening Opposition	View Ballot	Nkosilathi NkalaⒸ , Nadesh Ragunath
+Just for fun 2.0	3rd	Closing Government	View Ballot	Idris IbrahimⒸ , Arshiya
+Khaki Club	2nd	Opening Government	View Ballot	Idris IbrahimⒸ , Arshiya
+GC A	1st	Opening Opposition	View Ballot	Idris IbrahimⒸ , Arshiya
+BDC A Hu Tao Thighs	4th	Closing Opposition	View Ballot	Idris IbrahimⒸ , Arshiya
+UPCountToTen	3rd	Closing Government	View Ballot	Samridhi UpadhyayⒸ , Sadik Jahan
+McKimmy Pro Max	4th	Opening Government	View Ballot	Samridhi UpadhyayⒸ , Sadik Jahan
+chino the dog &amp; fifi the cat	2nd	Closing Opposition	View Ballot	Samridhi UpadhyayⒸ , Sadik Jahan
+Professional Yappers	1st	Opening Opposition	View Ballot	Samridhi UpadhyayⒸ , Sadik Jahan
+Team UCFM	3rd	Closing Government	View Ballot	Donkor ArchimedesⒸ , Mohammad Fahim Munayem Bhuiyan
+Panel understand 🙏 (our whole case.	1st	Closing Opposition	View Ballot	Donkor ArchimedesⒸ , Mohammad Fahim Munayem Bhuiyan
+TNS Right	2nd	Opening Government	View Ballot	Donkor ArchimedesⒸ , Mohammad Fahim Munayem Bhuiyan
+father feather federzo	4th	Opening Opposition	View Ballot	Donkor ArchimedesⒸ , Mohammad Fahim Munayem Bhuiyan
+Nemnems	2nd	Closing Government	View Ballot	Isaac BagalawisⒸ , Jodel Avenis , Neil Ivan Florencio
+Tell me why	3rd	Opening Opposition	View Ballot	Isaac BagalawisⒸ , Jodel Avenis , Neil Ivan Florencio
+CU A	4th	Opening Government	View Ballot	Isaac BagalawisⒸ , Jodel Avenis , Neil Ivan Florencio
+Habib Uni Team A	1st	Closing Opposition	View Ballot	Isaac BagalawisⒸ , Jodel Avenis , Neil Ivan Florencio
+Wonton	2nd	Opening Government	View Ballot	MonisⒸ
+Gyrmmberial Mugguls	4th	Closing Government	View Ballot	MonisⒸ
+Ana &amp; Huy	1st	Opening Opposition	View Ballot	MonisⒸ
+CU B	3rd	Closing Opposition	View Ballot	MonisⒸ
+Credit the extension or we&#x27;ll burn 	2nd	Opening Government	View Ballot	Kojo O. AcheampongⒸ , Adam Malik Rozman , Athai Roy Dwip
+Halal Debates	3rd	Opening Opposition	View Ballot	Kojo O. AcheampongⒸ , Adam Malik Rozman , Athai Roy Dwip
+Circuit Breakers	4th	Closing Government	View Ballot	Kojo O. AcheampongⒸ , Adam Malik Rozman , Athai Roy Dwip
+Brothers in Christ	1st	Closing Opposition	View Ballot	Kojo O. AcheampongⒸ , Adam Malik Rozman , Athai Roy Dwip
+Walking 15k	4th	Opening Opposition	View Ballot	Umuhairu AlhassanⒸ , Vishesh Kumar Alpuria
+We&#x27;re Supposed to be on Vacation	3rd	Closing Opposition	View Ballot	Umuhairu AlhassanⒸ , Vishesh Kumar Alpuria
+pestilence and destruction	1st	Closing Government	View Ballot	Umuhairu AlhassanⒸ , Vishesh Kumar Alpuria
+TNS Left	2nd	Opening Government	View Ballot	Umuhairu AlhassanⒸ , Vishesh Kumar Alpuria
+Shuank Q	1st	Opening Opposition	View Ballot	Dang PhamⒸ
+Muneeba Square	2nd	Opening Government	View Ballot	Dang PhamⒸ
+Prep=Chika	3rd	Closing Government	View Ballot	Dang PhamⒸ
+HELP ME	4th	Closing Opposition	View Ballot	Dang PhamⒸ
+Team Agree to Disagree	1st	Opening Opposition	View Ballot	Joyce Delali KpegloⒸ , Sobaan Qadeer
+Archetypes	3rd	Opening Government	View Ballot	Joyce Delali KpegloⒸ , Sobaan Qadeer
+CUSD Acme	2nd	Closing Opposition	View Ballot	Joyce Delali KpegloⒸ , Sobaan Qadeer
+Convince Us	4th	Closing Government	View Ballot	Joyce Delali KpegloⒸ , Sobaan Qadeer
+Nova Institute SJ	2nd	Opening Opposition	View Ballot	Sadaf FaisalⒸ
+Religious Bluds	1st	Closing Government	View Ballot	Sadaf FaisalⒸ
+BNMDC 1	4th	Closing Opposition	View Ballot	Sadaf FaisalⒸ
+Anamoly X 🦋	3rd	Opening Government	View Ballot	Sadaf FaisalⒸ
+Swing 2	4th	Opening Government	View Ballot	Abdul WassayⒸ , Beranio Eric
+Killugon Coded	3rd	Closing Government	View Ballot	Abdul WassayⒸ , Beranio Eric
+A schoolie and a drop out	2nd	Opening Opposition	View Ballot	Abdul WassayⒸ , Beranio Eric
+Criss Cross	1st	Closing Opposition	View Ballot	Abdul WassayⒸ , Beranio Eric
+Satan May Be Caged, We&#x27;re Not	3rd	Opening Government	View Ballot	PolⒸ
+Have to finish the debate, new ep o	2nd	Opening Opposition	View Ballot	PolⒸ
+UVAS B	4th	Closing Government	View Ballot	PolⒸ
+CU C	1st	Closing Opposition	View Ballot	PolⒸ
+Swing 3	4th	Opening Opposition	View Ballot	Syeda JessicaⒸ
+SLU RT	3rd	Closing Government	View Ballot	Syeda JessicaⒸ
+GC Aligarh Campus	1st	Opening Government	View Ballot	Syeda JessicaⒸ
+GC Barkat	2nd	Closing Opposition	View Ballot	Syeda JessicaⒸ
+Dreamweavers	4th	Closing Opposition	View Ballot	AyodeleⒸ , Nusaibah Hossain , Tivlumun Alexander
+is debating halal?	1st	Closing Government	View Ballot	AyodeleⒸ , Nusaibah Hossain , Tivlumun Alexander
+S n K	3rd	Opening Government	View Ballot	AyodeleⒸ , Nusaibah Hossain , Tivlumun Alexander
+Do crime	2nd	Opening Opposition	View Ballot	AyodeleⒸ , Nusaibah Hossain , Tivlumun Alexander
+Mobile Nikaal	1st	Opening Government	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Shahjahan Tahir
+KC A	2nd	Opening Opposition	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Shahjahan Tahir
+DGBDS 06	4th	Closing Opposition	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Shahjahan Tahir
+UMT Same	3rd	Closing Government	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Shahjahan Tahir
+
+
+team	result	side	ballot	adjudicators
+is debating halal?	2nd	Closing Opposition	View Ballot	Lia Denise TanⒸ , Arshiya , Vishesh Kumar Alpuria
+Revenge of Ahmet Mohsin	1st	Opening Opposition	View Ballot	Lia Denise TanⒸ , Arshiya , Vishesh Kumar Alpuria
+Brothers in Christ	3rd	Closing Government	View Ballot	Lia Denise TanⒸ , Arshiya , Vishesh Kumar Alpuria
+Criss Cross	4th	Opening Government	View Ballot	Lia Denise TanⒸ , Arshiya , Vishesh Kumar Alpuria
+Nemnems	4th	Opening Government	View Ballot	Kojo O. AcheampongⒸ , Nusaibah Hossain
+GC Aligarh Campus	2nd	Closing Opposition	View Ballot	Kojo O. AcheampongⒸ , Nusaibah Hossain
+CU C	3rd	Closing Government	View Ballot	Kojo O. AcheampongⒸ , Nusaibah Hossain
+Wake up babe, Cody&#x27;s about to lose 	1st	Opening Opposition	View Ballot	Kojo O. AcheampongⒸ , Nusaibah Hossain
+Religious Bluds	2nd	Opening Opposition	View Ballot	Saleem SalisuⒸ , Nadesh Ragunath
+Circuit Breakers	1st	Closing Opposition	View Ballot	Saleem SalisuⒸ , Nadesh Ragunath
+We&#x27;re Supposed to be on Vacation	3rd	Closing Government	View Ballot	Saleem SalisuⒸ , Nadesh Ragunath
+Have to finish the debate, new ep o	4th	Opening Government	View Ballot	Saleem SalisuⒸ , Nadesh Ragunath
+MUST A	1st	Opening Opposition	View Ballot	Tivlumun AlexanderⒸ , Didarul Mohsin
+Panel understand 🙏 (our whole case.	4th	Opening Government	View Ballot	Tivlumun AlexanderⒸ , Didarul Mohsin
+Credit the extension or we&#x27;ll burn 	3rd	Closing Opposition	View Ballot	Tivlumun AlexanderⒸ , Didarul Mohsin
+Ana &amp; Huy	2nd	Closing Government	View Ballot	Tivlumun AlexanderⒸ , Didarul Mohsin
+Just for fun 2.0	1st	Closing Opposition	View Ballot	PolⒸ , Timsal Fatima
+CUSD Acme	2nd	Opening Opposition	View Ballot	PolⒸ , Timsal Fatima
+BDC A Hu Tao Thighs	4th	Closing Government	View Ballot	PolⒸ , Timsal Fatima
+UMT Same	3rd	Opening Government	View Ballot	PolⒸ , Timsal Fatima
+Nova Institute SJ	2nd	Closing Opposition	View Ballot	Umuhairu AlhassanⒸ , Samridhi Upadhyay
+Muneeba Square	4th	Closing Government	View Ballot	Umuhairu AlhassanⒸ , Samridhi Upadhyay
+Team UCFM	3rd	Opening Government	View Ballot	Umuhairu AlhassanⒸ , Samridhi Upadhyay
+TNS Right	1st	Opening Opposition	View Ballot	Umuhairu AlhassanⒸ , Samridhi Upadhyay
+Walking 15k	2nd	Closing Opposition	View Ballot	Dang PhamⒸ , Narayanan Somasundaram
+UVAS B	1st	Opening Government	View Ballot	Dang PhamⒸ , Narayanan Somasundaram
+CU B	4th	Opening Opposition	View Ballot	Dang PhamⒸ , Narayanan Somasundaram
+BUP Z	3rd	Closing Government	View Ballot	Dang PhamⒸ , Narayanan Somasundaram
+Swing 1	3rd	Closing Government	View Ballot	Aryan DwivediⒸ , Beranio Eric
+MagJacKarl tayo tuwing gabi naman	4th	Opening Government	View Ballot	Aryan DwivediⒸ , Beranio Eric
+A schoolie and a drop out	2nd	Closing Opposition	View Ballot	Aryan DwivediⒸ , Beranio Eric
+Habib Uni Team A	1st	Opening Opposition	View Ballot	Aryan DwivediⒸ , Beranio Eric
+Mobile Nikaal	1st	Closing Opposition	View Ballot	Nkosilathi NkalaⒸ , Steffi Francis
+Mera BP high hogaya hai	2nd	Opening Government	View Ballot	Nkosilathi NkalaⒸ , Steffi Francis
+GC Barkat	3rd	Opening Opposition	View Ballot	Nkosilathi NkalaⒸ , Steffi Francis
+TNS Left	4th	Closing Government	View Ballot	Nkosilathi NkalaⒸ , Steffi Francis
+Team Agree to Disagree	3rd	Opening Government	View Ballot	Isaac BagalawisⒸ , Diksha Sharma
+Killugon Coded	2nd	Closing Opposition	View Ballot	Isaac BagalawisⒸ , Diksha Sharma
+Khaki Club	4th	Opening Opposition	View Ballot	Isaac BagalawisⒸ , Diksha Sharma
+Professional Yappers	1st	Closing Government	View Ballot	Isaac BagalawisⒸ , Diksha Sharma
+UPCountToTen	1st	Opening Government	View Ballot	Axcel France EcoⒸ , Abdul Wassay , Shahjahan Tahir
+Raccoon and the Catto	4th	Closing Government	View Ballot	Axcel France EcoⒸ , Abdul Wassay , Shahjahan Tahir
+Prep=Chika	3rd	Opening Opposition	View Ballot	Axcel France EcoⒸ , Abdul Wassay , Shahjahan Tahir
+McKimmy Pro Max	2nd	Closing Opposition	View Ballot	Axcel France EcoⒸ , Abdul Wassay , Shahjahan Tahir
+Shuank Q	3rd	Closing Government	View Ballot	Taha MasudⒸ , Sadaf Faisal
+Wonton	2nd	Closing Opposition	View Ballot	Taha MasudⒸ , Sadaf Faisal
+SLU RT	1st	Opening Opposition	View Ballot	Taha MasudⒸ , Sadaf Faisal
+KC A	4th	Opening Government	View Ballot	Taha MasudⒸ , Sadaf Faisal
+Panel Persuaders	4th	Closing Government	View Ballot	AyodeleⒸ , Jodel Avenis
+UVAS A	2nd	Opening Opposition	View Ballot	AyodeleⒸ , Jodel Avenis
+CU A	3rd	Closing Opposition	View Ballot	AyodeleⒸ , Jodel Avenis
+chino the dog &amp; fifi the cat	1st	Opening Government	View Ballot	AyodeleⒸ , Jodel Avenis
+Amc No surprises	1st	Opening Opposition	View Ballot	MonisⒸ , Saud Salic , Sobaan Qadeer
+DGBDS 06	4th	Closing Government	View Ballot	MonisⒸ , Saud Salic , Sobaan Qadeer
+father feather federzo	3rd	Closing Opposition	View Ballot	MonisⒸ , Saud Salic , Sobaan Qadeer
+HELP ME	2nd	Opening Government	View Ballot	MonisⒸ , Saud Salic , Sobaan Qadeer
+KSDC Error	4th	Closing Opposition	View Ballot	Donkor ArchimedesⒸ , Sadik Jahan
+BNMDC 1	1st	Closing Government	View Ballot	Donkor ArchimedesⒸ , Sadik Jahan
+Convince Us	2nd	Opening Opposition	View Ballot	Donkor ArchimedesⒸ , Sadik Jahan
+Fixhana	3rd	Opening Government	View Ballot	Donkor ArchimedesⒸ , Sadik Jahan
+Dreamweavers	2nd	Opening Opposition	View Ballot	Idris IbrahimⒸ
+Halal Debates	3rd	Closing Government	View Ballot	Idris IbrahimⒸ
+Tell me why	4th	Closing Opposition	View Ballot	Idris IbrahimⒸ
+From Gilgít to Tamil Nadú	1st	Opening Government	View Ballot	Idris IbrahimⒸ
+Potential Losers	1st	Closing Government	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Marvhie S. Binwag , Prajanmo Paul
+Archetypes	2nd	Opening Opposition	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Marvhie S. Binwag , Prajanmo Paul
+Gyrmmberial Mugguls	3rd	Opening Government	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Marvhie S. Binwag , Prajanmo Paul
+Anamoly X 🦋	4th	Closing Opposition	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Marvhie S. Binwag , Prajanmo Paul
+Soyi hui qoum	1st	Closing Opposition	View Ballot	Joyce Delali KpegloⒸ , Neil Ivan Florencio
+S n K	4th	Closing Government	View Ballot	Joyce Delali KpegloⒸ , Neil Ivan Florencio
+pestilence and destruction	3rd	Opening Opposition	View Ballot	Joyce Delali KpegloⒸ , Neil Ivan Florencio
+GC A	2nd	Opening Government	View Ballot	Joyce Delali KpegloⒸ , Neil Ivan Florencio
+
+
+team	result	side	ballot	adjudicators
+Nova Institute SJ	1st	Opening Government	View Ballot	RegiⒸ
+Panel understand 🙏 (our whole case.	3rd	Opening Opposition	View Ballot	RegiⒸ
+CUSD Acme	4th	Closing Government	View Ballot	RegiⒸ
+TNS Left	2nd	Closing Opposition	View Ballot	RegiⒸ
+BNMDC 1	2nd	Opening Opposition	View Ballot	Nadesh RagunathⒸ , Jasmeet Kaur Khanna , Nusaibah Hossain
+Tell me why	1st	Opening Government	View Ballot	Nadesh RagunathⒸ , Jasmeet Kaur Khanna , Nusaibah Hossain
+Have to finish the debate, new ep o	4th	Closing Government	View Ballot	Nadesh RagunathⒸ , Jasmeet Kaur Khanna , Nusaibah Hossain
+Swing 5	3rd	Closing Opposition	View Ballot	Nadesh RagunathⒸ , Jasmeet Kaur Khanna , Nusaibah Hossain
+is debating halal?	1st	Opening Opposition	View Ballot	Imran IlmamⒸ , Samridhi Upadhyay
+Soyi hui qoum	3rd	Opening Government	View Ballot	Imran IlmamⒸ , Samridhi Upadhyay
+Revenge of Ahmet Mohsin	2nd	Closing Opposition	View Ballot	Imran IlmamⒸ , Samridhi Upadhyay
+Habib Uni Team A	4th	Closing Government	View Ballot	Imran IlmamⒸ , Samridhi Upadhyay
+MUST A	1st	Opening Opposition	View Ballot	Taha MasudⒸ , Beranio Eric
+GC Aligarh Campus	4th	Closing Government	View Ballot	Taha MasudⒸ , Beranio Eric
+GC A	2nd	Closing Opposition	View Ballot	Taha MasudⒸ , Beranio Eric
+Professional Yappers	3rd	Opening Government	View Ballot	Taha MasudⒸ , Beranio Eric
+UVAS B	4th	Opening Opposition	View Ballot	Joyce Delali KpegloⒸ
+From Gilgít to Tamil Nadú	1st	Closing Opposition	View Ballot	Joyce Delali KpegloⒸ
+chino the dog &amp; fifi the cat	2nd	Closing Government	View Ballot	Joyce Delali KpegloⒸ
+Brothers in Christ	3rd	Opening Government	View Ballot	Joyce Delali KpegloⒸ
+Muneeba Square	4th	Closing Opposition	View Ballot	Sadik JahanⒸ , Aryan Dwivedi , Didarul Mohsin
+Swing 2	1st	Closing Government	View Ballot	Sadik JahanⒸ , Aryan Dwivedi , Didarul Mohsin
+Gyrmmberial Mugguls	2nd	Opening Opposition	View Ballot	Sadik JahanⒸ , Aryan Dwivedi , Didarul Mohsin
+BDC A Hu Tao Thighs	3rd	Opening Government	View Ballot	Sadik JahanⒸ , Aryan Dwivedi , Didarul Mohsin
+KSDC Error	3rd	Opening Government	View Ballot	Sobaan QadeerⒸ , Neil Ivan Florencio
+Satan May Be Caged, We&#x27;re Not	2nd	Closing Opposition	View Ballot	Sobaan QadeerⒸ , Neil Ivan Florencio
+DGBDS 06	1st	Opening Opposition	View Ballot	Sobaan QadeerⒸ , Neil Ivan Florencio
+Swing 4	4th	Closing Government	View Ballot	Sobaan QadeerⒸ , Neil Ivan Florencio
+Nemnems	2nd	Closing Opposition	View Ballot	MonisⒸ
+Credit the extension or we&#x27;ll burn 	3rd	Opening Opposition	View Ballot	MonisⒸ
+UVAS A	1st	Opening Government	View Ballot	MonisⒸ
+TNS Right	4th	Closing Government	View Ballot	MonisⒸ
+Killugon Coded	2nd	Opening Government	View Ballot	Idris IbrahimⒸ , Shahjahan Tahir
+pestilence and destruction	1st	Closing Opposition	View Ballot	Idris IbrahimⒸ , Shahjahan Tahir
+CU C	4th	Opening Opposition	View Ballot	Idris IbrahimⒸ , Shahjahan Tahir
+Criss Cross	3rd	Closing Government	View Ballot	Idris IbrahimⒸ , Shahjahan Tahir
+Potential Losers	2nd	Opening Government	View Ballot	Nkosilathi NkalaⒸ
+KC A	1st	Closing Government	View Ballot	Nkosilathi NkalaⒸ
+S n K	4th	Closing Opposition	View Ballot	Nkosilathi NkalaⒸ
+McKimmy Pro Max	3rd	Opening Opposition	View Ballot	Nkosilathi NkalaⒸ
+Swing 1	2nd	Opening Opposition	View Ballot	ArshiyaⒸ , Diksha Sharma
+Dreamweavers	4th	Opening Government	View Ballot	ArshiyaⒸ , Diksha Sharma
+SLU RT	1st	Closing Opposition	View Ballot	ArshiyaⒸ , Diksha Sharma
+Ana &amp; Huy	3rd	Closing Government	View Ballot	ArshiyaⒸ , Diksha Sharma
+Shuank Q	2nd	Opening Government	View Ballot	Umuhairu AlhassanⒸ
+Amc No surprises	1st	Closing Opposition	View Ballot	Umuhairu AlhassanⒸ
+Walking 15k	4th	Closing Government	View Ballot	Umuhairu AlhassanⒸ
+Halal Debates	3rd	Opening Opposition	View Ballot	Umuhairu AlhassanⒸ
+Team Agree to Disagree	2nd	Closing Government	View Ballot	Tivlumun AlexanderⒸ
+Religious Bluds	4th	Closing Opposition	View Ballot	Tivlumun AlexanderⒸ
+UPCountToTen	3rd	Opening Opposition	View Ballot	Tivlumun AlexanderⒸ
+Circuit Breakers	1st	Opening Government	View Ballot	Tivlumun AlexanderⒸ
+Convince Us	1st	Opening Government	View Ballot	Saud SalicⒸ , Prajanmo Paul , Sadaf Faisal
+Anamoly X 🦋	2nd	Opening Opposition	View Ballot	Saud SalicⒸ , Prajanmo Paul , Sadaf Faisal
+CU B	4th	Closing Government	View Ballot	Saud SalicⒸ , Prajanmo Paul , Sadaf Faisal
+father feather federzo	3rd	Closing Opposition	View Ballot	Saud SalicⒸ , Prajanmo Paul , Sadaf Faisal
+Wonton	4th	Opening Opposition	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ
+Just for fun 2.0	3rd	Opening Government	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ
+Mera BP high hogaya hai	2nd	Closing Opposition	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ
+GC Barkat	1st	Closing Government	View Ballot	Matthew Ace Angelo Tinamisan (LM)Ⓒ
+Mobile Nikaal	4th	Closing Government	View Ballot	AyodeleⒸ , Saleem Salisu
+MagJacKarl tayo tuwing gabi naman	3rd	Opening Opposition	View Ballot	AyodeleⒸ , Saleem Salisu
+Wake up babe, Cody&#x27;s about to lose 	1st	Closing Opposition	View Ballot	AyodeleⒸ , Saleem Salisu
+A schoolie and a drop out	2nd	Opening Government	View Ballot	AyodeleⒸ , Saleem Salisu
+Swing 3	1st	Closing Opposition	View Ballot	Donkor ArchimedesⒸ , Vishesh Kumar Alpuria
+We&#x27;re Supposed to be on Vacation	2nd	Opening Government	View Ballot	Donkor ArchimedesⒸ , Vishesh Kumar Alpuria
+Khaki Club	3rd	Closing Government	View Ballot	Donkor ArchimedesⒸ , Vishesh Kumar Alpuria
+CU A	4th	Opening Opposition	View Ballot	Donkor ArchimedesⒸ , Vishesh Kumar Alpuria
+Team UCFM	4th	Closing Opposition	View Ballot	Kojo O. AcheampongⒸ , Jodel Avenis
+Archetypes	1st	Closing Government	View Ballot	Kojo O. AcheampongⒸ , Jodel Avenis
+Panel Persuaders	2nd	Opening Opposition	View Ballot	Kojo O. AcheampongⒸ , Jodel Avenis
+Prep=Chika	3rd	Opening Government	View Ballot	Kojo O. AcheampongⒸ , Jodel Avenis
+
+
+team	result	side	adjudicators
+SLU RT	eliminated	Closing Opposition	Nkosilathi NkalaⒸ , Monis , Saleem Salisu
+Killugon Coded	advancing	Opening Opposition	Nkosilathi NkalaⒸ , Monis , Saleem Salisu
+Revenge of Ahmet Mohsin	advancing	Opening Government	Nkosilathi NkalaⒸ , Monis , Saleem Salisu
+GC A	eliminated	Closing Government	Nkosilathi NkalaⒸ , Monis , Saleem Salisu
+MUST A	advancing	Closing Government	Donkor ArchimedesⒸ , Ayodele , Pol
+Soyi hui qoum	advancing	Opening Opposition	Donkor ArchimedesⒸ , Ayodele , Pol
+chino the dog &amp; fifi the cat	eliminated	Closing Opposition	Donkor ArchimedesⒸ , Ayodele , Pol
+Professional Yappers	eliminated	Opening Government	Donkor ArchimedesⒸ , Ayodele , Pol
+is debating halal?	advancing	Closing Opposition	Axcel France EcoⒸ , Matthew Ace Angelo Tinamisan (LM) , Saud Salic
+Circuit Breakers	eliminated	Opening Government	Axcel France EcoⒸ , Matthew Ace Angelo Tinamisan (LM) , Saud Salic
+A schoolie and a drop out	advancing	Opening Opposition	Axcel France EcoⒸ , Matthew Ace Angelo Tinamisan (LM) , Saud Salic
+Habib Uni Team A	eliminated	Closing Government	Axcel France EcoⒸ , Matthew Ace Angelo Tinamisan (LM) , Saud Salic
+pestilence and destruction	advancing	Closing Opposition	Taha MasudⒸ , Beranio Eric , Tivlumun Alexander
+UVAS A	eliminated	Opening Government	Taha MasudⒸ , Beranio Eric , Tivlumun Alexander
+GC Barkat	eliminated	Closing Government	Taha MasudⒸ , Beranio Eric , Tivlumun Alexander
+Wake up babe, Cody&#x27;s about to lose 	advancing	Opening Opposition	Taha MasudⒸ , Beranio Eric , Tivlumun Alexander
+
+
+team	result	side	adjudicators
+Killugon Coded	eliminated	Closing Government	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Monis , Nkosilathi Nkala , Pol , Shahjahan Tahir
+Revenge of Ahmet Mohsin	eliminated	Opening Government	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Monis , Nkosilathi Nkala , Pol , Shahjahan Tahir
+pestilence and destruction	advancing	Closing Opposition	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Monis , Nkosilathi Nkala , Pol , Shahjahan Tahir
+Wake up babe, Cody&#x27;s about to lose 	advancing	Opening Opposition	Matthew Ace Angelo Tinamisan (LM)Ⓒ , Monis , Nkosilathi Nkala , Pol , Shahjahan Tahir
+MUST A	eliminated	Closing Government	RegiⒸ , Beranio Eric , Donkor Archimedes , Saud Salic , Tivlumun Alexander
+is debating halal?	advancing	Opening Opposition	RegiⒸ , Beranio Eric , Donkor Archimedes , Saud Salic , Tivlumun Alexander
+Soyi hui qoum	eliminated	Closing Opposition	RegiⒸ , Beranio Eric , Donkor Archimedes , Saud Salic , Tivlumun Alexander
+A schoolie and a drop out	advancing	Opening Government	RegiⒸ , Beranio Eric , Donkor Archimedes , Saud Salic , Tivlumun Alexander
+
+
+team	result	side	adjudicators
+is debating halal?	advancing	Opening Opposition	Shahjahan TahirⒸ , Abdul Wassay , Beranio Eric , Idris Ibrahim , Imran Ilmam , Matthew Ace Angelo Tinamisan (LM) , Nkosilathi Nkala
+pestilence and destruction	eliminated	Closing Opposition	Shahjahan TahirⒸ , Abdul Wassay , Beranio Eric , Idris Ibrahim , Imran Ilmam , Matthew Ace Angelo Tinamisan (LM) , Nkosilathi Nkala
+Wake up babe, Cody&#x27;s about to lose 	eliminated	Closing Government	Shahjahan TahirⒸ , Abdul Wassay , Beranio Eric , Idris Ibrahim , Imran Ilmam , Matthew Ace Angelo Tinamisan (LM) , Nkosilathi Nkala
+A schoolie and a drop out	eliminated	Opening Government	Shahjahan TahirⒸ , Abdul Wassay , Beranio Eric , Idris Ibrahim , Imran Ilmam , Matthew Ace Angelo Tinamisan (LM) , Nkosilathi Nkala
+
+
+team	result	side	adjudicators
+Shuank Q	eliminated	Opening Opposition	Joyce Delali KpegloⒸ , Nusaibah Hossain , Samridhi Upadhyay
+Halal Debates	eliminated	Opening Government	Joyce Delali KpegloⒸ , Nusaibah Hossain , Samridhi Upadhyay
+Tell me why	advancing	Closing Opposition	Joyce Delali KpegloⒸ , Nusaibah Hossain , Samridhi Upadhyay
+TNS Right	advancing	Closing Government	Joyce Delali KpegloⒸ , Nusaibah Hossain , Samridhi Upadhyay
+Potential Losers	eliminated	Closing Government	Vishesh Kumar AlpuriaⒸ , Jodel Avenis , Kojo O. Acheampong
+Archetypes	advancing	Opening Government	Vishesh Kumar AlpuriaⒸ , Jodel Avenis , Kojo O. Acheampong
+Khaki Club	advancing	Opening Opposition	Vishesh Kumar AlpuriaⒸ , Jodel Avenis , Kojo O. Acheampong
+CU C	eliminated	Closing Opposition	Vishesh Kumar AlpuriaⒸ , Jodel Avenis , Kojo O. Acheampong
+
+
+team	result	side	adjudicators
+Team Agree to Disagree	advancing	Opening Government	ArshiyaⒸ , Axcel France Eco , Dang Pham
+Tell me why	eliminated	Closing Opposition	ArshiyaⒸ , Axcel France Eco , Dang Pham
+Ana &amp; Huy	advancing	Opening Opposition	ArshiyaⒸ , Axcel France Eco , Dang Pham
+TNS Right	eliminated	Closing Government	ArshiyaⒸ , Axcel France Eco , Dang Pham
+Archetypes	eliminated	Opening Opposition	Idris IbrahimⒸ , Umuhairu Alhassan , Vishesh Kumar Alpuria
+Khaki Club	advancing	Closing Opposition	Idris IbrahimⒸ , Umuhairu Alhassan , Vishesh Kumar Alpuria
+TNS Left	eliminated	Closing Government	Idris IbrahimⒸ , Umuhairu Alhassan , Vishesh Kumar Alpuria
+Brothers in Christ	advancing	Opening Government	Idris IbrahimⒸ , Umuhairu Alhassan , Vishesh Kumar Alpuria
+
+
+team	result	side	adjudicators
+Team Agree to Disagree	eliminated	Opening Opposition	RegiⒸ , Arshiya , Axcel France Eco , Donkor Archimedes , Pol
+Ana &amp; Huy	eliminated	Closing Government	RegiⒸ , Arshiya , Axcel France Eco , Donkor Archimedes , Pol
+Khaki Club	eliminated	Opening Government	RegiⒸ , Arshiya , Axcel France Eco , Donkor Archimedes , Pol
+Brothers in Christ	advancing	Closing Opposition	RegiⒸ , Arshiya , Axcel France Eco , Donkor Archimedes , Pol
+

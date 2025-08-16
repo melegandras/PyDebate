@@ -1,0 +1,721 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Apply to join our hedge fund		2nd	2nd	1st	1st	1st	13	821	3	2
+2	Harish and Matt		1st	1st	1st	3rd	2nd	12	832	3	1
+3	one worlds win and the dickhead’s g		1st	3rd	1st	2nd	1st	12	826	3	1
+4	Princeton/McGill LR		1st	1st	2nd	1st	3rd	12	821	3	1
+5	drink on us for guessing who debate		1st	1st	3rd	1st	2nd	12	812	3	1
+6	UCD L&amp;H here to w(A)lk that fucking		2nd	2nd	2nd	1st	1st	12	794	2	3
+7	We came here to end racism and win 		1st	1st	1st	2nd	4th	11	836	3	1
+8	Not to victim blame, but Lucy deser		1st	2nd	1st	4th	1st	11	827	3	1
+9	In Russia, death and sex are the sa		1st	1st	4th	1st	2nd	11	804	3	1
+10	Dr Strangelove or How I Learned to		2nd	2nd	1st	3rd	1st	11	798	2	2
+11	Avanti Ragazzi di Buda	ESL	2nd	2nd	1st	4th	1st	10	825	2	2
+12	Asian John and White Yoko		2nd	1st	2nd	2nd	3rd	10	818	1	3
+13	wooooo!!! debating!!!!! Let’s go!!!		2nd	3rd	1st	2nd	2nd	10	806	1	3
+14	Ninja Pagongs		1st	4th	2nd	2nd	1st	10	800	2	2
+15	UCL (A)lternate Timeline		1st	2nd	2nd	3rd	2nd	10	798	1	3
+16	Extending into your mum&#x27;s dms		1st	3rd	2nd	2nd	2nd	10	796	1	3
+17	The Hat Men		2nd	2nd	3rd	2nd	1st	10	788	1	3
+18	Harish if he was young, poor and ha	ESL	3rd	1st	2nd	1st	4th	9	810	2	1
+19	Challenging Universal Notions Towar		2nd	1st	4th	1st	3rd	9	805	2	1
+20	Burning trashfire	ESL	1st	4th	2nd	3rd	1st	9	800	2	1
+21	Shaq&amp;Tom		2nd	3rd	1st	1st	4th	9	789	2	1
+22	Both Hiding English Accents		1st	2nd	3rd	2nd	3rd	9	789	1	2
+23	Harvard A		2nd	4th	1st	3rd	1st	9	788	2	1
+24	KCL Aber one of us is from austin, 		3rd	1st	4th	2nd	1st	9	782	2	1
+25	BDU arm aber sexy		4th	1st	2nd	1st	3rd	9	776	2	1
+26	Imperial lists		3rd	2nd	2nd	2nd	2nd	9	775	0	4
+27	brown and down to clown(frown)		2nd	3rd	2nd	3rd	1st	9	773	1	2
+28	Imperial This comp needs a ChatGPT 		3rd	1st	4th	1st	2nd	9	769	2	1
+29	Parth Pandya&#x27;s Peter Parker Partner		1st	2nd	4th	1st	4th	8	816	2	1
+30	Hooting and Hollering until the Cha		1st	3rd	2nd	4th	2nd	8	804	1	2
+31	ETH Zürich DT		2nd	1st	2nd	4th	3rd	8	802	1	2
+32	Fax don&#x27;t care about your fealty		1st	3rd	1st	3rd	4th	8	801	2	0
+33	Athens A	ESL	2nd	1st	3rd	4th	2nd	8	793	1	2
+34	will make you scream harder than ho		1st	4th	3rd	1st	3rd	8	786	2	0
+35	Oxford B	Novice	1st	4th	1st	3rd	3rd	8	782	2	0
+36	Wantaaage peeps		4th	1st	4th	1st	2nd	8	768	2	1
+37	14 more minutes of crying, 14 more 		2nd	4th	1st	4th	1st	8	766	2	1
+38	Got Fucked Over By White Men	Novice	3rd	3rd	1st	3rd	2nd	8	766	1	1
+39	mickey smells 💩	Novice	2nd	3rd	3rd	3rd	1st	8	751	1	1
+40	Durham Barbie and Kendrick		—	2nd	3rd	2nd	1st	8	616	1	2
+41	Balkan Girls	ESL	3rd	1st	4th	2nd	3rd	7	791	1	1
+42	Oxford AP		1st	2nd	3rd	4th	3rd	7	788	1	1
+43	Tartu A	ESL	3rd	4th	1st	2nd	3rd	7	769	1	1
+44	W = mc²	ESL	2nd	3rd	3rd	2nd	3rd	7	769	0	2
+45	Cambridge Swift	Novice	3rd	2nd	1st	3rd	4th	7	767	1	1
+46	Wondering what seriousposting disco		3rd	1st	3rd	2nd	4th	7	763	1	1
+47	UCD L&amp;H Queens recolonising Ireland		3rd	4th	1st	1st	4th	7	759	2	0
+48	Lucky Crickets	Novice	4th	2nd	3rd	3rd	1st	7	757	1	1
+49	Feta Zubrowka	ESL	4th	1st	4th	3rd	1st	7	752	2	0
+50	Unfunny Team Name	Novice	2nd	4th	2nd	4th	1st	7	731	1	2
+51	The FT		3rd	4th	2nd	2nd	2nd	7	731	0	3
+52	EXEtremely nerdy politics students		3rd	2nd	4th	1st	4th	6	766	1	1
+53	UoL Harry Potter and the boy who co		3rd	1st	3rd	4th	3rd	6	763	1	0
+54	UCL David &amp; Goliath		1st	4th	1st	4th	4th	6	760	2	0
+55	UCL Spicy Sauce	Novice	4th	3rd	2nd	1st	4th	6	758	1	1
+56	LBS A	ESL	3rd	3rd	2nd	3rd	3rd	6	758	0	1
+57	Imperial MS		2nd	4th	2nd	4th	2nd	6	755	0	3
+58	Warwick I GUESS THAT K(A)NT GETTING		1st	3rd	4th	4th	2nd	6	753	1	1
+59	We do own a braincell, collectively	ESL	4th	3rd	1st	4th	2nd	6	748	1	1
+60	Argument Alchemists	Novice	3rd	3rd	3rd	1st	4th	6	745	1	0
+61	Norwich A		4th	3rd	3rd	3rd	1st	6	741	1	0
+62	UCL J		4th	1st	3rd	3rd	3rd	6	736	1	0
+63	ETH Zürich KS	ESL, Novice	4th	4th	2nd	2nd	2nd	6	731	0	3
+64	Chefs	ESL	3rd	3rd	4th	3rd	2nd	5	752	0	1
+65	tandoori fish and chips	Novice	3rd	2nd	3rd	3rd	4th	5	748	0	1
+66	Sheffield Am and his An	Novice	4th	3rd	3rd	2nd	3rd	5	734	0	1
+67	Norwich B	Novice	4th	3rd	4th	1st	3rd	5	729	1	0
+68	SOAS 1	Novice	4th	4th	3rd	2nd	2nd	5	728	0	2
+69	CCP Aristocrats		4th	2nd	4th	1st	—	5	589	1	1
+70	Swing Chicken POPCORN		2nd	—	—	—	1st	5	299	1	1
+71	Win = cat feet pics	ESL	3rd	4th	2nd	4th	3rd	4	747	0	1
+72	Josh forced us to be here	Novice	4th	2nd	4th	2nd	4th	4	734	0	2
+73	The Underdogs	Novice	2nd	4th	3rd	3rd	4th	4	731	0	1
+74	Norwich C	Novice	3rd	4th	4th	1st	4th	4	730	1	0
+75	Tyrants	Novice	4th	4th	1st	4th	3rd	4	724	1	0
+76	EXEtension case	Novice	4th	1st	4th	4th	4th	3	753	1	0
+77	Durham HA	Novice	3rd	2nd	4th	4th	4th	3	728	0	1
+78	SOAS 2	Novice	4th	2nd	4th	4th	3rd	3	714	0	1
+79	Danube Debaters	Novice	4th	4th	4th	3rd	2nd	3	712	0	1
+80	EyUpSheff		4th	3rd	3rd	4th	—	2	548	0	0
+81	Imperial Go Easy On Us 🍀		4th	4th	4th	4th	4th	0	707	0	0
+82	Swing AUBERGINE parmigiana		—	—	—	—	4th	0	144	0	0
+83	Swing Curry COMBO		—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1=	Harish Natarajan		Harish and Matt	83	84	83	84	84	418	83.60	0.49
+1=	Jack Synnott		We came here to end racism and win 	82	86	84	85	81	418	83.60	1.85
+1=	Mark Rothery		We came here to end racism and win 	80	87	86	85	80	418	83.60	3.01
+4=	Matt Caito		Harish and Matt	82	83	81	83	85	414	82.80	1.33
+4=	Zarina Bell-Gam		one worlds win and the dickhead’s g	83	80	83	83	85	414	82.80	1.60
+4=	Lucy Murphy		Not to victim blame, but Lucy deser	82	82	84	84	82	414	82.80	0.98
+4=	Rumen Marinov	ESL	Avanti Ragazzi di Buda	80	82	87	80	85	414	82.80	2.79
+8=	Xiao-ke Lu		Princeton/McGill LR	77	83	84	87	82	413	82.60	3.26
+8=	Aidan Woo		Asian John and White Yoko	82	83	83	82	83	413	82.60	0.49
+8=	Jack Palmer		Not to victim blame, but Lucy deser	81	82	85	81	84	413	82.60	1.62
+11=	Aniket Chakravorty		one worlds win and the dickhead’s g	83	80	83	82	84	412	82.40	1.36
+11=	Ye Joo Han		Apply to join our hedge fund	82	79	82	83	86	412	82.40	2.24
+13	Radko Nedyalkov	ESL	Avanti Ragazzi di Buda	79	81	86	80	85	411	82.20	2.79
+14	Joseph Lewis		Parth Pandya&#x27;s Peter Parker Partner	81	85	81	83	80	410	82.00	1.79
+15	Devesh Kodnani		Apply to join our hedge fund	81	79	82	81	86	409	81.80	2.32
+16	Max Rosen		Princeton/McGill LR	78	81	83	85	81	408	81.60	2.33
+17	Wajeeh Maaz		drink on us for guessing who debate	82	80	79	83	83	407	81.40	1.62
+18=	Alek Selveliev	ESL	Harish if he was young, poor and ha	77	83	79	86	81	406	81.20	3.12
+18=	Abhinav Bathula		Ninja Pagongs	84	82	77	80	83	406	81.20	2.48
+18=	Parth Pandya		Parth Pandya&#x27;s Peter Parker Partner	81	85	79	80	81	406	81.20	2.04
+21=	Alexandra McCreadie		wooooo!!! debating!!!!! Let’s go!!!	78	80	83	82	82	405	81.00	1.79
+21=	Eleanor Douglas		Asian John and White Yoko	80	82	81	81	81	405	81.00	0.63
+21=	Lucie Slamova		drink on us for guessing who debate	81	80	79	83	82	405	81.00	1.41
+24=	Velina Andonova	ESL	Harish if he was young, poor and ha	77	83	79	85	80	404	80.80	2.86
+24=	Dhruv Hariharan		ETH Zürich DT	80	84	82	77	81	404	80.80	2.32
+26=	Ana Coman	ESL	Burning trashfire	82	78	83	78	82	403	80.60	2.15
+26=	Isabelle Sim Yun Yi		Hooting and Hollering until the Cha	81	82	83	77	80	403	80.60	2.06
+26=	Keerthana Bathula		Challenging Universal Notions Towar	81	83	81	80	78	403	80.60	1.62
+26=	Emily Frizell		Fax don&#x27;t care about your fealty	82	78	82	81	80	403	80.60	1.50
+26=	Josh Kemp		In Russia, death and sex are the sa	81	84	79	81	78	403	80.60	2.06
+26=	Zainab Sardar		Dr Strangelove or How I Learned to	77	84	79	79	84	403	80.60	2.87
+32	Taha Iqbal		Challenging Universal Notions Towar	80	83	82	80	77	402	80.40	2.06
+33=	Taran Molloy		Hooting and Hollering until the Cha	81	82	83	76	79	401	80.20	2.48
+33=	Jack Stanley		In Russia, death and sex are the sa	81	82	78	82	78	401	80.20	1.83
+33=	Rohan Campion		Extending into your mum&#x27;s dms	79	80	81	78	83	401	80.20	1.72
+33=	Umar Buckus		UCL (A)lternate Timeline	82	78	81	77	83	401	80.20	2.32
+37=	Dylan McCarthy		Fax don&#x27;t care about your fealty	81	76	82	81	78	398	79.60	2.24
+37=	Teymour Aldridge	Novice	ETH Zürich DT	78	83	80	77	80	398	79.60	2.06
+37=	Roibeárd Mac Giolla Phádraig		UCD L&amp;H here to w(A)lk that fucking	81	82	78	78	79	398	79.60	1.62
+40=	Theo Simion	ESL	Burning trashfire	81	77	81	77	81	397	79.40	1.96
+40=	Panagis Gouvelis	ESL	Athens A	77	81	82	75	82	397	79.40	2.87
+40=	Irina Chicus	ESL	Balkan Girls	78	81	81	80	77	397	79.40	1.62
+40=	Rick Tan		UCL (A)lternate Timeline	81	78	79	77	82	397	79.40	1.85
+44=	Wurdaan Kashif		The Hat Men	81	82	78	77	78	396	79.20	1.94
+44=	George Fragkiadakis	ESL	Athens A	78	81	80	75	82	396	79.20	2.48
+44=	Shane Tully		UCD L&amp;H here to w(A)lk that fucking	80	80	77	78	81	396	79.20	1.47
+47=	Esmé Thornhill-Davis		Both Hiding English Accents	77	81	81	78	78	395	79.00	1.67
+47=	Eoghan Connolly		Dr Strangelove or How I Learned to	76	82	78	77	82	395	79.00	2.53
+47=	Shaq Scott-Davis		Shaq&amp;Tom	79	77	81	81	77	395	79.00	1.79
+47=	Sasha Khovrak	ESL	Extending into your mum&#x27;s dms	79	77	81	77	81	395	79.00	1.79
+47=	William Smith		will make you scream harder than ho	79	79	83	77	77	395	79.00	2.19
+52=	Tom Milling		Both Hiding English Accents	77	79	79	80	79	394	78.80	0.98
+52=	Ambika Grover		Harvard A	80	79	79	74	82	394	78.80	2.64
+52=	Max Fan		Harvard A	79	79	79	73	84	394	78.80	3.49
+52=	Tom Kuson		Shaq&amp;Tom	80	78	81	79	76	394	78.80	1.72
+52=	Oana Nitu	ESL	Balkan Girls	78	80	81	79	76	394	78.80	1.72
+52=	Ahmed Hussain		Oxford AP	80	80	82	74	78	394	78.80	2.71
+52=	Pranav Baskar		Oxford AP	79	81	82	74	78	394	78.80	2.79
+52=	Eaton Sia	Novice	Ninja Pagongs	81	80	76	76	81	394	78.80	2.32
+60=	Cian Delahunty		The Hat Men	79	81	77	77	78	392	78.40	1.50
+60=	Tajei Puthucheary	Novice	Oxford B	78	76	84	77	77	392	78.40	2.87
+62=	Redacted		—	79	79	79	77	77	391	78.20	0.98
+62=	Zachary &quot;Zach&quot; Sidney Austin Godley-McAvoy		KCL Aber one of us is from austin, 	80	79	79	75	78	391	78.20	1.72
+62=	Alastair Bowyer		will make you scream harder than ho	79	78	81	76	77	391	78.20	1.72
+65	Tanush Agarwal	Novice	Oxford B	78	77	84	77	74	390	78.00	3.29
+66=	Lisa Knodt		BDU arm aber sexy	75	79	78	76	81	389	77.80	2.14
+66=	Manav Dhaliwal		brown and down to clown(frown)	77	77	77	76	82	389	77.80	2.14
+68	Daanish Sohail Sonawala		Imperial lists	78	77	77	79	77	388	77.60	0.80
+69=	Felix Reischl	ESL	BDU arm aber sexy	74	78	79	74	82	387	77.40	3.07
+69=	Thomas Calcagno	ESL	Imperial lists	78	78	76	77	78	387	77.40	0.80
+71=	Cameron Docherty		Wondering what seriousposting disco	78	81	75	76	76	386	77.20	2.14
+71=	Emma Bell	Novice	Cambridge Swift	77	78	78	78	75	386	77.20	1.17
+71=	Maurice Coutiel	ESL	W = mc²	77	81	75	75	78	386	77.20	2.23
+74=	Aarit Bhattacharya		Imperial This comp needs a ChatGPT 	76	79	77	77	76	385	77.00	1.10
+74=	Kristjan Suuder	ESL	Tartu A	79	75	78	77	76	385	77.00	1.41
+76=	Matthew Hamer		Imperial This comp needs a ChatGPT 	75	78	76	77	78	384	76.80	1.17
+76=	Ellie Middleton		Wantaaage peeps	74	78	74	77	81	384	76.80	2.64
+76=	Henry clement-jones		Wantaaage peeps	74	76	75	78	81	384	76.80	2.48
+76=	Wendy Lian	Novice	Got Fucked Over By White Men	75	76	78	79	76	384	76.80	1.47
+76=	Jack Jillings		14 more minutes of crying, 14 more 	76	76	79	76	77	384	76.80	1.17
+76=	Tanel Mütt	ESL	Tartu A	81	75	78	76	74	384	76.80	2.48
+82=	Maraia Chissa	ESL	W = mc²	76	79	74	76	78	383	76.60	1.74
+82=	Joshua Stone	Novice	UoL Harry Potter and the boy who co	75	79	79	75	75	383	76.60	1.96
+82=	Cordelia Thompson		EXEtremely nerdy politics students	75	78	76	77	77	383	76.60	1.02
+85=	Aurora Zhang	Novice	Got Fucked Over By White Men	75	74	78	77	78	382	76.40	1.62
+85=	Olivia Ortlieb		14 more minutes of crying, 14 more 	75	77	76	77	77	382	76.40	0.80
+87=	Anoushka Kale	Novice	Cambridge Swift	78	76	77	75	75	381	76.20	1.17
+87=	Jeremiah Kenyanjui	Novice	mickey smells 💩	79	78	75	76	73	381	76.20	2.14
+87=	Angela Lu	Novice	Lucky Crickets	74	77	76	74	80	381	76.20	2.23
+87=	Emma Kelly		UCD L&amp;H Queens recolonising Ireland	77	77	74	79	74	381	76.20	1.94
+91=	Miranda Shen	ESL	LBS A	77	76	77	76	74	380	76.00	1.10
+91=	Santiago Jimenez-Rowe		UCL David &amp; Goliath	78	76	79	73	74	380	76.00	2.28
+91=	Hamza Nouman	ESL	UCL David &amp; Goliath	79	75	79	73	74	380	76.00	2.53
+91=	Jaypheth Balang Paul	ESL	UoL Harry Potter and the boy who co	74	79	78	75	74	380	76.00	2.10
+95=	Yuen Bing Ooi	Novice	UCL Spicy Sauce	77	77	75	76	74	379	75.80	1.17
+95=	Jasmine Harding	Novice	UCL Spicy Sauce	76	77	76	77	73	379	75.80	1.47
+95=	Tik Sze		Imperial MS	77	73	77	76	76	379	75.80	1.47
+98=	Jayson Currie	Novice	EXEtension case	77	78	76	73	74	378	75.60	1.85
+98=	Danil Kustin	ESL	LBS A	78	76	77	74	73	378	75.60	1.85
+98=	Mikołaj Jabłoński	ESL	Feta Zubrowka	73	78	73	76	78	378	75.60	2.24
+98=	Ayman Memon		UCD L&amp;H Queens recolonising Ireland	77	76	74	77	74	378	75.60	1.36
+102=	Maher Gidwani	Novice	Wondering what seriousposting disco	77	77	77	73	73	377	75.40	1.96
+102=	Zach Wilson	Novice	Warwick I GUESS THAT K(A)NT GETTING	75	78	77	72	75	377	75.40	2.06
+102=	Hania Pabis	ESL	Win = cat feet pics	78	76	72	74	77	377	75.40	2.15
+105=	Krish Singh		Warwick I GUESS THAT K(A)NT GETTING	75	78	74	73	76	376	75.20	1.72
+105=	Patryk Biernat	ESL	We do own a braincell, collectively	76	76	75	73	76	376	75.20	1.17
+105=	Antonia Rieder	Novice	Argument Alchemists	75	72	74	80	75	376	75.20	2.64
+105=	Mustafaa Khan	Novice	Imperial MS	76	72	76	76	76	376	75.20	1.60
+105=	Aimee Rogers	Novice	Lucky Crickets	74	76	75	74	77	376	75.20	1.17
+105=	Agnes Li	ESL	Chefs	76	76	74	72	78	376	75.20	2.04
+105=	Myra Kong	ESL	Chefs	76	76	75	71	78	376	75.20	2.32
+112=	Nikhil Santhoshkumar Pillai	Novice	EXEtension case	76	77	76	72	74	375	75.00	1.79
+112=	Brian Jones	Novice	tandoori fish and chips	77	77	76	76	69	375	75.00	3.03
+114	Michaela-Georgia Vachou-Peirantakou	ESL	Feta Zubrowka	73	77	73	74	77	374	74.80	1.83
+115	Nikhil Akappuram	ESL, Novice	tandoori fish and chips	76	76	76	77	68	373	74.60	3.32
+116=	Nadia Mayer	ESL	We do own a braincell, collectively	75	75	75	73	74	372	74.40	0.80
+116=	Oscar Stanley		Norwich A	75	74	72	72	79	372	74.40	2.58
+118=	Dominik Jasiolek	ESL	Win = cat feet pics	75	74	73	73	75	370	74.00	0.89
+118=	Clara MacDonald	Novice	mickey smells 💩	76	77	73	73	71	370	74.00	2.19
+120=	Jazmin Velenczei	Novice	Argument Alchemists	72	71	72	80	74	369	73.80	3.25
+120=	Kian Bigović Villi	ESL, Novice	ETH Zürich KS	74	74	71	74	76	369	73.80	1.60
+120=	Ember Tan	Novice	UCL J	70	76	78	74	71	369	73.80	2.99
+120=	Alex Banks		Norwich A	73	73	71	72	80	369	73.80	3.19
+124=	Johanna Issak	ESL, Novice	Sheffield Am and his An	73	75	71	75	74	368	73.60	1.50
+124=	Nigel Mushayavanhu	Novice	Tyrants	75	74	72	74	73	368	73.60	1.02
+124=	Fox Chyatte	Novice	Unfunny Team Name	74	76	72	70	76	368	73.60	2.33
+127=	Zahra Mahmood	Novice	Josh forced us to be here	74	76	70	74	73	367	73.40	1.96
+127=	Frances Douglas Thomson		The FT	71	75	74	76	71	367	73.40	2.06
+127=	Zoe Wang		UCL J	70	76	77	74	70	367	73.40	2.94
+130=	Samuel Allen	Novice	Sheffield Am and his An	73	75	69	76	73	366	73.20	2.40
+130=	Adithi Avadhani	ESL, Novice	Durham HA	75	75	72	71	73	366	73.20	1.60
+130=	Armand Finni	Novice	The Underdogs	75	75	72	75	69	366	73.20	2.40
+130=	Akshata Samaddar	Novice	Norwich C	74	70	71	78	73	366	73.20	2.79
+134=	Polina Skokov	Novice	The Underdogs	76	75	71	74	69	365	73.00	2.61
+134=	Seb Magnago	Novice	Norwich B	74	74	69	74	74	365	73.00	2.00
+136=	Tian Xia	ESL	The FT	71	73	73	76	71	364	72.80	1.83
+136=	Hamid Hanif	Novice	SOAS 1	72	73	68	76	75	364	72.80	2.79
+136=	Noura Mokhtari	Novice	SOAS 1	72	72	69	76	75	364	72.80	2.48
+136=	Mark Etkind	Novice	Norwich B	73	74	69	74	74	364	72.80	1.94
+136=	Maria Jose Aguilar Chapa	ESL, Novice	Norwich C	74	70	71	77	72	364	72.80	2.48
+141	Nico Khan	Novice	Unfunny Team Name	69	76	73	68	77	363	72.60	3.61
+142=	Hugo Negron-Jennings	Novice	Durham HA	73	74	72	70	73	362	72.40	1.36
+142=	Sarah Schelbert	ESL, Novice	ETH Zürich KS	72	72	70	72	76	362	72.40	1.96
+144	Avyakt Jaiswal	Novice	SOAS 2	74	74	71	70	69	358	71.60	2.06
+145	Ranea Amir	Novice	Danube Debaters	72	72	68	75	70	357	71.40	2.33
+146=	Joseph Keeble	Novice	Tyrants	73	65	72	73	73	356	71.20	3.12
+146=	Keshon Smith	Novice	SOAS 2	74	72	70	71	69	356	71.20	1.72
+148	Nele Aktas	Novice	Danube Debaters	73	70	68	74	70	355	71.00	2.19
+149	Xiong Yi Loh	Novice	Imperial Go Easy On Us 🍀	75	69	70	74	65	353	70.60	3.61
+150	Fraser McConachie		wooooo!!! debating!!!!! Let’s go!!!	78	80	82	81	—	321	80.25	1.48
+151=	Diya Perry		Durham Barbie and Kendrick	—	78	76	77	77	308	77.00	0.71
+151=	Radith Nanayakkara	ESL	Durham Barbie and Kendrick	—	78	75	77	78	308	77.00	1.22
+151=	Aryan Makhecha		brown and down to clown(frown)	—	75	77	75	81	308	77.00	2.45
+154	Alex Martin		EXEtremely nerdy politics students	76	77	—	78	76	307	76.75	0.83
+155	Iman Hassoun Fernandez	Novice	Josh forced us to be here	75	76	71	74	—	296	74.00	1.87
+156	Isaac Moloney		CCP Aristocrats	75	75	70	73	—	293	73.25	2.05
+157	Ahmer Hussain		Imperial Go Easy On Us 🍀	75	69	72	73	—	289	72.25	2.17
+158	Bella Bilge		EyUpSheff	70	71	74	70	—	285	71.25	1.64
+159	Paulina Hernandez Sainz		CCP Aristocrats	—	76	71	76	—	223	74.33	2.36
+160	Rhys Bishop	Novice	EyUpSheff	—	72	72	50	—	194	64.67	10.37
+161	Speaker 1		Swing Chicken POPCORN	77	—	—	—	—	77	77.00	0.00
+162	Speaker 2		Swing Chicken POPCORN	76	—	—	—	—	76	76.00	0.00
+163	Speaker 1		Swing AUBERGINE parmigiana	—	—	—	—	72	72	72.00	0.00
+164=	Speaker 2		Swing AUBERGINE parmigiana	—	—	—	—	—	—	—	—
+164=	Speaker 1		Swing Curry COMBO	—	—	—	—	—	—	—	—
+164=	Speaker 2		Swing Curry COMBO	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+wooooo!!! debating!!!!! Let’s go!!!	2nd	Closing Opposition	View Ballot	CaoimhinⒸ , Alexander Webb , Arjun Gunalan
+Extending into your mum&#x27;s dms	1st	Opening Government	View Ballot	CaoimhinⒸ , Alexander Webb , Arjun Gunalan
+SOAS 2	4th	Opening Opposition	View Ballot	CaoimhinⒸ , Alexander Webb , Arjun Gunalan
+EXEtremely nerdy politics students	3rd	Closing Government	View Ballot	CaoimhinⒸ , Alexander Webb , Arjun Gunalan
+Got Fucked Over By White Men	3rd	Closing Government	View Ballot	Mark WilsonⒸ , Kay Eastwood , Tommi Valgma
+ETH Zürich KS	4th	Closing Opposition	View Ballot	Mark WilsonⒸ , Kay Eastwood , Tommi Valgma
+brown and down to clown(frown)	2nd	Opening Government	View Ballot	Mark WilsonⒸ , Kay Eastwood , Tommi Valgma
+UCL David &amp; Goliath	1st	Opening Opposition	View Ballot	Mark WilsonⒸ , Kay Eastwood , Tommi Valgma
+Swing Chicken POPCORN	2nd	Opening Opposition	View Ballot	AnnaⒸ , Aymaan Sheikh , Ayusha Pandey
+Oxford AP	1st	Closing Opposition	View Ballot	AnnaⒸ , Aymaan Sheikh , Ayusha Pandey
+Lucky Crickets	4th	Opening Government	View Ballot	AnnaⒸ , Aymaan Sheikh , Ayusha Pandey
+Chefs	3rd	Closing Government	View Ballot	AnnaⒸ , Aymaan Sheikh , Ayusha Pandey
+Wondering what seriousposting disco	3rd	Closing Government	View Ballot	Markus MyllymäkiⒸ , Kamila Kawczak , Kieren Schmidt
+Challenging Universal Notions Towar	2nd	Opening Opposition	View Ballot	Markus MyllymäkiⒸ , Kamila Kawczak , Kieren Schmidt
+one worlds win and the dickhead’s g	1st	Closing Opposition	View Ballot	Markus MyllymäkiⒸ , Kamila Kawczak , Kieren Schmidt
+Imperial Go Easy On Us 🍀	4th	Opening Government	View Ballot	Markus MyllymäkiⒸ , Kamila Kawczak , Kieren Schmidt
+The Hat Men	2nd	Opening Government	View Ballot	LiamⒸ , Alex Gosling , Katie Kiely
+UCL Spicy Sauce	4th	Opening Opposition	View Ballot	LiamⒸ , Alex Gosling , Katie Kiely
+KCL Aber one of us is from austin, 	3rd	Closing Opposition	View Ballot	LiamⒸ , Alex Gosling , Katie Kiely
+UCL (A)lternate Timeline	1st	Closing Government	View Ballot	LiamⒸ , Alex Gosling , Katie Kiely
+Imperial This comp needs a ChatGPT 	3rd	Closing Opposition	View Ballot	Vincent KoonⒸ , Neva Ensminger-Holland
+Sheffield Am and his An	4th	Closing Government	View Ballot	Vincent KoonⒸ , Neva Ensminger-Holland
+We came here to end racism and win 	1st	Opening Government	View Ballot	Vincent KoonⒸ , Neva Ensminger-Holland
+W = mc²	2nd	Opening Opposition	View Ballot	Vincent KoonⒸ , Neva Ensminger-Holland
+Fax don&#x27;t care about your fealty	1st	Opening Government	View Ballot	Ramesh RajavinothanⒸ , Alishba Irfan , Kayla Powers
+Harvard A	2nd	Opening Opposition	View Ballot	Ramesh RajavinothanⒸ , Alishba Irfan , Kayla Powers
+Tyrants	4th	Closing Opposition	View Ballot	Ramesh RajavinothanⒸ , Alishba Irfan , Kayla Powers
+tandoori fish and chips	3rd	Closing Government	View Ballot	Ramesh RajavinothanⒸ , Alishba Irfan , Kayla Powers
+BDU arm aber sexy	4th	Closing Opposition	View Ballot	Lara DragojevićⒸ , Emma Heijnen
+Harish and Matt	1st	Opening Opposition	View Ballot	Lara DragojevićⒸ , Emma Heijnen
+Cambridge Swift	3rd	Closing Government	View Ballot	Lara DragojevićⒸ , Emma Heijnen
+Apply to join our hedge fund	2nd	Opening Government	View Ballot	Lara DragojevićⒸ , Emma Heijnen
+Warwick I GUESS THAT K(A)NT GETTING	1st	Closing Government	View Ballot	Ted ChangⒸ , Stenee
+The FT	3rd	Opening Opposition	View Ballot	Ted ChangⒸ , Stenee
+Unfunny Team Name	2nd	Opening Government	View Ballot	Ted ChangⒸ , Stenee
+UCL J	4th	Closing Opposition	View Ballot	Ted ChangⒸ , Stenee
+Burning trashfire	1st	Opening Opposition	View Ballot	KlaudiaⒸ , Brian Kam , Francesco Silva
+EXEtension case	4th	Closing Government	View Ballot	KlaudiaⒸ , Brian Kam , Francesco Silva
+LBS A	3rd	Closing Opposition	View Ballot	KlaudiaⒸ , Brian Kam , Francesco Silva
+Asian John and White Yoko	2nd	Opening Government	View Ballot	KlaudiaⒸ , Brian Kam , Francesco Silva
+Josh forced us to be here	4th	Opening Opposition	View Ballot	Andrew ChenⒸ , Dominic Ferris
+Athens A	2nd	Closing Government	View Ballot	Andrew ChenⒸ , Dominic Ferris
+Win = cat feet pics	3rd	Closing Opposition	View Ballot	Andrew ChenⒸ , Dominic Ferris
+Not to victim blame, but Lucy deser	1st	Opening Government	View Ballot	Andrew ChenⒸ , Dominic Ferris
+Feta Zubrowka	4th	Opening Opposition	View Ballot	Bailey ReidⒸ , Grace Carter
+Princeton/McGill LR	1st	Closing Government	View Ballot	Bailey ReidⒸ , Grace Carter
+Argument Alchemists	3rd	Closing Opposition	View Ballot	Bailey ReidⒸ , Grace Carter
+14 more minutes of crying, 14 more 	2nd	Opening Government	View Ballot	Bailey ReidⒸ , Grace Carter
+Avanti Ragazzi di Buda	2nd	Closing Opposition	View Ballot	Manuel MachorroⒸ , Ange Qin
+UCD L&amp;H Queens recolonising Ireland	3rd	Opening Opposition	View Ballot	Manuel MachorroⒸ , Ange Qin
+Parth Pandya&#x27;s Peter Parker Partner	1st	Closing Government	View Ballot	Manuel MachorroⒸ , Ange Qin
+Norwich B	4th	Opening Government	View Ballot	Manuel MachorroⒸ , Ange Qin
+Dr Strangelove or How I Learned to	2nd	Opening Government	View Ballot	Daniela WilliamsⒸ , Sereon
+SOAS 1	4th	Opening Opposition	View Ballot	Daniela WilliamsⒸ , Sereon
+will make you scream harder than ho	1st	Closing Government	View Ballot	Daniela WilliamsⒸ , Sereon
+UoL Harry Potter and the boy who co	3rd	Closing Opposition	View Ballot	Daniela WilliamsⒸ , Sereon
+In Russia, death and sex are the sa	1st	Opening Opposition	View Ballot	Triinu JogiⒸ , Lily Baughman , Stefan Milicescu
+We do own a braincell, collectively	4th	Closing Government	View Ballot	Triinu JogiⒸ , Lily Baughman , Stefan Milicescu
+mickey smells 💩	2nd	Closing Opposition	View Ballot	Triinu JogiⒸ , Lily Baughman , Stefan Milicescu
+Harish if he was young, poor and ha	3rd	Opening Government	View Ballot	Triinu JogiⒸ , Lily Baughman , Stefan Milicescu
+Both Hiding English Accents	1st	Opening Government	View Ballot	Tanae RaoⒸ , Owen Goodacre , Priyansh Shah
+EyUpSheff	4th	Closing Opposition	View Ballot	Tanae RaoⒸ , Owen Goodacre , Priyansh Shah
+Durham HA	3rd	Opening Opposition	View Ballot	Tanae RaoⒸ , Owen Goodacre , Priyansh Shah
+Imperial MS	2nd	Closing Government	View Ballot	Tanae RaoⒸ , Owen Goodacre , Priyansh Shah
+Shaq&amp;Tom	2nd	Opening Government	View Ballot	Josh AshworthⒸ , Aakrati , Lovro Marušić
+Balkan Girls	3rd	Closing Opposition	View Ballot	Josh AshworthⒸ , Aakrati , Lovro Marušić
+CCP Aristocrats	4th	Opening Opposition	View Ballot	Josh AshworthⒸ , Aakrati , Lovro Marušić
+drink on us for guessing who debate	1st	Closing Government	View Ballot	Josh AshworthⒸ , Aakrati , Lovro Marušić
+Wantaaage peeps	4th	Closing Opposition	View Ballot	Naomi PanovkaⒸ , Sachin Tissera , Stuart Johnson
+Ninja Pagongs	1st	Opening Government	View Ballot	Naomi PanovkaⒸ , Sachin Tissera , Stuart Johnson
+UCD L&amp;H here to w(A)lk that fucking	2nd	Closing Government	View Ballot	Naomi PanovkaⒸ , Sachin Tissera , Stuart Johnson
+Tartu A	3rd	Opening Opposition	View Ballot	Naomi PanovkaⒸ , Sachin Tissera , Stuart Johnson
+Danube Debaters	4th	Opening Government	View Ballot	Zaid AbroⒸ , Brynley Hamer , Luc
+Oxford B	1st	Closing Opposition	View Ballot	Zaid AbroⒸ , Brynley Hamer , Luc
+The Underdogs	2nd	Opening Opposition	View Ballot	Zaid AbroⒸ , Brynley Hamer , Luc
+Norwich C	3rd	Closing Government	View Ballot	Zaid AbroⒸ , Brynley Hamer , Luc
+Hooting and Hollering until the Cha	1st	Opening Government	View Ballot	Paula DjakovićⒸ , Rohan Subagaran
+Imperial lists	3rd	Closing Opposition	View Ballot	Paula DjakovićⒸ , Rohan Subagaran
+ETH Zürich DT	2nd	Closing Government	View Ballot	Paula DjakovićⒸ , Rohan Subagaran
+Norwich A	4th	Opening Opposition	View Ballot	Paula DjakovićⒸ , Rohan Subagaran
+
+
+team	result	side	ballot	adjudicators
+LBS A	3rd	Opening Government	View Ballot	Paula DjakovićⒸ , Alexander Webb , Kay Eastwood
+Cambridge Swift	2nd	Closing Opposition	View Ballot	Paula DjakovićⒸ , Alexander Webb , Kay Eastwood
+UoL Harry Potter and the boy who co	1st	Opening Opposition	View Ballot	Paula DjakovićⒸ , Alexander Webb , Kay Eastwood
+Tartu A	4th	Closing Government	View Ballot	Paula DjakovićⒸ , Alexander Webb , Kay Eastwood
+Fax don&#x27;t care about your fealty	3rd	Closing Opposition	View Ballot	Naomi PanovkaⒸ , Arjun Gunalan , Vincent Koon
+Oxford B	4th	Closing Government	View Ballot	Naomi PanovkaⒸ , Arjun Gunalan , Vincent Koon
+drink on us for guessing who debate	1st	Opening Government	View Ballot	Naomi PanovkaⒸ , Arjun Gunalan , Vincent Koon
+UCL (A)lternate Timeline	2nd	Opening Opposition	View Ballot	Naomi PanovkaⒸ , Arjun Gunalan , Vincent Koon
+The Hat Men	2nd	Opening Opposition	View Ballot	Andrew ChenⒸ , Kamila Kawczak , Rohan Subagaran
+Asian John and White Yoko	1st	Closing Opposition	View Ballot	Andrew ChenⒸ , Kamila Kawczak , Rohan Subagaran
+The Underdogs	4th	Opening Government	View Ballot	Andrew ChenⒸ , Kamila Kawczak , Rohan Subagaran
+brown and down to clown(frown)	3rd	Closing Government	View Ballot	Andrew ChenⒸ , Kamila Kawczak , Rohan Subagaran
+Harvard A	4th	Opening Government	View Ballot	Ted ChangⒸ , Sereon
+Avanti Ragazzi di Buda	2nd	Opening Opposition	View Ballot	Ted ChangⒸ , Sereon
+Harish if he was young, poor and ha	1st	Closing Government	View Ballot	Ted ChangⒸ , Sereon
+W = mc²	3rd	Closing Opposition	View Ballot	Ted ChangⒸ , Sereon
+Imperial This comp needs a ChatGPT 	1st	Opening Opposition	View Ballot	Sachin TisseraⒸ , Ange Qin
+Durham HA	2nd	Opening Government	View Ballot	Sachin TisseraⒸ , Ange Qin
+Argument Alchemists	3rd	Closing Government	View Ballot	Sachin TisseraⒸ , Ange Qin
+Norwich C	4th	Closing Opposition	View Ballot	Sachin TisseraⒸ , Ange Qin
+KCL Aber one of us is from austin, 	1st	Opening Opposition	View Ballot	Talha WaniⒸ , Lara Dragojević , Owen Goodacre
+Got Fucked Over By White Men	3rd	Closing Opposition	View Ballot	Talha WaniⒸ , Lara Dragojević , Owen Goodacre
+The FT	4th	Closing Government	View Ballot	Talha WaniⒸ , Lara Dragojević , Owen Goodacre
+Imperial lists	2nd	Opening Government	View Ballot	Talha WaniⒸ , Lara Dragojević , Owen Goodacre
+BDU arm aber sexy	1st	Closing Government	View Ballot	Daniela WilliamsⒸ , Aymaan Sheikh
+We do own a braincell, collectively	3rd	Opening Opposition	View Ballot	Daniela WilliamsⒸ , Aymaan Sheikh
+Durham Barbie and Kendrick	2nd	Opening Government	View Ballot	Daniela WilliamsⒸ , Aymaan Sheikh
+Imperial Go Easy On Us 🍀	4th	Closing Opposition	View Ballot	Daniela WilliamsⒸ , Aymaan Sheikh
+Athens A	1st	Opening Government	View Ballot	AnnaⒸ , Kieren Schmidt , Neva Ensminger-Holland
+mickey smells 💩	3rd	Closing Government	View Ballot	AnnaⒸ , Kieren Schmidt , Neva Ensminger-Holland
+Imperial MS	4th	Closing Opposition	View Ballot	AnnaⒸ , Kieren Schmidt , Neva Ensminger-Holland
+Apply to join our hedge fund	2nd	Opening Opposition	View Ballot	AnnaⒸ , Kieren Schmidt , Neva Ensminger-Holland
+Hooting and Hollering until the Cha	3rd	Opening Opposition	View Ballot	Mark WilsonⒸ , Brian Kam , Stefan Milicescu
+We came here to end racism and win 	1st	Closing Opposition	View Ballot	Mark WilsonⒸ , Brian Kam , Stefan Milicescu
+Ninja Pagongs	4th	Closing Government	View Ballot	Mark WilsonⒸ , Brian Kam , Stefan Milicescu
+Parth Pandya&#x27;s Peter Parker Partner	2nd	Opening Government	View Ballot	Mark WilsonⒸ , Brian Kam , Stefan Milicescu
+Sheffield Am and his An	3rd	Opening Opposition	View Ballot	Kayla PowersⒸ , Brynley Hamer
+Wantaaage peeps	1st	Opening Government	View Ballot	Kayla PowersⒸ , Brynley Hamer
+Lucky Crickets	2nd	Closing Opposition	View Ballot	Kayla PowersⒸ , Brynley Hamer
+SOAS 1	4th	Closing Government	View Ballot	Kayla PowersⒸ , Brynley Hamer
+EXEtension case	1st	Opening Government	View Ballot	Bailey ReidⒸ , Stuart Johnson
+EyUpSheff	3rd	Opening Opposition	View Ballot	Bailey ReidⒸ , Stuart Johnson
+Tyrants	4th	Closing Government	View Ballot	Bailey ReidⒸ , Stuart Johnson
+SOAS 2	2nd	Closing Opposition	View Ballot	Bailey ReidⒸ , Stuart Johnson
+Challenging Universal Notions Towar	1st	Opening Government	View Ballot	KlaudiaⒸ , Alex Gosling , Liam
+wooooo!!! debating!!!!! Let’s go!!!	3rd	Closing Government	View Ballot	KlaudiaⒸ , Alex Gosling , Liam
+Unfunny Team Name	4th	Closing Opposition	View Ballot	KlaudiaⒸ , Alex Gosling , Liam
+UCD L&amp;H here to w(A)lk that fucking	2nd	Opening Opposition	View Ballot	KlaudiaⒸ , Alex Gosling , Liam
+Burning trashfire	4th	Closing Opposition	View Ballot	Ramesh RajavinothanⒸ , Luc , Triinu Jogi
+In Russia, death and sex are the sa	1st	Closing Government	View Ballot	Ramesh RajavinothanⒸ , Luc , Triinu Jogi
+Warwick I GUESS THAT K(A)NT GETTING	3rd	Opening Government	View Ballot	Ramesh RajavinothanⒸ , Luc , Triinu Jogi
+Not to victim blame, but Lucy deser	2nd	Opening Opposition	View Ballot	Ramesh RajavinothanⒸ , Luc , Triinu Jogi
+Both Hiding English Accents	2nd	Opening Opposition	View Ballot	Markus MyllymäkiⒸ , Lily Baughman , Zaid Abro
+Princeton/McGill LR	1st	Opening Government	View Ballot	Markus MyllymäkiⒸ , Lily Baughman , Zaid Abro
+Extending into your mum&#x27;s dms	3rd	Closing Government	View Ballot	Markus MyllymäkiⒸ , Lily Baughman , Zaid Abro
+UCL David &amp; Goliath	4th	Closing Opposition	View Ballot	Markus MyllymäkiⒸ , Lily Baughman , Zaid Abro
+Wondering what seriousposting disco	1st	Closing Opposition	View Ballot	Tanae RaoⒸ , Aakrati
+UCL Spicy Sauce	3rd	Opening Government	View Ballot	Tanae RaoⒸ , Aakrati
+UCD L&amp;H Queens recolonising Ireland	4th	Closing Government	View Ballot	Tanae RaoⒸ , Aakrati
+EXEtremely nerdy politics students	2nd	Opening Opposition	View Ballot	Tanae RaoⒸ , Aakrati
+Dr Strangelove or How I Learned to	2nd	Opening Opposition	View Ballot	CaoimhinⒸ , Grace Carter
+Shaq&amp;Tom	3rd	Closing Opposition	View Ballot	CaoimhinⒸ , Grace Carter
+14 more minutes of crying, 14 more 	4th	Closing Government	View Ballot	CaoimhinⒸ , Grace Carter
+ETH Zürich DT	1st	Opening Government	View Ballot	CaoimhinⒸ , Grace Carter
+Harish and Matt	1st	Opening Government	View Ballot	Josh AshworthⒸ , Dominic Ferris , Tommi Valgma
+one worlds win and the dickhead’s g	3rd	Closing Government	View Ballot	Josh AshworthⒸ , Dominic Ferris , Tommi Valgma
+Oxford AP	2nd	Opening Opposition	View Ballot	Josh AshworthⒸ , Dominic Ferris , Tommi Valgma
+will make you scream harder than ho	4th	Closing Opposition	View Ballot	Josh AshworthⒸ , Dominic Ferris , Tommi Valgma
+Win = cat feet pics	4th	Closing Government	View Ballot	Manuel MachorroⒸ , Katie Kiely
+Balkan Girls	1st	Opening Government	View Ballot	Manuel MachorroⒸ , Katie Kiely
+Chefs	3rd	Closing Opposition	View Ballot	Manuel MachorroⒸ , Katie Kiely
+tandoori fish and chips	2nd	Opening Opposition	View Ballot	Manuel MachorroⒸ , Katie Kiely
+Josh forced us to be here	2nd	Closing Government	View Ballot	Nick ZervoudisⒸ , Eileen Wong , Stenee
+Feta Zubrowka	1st	Opening Government	View Ballot	Nick ZervoudisⒸ , Eileen Wong , Stenee
+Danube Debaters	4th	Closing Opposition	View Ballot	Nick ZervoudisⒸ , Eileen Wong , Stenee
+Norwich B	3rd	Opening Opposition	View Ballot	Nick ZervoudisⒸ , Eileen Wong , Stenee
+ETH Zürich KS	4th	Opening Opposition	View Ballot	Alishba IrfanⒸ , Francesco Silva
+CCP Aristocrats	2nd	Closing Government	View Ballot	Alishba IrfanⒸ , Francesco Silva
+UCL J	1st	Opening Government	View Ballot	Alishba IrfanⒸ , Francesco Silva
+Norwich A	3rd	Closing Opposition	View Ballot	Alishba IrfanⒸ , Francesco Silva
+
+
+team	result	side	ballot	adjudicators
+Feta Zubrowka	4th	Closing Government	View Ballot	Sachin TisseraⒸ , Francesco Silva , Kieren Schmidt
+Cambridge Swift	1st	Opening Opposition	View Ballot	Sachin TisseraⒸ , Francesco Silva , Kieren Schmidt
+W = mc²	3rd	Opening Government	View Ballot	Sachin TisseraⒸ , Francesco Silva , Kieren Schmidt
+brown and down to clown(frown)	2nd	Closing Opposition	View Ballot	Sachin TisseraⒸ , Francesco Silva , Kieren Schmidt
+The Hat Men	3rd	Closing Government	View Ballot	Paula DjakovićⒸ , Ayusha Pandey , Katie Kiely
+Fax don&#x27;t care about your fealty	1st	Opening Opposition	View Ballot	Paula DjakovićⒸ , Ayusha Pandey , Katie Kiely
+Harish if he was young, poor and ha	2nd	Closing Opposition	View Ballot	Paula DjakovićⒸ , Ayusha Pandey , Katie Kiely
+EXEtremely nerdy politics students	4th	Opening Government	View Ballot	Paula DjakovićⒸ , Ayusha Pandey , Katie Kiely
+Josh forced us to be here	4th	Closing Opposition	View Ballot	Kayla PowersⒸ , Alex Gosling , Arjun Gunalan
+Harvard A	1st	Closing Government	View Ballot	Kayla PowersⒸ , Alex Gosling , Arjun Gunalan
+Argument Alchemists	3rd	Opening Opposition	View Ballot	Kayla PowersⒸ , Alex Gosling , Arjun Gunalan
+Imperial MS	2nd	Opening Government	View Ballot	Kayla PowersⒸ , Alex Gosling , Arjun Gunalan
+Challenging Universal Notions Towar	4th	Closing Government	View Ballot	Ramesh RajavinothanⒸ , Kamila Kawczak , Lara Dragojević
+Princeton/McGill LR	2nd	Closing Opposition	View Ballot	Ramesh RajavinothanⒸ , Kamila Kawczak , Lara Dragojević
+We came here to end racism and win 	1st	Opening Opposition	View Ballot	Ramesh RajavinothanⒸ , Kamila Kawczak , Lara Dragojević
+Oxford AP	3rd	Opening Government	View Ballot	Ramesh RajavinothanⒸ , Kamila Kawczak , Lara Dragojević
+Wondering what seriousposting disco	3rd	Opening Government	View Ballot	Nick ZervoudisⒸ , Lovro Marušić , Zaid Abro
+Dr Strangelove or How I Learned to	1st	Closing Government	View Ballot	Nick ZervoudisⒸ , Lovro Marušić , Zaid Abro
+Warwick I GUESS THAT K(A)NT GETTING	4th	Opening Opposition	View Ballot	Nick ZervoudisⒸ , Lovro Marušić , Zaid Abro
+UCD L&amp;H here to w(A)lk that fucking	2nd	Closing Opposition	View Ballot	Nick ZervoudisⒸ , Lovro Marušić , Zaid Abro
+Harish and Matt	1st	Closing Government	View Ballot	NeoⒸ , Anna , Emma Heijnen
+In Russia, death and sex are the sa	4th	Closing Opposition	View Ballot	NeoⒸ , Anna , Emma Heijnen
+drink on us for guessing who debate	3rd	Opening Opposition	View Ballot	NeoⒸ , Anna , Emma Heijnen
+UCL (A)lternate Timeline	2nd	Opening Government	View Ballot	NeoⒸ , Anna , Emma Heijnen
+Both Hiding English Accents	3rd	Closing Opposition	View Ballot	Josh AshworthⒸ , Ange Qin , Talha Wani
+KCL Aber one of us is from austin, 	4th	Opening Government	View Ballot	Josh AshworthⒸ , Ange Qin , Talha Wani
+Not to victim blame, but Lucy deser	1st	Closing Government	View Ballot	Josh AshworthⒸ , Ange Qin , Talha Wani
+ETH Zürich DT	2nd	Opening Opposition	View Ballot	Josh AshworthⒸ , Ange Qin , Talha Wani
+Durham HA	4th	Closing Opposition	View Ballot	Ted ChangⒸ , Labeeb , Neva Ensminger-Holland
+mickey smells 💩	3rd	Opening Opposition	View Ballot	Ted ChangⒸ , Labeeb , Neva Ensminger-Holland
+Imperial lists	2nd	Closing Government	View Ballot	Ted ChangⒸ , Labeeb , Neva Ensminger-Holland
+Oxford B	1st	Opening Government	View Ballot	Ted ChangⒸ , Labeeb , Neva Ensminger-Holland
+LBS A	2nd	Opening Opposition	View Ballot	Triinu JogiⒸ , Lily Baughman
+Durham Barbie and Kendrick	3rd	Closing Government	View Ballot	Triinu JogiⒸ , Lily Baughman
+Chefs	4th	Opening Government	View Ballot	Triinu JogiⒸ , Lily Baughman
+14 more minutes of crying, 14 more 	1st	Closing Opposition	View Ballot	Triinu JogiⒸ , Lily Baughman
+Burning trashfire	2nd	Opening Government	View Ballot	Manuel MachorroⒸ , Alexander Webb , Aymaan Sheikh
+EXEtension case	4th	Closing Opposition	View Ballot	Manuel MachorroⒸ , Alexander Webb , Aymaan Sheikh
+wooooo!!! debating!!!!! Let’s go!!!	1st	Opening Opposition	View Ballot	Manuel MachorroⒸ , Alexander Webb , Aymaan Sheikh
+UCL J	3rd	Closing Government	View Ballot	Manuel MachorroⒸ , Alexander Webb , Aymaan Sheikh
+BDU arm aber sexy	2nd	Opening Opposition	View Ballot	Johan AllenⒸ , Brian Kam , Rohan Subagaran
+CCP Aristocrats	4th	Closing Opposition	View Ballot	Johan AllenⒸ , Brian Kam , Rohan Subagaran
+Lucky Crickets	3rd	Closing Government	View Ballot	Johan AllenⒸ , Brian Kam , Rohan Subagaran
+UCL David &amp; Goliath	1st	Opening Government	View Ballot	Johan AllenⒸ , Brian Kam , Rohan Subagaran
+Sheffield Am and his An	3rd	Closing Opposition	View Ballot	Vincent KoonⒸ , Kay Eastwood
+Win = cat feet pics	2nd	Opening Opposition	View Ballot	Vincent KoonⒸ , Kay Eastwood
+UCD L&amp;H Queens recolonising Ireland	1st	Opening Government	View Ballot	Vincent KoonⒸ , Kay Eastwood
+Norwich B	4th	Closing Government	View Ballot	Vincent KoonⒸ , Kay Eastwood
+UCL Spicy Sauce	2nd	Closing Government	View Ballot	Mark WilsonⒸ , Grace Carter , Stenee
+Imperial Go Easy On Us 🍀	4th	Opening Opposition	View Ballot	Mark WilsonⒸ , Grace Carter , Stenee
+Norwich A	3rd	Opening Government	View Ballot	Mark WilsonⒸ , Grace Carter , Stenee
+Tartu A	1st	Closing Opposition	View Ballot	Mark WilsonⒸ , Grace Carter , Stenee
+Imperial This comp needs a ChatGPT 	4th	Closing Government	View Ballot	Andrew ChenⒸ , Owen Goodacre , Tommi Valgma
+Extending into your mum&#x27;s dms	2nd	Opening Opposition	View Ballot	Andrew ChenⒸ , Owen Goodacre , Tommi Valgma
+Apply to join our hedge fund	1st	Closing Opposition	View Ballot	Andrew ChenⒸ , Owen Goodacre , Tommi Valgma
+UoL Harry Potter and the boy who co	3rd	Opening Government	View Ballot	Andrew ChenⒸ , Owen Goodacre , Tommi Valgma
+Hooting and Hollering until the Cha	2nd	Closing Opposition	View Ballot	CaoimhinⒸ , Liam , Luc
+Balkan Girls	4th	Opening Opposition	View Ballot	CaoimhinⒸ , Liam , Luc
+Avanti Ragazzi di Buda	1st	Closing Government	View Ballot	CaoimhinⒸ , Liam , Luc
+will make you scream harder than ho	3rd	Opening Government	View Ballot	CaoimhinⒸ , Liam , Luc
+Got Fucked Over By White Men	1st	Opening Government	View Ballot	Alishba IrfanⒸ , Priyansh Shah , Sereon
+Unfunny Team Name	2nd	Opening Opposition	View Ballot	Alishba IrfanⒸ , Priyansh Shah , Sereon
+The Underdogs	3rd	Closing Opposition	View Ballot	Alishba IrfanⒸ , Priyansh Shah , Sereon
+SOAS 2	4th	Closing Government	View Ballot	Alishba IrfanⒸ , Priyansh Shah , Sereon
+Wantaaage peeps	4th	Closing Government	View Ballot	Markus MyllymäkiⒸ , Stuart Johnson , Tanae Rao
+Shaq&amp;Tom	1st	Opening Opposition	View Ballot	Markus MyllymäkiⒸ , Stuart Johnson , Tanae Rao
+Ninja Pagongs	2nd	Closing Opposition	View Ballot	Markus MyllymäkiⒸ , Stuart Johnson , Tanae Rao
+tandoori fish and chips	3rd	Opening Government	View Ballot	Markus MyllymäkiⒸ , Stuart Johnson , Tanae Rao
+Athens A	3rd	Opening Opposition	View Ballot	Naomi PanovkaⒸ , Brynley Hamer , Stefan Milicescu
+Asian John and White Yoko	2nd	Closing Government	View Ballot	Naomi PanovkaⒸ , Brynley Hamer , Stefan Milicescu
+one worlds win and the dickhead’s g	1st	Opening Government	View Ballot	Naomi PanovkaⒸ , Brynley Hamer , Stefan Milicescu
+Parth Pandya&#x27;s Peter Parker Partner	4th	Closing Opposition	View Ballot	Naomi PanovkaⒸ , Brynley Hamer , Stefan Milicescu
+Tyrants	1st	Opening Government	View Ballot	Dominic FerrisⒸ , Aakrati
+Danube Debaters	4th	Opening Opposition	View Ballot	Dominic FerrisⒸ , Aakrati
+ETH Zürich KS	2nd	Closing Government	View Ballot	Dominic FerrisⒸ , Aakrati
+SOAS 1	3rd	Closing Opposition	View Ballot	Dominic FerrisⒸ , Aakrati
+EyUpSheff	3rd	Closing Government	View Ballot	KlaudiaⒸ , Eileen Wong
+We do own a braincell, collectively	1st	Opening Government	View Ballot	KlaudiaⒸ , Eileen Wong
+The FT	2nd	Closing Opposition	View Ballot	KlaudiaⒸ , Eileen Wong
+Norwich C	4th	Opening Opposition	View Ballot	KlaudiaⒸ , Eileen Wong
+
+
+team	result	side	ballot	adjudicators
+Hooting and Hollering until the Cha	4th	Closing Government	View Ballot	NeoⒸ , Dominic Ferris , Lara Dragojević
+Extending into your mum&#x27;s dms	2nd	Closing Opposition	View Ballot	NeoⒸ , Dominic Ferris , Lara Dragojević
+Oxford B	3rd	Opening Opposition	View Ballot	NeoⒸ , Dominic Ferris , Lara Dragojević
+UCD L&amp;H here to w(A)lk that fucking	1st	Opening Government	View Ballot	NeoⒸ , Dominic Ferris , Lara Dragojević
+Imperial This comp needs a ChatGPT 	1st	Opening Government	View Ballot	Stefan MilicescuⒸ , Aakrati , Ayusha Pandey
+Warwick I GUESS THAT K(A)NT GETTING	4th	Closing Opposition	View Ballot	Stefan MilicescuⒸ , Aakrati , Ayusha Pandey
+KCL Aber one of us is from austin, 	2nd	Closing Government	View Ballot	Stefan MilicescuⒸ , Aakrati , Ayusha Pandey
+UCL J	3rd	Opening Opposition	View Ballot	Stefan MilicescuⒸ , Aakrati , Ayusha Pandey
+Balkan Girls	2nd	Closing Government	View Ballot	Markus MyllymäkiⒸ , Stenee , Zaid Abro
+Argument Alchemists	1st	Opening Government	View Ballot	Markus MyllymäkiⒸ , Stenee , Zaid Abro
+Imperial MS	4th	Opening Opposition	View Ballot	Markus MyllymäkiⒸ , Stenee , Zaid Abro
+tandoori fish and chips	3rd	Closing Opposition	View Ballot	Markus MyllymäkiⒸ , Stenee , Zaid Abro
+Fax don&#x27;t care about your fealty	3rd	Closing Government	View Ballot	Paula DjakovićⒸ , Deon Kiew , Stuart Johnson
+one worlds win and the dickhead’s g	2nd	Opening Opposition	View Ballot	Paula DjakovićⒸ , Deon Kiew , Stuart Johnson
+Avanti Ragazzi di Buda	4th	Opening Government	View Ballot	Paula DjakovićⒸ , Deon Kiew , Stuart Johnson
+drink on us for guessing who debate	1st	Closing Opposition	View Ballot	Paula DjakovićⒸ , Deon Kiew , Stuart Johnson
+We do own a braincell, collectively	4th	Closing Opposition	View Ballot	Mark WilsonⒸ , Aymaan Sheikh , Triinu Jogi
+mickey smells 💩	3rd	Opening Government	View Ballot	Mark WilsonⒸ , Aymaan Sheikh , Triinu Jogi
+will make you scream harder than ho	1st	Opening Opposition	View Ballot	Mark WilsonⒸ , Aymaan Sheikh , Triinu Jogi
+W = mc²	2nd	Closing Government	View Ballot	Mark WilsonⒸ , Aymaan Sheikh , Triinu Jogi
+Wantaaage peeps	1st	Opening Opposition	View Ballot	Manuel MachorroⒸ , Kieren Schmidt
+Win = cat feet pics	4th	Opening Government	View Ballot	Manuel MachorroⒸ , Kieren Schmidt
+Durham Barbie and Kendrick	2nd	Closing Opposition	View Ballot	Manuel MachorroⒸ , Kieren Schmidt
+The Underdogs	3rd	Closing Government	View Ballot	Manuel MachorroⒸ , Kieren Schmidt
+EXEtension case	4th	Opening Opposition	View Ballot	LiamⒸ , Luc
+LBS A	3rd	Closing Government	View Ballot	LiamⒸ , Luc
+UCD L&amp;H Queens recolonising Ireland	1st	Closing Opposition	View Ballot	LiamⒸ , Luc
+Tartu A	2nd	Opening Government	View Ballot	LiamⒸ , Luc
+The Hat Men	2nd	Closing Opposition	View Ballot	Tanae RaoⒸ , Eileen Wong , Johan Allen
+brown and down to clown(frown)	3rd	Opening Government	View Ballot	Tanae RaoⒸ , Eileen Wong , Johan Allen
+Parth Pandya&#x27;s Peter Parker Partner	1st	Opening Opposition	View Ballot	Tanae RaoⒸ , Eileen Wong , Johan Allen
+UoL Harry Potter and the boy who co	4th	Closing Government	View Ballot	Tanae RaoⒸ , Eileen Wong , Johan Allen
+wooooo!!! debating!!!!! Let’s go!!!	2nd	Opening Government	View Ballot	CaoimhinⒸ , Ange Qin , Kamila Kawczak
+Oxford AP	4th	Closing Government	View Ballot	CaoimhinⒸ , Ange Qin , Kamila Kawczak
+Harish if he was young, poor and ha	1st	Opening Opposition	View Ballot	CaoimhinⒸ , Ange Qin , Kamila Kawczak
+UCL (A)lternate Timeline	3rd	Closing Opposition	View Ballot	CaoimhinⒸ , Ange Qin , Kamila Kawczak
+Burning trashfire	3rd	Closing Government	View Ballot	Ramesh RajavinothanⒸ , Brian Kam , Daniela Williams
+Challenging Universal Notions Towar	1st	Closing Opposition	View Ballot	Ramesh RajavinothanⒸ , Brian Kam , Daniela Williams
+Imperial lists	2nd	Opening Opposition	View Ballot	Ramesh RajavinothanⒸ , Brian Kam , Daniela Williams
+14 more minutes of crying, 14 more 	4th	Opening Government	View Ballot	Ramesh RajavinothanⒸ , Brian Kam , Daniela Williams
+Danube Debaters	3rd	Closing Government	View Ballot	Francesco SilvaⒸ
+Imperial Go Easy On Us 🍀	4th	Closing Opposition	View Ballot	Francesco SilvaⒸ
+SOAS 1	2nd	Opening Opposition	View Ballot	Francesco SilvaⒸ
+Norwich C	1st	Opening Government	View Ballot	Francesco SilvaⒸ
+Wondering what seriousposting disco	2nd	Opening Opposition	View Ballot	Naomi PanovkaⒸ , Lily Baughman , Talha Wani
+BDU arm aber sexy	1st	Opening Government	View Ballot	Naomi PanovkaⒸ , Lily Baughman , Talha Wani
+Harvard A	3rd	Closing Opposition	View Ballot	Naomi PanovkaⒸ , Lily Baughman , Talha Wani
+Unfunny Team Name	4th	Closing Government	View Ballot	Naomi PanovkaⒸ , Lily Baughman , Talha Wani
+Dr Strangelove or How I Learned to	3rd	Opening Government	View Ballot	KlaudiaⒸ , Anna , Owen Goodacre
+Asian John and White Yoko	2nd	Opening Opposition	View Ballot	KlaudiaⒸ , Anna , Owen Goodacre
+ETH Zürich DT	4th	Closing Opposition	View Ballot	KlaudiaⒸ , Anna , Owen Goodacre
+Apply to join our hedge fund	1st	Closing Government	View Ballot	KlaudiaⒸ , Anna , Owen Goodacre
+Josh forced us to be here	2nd	Closing Government	View Ballot	Brynley HamerⒸ
+EyUpSheff	4th	Closing Opposition	View Ballot	Brynley HamerⒸ
+CCP Aristocrats	1st	Opening Government	View Ballot	Brynley HamerⒸ
+Chefs	3rd	Opening Opposition	View Ballot	Brynley HamerⒸ
+Shaq&amp;Tom	1st	Closing Opposition	View Ballot	Ana Vilhelmina VerdnikⒸ , Emma Heijnen , Tommi Valgma
+Cambridge Swift	3rd	Opening Government	View Ballot	Ana Vilhelmina VerdnikⒸ , Emma Heijnen , Tommi Valgma
+Ninja Pagongs	2nd	Opening Opposition	View Ballot	Ana Vilhelmina VerdnikⒸ , Emma Heijnen , Tommi Valgma
+UCL David &amp; Goliath	4th	Closing Government	View Ballot	Ana Vilhelmina VerdnikⒸ , Emma Heijnen , Tommi Valgma
+UCL Spicy Sauce	1st	Closing Opposition	View Ballot	Katie KielyⒸ , Sereon
+Sheffield Am and his An	2nd	Opening Government	View Ballot	Katie KielyⒸ , Sereon
+Tyrants	4th	Opening Opposition	View Ballot	Katie KielyⒸ , Sereon
+Feta Zubrowka	3rd	Closing Government	View Ballot	Katie KielyⒸ , Sereon
+Harish and Matt	3rd	Opening Government	View Ballot	Ted ChangⒸ , Grace Carter , Josh Ashworth
+Princeton/McGill LR	1st	Opening Opposition	View Ballot	Ted ChangⒸ , Grace Carter , Josh Ashworth
+We came here to end racism and win 	2nd	Closing Government	View Ballot	Ted ChangⒸ , Grace Carter , Josh Ashworth
+Not to victim blame, but Lucy deser	4th	Closing Opposition	View Ballot	Ted ChangⒸ , Grace Carter , Josh Ashworth
+Durham HA	4th	Closing Government	View Ballot	Sachin TisseraⒸ , Kay Eastwood , Labeeb
+The FT	2nd	Opening Government	View Ballot	Sachin TisseraⒸ , Kay Eastwood , Labeeb
+Lucky Crickets	3rd	Opening Opposition	View Ballot	Sachin TisseraⒸ , Kay Eastwood , Labeeb
+EXEtremely nerdy politics students	1st	Closing Opposition	View Ballot	Sachin TisseraⒸ , Kay Eastwood , Labeeb
+Both Hiding English Accents	2nd	Closing Government	View Ballot	Andrew ChenⒸ , Kayla Powers , Neva Ensminger-Holland
+In Russia, death and sex are the sa	1st	Opening Government	View Ballot	Andrew ChenⒸ , Kayla Powers , Neva Ensminger-Holland
+Athens A	4th	Closing Opposition	View Ballot	Andrew ChenⒸ , Kayla Powers , Neva Ensminger-Holland
+Got Fucked Over By White Men	3rd	Opening Opposition	View Ballot	Andrew ChenⒸ , Kayla Powers , Neva Ensminger-Holland
+ETH Zürich KS	2nd	Opening Government	View Ballot	Lovro MarušićⒸ , Alex Gosling
+SOAS 2	4th	Opening Opposition	View Ballot	Lovro MarušićⒸ , Alex Gosling
+Norwich A	3rd	Closing Government	View Ballot	Lovro MarušićⒸ , Alex Gosling
+Norwich B	1st	Closing Opposition	View Ballot	Lovro MarušićⒸ , Alex Gosling
+
+
+team	result	side	ballot	adjudicators
+Swing AUBERGINE parmigiana	4th	Closing Opposition	View Ballot	Brian KamⒸ , Arjun Gunalan
+We do own a braincell, collectively	2nd	Closing Government	View Ballot	Brian KamⒸ , Arjun Gunalan
+Durham Barbie and Kendrick	1st	Opening Opposition	View Ballot	Brian KamⒸ , Arjun Gunalan
+UoL Harry Potter and the boy who co	3rd	Opening Government	View Ballot	Brian KamⒸ , Arjun Gunalan
+Durham HA	4th	Closing Government	View Ballot	Ayusha PandeyⒸ , Grace Carter
+Feta Zubrowka	1st	Closing Opposition	View Ballot	Ayusha PandeyⒸ , Grace Carter
+Imperial MS	2nd	Opening Government	View Ballot	Ayusha PandeyⒸ , Grace Carter
+Norwich B	3rd	Opening Opposition	View Ballot	Ayusha PandeyⒸ , Grace Carter
+EXEtension case	4th	Opening Government	View Ballot	Tommi ValgmaⒸ
+Win = cat feet pics	3rd	Closing Opposition	View Ballot	Tommi ValgmaⒸ
+Chefs	2nd	Closing Government	View Ballot	Tommi ValgmaⒸ
+Norwich A	1st	Opening Opposition	View Ballot	Tommi ValgmaⒸ
+Josh forced us to be here	4th	Opening Government	View Ballot	Emma HeijnenⒸ , Aymaan Sheikh
+LBS A	3rd	Closing Government	View Ballot	Emma HeijnenⒸ , Aymaan Sheikh
+ETH Zürich KS	2nd	Closing Opposition	View Ballot	Emma HeijnenⒸ , Aymaan Sheikh
+14 more minutes of crying, 14 more 	1st	Opening Opposition	View Ballot	Emma HeijnenⒸ , Aymaan Sheikh
+Both Hiding English Accents	3rd	Opening Government	View Ballot	Geneva RoyⒸ , Alexander Webb , Zaid Abro
+Wondering what seriousposting disco	4th	Closing Opposition	View Ballot	Geneva RoyⒸ , Alexander Webb , Zaid Abro
+wooooo!!! debating!!!!! Let’s go!!!	2nd	Closing Government	View Ballot	Geneva RoyⒸ , Alexander Webb , Zaid Abro
+Ninja Pagongs	1st	Opening Opposition	View Ballot	Geneva RoyⒸ , Alexander Webb , Zaid Abro
+Swing Chicken POPCORN	1st	Opening Opposition	View Ballot	Brynley HamerⒸ , Eileen Wong
+Danube Debaters	2nd	Closing Opposition	View Ballot	Brynley HamerⒸ , Eileen Wong
+Imperial Go Easy On Us 🍀	4th	Closing Government	View Ballot	Brynley HamerⒸ , Eileen Wong
+SOAS 2	3rd	Opening Government	View Ballot	Brynley HamerⒸ , Eileen Wong
+Challenging Universal Notions Towar	3rd	Opening Government	View Ballot	Naomi PanovkaⒸ , Ange Qin , Francesco Silva
+In Russia, death and sex are the sa	2nd	Opening Opposition	View Ballot	Naomi PanovkaⒸ , Ange Qin , Francesco Silva
+Shaq&amp;Tom	4th	Closing Government	View Ballot	Naomi PanovkaⒸ , Ange Qin , Francesco Silva
+UCD L&amp;H here to w(A)lk that fucking	1st	Closing Opposition	View Ballot	Naomi PanovkaⒸ , Ange Qin , Francesco Silva
+Harish and Matt	2nd	Closing Opposition	View Ballot	Owen MooneyⒸ , Alishba Irfan , Stefan Milicescu
+Princeton/McGill LR	3rd	Opening Opposition	View Ballot	Owen MooneyⒸ , Alishba Irfan , Stefan Milicescu
+We came here to end racism and win 	4th	Opening Government	View Ballot	Owen MooneyⒸ , Alishba Irfan , Stefan Milicescu
+Apply to join our hedge fund	1st	Closing Government	View Ballot	Owen MooneyⒸ , Alishba Irfan , Stefan Milicescu
+Tyrants	3rd	Closing Government	View Ballot	Kieren SchmidtⒸ , Sereon
+Warwick I GUESS THAT K(A)NT GETTING	2nd	Opening Opposition	View Ballot	Kieren SchmidtⒸ , Sereon
+The Underdogs	4th	Opening Government	View Ballot	Kieren SchmidtⒸ , Sereon
+Lucky Crickets	1st	Closing Opposition	View Ballot	Kieren SchmidtⒸ , Sereon
+Sheffield Am and his An	3rd	Closing Government	View Ballot	AakratiⒸ
+Unfunny Team Name	1st	Closing Opposition	View Ballot	AakratiⒸ
+SOAS 1	2nd	Opening Government	View Ballot	AakratiⒸ
+Norwich C	4th	Opening Opposition	View Ballot	AakratiⒸ
+Hooting and Hollering until the Cha	2nd	Closing Opposition	View Ballot	Tanae RaoⒸ , Alex Gosling
+W = mc²	3rd	Opening Government	View Ballot	Tanae RaoⒸ , Alex Gosling
+brown and down to clown(frown)	1st	Opening Opposition	View Ballot	Tanae RaoⒸ , Alex Gosling
+EXEtremely nerdy politics students	4th	Closing Government	View Ballot	Tanae RaoⒸ , Alex Gosling
+KCL Aber one of us is from austin, 	1st	Closing Government	View Ballot	Daniela WilliamsⒸ , Neva Ensminger-Holland
+Got Fucked Over By White Men	2nd	Closing Opposition	View Ballot	Daniela WilliamsⒸ , Neva Ensminger-Holland
+UCL David &amp; Goliath	4th	Opening Government	View Ballot	Daniela WilliamsⒸ , Neva Ensminger-Holland
+Tartu A	3rd	Opening Opposition	View Ballot	Daniela WilliamsⒸ , Neva Ensminger-Holland
+The Hat Men	1st	Opening Government	View Ballot	CaoimhinⒸ , Dominic Ferris , Lily Baughman
+Cambridge Swift	4th	Closing Opposition	View Ballot	CaoimhinⒸ , Dominic Ferris , Lily Baughman
+Imperial lists	2nd	Opening Opposition	View Ballot	CaoimhinⒸ , Dominic Ferris , Lily Baughman
+will make you scream harder than ho	3rd	Closing Government	View Ballot	CaoimhinⒸ , Dominic Ferris , Lily Baughman
+mickey smells 💩	1st	Opening Opposition	View Ballot	Stuart JohnsonⒸ , Owen Goodacre
+The FT	2nd	Closing Government	View Ballot	Stuart JohnsonⒸ , Owen Goodacre
+UCL J	3rd	Opening Government	View Ballot	Stuart JohnsonⒸ , Owen Goodacre
+tandoori fish and chips	4th	Closing Opposition	View Ballot	Stuart JohnsonⒸ , Owen Goodacre
+Fax don&#x27;t care about your fealty	4th	Opening Government	View Ballot	Ramesh RajavinothanⒸ , Anna , Liam
+Not to victim blame, but Lucy deser	1st	Opening Opposition	View Ballot	Ramesh RajavinothanⒸ , Anna , Liam
+ETH Zürich DT	3rd	Closing Government	View Ballot	Ramesh RajavinothanⒸ , Anna , Liam
+UCL (A)lternate Timeline	2nd	Closing Opposition	View Ballot	Ramesh RajavinothanⒸ , Anna , Liam
+Harvard A	1st	Closing Government	View Ballot	KlaudiaⒸ , Katie Kiely , Luc
+UCL Spicy Sauce	4th	Closing Opposition	View Ballot	KlaudiaⒸ , Katie Kiely , Luc
+Athens A	2nd	Opening Opposition	View Ballot	KlaudiaⒸ , Katie Kiely , Luc
+Oxford AP	3rd	Opening Government	View Ballot	KlaudiaⒸ , Katie Kiely , Luc
+Imperial This comp needs a ChatGPT 	2nd	Closing Opposition	View Ballot	Ted ChangⒸ , Johan Allen , Kamila Kawczak
+Oxford B	3rd	Opening Government	View Ballot	Ted ChangⒸ , Johan Allen , Kamila Kawczak
+Avanti Ragazzi di Buda	1st	Opening Opposition	View Ballot	Ted ChangⒸ , Johan Allen , Kamila Kawczak
+UCD L&amp;H Queens recolonising Ireland	4th	Closing Government	View Ballot	Ted ChangⒸ , Johan Allen , Kamila Kawczak
+BDU arm aber sexy	3rd	Opening Government	View Ballot	Josh AshworthⒸ , Andrew Chen , Kayla Powers
+Dr Strangelove or How I Learned to	1st	Closing Opposition	View Ballot	Josh AshworthⒸ , Andrew Chen , Kayla Powers
+Extending into your mum&#x27;s dms	2nd	Opening Opposition	View Ballot	Josh AshworthⒸ , Andrew Chen , Kayla Powers
+Parth Pandya&#x27;s Peter Parker Partner	4th	Closing Government	View Ballot	Josh AshworthⒸ , Andrew Chen , Kayla Powers
+Asian John and White Yoko	3rd	Opening Government	View Ballot	Matt HazellⒸ , Lovro Marušić , Sachin Tissera
+one worlds win and the dickhead’s g	1st	Closing Government	View Ballot	Matt HazellⒸ , Lovro Marušić , Sachin Tissera
+Harish if he was young, poor and ha	4th	Closing Opposition	View Ballot	Matt HazellⒸ , Lovro Marušić , Sachin Tissera
+drink on us for guessing who debate	2nd	Opening Opposition	View Ballot	Matt HazellⒸ , Lovro Marušić , Sachin Tissera
+Burning trashfire	1st	Opening Opposition	View Ballot	Markus MyllymäkiⒸ , Kay Eastwood , Stenee
+Wantaaage peeps	2nd	Closing Government	View Ballot	Markus MyllymäkiⒸ , Kay Eastwood , Stenee
+Balkan Girls	3rd	Opening Government	View Ballot	Markus MyllymäkiⒸ , Kay Eastwood , Stenee
+Argument Alchemists	4th	Closing Opposition	View Ballot	Markus MyllymäkiⒸ , Kay Eastwood , Stenee
+
+
+team	result	side	adjudicators
+The Hat Men	eliminated	Closing Government	Paula DjakovićⒸ , Brian Kam , Josh Ashworth
+In Russia, death and sex are the sa	eliminated	Opening Government	Paula DjakovićⒸ , Brian Kam , Josh Ashworth
+Not to victim blame, but Lucy deser	advancing	Closing Opposition	Paula DjakovićⒸ , Brian Kam , Josh Ashworth
+Apply to join our hedge fund	advancing	Opening Opposition	Paula DjakovićⒸ , Brian Kam , Josh Ashworth
+one worlds win and the dickhead’s g	advancing	Closing Government	Alishba IrfanⒸ , Daniela Williams , Matt Hazell
+Avanti Ragazzi di Buda	advancing	Opening Opposition	Alishba IrfanⒸ , Daniela Williams , Matt Hazell
+UCD L&amp;H here to w(A)lk that fucking	eliminated	Closing Opposition	Alishba IrfanⒸ , Daniela Williams , Matt Hazell
+UCL (A)lternate Timeline	eliminated	Opening Government	Alishba IrfanⒸ , Daniela Williams , Matt Hazell
+Harish and Matt	advancing	Opening Government	AnnaⒸ , Ian Wu , Lovro Marušić
+Dr Strangelove or How I Learned to	eliminated	Closing Government	AnnaⒸ , Ian Wu , Lovro Marušić
+We came here to end racism and win 	advancing	Closing Opposition	AnnaⒸ , Ian Wu , Lovro Marušić
+Extending into your mum&#x27;s dms	eliminated	Opening Opposition	AnnaⒸ , Ian Wu , Lovro Marušić
+Princeton/McGill LR	advancing	Opening Government	CaoimhinⒸ , Lara Dragojević , Markus Myllymäki
+Asian John and White Yoko	eliminated	Closing Opposition	CaoimhinⒸ , Lara Dragojević , Markus Myllymäki
+Ninja Pagongs	advancing	Opening Opposition	CaoimhinⒸ , Lara Dragojević , Markus Myllymäki
+drink on us for guessing who debate	eliminated	Closing Government	CaoimhinⒸ , Lara Dragojević , Markus Myllymäki
+
+
+team	result	side	adjudicators
+Princeton/McGill LR	advancing	Closing Opposition	Andrew ChenⒸ , Ange Qin , Daniela Williams , Geneva Roy , Kamila Kawczak
+Not to victim blame, but Lucy deser	eliminated	Closing Government	Andrew ChenⒸ , Ange Qin , Daniela Williams , Geneva Roy , Kamila Kawczak
+Ninja Pagongs	advancing	Opening Opposition	Andrew ChenⒸ , Ange Qin , Daniela Williams , Geneva Roy , Kamila Kawczak
+Apply to join our hedge fund	eliminated	Opening Government	Andrew ChenⒸ , Ange Qin , Daniela Williams , Geneva Roy , Kamila Kawczak
+Harish and Matt	advancing	Opening Government	KlaudiaⒸ , Liam , Matt Hazell , Stefan Milicescu , Tanae Rao
+We came here to end racism and win 	eliminated	Closing Government	KlaudiaⒸ , Liam , Matt Hazell , Stefan Milicescu , Tanae Rao
+one worlds win and the dickhead’s g	advancing	Closing Opposition	KlaudiaⒸ , Liam , Matt Hazell , Stefan Milicescu , Tanae Rao
+Avanti Ragazzi di Buda	eliminated	Opening Opposition	KlaudiaⒸ , Liam , Matt Hazell , Stefan Milicescu , Tanae Rao
+
+
+team	result	side	adjudicators
+Harish and Matt	eliminated	Closing Opposition	Ramesh RajavinothanⒸ , Alishba Irfan , Anna , Caoimhin , Ted Chang
+Princeton/McGill LR	eliminated	Opening Opposition	Ramesh RajavinothanⒸ , Alishba Irfan , Anna , Caoimhin , Ted Chang
+one worlds win and the dickhead’s g	eliminated	Closing Government	Ramesh RajavinothanⒸ , Alishba Irfan , Anna , Caoimhin , Ted Chang
+Ninja Pagongs	advancing	Opening Government	Ramesh RajavinothanⒸ , Alishba Irfan , Anna , Caoimhin , Ted Chang
+
+
+team	result	side	adjudicators
+Burning trashfire	eliminated	Closing Government	Ted ChangⒸ , Ian Wu , Kayla Powers , Paula Djaković , Stuart Johnson
+Athens A	advancing	Opening Opposition	Ted ChangⒸ , Ian Wu , Kayla Powers , Paula Djaković , Stuart Johnson
+Balkan Girls	eliminated	Closing Opposition	Ted ChangⒸ , Ian Wu , Kayla Powers , Paula Djaković , Stuart Johnson
+Tartu A	eliminated	Opening Government	Ted ChangⒸ , Ian Wu , Kayla Powers , Paula Djaković , Stuart Johnson
+
+
+team	result	side	adjudicators
+Got Fucked Over By White Men	eliminated	Closing Government	Sachin TisseraⒸ , Dominic Ferris , Katie Kiely , Kayla Powers , Owen Mooney
+Cambridge Swift	eliminated	Opening Government	Sachin TisseraⒸ , Dominic Ferris , Katie Kiely , Kayla Powers , Owen Mooney
+mickey smells 💩	eliminated	Closing Opposition	Sachin TisseraⒸ , Dominic Ferris , Katie Kiely , Kayla Powers , Owen Mooney
+Oxford B	advancing	Opening Opposition	Sachin TisseraⒸ , Dominic Ferris , Katie Kiely , Kayla Powers , Owen Mooney
+

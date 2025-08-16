@@ -1,0 +1,821 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Wait, when did Vivian get a Canadi		1st	1st	1st	2nd	1st	14	825	4	1
+2	eager beaver buttered seal		1st	1st	1st	1st	3rd	13	820	4	0
+3	My weed is Amitai&#x27;s 13th reason wh	ESL	1st	1st	2nd	1st	2nd	13	807	3	2
+4	Feral Catgirls		1st	2nd	2nd	2nd	1st	12	812	2	3
+5	Ain’t it funny? Rumours fly		1st	2nd	1st	3rd	1st	12	798	3	1
+6	McDonald and the Newman Strike Aga		3rd	1st	1st	1st	2nd	12	794	3	1
+7	Capybara and Young Hong Kong Boy		1st	1st	3rd	3rd	1st	11	796	3	0
+8	Toto, I’ve a feeling we’re not in	ESL	2nd	3rd	1st	2nd	1st	11	787	2	2
+9	Athens A	ESL	1st	2nd	1st	4th	1st	11	786	3	1
+10	Girl Math Economists	ESL	3rd	2nd	1st	1st	2nd	11	786	2	2
+11	Princeton South Asia		1st	3rd	1st	1st	3rd	11	785	3	0
+12	Ellie Stephenson &amp; Ben Diskin		1st	2nd	2nd	3rd	2nd	10	812	1	3
+13	LSE Chicken Chang&#x27;s		1st	2nd	1st	2nd	4th	10	802	2	2
+14=	Tweed Coats		1st	4th	1st	3rd	1st	10	795	3	0
+14=	your dad+ skill issue+ no bitches+		1st	1st	4th	1st	3rd	10	795	3	0
+16	Miraculously Victorious	ESL	2nd	1st	2nd	4th	1st	10	792	2	2
+17	Sleep deprived and baked		1st	3rd	1st	4th	1st	10	791	3	0
+18	Embassy of Potato Europe to Tomato	ESL	4th	1st	2nd	1st	2nd	10	774	2	2
+19	Remontada	ESL	3rd	1st	4th	1st	1st	10	768	3	0
+20	A Weizmann once said		2nd	1st	3rd	4th	1st	9	789	2	1
+21	debater? I actually get along with		2nd	2nd	3rd	1st	3rd	9	787	1	2
+22	A cook and a chef	ESL	2nd	1st	3rd	1st	4th	9	784	2	1
+23	Technion A	ESL	2nd	2nd	2nd	2nd	3rd	9	783	0	4
+24	Pew Pew Ahmet Mohsin	ESL	3rd	1st	2nd	1st	4th	9	781	2	1
+25	Vereinigtes Baltisches Herzogtum	ESL	3rd	1st	4th	1st	2nd	9	780	2	1
+26	Got Iron Dome from your mum		1st	2nd	4th	2nd	2nd	9	778	1	3
+27	Warsaw AF	ESL	2nd	4th	2nd	2nd	1st	9	770	1	3
+28	japanese citrus fruit		2nd	4th	3rd	1st	1st	9	766	2	1
+29	Gargamel and Smurfette	ESL	3rd	3rd	1st	2nd	2nd	9	765	1	2
+30	KCL so much little bitch energy in		3rd	1st	4th	3rd	1st	8	783	2	0
+31	Pacific Coast CR	Novice	1st	3rd	2nd	3rd	3rd	8	783	1	1
+32	Trauma dumping with extra steps	ESL	2nd	1st	3rd	3rd	3rd	8	780	1	1
+33	UCL Sailing Society		2nd	4th	1st	1st	4th	8	778	2	1
+34	Larkana	ESL	4th	2nd	1st	2nd	3rd	8	775	1	2
+35	K2	ESL	2nd	2nd	3rd	2nd	3rd	8	775	0	3
+36	Sponsored by FTX and SVB		1st	3rd	2nd	2nd	4th	8	773	1	2
+37	we&#x27;re strong men but also strong m	ESL	2nd	3rd	1st	4th	2nd	8	771	1	2
+38	Bring back the blonde girl that de		3rd	3rd	1st	3rd	2nd	8	770	1	1
+39	KCL we’d have a better team name i		1st	4th	2nd	4th	1st	8	769	2	1
+40	Katarina&#x27;s pets	ESL	2nd	2nd	1st	3rd	4th	8	769	1	2
+41	（M）Wacao	ESL	4th	1st	1st	4th	2nd	8	768	2	1
+42	chuukki and drewwkki		3rd	2nd	1st	4th	2nd	8	767	1	2
+43	ETH Zurich HT		3rd	2nd	4th	2nd	1st	8	763	1	2
+44	Niki Rumen	ESL	3rd	2nd	2nd	2nd	3rd	8	759	0	3
+45	Arnold A	ESL, Novice	4th	3rd	2nd	1st	2nd	8	752	1	2
+46	EDS KP		1st	1st	4th	2nd	—	8	636	2	1
+47	the team with no visa		4th	1st	2nd	1st	—	8	623	2	1
+48	don’t even trip dawg	Novice	2nd	1st	3rd	3rd	4th	7	784	1	1
+49	truffle pigs	Novice	3rd	3rd	2nd	1st	4th	7	771	1	1
+50	Sciences Pipo	ESL	1st	4th	3rd	1st	4th	7	768	2	0
+51	Technion GR++	ESL	1st	3rd	2nd	4th	3rd	7	768	1	1
+52	Do u hate me💦	ESL	4th	1st	3rd	4th	1st	7	767	2	0
+53	Rupem Baraka	ESL, Novice	1st	3rd	3rd	3rd	3rd	7	767	1	0
+54=	Chonkyo	ESL	2nd	3rd	4th	2nd	2nd	7	762	0	3
+54=	GC A	ESL	2nd	4th	2nd	3rd	2nd	7	762	0	3
+56	Mickinsey sucks	ESL	2nd	4th	3rd	2nd	2nd	7	761	0	3
+57	Athens Tech A	ESL, Novice	3rd	4th	4th	1st	1st	7	760	2	0
+58	United Coimbra	ESL	4th	2nd	3rd	1st	3rd	7	759	1	1
+59	UCL	Novice	4th	4th	1st	3rd	1st	7	748	2	0
+60	Bucharest AV	Novice	2nd	2nd	4th	2nd	4th	6	780	0	3
+61	NDT Levski	ESL, Novice	3rd	2nd	3rd	2nd	4th	6	778	0	2
+62	NDT Botev	ESL, Novice	3rd	1st	4th	4th	2nd	6	768	1	1
+63	Wild Technion Zonkeys	ESL	3rd	4th	2nd	3rd	2nd	6	764	0	2
+64	Debating with Health Problems		3rd	2nd	2nd	3rd	4th	6	761	0	2
+65	Subscribe to Rumen’s Channel	ESL	2nd	2nd	3rd	3rd	4th	6	758	0	2
+66	Tartu B	ESL	3rd	1st	4th	2nd	4th	6	757	1	1
+67	3am Tim Horton&#x27;s Iced Cofy	Novice	3rd	4th	1st	3rd	3rd	6	755	1	0
+68	Refraining from asian dialects	ESL	4th	4th	2nd	1st	3rd	6	753	1	1
+69	I’m back	ESL, Novice	2nd	3rd	4th	4th	1st	6	752	1	1
+70	Chicken rice for breakfast	Novice	4th	4th	1st	3rd	2nd	6	749	1	1
+71	ELEPHANTS	ESL	4th	3rd	4th	2nd	1st	6	733	1	1
+72	Wakanda A	ESL	1st	4th	4th	2nd	4th	5	769	1	1
+73	African representation		2nd	3rd	2nd	4th	4th	5	761	0	2
+74	NDT Karavelov	ESL, Novice	4th	2nd	2nd	4th	3rd	5	759	0	2
+75	Swing B		1st	4th	4th	3rd	3rd	5	758	1	0
+76	Wisconsin B	Novice	3rd	3rd	3rd	4th	2nd	5	755	0	1
+77	Athens B	ESL	4th	4th	3rd	1st	3rd	5	750	1	0
+78	Chipa Joe A	ESL, Novice	4th	1st	3rd	4th	3rd	5	742	1	0
+79	TUT A	ESL	4th	2nd	4th	4th	1st	5	737	1	1
+80	ACG A (Taylor&#x27;s Version)	ESL, Novice	4th	4th	4th	1st	2nd	5	735	1	1
+81	Long time no see	ESL	2nd	3rd	3rd	4th	4th	4	759	0	1
+82	BUTEX A	Novice	4th	3rd	1st	4th	4th	4	748	1	0
+83	Swing A		4th	4th	3rd	3rd	2nd	4	745	0	1
+84	The Magnivim	ESL	4th	4th	3rd	2nd	3rd	4	744	0	1
+85	JJ	Novice	2nd	4th	4th	2nd	—	4	597	0	2
+86	NDT Rakovski	ESL, Novice	3rd	3rd	3rd	4th	4th	3	765	0	0
+87	wASIANS		3rd	3rd	4th	3rd	4th	3	759	0	0
+88	（M)Wocao	Novice	4th	3rd	3rd	4th	3rd	3	721	0	0
+89	Swing C		—	—	2nd	3rd	—	3	295	0	1
+90	WAD Tsukuba	ESL	3rd	4th	4th	3rd	4th	2	736	0	0
+91	HSE B	ESL, Novice	4th	3rd	4th	4th	3rd	2	720	0	0
+92	Illuminati Brothers	ESL, Novice	4th	2nd	—	—	—	2	288	0	1
+93	Reggie Belafonte A	ESL, Novice	4th	4th	4th	4th	4th	0	719	0	0
+94	Let the 14 year Old win	ESL	—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Tejas Subramaniam		Wait, when did Vivian get a Canadi	84	84	83	82	84	417	83.40	0.80
+2	Xiao-ke Lu		eager beaver buttered seal	82	81	84	82	82	411	82.20	0.98
+3	Eli Pallrand		eager beaver buttered seal	81	81	83	82	82	409	81.80	0.75
+4	Elizabeth Li		Wait, when did Vivian get a Canadi	84	81	82	79	82	408	81.60	1.62
+5=	Ben Diskin		Ellie Stephenson &amp; Ben Diskin	82	80	83	80	82	407	81.40	1.20
+5=	Amelia Potocka		Feral Catgirls	80	81	80	83	83	407	81.40	1.36
+7=	Ellie Stephenson		Ellie Stephenson &amp; Ben Diskin	81	80	83	80	81	405	81.00	1.10
+7=	Amitai Ben Porat	ESL	My weed is Amitai&#x27;s 13th reason wh	80	81	80	81	83	405	81.00	1.10
+7=	Shaurya Chandravanshi		Feral Catgirls	80	82	81	80	82	405	81.00	0.89
+10=	Ayal Mor	ESL	My weed is Amitai&#x27;s 13th reason wh	80	81	78	81	82	402	80.40	1.36
+10=	Deon Kiew		LSE Chicken Chang&#x27;s	80	77	84	81	80	402	80.40	2.24
+12	Muzzi Godil		Capybara and Young Hong Kong Boy	78	81	80	79	83	401	80.20	1.72
+13	Stefan Milicescu	ESL	LSE Chicken Chang&#x27;s	80	78	83	80	79	400	80.00	1.67
+14=	Wajeeh Maaz		Ain’t it funny? Rumours fly	81	76	82	79	81	399	79.80	2.14
+14=	Lucie Slamova		Ain’t it funny? Rumours fly	81	76	82	80	80	399	79.80	2.04
+14=	Taha Masud		Tweed Coats	82	78	81	78	80	399	79.80	1.60
+17=	Pjotr Koster	ESL	your dad+ skill issue+ no bitches+	82	79	78	81	78	398	79.60	1.62
+17=	Craig McDonald		McDonald and the Newman Strike Aga	75	80	79	83	81	398	79.60	2.65
+19=	Victor Bervoets	ESL	Miraculously Victorious	79	82	79	78	79	397	79.40	1.36
+19=	Alishba Irfan		your dad+ skill issue+ no bitches+	81	79	78	81	78	397	79.40	1.36
+21=	Afzal Hussain		Princeton South Asia	77	79	78	83	79	396	79.20	2.04
+21=	Belle Ho		Sleep deprived and baked	79	76	81	78	82	396	79.20	2.14
+21=	Talha Wani		Tweed Coats	81	78	79	78	80	396	79.20	1.17
+21=	Hamza Nouman	ESL	McDonald and the Newman Strike Aga	76	79	80	80	81	396	79.20	1.72
+25=	Justin Wu		Capybara and Young Hong Kong Boy	77	80	79	78	81	395	79.00	1.41
+25=	Thej Mallu		Sleep deprived and baked	79	76	81	77	82	395	79.00	2.28
+25=	Mira Eberdorfer	ESL	Miraculously Victorious	80	80	78	78	79	395	79.00	0.89
+25=	Martha Johanne Schou	ESL	Girl Math Economists	80	77	78	80	80	395	79.00	1.26
+25=	Robiah Arefin	ESL	Toto, I’ve a feeling we’re not in	78	78	81	80	78	395	79.00	1.26
+25=	Rohan Kapoor		debater? I actually get along with	79	80	79	78	79	395	79.00	0.63
+31=	Super Nana	ESL	A cook and a chef	76	80	78	82	77	393	78.60	2.15
+31=	Panagis Gouvelis	ESL	Athens A	79	79	79	77	79	393	78.60	0.80
+31=	George Fragkiadakis	ESL	Athens A	77	79	80	77	80	393	78.60	1.36
+31=	Will Ryan	Novice	Pacific Coast CR	78	79	79	78	79	393	78.60	0.49
+35=	Aurora Zhang	ESL	KCL so much little bitch energy in	76	79	78	78	81	392	78.40	1.62
+35=	Guy Wolf	ESL	Technion A	77	80	79	80	76	392	78.40	1.62
+35=	Rina Neiman	ESL	Trauma dumping with extra steps	80	78	77	79	78	392	78.40	1.02
+35=	Zahi Wali Aadit	ESL	Toto, I’ve a feeling we’re not in	77	77	82	80	76	392	78.40	2.24
+35=	Benny Nicholson		debater? I actually get along with	79	78	77	79	79	392	78.40	0.80
+35=	Ebenezer Appiah	Novice	don’t even trip dawg	78	79	81	78	76	392	78.40	1.62
+41=	Dvij Mankad	ESL	A Weizmann once said	79	78	76	78	80	391	78.20	1.33
+41=	Zaid Ahmed Abro	ESL	Pew Pew Ahmet Mohsin	75	77	82	81	76	391	78.20	2.79
+41=	Joshua Stone		KCL so much little bitch energy in	77	78	77	77	82	391	78.20	1.94
+41=	Yael Wolff	ESL	Technion A	77	79	79	80	76	391	78.20	1.47
+41=	Ayafa Tonye	ESL	A cook and a chef	76	78	79	82	76	391	78.20	2.23
+41=	Laura Pilmark	ESL	Girl Math Economists	78	77	78	79	79	391	78.20	0.75
+47=	Imaad Hasan Jafri	ESL	Pew Pew Ahmet Mohsin	74	78	81	81	76	390	78.00	2.76
+47=	Rick Tan		UCL Sailing Society	76	77	82	78	77	390	78.00	2.10
+47=	Arina Dumitru	Novice, ESL	Bucharest AV	80	76	79	78	77	390	78.00	1.41
+47=	Vlad Pop	Novice, ESL	Bucharest AV	78	76	80	78	78	390	78.00	1.26
+47=	Richard Colgrove	Novice	Pacific Coast CR	77	78	79	78	78	390	78.00	0.63
+52=	Fatima Haider	Novice	Princeton South Asia	77	77	77	81	77	389	77.80	1.60
+52=	Ali Hanfeyah Bokhari	ESL	Larkana	76	77	81	78	77	389	77.80	1.72
+52=	Valentin Katzarov	Novice, ESL, Schools	NDT Levski	77	80	78	77	77	389	77.80	1.17
+55=	Or Rubin	ESL	we&#x27;re strong men but also strong m	77	75	79	78	79	388	77.60	1.50
+55=	Jessica	ESL	Trauma dumping with extra steps	78	77	79	76	78	388	77.60	1.02
+55=	Ali Nawaz Khan	ESL	K2	79	80	74	77	78	388	77.60	2.06
+55=	Ange Qin		UCL Sailing Society	76	77	80	79	76	388	77.60	1.62
+55=	Lukas Eigėlis	ESL	Embassy of Potato Europe to Tomato	77	78	78	76	79	388	77.60	1.02
+60=	Justin Zhou		Sponsored by FTX and SVB	78	79	76	81	73	387	77.40	2.73
+60=	Pavle Antonijević	ESL	Katarina&#x27;s pets	77	77	77	79	77	387	77.40	0.80
+60=	Sarim Karim	ESL	K2	79	78	74	78	78	387	77.40	1.74
+60=	Mateusz Wójtowicz	ESL	Warsaw AF	79	77	76	77	78	387	77.40	1.02
+60=	Kamila Kawczak		KCL we’d have a better team name i	78	75	80	75	79	387	77.40	2.06
+65=	Hunter Valencia		Sponsored by FTX and SVB	77	78	76	81	74	386	77.20	2.32
+65=	Daud Kharal	ESL	Larkana	75	76	81	77	77	386	77.20	2.04
+65=	Will Ryan		Bring back the blonde girl that de	75	75	80	77	79	386	77.20	2.04
+65=	Clarissa Zuo	Novice	truffle pigs	74	78	79	78	77	386	77.20	1.72
+65=	Heleriin Ots	ESL	Embassy of Potato Europe to Tomato	77	78	78	74	79	386	77.20	1.72
+70=	Alba Borrego	Novice	truffle pigs	75	76	79	79	76	385	77.00	1.67
+70=	Tania Acsinte	ESL	Sciences Pipo	81	76	75	77	76	385	77.00	2.10
+70=	Ramy Masalha	ESL	Technion GR++	82	76	75	77	75	385	77.00	2.61
+70=	Donner Tang	ESL	（M）Wacao	75	75	80	77	78	385	77.00	1.90
+70=	Martijn Logtenberg	ESL	Gargamel and Smurfette	71	75	81	79	79	385	77.00	3.58
+70=	Ania Ziemba	Novice, ESL	Rupem Baraka	77	78	75	77	78	385	77.00	1.10
+70=	Raymond Qiu		chuukki and drewwkki	75	76	78	77	79	385	77.00	1.41
+77=	Tomoya Mizutani	ESL	Do u hate me💦	73	79	78	76	78	384	76.80	2.14
+77=	Annika Wang	Novice, ESL	Bring back the blonde girl that de	75	76	79	76	78	384	76.80	1.47
+77=	Nevo Werner-Reiss	ESL	Wild Technion Zonkeys	77	77	76	75	79	384	76.80	1.33
+77=	Nathaniel Fleku	ESL	Remontada	74	76	77	79	78	384	76.80	1.72
+77=	Martin Avorgah	ESL	Remontada	74	77	76	79	78	384	76.80	1.72
+77=	Tanya Anastasova	Novice, ESL, Schools	NDT Botev	78	81	73	74	78	384	76.80	2.93
+77=	Adelina Galabinova	Novice, ESL, Schools	NDT Botev	79	81	73	74	77	384	76.80	2.99
+84=	Taiki Tsuchiya	ESL	Do u hate me💦	71	77	77	76	82	383	76.60	3.50
+84=	Jasmine Leung		wASIANS	80	76	78	73	76	383	76.60	2.33
+84=	Mihaela Peeva	Novice, ESL, Schools	NDT Rakovski	77	77	78	75	76	383	76.60	1.02
+84=	Alicia Wang	ESL	Sciences Pipo	81	75	76	76	75	383	76.60	2.24
+84=	David Zu		japanese citrus fruit	75	75	75	79	79	383	76.60	1.96
+84=	Simon Yu		japanese citrus fruit	75	74	75	79	80	383	76.60	2.42
+84=	Gil Levi	ESL	Technion GR++	79	75	76	77	76	383	76.60	1.36
+84=	Jazib ud Din Khan	ESL	GC A	76	73	79	75	80	383	76.60	2.58
+84=	Alex Gao	ESL	（M）Wacao	74	77	79	76	77	383	76.60	1.62
+84=	Grzegorz Zińczuk	ESL	Warsaw AF	77	75	76	77	78	383	76.60	1.02
+84=	Eziel Johnson	ESL	Wakanda A	79	77	74	78	75	383	76.60	1.85
+95=	Vasilije Milačić	Novice, ESL	Katarina&#x27;s pets	77	76	76	77	76	382	76.40	0.49
+95=	Alexandra Bogdanova	Novice, ESL, Schools	NDT Rakovski	76	77	79	76	74	382	76.40	1.62
+95=	Yuichi Masaoka	ESL	Chonkyo	76	78	76	77	75	382	76.40	1.02
+95=	Heidi Silvennoinen		ETH Zurich HT	78	78	72	77	77	382	76.40	2.24
+95=	Vladimir Brezniceanu	Novice, ESL, Schools	Rupem Baraka	78	77	75	75	77	382	76.40	1.20
+95=	Nikita Tarasov	Novice, ESL	KCL we’d have a better team name i	77	74	80	74	77	382	76.40	2.24
+95=	Andrew Liu		chuukki and drewwkki	75	76	77	76	78	382	76.40	1.02
+102=	Dimitrios Balatos	Novice, ESL	Athens Tech A	75	77	72	76	81	381	76.20	2.93
+102=	Omesh Dhar Dwivedi		Debating with Health Problems	76	78	79	77	71	381	76.20	2.79
+102=	Tanvir Thamid	ESL	Subscribe to Rumen’s Channel	76	79	78	74	74	381	76.20	2.04
+102=	Rose Zhou	Novice	3am Tim Horton&#x27;s Iced Cofy	78	75	79	75	74	381	76.20	1.94
+102=	Teymour Aldridge	Novice	ETH Zurich HT	77	77	73	78	76	381	76.20	1.72
+102=	Lyubomira Nikolova	Novice, ESL, Schools	NDT Karavelov	76	77	78	76	74	381	76.20	1.33
+102=	Oyisa Katshaza	ESL	African representation	78	78	75	73	77	381	76.20	1.94
+109=	Pranjal Chakraborty	ESL	Niki Rumen	73	78	77	75	77	380	76.00	1.79
+109=	Omeshs partner	ESL	Debating with Health Problems	75	77	78	77	73	380	76.00	1.79
+109=	Yuki Saito	ESL	Chonkyo	76	77	76	76	75	380	76.00	0.63
+109=	Ya&#x27;arit Segal	ESL	Wild Technion Zonkeys	77	76	74	76	77	380	76.00	1.10
+109=	Niya Balcheva	ESL	Gargamel and Smurfette	72	75	77	78	78	380	76.00	2.28
+109=	James Junior Okuku	ESL	African representation	79	78	76	72	75	380	76.00	2.45
+109=	Speaker 1		Swing B	77	75	75	76	77	380	76.00	0.89
+116=	Angeliki Ntalapera	Novice, ESL	Athens Tech A	74	74	74	78	79	379	75.80	2.23
+116=	Gautam Khona	ESL	Niki Rumen	74	78	77	73	77	379	75.80	1.94
+116=	Muhammad Hassan Butt	Novice, ESL, Schools	GC A	76	73	78	73	79	379	75.80	2.48
+116=	Ellen Roper	ESL	Tartu B	75	78	74	76	76	379	75.80	1.33
+120=	Diogo Ferreira	ESL	United Coimbra	74	75	74	77	78	378	75.60	1.62
+120=	Aph Guvenen	Novice	Wisconsin B	75	76	77	75	75	378	75.60	0.80
+120=	Karmen Laud	ESL	Tartu B	74	79	74	74	77	378	75.60	2.06
+120=	Boris Ignatov	Novice, ESL, Schools	NDT Karavelov	75	77	77	76	73	378	75.60	1.50
+124=	Gazi Mahtab	Novice, ESL	Subscribe to Rumen’s Channel	75	77	77	73	75	377	75.40	1.50
+124=	Dheeraj Pasikanti	Novice	Wisconsin B	76	77	75	75	74	377	75.40	1.02
+124=	Adrian Lau	Novice, ESL, Schools	I’m back	77	76	74	75	75	377	75.40	1.02
+124=	Abdulla Abdullaev	Novice, ESL	Arnold A	75	73	76	76	77	377	75.40	1.36
+128=	Filippos Koutsodimitropoulos	ESL	Athens B	75	74	75	75	77	376	75.20	0.98
+128=	Eyedi Won Ruen Tze	ESL	Refraining from asian dialects	74	72	75	79	76	376	75.20	2.32
+128=	Tingshou Zong	Novice	Chicken rice for breakfast	74	75	77	76	74	376	75.20	1.17
+128=	Yuen Bing Ooi	Novice	UCL	72	73	77	76	78	376	75.20	2.32
+132=	Ken Liang	Novice, ESL, Schools	I’m back	76	74	74	76	75	375	75.00	0.89
+132=	Anna Merkulowa	Novice, ESL	Arnold A	75	74	75	75	76	375	75.00	0.63
+132=	Ruslan Rakhmani	Novice, ESL	Chipa Joe A	74	75	77	72	77	375	75.00	1.90
+135=	Maro Samara	ESL	Athens B	74	74	75	76	75	374	74.80	0.75
+135=	Yueqian Wang	Novice, ESL	3am Tim Horton&#x27;s Iced Cofy	76	72	78	75	73	374	74.80	2.14
+135=	Md. Tamzidur Rahman	Novice	BUTEX A	75	76	76	73	74	374	74.80	1.17
+135=	Nahid	Novice	BUTEX A	75	76	76	72	75	374	74.80	1.47
+139=	Yi Ranne Hwang	Novice	Chicken rice for breakfast	74	73	76	76	74	373	74.60	1.20
+139=	Speaker 1		Swing A	74	75	74	74	76	373	74.60	0.80
+141=	Victor Awerianow	ESL	The Magnivim	75	73	74	75	75	372	74.40	0.80
+141=	Noa Maimon	ESL	The Magnivim	75	73	73	75	76	372	74.40	1.20
+141=	Jasmine Harding	Novice	UCL	70	72	77	75	78	372	74.40	3.01
+144	Nari Tomitaka	ESL	WAD Tsukuba	76	75	74	72	73	370	74.00	1.41
+145	Vladislav Konstantinov	ESL	TUT A	69	77	75	72	76	369	73.80	2.93
+146=	Anastassia Serbina	ESL	TUT A	68	75	75	72	78	368	73.60	3.38
+146=	Naya Barakat	Novice, ESL	ACG A (Taylor&#x27;s Version)	72	72	73	74	77	368	73.60	1.85
+148=	Riza Abasov	ESL	ELEPHANTS	72	73	72	72	78	367	73.40	2.33
+148=	Alekos Chelmis	Novice, ESL	ACG A (Taylor&#x27;s Version)	71	73	73	74	76	367	73.40	1.62
+148=	Liza Efimova	Novice, ESL	Chipa Joe A	72	73	74	72	76	367	73.40	1.50
+151=	Haruto Masumitsu	ESL	WAD Tsukuba	76	74	74	70	72	366	73.20	2.04
+151=	Agavard Vartanyan	ESL	ELEPHANTS	72	73	70	73	78	366	73.20	2.64
+153=	Jaroslav Kondulukov	Novice, ESL	Reggie Belafonte A	72	73	72	73	73	363	72.60	0.49
+153=	Maria Lazaruk	Novice, ESL	HSE B	74	74	70	70	75	363	72.60	2.15
+155	Liu Hong yi	Novice	（M)Wocao	72	73	74	68	74	361	72.20	2.23
+156	Zhou Yang	Novice	（M)Wocao	71	73	74	69	73	360	72.00	1.79
+157	Valeria Fedorova	Novice, ESL	HSE B	72	73	69	69	74	357	71.40	2.06
+158	Varvara Dubovik	Novice, ESL	Reggie Belafonte A	72	70	70	72	72	356	71.20	0.98
+159	Anais Kneppers		EDS KP	80	80	80	80	—	320	80.00	0.00
+160	Miriam Kalman		A Weizmann once said	81	82	79	77	—	319	79.75	1.92
+161=	Pedro Proano	ESL	EDS KP	79	80	77	80	—	316	79.00	1.22
+161=	Diego Castillo	Novice	don’t even trip dawg	79	80	80	77	—	316	79.00	1.22
+163=	Tarun Ruschmeier	ESL	Vereinigtes Baltisches Herzogtum	—	78	77	79	81	315	78.75	1.48
+163=	Kristofers Krumins	ESL	Vereinigtes Baltisches Herzogtum	—	79	77	78	81	315	78.75	1.48
+165=	Lamia Nur Rahman		the team with no visa	77	80	78	78	—	313	78.25	1.09
+165=	Timothy Hanna	Novice	Got Iron Dome from your mum	78	80	77	78	—	313	78.25	1.09
+165=	Kaloyan Kotzev	Novice, ESL, Schools	NDT Levski	76	81	78	78	—	313	78.25	1.79
+168	Archie Wolifson		Got Iron Dome from your mum	78	81	75	—	78	312	78.00	2.12
+169=	Sandeep Tissaaratchy		the team with no visa	76	77	78	79	—	310	77.50	1.12
+169=	Yuki Kato	ESL	Long time no see	81	76	76	77	—	310	77.50	2.06
+171	Idan Ben Avi	ESL	we&#x27;re strong men but also strong m	75	—	78	77	78	308	77.00	1.22
+172	Xavier Alif	ESL	Mickinsey sucks	—	78	76	75	77	306	76.50	1.12
+173	Yuichiro Hata	ESL	Long time no see	79	75	75	76	—	305	76.25	1.64
+174=	Musky Shen	ESL	Refraining from asian dialects	—	72	76	78	77	303	75.75	2.28
+174=	Filipe Girio	ESL	United Coimbra	75	75	75	78	—	303	75.75	1.30
+176	Dante Fosterdelmundo		wASIANS	76	75	77	73	—	301	75.25	1.48
+177	Jingyi He	Novice	JJ	75	75	73	76	—	299	74.75	1.09
+178	Ye-Jean Park	Novice	JJ	74	74	75	75	—	298	74.50	0.50
+179	Serg Mascot	ESL	Wakanda A	79	78	76	—	—	233	77.67	1.25
+180	ZH Masud	ESL	Mickinsey sucks	—	76	76	75	—	227	75.67	0.47
+181	Speaker 2		Swing A	—	74	74	—	76	224	74.67	0.94
+182	Speaker 2		Swing B	—	—	75	76	—	151	75.50	0.50
+183	Speaker 1		Swing C	—	—	75	73	—	148	74.00	1.00
+184	Mostafizur Rahman Fahim	Novice, ESL	Illuminati Brothers	71	74	—	—	—	145	72.50	1.50
+185	Speaker 2		Swing C	—	—	74	—	—	74	74.00	0.00
+186=	Anshuman Mishra	ESL	Let the 14 year Old win	—	—	—	—	—	—	—	—
+186=	Arnav Agrawal	Novice, ESL, Schools	Let the 14 year Old win	—	—	—	—	—	—	—	—
+186=	Md. Abdullah Al-Mashrif	Novice, ESL	Illuminati Brothers	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+The Magnivim	4th	Closing Government	View Ballot	Yishai BinnesⒸ
+Long time no see	2nd	Opening Government	View Ballot	Yishai BinnesⒸ
+Girl Math Economists	3rd	Opening Opposition	View Ballot	Yishai BinnesⒸ
+Tweed Coats	1st	Closing Opposition	View Ballot	Yishai BinnesⒸ
+TUT A	4th	Closing Opposition	View Ballot	Kat JansenⒸ , Eli Yovel
+Wait, when did Vivian get a Canadi	1st	Opening Opposition	View Ballot	Kat JansenⒸ , Eli Yovel
+japanese citrus fruit	2nd	Opening Government	View Ballot	Kat JansenⒸ , Eli Yovel
+Gargamel and Smurfette	3rd	Closing Government	View Ballot	Kat JansenⒸ , Eli Yovel
+wASIANS	3rd	Opening Opposition	View Ballot	Helena HeckeⒸ , Konstantin Popović
+K2	2nd	Opening Government	View Ballot	Helena HeckeⒸ , Konstantin Popović
+Embassy of Potato Europe to Tomato	4th	Closing Government	View Ballot	Helena HeckeⒸ , Konstantin Popović
+eager beaver buttered seal	1st	Closing Opposition	View Ballot	Helena HeckeⒸ , Konstantin Popović
+A Weizmann once said	2nd	Opening Opposition	View Ballot	Lucy MurphyⒸ , Gal Mercado
+Athens B	4th	Closing Government	View Ballot	Lucy MurphyⒸ , Gal Mercado
+Ain’t it funny? Rumours fly	1st	Closing Opposition	View Ballot	Lucy MurphyⒸ , Gal Mercado
+Wisconsin B	3rd	Opening Government	View Ballot	Lucy MurphyⒸ , Gal Mercado
+My weed is Amitai&#x27;s 13th reason wh	1st	Closing Government	View Ballot	UdaiⒸ
+the team with no visa	4th	Opening Government	View Ballot	UdaiⒸ
+Wild Technion Zonkeys	3rd	Opening Opposition	View Ballot	UdaiⒸ
+don’t even trip dawg	2nd	Closing Opposition	View Ballot	UdaiⒸ
+KCL so much little bitch energy in	3rd	Closing Government	View Ballot	Flora BaekⒸ , Rajyawardhan Singh
+Toto, I’ve a feeling we’re not in	2nd	Opening Government	View Ballot	Flora BaekⒸ , Rajyawardhan Singh
+（M）Wacao	4th	Opening Opposition	View Ballot	Flora BaekⒸ , Rajyawardhan Singh
+Wakanda A	1st	Closing Opposition	View Ballot	Flora BaekⒸ , Rajyawardhan Singh
+UCL Sailing Society	2nd	Closing Government	View Ballot	Tal RatnerⒸ
+Chicken rice for breakfast	4th	Opening Government	View Ballot	Tal RatnerⒸ
+Got Iron Dome from your mum	1st	Opening Opposition	View Ballot	Tal RatnerⒸ
+chuukki and drewwkki	3rd	Closing Opposition	View Ballot	Tal RatnerⒸ
+Reggie Belafonte A	4th	Closing Government	View Ballot	Naomi GillisⒸ , Tousif Tanvir Alam
+Technion A	2nd	Closing Opposition	View Ballot	Naomi GillisⒸ , Tousif Tanvir Alam
+Vereinigtes Baltisches Herzogtum	3rd	Opening Government	View Ballot	Naomi GillisⒸ , Tousif Tanvir Alam
+Pacific Coast CR	1st	Opening Opposition	View Ballot	Naomi GillisⒸ , Tousif Tanvir Alam
+GC A	2nd	Closing Government	View Ballot	Marina KojićⒸ , Jacob GarshongⓉ
+Arnold A	4th	Opening Opposition	View Ballot	Marina KojićⒸ , Jacob GarshongⓉ
+McDonald and the Newman Strike Aga	3rd	Opening Government	View Ballot	Marina KojićⒸ , Jacob GarshongⓉ
+Swing B	1st	Closing Opposition	View Ballot	Marina KojićⒸ , Jacob GarshongⓉ
+Katarina&#x27;s pets	2nd	Closing Government	View Ballot	Ethan CurryⒸ , Anna Shreder
+NDT Rakovski	3rd	Closing Opposition	View Ballot	Ethan CurryⒸ , Anna Shreder
+Feral Catgirls	1st	Opening Government	View Ballot	Ethan CurryⒸ , Anna Shreder
+Chipa Joe A	4th	Opening Opposition	View Ballot	Ethan CurryⒸ , Anna Shreder
+Miraculously Victorious	2nd	Closing Government	View Ballot	Erasmus SegbefiaⒸ
+Sciences Pipo	1st	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ
+ETH Zurich HT	3rd	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ
+United Coimbra	4th	Opening Government	View Ballot	Erasmus SegbefiaⒸ
+Capybara and Young Hong Kong Boy	1st	Closing Government	View Ballot	Ana ComanⒸ , Thang Tran
+Debating with Health Problems	3rd	Opening Government	View Ballot	Ana ComanⒸ , Thang Tran
+Chonkyo	2nd	Closing Opposition	View Ballot	Ana ComanⒸ , Thang Tran
+HSE B	4th	Opening Opposition	View Ballot	Ana ComanⒸ , Thang Tran
+Do u hate me💦	4th	Opening Government	View Ballot	Or ToledanoⒸ , Velina Andonova
+Mickinsey sucks	2nd	Opening Opposition	View Ballot	Or ToledanoⒸ , Velina Andonova
+Pew Pew Ahmet Mohsin	3rd	Closing Government	View Ballot	Or ToledanoⒸ , Velina Andonova
+Technion GR++	1st	Closing Opposition	View Ballot	Or ToledanoⒸ , Velina Andonova
+Refraining from asian dialects	4th	Closing Government	View Ballot	Prosper Michael AmetuⒸ
+debater? I actually get along with	2nd	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ
+NDT Levski	3rd	Opening Government	View Ballot	Prosper Michael AmetuⒸ
+EDS KP	1st	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ
+Athens Tech A	3rd	Opening Government	View Ballot	Shudipto R. AhmedⒸ , Jodel AvenisⓉ
+Sleep deprived and baked	1st	Closing Government	View Ballot	Shudipto R. AhmedⒸ , Jodel AvenisⓉ
+Warsaw AF	2nd	Closing Opposition	View Ballot	Shudipto R. AhmedⒸ , Jodel AvenisⓉ
+Swing A	4th	Opening Opposition	View Ballot	Shudipto R. AhmedⒸ , Jodel AvenisⓉ
+Bring back the blonde girl that de	3rd	Closing Opposition	View Ballot	Annie SchwartzⒸ , Ugne Stasiunaite
+Subscribe to Rumen’s Channel	2nd	Opening Government	View Ballot	Annie SchwartzⒸ , Ugne Stasiunaite
+ACG A (Taylor&#x27;s Version)	4th	Opening Opposition	View Ballot	Annie SchwartzⒸ , Ugne Stasiunaite
+Rupem Baraka	1st	Closing Government	View Ballot	Annie SchwartzⒸ , Ugne Stasiunaite
+Ellie Stephenson &amp; Ben Diskin	1st	Closing Government	View Ballot	Joy HadomeⒸ , Stefan Josipović
+truffle pigs	3rd	Closing Opposition	View Ballot	Joy HadomeⒸ , Stefan Josipović
+Illuminati Brothers	4th	Opening Opposition	View Ballot	Joy HadomeⒸ , Stefan Josipović
+African representation	2nd	Opening Government	View Ballot	Joy HadomeⒸ , Stefan Josipović
+WAD Tsukuba	3rd	Opening Opposition	View Ballot	Youngwoo ParkⒸ
+I’m back	2nd	Closing Government	View Ballot	Youngwoo ParkⒸ
+NDT Karavelov	4th	Closing Opposition	View Ballot	Youngwoo ParkⒸ
+KCL we’d have a better team name i	1st	Opening Government	View Ballot	Youngwoo ParkⒸ
+Princeton South Asia	1st	Opening Government	View Ballot	Jess MusulinⒸ , Thao Nguyen
+A cook and a chef	2nd	Closing Government	View Ballot	Jess MusulinⒸ , Thao Nguyen
+ELEPHANTS	4th	Closing Opposition	View Ballot	Jess MusulinⒸ , Thao Nguyen
+Remontada	3rd	Opening Opposition	View Ballot	Jess MusulinⒸ , Thao Nguyen
+Trauma dumping with extra steps	2nd	Opening Government	View Ballot	Himan NayakⒸ , Patience Maame Efua Agyiri Andoh
+your dad+ skill issue+ no bitches+	1st	Opening Opposition	View Ballot	Himan NayakⒸ , Patience Maame Efua Agyiri Andoh
+NDT Botev	3rd	Closing Opposition	View Ballot	Himan NayakⒸ , Patience Maame Efua Agyiri Andoh
+BUTEX A	4th	Closing Government	View Ballot	Himan NayakⒸ , Patience Maame Efua Agyiri Andoh
+JJ	2nd	Closing Opposition	View Ballot	NirⒸ , Karni Shifrin
+Niki Rumen	3rd	Opening Government	View Ballot	NirⒸ , Karni Shifrin
+Athens A	1st	Closing Government	View Ballot	NirⒸ , Karni Shifrin
+（M)Wocao	4th	Opening Opposition	View Ballot	NirⒸ , Karni Shifrin
+Sponsored by FTX and SVB	1st	Opening Government	View Ballot	MiriⒸ , Cayden PocrassⓉ
+we&#x27;re strong men but also strong m	2nd	Closing Government	View Ballot	MiriⒸ , Cayden PocrassⓉ
+Tartu B	3rd	Opening Opposition	View Ballot	MiriⒸ , Cayden PocrassⓉ
+UCL	4th	Closing Opposition	View Ballot	MiriⒸ , Cayden PocrassⓉ
+Larkana	4th	Closing Government	View Ballot	Isabella FreelandⒸ , Nadav Keren
+3am Tim Horton&#x27;s Iced Cofy	3rd	Opening Government	View Ballot	Isabella FreelandⒸ , Nadav Keren
+Bucharest AV	2nd	Closing Opposition	View Ballot	Isabella FreelandⒸ , Nadav Keren
+LSE Chicken Chang&#x27;s	1st	Opening Opposition	View Ballot	Isabella FreelandⒸ , Nadav Keren
+
+
+team	result	side	ballot	adjudicators
+Athens Tech A	4th	Opening Opposition	View Ballot	Joy HadomeⒸ , Or Toledano
+truffle pigs	3rd	Opening Government	View Ballot	Joy HadomeⒸ , Or Toledano
+NDT Levski	2nd	Closing Opposition	View Ballot	Joy HadomeⒸ , Or Toledano
+NDT Botev	1st	Closing Government	View Ballot	Joy HadomeⒸ , Or Toledano
+we&#x27;re strong men but also strong m	3rd	Closing Opposition	View Ballot	Anna ShrederⒸ , Stefan Josipović
+Trauma dumping with extra steps	1st	Opening Opposition	View Ballot	Anna ShrederⒸ , Stefan Josipović
+japanese citrus fruit	4th	Closing Government	View Ballot	Anna ShrederⒸ , Stefan Josipović
+Bucharest AV	2nd	Opening Government	View Ballot	Anna ShrederⒸ , Stefan Josipović
+Ellie Stephenson &amp; Ben Diskin	2nd	Opening Government	View Ballot	Prosper Michael AmetuⒸ , Jodel AvenisⓉ
+Capybara and Young Hong Kong Boy	1st	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ , Jodel AvenisⓉ
+Tweed Coats	4th	Closing Government	View Ballot	Prosper Michael AmetuⒸ , Jodel AvenisⓉ
+Pacific Coast CR	3rd	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ , Jodel AvenisⓉ
+Pew Pew Ahmet Mohsin	1st	Closing Opposition	View Ballot	Jane MentzingerⒸ
+Katarina&#x27;s pets	2nd	Opening Government	View Ballot	Jane MentzingerⒸ
+Long time no see	3rd	Opening Opposition	View Ballot	Jane MentzingerⒸ
+3am Tim Horton&#x27;s Iced Cofy	4th	Closing Government	View Ballot	Jane MentzingerⒸ
+Niki Rumen	2nd	Opening Opposition	View Ballot	Flora BaekⒸ , Olena Pankevych
+NDT Rakovski	3rd	Opening Government	View Ballot	Flora BaekⒸ , Olena Pankevych
+Wild Technion Zonkeys	4th	Closing Government	View Ballot	Flora BaekⒸ , Olena Pankevych
+McDonald and the Newman Strike Aga	1st	Closing Opposition	View Ballot	Flora BaekⒸ , Olena Pankevych
+Wait, when did Vivian get a Canadi	1st	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ
+Feral Catgirls	2nd	Closing Government	View Ballot	Erasmus SegbefiaⒸ
+Warsaw AF	4th	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ
+Rupem Baraka	3rd	Opening Government	View Ballot	Erasmus SegbefiaⒸ
+Sponsored by FTX and SVB	3rd	Closing Opposition	View Ballot	Pranav AnandⒸ
+Got Iron Dome from your mum	2nd	Opening Government	View Ballot	Pranav AnandⒸ
+Swing B	4th	Closing Government	View Ballot	Pranav AnandⒸ
+eager beaver buttered seal	1st	Opening Opposition	View Ballot	Pranav AnandⒸ
+Princeton South Asia	3rd	Closing Government	View Ballot	Youngwoo ParkⒸ
+Athens A	2nd	Opening Government	View Ballot	Youngwoo ParkⒸ
+Wakanda A	4th	Opening Opposition	View Ballot	Youngwoo ParkⒸ
+EDS KP	1st	Closing Opposition	View Ballot	Youngwoo ParkⒸ
+TUT A	2nd	Opening Opposition	View Ballot	Marina KojićⒸ
+the team with no visa	1st	Closing Government	View Ballot	Marina KojićⒸ
+HSE B	3rd	Opening Government	View Ballot	Marina KojićⒸ
+ACG A (Taylor&#x27;s Version)	4th	Closing Opposition	View Ballot	Marina KojićⒸ
+Ain’t it funny? Rumours fly	2nd	Closing Government	View Ballot	Alek SelvelievⒸ
+your dad+ skill issue+ no bitches+	1st	Opening Government	View Ballot	Alek SelvelievⒸ
+Technion GR++	3rd	Opening Opposition	View Ballot	Alek SelvelievⒸ
+KCL we’d have a better team name i	4th	Closing Opposition	View Ballot	Alek SelvelievⒸ
+Refraining from asian dialects	4th	Opening Opposition	View Ballot	Naomi GillisⒸ , Cayden Pocrass
+Illuminati Brothers	2nd	Closing Opposition	View Ballot	Naomi GillisⒸ , Cayden Pocrass
+Chipa Joe A	1st	Opening Government	View Ballot	Naomi GillisⒸ , Cayden Pocrass
+（M)Wocao	3rd	Closing Government	View Ballot	Naomi GillisⒸ , Cayden Pocrass
+JJ	4th	Closing Government	View Ballot	Shudipto R. AhmedⒸ
+A cook and a chef	1st	Opening Government	View Ballot	Shudipto R. AhmedⒸ
+Chonkyo	3rd	Opening Opposition	View Ballot	Shudipto R. AhmedⒸ
+Subscribe to Rumen’s Channel	2nd	Closing Opposition	View Ballot	Shudipto R. AhmedⒸ
+Do u hate me💦	1st	Closing Opposition	View Ballot	Himan NayakⒸ , Thao Nguyen
+NDT Karavelov	2nd	Opening Government	View Ballot	Himan NayakⒸ , Thao Nguyen
+BUTEX A	3rd	Opening Opposition	View Ballot	Himan NayakⒸ , Thao Nguyen
+Swing A	4th	Closing Government	View Ballot	Himan NayakⒸ , Thao Nguyen
+Reggie Belafonte A	4th	Opening Opposition	View Ballot	Nadav KerenⒸ , Konstantin Popović
+United Coimbra	2nd	Closing Opposition	View Ballot	Nadav KerenⒸ , Konstantin Popović
+Arnold A	3rd	Closing Government	View Ballot	Nadav KerenⒸ , Konstantin Popović
+（M）Wacao	1st	Opening Government	View Ballot	Nadav KerenⒸ , Konstantin Popović
+Miraculously Victorious	1st	Opening Opposition	View Ballot	Velina AndonovaⒸ , Gal Mercado
+Technion A	2nd	Closing Government	View Ballot	Velina AndonovaⒸ , Gal Mercado
+UCL Sailing Society	4th	Opening Government	View Ballot	Velina AndonovaⒸ , Gal Mercado
+Toto, I’ve a feeling we’re not in	3rd	Closing Opposition	View Ballot	Velina AndonovaⒸ , Gal Mercado
+wASIANS	3rd	Opening Government	View Ballot	Tousif Tanvir AlamⒸ , Patience Maame Efua Agyiri Andoh
+The Magnivim	4th	Closing Opposition	View Ballot	Tousif Tanvir AlamⒸ , Patience Maame Efua Agyiri Andoh
+Debating with Health Problems	2nd	Opening Opposition	View Ballot	Tousif Tanvir AlamⒸ , Patience Maame Efua Agyiri Andoh
+Vereinigtes Baltisches Herzogtum	1st	Closing Government	View Ballot	Tousif Tanvir AlamⒸ , Patience Maame Efua Agyiri Andoh
+Mickinsey sucks	4th	Opening Government	View Ballot	Lucy MurphyⒸ
+K2	2nd	Opening Opposition	View Ballot	Lucy MurphyⒸ
+African representation	3rd	Closing Opposition	View Ballot	Lucy MurphyⒸ
+don’t even trip dawg	1st	Closing Government	View Ballot	Lucy MurphyⒸ
+Sleep deprived and baked	3rd	Closing Opposition	View Ballot	Ana ComanⒸ , Karni Shifrin
+My weed is Amitai&#x27;s 13th reason wh	1st	Opening Opposition	View Ballot	Ana ComanⒸ , Karni Shifrin
+Sciences Pipo	4th	Closing Government	View Ballot	Ana ComanⒸ , Karni Shifrin
+LSE Chicken Chang&#x27;s	2nd	Opening Government	View Ballot	Ana ComanⒸ , Karni Shifrin
+KCL so much little bitch energy in	1st	Closing Opposition	View Ballot	Anum NaseerⒸ , Ugne Stasiunaite
+ETH Zurich HT	2nd	Opening Government	View Ballot	Anum NaseerⒸ , Ugne Stasiunaite
+Chicken rice for breakfast	4th	Closing Government	View Ballot	Anum NaseerⒸ , Ugne Stasiunaite
+Wisconsin B	3rd	Opening Opposition	View Ballot	Anum NaseerⒸ , Ugne Stasiunaite
+WAD Tsukuba	4th	Closing Government	View Ballot	Helena HeckeⒸ , Jacob Garshong
+Bring back the blonde girl that de	3rd	Opening Opposition	View Ballot	Helena HeckeⒸ , Jacob Garshong
+Girl Math Economists	2nd	Closing Opposition	View Ballot	Helena HeckeⒸ , Jacob Garshong
+Tartu B	1st	Opening Government	View Ballot	Helena HeckeⒸ , Jacob Garshong
+A Weizmann once said	1st	Closing Government	View Ballot	Isabella FreelandⒸ , Thang Tran
+GC A	4th	Closing Opposition	View Ballot	Isabella FreelandⒸ , Thang Tran
+I’m back	3rd	Opening Opposition	View Ballot	Isabella FreelandⒸ , Thang Tran
+debater? I actually get along with	2nd	Opening Government	View Ballot	Isabella FreelandⒸ , Thang Tran
+Athens B	4th	Opening Opposition	View Ballot	Jess MusulinⒸ
+Gargamel and Smurfette	3rd	Closing Opposition	View Ballot	Jess MusulinⒸ
+Remontada	1st	Opening Government	View Ballot	Jess MusulinⒸ
+chuukki and drewwkki	2nd	Closing Government	View Ballot	Jess MusulinⒸ
+Larkana	2nd	Closing Opposition	View Ballot	Annie SchwartzⒸ
+Embassy of Potato Europe to Tomato	1st	Opening Government	View Ballot	Annie SchwartzⒸ
+ELEPHANTS	3rd	Opening Opposition	View Ballot	Annie SchwartzⒸ
+UCL	4th	Closing Government	View Ballot	Annie SchwartzⒸ
+
+
+team	result	side	ballot	adjudicators
+JJ	4th	Opening Opposition	View Ballot	Ethan CurryⒸ , Patience Maame Efua Agyiri Andoh
+UCL Sailing Society	1st	Closing Opposition	View Ballot	Ethan CurryⒸ , Patience Maame Efua Agyiri Andoh
+United Coimbra	3rd	Closing Government	View Ballot	Ethan CurryⒸ , Patience Maame Efua Agyiri Andoh
+Warsaw AF	2nd	Opening Government	View Ballot	Ethan CurryⒸ , Patience Maame Efua Agyiri Andoh
+wASIANS	4th	Closing Opposition	View Ballot	Himan NayakⒸ , Gal Mercado
+NDT Rakovski	3rd	Opening Opposition	View Ballot	Himan NayakⒸ , Gal Mercado
+Larkana	1st	Opening Government	View Ballot	Himan NayakⒸ , Gal Mercado
+truffle pigs	2nd	Closing Government	View Ballot	Himan NayakⒸ , Gal Mercado
+Debating with Health Problems	2nd	Closing Opposition	View Ballot	Paula BreyerⒸ , Thang Tran
+Chonkyo	4th	Closing Government	View Ballot	Paula BreyerⒸ , Thang Tran
+Tweed Coats	1st	Opening Government	View Ballot	Paula BreyerⒸ , Thang Tran
+NDT Levski	3rd	Opening Opposition	View Ballot	Paula BreyerⒸ , Thang Tran
+ETH Zurich HT	4th	Closing Government	View Ballot	Marina KojićⒸ , Rajyawardhan Singh
+Girl Math Economists	1st	Opening Government	View Ballot	Marina KojićⒸ , Rajyawardhan Singh
+japanese citrus fruit	3rd	Closing Opposition	View Ballot	Marina KojićⒸ , Rajyawardhan Singh
+African representation	2nd	Opening Opposition	View Ballot	Marina KojićⒸ , Rajyawardhan Singh
+Athens Tech A	4th	Closing Government	View Ballot	Nadav KerenⒸ , Olena Pankevych
+3am Tim Horton&#x27;s Iced Cofy	1st	Opening Opposition	View Ballot	Nadav KerenⒸ , Olena Pankevych
+Arnold A	2nd	Opening Government	View Ballot	Nadav KerenⒸ , Olena Pankevych
+（M)Wocao	3rd	Closing Opposition	View Ballot	Nadav KerenⒸ , Olena Pankevych
+Sponsored by FTX and SVB	2nd	Closing Government	View Ballot	Flora BaekⒸ , Anna Shreder
+Princeton South Asia	1st	Opening Opposition	View Ballot	Flora BaekⒸ , Anna Shreder
+K2	3rd	Closing Opposition	View Ballot	Flora BaekⒸ , Anna Shreder
+NDT Botev	4th	Opening Government	View Ballot	Flora BaekⒸ , Anna Shreder
+Wait, when did Vivian get a Canadi	1st	Closing Government	View Ballot	Pranav AnandⒸ
+My weed is Amitai&#x27;s 13th reason wh	2nd	Opening Government	View Ballot	Pranav AnandⒸ
+A cook and a chef	3rd	Opening Opposition	View Ballot	Pranav AnandⒸ
+your dad+ skill issue+ no bitches+	4th	Closing Opposition	View Ballot	Pranav AnandⒸ
+The Magnivim	3rd	Opening Opposition	View Ballot	Or ToledanoⒸ , Tousif Tanvir Alam
+HSE B	4th	Closing Government	View Ballot	Or ToledanoⒸ , Tousif Tanvir Alam
+Wild Technion Zonkeys	2nd	Closing Opposition	View Ballot	Or ToledanoⒸ , Tousif Tanvir Alam
+BUTEX A	1st	Opening Government	View Ballot	Or ToledanoⒸ , Tousif Tanvir Alam
+Ellie Stephenson &amp; Ben Diskin	2nd	Opening Opposition	View Ballot	Shudipto R. AhmedⒸ
+Capybara and Young Hong Kong Boy	3rd	Closing Opposition	View Ballot	Shudipto R. AhmedⒸ
+EDS KP	4th	Opening Government	View Ballot	Shudipto R. AhmedⒸ
+eager beaver buttered seal	1st	Closing Government	View Ballot	Shudipto R. AhmedⒸ
+Athens B	3rd	Closing Opposition	View Ballot	Stefan JosipovićⒸ , Thao Nguyen
+Refraining from asian dialects	2nd	Opening Government	View Ballot	Stefan JosipovićⒸ , Thao Nguyen
+ACG A (Taylor&#x27;s Version)	4th	Closing Government	View Ballot	Stefan JosipovićⒸ , Thao Nguyen
+UCL	1st	Opening Opposition	View Ballot	Stefan JosipovićⒸ , Thao Nguyen
+Technion A	2nd	Opening Government	View Ballot	Youngwoo ParkⒸ , Ugne Stasiunaite
+Subscribe to Rumen’s Channel	3rd	Closing Government	View Ballot	Youngwoo ParkⒸ , Ugne Stasiunaite
+Remontada	4th	Closing Opposition	View Ballot	Youngwoo ParkⒸ , Ugne Stasiunaite
+McDonald and the Newman Strike Aga	1st	Opening Opposition	View Ballot	Youngwoo ParkⒸ , Ugne Stasiunaite
+Pew Pew Ahmet Mohsin	2nd	Opening Government	View Ballot	Alek SelvelievⒸ
+Bucharest AV	4th	Closing Government	View Ballot	Alek SelvelievⒸ
+LSE Chicken Chang&#x27;s	1st	Closing Opposition	View Ballot	Alek SelvelievⒸ
+don’t even trip dawg	3rd	Opening Opposition	View Ballot	Alek SelvelievⒸ
+Mickinsey sucks	3rd	Closing Government	View Ballot	Jane MentzingerⒸ
+WAD Tsukuba	4th	Closing Opposition	View Ballot	Jane MentzingerⒸ
+GC A	2nd	Opening Opposition	View Ballot	Jane MentzingerⒸ
+Gargamel and Smurfette	1st	Opening Government	View Ballot	Jane MentzingerⒸ
+KCL so much little bitch energy in	4th	Opening Government	View Ballot	Lucy MurphyⒸ
+Miraculously Victorious	2nd	Closing Opposition	View Ballot	Lucy MurphyⒸ
+Trauma dumping with extra steps	3rd	Closing Government	View Ballot	Lucy MurphyⒸ
+Athens A	1st	Opening Opposition	View Ballot	Lucy MurphyⒸ
+Niki Rumen	2nd	Closing Opposition	View Ballot	Anum NaseerⒸ
+Sciences Pipo	3rd	Opening Government	View Ballot	Anum NaseerⒸ
+Wakanda A	4th	Closing Government	View Ballot	Anum NaseerⒸ
+chuukki and drewwkki	1st	Opening Opposition	View Ballot	Anum NaseerⒸ
+A Weizmann once said	3rd	Closing Opposition	View Ballot	Helena HeckeⒸ , Velina Andonova
+Ain’t it funny? Rumours fly	1st	Opening Government	View Ballot	Helena HeckeⒸ , Velina Andonova
+Feral Catgirls	2nd	Opening Opposition	View Ballot	Helena HeckeⒸ , Velina Andonova
+Got Iron Dome from your mum	4th	Closing Government	View Ballot	Helena HeckeⒸ , Velina Andonova
+Toto, I’ve a feeling we’re not in	1st	Closing Government	View Ballot	Joy HadomeⒸ , Jacob Garshong
+I’m back	4th	Opening Government	View Ballot	Joy HadomeⒸ , Jacob Garshong
+Chipa Joe A	3rd	Closing Opposition	View Ballot	Joy HadomeⒸ , Jacob Garshong
+KCL we’d have a better team name i	2nd	Opening Opposition	View Ballot	Joy HadomeⒸ , Jacob Garshong
+Katarina&#x27;s pets	1st	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ
+Technion GR++	2nd	Opening Government	View Ballot	Prosper Michael AmetuⒸ
+Tartu B	4th	Closing Government	View Ballot	Prosper Michael AmetuⒸ
+Rupem Baraka	3rd	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ
+Reggie Belafonte A	4th	Opening Government	View Ballot	Karni ShifrinⒸ , Cayden Pocrass
+Chicken rice for breakfast	1st	Opening Opposition	View Ballot	Karni ShifrinⒸ , Cayden Pocrass
+Swing A	3rd	Closing Opposition	View Ballot	Karni ShifrinⒸ , Cayden Pocrass
+Swing C	2nd	Closing Government	View Ballot	Karni ShifrinⒸ , Cayden Pocrass
+TUT A	4th	Opening Government	View Ballot	Meg KandarpaⒸ
+the team with no visa	2nd	Closing Opposition	View Ballot	Meg KandarpaⒸ
+we&#x27;re strong men but also strong m	1st	Opening Opposition	View Ballot	Meg KandarpaⒸ
+Long time no see	3rd	Closing Government	View Ballot	Meg KandarpaⒸ
+Bring back the blonde girl that de	1st	Closing Government	View Ballot	Erasmus SegbefiaⒸ , Jodel Avenis
+Wisconsin B	3rd	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ , Jodel Avenis
+ELEPHANTS	4th	Opening Government	View Ballot	Erasmus SegbefiaⒸ , Jodel Avenis
+NDT Karavelov	2nd	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ , Jodel Avenis
+Do u hate me💦	3rd	Closing Government	View Ballot	Rumen MarinovⒸ
+Embassy of Potato Europe to Tomato	2nd	Opening Opposition	View Ballot	Rumen MarinovⒸ
+（M）Wacao	1st	Closing Opposition	View Ballot	Rumen MarinovⒸ
+Swing B	4th	Opening Government	View Ballot	Rumen MarinovⒸ
+Sleep deprived and baked	1st	Opening Opposition	View Ballot	Yishai BinnesⒸ
+Vereinigtes Baltisches Herzogtum	4th	Closing Opposition	View Ballot	Yishai BinnesⒸ
+Pacific Coast CR	2nd	Opening Government	View Ballot	Yishai BinnesⒸ
+debater? I actually get along with	3rd	Closing Government	View Ballot	Yishai BinnesⒸ
+
+
+team	result	side	ballot	adjudicators
+NDT Rakovski	4th	Closing Government	View Ballot	Himan NayakⒸ
+Refraining from asian dialects	1st	Closing Opposition	View Ballot	Himan NayakⒸ
+Wakanda A	2nd	Opening Government	View Ballot	Himan NayakⒸ
+Swing B	3rd	Opening Opposition	View Ballot	Himan NayakⒸ
+Princeton South Asia	1st	Opening Opposition	View Ballot	Harish NatarajanⒸ
+Capybara and Young Hong Kong Boy	3rd	Opening Government	View Ballot	Harish NatarajanⒸ
+Feral Catgirls	2nd	Closing Opposition	View Ballot	Harish NatarajanⒸ
+Technion GR++	4th	Closing Government	View Ballot	Harish NatarajanⒸ
+Technion A	2nd	Opening Opposition	View Ballot	Shudipto R. AhmedⒸ
+Trauma dumping with extra steps	3rd	Closing Opposition	View Ballot	Shudipto R. AhmedⒸ
+your dad+ skill issue+ no bitches+	1st	Closing Government	View Ballot	Shudipto R. AhmedⒸ
+chuukki and drewwkki	4th	Opening Government	View Ballot	Shudipto R. AhmedⒸ
+Chonkyo	2nd	Opening Government	View Ballot	Joy HadomeⒸ , Olena Pankevych
+Chicken rice for breakfast	3rd	Closing Opposition	View Ballot	Joy HadomeⒸ , Olena Pankevych
+United Coimbra	1st	Opening Opposition	View Ballot	Joy HadomeⒸ , Olena Pankevych
+I’m back	4th	Closing Government	View Ballot	Joy HadomeⒸ , Olena Pankevych
+WAD Tsukuba	3rd	Opening Government	View Ballot	Or ToledanoⒸ , Rajyawardhan Singh
+HSE B	4th	Closing Opposition	View Ballot	Or ToledanoⒸ , Rajyawardhan Singh
+ELEPHANTS	2nd	Closing Government	View Ballot	Or ToledanoⒸ , Rajyawardhan Singh
+ACG A (Taylor&#x27;s Version)	1st	Opening Opposition	View Ballot	Or ToledanoⒸ , Rajyawardhan Singh
+JJ	2nd	Opening Government	View Ballot	Nadav KerenⒸ , Stefan Josipović
+Athens Tech A	1st	Closing Opposition	View Ballot	Nadav KerenⒸ , Stefan Josipović
+TUT A	4th	Closing Government	View Ballot	Nadav KerenⒸ , Stefan Josipović
+Swing C	3rd	Opening Opposition	View Ballot	Nadav KerenⒸ , Stefan Josipović
+A Weizmann once said	4th	Opening Government	View Ballot	Jane MentzingerⒸ
+Pew Pew Ahmet Mohsin	1st	Closing Opposition	View Ballot	Jane MentzingerⒸ
+Tweed Coats	3rd	Opening Opposition	View Ballot	Jane MentzingerⒸ
+EDS KP	2nd	Closing Government	View Ballot	Jane MentzingerⒸ
+Sciences Pipo	1st	Opening Opposition	View Ballot	Ethan CurryⒸ , Gal Mercado
+GC A	3rd	Opening Government	View Ballot	Ethan CurryⒸ , Gal Mercado
+Tartu B	2nd	Closing Opposition	View Ballot	Ethan CurryⒸ , Gal Mercado
+Chipa Joe A	4th	Closing Government	View Ballot	Ethan CurryⒸ , Gal Mercado
+Reggie Belafonte A	4th	Closing Opposition	View Ballot	Tousif Tanvir AlamⒸ , Karni Shifrin
+The Magnivim	2nd	Opening Government	View Ballot	Tousif Tanvir AlamⒸ , Karni Shifrin
+Athens B	1st	Opening Opposition	View Ballot	Tousif Tanvir AlamⒸ , Karni Shifrin
+Swing A	3rd	Closing Government	View Ballot	Tousif Tanvir AlamⒸ , Karni Shifrin
+the team with no visa	1st	Opening Opposition	View Ballot	Ana ComanⒸ
+Larkana	2nd	Opening Government	View Ballot	Ana ComanⒸ
+Rupem Baraka	3rd	Closing Opposition	View Ballot	Ana ComanⒸ
+KCL we’d have a better team name i	4th	Closing Government	View Ballot	Ana ComanⒸ
+Bring back the blonde girl that de	3rd	Opening Government	View Ballot	Youngwoo ParkⒸ
+UCL Sailing Society	1st	Opening Opposition	View Ballot	Youngwoo ParkⒸ
+Got Iron Dome from your mum	2nd	Closing Opposition	View Ballot	Youngwoo ParkⒸ
+NDT Karavelov	4th	Closing Government	View Ballot	Youngwoo ParkⒸ
+Wild Technion Zonkeys	3rd	Opening Government	View Ballot	Erasmus SegbefiaⒸ
+Vereinigtes Baltisches Herzogtum	1st	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ
+NDT Levski	2nd	Closing Government	View Ballot	Erasmus SegbefiaⒸ
+BUTEX A	4th	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ
+Do u hate me💦	4th	Opening Opposition	View Ballot	Alek SelvelievⒸ
+KCL so much little bitch energy in	3rd	Opening Government	View Ballot	Alek SelvelievⒸ
+Bucharest AV	2nd	Closing Opposition	View Ballot	Alek SelvelievⒸ
+Remontada	1st	Closing Government	View Ballot	Alek SelvelievⒸ
+we&#x27;re strong men but also strong m	4th	Opening Government	View Ballot	Anna ShrederⒸ
+Girl Math Economists	1st	Closing Government	View Ballot	Anna ShrederⒸ
+Gargamel and Smurfette	2nd	Opening Opposition	View Ballot	Anna ShrederⒸ
+Pacific Coast CR	3rd	Closing Opposition	View Ballot	Anna ShrederⒸ
+Debating with Health Problems	3rd	Opening Government	View Ballot	Prosper Michael AmetuⒸ
+Long time no see	4th	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ
+K2	2nd	Closing Government	View Ballot	Prosper Michael AmetuⒸ
+debater? I actually get along with	1st	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ
+truffle pigs	1st	Opening Opposition	View Ballot	Flora BaekⒸ
+3am Tim Horton&#x27;s Iced Cofy	3rd	Closing Opposition	View Ballot	Flora BaekⒸ
+Warsaw AF	2nd	Closing Government	View Ballot	Flora BaekⒸ
+NDT Botev	4th	Opening Government	View Ballot	Flora BaekⒸ
+Katarina&#x27;s pets	3rd	Opening Opposition	View Ballot	Lucy MurphyⒸ , Jacob Garshong
+Sleep deprived and baked	4th	Opening Government	View Ballot	Lucy MurphyⒸ , Jacob Garshong
+My weed is Amitai&#x27;s 13th reason wh	1st	Closing Opposition	View Ballot	Lucy MurphyⒸ , Jacob Garshong
+LSE Chicken Chang&#x27;s	2nd	Closing Government	View Ballot	Lucy MurphyⒸ , Jacob Garshong
+ETH Zurich HT	2nd	Closing Opposition	View Ballot	Anum NaseerⒸ , Patience Maame Efua Agyiri Andoh
+japanese citrus fruit	1st	Opening Opposition	View Ballot	Anum NaseerⒸ , Patience Maame Efua Agyiri Andoh
+Wisconsin B	4th	Closing Government	View Ballot	Anum NaseerⒸ , Patience Maame Efua Agyiri Andoh
+UCL	3rd	Opening Government	View Ballot	Anum NaseerⒸ , Patience Maame Efua Agyiri Andoh
+Niki Rumen	2nd	Opening Government	View Ballot	Maria MatchevaⒸ
+Subscribe to Rumen’s Channel	3rd	Opening Opposition	View Ballot	Maria MatchevaⒸ
+Embassy of Potato Europe to Tomato	1st	Closing Opposition	View Ballot	Maria MatchevaⒸ
+African representation	4th	Closing Government	View Ballot	Maria MatchevaⒸ
+Mickinsey sucks	2nd	Opening Opposition	View Ballot	Paula BreyerⒸ , Ugne Stasiunaite
+wASIANS	3rd	Closing Government	View Ballot	Paula BreyerⒸ , Ugne Stasiunaite
+Arnold A	1st	Closing Opposition	View Ballot	Paula BreyerⒸ , Ugne Stasiunaite
+（M)Wocao	4th	Opening Government	View Ballot	Paula BreyerⒸ , Ugne Stasiunaite
+A cook and a chef	1st	Closing Opposition	View Ballot	Velina AndonovaⒸ
+Toto, I’ve a feeling we’re not in	2nd	Opening Opposition	View Ballot	Velina AndonovaⒸ
+（M）Wacao	4th	Closing Government	View Ballot	Velina AndonovaⒸ
+don’t even trip dawg	3rd	Opening Government	View Ballot	Velina AndonovaⒸ
+Ellie Stephenson &amp; Ben Diskin	3rd	Closing Opposition	View Ballot	Rumen MarinovⒸ
+Sponsored by FTX and SVB	2nd	Opening Opposition	View Ballot	Rumen MarinovⒸ
+Miraculously Victorious	4th	Opening Government	View Ballot	Rumen MarinovⒸ
+McDonald and the Newman Strike Aga	1st	Closing Government	View Ballot	Rumen MarinovⒸ
+Wait, when did Vivian get a Canadi	2nd	Opening Government	View Ballot	Hadar GoldbergⒸ , Thang Tran
+Ain’t it funny? Rumours fly	3rd	Opening Opposition	View Ballot	Hadar GoldbergⒸ , Thang Tran
+Athens A	4th	Closing Opposition	View Ballot	Hadar GoldbergⒸ , Thang Tran
+eager beaver buttered seal	1st	Closing Government	View Ballot	Hadar GoldbergⒸ , Thang Tran
+
+
+team	result	side	ballot	adjudicators
+Mickinsey sucks	2nd	Closing Opposition	View Ballot	Flora BaekⒸ , Jodel Avenis
+Athens B	3rd	Opening Government	View Ballot	Flora BaekⒸ , Jodel Avenis
+Wakanda A	4th	Closing Government	View Ballot	Flora BaekⒸ , Jodel Avenis
+KCL we’d have a better team name i	1st	Opening Opposition	View Ballot	Flora BaekⒸ , Jodel Avenis
+KCL so much little bitch energy in	1st	Opening Opposition	View Ballot	Himan NayakⒸ , Olena Pankevych
+Refraining from asian dialects	3rd	Opening Government	View Ballot	Himan NayakⒸ , Olena Pankevych
+GC A	2nd	Closing Government	View Ballot	Himan NayakⒸ , Olena Pankevych
+African representation	4th	Closing Opposition	View Ballot	Himan NayakⒸ , Olena Pankevych
+A Weizmann once said	1st	Closing Government	View Ballot	Erasmus SegbefiaⒸ , Thao Nguyen
+United Coimbra	3rd	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ , Thao Nguyen
+Tartu B	4th	Opening Government	View Ballot	Erasmus SegbefiaⒸ , Thao Nguyen
+chuukki and drewwkki	2nd	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ , Thao Nguyen
+Sleep deprived and baked	1st	Closing Government	View Ballot	Tanae RaoⒸ , Rajyawardhan Singh
+K2	3rd	Closing Opposition	View Ballot	Tanae RaoⒸ , Rajyawardhan Singh
+Bucharest AV	4th	Opening Opposition	View Ballot	Tanae RaoⒸ , Rajyawardhan Singh
+Vereinigtes Baltisches Herzogtum	2nd	Opening Government	View Ballot	Tanae RaoⒸ , Rajyawardhan Singh
+we&#x27;re strong men but also strong m	2nd	Opening Opposition	View Ballot	Andrew ChenⒸ , Ugne Stasiunaite
+japanese citrus fruit	1st	Closing Government	View Ballot	Andrew ChenⒸ , Ugne Stasiunaite
+Rupem Baraka	3rd	Opening Government	View Ballot	Andrew ChenⒸ , Ugne Stasiunaite
+NDT Levski	4th	Closing Opposition	View Ballot	Andrew ChenⒸ , Ugne Stasiunaite
+Debating with Health Problems	4th	Closing Government	View Ballot	Helena HeckeⒸ , Tousif Tanvir Alam
+Chonkyo	2nd	Closing Opposition	View Ballot	Helena HeckeⒸ , Tousif Tanvir Alam
+3am Tim Horton&#x27;s Iced Cofy	3rd	Opening Opposition	View Ballot	Helena HeckeⒸ , Tousif Tanvir Alam
+ETH Zurich HT	1st	Opening Government	View Ballot	Helena HeckeⒸ , Tousif Tanvir Alam
+Sponsored by FTX and SVB	4th	Closing Opposition	View Ballot	Naomi GillisⒸ , Isabella Freeland
+Technion A	3rd	Closing Government	View Ballot	Naomi GillisⒸ , Isabella Freeland
+Toto, I’ve a feeling we’re not in	1st	Opening Government	View Ballot	Naomi GillisⒸ , Isabella Freeland
+Got Iron Dome from your mum	2nd	Opening Opposition	View Ballot	Naomi GillisⒸ , Isabella Freeland
+Subscribe to Rumen’s Channel	4th	Closing Opposition	View Ballot	Vladimira SuflajⒸ , Jacob Garshong
+Technion GR++	3rd	Closing Government	View Ballot	Vladimira SuflajⒸ , Jacob Garshong
+Arnold A	2nd	Opening Opposition	View Ballot	Vladimira SuflajⒸ , Jacob Garshong
+Warsaw AF	1st	Opening Government	View Ballot	Vladimira SuflajⒸ , Jacob Garshong
+The Magnivim	3rd	Opening Opposition	View Ballot	Stefan JosipovićⒸ
+NDT Rakovski	4th	Closing Opposition	View Ballot	Stefan JosipovićⒸ
+ELEPHANTS	1st	Closing Government	View Ballot	Stefan JosipovićⒸ
+ACG A (Taylor&#x27;s Version)	2nd	Opening Government	View Ballot	Stefan JosipovićⒸ
+Ellie Stephenson &amp; Ben Diskin	2nd	Closing Opposition	View Ballot	Paula BreyerⒸ , Joy Hadome
+Capybara and Young Hong Kong Boy	1st	Opening Government	View Ballot	Paula BreyerⒸ , Joy Hadome
+UCL Sailing Society	4th	Closing Government	View Ballot	Paula BreyerⒸ , Joy Hadome
+debater? I actually get along with	3rd	Opening Opposition	View Ballot	Paula BreyerⒸ , Joy Hadome
+Niki Rumen	3rd	Closing Government	View Ballot	UdaiⒸ , Cayden Pocrass
+Sciences Pipo	4th	Opening Opposition	View Ballot	UdaiⒸ , Cayden Pocrass
+（M）Wacao	2nd	Opening Government	View Ballot	UdaiⒸ , Cayden Pocrass
+Remontada	1st	Closing Opposition	View Ballot	UdaiⒸ , Cayden Pocrass
+Princeton South Asia	3rd	Closing Opposition	View Ballot	Lucy MurphyⒸ , Nadav Keren
+A cook and a chef	4th	Closing Government	View Ballot	Lucy MurphyⒸ , Nadav Keren
+Feral Catgirls	1st	Opening Opposition	View Ballot	Lucy MurphyⒸ , Nadav Keren
+McDonald and the Newman Strike Aga	2nd	Opening Government	View Ballot	Lucy MurphyⒸ , Nadav Keren
+Wait, when did Vivian get a Canadi	1st	Closing Government	View Ballot	Jack StanleyⒸ , Patience Maame Efua Agyiri Andoh
+My weed is Amitai&#x27;s 13th reason wh	2nd	Opening Opposition	View Ballot	Jack StanleyⒸ , Patience Maame Efua Agyiri Andoh
+LSE Chicken Chang&#x27;s	4th	Closing Opposition	View Ballot	Jack StanleyⒸ , Patience Maame Efua Agyiri Andoh
+eager beaver buttered seal	3rd	Opening Government	View Ballot	Jack StanleyⒸ , Patience Maame Efua Agyiri Andoh
+Miraculously Victorious	1st	Opening Opposition	View Ballot	Shudipto R. AhmedⒸ
+truffle pigs	4th	Closing Opposition	View Ballot	Shudipto R. AhmedⒸ
+Trauma dumping with extra steps	3rd	Closing Government	View Ballot	Shudipto R. AhmedⒸ
+Gargamel and Smurfette	2nd	Opening Government	View Ballot	Shudipto R. AhmedⒸ
+Pew Pew Ahmet Mohsin	4th	Opening Opposition	View Ballot	Rumen MarinovⒸ , Anna Shreder
+Ain’t it funny? Rumours fly	1st	Closing Opposition	View Ballot	Rumen MarinovⒸ , Anna Shreder
+your dad+ skill issue+ no bitches+	3rd	Closing Government	View Ballot	Rumen MarinovⒸ , Anna Shreder
+Girl Math Economists	2nd	Opening Government	View Ballot	Rumen MarinovⒸ , Anna Shreder
+Athens Tech A	1st	Opening Government	View Ballot	Velina AndonovaⒸ
+Wild Technion Zonkeys	2nd	Closing Opposition	View Ballot	Velina AndonovaⒸ
+BUTEX A	4th	Opening Opposition	View Ballot	Velina AndonovaⒸ
+Swing B	3rd	Closing Government	View Ballot	Velina AndonovaⒸ
+wASIANS	4th	Closing Government	View Ballot	Anum NaseerⒸ
+Chipa Joe A	3rd	Opening Government	View Ballot	Anum NaseerⒸ
+UCL	1st	Closing Opposition	View Ballot	Anum NaseerⒸ
+NDT Botev	2nd	Opening Opposition	View Ballot	Anum NaseerⒸ
+WAD Tsukuba	4th	Closing Government	View Ballot	Ethan CurryⒸ
+Wisconsin B	2nd	Opening Government	View Ballot	Ethan CurryⒸ
+I’m back	1st	Closing Opposition	View Ballot	Ethan CurryⒸ
+（M)Wocao	3rd	Opening Opposition	View Ballot	Ethan CurryⒸ
+Larkana	3rd	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ , Thang Tran
+Bring back the blonde girl that de	2nd	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ , Thang Tran
+Tweed Coats	1st	Closing Government	View Ballot	Prosper Michael AmetuⒸ , Thang Tran
+don’t even trip dawg	4th	Opening Government	View Ballot	Prosper Michael AmetuⒸ , Thang Tran
+Katarina&#x27;s pets	4th	Closing Opposition	View Ballot	Youngwoo ParkⒸ , Ana Coman
+Athens A	1st	Opening Opposition	View Ballot	Youngwoo ParkⒸ , Ana Coman
+Embassy of Potato Europe to Tomato	2nd	Opening Government	View Ballot	Youngwoo ParkⒸ , Ana Coman
+Pacific Coast CR	3rd	Closing Government	View Ballot	Youngwoo ParkⒸ , Ana Coman
+Reggie Belafonte A	4th	Closing Opposition	View Ballot	Karni ShifrinⒸ
+TUT A	1st	Closing Government	View Ballot	Karni ShifrinⒸ
+HSE B	3rd	Opening Opposition	View Ballot	Karni ShifrinⒸ
+Swing A	2nd	Opening Government	View Ballot	Karni ShifrinⒸ
+Do u hate me💦	1st	Opening Government	View Ballot	Or ToledanoⒸ
+Long time no see	4th	Opening Opposition	View Ballot	Or ToledanoⒸ
+Chicken rice for breakfast	2nd	Closing Government	View Ballot	Or ToledanoⒸ
+NDT Karavelov	3rd	Closing Opposition	View Ballot	Or ToledanoⒸ
+
+
+team	result	side	adjudicators
+Princeton South Asia	eliminated	Closing Government	Ana ComanⒸ , Tousif Tanvir Alam , Youngwoo Park
+My weed is Amitai&#x27;s 13th reason wh	advancing	Opening Government	Ana ComanⒸ , Tousif Tanvir Alam , Youngwoo Park
+Tweed Coats	advancing	Opening Opposition	Ana ComanⒸ , Tousif Tanvir Alam , Youngwoo Park
+McDonald and the Newman Strike Aga	eliminated	Closing Opposition	Ana ComanⒸ , Tousif Tanvir Alam , Youngwoo Park
+Miraculously Victorious	eliminated	Closing Opposition	Helena HeckeⒸ , Isabella Freeland , Thang Tran
+Wait, when did Vivian get a Canadi	advancing	Closing Government	Helena HeckeⒸ , Isabella Freeland , Thang Tran
+Athens A	eliminated	Opening Government	Helena HeckeⒸ , Isabella Freeland , Thang Tran
+Toto, I’ve a feeling we’re not in	advancing	Opening Opposition	Helena HeckeⒸ , Isabella Freeland , Thang Tran
+Capybara and Young Hong Kong Boy	eliminated	Opening Government	Flora BaekⒸ , Konstantin Popović , Rumen Marinov
+your dad+ skill issue+ no bitches+	advancing	Closing Government	Flora BaekⒸ , Konstantin Popović , Rumen Marinov
+Girl Math Economists	advancing	Opening Opposition	Flora BaekⒸ , Konstantin Popović , Rumen Marinov
+eager beaver buttered seal	eliminated	Closing Opposition	Flora BaekⒸ , Konstantin Popović , Rumen Marinov
+Ellie Stephenson &amp; Ben Diskin	advancing	Closing Opposition	Paula BreyerⒸ , Jane Mentzinger , Karni Shifrin
+Ain’t it funny? Rumours fly	eliminated	Opening Opposition	Paula BreyerⒸ , Jane Mentzinger , Karni Shifrin
+Feral Catgirls	advancing	Closing Government	Paula BreyerⒸ , Jane Mentzinger , Karni Shifrin
+LSE Chicken Chang&#x27;s	eliminated	Opening Government	Paula BreyerⒸ , Jane Mentzinger , Karni Shifrin
+
+
+team	result	side	adjudicators
+My weed is Amitai&#x27;s 13th reason wh	advancing	Opening Government	Youngwoo ParkⒸ , Joy Hadome , Marina Kojić
+your dad+ skill issue+ no bitches+	advancing	Closing Opposition	Youngwoo ParkⒸ , Joy Hadome , Marina Kojić
+Girl Math Economists	eliminated	Closing Government	Youngwoo ParkⒸ , Joy Hadome , Marina Kojić
+Tweed Coats	eliminated	Opening Opposition	Youngwoo ParkⒸ , Joy Hadome , Marina Kojić
+Ellie Stephenson &amp; Ben Diskin	advancing	Opening Government	Rumen MarinovⒸ , Helena Hecke , Nadav Keren
+Wait, when did Vivian get a Canadi	eliminated	Opening Opposition	Rumen MarinovⒸ , Helena Hecke , Nadav Keren
+Feral Catgirls	advancing	Closing Government	Rumen MarinovⒸ , Helena Hecke , Nadav Keren
+Toto, I’ve a feeling we’re not in	eliminated	Closing Opposition	Rumen MarinovⒸ , Helena Hecke , Nadav Keren
+
+
+team	result	side	adjudicators
+Ellie Stephenson &amp; Ben Diskin	eliminated	Opening Government	Lucy MurphyⒸ , Ana Coman , Erasmus Segbefia , Prosper Michael Ametu , Youngwoo Park
+My weed is Amitai&#x27;s 13th reason wh	advancing	Opening Opposition	Lucy MurphyⒸ , Ana Coman , Erasmus Segbefia , Prosper Michael Ametu , Youngwoo Park
+your dad+ skill issue+ no bitches+	eliminated	Closing Opposition	Lucy MurphyⒸ , Ana Coman , Erasmus Segbefia , Prosper Michael Ametu , Youngwoo Park
+Feral Catgirls	eliminated	Closing Government	Lucy MurphyⒸ , Ana Coman , Erasmus Segbefia , Prosper Michael Ametu , Youngwoo Park
+
+
+team	result	side	adjudicators
+Technion A	advancing	Opening Opposition	Naomi GillisⒸ , Prosper Michael Ametu , Stefan Josipović
+Trauma dumping with extra steps	advancing	Opening Government	Naomi GillisⒸ , Prosper Michael Ametu , Stefan Josipović
+Embassy of Potato Europe to Tomato	eliminated	Closing Government	Naomi GillisⒸ , Prosper Michael Ametu , Stefan Josipović
+Vereinigtes Baltisches Herzogtum	eliminated	Closing Opposition	Naomi GillisⒸ , Prosper Michael Ametu , Stefan Josipović
+A cook and a chef	eliminated	Opening Opposition	Erasmus SegbefiaⒸ , Or Toledano , Shudipto R. Ahmed
+Gargamel and Smurfette	eliminated	Closing Opposition	Erasmus SegbefiaⒸ , Or Toledano , Shudipto R. Ahmed
+Warsaw AF	advancing	Opening Government	Erasmus SegbefiaⒸ , Or Toledano , Shudipto R. Ahmed
+Remontada	advancing	Closing Government	Erasmus SegbefiaⒸ , Or Toledano , Shudipto R. Ahmed
+
+
+team	result	side	adjudicators
+Technion A	advancing	Opening Opposition	Shudipto R. AhmedⒸ , Flora Baek , Himan Nayak , Jane Mentzinger , Paula Breyer
+Trauma dumping with extra steps	eliminated	Closing Opposition	Shudipto R. AhmedⒸ , Flora Baek , Himan Nayak , Jane Mentzinger , Paula Breyer
+Warsaw AF	eliminated	Opening Government	Shudipto R. AhmedⒸ , Flora Baek , Himan Nayak , Jane Mentzinger , Paula Breyer
+Remontada	eliminated	Closing Government	Shudipto R. AhmedⒸ , Flora Baek , Himan Nayak , Jane Mentzinger , Paula Breyer
+
+
+team	result	side	adjudicators
+truffle pigs	eliminated	Opening Government	Prosper Michael AmetuⒸ , Anum Naseer , Ethan Curry , Lucy Murphy , Stefan Josipović
+Arnold A	eliminated	Closing Opposition	Prosper Michael AmetuⒸ , Anum Naseer , Ethan Curry , Lucy Murphy , Stefan Josipović
+Pacific Coast CR	eliminated	Opening Opposition	Prosper Michael AmetuⒸ , Anum Naseer , Ethan Curry , Lucy Murphy , Stefan Josipović
+don’t even trip dawg	advancing	Closing Government	Prosper Michael AmetuⒸ , Anum Naseer , Ethan Curry , Lucy Murphy , Stefan Josipović
+

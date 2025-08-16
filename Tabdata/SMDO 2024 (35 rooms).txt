@@ -1,0 +1,1217 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds	SSD	Marg
+1	ambot sa imong lubot		1st	1st	1st	2nd	1st	14	788	4	1	3.56	—
+2	IEntarmed		2nd	1st	1st	1st	2nd	13	790	3	2	2.83	—
+3	huwag kang mang judge ng isang tao 		1st	1st	1st	1st	3rd	13	786	4	0	0.75	—
+4	Artillery Only		2nd	1st	2nd	1st	1st	13	777	3	2	1.36	—
+5	Potato Farm		2nd	1st	1st	3rd	1st	12	780	3	1	1.10	—
+6	9PAX		1st	3rd	2nd	1st	1st	12	776	3	1	2.64	—
+7	national chokers		1st	2nd	1st	3rd	1st	12	775	3	1	1.90	—
+8	UTM UTM, What is this Behaviour?		1st	1st	3rd	1st	2nd	12	769	3	1	2.32	—
+9	healing by trauma bonding		1st	1st	4th	1st	2nd	11	778	3	1	3.50	—
+10	UPLB Origami		2nd	2nd	1st	2nd	2nd	11	777	1	4	0.80	—
+11	UPCalma		1st	1st	2nd	1st	4th	11	775	3	1	1.79	—
+12	2v2 na lang sa math👊😡 (napilde)		1st	1st	2nd	4th	1st	11	771	3	1	2.14	—
+13	Sigbin-ayot		1st	2nd	3rd	2nd	1st	11	768	2	2	2.65	—
+14	we miss you nina tan		1st	3rd	1st	3rd	1st	11	766	3	0	2.04	—
+15	Loutang and Sabrina Manggagawa		2nd	4th	1st	1st	1st	11	763	3	1	2.33	—
+16	We&#x27;re both first speakers		1st	2nd	1st	2nd	3rd	11	763	2	2	1.02	—
+17	In 882, Rurik&#x27;s successor, Prince O		1st	2nd	4th	2nd	1st	10	774	2	2	1.47	—
+18	avoidant father at oa daughter		2nd	1st	1st	4th	2nd	10	774	2	2	3.97	—
+19	UPLB im okay im fine gwenchana gwen		1st	2nd	3rd	2nd	2nd	10	770	1	3	1.41	—
+20	Big Boys	Novice	3rd	1st	3rd	1st	2nd	10	769	2	1	0.40	—
+21	Debate gave us Streptococcus pyogen		3rd	1st	1st	3rd	2nd	10	769	2	1	1.94	—
+22	FEU CS		1st	2nd	2nd	2nd	3rd	10	769	1	3	2.04	—
+23	BACklash Arguers		3rd	2nd	2nd	1st	2nd	10	768	1	3	2.24	—
+24	Ikim		4th	1st	1st	3rd	1st	10	766	3	0	2.32	—
+25	UPLB Homiesexuals		1st	4th	1st	1st	3rd	10	765	3	0	2.28	—
+26	chronically online sadboy ateneans	Novice	3rd	1st	1st	1st	4th	10	762	3	0	1.62	—
+27	What country is this?		1st	1st	4th	1st	3rd	10	762	3	0	2.42	—
+28	San Marino Debate Organization		2nd	1st	3rd	3rd	1st	10	760	2	1	2.97	—
+29	the 30th gc		3rd	2nd	1st	3rd	1st	10	754	2	1	1.72	—
+30	NJC 4	Novice	3rd	1st	2nd	3rd	1st	10	751	2	1	2.64	—
+31	UPLB Comeback (Ulit)		1st	3rd	3rd	1st	2nd	10	751	2	1	3.60	—
+32	mercy’s kitten from the (previously		2nd	1st	1st	4th	3rd	9	772	2	1	3.20	—
+33	If the series ∞ ∑ n=1 an is converg	Novice	4th	1st	1st	2nd	3rd	9	770	2	1	2.53	—
+34	FEU AC		1st	3rd	4th	1st	2nd	9	768	2	1	1.85	—
+35	paper is not nerfing us anymore		1st	3rd	1st	2nd	4th	9	765	2	1	1.26	—
+36	Eddie sab-ihin mo sa mama mo pakyu		1st	2nd	4th	1st	3rd	9	761	2	1	3.25	—
+37	Chreona		3rd	1st	2nd	4th	1st	9	760	2	1	1.55	—
+38	makichezmis k nlng!		1st	3rd	2nd	2nd	3rd	9	760	1	2	1.10	—
+39	Diwata beef pares	Novice	1st	4th	3rd	1st	2nd	9	759	2	1	1.47	—
+40	I don&#x27;t have a sugar daddy, I&#x27;ve ne		3rd	1st	2nd	1st	4th	9	758	2	1	3.07	—
+41	we ball		1st	4th	2nd	2nd	2nd	9	757	1	3	2.58	—
+42	idh an idea for our team name		1st	4th	3rd	2nd	1st	9	755	2	1	1.67	—
+43	FEU GG		2nd	1st	4th	2nd	2nd	9	755	1	3	2.10	—
+44	i&#x27;ve loved you ever since i&#x27;ve know		2nd	3rd	2nd	3rd	1st	9	753	1	2	2.65	—
+45	Hard Carrots	Novice	3rd	2nd	4th	1st	1st	9	750	2	1	2.10	—
+46	We like a long hard odin 🔫		1st	3rd	3rd	1st	4th	8	766	2	0	4.02	—
+47	AGS (5-Bagobo)		1st	2nd	2nd	3rd	4th	8	763	1	2	2.42	—
+48	Crazy? I Was Crazy Once. They Locke	Novice	2nd	2nd	1st	4th	3rd	8	759	1	2	1.94	—
+49	IJBOL		1st	2nd	2nd	3rd	4th	8	759	1	2	3.31	—
+50	pls be kind, true novice	Novice	1st	1st	3rd	4th	3rd	8	758	2	0	1.85	—
+51	this team is 1/2 straight	Novice	2nd	4th	3rd	2nd	1st	8	757	1	2	1.20	—
+52	duon ka sa far away	Novice	3rd	1st	2nd	2nd	4th	8	757	1	2	2.15	—
+53	FEU CM	Novice	3rd	2nd	4th	2nd	1st	8	757	1	2	2.80	—
+54	damz that’s crazy bro		2nd	1st	3rd	4th	2nd	8	756	1	2	1.47	—
+55	Logicus		4th	2nd	1st	3rd	2nd	8	756	1	2	2.48	—
+56	aspiring college dropouts	Novice	4th	3rd	1st	1st	3rd	8	755	2	0	1.26	—
+57	Swipe Right to Krish Vikram on Bumb	Novice	3rd	3rd	2nd	1st	3rd	8	755	1	1	1.90	—
+58	BAD by Denise Julia (paid producers	Novice	2nd	1st	4th	4th	1st	8	753	2	1	3.07	—
+59	XU - AJ	Novice	1st	2nd	4th	4th	1st	8	753	2	1	4.80	—
+60	Princess and the frog		3rd	2nd	1st	2nd	4th	8	753	1	2	3.93	—
+61	Suki sa Siomai	Novice	3rd	2nd	3rd	2nd	2nd	8	753	0	3	4.59	—
+62	mga novice po kami pls be nice	Novice	4th	2nd	1st	2nd	3rd	8	751	1	2	5.84	—
+63	Give us a break		2nd	3rd	1st	4th	2nd	8	750	1	2	1.90	—
+64	HG A		2nd	3rd	1st	4th	2nd	8	749	1	2	2.40	—
+65	PSHS-MC r1valdo		1st	4th	2nd	2nd	4th	7	764	1	2	2.48	—
+66	UPCravings are lambing		2nd	2nd	3rd	2nd	4th	7	762	0	3	2.06	—
+67	Tia &amp; Tamera	Novice	2nd	2nd	3rd	3rd	3rd	7	759	0	2	2.04	—
+68	hev abi ft. arhon	Novice	1st	3rd	2nd	3rd	4th	7	758	1	1	1.62	—
+69	HG B	Novice	4th	3rd	4th	1st	1st	7	754	2	0	3.19	—
+70	UC Ampersand	Novice	1st	4th	4th	1st	3rd	7	752	2	0	1.74	—
+71	Ah-hngk-mmnn...! /////	Novice	1st	4th	2nd	3rd	3rd	7	752	1	1	1.85	—
+72	BACk-up teamate utilized		3rd	3rd	2nd	1st	4th	7	752	1	1	1.96	—
+73	Join Maynila Asian Parliamentary	Novice	1st	3rd	3rd	4th	2nd	7	752	1	1	2.50	—
+74	Analyn Muko	Novice	2nd	2nd	4th	3rd	2nd	7	752	0	3	2.94	—
+75	AdDU SH		2nd	3rd	2nd	4th	2nd	7	751	0	3	4.79	—
+76	UST SHS - Debater Rizzlers	Novice	3rd	1st	4th	1st	4th	7	750	2	0	1.55	—
+77	USJR - Jangari and Elizabeth	Novice	3rd	3rd	4th	2nd	1st	7	750	1	1	3.35	—
+78	ADS  1	Novice	2nd	2nd	4th	4th	1st	7	747	1	2	2.06	—
+79	FEU CV	Novice	4th	1st	4th	1st	3rd	7	746	2	0	3.66	—
+80	supercalifragilisticexpialidocious	Novice	3rd	4th	3rd	1st	2nd	7	746	1	1	3.71	—
+81	problems sa imong trolley	Novice	3rd	4th	2nd	2nd	2nd	7	745	0	3	2.19	—
+82	Dan and Hanna with only 1 H	Novice	2nd	4th	2nd	2nd	3rd	7	745	0	3	2.45	—
+83	Pineapple Pizza	Novice	3rd	3rd	3rd	3rd	1st	7	736	1	0	3.66	—
+84	cloner babies	Novice	4th	1st	4th	3rd	1st	7	734	2	0	3.76	—
+85	UST SHS - Strawberry Matcha	Novice	4th	4th	2nd	2nd	1st	7	734	1	2	3.92	—
+86	UGM C	Novice	3rd	2nd	4th	1st	4th	6	760	1	1	3.03	—
+87	XU JA	Novice	3rd	1st	3rd	4th	3rd	6	758	1	0	2.06	—
+88	RAAAAAAGGGHHHHH	Novice	2nd	2nd	4th	3rd	3rd	6	753	0	2	1.74	—
+89	UGM A	Novice	2nd	3rd	4th	2nd	3rd	6	753	0	2	2.33	—
+90	Lunatics	Novice	3rd	4th	4th	1st	2nd	6	751	1	1	2.79	—
+91	&quot;I swear, I&#x27;m sweating like a sinne	Novice	2nd	3rd	2nd	3rd	4th	6	750	0	2	2.28	—
+92	PSHS-MC - riValdo	Novice	4th	2nd	2nd	2nd	4th	6	749	0	3	3.19	—
+93	MSUM JR - Cuties	Novice	3rd	2nd	2nd	4th	3rd	6	748	0	2	2.06	—
+94	SBDC - It&#x27;s DEBILOG, not Debsoc!!!	Novice	2nd	4th	3rd	1st	4th	6	746	1	1	0.75	—
+95	bobo mindset	Novice	3rd	4th	2nd	4th	1st	6	745	1	1	1.41	—
+96	UST SHS - hello kiffy	Novice	4th	2nd	3rd	3rd	2nd	6	744	0	2	1.33	—
+97	UGM B		2nd	3rd	3rd	2nd	4th	6	742	0	2	4.96	—
+98	GNHSBREAKINGNOTFREE3700	Novice	4th	3rd	3rd	2nd	2nd	6	741	0	2	2.32	—
+99	UST SHS Barbie 💖🎀	Novice	2nd	4th	2nd	4th	2nd	6	732	0	3	5.20	—
+100	ADMU SHS I	Novice	4th	1st	4th	4th	1st	6	731	2	0	2.04	—
+101	Angry Bhies	Novice	2nd	4th	1st	3rd	—	6	609	1	1	0.43	—
+102	NJC 1	Novice	2nd	3rd	3rd	2nd	—	6	604	0	2	2.74	—
+103	Swing B		—	1st	3rd	3rd	3rd	6	601	1	0	0.43	—
+104	PSHS-MC - 3valdo	Novice	2nd	4th	1st	4th	4th	5	754	1	1	4.40	—
+105	𐙚 cousins by vibe ༄｡°	Novice	2nd	4th	2nd	3rd	4th	5	746	0	2	3.37	—
+106	PSHS-MC - rival2o	Novice	4th	3rd	1st	4th	3rd	5	743	1	0	1.96	—
+107	adnu red flags	Novice	3rd	3rd	1st	4th	4th	5	742	1	0	2.42	—
+108	HG C	Novice	3rd	3rd	2nd	3rd	4th	5	742	0	1	1.36	—
+109	UST SHS - Oh Baby Kalma	Novice	4th	4th	1st	4th	2nd	5	741	1	1	0.40	—
+110	delicious pechay	Novice	4th	4th	3rd	2nd	2nd	5	740	0	2	3.79	—
+111	ADS 6	Novice	4th	1st	3rd	4th	3rd	5	735	1	0	3.79	—
+112	ADS 3	Novice	4th	3rd	2nd	3rd	3rd	5	731	0	1	2.32	—
+113	ADS 4	Novice	4th	2nd	4th	4th	1st	5	730	1	1	2.10	—
+114	The Reasonance	Novice	4th	3rd	4th	1st	3rd	5	717	1	0	2.58	—
+115	ADS 5	Novice	3rd	4th	3rd	1st	—	5	582	1	0	3.35	—
+116	Swing A		—	—	1st	2nd	4th	5	452	1	1	0.94	—
+117	UST SHS - K4ya k4ng 1P4gL4b9n	Novice	4th	2nd	3rd	4th	3rd	4	741	0	1	2.14	—
+118	USJR LL	Novice	3rd	4th	1st	4th	4th	4	738	1	0	2.24	—
+119	PHDS masakit ang kamay natin		3rd	3rd	4th	4th	2nd	4	735	0	1	3.63	—
+120	UST SHS mizkonasha	Novice	3rd	3rd	4th	3rd	3rd	4	729	0	0	2.93	—
+121	Time to Break Today	Novice	4th	3rd	1st	4th	4th	4	728	1	0	1.50	—
+122	UST SHS - yumanisiz	Novice	4th	1st	4th	3rd	4th	4	726	1	0	4.58	—
+123	PSHS-MC - 4valdo	Novice	4th	3rd	2nd	3rd	4th	4	726	0	1	2.93	—
+124	The Masked Debaters		3rd	4th	1st	—	—	4	450	1	0	1.41	—
+125	we&#x27;re cooked	Novice	3rd	2nd	3rd	—	—	4	449	0	1	2.05	—
+126	ADS 2	Novice	4th	2nd	3rd	4th	4th	3	728	0	1	3.26	—
+127	ms. moba co	Novice	4th	3rd	3rd	4th	3rd	3	728	0	0	2.73	—
+128	HG D- Where is season two of crash 	Novice	4th	4th	3rd	2nd	4th	3	706	0	1	1.83	—
+129	Vicer	Novice	2nd	4th	4th	3rd	—	3	589	0	1	2.38	—
+130	NJC 3	Novice	4th	4th	2nd	3rd	—	3	581	0	1	4.92	—
+131	Swing C		—	—	—	—	1st	3	153	1	0	0.00	—
+132	HG F	Novice	4th	4th	3rd	3rd	4th	2	741	0	0	2.71	—
+133	GNHSICONICUS	Novice	4th	4th	4th	4th	2nd	2	710	0	1	3.85	—
+134	Mamma mia, here I go again		4th	2nd	4th	—	—	2	448	0	1	2.05	—
+135	ADZU A		2nd	—	—	—	—	2	152	0	1	0.00	—
+136	Team Boracay	Novice	4th	4th	4th	4th	3rd	1	727	0	0	3.83	—
+137	GNHSINDIGENIOUSAURUS	Novice	4th	4th	4th	3rd	4th	1	709	0	0	3.66	—
+138	NJC 2	Novice	3rd	4th	4th	—	—	1	435	0	0	3.74	—
+139	LF VT MY PLACE NOW!!!	Novice	4th	4th	—	—	—	0	301	0	0	2.50	—
+140=	first love/late nanaman	Novice	—	—	—	—	—	—	—	0	0	—	—
+140=	Kiwi bird enthusiast + hater		—	—	—	—	—	—	—	0	0	—	—
+140=	Swing D		—	—	—	—	—	—	—	0	0	—	—
+140=	Swing E		—	—	—	—	—	—	—	0	0	—	—
+140=	Swing F		—	—	—	—	—	—	—	0	0	—	—
+140=	Swing G		—	—	—	—	—	—	—	0	0	—	—
+140=	Swing H		—	—	—	—	—	—	—	0	0	—	—
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Neil De Jesus	Open	IEntarmed	76	79	80	80	81	396	79.20	1.72
+2=	Mezen Lababidi	Open	ambot sa imong lubot	78	79	76	78	83	394	78.80	2.32
+2=	Gabrielle Pacaño	Open	ambot sa imong lubot	79	78	77	79	81	394	78.80	1.33
+2=	Veronica Guinto	Open	IEntarmed	77	78	80	79	80	394	78.80	1.17
+5=	Daniel Christopher Haduca	Open	huwag kang mang judge ng isang tao 	79	78	79	79	78	393	78.60	0.49
+5=	Ichiro Arbole	Open	huwag kang mang judge ng isang tao 	78	78	78	79	80	393	78.60	0.80
+7=	Ken Matthew Gabriel Singson	Open	UPLB Origami	78	78	78	79	78	391	78.20	0.40
+7=	Deon Kiew	Open	Potato Farm	78	78	78	78	79	391	78.20	0.40
+9	Lorine David	Open	healing by trauma bonding	80	79	75	78	78	390	78.00	1.67
+10=	Sean Bertiz	Open	avoidant father at oa daughter	76	81	80	75	77	389	77.80	2.32
+10=	Fabian Lim	Open	9PAX	79	75	77	78	80	389	77.80	1.72
+10=	Tan Yao Jie Jonathon	Open, Novice	Potato Farm	78	77	77	78	79	389	77.80	0.75
+10=	Gabe Tumanan	Open	Artillery Only	77	78	78	78	78	389	77.80	0.40
+14=	Tiffany Kuo	Open	mercy’s kitten from the (previously	76	80	79	77	76	388	77.60	1.62
+14=	Dani Jacinto	Open	healing by trauma bonding	79	79	74	78	78	388	77.60	1.85
+14=	Mior Arif	Open	In 882, Rurik&#x27;s successor, Prince O	77	78	77	78	78	388	77.60	0.49
+14=	Martin Lim	Open	Artillery Only	76	78	78	79	77	388	77.60	1.02
+14=	Gabriel Ordonez	Open	national chokers	78	76	77	78	79	388	77.60	1.02
+14=	Christine Bagazin	Open	UPCalma	77	77	77	78	79	388	77.60	0.80
+20=	Joshua Ho	Open	9PAX	77	76	77	78	79	387	77.40	1.02
+20=	Aki Delos Santos	Open	national chokers	79	76	77	77	78	387	77.40	1.02
+20=	Adrian Russel S. Magno	Open, Novice	If the series ∞ ∑ n=1 an is converg	76	79	79	77	76	387	77.40	1.36
+20=	Jan Hanzhenri Endrina	Open	UPCalma	76	78	76	79	78	387	77.40	1.20
+24=	Chris Chua	Open	BACklash Arguers	76	77	77	79	77	386	77.20	0.98
+24=	Kavi	Open	In 882, Rurik&#x27;s successor, Prince O	76	78	76	78	78	386	77.20	0.98
+24=	CJ Salayo	Open	UPLB im okay im fine gwenchana gwen	78	77	78	77	76	386	77.20	0.75
+24=	Kyle Edrian Bensali	Open	UPLB Origami	77	77	77	78	77	386	77.20	0.40
+28=	Emilia Mari Goyena	Open	avoidant father at oa daughter	76	79	79	75	76	385	77.00	1.67
+28=	Anri Sophia Semba	Open	FEU CS	76	77	78	78	76	385	77.00	0.89
+28=	Rodel Patrick Apepe	Open	FEU AC	78	77	76	78	76	385	77.00	0.89
+28=	Beinson Lutcha	Open	Ikim	75	79	77	77	77	385	77.00	1.26
+28=	Isah Basher	Open, Novice	Big Boys	77	77	77	77	77	385	77.00	0.00
+28=	Steven Siawan	Open	Sigbin-ayot	77	77	75	77	79	385	77.00	1.26
+28=	Hugh Franco	Open	we miss you nina tan	78	76	78	77	76	385	77.00	0.89
+28=	Tanzeem Junaid	Open	UTM UTM, What is this Behaviour?	79	77	75	77	77	385	77.00	1.26
+28=	Chelsea Fernandez	Open	2v2 na lang sa math👊😡 (napilde)	78	79	75	77	76	385	77.00	1.41
+28=	Aika Rosete	Open	Debate gave us Streptococcus pyogen	77	79	76	76	77	385	77.00	1.10
+38=	Theo Trajano	Open, Novice	mercy’s kitten from the (previously	75	79	78	77	75	384	76.80	1.60
+38=	Kenneth Thomas Canque	Open	FEU CS	75	76	79	77	77	384	76.80	1.33
+38=	Mohammad Gazan Boriongan	Open, Novice	Big Boys	77	77	76	77	77	384	76.80	0.40
+38=	Vince Emmanuel Peña	Open	UPLB Homiesexuals	76	75	77	78	78	384	76.80	1.17
+38=	Jelo Montoya	Open, Novice	UPLB im okay im fine gwenchana gwen	77	77	78	76	76	384	76.80	0.75
+38=	Yugenesh RKA	Open, Novice	UTM UTM, What is this Behaviour?	78	76	75	78	77	384	76.80	1.17
+38=	Aidin Alamia	Open	paper is not nerfing us anymore	77	77	78	76	76	384	76.80	0.75
+38=	Nurhata Misuari	Open	Debate gave us Streptococcus pyogen	76	78	76	76	78	384	76.80	0.98
+46=	Christine Sintos	Open	Chreona	77	78	76	76	76	383	76.60	0.80
+46=	Stephanie Cayabyab	Open	FEU AC	79	76	76	76	76	383	76.60	1.20
+46=	Sean Raphael Sanchez	Open	Sigbin-ayot	78	76	74	77	78	383	76.60	1.50
+46=	Hamza Hamim	Open	We like a long hard odin 🔫	80	75	76	77	75	383	76.60	1.85
+46=	Kiarra Dlahmane Lingating	Open	We like a long hard odin 🔫	81	76	75	76	75	383	76.60	2.24
+46=	Louise Wee	Open	Loutang and Sabrina Manggagawa	76	74	77	78	78	383	76.60	1.50
+46=	Rafael Carasig	Open, Novice	chronically online sadboy ateneans	78	76	76	78	75	383	76.60	1.20
+46=	Sarah Katrina Detuya	Open, Novice	If the series ∞ ∑ n=1 an is converg	76	78	78	76	75	383	76.60	1.20
+54=	Lim Yan Joo	Open, Novice	BACklash Arguers	76	75	76	79	76	382	76.40	1.36
+54=	Princess Marie Tomaro	Open, Novice	pls be kind, true novice	76	78	76	77	75	382	76.40	1.02
+54=	Nawfal Aulia Luthfurrahman	Open, Novice	UGM C	77	79	75	77	74	382	76.40	1.74
+54=	Stacey Marie Cayce Castañares	Open	San Marino Debate Organization	73	79	76	76	78	382	76.40	2.06
+54=	Arles Kiel Mirandilla	Open	AGS (5-Bagobo)	78	77	76	76	75	382	76.40	1.02
+54=	Jhoanna Grace Cayanan	Open	We&#x27;re both first speakers	77	76	77	77	75	382	76.40	0.80
+54=	Chael Sze	Open	PSHS-MC r1valdo	78	76	76	78	74	382	76.40	1.50
+54=	Janna Vega	Open, Novice	PSHS-MC r1valdo	77	76	76	78	75	382	76.40	1.02
+54=	Redacted	Open	—	75	77	78	77	75	382	76.40	1.20
+63=	Cole Matthew Sanchez	Open, Novice	makichezmis k nlng!	76	76	77	77	75	381	76.20	0.75
+63=	Keane Saplala	Open	Eddie sab-ihin mo sa mama mo pakyu	77	77	75	79	73	381	76.20	2.04
+63=	Yasin Acmad	Open	Ikim	75	78	77	75	76	381	76.20	1.17
+63=	Jose Miguel Manalo	Open, Novice	UPLB Homiesexuals	76	74	77	77	77	381	76.20	1.17
+63=	Yeisha Leili	Open	we miss you nina tan	78	75	77	76	75	381	76.20	1.17
+63=	Redacted	Open	—	76	77	75	77	76	381	76.20	0.75
+63=	Rayan Camid	Open	What country is this?	75	77	74	79	76	381	76.20	1.72
+63=	Noel Elivera	Open, Novice	I don&#x27;t have a sugar daddy, I&#x27;ve ne	73	77	76	78	77	381	76.20	1.72
+63=	Ela De Perio	Open, Novice	AGS (5-Bagobo)	78	77	77	75	74	381	76.20	1.47
+63=	Chantal Paige Vargas	Open	paper is not nerfing us anymore	76	76	77	77	75	381	76.20	0.75
+63=	Aaron Justin Macias	Open	We&#x27;re both first speakers	76	76	77	76	76	381	76.20	0.40
+74=	Stephanie Mariano	Open	Eddie sab-ihin mo sa mama mo pakyu	76	76	76	78	74	380	76.00	1.26
+74=	Kara Porciuncula	Open	IJBOL	77	78	77	75	73	380	76.00	1.79
+74=	Khalid Damo	Open, Novice	Diwata beef pares	75	75	76	77	77	380	76.00	0.89
+74=	Brylle Abella	Open	the 30th gc	76	76	75	76	77	380	76.00	0.63
+74=	Alexandria Jordan	Open, Novice	Suki sa Siomai	79	76	72	76	77	380	76.00	2.28
+74=	Trishia Battung	Open, Novice	Tia &amp; Tamera	77	77	75	76	75	380	76.00	0.89
+74=	Carmela Marie C. Paner	Open, Novice	Loutang and Sabrina Manggagawa	75	75	76	77	77	380	76.00	0.89
+74=	Leah Joy G. Rivera	Open, Novice	Crazy? I Was Crazy Once. They Locke	78	75	77	75	75	380	76.00	1.26
+74=	Jamie Antonio	Open	we ball	79	74	76	75	76	380	76.00	1.67
+74=	Arhon Cuizona	Open, Novice	hev abi ft. arhon	77	75	77	76	75	380	76.00	0.89
+74=	Redacted	Open	—	75	76	77	77	75	380	76.00	0.89
+85=	Josper Clores	Open, Novice	this team is 1/2 straight	77	76	75	76	75	379	75.80	0.75
+85=	Dhivyah Chandrasegaran	Open	BACk-up teamate utilized	76	76	76	77	74	379	75.80	0.98
+85=	Mackenzie Zoe Chua	Open	makichezmis k nlng!	76	76	76	76	75	379	75.80	0.40
+85=	Athena Garcia	Open	IJBOL	76	78	76	76	73	379	75.80	1.60
+85=	Denise Angel Montes	Open, Novice	FEU CM	76	76	75	74	78	379	75.80	1.33
+85=	Mohammad Siddick Montila	Open, Novice	Diwata beef pares	75	76	75	77	76	379	75.80	0.75
+85=	Nina Tan	Open, Novice	duon ka sa far away	74	77	76	77	75	379	75.80	1.17
+85=	Jed Earl Tabora	Open, Novice	XU JA	77	77	74	76	75	379	75.80	1.17
+85=	Albert Vinc Melodia	Open, Novice	XU JA	77	76	74	76	76	379	75.80	0.98
+85=	Marvin Mc Hyll Battung	Open	Tia &amp; Tamera	77	77	75	76	74	379	75.80	1.17
+85=	Ella Jovelle L. Montales	Open, Novice	aspiring college dropouts	75	76	77	76	75	379	75.80	0.75
+85=	Skye Cabrera	Open, Novice	chronically online sadboy ateneans	75	76	76	77	75	379	75.80	0.75
+85=	Daniel David M. Hinkle	Open, Novice	Crazy? I Was Crazy Once. They Locke	77	75	76	75	76	379	75.80	0.75
+98=	Jacqueline Dominique Caparas	Open	idh an idea for our team name	75	74	76	76	77	378	75.60	1.02
+98=	Vincent Reis	Open, Novice	this team is 1/2 straight	76	76	75	76	75	378	75.60	0.49
+98=	Erin Louise S. Lancin	Open, Novice	damz that’s crazy bro	77	76	75	74	76	378	75.60	1.02
+98=	Ryna Jade M. De Leon	Open	damz that’s crazy bro	75	77	75	75	76	378	75.60	0.80
+98=	Zara Genuino	Open, Novice	i&#x27;ve loved you ever since i&#x27;ve know	75	76	73	78	76	378	75.60	1.62
+98=	Eryl James Cabiles	Open, Novice	FEU CM	76	76	74	74	78	378	75.60	1.50
+98=	Paula Jamie Guzman	Open	FEU GG	75	76	74	77	76	378	75.60	1.02
+98=	Chloe Ner	Open, Novice	HG B	74	75	74	78	77	378	75.60	1.62
+98=	Krish Vikram	Open, Novice	Swipe Right to Krish Vikram on Bumb	76	77	75	74	76	378	75.60	1.02
+98=	Meira Davina Jasmine	Open, Novice	UGM C	75	78	75	76	74	378	75.60	1.36
+98=	Faith Christia M. Atilano	Open, Novice	Princess and the frog	75	77	72	78	76	378	75.60	2.06
+98=	Kyle Marco U. Barte	Open, Novice	San Marino Debate Organization	74	76	75	76	77	378	75.60	1.02
+98=	John Carlos A. Agana	Open, Novice	UC Ampersand	77	75	74	76	76	378	75.60	1.02
+98=	Arc Megreño	Open, Novice	duon ka sa far away	74	76	76	77	75	378	75.60	1.02
+98=	Alexis	Open, Novice	NJC 4	73	77	76	76	76	378	75.60	1.36
+98=	Princess Abigail Alota	Open, Novice	hev abi ft. arhon	76	75	77	75	75	378	75.60	0.80
+114=	Jaron Pomer	Open, Novice	idh an idea for our team name	76	74	75	76	76	377	75.40	0.80
+114=	Henson Sanchez	Open, Novice	AdDU SH	77	77	71	75	77	377	75.40	2.33
+114=	Feona Balansag	Open	Chreona	75	77	75	75	75	377	75.40	0.80
+114=	Abdul Yusoph L. Batao	Open, Novice	&quot;I swear, I&#x27;m sweating like a sinne	78	74	75	76	74	377	75.40	1.50
+114=	Bernadette Anne F. Cervania	Open, Novice	Ah-hngk-mmnn...! /////	74	76	76	75	76	377	75.40	0.80
+114=	Christian Rafael E. Gayoso	Open	FEU GG	74	77	74	76	76	377	75.40	1.20
+114=	Soumyaditya Deb	Open, Novice	Swipe Right to Krish Vikram on Bumb	75	77	76	74	75	377	75.40	1.02
+114=	Haybah Shabira	Open, Novice	UGM A	76	77	74	74	76	377	75.40	1.20
+114=	Aleck Godwin L. Condes	Open, Novice	XU - AJ	78	71	75	75	78	377	75.40	2.58
+114=	Anjeloumari Hora	Open, Novice	Analyn Muko	77	76	74	74	76	377	75.40	1.20
+114=	Jellyn Alindogan	Open, Novice	I don&#x27;t have a sugar daddy, I&#x27;ve ne	73	76	75	77	76	377	75.40	1.36
+114=	Claire	Open, Novice	RAAAAAAGGGHHHHH	75	77	75	75	75	377	75.40	0.80
+114=	Patrice	Open, Novice	BAD by Denise Julia (paid producers	77	76	74	73	77	377	75.40	1.62
+114=	Jhanleigh Vivas	Open, Novice	we ball	77	74	75	76	75	377	75.40	1.02
+114=	Jhoenica Gellido	Open, Novice	PSHS-MC - 3valdo	79	73	77	74	74	377	75.40	2.24
+114=	Amira Batino	Open, Novice	PSHS-MC - 3valdo	79	72	76	75	75	377	75.40	2.24
+130=	Megan Chan	Open	Give us a break	75	74	77	75	75	376	75.20	0.98
+130=	Ricah Hanah Marie S. Pareja	Open, Novice	pls be kind, true novice	75	77	76	73	75	376	75.20	1.33
+130=	Arthea Lu	Open, Novice	Lunatics	76	75	74	78	73	376	75.20	1.72
+130=	(Zeke) Manuel Exequiel Calunsag	Open, Novice	HG B	74	75	73	77	77	376	75.20	1.60
+130=	Ayeeka	Open, Novice	mga novice po kami pls be nice	70	76	78	76	76	376	75.20	2.71
+130=	Nino Kahlil Gybrian Mostrales	Open, Novice	UST SHS - Debater Rizzlers	75	77	74	75	75	376	75.20	0.98
+130=	Debby Salsabila	Open, Novice	UGM A	77	76	73	75	75	376	75.20	1.33
+130=	Jangari C. Mayol	Open, Novice	USJR - Jangari and Elizabeth	73	76	74	76	77	376	75.20	1.47
+130=	Kismet Anarei Soriano	Open, Novice	UPLB Comeback (Ulit)	72	75	76	78	75	376	75.20	1.94
+130=	Jehan Najmonisa Plawan	Open, Novice	XU - AJ	78	71	75	76	76	376	75.20	2.32
+130=	Jose Patricio Camato	Open, Novice	aspiring college dropouts	76	75	74	77	74	376	75.20	1.17
+130=	Iñigo	Open, Novice	Hard Carrots	74	76	75	75	76	376	75.20	0.75
+130=	Kurt Adrian Abalos	Open, Novice	Join Maynila Asian Parliamentary	75	77	75	74	75	376	75.20	0.98
+130=	Alexa Nicole Andresan	Open, Novice	Join Maynila Asian Parliamentary	74	78	76	74	74	376	75.20	1.60
+130=	Vin	Open, Novice	BAD by Denise Julia (paid producers	76	76	74	73	77	376	75.20	1.47
+145=	Nina Bendo	Open, Novice	Lunatics	75	75	74	77	74	375	75.00	1.10
+145=	Kiana Mikaila Azrie V. Hernaez	Open, Novice	Ah-hngk-mmnn...! /////	73	76	76	75	75	375	75.00	1.10
+145=	Annika Monterola	Open	i&#x27;ve loved you ever since i&#x27;ve know	74	75	74	77	75	375	75.00	1.10
+145=	Andrea Reyes	Open	HG A	74	75	77	74	75	375	75.00	1.10
+145=	Fathmah	Open, Novice	mga novice po kami pls be nice	69	76	78	77	75	375	75.00	3.16
+145=	Rayhan Somagayan	Open, Novice	MSUM JR - Cuties	74	76	76	74	75	375	75.00	0.89
+145=	Jan Kier M. Rizon	Open	Princess and the frog	74	78	72	76	75	375	75.00	2.00
+145=	Geanne del Rosario	Open	UPLB Comeback (Ulit)	72	75	76	77	75	375	75.00	1.67
+145=	Ellah Dabon	Open, Novice	Analyn Muko	77	76	72	74	76	375	75.00	1.79
+154=	Skye Gabaldon	Open	AdDU SH	76	77	70	75	76	374	74.80	2.48
+154=	Christine	Open, Novice	Give us a break	75	73	76	75	75	374	74.80	0.98
+154=	Gwyneth Vedrero	Open, Novice	FEU CV	74	77	72	75	76	374	74.80	1.72
+154=	Asaph Posadas	Open	HG A	74	75	77	73	75	374	74.80	1.33
+154=	Gabriel G. Santos	Open, Novice	SBDC - It&#x27;s DEBILOG, not Debsoc!!!	75	75	75	75	74	374	74.80	0.40
+154=	Ryan Miguel D. Codes	Open, Novice	the 30th gc	75	74	74	74	77	374	74.80	1.17
+154=	Elizabeth B. Figueroa	Open, Novice	USJR - Jangari and Elizabeth	72	75	74	75	78	374	74.80	1.94
+154=	Mario A. Oriana III	Open, Novice	UC Ampersand	76	74	74	75	75	374	74.80	0.75
+154=	Jessa Mae G. Dela Cruz	Open, Novice	ADS  1	75	75	74	74	76	374	74.80	0.75
+154=	Kei	Open, Novice	Hard Carrots	74	76	73	74	77	374	74.80	1.47
+154=	Amelia S. Robang	Open, Novice	PSHS-MC - rival2o	76	75	75	75	73	374	74.80	0.98
+154=	Heidrique Kristof J. Sumogba	Open, Novice	PSHS-MC - riValdo	77	76	75	73	73	374	74.80	1.60
+166=	Rohaniefah Omar Ismail	Open, Novice	&quot;I swear, I&#x27;m sweating like a sinne	76	74	73	75	75	373	74.60	1.02
+166=	Thishant Sai Sugaythran	Open, Novice	BACk-up teamate utilized	74	75	75	76	73	373	74.60	1.02
+166=	Daniel Marquez	Open, Novice	Dan and Hanna with only 1 H	76	74	76	72	75	373	74.60	1.50
+166=	Stephen Plando	Open, Novice	supercalifragilisticexpialidocious	74	75	72	77	75	373	74.60	1.62
+166=	Jamsed Gampong	Open, Novice	MSUM JR - Cuties	74	75	77	74	73	373	74.60	1.36
+166=	Anjo Torres Lopez	Open, Novice	bobo mindset	76	74	75	74	74	373	74.60	0.80
+166=	Freya Marie Abbegail D. Milana	Open, Novice	problems sa imong trolley	74	74	74	74	77	373	74.60	1.20
+166=	Rubeneil Francis Villanueva	Open, Novice	Suki sa Siomai	78	74	71	74	76	373	74.60	2.33
+166=	Emmanuelle Josh P. Ebojo	Open, Novice	ADS  1	75	74	73	74	77	373	74.60	1.36
+175=	Pilip A. Dolor	Open, Novice	adnu red flags	75	74	76	75	72	372	74.40	1.36
+175=	Hanna Dei Cabral	Open, Novice	Dan and Hanna with only 1 H	76	74	75	73	74	372	74.40	1.02
+175=	Ely Corpuz	Open, Novice	FEU CV	74	77	71	75	75	372	74.40	1.96
+175=	Rei G. Evasco	Open, Novice	GNHSBREAKINGNOTFREE3700	73	75	75	73	76	372	74.40	1.20
+175=	Rex Teoxon	Open, Novice	HG F	73	73	75	77	74	372	74.40	1.50
+175=	Carlos Juan Daluz	Open, Novice	SBDC - It&#x27;s DEBILOG, not Debsoc!!!	75	74	74	75	74	372	74.40	0.49
+175=	Gabriel S. Gorospe	Open, Novice	UST SHS - Oh Baby Kalma	75	74	75	74	74	372	74.40	0.49
+175=	Redacted	Open, Novice	—	74	74	75	74	75	372	74.40	0.49
+175=	Cyra B. Dematawaran	Open, Novice	UST SHS - hello kiffy	75	73	74	74	76	372	74.40	1.02
+175=	Inara Therese Endoza	Open, Novice	bobo mindset	75	74	75	73	75	372	74.40	0.80
+175=	Jun Evander B. Jurado	Open, Novice	problems sa imong trolley	75	73	73	75	76	372	74.40	1.20
+175=	Angeline Mae Blasa	Open, Novice	𐙚 cousins by vibe ༄｡°	75	75	76	71	75	372	74.40	1.74
+187=	Lourist Magbuhos	Open, Novice	HG C	73	75	75	74	74	371	74.20	0.75
+187=	Kaliyah Belen	Open, Novice	HG C	73	74	75	75	74	371	74.20	0.75
+187=	Alex Julie Bustamante	Open, Novice	delicious pechay	72	75	74	77	73	371	74.20	1.72
+187=	Maverick De Los Trinos	Open, Novice	UST SHS - K4ya k4ng 1P4gL4b9n	73	76	74	73	75	371	74.20	1.17
+187=	Jason Valentino Samvero	Open	UGM B	77	75	70	75	74	371	74.20	2.32
+187=	Brian Hose Antonio Hambur	Open	UGM B	76	76	69	76	74	371	74.20	2.71
+193=	John Paul T. Barrosa	Open, Novice	adnu red flags	74	74	75	75	72	370	74.00	1.10
+193=	Victor Romulus	Open, Novice	UST SHS - K4ya k4ng 1P4gL4b9n	74	74	74	72	76	370	74.00	1.26
+195=	Liez Angela B. Lasap	Open, Novice	GNHSBREAKINGNOTFREE3700	73	76	74	72	74	369	73.80	1.33
+195=	Chris Padua	Open, Novice	HG F	74	74	74	76	71	369	73.80	1.60
+195=	Samantha Ashley Dela Cruz	Open, Novice	delicious pechay	71	74	75	77	72	369	73.80	2.14
+195=	Anthony Uy Lopez	Open	PHDS masakit ang kamay natin	77	73	74	71	74	369	73.80	1.94
+195=	Astra Niam A. Uy	Open, Novice	UST SHS - Oh Baby Kalma	74	74	73	74	74	369	73.80	0.40
+195=	Lester L. Collados	Open, Novice	USJR LL	72	74	75	73	75	369	73.80	1.17
+195=	Loraine Mae A. Vallena	Open, Novice	USJR LL	72	75	74	73	75	369	73.80	1.17
+195=	Charles Benedick Bejosano	Open, Novice	Pineapple Pizza	70	75	75	75	74	369	73.80	1.94
+203	Gilliana Peralta	Open, Novice	UST SHS - Strawberry Matcha	74	74	70	73	77	368	73.60	2.24
+204=	Krisiane Mikela B. Matagay	Open, Novice	ADS 3	74	75	72	74	72	367	73.40	1.20
+204=	Jedrayne M. Junio	Open, Novice	ADS 6	71	77	71	74	74	367	73.40	2.24
+204=	Carl Andrei O. Burgos	Open, Novice	cloner babies	74	76	70	73	74	367	73.40	1.96
+204=	Ressanne Therese A. Salva	Open, Novice	cloner babies	74	75	70	73	75	367	73.40	1.85
+204=	James Bryan Oliva	Open, Novice	Pineapple Pizza	70	75	74	74	74	367	73.40	1.74
+204=	Sian Transmontero	Open, Novice	ADMU SHS I	74	72	72	74	75	367	73.40	1.20
+210=	Penielle Jazz Cruz	Open, Novice	PHDS masakit ang kamay natin	76	72	74	71	73	366	73.20	1.72
+210=	Sydney Kaede Sy	Open, Novice	UST SHS - Strawberry Matcha	73	74	71	72	76	366	73.20	1.72
+210=	Jewel Mae Jose	Open, Novice	UST SHS Barbie 💖🎀	71	72	76	70	77	366	73.20	2.79
+210=	Nashley Luistro	Open, Novice	UST SHS Barbie 💖🎀	70	73	76	71	76	366	73.20	2.48
+210=	Christian Nhick C. Baquiran	Open, Novice	ADS 4	73	75	73	72	73	366	73.20	0.98
+215=	Princess Shaina Hope G. Leaño	Open, Novice	ADS 2	72	75	75	72	71	365	73.00	1.67
+215=	Pollux Caleb R. Reyes	Open, Novice	Time to Break Today	73	73	74	73	72	365	73.00	0.63
+215=	Yvonnah Michaella Julian	Open, Novice	UST SHS mizkonasha	71	74	74	72	74	365	73.00	1.26
+215=	Meira Janelle S. Padilla	Open, Novice	PSHS-MC - 4valdo	73	70	73	75	74	365	73.00	1.67
+219=	Adelyn Leigh M. Orata	Open, Novice	ADS 3	73	74	71	74	72	364	72.80	1.17
+219=	Hailey Ty	Open, Novice	Team Boracay	72	74	71	76	71	364	72.80	1.94
+219=	Ervin Jaysher Pagaduan	Open, Novice	ms. moba co	75	74	72	71	72	364	72.80	1.47
+219=	Raven Garvida	Open, Novice	ms. moba co	74	74	71	71	74	364	72.80	1.47
+219=	Inah Denise Manansala	Open, Novice	UST SHS mizkonasha	70	75	74	72	73	364	72.80	1.72
+219=	March Krixie Anne T. Agustin	Open, Novice	ADS 4	72	75	73	72	72	364	72.80	1.17
+225=	Princess Hannah C. Marasigan	Open, Novice	ADS 2	72	74	75	71	71	363	72.60	1.62
+225=	Mathe Christian Raphael G. Padua	Open, Novice	Time to Break Today	73	74	73	72	71	363	72.60	1.02
+225=	Zaira Rioja	Open, Novice	Team Boracay	72	73	72	76	70	363	72.60	1.96
+225=	Alexi Louise Amboy	Open, Novice	UST SHS - yumanisiz	73	75	69	73	73	363	72.60	1.96
+225=	Tatiana Juriz B Molina	Open, Novice	UST SHS - yumanisiz	74	76	68	73	72	363	72.60	2.65
+230	Erwyn Andrei Vibal	Open, Novice	PSHS-MC - 4valdo	73	70	72	74	72	361	72.20	1.33
+231	Khairul Haqimie bin Kamarulzaman	Open, Novice	The Reasonance	72	72	69	72	74	359	71.80	1.60
+232	Abdul Qahhar Ammar Shah bin Azrin Shah	Open, Novice	The Reasonance	71	72	70	72	73	358	71.60	1.02
+233=	Heather Kurt G. Fulgueras	Open, Novice	GNHSICONICUS	72	74	69	69	72	356	71.20	1.94
+233=	Zoe Arabella Flores	Open, Novice	HG D- Where is season two of crash 	70	72	71	71	72	356	71.20	0.75
+235	Helena Aldi N. Sarte	Open, Novice	GNHSINDIGENIOUSAURUS	69	73	73	71	69	355	71.00	1.79
+236=	Imeedel Angelica H. Espeleta	Open, Novice	GNHSICONICUS	72	73	69	68	72	354	70.80	1.94
+236=	Marian R. Franche	Open, Novice	GNHSINDIGENIOUSAURUS	69	72	74	70	69	354	70.80	1.94
+238	Gail Edgar Buenaventura	Open, Novice	HG D- Where is season two of crash 	69	71	68	71	71	350	70.00	1.26
+239	Lorrhaine Mae Baintin	Open	2v2 na lang sa math👊😡 (napilde)	78	78	76	—	77	309	77.25	0.83
+240	Maria Rosario Don	Open, Novice	Angry Bhies	76	76	76	77	—	305	76.25	0.43
+241	Khyla Domingo	Open, Novice	Angry Bhies	76	76	76	76	—	304	76.00	0.00
+242	Rifqah	Open, Novice	NJC 1	78	74	75	76	—	303	75.75	1.48
+243=	Ikhwan mukmin	Open, Novice	Logicus	73	77	76	75	—	301	75.25	1.48
+243=	Alton	Open, Novice	NJC 1	77	74	74	76	—	301	75.25	1.30
+243=	aaliyah	Open, Novice	RAAAAAAGGGHHHHH	—	77	75	74	75	301	75.25	1.09
+246=	Speaker 1		Swing B	—	75	74	76	75	300	75.00	0.71
+246=	Julianna Marie Enciso	Open, Novice	𐙚 cousins by vibe ༄｡°	76	—	77	72	75	300	75.00	1.87
+246=	Emanuel M. Cornejo	Open, Novice	PSHS-MC - riValdo	78	—	75	74	73	300	75.00	1.87
+249	Simon Harry Lindain	Open, Novice	UST SHS - Debater Rizzlers	74	—	75	75	74	298	74.50	0.50
+250=	Justine Amanda A. Villacorta	Open, Novice	supercalifragilisticexpialidocious	73	74	72	78	—	297	74.25	2.28
+250=	Yulia	Open, Novice	NJC 4	72	75	75	75	—	297	74.25	1.30
+252	NGUYỄN TRẦN XUÂN MAI	Open, Novice	Vicer	73	76	75	72	—	296	74.00	1.58
+253	Chrenz Gabriel Castillo	Open, Novice	ADS 6	71	76	73	74	—	294	73.50	1.80
+254	ĐỖ CAO KỲ DUYÊN	Open, Novice	Vicer	73	74	74	72	—	293	73.25	0.83
+255=	Einjel Derf P. Martin	Open, Novice	ADS 5	75	72	71	73	—	291	72.75	1.48
+255=	Mehkei Jan S. Asuncion	Open, Novice	ADS 5	75	72	70	74	—	291	72.75	1.92
+255=	Lim Sin	Open, Novice	NJC 3	74	69	74	74	—	291	72.75	2.17
+258=	Inge	Open, Novice	NJC 3	73	68	76	73	—	290	72.50	2.87
+258=	Yanny Ventura	Open, Novice	ADMU SHS I	72	72	72	74	—	290	72.50	0.87
+260=	Speaker 1		Swing A	—	—	76	75	75	226	75.33	0.47
+260=	Speaker 2		Swing B	—	75	76	—	75	226	75.33	0.47
+260=	Rolf Marcus A. Villano	Open	Mamma mia, here I go again	75	77	74	—	—	226	75.33	1.25
+263=	Marvin Long Do	Open	The Masked Debaters	75	74	76	—	—	225	75.00	0.82
+263=	Daniel The-Phuong Tran	Open, Novice	The Masked Debaters	76	74	75	—	—	225	75.00	0.82
+263=	Jethro	Open, Novice	we&#x27;re cooked	74	75	76	—	—	225	75.00	0.82
+266	Jasmin	Open, Novice	we&#x27;re cooked	73	75	76	—	—	224	74.67	1.25
+267=	Fahadz M. Lulu	Open	Mamma mia, here I go again	74	75	73	—	—	222	74.00	0.82
+267=	Rihanna Sabeñano	Open, Novice	PSHS-MC - rival2o	76	73	—	—	73	222	74.00	1.41
+269	Garett	Open, Novice	NJC 2	74	73	70	—	—	217	72.33	1.70
+270=	Speaker 2		Swing A	—	—	76	75	—	151	75.50	0.50
+270=	Mar Axel Domingo	Open, Novice	LF VT MY PLACE NOW!!!	74	77	—	—	—	151	75.50	1.50
+272	Raphael Mariano	Open, Novice	LF VT MY PLACE NOW!!!	74	76	—	—	—	150	75.00	1.00
+273=	Ryan Tahamid	Open	ADZU A	77	—	—	—	—	77	77.00	0.00
+273=	Speaker 1		Swing C	—	—	—	—	77	77	77.00	0.00
+275=	Gabrielle Tatel	Open	ADZU A	75	—	—	—	—	75	75.00	0.00
+275=	Jagriti	Open, Novice	NJC 2	75	—	—	—	—	75	75.00	0.00
+277=	Speaker 2		Swing C	—	—	—	—	—	—	—	—
+277=	Speaker 1		Swing D	—	—	—	—	—	—	—	—
+277=	Speaker 2		Swing D	—	—	—	—	—	—	—	—
+277=	Speaker 1		Swing E	—	—	—	—	—	—	—	—
+277=	Speaker 2		Swing E	—	—	—	—	—	—	—	—
+277=	Speaker 1		Swing F	—	—	—	—	—	—	—	—
+277=	Speaker 2		Swing F	—	—	—	—	—	—	—	—
+277=	Speaker 1		Swing G	—	—	—	—	—	—	—	—
+277=	Speaker 2		Swing G	—	—	—	—	—	—	—	—
+277=	Speaker 1		Swing H	—	—	—	—	—	—	—	—
+277=	Speaker 2		Swing H	—	—	—	—	—	—	—	—
+277=	Hud bin Amad Cheah	Open	Logicus	—	—	—	—	—	—	—	—
+277=	Cormac Moriarty	Open	Kiwi bird enthusiast + hater	—	—	—	—	—	—	—	—
+277=	James Boland	Open	Kiwi bird enthusiast + hater	—	—	—	—	—	—	—	—
+277=	Phil Guerrero	Open, Novice	first love/late nanaman	—	—	—	—	—	—	—	—
+277=	Sidney Tate	Open, Novice	first love/late nanaman	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators	motion
+Dan and Hanna with only 1 H	2nd	Closing Government	View Ballot	Marchell Bhea MurphyⒸ , Abubacar Ismael S. Punag , Julia	We&#x27;re all in this together
+HG F	4th	Closing Opposition	View Ballot	Marchell Bhea MurphyⒸ , Abubacar Ismael S. Punag , Julia	We&#x27;re all in this together
+bobo mindset	3rd	Opening Opposition	View Ballot	Marchell Bhea MurphyⒸ , Abubacar Ismael S. Punag , Julia	We&#x27;re all in this together
+national chokers	1st	Opening Government	View Ballot	Marchell Bhea MurphyⒸ , Abubacar Ismael S. Punag , Julia	We&#x27;re all in this together
+FEU AC	1st	Closing Government	View Ballot	Tivlumun AlexanderⒸ , Athena Matin-aw , Jan Krizzia	We&#x27;re all in this together
+ADS 5	3rd	Opening Government	View Ballot	Tivlumun AlexanderⒸ , Athena Matin-aw , Jan Krizzia	We&#x27;re all in this together
+UST SHS - Strawberry Matcha	4th	Closing Opposition	View Ballot	Tivlumun AlexanderⒸ , Athena Matin-aw , Jan Krizzia	We&#x27;re all in this together
+UGM A	2nd	Opening Opposition	View Ballot	Tivlumun AlexanderⒸ , Athena Matin-aw , Jan Krizzia	We&#x27;re all in this together
+Eddie sab-ihin mo sa mama mo pakyu	1st	Closing Government	View Ballot	PolⒸ , Rayhanah Andi	We&#x27;re all in this together
+UST SHS - K4ya k4ng 1P4gL4b9n	4th	Opening Opposition	View Ballot	PolⒸ , Rayhanah Andi	We&#x27;re all in this together
+NJC 2	3rd	Closing Opposition	View Ballot	PolⒸ , Rayhanah Andi	We&#x27;re all in this together
+Loutang and Sabrina Manggagawa	2nd	Opening Government	View Ballot	PolⒸ , Rayhanah Andi	We&#x27;re all in this together
+What country is this?	1st	Opening Government	View Ballot	Joaquin Portugal MacapinlacⒸ , Dhanyeta Devi Kumar , Kate Roderos	We&#x27;re all in this together
+RAAAAAAGGGHHHHH	2nd	Closing Opposition	View Ballot	Joaquin Portugal MacapinlacⒸ , Dhanyeta Devi Kumar , Kate Roderos	We&#x27;re all in this together
+Hard Carrots	3rd	Closing Government	View Ballot	Joaquin Portugal MacapinlacⒸ , Dhanyeta Devi Kumar , Kate Roderos	We&#x27;re all in this together
+PSHS-MC - 4valdo	4th	Opening Opposition	View Ballot	Joaquin Portugal MacapinlacⒸ , Dhanyeta Devi Kumar , Kate Roderos	We&#x27;re all in this together
+GNHSBREAKINGNOTFREE3700	4th	Closing Opposition	View Ballot	Jill AycardoⒸ	We&#x27;re all in this together
+In 882, Rurik&#x27;s successor, Prince O	1st	Opening Opposition	View Ballot	Jill AycardoⒸ	We&#x27;re all in this together
+we&#x27;re cooked	3rd	Closing Government	View Ballot	Jill AycardoⒸ	We&#x27;re all in this together
+UPCravings are lambing	2nd	Opening Government	View Ballot	Jill AycardoⒸ	We&#x27;re all in this together
+mga novice po kami pls be nice	4th	Opening Government	View Ballot	Adjudicator 1Ⓒ , Dylan Federico Bonoan , Keara	We&#x27;re all in this together
+UST SHS Barbie 💖🎀	2nd	Opening Opposition	View Ballot	Adjudicator 1Ⓒ , Dylan Federico Bonoan , Keara	We&#x27;re all in this together
+UPLB Comeback (Ulit)	1st	Closing Opposition	View Ballot	Adjudicator 1Ⓒ , Dylan Federico Bonoan , Keara	We&#x27;re all in this together
+Pineapple Pizza	3rd	Closing Government	View Ballot	Adjudicator 1Ⓒ , Dylan Federico Bonoan , Keara	We&#x27;re all in this together
+idh an idea for our team name	1st	Closing Government	View Ballot	Dylan SalcedoⒸ , Yvette	We&#x27;re all in this together
+adnu red flags	3rd	Opening Opposition	View Ballot	Dylan SalcedoⒸ , Yvette	We&#x27;re all in this together
+cloner babies	4th	Opening Government	View Ballot	Dylan SalcedoⒸ , Yvette	We&#x27;re all in this together
+ADS  1	2nd	Closing Opposition	View Ballot	Dylan SalcedoⒸ , Yvette	We&#x27;re all in this together
+UGM C	3rd	Opening Opposition	View Ballot	Ritch MartelⒸ , Joyce Angeles	We&#x27;re all in this together
+XU - AJ	1st	Opening Government	View Ballot	Ritch MartelⒸ , Joyce Angeles	We&#x27;re all in this together
+aspiring college dropouts	4th	Closing Government	View Ballot	Ritch MartelⒸ , Joyce Angeles	We&#x27;re all in this together
+IEntarmed	2nd	Closing Opposition	View Ballot	Ritch MartelⒸ , Joyce Angeles	We&#x27;re all in this together
+FEU CM	3rd	Opening Opposition	View Ballot	Alren LibreⒸ , Eman , Fiona Zarate	We&#x27;re all in this together
+UST SHS - yumanisiz	4th	Opening Government	View Ballot	Alren LibreⒸ , Eman , Fiona Zarate	We&#x27;re all in this together
+UGM B	2nd	Closing Government	View Ballot	Alren LibreⒸ , Eman , Fiona Zarate	We&#x27;re all in this together
+we miss you nina tan	1st	Closing Opposition	View Ballot	Alren LibreⒸ , Eman , Fiona Zarate	We&#x27;re all in this together
+mercy’s kitten from the (previously	2nd	Opening Government	View Ballot	ReymundⒸ , Chandrika Kumaratungga	We&#x27;re all in this together
+supercalifragilisticexpialidocious	3rd	Opening Opposition	View Ballot	ReymundⒸ , Chandrika Kumaratungga	We&#x27;re all in this together
+ADS 6	4th	Closing Government	View Ballot	ReymundⒸ , Chandrika Kumaratungga	We&#x27;re all in this together
+paper is not nerfing us anymore	1st	Closing Opposition	View Ballot	ReymundⒸ , Chandrika Kumaratungga	We&#x27;re all in this together
+healing by trauma bonding	1st	Opening Opposition	View Ballot	Xandy ArmamentoⒸ , Ethan James A. Alvarez	We&#x27;re all in this together
+XU JA	3rd	Closing Government	View Ballot	Xandy ArmamentoⒸ , Ethan James A. Alvarez	We&#x27;re all in this together
+NJC 3	4th	Closing Opposition	View Ballot	Xandy ArmamentoⒸ , Ethan James A. Alvarez	We&#x27;re all in this together
+Potato Farm	2nd	Opening Government	View Ballot	Xandy ArmamentoⒸ , Ethan James A. Alvarez	We&#x27;re all in this together
+Lunatics	3rd	Closing Government	View Ballot	Keziah MoresⒸ , Dylan , Kate Guinocor	We&#x27;re all in this together
+UST SHS - hello kiffy	4th	Opening Government	View Ballot	Keziah MoresⒸ , Dylan , Kate Guinocor	We&#x27;re all in this together
+9PAX	1st	Closing Opposition	View Ballot	Keziah MoresⒸ , Dylan , Kate Guinocor	We&#x27;re all in this together
+BAD by Denise Julia (paid producers	2nd	Opening Opposition	View Ballot	Keziah MoresⒸ , Dylan , Kate Guinocor	We&#x27;re all in this together
+BACklash Arguers	3rd	Closing Opposition	View Ballot	Jaryll James R. JuntadoⒸ	We&#x27;re all in this together
+ms. moba co	4th	Opening Government	View Ballot	Jaryll James R. JuntadoⒸ	We&#x27;re all in this together
+Analyn Muko	2nd	Opening Opposition	View Ballot	Jaryll James R. JuntadoⒸ	We&#x27;re all in this together
+we ball	1st	Closing Government	View Ballot	Jaryll James R. JuntadoⒸ	We&#x27;re all in this together
+HG A	2nd	Closing Government	View Ballot	KuganⒸ , Huezen Kroy	We&#x27;re all in this together
+The Reasonance	4th	Opening Government	View Ballot	KuganⒸ , Huezen Kroy	We&#x27;re all in this together
+I don&#x27;t have a sugar daddy, I&#x27;ve ne	3rd	Opening Opposition	View Ballot	KuganⒸ , Huezen Kroy	We&#x27;re all in this together
+Join Maynila Asian Parliamentary	1st	Closing Opposition	View Ballot	KuganⒸ , Huezen Kroy	We&#x27;re all in this together
+delicious pechay	4th	Opening Government	View Ballot	Castiel AngelwingⒸ , Clofaye Abad , Raine Sheirlaine Prieto	We&#x27;re all in this together
+Diwata beef pares	1st	Opening Opposition	View Ballot	Castiel AngelwingⒸ , Clofaye Abad , Raine Sheirlaine Prieto	We&#x27;re all in this together
+San Marino Debate Organization	2nd	Closing Opposition	View Ballot	Castiel AngelwingⒸ , Clofaye Abad , Raine Sheirlaine Prieto	We&#x27;re all in this together
+NJC 4	3rd	Closing Government	View Ballot	Castiel AngelwingⒸ , Clofaye Abad , Raine Sheirlaine Prieto	We&#x27;re all in this together
+damz that’s crazy bro	2nd	Closing Government	View Ballot	JackⒸ , Cedric Cortez Jr.	We&#x27;re all in this together
+ADS 3	4th	Opening Government	View Ballot	JackⒸ , Cedric Cortez Jr.	We&#x27;re all in this together
+UC Ampersand	1st	Closing Opposition	View Ballot	JackⒸ , Cedric Cortez Jr.	We&#x27;re all in this together
+The Masked Debaters	3rd	Opening Opposition	View Ballot	JackⒸ , Cedric Cortez Jr.	We&#x27;re all in this together
+FEU CS	1st	Opening Opposition	View Ballot	Adjudicator 2Ⓒ , Kent Russell D. Balmes , Kyle Ramos	We&#x27;re all in this together
+FEU GG	2nd	Closing Opposition	View Ballot	Adjudicator 2Ⓒ , Kent Russell D. Balmes , Kyle Ramos	We&#x27;re all in this together
+Team Boracay	4th	Opening Government	View Ballot	Adjudicator 2Ⓒ , Kent Russell D. Balmes , Kyle Ramos	We&#x27;re all in this together
+duon ka sa far away	3rd	Closing Government	View Ballot	Adjudicator 2Ⓒ , Kent Russell D. Balmes , Kyle Ramos	We&#x27;re all in this together
+this team is 1/2 straight	2nd	Closing Government	View Ballot	Imran IlmamⒸ	We&#x27;re all in this together
+BACk-up teamate utilized	3rd	Closing Opposition	View Ballot	Imran IlmamⒸ	We&#x27;re all in this together
+UPLB im okay im fine gwenchana gwen	1st	Opening Opposition	View Ballot	Imran IlmamⒸ	We&#x27;re all in this together
+ADMU SHS I	4th	Opening Government	View Ballot	Imran IlmamⒸ	We&#x27;re all in this together
+avoidant father at oa daughter	2nd	Closing Opposition	View Ballot	Santino VarelaⒸ , Redacted	We&#x27;re all in this together
+FEU CV	4th	Opening Opposition	View Ballot	Santino VarelaⒸ , Redacted	We&#x27;re all in this together
+Princess and the frog	3rd	Opening Government	View Ballot	Santino VarelaⒸ , Redacted	We&#x27;re all in this together
+UPCalma	1st	Closing Government	View Ballot	Santino VarelaⒸ , Redacted	We&#x27;re all in this together
+AdDU SH	2nd	Opening Opposition	View Ballot	Joaquin PorciunculaⒸ	We&#x27;re all in this together
+Swipe Right to Krish Vikram on Bumb	3rd	Opening Government	View Ballot	Joaquin PorciunculaⒸ	We&#x27;re all in this together
+LF VT MY PLACE NOW!!!	4th	Closing Government	View Ballot	Joaquin PorciunculaⒸ	We&#x27;re all in this together
+Sigbin-ayot	1st	Closing Opposition	View Ballot	Joaquin PorciunculaⒸ	We&#x27;re all in this together
+PHDS masakit ang kamay natin	3rd	Closing Opposition	View Ballot	Yael InventorⒸ	We&#x27;re all in this together
+Tia &amp; Tamera	2nd	Closing Government	View Ballot	Yael InventorⒸ	We&#x27;re all in this together
+2v2 na lang sa math👊😡 (napilde)	1st	Opening Government	View Ballot	Yael InventorⒸ	We&#x27;re all in this together
+PSHS-MC - rival2o	4th	Opening Opposition	View Ballot	Yael InventorⒸ	We&#x27;re all in this together
+Chreona	3rd	Opening Government	View Ballot	Miro FortunaⒸ , Shalimar Basman	We&#x27;re all in this together
+Mamma mia, here I go again	4th	Closing Government	View Ballot	Miro FortunaⒸ , Shalimar Basman	We&#x27;re all in this together
+huwag kang mang judge ng isang tao 	1st	Opening Opposition	View Ballot	Miro FortunaⒸ , Shalimar Basman	We&#x27;re all in this together
+NJC 1	2nd	Closing Opposition	View Ballot	Miro FortunaⒸ , Shalimar Basman	We&#x27;re all in this together
+Give us a break	2nd	Closing Opposition	View Ballot	Sarah GatmenⒸ	We&#x27;re all in this together
+Time to Break Today	4th	Opening Opposition	View Ballot	Sarah GatmenⒸ	We&#x27;re all in this together
+MSUM JR - Cuties	3rd	Opening Government	View Ballot	Sarah GatmenⒸ	We&#x27;re all in this together
+UPLB Homiesexuals	1st	Closing Government	View Ballot	Sarah GatmenⒸ	We&#x27;re all in this together
+&quot;I swear, I&#x27;m sweating like a sinne	2nd	Opening Government	View Ballot	Rubaiyat SamadⒸ	We&#x27;re all in this together
+HG B	4th	Closing Government	View Ballot	Rubaiyat SamadⒸ	We&#x27;re all in this together
+chronically online sadboy ateneans	3rd	Closing Opposition	View Ballot	Rubaiyat SamadⒸ	We&#x27;re all in this together
+PSHS-MC r1valdo	1st	Opening Opposition	View Ballot	Rubaiyat SamadⒸ	We&#x27;re all in this together
+pls be kind, true novice	1st	Opening Opposition	View Ballot	Dohyun Daniel KimⒸ , Yakov Apura	We&#x27;re all in this together
+HG C	3rd	Closing Government	View Ballot	Dohyun Daniel KimⒸ , Yakov Apura	We&#x27;re all in this together
+SBDC - It&#x27;s DEBILOG, not Debsoc!!!	2nd	Opening Government	View Ballot	Dohyun Daniel KimⒸ , Yakov Apura	We&#x27;re all in this together
+ADS 4	4th	Closing Opposition	View Ballot	Dohyun Daniel KimⒸ , Yakov Apura	We&#x27;re all in this together
+ADZU A	2nd	Closing Opposition	View Ballot	Therese GenotaⒸ , Mikaela Theresa Bosano	We&#x27;re all in this together
+UST SHS - Debater Rizzlers	3rd	Opening Opposition	View Ballot	Therese GenotaⒸ , Mikaela Theresa Bosano	We&#x27;re all in this together
+Logicus	4th	Closing Government	View Ballot	Therese GenotaⒸ , Mikaela Theresa Bosano	We&#x27;re all in this together
+hev abi ft. arhon	1st	Opening Government	View Ballot	Therese GenotaⒸ , Mikaela Theresa Bosano	We&#x27;re all in this together
+HG D- Where is season two of crash 	4th	Closing Government	View Ballot	Allain ChristopherⒸ , Girele C. Tovera	We&#x27;re all in this together
+USJR LL	3rd	Closing Opposition	View Ballot	Allain ChristopherⒸ , Girele C. Tovera	We&#x27;re all in this together
+AGS (5-Bagobo)	1st	Opening Opposition	View Ballot	Allain ChristopherⒸ , Girele C. Tovera	We&#x27;re all in this together
+Artillery Only	2nd	Opening Government	View Ballot	Allain ChristopherⒸ , Girele C. Tovera	We&#x27;re all in this together
+Ah-hngk-mmnn...! /////	1st	Opening Government	View Ballot	James CacholaⒸ	We&#x27;re all in this together
+GNHSICONICUS	4th	Closing Government	View Ballot	James CacholaⒸ	We&#x27;re all in this together
+USJR - Jangari and Elizabeth	3rd	Closing Opposition	View Ballot	James CacholaⒸ	We&#x27;re all in this together
+Vicer	2nd	Opening Opposition	View Ballot	James CacholaⒸ	We&#x27;re all in this together
+makichezmis k nlng!	1st	Opening Government	View Ballot	Michel Andre D. MacahiloⒸ , Precious Gem Anilao , Sittie Rahma Alawi	We&#x27;re all in this together
+i&#x27;ve loved you ever since i&#x27;ve know	2nd	Closing Opposition	View Ballot	Michel Andre D. MacahiloⒸ , Precious Gem Anilao , Sittie Rahma Alawi	We&#x27;re all in this together
+GNHSINDIGENIOUSAURUS	4th	Closing Government	View Ballot	Michel Andre D. MacahiloⒸ , Precious Gem Anilao , Sittie Rahma Alawi	We&#x27;re all in this together
+UST SHS mizkonasha	3rd	Opening Opposition	View Ballot	Michel Andre D. MacahiloⒸ , Precious Gem Anilao , Sittie Rahma Alawi	We&#x27;re all in this together
+Ikim	4th	Closing Government	View Ballot	Cristine Joy LlandonesⒸ , Magi Fernandez	We&#x27;re all in this together
+UPLB Origami	2nd	Opening Opposition	View Ballot	Cristine Joy LlandonesⒸ , Magi Fernandez	We&#x27;re all in this together
+ambot sa imong lubot	1st	Opening Government	View Ballot	Cristine Joy LlandonesⒸ , Magi Fernandez	We&#x27;re all in this together
+Debate gave us Streptococcus pyogen	3rd	Closing Opposition	View Ballot	Cristine Joy LlandonesⒸ , Magi Fernandez	We&#x27;re all in this together
+IJBOL	1st	Closing Government	View Ballot	Enzo AltaresⒸ , Franco Kasilag , ADDIEⓉ	We&#x27;re all in this together
+UST SHS - Oh Baby Kalma	4th	Opening Opposition	View Ballot	Enzo AltaresⒸ , Franco Kasilag , ADDIEⓉ	We&#x27;re all in this together
+the 30th gc	3rd	Closing Opposition	View Ballot	Enzo AltaresⒸ , Franco Kasilag , ADDIEⓉ	We&#x27;re all in this together
+Angry Bhies	2nd	Opening Government	View Ballot	Enzo AltaresⒸ , Franco Kasilag , ADDIEⓉ	We&#x27;re all in this together
+Suki sa Siomai	3rd	Closing Opposition	View Ballot	Julien VargasⒸ , Yanee	We&#x27;re all in this together
+We like a long hard odin 🔫	1st	Opening Opposition	View Ballot	Julien VargasⒸ , Yanee	We&#x27;re all in this together
+PSHS-MC - 3valdo	2nd	Opening Government	View Ballot	Julien VargasⒸ , Yanee	We&#x27;re all in this together
+PSHS-MC - riValdo	4th	Closing Government	View Ballot	Julien VargasⒸ , Yanee	We&#x27;re all in this together
+ADS 2	4th	Closing Government	View Ballot	YeshⒸ , Lyn Sinsua , Zyneth Jade J. Dimen	We&#x27;re all in this together
+problems sa imong trolley	3rd	Opening Government	View Ballot	YeshⒸ , Lyn Sinsua , Zyneth Jade J. Dimen	We&#x27;re all in this together
+We&#x27;re both first speakers	1st	Opening Opposition	View Ballot	YeshⒸ , Lyn Sinsua , Zyneth Jade J. Dimen	We&#x27;re all in this together
+𐙚 cousins by vibe ༄｡°	2nd	Closing Opposition	View Ballot	YeshⒸ , Lyn Sinsua , Zyneth Jade J. Dimen	We&#x27;re all in this together
+Big Boys	3rd	Opening Opposition	View Ballot	Emmanuel BoakyeⒸ , Angelic Alivio	We&#x27;re all in this together
+Crazy? I Was Crazy Once. They Locke	2nd	Closing Opposition	View Ballot	Emmanuel BoakyeⒸ , Angelic Alivio	We&#x27;re all in this together
+UTM UTM, What is this Behaviour?	1st	Closing Government	View Ballot	Emmanuel BoakyeⒸ , Angelic Alivio	We&#x27;re all in this together
+If the series ∞ ∑ n=1 an is converg	4th	Opening Government	View Ballot	Emmanuel BoakyeⒸ , Angelic Alivio	We&#x27;re all in this together
+
+
+team	result	side	ballot	adjudicators	motion
+makichezmis k nlng!	3rd	Opening Opposition	View Ballot	JuliaⒸ , Lyn Sinsua , Ritch Martel	Can you tell that this round was about money?
+FEU CS	2nd	Closing Government	View Ballot	JuliaⒸ , Lyn Sinsua , Ritch Martel	Can you tell that this round was about money?
+Diwata beef pares	4th	Opening Government	View Ballot	JuliaⒸ , Lyn Sinsua , Ritch Martel	Can you tell that this round was about money?
+UPCalma	1st	Closing Opposition	View Ballot	JuliaⒸ , Lyn Sinsua , Ritch Martel	Can you tell that this round was about money?
+XU - AJ	2nd	Closing Government	View Ballot	Castiel AngelwingⒸ , Kate Guinocor	Can you tell that this round was about money?
+NJC 3	4th	Opening Government	View Ballot	Castiel AngelwingⒸ , Kate Guinocor	Can you tell that this round was about money?
+ADMU SHS I	1st	Opening Opposition	View Ballot	Castiel AngelwingⒸ , Kate Guinocor	Can you tell that this round was about money?
+PSHS-MC - 4valdo	3rd	Closing Opposition	View Ballot	Castiel AngelwingⒸ , Kate Guinocor	Can you tell that this round was about money?
+pls be kind, true novice	1st	Closing Opposition	View Ballot	Yael InventorⒸ	Can you tell that this round was about money?
+UPLB im okay im fine gwenchana gwen	2nd	Closing Government	View Ballot	Yael InventorⒸ	Can you tell that this round was about money?
+paper is not nerfing us anymore	3rd	Opening Opposition	View Ballot	Yael InventorⒸ	Can you tell that this round was about money?
+PSHS-MC r1valdo	4th	Opening Government	View Ballot	Yael InventorⒸ	Can you tell that this round was about money?
+adnu red flags	3rd	Opening Government	View Ballot	Fiona ZarateⒸ , Cristine Joy Llandones , Kent Russell D. Balmes	Can you tell that this round was about money?
+MSUM JR - Cuties	2nd	Opening Opposition	View Ballot	Fiona ZarateⒸ , Cristine Joy Llandones , Kent Russell D. Balmes	Can you tell that this round was about money?
+UST SHS - Debater Rizzlers	1st	Closing Opposition	View Ballot	Fiona ZarateⒸ , Cristine Joy Llandones , Kent Russell D. Balmes	Can you tell that this round was about money?
+NJC 2	4th	Closing Government	View Ballot	Fiona ZarateⒸ , Cristine Joy Llandones , Kent Russell D. Balmes	Can you tell that this round was about money?
+healing by trauma bonding	1st	Opening Government	View Ballot	Xandy ArmamentoⒸ , Marchell Bhea Murphy , Raine A. Tulio	Can you tell that this round was about money?
+IJBOL	2nd	Closing Opposition	View Ballot	Xandy ArmamentoⒸ , Marchell Bhea Murphy , Raine A. Tulio	Can you tell that this round was about money?
+Angry Bhies	4th	Opening Opposition	View Ballot	Xandy ArmamentoⒸ , Marchell Bhea Murphy , Raine A. Tulio	Can you tell that this round was about money?
+Join Maynila Asian Parliamentary	3rd	Closing Government	View Ballot	Xandy ArmamentoⒸ , Marchell Bhea Murphy , Raine A. Tulio	Can you tell that this round was about money?
+UC Ampersand	4th	Opening Opposition	View Ballot	Therese GenotaⒸ	Can you tell that this round was about money?
+We like a long hard odin 🔫	3rd	Closing Opposition	View Ballot	Therese GenotaⒸ	Can you tell that this round was about money?
+AGS (5-Bagobo)	2nd	Opening Government	View Ballot	Therese GenotaⒸ	Can you tell that this round was about money?
+IEntarmed	1st	Closing Government	View Ballot	Therese GenotaⒸ	Can you tell that this round was about money?
+mercy’s kitten from the (previously	1st	Closing Government	View Ballot	Allain ChristopherⒸ	Can you tell that this round was about money?
+UPLB Origami	2nd	Opening Government	View Ballot	Allain ChristopherⒸ	Can you tell that this round was about money?
+NJC 1	3rd	Opening Opposition	View Ballot	Allain ChristopherⒸ	Can you tell that this round was about money?
+PSHS-MC - 3valdo	4th	Closing Opposition	View Ballot	Allain ChristopherⒸ	Can you tell that this round was about money?
+this team is 1/2 straight	4th	Closing Opposition	View Ballot	Dohyun Daniel KimⒸ	Can you tell that this round was about money?
+UGM A	3rd	Opening Government	View Ballot	Dohyun Daniel KimⒸ	Can you tell that this round was about money?
+San Marino Debate Organization	1st	Opening Opposition	View Ballot	Dohyun Daniel KimⒸ	Can you tell that this round was about money?
+RAAAAAAGGGHHHHH	2nd	Closing Government	View Ballot	Dohyun Daniel KimⒸ	Can you tell that this round was about money?
+AdDU SH	3rd	Closing Opposition	View Ballot	Imran IlmamⒸ	Can you tell that this round was about money?
+avoidant father at oa daughter	1st	Opening Government	View Ballot	Imran IlmamⒸ	Can you tell that this round was about money?
+UGM C	2nd	Closing Government	View Ballot	Imran IlmamⒸ	Can you tell that this round was about money?
+𐙚 cousins by vibe ༄｡°	4th	Opening Opposition	View Ballot	Imran IlmamⒸ	Can you tell that this round was about money?
+Big Boys	1st	Closing Government	View Ballot	Miro FortunaⒸ , Matthew Tinamisan , Yvette	Can you tell that this round was about money?
+USJR LL	4th	Opening Government	View Ballot	Miro FortunaⒸ , Matthew Tinamisan , Yvette	Can you tell that this round was about money?
+aspiring college dropouts	3rd	Closing Opposition	View Ballot	Miro FortunaⒸ , Matthew Tinamisan , Yvette	Can you tell that this round was about money?
+Hard Carrots	2nd	Opening Opposition	View Ballot	Miro FortunaⒸ , Matthew Tinamisan , Yvette	Can you tell that this round was about money?
+Lunatics	4th	Opening Opposition	View Ballot	KuganⒸ , Vu Lan Nghi	Can you tell that this round was about money?
+mga novice po kami pls be nice	2nd	Closing Opposition	View Ballot	KuganⒸ , Vu Lan Nghi	Can you tell that this round was about money?
+USJR - Jangari and Elizabeth	3rd	Closing Government	View Ballot	KuganⒸ , Vu Lan Nghi	Can you tell that this round was about money?
+duon ka sa far away	1st	Opening Government	View Ballot	KuganⒸ , Vu Lan Nghi	Can you tell that this round was about money?
+Swipe Right to Krish Vikram on Bumb	3rd	Closing Opposition	View Ballot	Emmanuel BoakyeⒸ , Franco Kasilag , Jan Krizzia	Can you tell that this round was about money?
+LF VT MY PLACE NOW!!!	4th	Opening Government	View Ballot	Emmanuel BoakyeⒸ , Franco Kasilag , Jan Krizzia	Can you tell that this round was about money?
+Princess and the frog	2nd	Opening Opposition	View Ballot	Emmanuel BoakyeⒸ , Franco Kasilag , Jan Krizzia	Can you tell that this round was about money?
+Debate gave us Streptococcus pyogen	1st	Closing Government	View Ballot	Emmanuel BoakyeⒸ , Franco Kasilag , Jan Krizzia	Can you tell that this round was about money?
+Chreona	1st	Closing Government	View Ballot	Joaquin Portugal MacapinlacⒸ , Kyle Ramos , Zyneth Jade J. Dimen	Can you tell that this round was about money?
+FEU CM	2nd	Closing Opposition	View Ballot	Joaquin Portugal MacapinlacⒸ , Kyle Ramos , Zyneth Jade J. Dimen	Can you tell that this round was about money?
+UST SHS - Strawberry Matcha	4th	Opening Opposition	View Ballot	Joaquin Portugal MacapinlacⒸ , Kyle Ramos , Zyneth Jade J. Dimen	Can you tell that this round was about money?
+Pineapple Pizza	3rd	Opening Government	View Ballot	Joaquin Portugal MacapinlacⒸ , Kyle Ramos , Zyneth Jade J. Dimen	Can you tell that this round was about money?
+BACk-up teamate utilized	3rd	Opening Government	View Ballot	Oarben BalicocoⒸ , Karol Oraiz , Magi Fernandez	Can you tell that this round was about money?
+BACklash Arguers	2nd	Opening Opposition	View Ballot	Oarben BalicocoⒸ , Karol Oraiz , Magi Fernandez	Can you tell that this round was about money?
+supercalifragilisticexpialidocious	4th	Closing Government	View Ballot	Oarben BalicocoⒸ , Karol Oraiz , Magi Fernandez	Can you tell that this round was about money?
+XU JA	1st	Closing Opposition	View Ballot	Oarben BalicocoⒸ , Karol Oraiz , Magi Fernandez	Can you tell that this round was about money?
+Mamma mia, here I go again	2nd	Closing Opposition	View Ballot	Hugh MejosⒸ , Raine Sheirlaine Prieto	Can you tell that this round was about money?
+FEU CV	1st	Closing Government	View Ballot	Hugh MejosⒸ , Raine Sheirlaine Prieto	Can you tell that this round was about money?
+GNHSINDIGENIOUSAURUS	4th	Opening Opposition	View Ballot	Hugh MejosⒸ , Raine Sheirlaine Prieto	Can you tell that this round was about money?
+Time to Break Today	3rd	Opening Government	View Ballot	Hugh MejosⒸ , Raine Sheirlaine Prieto	Can you tell that this round was about money?
+ADS 2	2nd	Closing Opposition	View Ballot	Cedric Cortez Jr.Ⓒ , Precious Gem Anilao	Can you tell that this round was about money?
+GNHSICONICUS	4th	Opening Opposition	View Ballot	Cedric Cortez Jr.Ⓒ , Precious Gem Anilao	Can you tell that this round was about money?
+cloner babies	1st	Closing Government	View Ballot	Cedric Cortez Jr.Ⓒ , Precious Gem Anilao	Can you tell that this round was about money?
+PSHS-MC - rival2o	3rd	Opening Government	View Ballot	Cedric Cortez Jr.Ⓒ , Precious Gem Anilao	Can you tell that this round was about money?
+GNHSBREAKINGNOTFREE3700	3rd	Closing Government	View Ballot	Clofaye AbadⒸ , Dylan Federico Bonoan	Can you tell that this round was about money?
+Team Boracay	4th	Opening Opposition	View Ballot	Clofaye AbadⒸ , Dylan Federico Bonoan	Can you tell that this round was about money?
+Ikim	1st	Closing Opposition	View Ballot	Clofaye AbadⒸ , Dylan Federico Bonoan	Can you tell that this round was about money?
+Logicus	2nd	Opening Government	View Ballot	Clofaye AbadⒸ , Dylan Federico Bonoan	Can you tell that this round was about money?
+huwag kang mang judge ng isang tao 	1st	Closing Opposition	View Ballot	Sarah GatmenⒸ	Can you tell that this round was about money?
+SBDC - It&#x27;s DEBILOG, not Debsoc!!!	4th	Closing Government	View Ballot	Sarah GatmenⒸ	Can you tell that this round was about money?
+UPLB Comeback (Ulit)	3rd	Opening Opposition	View Ballot	Sarah GatmenⒸ	Can you tell that this round was about money?
+We&#x27;re both first speakers	2nd	Opening Government	View Ballot	Sarah GatmenⒸ	Can you tell that this round was about money?
+UPLB Homiesexuals	4th	Opening Government	View Ballot	Adjudicator 1Ⓒ , Daniella , Girele C. Tovera	Can you tell that this round was about money?
+9PAX	3rd	Closing Government	View Ballot	Adjudicator 1Ⓒ , Daniella , Girele C. Tovera	Can you tell that this round was about money?
+UTM UTM, What is this Behaviour?	1st	Closing Opposition	View Ballot	Adjudicator 1Ⓒ , Daniella , Girele C. Tovera	Can you tell that this round was about money?
+national chokers	2nd	Opening Opposition	View Ballot	Adjudicator 1Ⓒ , Daniella , Girele C. Tovera	Can you tell that this round was about money?
+Eddie sab-ihin mo sa mama mo pakyu	2nd	Opening Government	View Ballot	PolⒸ	Can you tell that this round was about money?
+ambot sa imong lubot	1st	Closing Government	View Ballot	PolⒸ	Can you tell that this round was about money?
+we ball	4th	Opening Opposition	View Ballot	PolⒸ	Can you tell that this round was about money?
+hev abi ft. arhon	3rd	Closing Opposition	View Ballot	PolⒸ	Can you tell that this round was about money?
+Ah-hngk-mmnn...! /////	4th	Opening Opposition	View Ballot	James CacholaⒸ	Can you tell that this round was about money?
+FEU AC	3rd	Opening Government	View Ballot	James CacholaⒸ	Can you tell that this round was about money?
+In 882, Rurik&#x27;s successor, Prince O	2nd	Closing Government	View Ballot	James CacholaⒸ	Can you tell that this round was about money?
+2v2 na lang sa math👊😡 (napilde)	1st	Closing Opposition	View Ballot	James CacholaⒸ	Can you tell that this round was about money?
+Dan and Hanna with only 1 H	4th	Opening Government	View Ballot	Michel Andre D. MacahiloⒸ , Eman , Rayhanah Andi	Can you tell that this round was about money?
+i&#x27;ve loved you ever since i&#x27;ve know	3rd	Opening Opposition	View Ballot	Michel Andre D. MacahiloⒸ , Eman , Rayhanah Andi	Can you tell that this round was about money?
+Artillery Only	1st	Closing Opposition	View Ballot	Michel Andre D. MacahiloⒸ , Eman , Rayhanah Andi	Can you tell that this round was about money?
+UPCravings are lambing	2nd	Closing Government	View Ballot	Michel Andre D. MacahiloⒸ , Eman , Rayhanah Andi	Can you tell that this round was about money?
+&quot;I swear, I&#x27;m sweating like a sinne	3rd	Opening Opposition	View Ballot	Joyce AngelesⒸ , Redacted , Huezen Kroy	Can you tell that this round was about money?
+problems sa imong trolley	4th	Closing Opposition	View Ballot	Joyce AngelesⒸ , Redacted , Huezen Kroy	Can you tell that this round was about money?
+Crazy? I Was Crazy Once. They Locke	2nd	Opening Government	View Ballot	Joyce AngelesⒸ , Redacted , Huezen Kroy	Can you tell that this round was about money?
+BAD by Denise Julia (paid producers	1st	Closing Government	View Ballot	Joyce AngelesⒸ , Redacted , Huezen Kroy	Can you tell that this round was about money?
+Give us a break	3rd	Closing Government	View Ballot	Rubaiyat SamadⒸ , Shalimar Basman	Can you tell that this round was about money?
+damz that’s crazy bro	1st	Closing Opposition	View Ballot	Rubaiyat SamadⒸ , Shalimar Basman	Can you tell that this round was about money?
+UST SHS Barbie 💖🎀	4th	Opening Government	View Ballot	Rubaiyat SamadⒸ , Shalimar Basman	Can you tell that this round was about money?
+ADS  1	2nd	Opening Opposition	View Ballot	Rubaiyat SamadⒸ , Shalimar Basman	Can you tell that this round was about money?
+UGM B	3rd	Opening Government	View Ballot	Mikaela Theresa BosanoⒸ , Dhanyeta Devi Kumar , Dylan	Can you tell that this round was about money?
+Tia &amp; Tamera	2nd	Opening Opposition	View Ballot	Mikaela Theresa BosanoⒸ , Dhanyeta Devi Kumar , Dylan	Can you tell that this round was about money?
+Potato Farm	1st	Closing Opposition	View Ballot	Mikaela Theresa BosanoⒸ , Dhanyeta Devi Kumar , Dylan	Can you tell that this round was about money?
+Vicer	4th	Closing Government	View Ballot	Mikaela Theresa BosanoⒸ , Dhanyeta Devi Kumar , Dylan	Can you tell that this round was about money?
+FEU GG	1st	Opening Government	View Ballot	ZH MasudⒸ , Keara , Tomtom	Can you tell that this round was about money?
+HG A	3rd	Closing Opposition	View Ballot	ZH MasudⒸ , Keara , Tomtom	Can you tell that this round was about money?
+Analyn Muko	2nd	Closing Government	View Ballot	ZH MasudⒸ , Keara , Tomtom	Can you tell that this round was about money?
+Loutang and Sabrina Manggagawa	4th	Opening Opposition	View Ballot	ZH MasudⒸ , Keara , Tomtom	Can you tell that this round was about money?
+UST SHS mizkonasha	3rd	Closing Government	View Ballot	Dylan SalcedoⒸ , Chandrika Kumaratungga	Can you tell that this round was about money?
+the 30th gc	2nd	Opening Government	View Ballot	Dylan SalcedoⒸ , Chandrika Kumaratungga	Can you tell that this round was about money?
+The Masked Debaters	4th	Closing Opposition	View Ballot	Dylan SalcedoⒸ , Chandrika Kumaratungga	Can you tell that this round was about money?
+chronically online sadboy ateneans	1st	Opening Opposition	View Ballot	Dylan SalcedoⒸ , Chandrika Kumaratungga	Can you tell that this round was about money?
+HG C	3rd	Closing Opposition	View Ballot	Julien VargasⒸ , Sittie Rahma Alawi , Yusop, Ben-Zha&#x27;ad H.	Can you tell that this round was about money?
+bobo mindset	4th	Opening Government	View Ballot	Julien VargasⒸ , Sittie Rahma Alawi , Yusop, Ben-Zha&#x27;ad H.	Can you tell that this round was about money?
+Suki sa Siomai	2nd	Closing Government	View Ballot	Julien VargasⒸ , Sittie Rahma Alawi , Yusop, Ben-Zha&#x27;ad H.	Can you tell that this round was about money?
+NJC 4	1st	Opening Opposition	View Ballot	Julien VargasⒸ , Sittie Rahma Alawi , Yusop, Ben-Zha&#x27;ad H.	Can you tell that this round was about money?
+PHDS masakit ang kamay natin	3rd	Opening Opposition	View Ballot	YaneeⒸ , ADDIE , Angelic Alivio	Can you tell that this round was about money?
+ADS 5	4th	Closing Opposition	View Ballot	YaneeⒸ , ADDIE , Angelic Alivio	Can you tell that this round was about money?
+I don&#x27;t have a sugar daddy, I&#x27;ve ne	1st	Closing Government	View Ballot	YaneeⒸ , ADDIE , Angelic Alivio	Can you tell that this round was about money?
+we&#x27;re cooked	2nd	Opening Government	View Ballot	YaneeⒸ , ADDIE , Angelic Alivio	Can you tell that this round was about money?
+HG F	4th	Closing Government	View Ballot	Gelai LopezⒸ , Yakov Apura	Can you tell that this round was about money?
+ms. moba co	3rd	Closing Opposition	View Ballot	Gelai LopezⒸ , Yakov Apura	Can you tell that this round was about money?
+UST SHS - yumanisiz	1st	Opening Opposition	View Ballot	Gelai LopezⒸ , Yakov Apura	Can you tell that this round was about money?
+UST SHS - K4ya k4ng 1P4gL4b9n	2nd	Opening Government	View Ballot	Gelai LopezⒸ , Yakov Apura	Can you tell that this round was about money?
+HG B	3rd	Opening Opposition	View Ballot	Joaquin PorciunculaⒸ , Abdul Wassay , Athena Matin-aw	Can you tell that this round was about money?
+delicious pechay	4th	Closing Government	View Ballot	Joaquin PorciunculaⒸ , Abdul Wassay , Athena Matin-aw	Can you tell that this round was about money?
+ADS 6	1st	Closing Opposition	View Ballot	Joaquin PorciunculaⒸ , Abdul Wassay , Athena Matin-aw	Can you tell that this round was about money?
+PSHS-MC - riValdo	2nd	Opening Government	View Ballot	Joaquin PorciunculaⒸ , Abdul Wassay , Athena Matin-aw	Can you tell that this round was about money?
+ADS 3	3rd	Closing Opposition	View Ballot	Keziah MoresⒸ , Alren Libre , Ethan James A. Alvarez	Can you tell that this round was about money?
+UST SHS - Oh Baby Kalma	4th	Opening Government	View Ballot	Keziah MoresⒸ , Alren Libre , Ethan James A. Alvarez	Can you tell that this round was about money?
+ADS 4	2nd	Opening Opposition	View Ballot	Keziah MoresⒸ , Alren Libre , Ethan James A. Alvarez	Can you tell that this round was about money?
+If the series ∞ ∑ n=1 an is converg	1st	Closing Government	View Ballot	Keziah MoresⒸ , Alren Libre , Ethan James A. Alvarez	Can you tell that this round was about money?
+Swing B	1st	Opening Government	View Ballot	Jaryll James R. JuntadoⒸ , Justine Sio , Marriel Alagano	Can you tell that this round was about money?
+HG D- Where is season two of crash 	4th	Closing Opposition	View Ballot	Jaryll James R. JuntadoⒸ , Justine Sio , Marriel Alagano	Can you tell that this round was about money?
+UST SHS - hello kiffy	2nd	Closing Government	View Ballot	Jaryll James R. JuntadoⒸ , Justine Sio , Marriel Alagano	Can you tell that this round was about money?
+The Reasonance	3rd	Opening Opposition	View Ballot	Jaryll James R. JuntadoⒸ , Justine Sio , Marriel Alagano	Can you tell that this round was about money?
+idh an idea for our team name	4th	Closing Opposition	View Ballot	Jill AycardoⒸ	Can you tell that this round was about money?
+Sigbin-ayot	2nd	Opening Opposition	View Ballot	Jill AycardoⒸ	Can you tell that this round was about money?
+we miss you nina tan	3rd	Opening Government	View Ballot	Jill AycardoⒸ	Can you tell that this round was about money?
+What country is this?	1st	Closing Government	View Ballot	Jill AycardoⒸ	Can you tell that this round was about money?
+
+
+team	result	side	ballot	adjudicators	motion
+makichezmis k nlng!	2nd	Closing Opposition	View Ballot	ZH MasudⒸ , Alren Libre , Dylan	What do you do successfully? Quickly. ERSSS
+UPLB Comeback (Ulit)	3rd	Closing Government	View Ballot	ZH MasudⒸ , Alren Libre , Dylan	What do you do successfully? Quickly. ERSSS
+we miss you nina tan	1st	Opening Opposition	View Ballot	ZH MasudⒸ , Alren Libre , Dylan	What do you do successfully? Quickly. ERSSS
+RAAAAAAGGGHHHHH	4th	Opening Government	View Ballot	ZH MasudⒸ , Alren Libre , Dylan	What do you do successfully? Quickly. ERSSS
+FEU AC	4th	Opening Opposition	View Ballot	Justine SioⒸ , Ethan James A. Alvarez	What do you do successfully? Quickly. ERSSS
+Big Boys	3rd	Closing Opposition	View Ballot	Justine SioⒸ , Ethan James A. Alvarez	What do you do successfully? Quickly. ERSSS
+UPLB Origami	1st	Closing Government	View Ballot	Justine SioⒸ , Ethan James A. Alvarez	What do you do successfully? Quickly. ERSSS
+9PAX	2nd	Opening Government	View Ballot	Justine SioⒸ , Ethan James A. Alvarez	What do you do successfully? Quickly. ERSSS
+Chreona	2nd	Opening Opposition	View Ballot	Sarah GatmenⒸ	What do you do successfully? Quickly. ERSSS
+UST SHS - Debater Rizzlers	4th	Closing Government	View Ballot	Sarah GatmenⒸ	What do you do successfully? Quickly. ERSSS
+Tia &amp; Tamera	3rd	Closing Opposition	View Ballot	Sarah GatmenⒸ	What do you do successfully? Quickly. ERSSS
+chronically online sadboy ateneans	1st	Opening Government	View Ballot	Sarah GatmenⒸ	What do you do successfully? Quickly. ERSSS
+GNHSBREAKINGNOTFREE3700	3rd	Opening Opposition	View Ballot	Gelai LopezⒸ , Jan Krizzia	What do you do successfully? Quickly. ERSSS
+UST SHS Barbie 💖🎀	2nd	Closing Opposition	View Ballot	Gelai LopezⒸ , Jan Krizzia	What do you do successfully? Quickly. ERSSS
+USJR - Jangari and Elizabeth	4th	Opening Government	View Ballot	Gelai LopezⒸ , Jan Krizzia	What do you do successfully? Quickly. ERSSS
+PSHS-MC - 3valdo	1st	Closing Government	View Ballot	Gelai LopezⒸ , Jan Krizzia	What do you do successfully? Quickly. ERSSS
+&quot;I swear, I&#x27;m sweating like a sinne	2nd	Closing Government	View Ballot	Dohyun Daniel KimⒸ , Dhanyeta Devi Kumar	What do you do successfully? Quickly. ERSSS
+FEU CV	4th	Opening Government	View Ballot	Dohyun Daniel KimⒸ , Dhanyeta Devi Kumar	What do you do successfully? Quickly. ERSSS
+ADS 6	3rd	Opening Opposition	View Ballot	Dohyun Daniel KimⒸ , Dhanyeta Devi Kumar	What do you do successfully? Quickly. ERSSS
+UPLB Homiesexuals	1st	Closing Opposition	View Ballot	Dohyun Daniel KimⒸ , Dhanyeta Devi Kumar	What do you do successfully? Quickly. ERSSS
+NJC 1	3rd	Opening Government	View Ballot	Rubaiyat SamadⒸ , Clofaye Abad	What do you do successfully? Quickly. ERSSS
+IEntarmed	1st	Opening Opposition	View Ballot	Rubaiyat SamadⒸ , Clofaye Abad	What do you do successfully? Quickly. ERSSS
+ADMU SHS I	4th	Closing Government	View Ballot	Rubaiyat SamadⒸ , Clofaye Abad	What do you do successfully? Quickly. ERSSS
+we ball	2nd	Closing Opposition	View Ballot	Rubaiyat SamadⒸ , Clofaye Abad	What do you do successfully? Quickly. ERSSS
+idh an idea for our team name	3rd	Opening Government	View Ballot	Vu Lan NghiⒸ , Kate Guinocor	What do you do successfully? Quickly. ERSSS
+Ikim	1st	Opening Opposition	View Ballot	Vu Lan NghiⒸ , Kate Guinocor	What do you do successfully? Quickly. ERSSS
+MSUM JR - Cuties	2nd	Closing Opposition	View Ballot	Vu Lan NghiⒸ , Kate Guinocor	What do you do successfully? Quickly. ERSSS
+UGM A	4th	Closing Government	View Ballot	Vu Lan NghiⒸ , Kate Guinocor	What do you do successfully? Quickly. ERSSS
+Give us a break	1st	Opening Opposition	View Ballot	JackⒸ , Magi Fernandez	What do you do successfully? Quickly. ERSSS
+Diwata beef pares	3rd	Closing Government	View Ballot	JackⒸ , Magi Fernandez	What do you do successfully? Quickly. ERSSS
+UC Ampersand	4th	Opening Government	View Ballot	JackⒸ , Magi Fernandez	What do you do successfully? Quickly. ERSSS
+PSHS-MC r1valdo	2nd	Closing Opposition	View Ballot	JackⒸ , Magi Fernandez	What do you do successfully? Quickly. ERSSS
+BACklash Arguers	2nd	Closing Government	View Ballot	Matthew TinamisanⒸ , Julia	What do you do successfully? Quickly. ERSSS
+Hard Carrots	4th	Opening Government	View Ballot	Matthew TinamisanⒸ , Julia	What do you do successfully? Quickly. ERSSS
+we&#x27;re cooked	3rd	Opening Opposition	View Ballot	Matthew TinamisanⒸ , Julia	What do you do successfully? Quickly. ERSSS
+If the series ∞ ∑ n=1 an is converg	1st	Closing Opposition	View Ballot	Matthew TinamisanⒸ , Julia	What do you do successfully? Quickly. ERSSS
+i&#x27;ve loved you ever since i&#x27;ve know	2nd	Closing Government	View Ballot	Tivlumun AlexanderⒸ , Adjudicator 1	What do you do successfully? Quickly. ERSSS
+the 30th gc	1st	Opening Opposition	View Ballot	Tivlumun AlexanderⒸ , Adjudicator 1	What do you do successfully? Quickly. ERSSS
+Suki sa Siomai	3rd	Opening Government	View Ballot	Tivlumun AlexanderⒸ , Adjudicator 1	What do you do successfully? Quickly. ERSSS
+cloner babies	4th	Closing Opposition	View Ballot	Tivlumun AlexanderⒸ , Adjudicator 1	What do you do successfully? Quickly. ERSSS
+this team is 1/2 straight	3rd	Opening Government	View Ballot	YvetteⒸ , Redacted	What do you do successfully? Quickly. ERSSS
+BACk-up teamate utilized	2nd	Opening Opposition	View Ballot	YvetteⒸ , Redacted	What do you do successfully? Quickly. ERSSS
+UST SHS mizkonasha	4th	Closing Opposition	View Ballot	YvetteⒸ , Redacted	What do you do successfully? Quickly. ERSSS
+Loutang and Sabrina Manggagawa	1st	Closing Government	View Ballot	YvetteⒸ , Redacted	What do you do successfully? Quickly. ERSSS
+Dan and Hanna with only 1 H	2nd	Opening Opposition	View Ballot	PolⒸ , Keziah Mores	What do you do successfully? Quickly. ERSSS
+PHDS masakit ang kamay natin	4th	Opening Government	View Ballot	PolⒸ , Keziah Mores	What do you do successfully? Quickly. ERSSS
+UST SHS - hello kiffy	3rd	Closing Opposition	View Ballot	PolⒸ , Keziah Mores	What do you do successfully? Quickly. ERSSS
+Angry Bhies	1st	Closing Government	View Ballot	PolⒸ , Keziah Mores	What do you do successfully? Quickly. ERSSS
+Mamma mia, here I go again	4th	Opening Government	View Ballot	Cedric Cortez Jr.Ⓒ , Santino Varela	What do you do successfully? Quickly. ERSSS
+SBDC - It&#x27;s DEBILOG, not Debsoc!!!	3rd	Closing Opposition	View Ballot	Cedric Cortez Jr.Ⓒ , Santino Varela	What do you do successfully? Quickly. ERSSS
+Swipe Right to Krish Vikram on Bumb	2nd	Closing Government	View Ballot	Cedric Cortez Jr.Ⓒ , Santino Varela	What do you do successfully? Quickly. ERSSS
+Logicus	1st	Opening Opposition	View Ballot	Cedric Cortez Jr.Ⓒ , Santino Varela	What do you do successfully? Quickly. ERSSS
+ADS 3	2nd	Opening Opposition	View Ballot	ReymundⒸ , Daniella	What do you do successfully? Quickly. ERSSS
+Time to Break Today	1st	Closing Opposition	View Ballot	ReymundⒸ , Daniella	What do you do successfully? Quickly. ERSSS
+ADS 5	3rd	Closing Government	View Ballot	ReymundⒸ , Daniella	What do you do successfully? Quickly. ERSSS
+NJC 2	4th	Opening Government	View Ballot	ReymundⒸ , Daniella	What do you do successfully? Quickly. ERSSS
+ADS 2	3rd	Opening Opposition	View Ballot	Joaquin PorciunculaⒸ , Ritch Martel	What do you do successfully? Quickly. ERSSS
+mga novice po kami pls be nice	1st	Closing Government	View Ballot	Joaquin PorciunculaⒸ , Ritch Martel	What do you do successfully? Quickly. ERSSS
+Vicer	4th	Closing Opposition	View Ballot	Joaquin PorciunculaⒸ , Ritch Martel	What do you do successfully? Quickly. ERSSS
+𐙚 cousins by vibe ༄｡°	2nd	Opening Government	View Ballot	Joaquin PorciunculaⒸ , Ritch Martel	What do you do successfully? Quickly. ERSSS
+AdDU SH	2nd	Opening Government	View Ballot	Castiel AngelwingⒸ , Julien Vargas	What do you do successfully? Quickly. ERSSS
+UST SHS - yumanisiz	4th	Closing Government	View Ballot	Castiel AngelwingⒸ , Julien Vargas	What do you do successfully? Quickly. ERSSS
+UGM B	3rd	Opening Opposition	View Ballot	Castiel AngelwingⒸ , Julien Vargas	What do you do successfully? Quickly. ERSSS
+Princess and the frog	1st	Closing Opposition	View Ballot	Castiel AngelwingⒸ , Julien Vargas	What do you do successfully? Quickly. ERSSS
+ms. moba co	3rd	Closing Government	View Ballot	Therese GenotaⒸ , Michel Andre D. Macahilo	What do you do successfully? Quickly. ERSSS
+The Reasonance	4th	Closing Opposition	View Ballot	Therese GenotaⒸ , Michel Andre D. Macahilo	What do you do successfully? Quickly. ERSSS
+USJR LL	1st	Opening Opposition	View Ballot	Therese GenotaⒸ , Michel Andre D. Macahilo	What do you do successfully? Quickly. ERSSS
+PSHS-MC - 4valdo	2nd	Opening Government	View Ballot	Therese GenotaⒸ , Michel Andre D. Macahilo	What do you do successfully? Quickly. ERSSS
+healing by trauma bonding	4th	Closing Government	View Ballot	KuganⒸ , Karol Oraiz , Rayhanah Andi	What do you do successfully? Quickly. ERSSS
+UTM UTM, What is this Behaviour?	3rd	Opening Government	View Ballot	KuganⒸ , Karol Oraiz , Rayhanah Andi	What do you do successfully? Quickly. ERSSS
+2v2 na lang sa math👊😡 (napilde)	2nd	Opening Opposition	View Ballot	KuganⒸ , Karol Oraiz , Rayhanah Andi	What do you do successfully? Quickly. ERSSS
+ambot sa imong lubot	1st	Closing Opposition	View Ballot	KuganⒸ , Karol Oraiz , Rayhanah Andi	What do you do successfully? Quickly. ERSSS
+mercy’s kitten from the (previously	1st	Opening Opposition	View Ballot	Miro FortunaⒸ , Abubacar Ismael S. Punag , Franco Kasilag	What do you do successfully? Quickly. ERSSS
+In 882, Rurik&#x27;s successor, Prince O	4th	Opening Government	View Ballot	Miro FortunaⒸ , Abubacar Ismael S. Punag , Franco Kasilag	What do you do successfully? Quickly. ERSSS
+Artillery Only	2nd	Closing Government	View Ballot	Miro FortunaⒸ , Abubacar Ismael S. Punag , Franco Kasilag	What do you do successfully? Quickly. ERSSS
+UPCravings are lambing	3rd	Closing Opposition	View Ballot	Miro FortunaⒸ , Abubacar Ismael S. Punag , Franco Kasilag	What do you do successfully? Quickly. ERSSS
+Swing A	1st	Closing Government	View Ballot	Joyce AngelesⒸ	What do you do successfully? Quickly. ERSSS
+GNHSINDIGENIOUSAURUS	4th	Opening Government	View Ballot	Joyce AngelesⒸ	What do you do successfully? Quickly. ERSSS
+delicious pechay	3rd	Closing Opposition	View Ballot	Joyce AngelesⒸ	What do you do successfully? Quickly. ERSSS
+NJC 3	2nd	Opening Opposition	View Ballot	Joyce AngelesⒸ	What do you do successfully? Quickly. ERSSS
+UGM C	4th	Closing Opposition	View Ballot	Abdul WassayⒸ , Precious Gem Anilao , Tomtom	What do you do successfully? Quickly. ERSSS
+duon ka sa far away	2nd	Opening Opposition	View Ballot	Abdul WassayⒸ , Precious Gem Anilao , Tomtom	What do you do successfully? Quickly. ERSSS
+We like a long hard odin 🔫	3rd	Opening Government	View Ballot	Abdul WassayⒸ , Precious Gem Anilao , Tomtom	What do you do successfully? Quickly. ERSSS
+Crazy? I Was Crazy Once. They Locke	1st	Closing Government	View Ballot	Abdul WassayⒸ , Precious Gem Anilao , Tomtom	What do you do successfully? Quickly. ERSSS
+Analyn Muko	4th	Closing Opposition	View Ballot	Imran IlmamⒸ , Eman , Raine A. Tulio	What do you do successfully? Quickly. ERSSS
+paper is not nerfing us anymore	1st	Closing Government	View Ballot	Imran IlmamⒸ , Eman , Raine A. Tulio	What do you do successfully? Quickly. ERSSS
+Join Maynila Asian Parliamentary	3rd	Opening Government	View Ballot	Imran IlmamⒸ , Eman , Raine A. Tulio	What do you do successfully? Quickly. ERSSS
+hev abi ft. arhon	2nd	Opening Opposition	View Ballot	Imran IlmamⒸ , Eman , Raine A. Tulio	What do you do successfully? Quickly. ERSSS
+pls be kind, true novice	3rd	Opening Government	View Ballot	Hugh MejosⒸ , Cristine Joy Llandones , Girele C. Tovera	What do you do successfully? Quickly. ERSSS
+huwag kang mang judge ng isang tao 	1st	Closing Government	View Ballot	Hugh MejosⒸ , Cristine Joy Llandones , Girele C. Tovera	What do you do successfully? Quickly. ERSSS
+What country is this?	4th	Closing Opposition	View Ballot	Hugh MejosⒸ , Cristine Joy Llandones , Girele C. Tovera	What do you do successfully? Quickly. ERSSS
+UPCalma	2nd	Opening Opposition	View Ballot	Hugh MejosⒸ , Cristine Joy Llandones , Girele C. Tovera	What do you do successfully? Quickly. ERSSS
+FEU GG	4th	Opening Opposition	View Ballot	Fiona ZarateⒸ , Zyneth Jade J. Dimen	What do you do successfully? Quickly. ERSSS
+Sigbin-ayot	3rd	Closing Government	View Ballot	Fiona ZarateⒸ , Zyneth Jade J. Dimen	What do you do successfully? Quickly. ERSSS
+NJC 4	2nd	Opening Government	View Ballot	Fiona ZarateⒸ , Zyneth Jade J. Dimen	What do you do successfully? Quickly. ERSSS
+national chokers	1st	Closing Opposition	View Ballot	Fiona ZarateⒸ , Zyneth Jade J. Dimen	What do you do successfully? Quickly. ERSSS
+IJBOL	2nd	Opening Opposition	View Ballot	Yael InventorⒸ , Emmanuel Boakye , Sittie Rahma AlawiⓉ	What do you do successfully? Quickly. ERSSS
+San Marino Debate Organization	3rd	Opening Government	View Ballot	Yael InventorⒸ , Emmanuel Boakye , Sittie Rahma AlawiⓉ	What do you do successfully? Quickly. ERSSS
+XU - AJ	4th	Closing Opposition	View Ballot	Yael InventorⒸ , Emmanuel Boakye , Sittie Rahma AlawiⓉ	What do you do successfully? Quickly. ERSSS
+Potato Farm	1st	Closing Government	View Ballot	Yael InventorⒸ , Emmanuel Boakye , Sittie Rahma AlawiⓉ	What do you do successfully? Quickly. ERSSS
+damz that’s crazy bro	3rd	Opening Opposition	View Ballot	Kent Russell D. BalmesⒸ , Athena Matin-aw , Yusop, Ben-Zha&#x27;ad H.	What do you do successfully? Quickly. ERSSS
+AGS (5-Bagobo)	2nd	Closing Government	View Ballot	Kent Russell D. BalmesⒸ , Athena Matin-aw , Yusop, Ben-Zha&#x27;ad H.	What do you do successfully? Quickly. ERSSS
+BAD by Denise Julia (paid producers	4th	Opening Government	View Ballot	Kent Russell D. BalmesⒸ , Athena Matin-aw , Yusop, Ben-Zha&#x27;ad H.	What do you do successfully? Quickly. ERSSS
+We&#x27;re both first speakers	1st	Closing Opposition	View Ballot	Kent Russell D. BalmesⒸ , Athena Matin-aw , Yusop, Ben-Zha&#x27;ad H.	What do you do successfully? Quickly. ERSSS
+avoidant father at oa daughter	1st	Closing Government	View Ballot	YaneeⒸ , Marchell Bhea Murphy	What do you do successfully? Quickly. ERSSS
+Eddie sab-ihin mo sa mama mo pakyu	4th	Opening Opposition	View Ballot	YaneeⒸ , Marchell Bhea Murphy	What do you do successfully? Quickly. ERSSS
+FEU CS	2nd	Closing Opposition	View Ballot	YaneeⒸ , Marchell Bhea Murphy	What do you do successfully? Quickly. ERSSS
+UPLB im okay im fine gwenchana gwen	3rd	Opening Government	View Ballot	YaneeⒸ , Marchell Bhea Murphy	What do you do successfully? Quickly. ERSSS
+adnu red flags	1st	Closing Government	View Ballot	Oarben BalicocoⒸ	What do you do successfully? Quickly. ERSSS
+HG B	4th	Opening Government	View Ballot	Oarben BalicocoⒸ	What do you do successfully? Quickly. ERSSS
+HG C	2nd	Opening Opposition	View Ballot	Oarben BalicocoⒸ	What do you do successfully? Quickly. ERSSS
+UST SHS - K4ya k4ng 1P4gL4b9n	3rd	Closing Opposition	View Ballot	Oarben BalicocoⒸ	What do you do successfully? Quickly. ERSSS
+supercalifragilisticexpialidocious	3rd	Opening Government	View Ballot	Jaryll James R. JuntadoⒸ , Shalimar Basman	What do you do successfully? Quickly. ERSSS
+Team Boracay	4th	Closing Government	View Ballot	Jaryll James R. JuntadoⒸ , Shalimar Basman	What do you do successfully? Quickly. ERSSS
+problems sa imong trolley	2nd	Opening Opposition	View Ballot	Jaryll James R. JuntadoⒸ , Shalimar Basman	What do you do successfully? Quickly. ERSSS
+PSHS-MC - rival2o	1st	Closing Opposition	View Ballot	Jaryll James R. JuntadoⒸ , Shalimar Basman	What do you do successfully? Quickly. ERSSS
+XU JA	3rd	Opening Government	View Ballot	Joaquin Portugal MacapinlacⒸ , Axcel France Eco , Chandrika Kumaratungga	What do you do successfully? Quickly. ERSSS
+ADS  1	4th	Closing Government	View Ballot	Joaquin Portugal MacapinlacⒸ , Axcel France Eco , Chandrika Kumaratungga	What do you do successfully? Quickly. ERSSS
+I don&#x27;t have a sugar daddy, I&#x27;ve ne	2nd	Closing Opposition	View Ballot	Joaquin Portugal MacapinlacⒸ , Axcel France Eco , Chandrika Kumaratungga	What do you do successfully? Quickly. ERSSS
+Debate gave us Streptococcus pyogen	1st	Opening Opposition	View Ballot	Joaquin Portugal MacapinlacⒸ , Axcel France Eco , Chandrika Kumaratungga	What do you do successfully? Quickly. ERSSS
+Lunatics	4th	Closing Opposition	View Ballot	Angelic AlivioⒸ , Marriel Alagano	What do you do successfully? Quickly. ERSSS
+HG F	3rd	Opening Opposition	View Ballot	Angelic AlivioⒸ , Marriel Alagano	What do you do successfully? Quickly. ERSSS
+bobo mindset	2nd	Closing Government	View Ballot	Angelic AlivioⒸ , Marriel Alagano	What do you do successfully? Quickly. ERSSS
+The Masked Debaters	1st	Opening Government	View Ballot	Angelic AlivioⒸ , Marriel Alagano	What do you do successfully? Quickly. ERSSS
+GNHSICONICUS	4th	Closing Opposition	View Ballot	Kyle RamosⒸ , Kate Roderos	What do you do successfully? Quickly. ERSSS
+HG D- Where is season two of crash 	3rd	Opening Opposition	View Ballot	Kyle RamosⒸ , Kate Roderos	What do you do successfully? Quickly. ERSSS
+UST SHS - Strawberry Matcha	2nd	Opening Government	View Ballot	Kyle RamosⒸ , Kate Roderos	What do you do successfully? Quickly. ERSSS
+UST SHS - Oh Baby Kalma	1st	Closing Government	View Ballot	Kyle RamosⒸ , Kate Roderos	What do you do successfully? Quickly. ERSSS
+Swing B	3rd	Closing Opposition	View Ballot	Yakov ApuraⒸ , Dylan Federico Bonoan	What do you do successfully? Quickly. ERSSS
+Ah-hngk-mmnn...! /////	2nd	Closing Government	View Ballot	Yakov ApuraⒸ , Dylan Federico Bonoan	What do you do successfully? Quickly. ERSSS
+FEU CM	4th	Opening Government	View Ballot	Yakov ApuraⒸ , Dylan Federico Bonoan	What do you do successfully? Quickly. ERSSS
+HG A	1st	Opening Opposition	View Ballot	Yakov ApuraⒸ , Dylan Federico Bonoan	What do you do successfully? Quickly. ERSSS
+ADS 4	4th	Closing Government	View Ballot	Dylan SalcedoⒸ , Huezen Kroy	What do you do successfully? Quickly. ERSSS
+aspiring college dropouts	1st	Opening Government	View Ballot	Dylan SalcedoⒸ , Huezen Kroy	What do you do successfully? Quickly. ERSSS
+Pineapple Pizza	3rd	Opening Opposition	View Ballot	Dylan SalcedoⒸ , Huezen Kroy	What do you do successfully? Quickly. ERSSS
+PSHS-MC - riValdo	2nd	Closing Opposition	View Ballot	Dylan SalcedoⒸ , Huezen Kroy	What do you do successfully? Quickly. ERSSS
+
+
+team	result	side	ballot	adjudicators	motion
+ADS 2	4th	Opening Government	View Ballot	DaniellaⒸ , Shalimar Basman	2 hydrogen isotopes walk into a bar. the rest is history.
+FEU CM	2nd	Closing Government	View Ballot	DaniellaⒸ , Shalimar Basman	2 hydrogen isotopes walk into a bar. the rest is history.
+cloner babies	3rd	Opening Opposition	View Ballot	DaniellaⒸ , Shalimar Basman	2 hydrogen isotopes walk into a bar. the rest is history.
+Hard Carrots	1st	Closing Opposition	View Ballot	DaniellaⒸ , Shalimar Basman	2 hydrogen isotopes walk into a bar. the rest is history.
+Dan and Hanna with only 1 H	2nd	Closing Opposition	View Ballot	Castiel AngelwingⒸ , Miro Fortuna	2 hydrogen isotopes walk into a bar. the rest is history.
+Swipe Right to Krish Vikram on Bumb	1st	Opening Opposition	View Ballot	Castiel AngelwingⒸ , Miro Fortuna	2 hydrogen isotopes walk into a bar. the rest is history.
+UST SHS Barbie 💖🎀	4th	Closing Government	View Ballot	Castiel AngelwingⒸ , Miro Fortuna	2 hydrogen isotopes walk into a bar. the rest is history.
+𐙚 cousins by vibe ༄｡°	3rd	Opening Government	View Ballot	Castiel AngelwingⒸ , Miro Fortuna	2 hydrogen isotopes walk into a bar. the rest is history.
+idh an idea for our team name	2nd	Opening Opposition	View Ballot	Yael InventorⒸ , Alren Libre	2 hydrogen isotopes walk into a bar. the rest is history.
+Swing B	3rd	Closing Opposition	View Ballot	Yael InventorⒸ , Alren Libre	2 hydrogen isotopes walk into a bar. the rest is history.
+BACk-up teamate utilized	1st	Closing Government	View Ballot	Yael InventorⒸ , Alren Libre	2 hydrogen isotopes walk into a bar. the rest is history.
+ADS 6	4th	Opening Government	View Ballot	Yael InventorⒸ , Alren Libre	2 hydrogen isotopes walk into a bar. the rest is history.
+Eddie sab-ihin mo sa mama mo pakyu	1st	Closing Opposition	View Ballot	Joyce AngelesⒸ , Redacted	2 hydrogen isotopes walk into a bar. the rest is history.
+i&#x27;ve loved you ever since i&#x27;ve know	3rd	Opening Government	View Ballot	Joyce AngelesⒸ , Redacted	2 hydrogen isotopes walk into a bar. the rest is history.
+XU JA	4th	Opening Opposition	View Ballot	Joyce AngelesⒸ , Redacted	2 hydrogen isotopes walk into a bar. the rest is history.
+PSHS-MC r1valdo	2nd	Closing Government	View Ballot	Joyce AngelesⒸ , Redacted	2 hydrogen isotopes walk into a bar. the rest is history.
+Logicus	3rd	Closing Opposition	View Ballot	Raine Sheirlaine PrietoⒸ , Kugan	2 hydrogen isotopes walk into a bar. the rest is history.
+We like a long hard odin 🔫	1st	Closing Government	View Ballot	Raine Sheirlaine PrietoⒸ , Kugan	2 hydrogen isotopes walk into a bar. the rest is history.
+we ball	2nd	Opening Government	View Ballot	Raine Sheirlaine PrietoⒸ , Kugan	2 hydrogen isotopes walk into a bar. the rest is history.
+PSHS-MC - 3valdo	4th	Opening Opposition	View Ballot	Raine Sheirlaine PrietoⒸ , Kugan	2 hydrogen isotopes walk into a bar. the rest is history.
+FEU CV	1st	Closing Opposition	View Ballot	Dylan Federico BonoanⒸ , Karol Oraiz	2 hydrogen isotopes walk into a bar. the rest is history.
+UST SHS - hello kiffy	3rd	Opening Opposition	View Ballot	Dylan Federico BonoanⒸ , Karol Oraiz	2 hydrogen isotopes walk into a bar. the rest is history.
+bobo mindset	4th	Opening Government	View Ballot	Dylan Federico BonoanⒸ , Karol Oraiz	2 hydrogen isotopes walk into a bar. the rest is history.
+problems sa imong trolley	2nd	Closing Government	View Ballot	Dylan Federico BonoanⒸ , Karol Oraiz	2 hydrogen isotopes walk into a bar. the rest is history.
+HG C	3rd	Opening Government	View Ballot	Abdul WassayⒸ , Zyneth Jade J. Dimen	2 hydrogen isotopes walk into a bar. the rest is history.
+UGM B	2nd	Closing Opposition	View Ballot	Abdul WassayⒸ , Zyneth Jade J. Dimen	2 hydrogen isotopes walk into a bar. the rest is history.
+aspiring college dropouts	1st	Opening Opposition	View Ballot	Abdul WassayⒸ , Zyneth Jade J. Dimen	2 hydrogen isotopes walk into a bar. the rest is history.
+PSHS-MC - rival2o	4th	Closing Government	View Ballot	Abdul WassayⒸ , Zyneth Jade J. Dimen	2 hydrogen isotopes walk into a bar. the rest is history.
+FEU AC	1st	Closing Opposition	View Ballot	Santino VarelaⒸ , Franco Kasilag	2 hydrogen isotopes walk into a bar. the rest is history.
+USJR LL	4th	Closing Government	View Ballot	Santino VarelaⒸ , Franco Kasilag	2 hydrogen isotopes walk into a bar. the rest is history.
+Suki sa Siomai	2nd	Opening Opposition	View Ballot	Santino VarelaⒸ , Franco Kasilag	2 hydrogen isotopes walk into a bar. the rest is history.
+Analyn Muko	3rd	Opening Government	View Ballot	Santino VarelaⒸ , Franco Kasilag	2 hydrogen isotopes walk into a bar. the rest is history.
+BACklash Arguers	1st	Opening Government	View Ballot	ZH MasudⒸ , Clofaye Abad	2 hydrogen isotopes walk into a bar. the rest is history.
+In 882, Rurik&#x27;s successor, Prince O	2nd	Closing Government	View Ballot	ZH MasudⒸ , Clofaye Abad	2 hydrogen isotopes walk into a bar. the rest is history.
+Angry Bhies	3rd	Closing Opposition	View Ballot	ZH MasudⒸ , Clofaye Abad	2 hydrogen isotopes walk into a bar. the rest is history.
+XU - AJ	4th	Opening Opposition	View Ballot	ZH MasudⒸ , Clofaye Abad	2 hydrogen isotopes walk into a bar. the rest is history.
+AdDU SH	4th	Closing Government	View Ballot	Marriel AlaganoⒸ , Yvette	2 hydrogen isotopes walk into a bar. the rest is history.
+mga novice po kami pls be nice	2nd	Opening Opposition	View Ballot	Marriel AlaganoⒸ , Yvette	2 hydrogen isotopes walk into a bar. the rest is history.
+Tia &amp; Tamera	3rd	Opening Government	View Ballot	Marriel AlaganoⒸ , Yvette	2 hydrogen isotopes walk into a bar. the rest is history.
+Loutang and Sabrina Manggagawa	1st	Closing Opposition	View Ballot	Marriel AlaganoⒸ , Yvette	2 hydrogen isotopes walk into a bar. the rest is history.
+Ah-hngk-mmnn...! /////	3rd	Closing Opposition	View Ballot	Xandy ArmamentoⒸ , Dylan Salcedo	2 hydrogen isotopes walk into a bar. the rest is history.
+MSUM JR - Cuties	4th	Closing Government	View Ballot	Xandy ArmamentoⒸ , Dylan Salcedo	2 hydrogen isotopes walk into a bar. the rest is history.
+UPLB Comeback (Ulit)	1st	Opening Government	View Ballot	Xandy ArmamentoⒸ , Dylan Salcedo	2 hydrogen isotopes walk into a bar. the rest is history.
+UPCravings are lambing	2nd	Opening Opposition	View Ballot	Xandy ArmamentoⒸ , Dylan Salcedo	2 hydrogen isotopes walk into a bar. the rest is history.
+Give us a break	4th	Opening Opposition	View Ballot	Kyle RamosⒸ , Vu Lan Nghi	2 hydrogen isotopes walk into a bar. the rest is history.
+San Marino Debate Organization	3rd	Closing Government	View Ballot	Kyle RamosⒸ , Vu Lan Nghi	2 hydrogen isotopes walk into a bar. the rest is history.
+UPLB im okay im fine gwenchana gwen	2nd	Closing Opposition	View Ballot	Kyle RamosⒸ , Vu Lan Nghi	2 hydrogen isotopes walk into a bar. the rest is history.
+I don&#x27;t have a sugar daddy, I&#x27;ve ne	1st	Opening Government	View Ballot	Kyle RamosⒸ , Vu Lan Nghi	2 hydrogen isotopes walk into a bar. the rest is history.
+adnu red flags	4th	Closing Opposition	View Ballot	Allain ChristopherⒸ , Rubaiyat Samad	2 hydrogen isotopes walk into a bar. the rest is history.
+Ikim	3rd	Opening Government	View Ballot	Allain ChristopherⒸ , Rubaiyat Samad	2 hydrogen isotopes walk into a bar. the rest is history.
+Princess and the frog	2nd	Closing Government	View Ballot	Allain ChristopherⒸ , Rubaiyat Samad	2 hydrogen isotopes walk into a bar. the rest is history.
+What country is this?	1st	Opening Opposition	View Ballot	Allain ChristopherⒸ , Rubaiyat Samad	2 hydrogen isotopes walk into a bar. the rest is history.
+healing by trauma bonding	1st	Closing Opposition	View Ballot	Jaryll James R. JuntadoⒸ , Jan Krizzia	2 hydrogen isotopes walk into a bar. the rest is history.
+damz that’s crazy bro	4th	Opening Government	View Ballot	Jaryll James R. JuntadoⒸ , Jan Krizzia	2 hydrogen isotopes walk into a bar. the rest is history.
+the 30th gc	3rd	Closing Government	View Ballot	Jaryll James R. JuntadoⒸ , Jan Krizzia	2 hydrogen isotopes walk into a bar. the rest is history.
+If the series ∞ ∑ n=1 an is converg	2nd	Opening Opposition	View Ballot	Jaryll James R. JuntadoⒸ , Jan Krizzia	2 hydrogen isotopes walk into a bar. the rest is history.
+Sigbin-ayot	2nd	Opening Government	View Ballot	Imran IlmamⒸ , Matthew Tinamisan	2 hydrogen isotopes walk into a bar. the rest is history.
+9PAX	1st	Opening Opposition	View Ballot	Imran IlmamⒸ , Matthew Tinamisan	2 hydrogen isotopes walk into a bar. the rest is history.
+BAD by Denise Julia (paid producers	4th	Closing Opposition	View Ballot	Imran IlmamⒸ , Matthew Tinamisan	2 hydrogen isotopes walk into a bar. the rest is history.
+hev abi ft. arhon	3rd	Closing Government	View Ballot	Imran IlmamⒸ , Matthew Tinamisan	2 hydrogen isotopes walk into a bar. the rest is history.
+this team is 1/2 straight	2nd	Opening Opposition	View Ballot	Magi FernandezⒸ , Yanee	2 hydrogen isotopes walk into a bar. the rest is history.
+UST SHS - Oh Baby Kalma	4th	Closing Opposition	View Ballot	Magi FernandezⒸ , Yanee	2 hydrogen isotopes walk into a bar. the rest is history.
+UGM C	1st	Opening Government	View Ballot	Magi FernandezⒸ , Yanee	2 hydrogen isotopes walk into a bar. the rest is history.
+PSHS-MC - 4valdo	3rd	Closing Government	View Ballot	Magi FernandezⒸ , Yanee	2 hydrogen isotopes walk into a bar. the rest is history.
+Swing A	2nd	Opening Government	View Ballot	Angelic AlivioⒸ , Eman	2 hydrogen isotopes walk into a bar. the rest is history.
+UC Ampersand	1st	Closing Government	View Ballot	Angelic AlivioⒸ , Eman	2 hydrogen isotopes walk into a bar. the rest is history.
+Pineapple Pizza	3rd	Closing Opposition	View Ballot	Angelic AlivioⒸ , Eman	2 hydrogen isotopes walk into a bar. the rest is history.
+ADMU SHS I	4th	Opening Opposition	View Ballot	Angelic AlivioⒸ , Eman	2 hydrogen isotopes walk into a bar. the rest is history.
+Chreona	4th	Closing Opposition	View Ballot	Sarah GatmenⒸ , Athena Matin-aw	2 hydrogen isotopes walk into a bar. the rest is history.
+FEU CS	2nd	Opening Government	View Ballot	Sarah GatmenⒸ , Athena Matin-aw	2 hydrogen isotopes walk into a bar. the rest is history.
+we miss you nina tan	3rd	Closing Government	View Ballot	Sarah GatmenⒸ , Athena Matin-aw	2 hydrogen isotopes walk into a bar. the rest is history.
+Artillery Only	1st	Opening Opposition	View Ballot	Sarah GatmenⒸ , Athena Matin-aw	2 hydrogen isotopes walk into a bar. the rest is history.
+UPLB Origami	2nd	Closing Opposition	View Ballot	ReymundⒸ	2 hydrogen isotopes walk into a bar. the rest is history.
+Potato Farm	3rd	Opening Opposition	View Ballot	ReymundⒸ	2 hydrogen isotopes walk into a bar. the rest is history.
+2v2 na lang sa math👊😡 (napilde)	4th	Closing Government	View Ballot	ReymundⒸ	2 hydrogen isotopes walk into a bar. the rest is history.
+IEntarmed	1st	Opening Government	View Ballot	ReymundⒸ	2 hydrogen isotopes walk into a bar. the rest is history.
+GNHSBREAKINGNOTFREE3700	2nd	Closing Opposition	View Ballot	Joaquin Portugal MacapinlacⒸ , Dhanyeta Devi Kumar , TomtomⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+PHDS masakit ang kamay natin	4th	Closing Government	View Ballot	Joaquin Portugal MacapinlacⒸ , Dhanyeta Devi Kumar , TomtomⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+ADS 5	1st	Opening Opposition	View Ballot	Joaquin Portugal MacapinlacⒸ , Dhanyeta Devi Kumar , TomtomⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+UST SHS mizkonasha	3rd	Opening Government	View Ballot	Joaquin Portugal MacapinlacⒸ , Dhanyeta Devi Kumar , TomtomⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+supercalifragilisticexpialidocious	1st	Closing Opposition	View Ballot	Yusop, Ben-Zha&#x27;ad H.Ⓒ , Abubacar Ismael S. Punag , Kent Russell D. BalmesⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+ms. moba co	4th	Opening Opposition	View Ballot	Yusop, Ben-Zha&#x27;ad H.Ⓒ , Abubacar Ismael S. Punag , Kent Russell D. BalmesⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+UST SHS - Strawberry Matcha	2nd	Closing Government	View Ballot	Yusop, Ben-Zha&#x27;ad H.Ⓒ , Abubacar Ismael S. Punag , Kent Russell D. BalmesⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+Vicer	3rd	Opening Government	View Ballot	Yusop, Ben-Zha&#x27;ad H.Ⓒ , Abubacar Ismael S. Punag , Kent Russell D. BalmesⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+Time to Break Today	4th	Closing Government	View Ballot	Justine SioⒸ , Girele C. Tovera	2 hydrogen isotopes walk into a bar. the rest is history.
+UST SHS - Debater Rizzlers	1st	Opening Government	View Ballot	Justine SioⒸ , Girele C. Tovera	2 hydrogen isotopes walk into a bar. the rest is history.
+UST SHS - yumanisiz	3rd	Closing Opposition	View Ballot	Justine SioⒸ , Girele C. Tovera	2 hydrogen isotopes walk into a bar. the rest is history.
+PSHS-MC - riValdo	2nd	Opening Opposition	View Ballot	Justine SioⒸ , Girele C. Tovera	2 hydrogen isotopes walk into a bar. the rest is history.
+&quot;I swear, I&#x27;m sweating like a sinne	3rd	Closing Opposition	View Ballot	Kate RoderosⒸ , Yakov Apura	2 hydrogen isotopes walk into a bar. the rest is history.
+FEU GG	2nd	Closing Government	View Ballot	Kate RoderosⒸ , Yakov Apura	2 hydrogen isotopes walk into a bar. the rest is history.
+Big Boys	1st	Opening Government	View Ballot	Kate RoderosⒸ , Yakov Apura	2 hydrogen isotopes walk into a bar. the rest is history.
+Join Maynila Asian Parliamentary	4th	Opening Opposition	View Ballot	Kate RoderosⒸ , Yakov Apura	2 hydrogen isotopes walk into a bar. the rest is history.
+makichezmis k nlng!	2nd	Closing Government	View Ballot	Axcel France EcoⒸ , Chandrika Kumaratungga	2 hydrogen isotopes walk into a bar. the rest is history.
+HG A	4th	Opening Government	View Ballot	Axcel France EcoⒸ , Chandrika Kumaratungga	2 hydrogen isotopes walk into a bar. the rest is history.
+UPLB Homiesexuals	1st	Opening Opposition	View Ballot	Axcel France EcoⒸ , Chandrika Kumaratungga	2 hydrogen isotopes walk into a bar. the rest is history.
+NJC 4	3rd	Closing Opposition	View Ballot	Axcel France EcoⒸ , Chandrika Kumaratungga	2 hydrogen isotopes walk into a bar. the rest is history.
+duon ka sa far away	2nd	Closing Opposition	View Ballot	Jill AycardoⒸ , Oarben Balicoco	2 hydrogen isotopes walk into a bar. the rest is history.
+chronically online sadboy ateneans	1st	Closing Government	View Ballot	Jill AycardoⒸ , Oarben Balicoco	2 hydrogen isotopes walk into a bar. the rest is history.
+Crazy? I Was Crazy Once. They Locke	4th	Opening Opposition	View Ballot	Jill AycardoⒸ , Oarben Balicoco	2 hydrogen isotopes walk into a bar. the rest is history.
+Debate gave us Streptococcus pyogen	3rd	Opening Government	View Ballot	Jill AycardoⒸ , Oarben Balicoco	2 hydrogen isotopes walk into a bar. the rest is history.
+ADS 3	3rd	Closing Government	View Ballot	Emmanuel BoakyeⒸ , Fiona Zarate	2 hydrogen isotopes walk into a bar. the rest is history.
+SBDC - It&#x27;s DEBILOG, not Debsoc!!!	1st	Opening Opposition	View Ballot	Emmanuel BoakyeⒸ , Fiona Zarate	2 hydrogen isotopes walk into a bar. the rest is history.
+UST SHS - K4ya k4ng 1P4gL4b9n	4th	Opening Government	View Ballot	Emmanuel BoakyeⒸ , Fiona Zarate	2 hydrogen isotopes walk into a bar. the rest is history.
+UGM A	2nd	Closing Opposition	View Ballot	Emmanuel BoakyeⒸ , Fiona Zarate	2 hydrogen isotopes walk into a bar. the rest is history.
+pls be kind, true novice	4th	Closing Government	View Ballot	James CacholaⒸ , Julia	2 hydrogen isotopes walk into a bar. the rest is history.
+IJBOL	3rd	Opening Government	View Ballot	James CacholaⒸ , Julia	2 hydrogen isotopes walk into a bar. the rest is history.
+UTM UTM, What is this Behaviour?	1st	Opening Opposition	View Ballot	James CacholaⒸ , Julia	2 hydrogen isotopes walk into a bar. the rest is history.
+paper is not nerfing us anymore	2nd	Closing Opposition	View Ballot	James CacholaⒸ , Julia	2 hydrogen isotopes walk into a bar. the rest is history.
+mercy’s kitten from the (previously	4th	Closing Opposition	View Ballot	Cedric Cortez Jr.Ⓒ , Huezen Kroy , Michel Andre D. Macahilo	2 hydrogen isotopes walk into a bar. the rest is history.
+huwag kang mang judge ng isang tao 	1st	Opening Government	View Ballot	Cedric Cortez Jr.Ⓒ , Huezen Kroy , Michel Andre D. Macahilo	2 hydrogen isotopes walk into a bar. the rest is history.
+national chokers	3rd	Closing Government	View Ballot	Cedric Cortez Jr.Ⓒ , Huezen Kroy , Michel Andre D. Macahilo	2 hydrogen isotopes walk into a bar. the rest is history.
+ambot sa imong lubot	2nd	Opening Opposition	View Ballot	Cedric Cortez Jr.Ⓒ , Huezen Kroy , Michel Andre D. Macahilo	2 hydrogen isotopes walk into a bar. the rest is history.
+HG B	1st	Closing Opposition	View Ballot	Precious Gem AnilaoⒸ , Raine A. Tulio , Marchell Bhea MurphyⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+USJR - Jangari and Elizabeth	2nd	Opening Opposition	View Ballot	Precious Gem AnilaoⒸ , Raine A. Tulio , Marchell Bhea MurphyⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+NJC 3	3rd	Closing Government	View Ballot	Precious Gem AnilaoⒸ , Raine A. Tulio , Marchell Bhea MurphyⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+ADS 4	4th	Opening Government	View Ballot	Precious Gem AnilaoⒸ , Raine A. Tulio , Marchell Bhea MurphyⓉ	2 hydrogen isotopes walk into a bar. the rest is history.
+Lunatics	1st	Opening Government	View Ballot	Ethan James A. AlvarezⒸ , Rayhanah Andi	2 hydrogen isotopes walk into a bar. the rest is history.
+HG F	3rd	Closing Government	View Ballot	Ethan James A. AlvarezⒸ , Rayhanah Andi	2 hydrogen isotopes walk into a bar. the rest is history.
+Team Boracay	4th	Closing Opposition	View Ballot	Ethan James A. AlvarezⒸ , Rayhanah Andi	2 hydrogen isotopes walk into a bar. the rest is history.
+delicious pechay	2nd	Opening Opposition	View Ballot	Ethan James A. AlvarezⒸ , Rayhanah Andi	2 hydrogen isotopes walk into a bar. the rest is history.
+GNHSICONICUS	4th	Opening Government	View Ballot	Cristine Joy LlandonesⒸ , Dylan	2 hydrogen isotopes walk into a bar. the rest is history.
+GNHSINDIGENIOUSAURUS	3rd	Closing Opposition	View Ballot	Cristine Joy LlandonesⒸ , Dylan	2 hydrogen isotopes walk into a bar. the rest is history.
+HG D- Where is season two of crash 	2nd	Opening Opposition	View Ballot	Cristine Joy LlandonesⒸ , Dylan	2 hydrogen isotopes walk into a bar. the rest is history.
+The Reasonance	1st	Closing Government	View Ballot	Cristine Joy LlandonesⒸ , Dylan	2 hydrogen isotopes walk into a bar. the rest is history.
+avoidant father at oa daughter	4th	Opening Opposition	View Ballot	Joaquin PorciunculaⒸ , Tivlumun Alexander	2 hydrogen isotopes walk into a bar. the rest is history.
+AGS (5-Bagobo)	3rd	Closing Opposition	View Ballot	Joaquin PorciunculaⒸ , Tivlumun Alexander	2 hydrogen isotopes walk into a bar. the rest is history.
+We&#x27;re both first speakers	2nd	Closing Government	View Ballot	Joaquin PorciunculaⒸ , Tivlumun Alexander	2 hydrogen isotopes walk into a bar. the rest is history.
+UPCalma	1st	Opening Government	View Ballot	Joaquin PorciunculaⒸ , Tivlumun Alexander	2 hydrogen isotopes walk into a bar. the rest is history.
+Diwata beef pares	1st	Closing Opposition	View Ballot	Keziah MoresⒸ , ADDIE	2 hydrogen isotopes walk into a bar. the rest is history.
+NJC 1	2nd	Closing Government	View Ballot	Keziah MoresⒸ , ADDIE	2 hydrogen isotopes walk into a bar. the rest is history.
+ADS  1	4th	Opening Government	View Ballot	Keziah MoresⒸ , ADDIE	2 hydrogen isotopes walk into a bar. the rest is history.
+RAAAAAAGGGHHHHH	3rd	Opening Opposition	View Ballot	Keziah MoresⒸ , ADDIE	2 hydrogen isotopes walk into a bar. the rest is history.
+
+
+team	result	side	ballot	adjudicators	motion
+healing by trauma bonding	2nd	Opening Government	View Ballot	Sarah GatmenⒸ , Eman	Hey, guys! Welcome back to my channel!
+UPLB Homiesexuals	3rd	Closing Government	View Ballot	Sarah GatmenⒸ , Eman	Hey, guys! Welcome back to my channel!
+I don&#x27;t have a sugar daddy, I&#x27;ve ne	4th	Opening Opposition	View Ballot	Sarah GatmenⒸ , Eman	Hey, guys! Welcome back to my channel!
+Potato Farm	1st	Closing Opposition	View Ballot	Sarah GatmenⒸ , Eman	Hey, guys! Welcome back to my channel!
+FEU CS	3rd	Opening Opposition	View Ballot	Jill AycardoⒸ , Jan Krizzia	Hey, guys! Welcome back to my channel!
+UPLB Origami	2nd	Closing Government	View Ballot	Jill AycardoⒸ , Jan Krizzia	Hey, guys! Welcome back to my channel!
+paper is not nerfing us anymore	4th	Opening Government	View Ballot	Jill AycardoⒸ , Jan Krizzia	Hey, guys! Welcome back to my channel!
+national chokers	1st	Closing Opposition	View Ballot	Jill AycardoⒸ , Jan Krizzia	Hey, guys! Welcome back to my channel!
+Princess and the frog	4th	Opening Government	View Ballot	Joaquin PorciunculaⒸ , Castiel Angelwing	Hey, guys! Welcome back to my channel!
+What country is this?	3rd	Opening Opposition	View Ballot	Joaquin PorciunculaⒸ , Castiel Angelwing	Hey, guys! Welcome back to my channel!
+9PAX	1st	Closing Opposition	View Ballot	Joaquin PorciunculaⒸ , Castiel Angelwing	Hey, guys! Welcome back to my channel!
+Debate gave us Streptococcus pyogen	2nd	Closing Government	View Ballot	Joaquin PorciunculaⒸ , Castiel Angelwing	Hey, guys! Welcome back to my channel!
+avoidant father at oa daughter	2nd	Opening Opposition	View Ballot	YeshⒸ , Chandrika Kumaratungga	Hey, guys! Welcome back to my channel!
+Loutang and Sabrina Manggagawa	1st	Closing Opposition	View Ballot	YeshⒸ , Chandrika Kumaratungga	Hey, guys! Welcome back to my channel!
+If the series ∞ ∑ n=1 an is converg	3rd	Closing Government	View Ballot	YeshⒸ , Chandrika Kumaratungga	Hey, guys! Welcome back to my channel!
+UPCravings are lambing	4th	Opening Government	View Ballot	YeshⒸ , Chandrika Kumaratungga	Hey, guys! Welcome back to my channel!
+Eddie sab-ihin mo sa mama mo pakyu	3rd	Closing Opposition	View Ballot	ReymundⒸ , Magi Fernandez	Hey, guys! Welcome back to my channel!
+IJBOL	4th	Closing Government	View Ballot	ReymundⒸ , Magi Fernandez	Hey, guys! Welcome back to my channel!
+UPLB Comeback (Ulit)	2nd	Opening Government	View Ballot	ReymundⒸ , Magi Fernandez	Hey, guys! Welcome back to my channel!
+we miss you nina tan	1st	Opening Opposition	View Ballot	ReymundⒸ , Magi Fernandez	Hey, guys! Welcome back to my channel!
+makichezmis k nlng!	3rd	Opening Opposition	View Ballot	James CacholaⒸ , Julien Vargas	Hey, guys! Welcome back to my channel!
+UPLB im okay im fine gwenchana gwen	2nd	Opening Government	View Ballot	James CacholaⒸ , Julien Vargas	Hey, guys! Welcome back to my channel!
+AGS (5-Bagobo)	4th	Closing Government	View Ballot	James CacholaⒸ , Julien Vargas	Hey, guys! Welcome back to my channel!
+2v2 na lang sa math👊😡 (napilde)	1st	Closing Opposition	View Ballot	James CacholaⒸ , Julien Vargas	Hey, guys! Welcome back to my channel!
+BACklash Arguers	2nd	Opening Opposition	View Ballot	Gelai LopezⒸ , Michel Andre D. Macahilo	Hey, guys! Welcome back to my channel!
+San Marino Debate Organization	1st	Closing Government	View Ballot	Gelai LopezⒸ , Michel Andre D. Macahilo	Hey, guys! Welcome back to my channel!
+duon ka sa far away	4th	Opening Government	View Ballot	Gelai LopezⒸ , Michel Andre D. Macahilo	Hey, guys! Welcome back to my channel!
+Crazy? I Was Crazy Once. They Locke	3rd	Closing Opposition	View Ballot	Gelai LopezⒸ , Michel Andre D. Macahilo	Hey, guys! Welcome back to my channel!
+BACk-up teamate utilized	4th	Opening Opposition	View Ballot	Jaryll James R. JuntadoⒸ , Karol Oraiz	Hey, guys! Welcome back to my channel!
+FEU GG	2nd	Closing Government	View Ballot	Jaryll James R. JuntadoⒸ , Karol Oraiz	Hey, guys! Welcome back to my channel!
+Ikim	1st	Closing Opposition	View Ballot	Jaryll James R. JuntadoⒸ , Karol Oraiz	Hey, guys! Welcome back to my channel!
+aspiring college dropouts	3rd	Opening Government	View Ballot	Jaryll James R. JuntadoⒸ , Karol Oraiz	Hey, guys! Welcome back to my channel!
+Diwata beef pares	2nd	Closing Opposition	View Ballot	Santino VarelaⒸ , Matthew Tinamisan	Hey, guys! Welcome back to my channel!
+mga novice po kami pls be nice	3rd	Opening Opposition	View Ballot	Santino VarelaⒸ , Matthew Tinamisan	Hey, guys! Welcome back to my channel!
+UST SHS - Debater Rizzlers	4th	Closing Government	View Ballot	Santino VarelaⒸ , Matthew Tinamisan	Hey, guys! Welcome back to my channel!
+the 30th gc	1st	Opening Government	View Ballot	Santino VarelaⒸ , Matthew Tinamisan	Hey, guys! Welcome back to my channel!
+pls be kind, true novice	3rd	Opening Government	View Ballot	Athena Matin-awⒸ , Kugan	Hey, guys! Welcome back to my channel!
+NJC 4	1st	Opening Opposition	View Ballot	Athena Matin-awⒸ , Kugan	Hey, guys! Welcome back to my channel!
+we ball	2nd	Closing Government	View Ballot	Athena Matin-awⒸ , Kugan	Hey, guys! Welcome back to my channel!
+PSHS-MC r1valdo	4th	Closing Opposition	View Ballot	Athena Matin-awⒸ , Kugan	Hey, guys! Welcome back to my channel!
+Chreona	1st	Opening Government	View Ballot	Xandy ArmamentoⒸ , ADDIE	Hey, guys! Welcome back to my channel!
+HG A	2nd	Closing Opposition	View Ballot	Xandy ArmamentoⒸ , ADDIE	Hey, guys! Welcome back to my channel!
+Tia &amp; Tamera	3rd	Opening Opposition	View Ballot	Xandy ArmamentoⒸ , ADDIE	Hey, guys! Welcome back to my channel!
+PSHS-MC - riValdo	4th	Closing Government	View Ballot	Xandy ArmamentoⒸ , ADDIE	Hey, guys! Welcome back to my channel!
+&quot;I swear, I&#x27;m sweating like a sinne	4th	Opening Government	View Ballot	PolⒸ , Dylan Federico Bonoan	Hey, guys! Welcome back to my channel!
+FEU CV	3rd	Opening Opposition	View Ballot	PolⒸ , Dylan Federico Bonoan	Hey, guys! Welcome back to my channel!
+Suki sa Siomai	2nd	Closing Government	View Ballot	PolⒸ , Dylan Federico Bonoan	Hey, guys! Welcome back to my channel!
+XU - AJ	1st	Closing Opposition	View Ballot	PolⒸ , Dylan Federico Bonoan	Hey, guys! Welcome back to my channel!
+UGM B	4th	Closing Opposition	View Ballot	Vu Lan NghiⒸ , Ritch Martel	Hey, guys! Welcome back to my channel!
+Logicus	2nd	Opening Opposition	View Ballot	Vu Lan NghiⒸ , Ritch Martel	Hey, guys! Welcome back to my channel!
+UC Ampersand	3rd	Opening Government	View Ballot	Vu Lan NghiⒸ , Ritch Martel	Hey, guys! Welcome back to my channel!
+Hard Carrots	1st	Closing Government	View Ballot	Vu Lan NghiⒸ , Ritch Martel	Hey, guys! Welcome back to my channel!
+adnu red flags	4th	Closing Government	View Ballot	Kyle RamosⒸ , Marchell Bhea Murphy	Hey, guys! Welcome back to my channel!
+this team is 1/2 straight	1st	Opening Government	View Ballot	Kyle RamosⒸ , Marchell Bhea Murphy	Hey, guys! Welcome back to my channel!
+MSUM JR - Cuties	3rd	Closing Opposition	View Ballot	Kyle RamosⒸ , Marchell Bhea Murphy	Hey, guys! Welcome back to my channel!
+Join Maynila Asian Parliamentary	2nd	Opening Opposition	View Ballot	Kyle RamosⒸ , Marchell Bhea Murphy	Hey, guys! Welcome back to my channel!
+chronically online sadboy ateneans	4th	Opening Government	View Ballot	Allain ChristopherⒸ , ZH Masud	Hey, guys! Welcome back to my channel!
+UTM UTM, What is this Behaviour?	2nd	Opening Opposition	View Ballot	Allain ChristopherⒸ , ZH Masud	Hey, guys! Welcome back to my channel!
+Artillery Only	1st	Closing Government	View Ballot	Allain ChristopherⒸ , ZH Masud	Hey, guys! Welcome back to my channel!
+We&#x27;re both first speakers	3rd	Closing Opposition	View Ballot	Allain ChristopherⒸ , ZH Masud	Hey, guys! Welcome back to my channel!
+HG B	1st	Closing Opposition	View Ballot	Rubaiyat SamadⒸ , Shalimar Basman , TomtomⓉ	Hey, guys! Welcome back to my channel!
+ADS 6	3rd	Opening Opposition	View Ballot	Rubaiyat SamadⒸ , Shalimar Basman , TomtomⓉ	Hey, guys! Welcome back to my channel!
+UST SHS - yumanisiz	4th	Closing Government	View Ballot	Rubaiyat SamadⒸ , Shalimar Basman , TomtomⓉ	Hey, guys! Welcome back to my channel!
+UST SHS - hello kiffy	2nd	Opening Government	View Ballot	Rubaiyat SamadⒸ , Shalimar Basman , TomtomⓉ	Hey, guys! Welcome back to my channel!
+UST SHS Barbie 💖🎀	2nd	Closing Opposition	View Ballot	Emmanuel BoakyeⒸ , Rayhanah Andi , Zyneth Jade J. DimenⓉ	Hey, guys! Welcome back to my channel!
+UST SHS - K4ya k4ng 1P4gL4b9n	3rd	Closing Government	View Ballot	Emmanuel BoakyeⒸ , Rayhanah Andi , Zyneth Jade J. DimenⓉ	Hey, guys! Welcome back to my channel!
+USJR LL	4th	Opening Government	View Ballot	Emmanuel BoakyeⒸ , Rayhanah Andi , Zyneth Jade J. DimenⓉ	Hey, guys! Welcome back to my channel!
+USJR - Jangari and Elizabeth	1st	Opening Opposition	View Ballot	Emmanuel BoakyeⒸ , Rayhanah Andi , Zyneth Jade J. DimenⓉ	Hey, guys! Welcome back to my channel!
+GNHSBREAKINGNOTFREE3700	2nd	Opening Government	View Ballot	Raine Sheirlaine PrietoⒸ , Girele C. ToveraⓉ	Hey, guys! Welcome back to my channel!
+UST SHS - Strawberry Matcha	1st	Opening Opposition	View Ballot	Raine Sheirlaine PrietoⒸ , Girele C. ToveraⓉ	Hey, guys! Welcome back to my channel!
+The Reasonance	3rd	Closing Government	View Ballot	Raine Sheirlaine PrietoⒸ , Girele C. ToveraⓉ	Hey, guys! Welcome back to my channel!
+PSHS-MC - 4valdo	4th	Closing Opposition	View Ballot	Raine Sheirlaine PrietoⒸ , Girele C. ToveraⓉ	Hey, guys! Welcome back to my channel!
+huwag kang mang judge ng isang tao 	3rd	Closing Government	View Ballot	Imran IlmamⒸ , Angelic Alivio	Hey, guys! Welcome back to my channel!
+ambot sa imong lubot	1st	Opening Government	View Ballot	Imran IlmamⒸ , Angelic Alivio	Hey, guys! Welcome back to my channel!
+IEntarmed	2nd	Closing Opposition	View Ballot	Imran IlmamⒸ , Angelic Alivio	Hey, guys! Welcome back to my channel!
+UPCalma	4th	Opening Opposition	View Ballot	Imran IlmamⒸ , Angelic Alivio	Hey, guys! Welcome back to my channel!
+GNHSICONICUS	2nd	Opening Government	View Ballot	Abdul WassayⒸ , Fiona Zarate	Hey, guys! Welcome back to my channel!
+GNHSINDIGENIOUSAURUS	4th	Closing Opposition	View Ballot	Abdul WassayⒸ , Fiona Zarate	Hey, guys! Welcome back to my channel!
+Team Boracay	3rd	Closing Government	View Ballot	Abdul WassayⒸ , Fiona Zarate	Hey, guys! Welcome back to my channel!
+ADS 4	1st	Opening Opposition	View Ballot	Abdul WassayⒸ , Fiona Zarate	Hey, guys! Welcome back to my channel!
+mercy’s kitten from the (previously	3rd	Closing Government	View Ballot	Dohyun Daniel KimⒸ , Axcel France Eco	Hey, guys! Welcome back to my channel!
+Big Boys	2nd	Opening Opposition	View Ballot	Dohyun Daniel KimⒸ , Axcel France Eco	Hey, guys! Welcome back to my channel!
+Sigbin-ayot	1st	Opening Government	View Ballot	Dohyun Daniel KimⒸ , Axcel France Eco	Hey, guys! Welcome back to my channel!
+We like a long hard odin 🔫	4th	Closing Opposition	View Ballot	Dohyun Daniel KimⒸ , Axcel France Eco	Hey, guys! Welcome back to my channel!
+FEU AC	2nd	Opening Opposition	View Ballot	Joaquin Portugal MacapinlacⒸ , Alren Libre	Hey, guys! Welcome back to my channel!
+Swipe Right to Krish Vikram on Bumb	3rd	Closing Government	View Ballot	Joaquin Portugal MacapinlacⒸ , Alren Libre	Hey, guys! Welcome back to my channel!
+In 882, Rurik&#x27;s successor, Prince O	1st	Closing Opposition	View Ballot	Joaquin Portugal MacapinlacⒸ , Alren Libre	Hey, guys! Welcome back to my channel!
+hev abi ft. arhon	4th	Opening Government	View Ballot	Joaquin Portugal MacapinlacⒸ , Alren Libre	Hey, guys! Welcome back to my channel!
+Give us a break	2nd	Opening Government	View Ballot	Oarben BalicocoⒸ , Marriel Alagano	Hey, guys! Welcome back to my channel!
+Dan and Hanna with only 1 H	3rd	Opening Opposition	View Ballot	Oarben BalicocoⒸ , Marriel Alagano	Hey, guys! Welcome back to my channel!
+i&#x27;ve loved you ever since i&#x27;ve know	1st	Closing Opposition	View Ballot	Oarben BalicocoⒸ , Marriel Alagano	Hey, guys! Welcome back to my channel!
+UGM C	4th	Closing Government	View Ballot	Oarben BalicocoⒸ , Marriel Alagano	Hey, guys! Welcome back to my channel!
+idh an idea for our team name	1st	Closing Government	View Ballot	JuliaⒸ , Ethan James A. Alvarez	Hey, guys! Welcome back to my channel!
+damz that’s crazy bro	2nd	Opening Opposition	View Ballot	JuliaⒸ , Ethan James A. Alvarez	Hey, guys! Welcome back to my channel!
+Ah-hngk-mmnn...! /////	3rd	Closing Opposition	View Ballot	JuliaⒸ , Ethan James A. Alvarez	Hey, guys! Welcome back to my channel!
+SBDC - It&#x27;s DEBILOG, not Debsoc!!!	4th	Opening Government	View Ballot	JuliaⒸ , Ethan James A. Alvarez	Hey, guys! Welcome back to my channel!
+Swing A	4th	Closing Opposition	View Ballot	Yakov ApuraⒸ , Clofaye Abad	Hey, guys! Welcome back to my channel!
+UGM A	3rd	Opening Opposition	View Ballot	Yakov ApuraⒸ , Clofaye Abad	Hey, guys! Welcome back to my channel!
+problems sa imong trolley	2nd	Opening Government	View Ballot	Yakov ApuraⒸ , Clofaye Abad	Hey, guys! Welcome back to my channel!
+BAD by Denise Julia (paid producers	1st	Closing Government	View Ballot	Yakov ApuraⒸ , Clofaye Abad	Hey, guys! Welcome back to my channel!
+AdDU SH	2nd	Closing Government	View Ballot	RedactedⒸ , Kent Russell D. Balmes	Hey, guys! Welcome back to my channel!
+Swing B	3rd	Opening Opposition	View Ballot	RedactedⒸ , Kent Russell D. Balmes	Hey, guys! Welcome back to my channel!
+FEU CM	1st	Closing Opposition	View Ballot	RedactedⒸ , Kent Russell D. Balmes	Hey, guys! Welcome back to my channel!
+HG C	4th	Opening Government	View Ballot	RedactedⒸ , Kent Russell D. Balmes	Hey, guys! Welcome back to my channel!
+Swing C	1st	Closing Opposition	View Ballot	Yael InventorⒸ , Precious Gem Anilao	Hey, guys! Welcome back to my channel!
+Analyn Muko	2nd	Opening Opposition	View Ballot	Yael InventorⒸ , Precious Gem Anilao	Hey, guys! Welcome back to my channel!
+XU JA	3rd	Opening Government	View Ballot	Yael InventorⒸ , Precious Gem Anilao	Hey, guys! Welcome back to my channel!
+𐙚 cousins by vibe ༄｡°	4th	Closing Government	View Ballot	Yael InventorⒸ , Precious Gem Anilao	Hey, guys! Welcome back to my channel!
+supercalifragilisticexpialidocious	2nd	Opening Opposition	View Ballot	Cedric Cortez Jr.Ⓒ , Yanee	Hey, guys! Welcome back to my channel!
+ADS  1	1st	Closing Government	View Ballot	Cedric Cortez Jr.Ⓒ , Yanee	Hey, guys! Welcome back to my channel!
+RAAAAAAGGGHHHHH	3rd	Closing Opposition	View Ballot	Cedric Cortez Jr.Ⓒ , Yanee	Hey, guys! Welcome back to my channel!
+PSHS-MC - 3valdo	4th	Opening Government	View Ballot	Cedric Cortez Jr.Ⓒ , Yanee	Hey, guys! Welcome back to my channel!
+ADS 3	3rd	Opening Opposition	View Ballot	Justine SioⒸ , Dylan	Hey, guys! Welcome back to my channel!
+Time to Break Today	4th	Opening Government	View Ballot	Justine SioⒸ , Dylan	Hey, guys! Welcome back to my channel!
+delicious pechay	2nd	Closing Government	View Ballot	Justine SioⒸ , Dylan	Hey, guys! Welcome back to my channel!
+Pineapple Pizza	1st	Closing Opposition	View Ballot	Justine SioⒸ , Dylan	Hey, guys! Welcome back to my channel!
+ADS 2	4th	Opening Government	View Ballot	Miro FortunaⒸ , Yusop, Ben-Zha&#x27;ad H.	Hey, guys! Welcome back to my channel!
+UST SHS - Oh Baby Kalma	2nd	Opening Opposition	View Ballot	Miro FortunaⒸ , Yusop, Ben-Zha&#x27;ad H.	Hey, guys! Welcome back to my channel!
+UST SHS mizkonasha	3rd	Closing Government	View Ballot	Miro FortunaⒸ , Yusop, Ben-Zha&#x27;ad H.	Hey, guys! Welcome back to my channel!
+ADMU SHS I	1st	Closing Opposition	View Ballot	Miro FortunaⒸ , Yusop, Ben-Zha&#x27;ad H.	Hey, guys! Welcome back to my channel!
+HG F	4th	Opening Government	View Ballot	Huezen KroyⒸ , Dhanyeta Devi Kumar	Hey, guys! Welcome back to my channel!
+ms. moba co	3rd	Opening Opposition	View Ballot	Huezen KroyⒸ , Dhanyeta Devi Kumar	Hey, guys! Welcome back to my channel!
+PHDS masakit ang kamay natin	2nd	Closing Government	View Ballot	Huezen KroyⒸ , Dhanyeta Devi Kumar	Hey, guys! Welcome back to my channel!
+bobo mindset	1st	Closing Opposition	View Ballot	Huezen KroyⒸ , Dhanyeta Devi Kumar	Hey, guys! Welcome back to my channel!
+Lunatics	2nd	Closing Government	View Ballot	DaniellaⒸ , Cristine Joy Llandones , Sittie Rahma AlawiⓉ	Hey, guys! Welcome back to my channel!
+HG D- Where is season two of crash 	4th	Opening Government	View Ballot	DaniellaⒸ , Cristine Joy Llandones , Sittie Rahma AlawiⓉ	Hey, guys! Welcome back to my channel!
+cloner babies	1st	Closing Opposition	View Ballot	DaniellaⒸ , Cristine Joy Llandones , Sittie Rahma AlawiⓉ	Hey, guys! Welcome back to my channel!
+PSHS-MC - rival2o	3rd	Opening Opposition	View Ballot	DaniellaⒸ , Cristine Joy Llandones , Sittie Rahma AlawiⓉ	Hey, guys! Welcome back to my channel!
+
+
+team	result	side	adjudicators	motion
+San Marino Debate Organization	eliminated	Opening Government	JuliaⒸ , Dylan Salcedo , Huezen Kroy	to infinity, and beyond!
+Potato Farm	advancing	Closing Opposition	JuliaⒸ , Dylan Salcedo , Huezen Kroy	to infinity, and beyond!
+2v2 na lang sa math👊😡 (napilde)	eliminated	Closing Government	JuliaⒸ , Dylan Salcedo , Huezen Kroy	to infinity, and beyond!
+Debate gave us Streptococcus pyogen	advancing	Opening Opposition	JuliaⒸ , Dylan Salcedo , Huezen Kroy	to infinity, and beyond!
+huwag kang mang judge ng isang tao 	advancing	Opening Opposition	KuganⒸ , Abdul Wassay , Allain Christopher	to infinity, and beyond!
+UPLB Comeback (Ulit)	eliminated	Closing Government	KuganⒸ , Abdul Wassay , Allain Christopher	to infinity, and beyond!
+UPLB im okay im fine gwenchana gwen	eliminated	Opening Government	KuganⒸ , Abdul Wassay , Allain Christopher	to infinity, and beyond!
+we miss you nina tan	advancing	Closing Opposition	KuganⒸ , Abdul Wassay , Allain Christopher	to infinity, and beyond!
+Big Boys	eliminated	Closing Government	YvetteⒸ , Clofaye Abad , Michel Andre D. Macahilo	to infinity, and beyond!
+the 30th gc	eliminated	Opening Opposition	YvetteⒸ , Clofaye Abad , Michel Andre D. Macahilo	to infinity, and beyond!
+Sigbin-ayot	advancing	Opening Government	YvetteⒸ , Clofaye Abad , Michel Andre D. Macahilo	to infinity, and beyond!
+Artillery Only	advancing	Closing Opposition	YvetteⒸ , Clofaye Abad , Michel Andre D. Macahilo	to infinity, and beyond!
+avoidant father at oa daughter	advancing	Closing Opposition	Imran IlmamⒸ , Jaryll James R. Juntado , Matthew Tinamisan	to infinity, and beyond!
+mercy’s kitten from the (previously	advancing	Opening Opposition	Imran IlmamⒸ , Jaryll James R. Juntado , Matthew Tinamisan	to infinity, and beyond!
+Loutang and Sabrina Manggagawa	eliminated	Opening Government	Imran IlmamⒸ , Jaryll James R. Juntado , Matthew Tinamisan	to infinity, and beyond!
+IEntarmed	eliminated	Closing Government	Imran IlmamⒸ , Jaryll James R. Juntado , Matthew Tinamisan	to infinity, and beyond!
+In 882, Rurik&#x27;s successor, Prince O	advancing	Closing Government	Yakov ApuraⒸ , Julien Vargas , Vu Lan Nghi	to infinity, and beyond!
+ambot sa imong lubot	advancing	Opening Opposition	Yakov ApuraⒸ , Julien Vargas , Vu Lan Nghi	to infinity, and beyond!
+We&#x27;re both first speakers	eliminated	Opening Government	Yakov ApuraⒸ , Julien Vargas , Vu Lan Nghi	to infinity, and beyond!
+If the series ∞ ∑ n=1 an is converg	eliminated	Closing Opposition	Yakov ApuraⒸ , Julien Vargas , Vu Lan Nghi	to infinity, and beyond!
+healing by trauma bonding	advancing	Closing Opposition	PolⒸ , Kyle Ramos , Oarben Balicoco	to infinity, and beyond!
+Ikim	eliminated	Closing Government	PolⒸ , Kyle Ramos , Oarben Balicoco	to infinity, and beyond!
+UPLB Homiesexuals	advancing	Opening Opposition	PolⒸ , Kyle Ramos , Oarben Balicoco	to infinity, and beyond!
+UTM UTM, What is this Behaviour?	eliminated	Opening Government	PolⒸ , Kyle Ramos , Oarben Balicoco	to infinity, and beyond!
+FEU CS	eliminated	Closing Government	Cedric Cortez Jr.Ⓒ , Alren Libre , ZH Masud	to infinity, and beyond!
+What country is this?	advancing	Closing Opposition	Cedric Cortez Jr.Ⓒ , Alren Libre , ZH Masud	to infinity, and beyond!
+9PAX	advancing	Opening Opposition	Cedric Cortez Jr.Ⓒ , Alren Libre , ZH Masud	to infinity, and beyond!
+UPCalma	eliminated	Opening Government	Cedric Cortez Jr.Ⓒ , Alren Libre , ZH Masud	to infinity, and beyond!
+BACklash Arguers	advancing	Closing Government	Angelic AlivioⒸ , Dohyun Daniel Kim , Joaquin Porciuncula	to infinity, and beyond!
+UPLB Origami	eliminated	Opening Government	Angelic AlivioⒸ , Dohyun Daniel Kim , Joaquin Porciuncula	to infinity, and beyond!
+chronically online sadboy ateneans	eliminated	Closing Opposition	Angelic AlivioⒸ , Dohyun Daniel Kim , Joaquin Porciuncula	to infinity, and beyond!
+national chokers	advancing	Opening Opposition	Angelic AlivioⒸ , Dohyun Daniel Kim , Joaquin Porciuncula	to infinity, and beyond!
+
+
+team	result	side	adjudicators	motion
+this team is 1/2 straight	eliminated	Opening Government	Xandy ArmamentoⒸ , Athena Matin-aw , Redacted , Jan Krizzia , Karol Oraiz	God is Good? All the Time! All the time? Good is God!
+pls be kind, true novice	advancing	Closing Government	Xandy ArmamentoⒸ , Athena Matin-aw , Redacted , Jan Krizzia , Karol Oraiz	God is Good? All the Time! All the time? Good is God!
+Diwata beef pares	advancing	Closing Opposition	Xandy ArmamentoⒸ , Athena Matin-aw , Redacted , Jan Krizzia , Karol Oraiz	God is Good? All the Time! All the time? Good is God!
+Swipe Right to Krish Vikram on Bumb	eliminated	Opening Opposition	Xandy ArmamentoⒸ , Athena Matin-aw , Redacted , Jan Krizzia , Karol Oraiz	God is Good? All the Time! All the time? Good is God!
+duon ka sa far away	advancing	Closing Opposition	Joaquin Portugal MacapinlacⒸ , ADDIE , Justine Sio , Santino Varela , Yael Inventor	God is Good? All the Time! All the time? Good is God!
+aspiring college dropouts	eliminated	Closing Government	Joaquin Portugal MacapinlacⒸ , ADDIE , Justine Sio , Santino Varela , Yael Inventor	God is Good? All the Time! All the time? Good is God!
+Crazy? I Was Crazy Once. They Locke	advancing	Opening Government	Joaquin Portugal MacapinlacⒸ , ADDIE , Justine Sio , Santino Varela , Yael Inventor	God is Good? All the Time! All the time? Good is God!
+Hard Carrots	eliminated	Opening Opposition	Joaquin Portugal MacapinlacⒸ , ADDIE , Justine Sio , Santino Varela , Yael Inventor	God is Good? All the Time! All the time? Good is God!
+
+
+team	result	side	adjudicators	motion
+huwag kang mang judge ng isang tao 	advancing	Opening Opposition	YvetteⒸ , Athena Matin-aw , Cedric Cortez Jr.	Went from Mr. 305 to Mr. Worldwide
+we miss you nina tan	eliminated	Closing Government	YvetteⒸ , Athena Matin-aw , Cedric Cortez Jr.	Went from Mr. 305 to Mr. Worldwide
+What country is this?	eliminated	Opening Government	YvetteⒸ , Athena Matin-aw , Cedric Cortez Jr.	Went from Mr. 305 to Mr. Worldwide
+9PAX	advancing	Closing Opposition	YvetteⒸ , Athena Matin-aw , Cedric Cortez Jr.	Went from Mr. 305 to Mr. Worldwide
+Sigbin-ayot	advancing	Closing Opposition	Alren LibreⒸ , Allain Christopher , Michel Andre D. Macahilo	Went from Mr. 305 to Mr. Worldwide
+Potato Farm	eliminated	Opening Government	Alren LibreⒸ , Allain Christopher , Michel Andre D. Macahilo	Went from Mr. 305 to Mr. Worldwide
+Artillery Only	advancing	Closing Government	Alren LibreⒸ , Allain Christopher , Michel Andre D. Macahilo	Went from Mr. 305 to Mr. Worldwide
+Debate gave us Streptococcus pyogen	eliminated	Opening Opposition	Alren LibreⒸ , Allain Christopher , Michel Andre D. Macahilo	Went from Mr. 305 to Mr. Worldwide
+avoidant father at oa daughter	eliminated	Opening Opposition	Vu Lan NghiⒸ , Joaquin Portugal Macapinlac , Yakov Apura	Went from Mr. 305 to Mr. Worldwide
+BACklash Arguers	eliminated	Closing Government	Vu Lan NghiⒸ , Joaquin Portugal Macapinlac , Yakov Apura	Went from Mr. 305 to Mr. Worldwide
+mercy’s kitten from the (previously	advancing	Closing Opposition	Vu Lan NghiⒸ , Joaquin Portugal Macapinlac , Yakov Apura	Went from Mr. 305 to Mr. Worldwide
+national chokers	advancing	Opening Government	Vu Lan NghiⒸ , Joaquin Portugal Macapinlac , Yakov Apura	Went from Mr. 305 to Mr. Worldwide
+healing by trauma bonding	eliminated	Opening Opposition	Xandy ArmamentoⒸ , Julien Vargas , Pol	Went from Mr. 305 to Mr. Worldwide
+In 882, Rurik&#x27;s successor, Prince O	advancing	Closing Opposition	Xandy ArmamentoⒸ , Julien Vargas , Pol	Went from Mr. 305 to Mr. Worldwide
+UPLB Homiesexuals	eliminated	Closing Government	Xandy ArmamentoⒸ , Julien Vargas , Pol	Went from Mr. 305 to Mr. Worldwide
+ambot sa imong lubot	advancing	Opening Government	Xandy ArmamentoⒸ , Julien Vargas , Pol	Went from Mr. 305 to Mr. Worldwide
+
+
+team	result	side	adjudicators	motion
+pls be kind, true novice	eliminated	Opening Opposition	Joaquin PorciunculaⒸ , ADDIE , Clofaye Abad , Julia , Matthew Tinamisan , Santino Varela , Yael Inventor	16 Seasons of Sadness
+Diwata beef pares	eliminated	Closing Government	Joaquin PorciunculaⒸ , ADDIE , Clofaye Abad , Julia , Matthew Tinamisan , Santino Varela , Yael Inventor	16 Seasons of Sadness
+duon ka sa far away	advancing	Closing Opposition	Joaquin PorciunculaⒸ , ADDIE , Clofaye Abad , Julia , Matthew Tinamisan , Santino Varela , Yael Inventor	16 Seasons of Sadness
+Crazy? I Was Crazy Once. They Locke	eliminated	Opening Government	Joaquin PorciunculaⒸ , ADDIE , Clofaye Abad , Julia , Matthew Tinamisan , Santino Varela , Yael Inventor	16 Seasons of Sadness
+
+
+team	result	side	adjudicators	motion
+mercy’s kitten from the (previously	advancing	Closing Opposition	Jaryll James R. JuntadoⒸ , Julia , Pol , Vu Lan Nghi , Xandy Armamento	—
+huwag kang mang judge ng isang tao 	eliminated	Opening Government	Jaryll James R. JuntadoⒸ , Julia , Pol , Vu Lan Nghi , Xandy Armamento	—
+9PAX	eliminated	Opening Opposition	Jaryll James R. JuntadoⒸ , Julia , Pol , Vu Lan Nghi , Xandy Armamento	—
+national chokers	advancing	Closing Government	Jaryll James R. JuntadoⒸ , Julia , Pol , Vu Lan Nghi , Xandy Armamento	—
+In 882, Rurik&#x27;s successor, Prince O	advancing	Opening Opposition	Allain ChristopherⒸ , Alren Libre , Athena Matin-aw , Dohyun Daniel Kim , Michel Andre D. Macahilo	—
+Sigbin-ayot	eliminated	Closing Government	Allain ChristopherⒸ , Alren Libre , Athena Matin-aw , Dohyun Daniel Kim , Michel Andre D. Macahilo	—
+Artillery Only	eliminated	Opening Government	Allain ChristopherⒸ , Alren Libre , Athena Matin-aw , Dohyun Daniel Kim , Michel Andre D. Macahilo	—
+ambot sa imong lubot	advancing	Closing Opposition	Allain ChristopherⒸ , Alren Libre , Athena Matin-aw , Dohyun Daniel Kim , Michel Andre D. Macahilo	—
+
+
+team	result	side	adjudicators	motion
+mercy’s kitten from the (previously	eliminated	Opening Government	Dohyun Daniel KimⒸ , Allain Christopher , Alren Libre , Julia , Pol , Vu Lan Nghi , Xandy Armamento	—
+In 882, Rurik&#x27;s successor, Prince O	advancing	Opening Opposition	Dohyun Daniel KimⒸ , Allain Christopher , Alren Libre , Julia , Pol , Vu Lan Nghi , Xandy Armamento	—
+national chokers	eliminated	Closing Opposition	Dohyun Daniel KimⒸ , Allain Christopher , Alren Libre , Julia , Pol , Vu Lan Nghi , Xandy Armamento	—
+ambot sa imong lubot	eliminated	Closing Government	Dohyun Daniel KimⒸ , Allain Christopher , Alren Libre , Julia , Pol , Vu Lan Nghi , Xandy Armamento	—
+

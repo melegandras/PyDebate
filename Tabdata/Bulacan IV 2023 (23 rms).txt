@@ -1,0 +1,720 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	ADMU ADMU TV		1st	2nd	1st	1st	1st	14	775	4	1
+2	PAC MEZ		1st	1st	1st	2nd	2nd	13	785	3	2
+3	AdDU FJ		1st	1st	2nd	1st	3rd	12	780	3	1
+4	Meow for POI		2nd	1st	3rd	1st	1st	12	772	3	1
+5	franz and franz friend		1st	3rd	2nd	1st	1st	12	768	3	1
+6	DLSU loser says poi		1st	1st	3rd	2nd	2nd	11	768	2	2
+7	DLSU kalawang		3rd	1st	3rd	1st	1st	11	756	3	0
+8	feu-Hehe im shy		1st	2nd	2nd	1st	4th	10	776	2	2
+9	Ogie Diaz School of Ganda Gandahan	Novice	2nd	1st	1st	4th	2nd	10	772	2	2
+10	ADDU-SHS CrisChrisTanTine		4th	1st	2nd	2nd	1st	10	766	2	2
+11	UPLB Comeback Szn		3rd	2nd	2nd	2nd	1st	10	762	1	3
+12	DU A	Novice	2nd	1st	2nd	2nd	3rd	10	759	1	3
+13	UPLB Flowers		1st	2nd	4th	1st	2nd	10	751	2	2
+14	USJ-R It started out with a kiss how did 	Novice	3rd	2nd	3rd	1st	1st	10	751	2	1
+15	FEUM FEU GA	Novice	2nd	2nd	2nd	2nd	2nd	10	749	0	5
+16	Pogchamp		2nd	1st	1st	3rd	4th	9	765	2	1
+17	FEUM FEU AS		1st	3rd	1st	3rd	3rd	9	763	2	0
+18	one of us is a lucy gray and coriol		4th	1st	1st	2nd	3rd	9	760	2	1
+19	MSU SKELETATO	Novice	1st	4th	1st	4th	1st	9	758	3	0
+20=	DLSU-SHS 102.5% Chinese		1st	4th	1st	2nd	3rd	9	756	2	1
+20=	Damage Control Failed Successfully		3rd	1st	4th	1st	2nd	9	756	2	1
+22	UNUD A		2nd	4th	2nd	1st	2nd	9	756	1	3
+23	FEUM FEU MB	Novice	2nd	1st	2nd	4th	2nd	9	754	1	3
+24	PHDS Raining in manila pero di nila	Novice	3rd	2nd	4th	1st	1st	9	750	2	1
+25	FEUM FEU GV	Novice	1st	2nd	3rd	1st	4th	9	749	2	1
+26	MSUIIT IIT AJ	Novice	2nd	4th	1st	3rd	1st	9	745	2	1
+27	XUAC Dodot and Diding		3rd	1st	3rd	1st	4th	8	768	2	0
+28	MSUIIT IIT SR	Novice	2nd	4th	1st	4th	1st	8	764	2	1
+29	its not confidential funds its fanu		1st	1st	4th	3rd	3rd	8	764	2	0
+30	14/6 Gang		1st	3rd	1st	3rd	4th	8	757	2	0
+31	IIT HJ	Novice	4th	2nd	3rd	1st	2nd	8	754	1	2
+32	DLSU Gacha Gamers	Novice	1st	2nd	3rd	3rd	3rd	8	753	1	1
+33	USTL - DF	Novice	2nd	3rd	1st	3rd	3rd	8	750	1	1
+34	IHMA Kulto ni Aldub	Novice	3rd	3rd	3rd	2nd	1st	8	740	1	1
+35	Call Him By His Last Name	Novice	3rd	3rd	2nd	2nd	2nd	8	739	0	3
+36	Swing 1		2nd	4th	—	1st	1st	8	604	2	1
+37	VIT getting the final stone		1st	4th	2nd	4th	2nd	7	752	1	2
+38	UNUD B	Novice	2nd	3rd	3rd	2nd	3rd	7	750	0	2
+39	Team Zero (HAUDC)	Novice	4th	1st	2nd	2nd	4th	7	749	1	2
+40	One (HAUDC)	Novice	3rd	3rd	2nd	4th	1st	7	747	1	1
+41	IHMA TheHowsOfUs😔✊	Novice	4th	2nd	1st	4th	2nd	7	746	1	2
+42	sir k3l defenderz	Novice	3rd	1st	4th	2nd	3rd	7	740	1	1
+43	PSHS K&lt;3D, R&lt;3J		2nd	2nd	1st	—	—	7	458	1	2
+44	Swing 2		—	3rd	1st	1st	—	7	442	2	0
+45	UPM Mekus2 #TamaNaYanInsan		2nd	2nd	2nd	4th	4th	6	757	0	3
+46	NUDS That time I reincarnated as a 	Novice	1st	3rd	3rd	3rd	4th	6	749	1	0
+47	Firecracker (HAUDC)	Novice	4th	1st	4th	3rd	2nd	6	747	1	1
+48	send NUDS to semifinals	Novice	4th	2nd	2nd	3rd	3rd	6	744	0	2
+49	SBUM Gab^2	Novice	4th	2nd	3rd	2nd	3rd	6	743	0	2
+50	SBUM Poiyat		4th	4th	1st	1st	4th	6	740	2	0
+51	SBUM BELLAS	Novice	4th	3rd	3rd	3rd	1st	6	739	1	0
+52	IHMA El Grasya	Novice	2nd	3rd	4th	4th	1st	6	730	1	1
+53	LPD Pababy kami pls	Novice	4th	2nd	—	2nd	2nd	6	605	0	3
+54	only institution im breaking down i	Novice	1st	—	1st	—	—	6	315	2	0
+55	IHMA debATEfulness	Novice	2nd	1st	4th	4th	4th	5	753	1	1
+56	POMNHS this is our first time debating	Novice	3rd	3rd	3rd	2nd	4th	5	744	0	1
+57	ULS LJ	Novice	3rd	4th	2nd	4th	2nd	5	742	0	2
+58	ADDU-SHS Barbs	Novice	3rd	4th	1st	3rd	4th	5	739	1	0
+59=	ADDU-SHS L_N_ Light	Novice	2nd	3rd	3rd	4th	3rd	5	738	0	1
+59=	DLSU-SHS go/jo	Novice	3rd	4th	3rd	3rd	2nd	5	738	0	1
+61	Euphemia (HAUDC)	Novice	4th	4th	2nd	4th	1st	5	737	1	1
+62	ADDU-SHS MAra GAra	Novice	2nd	2nd	4th	3rd	4th	5	737	0	2
+63	ADZU Lizher	Novice	3rd	4th	4th	3rd	2nd	4	737	0	1
+64	DYCI Riptide		3rd	2nd	4th	4th	3rd	4	730	0	1
+65	UNO	Novice	4th	3rd	4th	2nd	3rd	4	729	0	1
+66	ADZU Qties	Novice	—	2nd	3rd	3rd	4th	4	590	0	1
+67	ADZU A	Novice	1st	3rd	4th	—	—	4	453	1	0
+68	LPD Naomi &amp; Shalom	Novice	3rd	2nd	—	—	3rd	4	446	0	1
+69	swing 1		—	1st	—	3rd	—	4	301	1	0
+70	ULS CJ	Novice	4th	3rd	2nd	4th	4th	3	741	0	1
+71	Sylvie (HAUDC)	Novice	4th	3rd	4th	2nd	—	3	585	0	1
+72	FEUM FEU CA	Novice	1st	4th	4th	—	—	3	454	1	0
+73	Swing 2		—	4th	—	1st	4th	3	442	1	0
+74	Swing 3		—	1st	—	4th	—	3	303	1	0
+75	PUP PUP no extra utils		2nd	3rd	—	—	—	3	300	0	1
+76	ULS ULS DJ	Novice	4th	4th	3rd	4th	3rd	2	730	0	0
+77	Freia (HAUDC)	Novice	3rd	4th	—	3rd	—	2	429	0	0
+78	POMNHS sadbois	Novice	4th	3rd	4th	—	—	1	441	0	0
+79	SBDC - DA VINCY	Novice	3rd	4th	4th	—	—	1	436	0	0
+80	Marvel (HAUDC)	Novice	4th	4th	4th	4th	4th	0	711	0	0
+81	IBED Trojans	Novice	4th	4th	—	—	—	0	289	0	0
+82=	Athena (HAUDC)	Novice	—	—	—	—	—	—	—	0	0
+82=	Korra (HAUDC)	Novice	—	—	—	—	—	—	—	0	0
+82=	Loki (HAUDC)	Novice	—	—	—	—	—	—	—	0	0
+82=	Nunnally (HAUDC)	Novice	—	—	—	—	—	—	—	0	0
+82=	MHDP Marcus and Marby	Novice	—	—	—	—	—	—	—	0	0
+82=	MSUIIT IIT TU		—	—	—	—	—	—	—	0	0
+82=	NCSHS mianhae kathniels 2: electric booga	Novice	—	—	—	—	—	—	—	0	0
+82=	UPLB Chicharong Bulaklak		—	—	—	—	—	—	—	0	0
+82=	XUAC SEULGI SLAY ME NOW		—	—	—	—	—	—	—	0	0
+82=	XUAC team babi		—	—	—	—	—	—	—	0	0
+82=	we code from SITEAO	Novice	—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Mezen Lababidi	Open	PAC MEZ	79	78	78	79	78	392	78.40	0.49
+2=	Jhoanna Grace Cayanan	Open	AdDU FJ	78	78	77	80	77	390	78.00	1.10
+2=	French Bayer Bandong	Open	AdDU FJ	79	77	78	79	77	390	78.00	0.89
+4=	Johanna Cinco	Open	feu-Hehe im shy	78	77	78	78	77	388	77.60	0.49
+4=	Remle Cadelina	Open	feu-Hehe im shy	78	78	78	78	76	388	77.60	0.80
+4=	Pio Ventura	Open	ADMU ADMU TV	77	78	77	78	78	388	77.60	0.49
+7=	Clarisse Tan	Open	ADMU ADMU TV	78	77	76	77	79	387	77.40	1.02
+7=	Patrice	Open, Novice	Ogie Diaz School of Ganda Gandahan	76	77	79	77	78	387	77.40	1.02
+7=	Vince hubilla	Open	Meow for POI	76	79	77	78	77	387	77.40	1.02
+10=	Annika Chua	Open	DLSU loser says poi	77	77	77	78	76	385	77.00	0.63
+10=	Christine Sintos	Open	ADDU-SHS CrisChrisTanTine	75	78	77	77	78	385	77.00	1.10
+10=	Vin	Open, Novice	Ogie Diaz School of Ganda Gandahan	74	76	78	78	79	385	77.00	1.79
+10=	Aliah Garcia	Open	Meow for POI	76	77	76	79	77	385	77.00	1.10
+10=	Francis Revilla	Open	franz and franz friend	77	77	76	77	78	385	77.00	0.63
+15=	Jayvee G. Bondoc	Open	Pogchamp	77	75	78	78	76	384	76.80	1.17
+15=	Rayan Camid	Open	XUAC Dodot and Diding	78	77	75	77	77	384	76.80	0.98
+15=	Kiarra Dlahmane P. Lingating	Open	XUAC Dodot and Diding	77	78	75	77	77	384	76.80	0.98
+18=	Rodel Patrick Apepe	Open	FEUM FEU AS	77	75	77	76	78	383	76.60	1.02
+18=	Lorenzo Espiritu	Open	its not confidential funds its fanu	79	76	75	77	76	383	76.60	1.36
+18=	Xandre Unay	Open	DLSU loser says poi	76	77	76	77	77	383	76.60	0.49
+18=	Geanne del Rosario	Open	UPLB Comeback Szn	75	77	76	76	79	383	76.60	1.36
+18=	Danielle Andrea	Open	franz and franz friend	77	76	76	77	77	383	76.60	0.49
+23=	Dang Pham	Open	14/6 Gang	77	75	77	77	76	382	76.40	0.80
+23=	Socillo, Mark Joseua, Lauron	Open, Novice	MSUIIT IIT SR	77	76	77	75	77	382	76.40	0.80
+23=	Rigil Kent Quidlat	Open, Novice	MSUIIT IIT SR	78	75	76	75	78	382	76.40	1.36
+26=	Leo Herold U. Laluna	Open	Pogchamp	76	75	78	78	74	381	76.20	1.60
+26=	Dasha Daquipil	Open	its not confidential funds its fanu	78	75	76	76	76	381	76.20	0.98
+26=	Afiea Ibnat Suchi	Open, Novice	DU A	78	77	76	76	74	381	76.20	1.33
+26=	Alyssa Ilaguison	Open, Novice	UPM Mekus2 #TamaNaYanInsan	78	76	76	75	76	381	76.20	0.98
+30=	Anri Sophia Semba	Open	FEUM FEU AS	78	74	76	75	77	380	76.00	1.41
+30=	Aaron Lee	Open	DLSU-SHS 102.5% Chinese	75	76	77	76	76	380	76.00	0.63
+30=	Ramya Espiritu	Open	one of us is a lucy gray and coriol	73	77	76	78	76	380	76.00	1.67
+30=	Abed Alihuddin	Open	one of us is a lucy gray and coriol	74	78	76	77	75	380	76.00	1.41
+34=	Farrel Tonapa	Open, Novice	UNUD A	75	75	74	77	78	379	75.80	1.47
+34=	Denise Angel Montes	Open, Novice	FEUM FEU MB	75	76	77	75	76	379	75.80	0.75
+34=	RAFFY RANIAI	Open, Novice	MSU SKELETATO	74	76	77	76	76	379	75.80	0.98
+34=	EMAN PANGCATAN	Open, Novice	MSU SKELETATO	75	74	77	76	77	379	75.80	1.17
+34=	Jesus Roberto Dos Remedios	Open, Novice	Damage Control Failed Successfully	76	76	77	75	75	379	75.80	0.75
+39=	Aninao Humphrey S.	Open, Novice	IIT HJ	77	74	75	76	76	378	75.60	1.02
+39=	Shourov	Open, Novice	DU A	77	77	74	76	74	378	75.60	1.36
+39=	Red de Leon	Open	DLSU kalawang	74	76	74	77	77	378	75.60	1.36
+39=	Rainne Prado	Open	DLSU kalawang	74	75	73	78	78	378	75.60	2.06
+43=	Joshua Karouw	Open	UNUD A	76	73	74	78	76	377	75.40	1.74
+43=	Theo Trajano	Open, Novice	DLSU Gacha Gamers	74	75	78	75	75	377	75.40	1.36
+43=	Jan Kier M. Rizon	Open, Novice	USJ-R It started out with a kiss how did 	75	75	74	76	77	377	75.40	1.02
+43=	Addie Macayan	Open	UPLB Flowers	76	76	72	77	76	377	75.40	1.74
+43=	Ajay Joel	Open, Novice	VIT getting the final stone	78	74	76	74	75	377	75.40	1.50
+43=	Kristine Jolie S. Lumactod	Open, Novice	IHMA debATEfulness	75	77	76	74	75	377	75.40	1.02
+43=	Daryll Faye Gayatin	Open, Novice	Damage Control Failed Successfully	75	75	77	74	76	377	75.40	1.02
+50=	Stephen Plando	Open, Novice	DLSU Gacha Gamers	75	75	77	75	74	376	75.20	0.98
+50=	Maghinay, Jireh Chiyelle V.	Open, Novice	IIT HJ	77	74	74	75	76	376	75.20	1.17
+50=	Reginald Fajardo	Open, Novice	USTL - DF	76	72	78	75	75	376	75.20	1.94
+50=	Rafael Gayoso	Open, Novice	FEUM FEU GV	77	76	75	76	72	376	75.20	1.72
+50=	Alexa Nicole Andresan	Open, Novice	FEUM FEU GA	74	73	77	76	76	376	75.20	1.47
+50=	Penielle Jazz Cruz	Open, Novice	PHDS Raining in manila pero di nila	74	76	72	76	78	376	75.20	2.04
+50=	Bernadette Anne Cervania	Open, Novice	DLSU-SHS 102.5% Chinese	74	75	76	76	75	376	75.20	0.75
+50=	Bryle Matthew Bacatan	Open	UPM Mekus2 #TamaNaYanInsan	77	76	75	73	75	376	75.20	1.33
+50=	Jeo A. Tagaunsod	Open, Novice	IHMA debATEfulness	75	76	76	74	75	376	75.20	0.75
+59=	Theresa Angelica Hartono	Open, Novice	UNUD B	75	76	74	75	75	375	75.00	0.63
+59=	I Made Dwi Litarona	Open, Novice	UNUD B	75	76	75	75	74	375	75.00	0.63
+59=	Paul Ernest de Leon Carreon	Open, Novice	Team Zero (HAUDC)	70	77	77	77	74	375	75.00	2.76
+59=	Princess Yvan Quizon Malig	Open, Novice	One (HAUDC)	74	74	76	74	77	375	75.00	1.26
+59=	Hien Do	Open	14/6 Gang	76	74	77	74	74	375	75.00	1.26
+59=	Justin Ronan Balinado	Open, Novice	FEUM FEU MB	74	75	77	74	75	375	75.00	1.10
+59=	Arem	Open, Novice	NUDS That time I reincarnated as a 	75	75	75	76	74	375	75.00	0.63
+59=	Utkarsh Tomar	Open	VIT getting the final stone	77	74	75	74	75	375	75.00	1.10
+67=	Liana Gereah Valencia Esclamado	Open, Novice	Team Zero (HAUDC)	71	77	77	76	73	374	74.80	2.40
+67=	Ralph Denzel Pamintuan	Open, Novice	Firecracker (HAUDC)	73	78	74	74	75	374	74.80	1.72
+67=	Lester Collados	Open, Novice	USJ-R It started out with a kiss how did 	75	75	73	75	76	374	74.80	0.98
+67=	Emer Dacer	Open, Novice	USTL - DF	76	73	76	75	74	374	74.80	1.17
+67=	Jelo Montoya	Open, Novice	UPLB Flowers	75	76	71	76	76	374	74.80	1.94
+67=	Nico	Open, Novice	NUDS That time I reincarnated as a 	76	74	74	76	74	374	74.80	0.98
+67=	Anthony Uy Lopez	Open	PHDS Raining in manila pero di nila	75	75	72	75	77	374	74.80	1.60
+67=	Josh Christian V. Manlitoc	Open, Novice	IHMA TheHowsOfUs😔✊	71	76	76	75	76	374	74.80	1.94
+75=	Shua	Open, Novice	send NUDS to semifinals	74	76	73	75	75	373	74.60	1.02
+75=	Excel John Bae Esguerra	Open, Novice	Firecracker (HAUDC)	74	76	74	75	74	373	74.60	0.80
+75=	Melendez, Jahnfer Ashley B.	Open, Novice	MSUIIT IIT AJ	73	72	75	76	77	373	74.60	1.85
+75=	Gwen Vedrero	Open, Novice	FEUM FEU GV	76	75	74	76	72	373	74.60	1.50
+75=	Paula Jamie Guzman	Open, Novice	FEUM FEU GA	71	74	76	75	77	373	74.60	2.06
+75=	Niña Kim Ashley J.  Roderos	Open, Novice	POMNHS this is our first time debating	77	74	75	74	73	373	74.60	1.36
+75=	Gabriel Santos	Open, Novice	SBUM Gab^2	74	75	73	75	76	373	74.60	1.02
+82=	Norieta Faith Riccia Mendoza Chang	Open, Novice	One (HAUDC)	75	74	74	73	76	372	74.40	1.02
+82=	Manos, Jhon Dave, M.	Open, Novice	MSUIIT IIT AJ	74	72	74	76	76	372	74.40	1.50
+82=	Lei Anthonette Red	Open, Novice, Malolos	sir k3l defenderz	73	74	75	75	75	372	74.40	0.80
+82=	Lance Elijah Vergara	Open, Novice	ULS LJ	76	74	75	73	74	372	74.40	1.02
+82=	Cashmere Sharenz Crispov Castillones	Open, Novice	IHMA TheHowsOfUs😔✊	71	75	76	75	75	372	74.40	1.74
+87=	Mizzy	Open, Novice	send NUDS to semifinals	73	75	74	75	74	371	74.20	0.75
+87=	Marianne Joy S. Damban	Open, Novice	IHMA Kulto ni Aldub	71	74	75	75	76	371	74.20	1.72
+87=	Ralph Timothy Godoy	Open, Novice	POMNHS this is our first time debating	77	74	73	73	74	371	74.20	1.47
+87=	Chester Paragas	Open, Novice	ULS CJ	75	75	76	73	72	371	74.20	1.47
+91=	Salic, Saud B.	Open, Novice	Call Him By His Last Name	73	72	75	73	77	370	74.00	1.79
+91=	Alexandra Athena Daguio	Open, Novice	ADDU-SHS Barbs	75	75	76	70	74	370	74.00	2.10
+91=	Nhed Eizaj Perez	Open, Novice	SBUM Poiyat	72	72	78	75	73	370	74.00	2.28
+91=	Carlos Juan T. Daluz	Open, Novice	SBUM Poiyat	72	72	79	75	72	370	74.00	2.76
+91=	Stephanie Lorraine	Open, Novice	SBUM BELLAS	75	73	74	74	74	370	74.00	0.63
+91=	Gabs Patria	Open, Novice	SBUM Gab^2	73	75	73	74	75	370	74.00	0.89
+91=	Jeizl Jacinto	Open, Novice	ULS CJ	75	75	74	74	72	370	74.00	1.10
+91=	Julien Faye Kimayong	Open, Novice	ULS LJ	76	73	75	73	73	370	74.00	1.26
+99=	GUIANN KARLO MAGISTRADO	Open, Novice	Euphemia (HAUDC)	74	71	77	72	75	369	73.80	2.14
+99=	Venice Louraine B. Paglinawan	Open, Novice	IHMA Kulto ni Aldub	71	75	74	74	75	369	73.80	1.47
+99=	Afidah Munang Camar	Open, Novice	Call Him By His Last Name	72	72	75	74	76	369	73.80	1.60
+99=	Jurs	Open, Novice	ADZU Lizher	75	72	74	73	75	369	73.80	1.17
+99=	Shaima Kaye Oral	Open, Novice	ADDU-SHS L_N_ Light	72	74	77	73	73	369	73.80	1.72
+99=	Jackie Lou Paquibot	Open, Novice	ADDU-SHS L_N_ Light	73	75	76	72	73	369	73.80	1.47
+99=	Princess Nicolette Catbagan	Open, Novice	ADDU-SHS Barbs	76	74	76	70	73	369	73.80	2.23
+99=	Cathleen Malino	Open, Novice	ADDU-SHS MAra GAra	73	76	73	74	73	369	73.80	1.17
+99=	Geela Mabry Ramos	Open, Novice	SBUM BELLAS	74	73	75	73	74	369	73.80	0.75
+99=	Charlaine Alodaga	Open, Novice	DLSU-SHS go/jo	75	74	74	73	73	369	73.80	0.75
+99=	Vivienne Tai Chan	Open, Novice	DLSU-SHS go/jo	74	73	74	74	74	369	73.80	0.40
+110=	FRANCESCA MARIE GONZALES	Open, Novice	Euphemia (HAUDC)	73	72	76	72	75	368	73.60	1.62
+110=	Xhera Elam	Open, Novice	ADZU Lizher	74	73	74	74	73	368	73.60	0.49
+110=	Jazel JR. B. Sevilla	Open, Novice, Malolos	sir k3l defenderz	72	73	74	76	73	368	73.60	1.36
+110=	Abby Nina Mikylla Gantalao	Open, Novice	ADDU-SHS MAra GAra	73	75	73	73	74	368	73.60	0.80
+114=	Gabatan, Khen Ivan Emerzon A.	Open, Novice	UNO	74	73	73	73	73	366	73.20	0.40
+114=	Franklein Jay M. Pesucan	Open, Novice	IHMA El Grasya	73	76	73	69	75	366	73.20	2.40
+116=	Kurt Arago	Open, Novice, Malolos	DYCI Riptide	72	73	75	72	73	365	73.00	1.10
+116=	Jomari Malazzab	Open, Novice, Malolos	DYCI Riptide	73	72	76	72	72	365	73.00	1.55
+118	Shehzad Tanweer T. Ugtonan	Open, Novice	IHMA El Grasya	74	75	71	69	75	364	72.80	2.40
+119	Lopez, Niña Joy, B	Open, Novice	UNO	74	72	72	73	72	363	72.60	0.80
+120	MARIA JAN TRISKLYN TOLO TAJALE	Open, Novice	Marvel (HAUDC)	69	71	73	70	73	356	71.20	1.60
+121	BERNADETTE MAGONCIA	Open, Novice	Marvel (HAUDC)	69	71	73	71	71	355	71.00	1.26
+122	Gab Pacaño	Open	PAC MEZ	79	79	79	—	78	315	78.75	0.43
+123	Kismet Soriano	Open, Novice	UPLB Comeback Szn	—	76	75	75	79	305	76.25	1.64
+124	Axel Ann Banihit	Open, Novice	LPD Pababy kami pls	74	77	—	75	77	303	75.75	1.30
+125	Speaker 1		Swing 1	77	71	—	78	76	302	75.50	2.69
+126=	Antonette Grace Peñaflor	Open, Novice	ADZU Qties	—	76	73	74	72	295	73.75	1.48
+126=	Nadette Danya Tajores	Open, Novice	ADZU Qties	—	75	74	74	72	295	73.75	1.09
+128	John Paul Herman	Open, Novice	ULS ULS DJ	73	71	76	74	—	294	73.50	1.80
+129	ANGELA CLAUDINE PINEDA	Open, Novice	Sylvie (HAUDC)	72	73	73	75	—	293	73.25	1.09
+130	MA. CHRISTINE FRANCES FLORES	Open, Novice	Sylvie (HAUDC)	71	74	72	75	—	292	73.00	1.58
+131	Dan Gabun	Open	ULS ULS DJ	73	70	75	72	—	290	72.50	1.80
+132	Kelvin Dwayne Lampon	Open	PSHS K&lt;3D, R&lt;3J	78	75	77	—	—	230	76.67	1.25
+133=	Robert Justin F. Espinar	Open	PSHS K&lt;3D, R&lt;3J	78	74	76	—	—	228	76.00	1.63
+133=	Patrick Ray C. Tan	Open, Novice	ADZU A	77	77	74	—	—	228	76.00	1.41
+135=	Eryl James Cabiles	Open, Novice	FEUM FEU CA	80	74	73	—	—	227	75.67	3.09
+135=	Kurt Adrian Abalos	Open, Novice	FEUM FEU CA	80	74	73	—	—	227	75.67	3.09
+137	Patrisha Klaire Bautista	Open	LPD Pababy kami pls	74	76	—	—	76	226	75.33	0.94
+138	Emilio Mosquisa II	Open, Novice	ADZU A	77	75	73	—	—	225	75.00	1.63
+139=	Speaker 2		Swing 1	77	71	—	—	76	224	74.67	2.62
+139=	Speaker 1		Swing 2	—	74	76	74	—	224	74.67	0.94
+139=	Mcvine Jambangan	Open, Novice	LPD Naomi &amp; Shalom	73	77	—	—	74	224	74.67	1.70
+142=	Speaker 1		Swing 2	—	73	—	77	72	222	74.00	2.16
+142=	Rizelle Lim	Open, Novice	LPD Naomi &amp; Shalom	72	75	—	—	75	222	74.00	1.41
+144	Marcus Christophe L.  Parial	Open, Novice	POMNHS sadbois	72	75	74	—	—	221	73.67	1.25
+145=	Speaker 2		Swing 2	—	72	—	76	72	220	73.33	1.89
+145=	Finnix F. Calagui	Open, Novice	POMNHS sadbois	71	75	74	—	—	220	73.33	1.70
+147	NIKKSON CAYANAN	Open, Novice	Freia (HAUDC)	69	73	—	72	—	214	71.33	1.70
+148	Aadya Singh	Open, Novice	only institution im breaking down i	78	—	80	—	—	158	79.00	1.00
+149	Speaker 1		Swing 3	—	77	—	75	—	152	76.00	1.00
+150=	swing 1		swing 1	—	78	—	73	—	151	75.50	2.50
+150=	Speaker 2		Swing 3	—	77	—	74	—	151	75.50	1.50
+150=	Cristan Blans Manabat	Open	ADDU-SHS CrisChrisTanTine	73	78	—	—	—	151	75.50	2.50
+153=	John Locke	Open	PUP PUP no extra utils	77	73	—	—	—	150	75.00	2.00
+153=	Jeremy Bentham	Open, Novice	PUP PUP no extra utils	77	73	—	—	—	150	75.00	2.00
+155	Tricia Millenas	Open, Novice	SBDC - DA VINCY	75	72	—	—	—	147	73.50	1.50
+156=	Gavin Cocjin	Open, Novice	IBED Trojans	70	75	—	—	—	145	72.50	2.50
+156=	Aaron Geronimo	Open, Novice	SBDC - DA VINCY	74	71	—	—	—	145	72.50	1.50
+158	Kate Daphne Lantano	Open, Novice	Freia (HAUDC)	70	73	—	—	—	143	71.50	1.50
+159	Fatima Zahra	Open, Novice	only institution im breaking down i	—	—	80	—	—	80	80.00	0.00
+160	Speaker 2		Swing 2	—	—	75	—	—	75	75.00	0.00
+161	swing 2		swing 1	—	—	—	73	—	73	73.00	0.00
+162	Jaira Paglicawan	Open, Novice	IBED Trojans	70	—	—	—	—	70	70.00	0.00
+163=	Joaquin Raphael Villareal	Open, Novice	Loki (HAUDC)	—	—	—	—	—	—	—	—
+163=	Kervin Clyde Padilla	Open, Novice	Loki (HAUDC)	—	—	—	—	—	—	—	—
+163=	Kenneth De Guzman	Open, Novice	Korra (HAUDC)	—	—	—	—	—	—	—	—
+163=	Patricia Ysabel Torres	Open, Novice	Korra (HAUDC)	—	—	—	—	—	—	—	—
+163=	JAMES GABRIEL ORAYE	Open, Novice	Athena (HAUDC)	—	—	—	—	—	—	—	—
+163=	EMMANUEL MANALASTAS	Open, Novice	Athena (HAUDC)	—	—	—	—	—	—	—	—
+163=	GODWIN PRING	Open	Nunnally (HAUDC)	—	—	—	—	—	—	—	—
+163=	TRISHA CAMILLE MONTEMAYOR	Open	Nunnally (HAUDC)	—	—	—	—	—	—	—	—
+163=	&quot;Tristan Jake G. Segura	Open	MSUIIT IIT TU	—	—	—	—	—	—	—	—
+163=	Uvay-ubay, Uriel Lim	Open, Novice	MSUIIT IIT TU	—	—	—	—	—	—	—	—
+163=	Marcus John M. Manaig	Open, Novice, Malolos	MHDP Marcus and Marby	—	—	—	—	—	—	—	—
+163=	John Marby M. Montes	Open, Novice, Malolos	MHDP Marcus and Marby	—	—	—	—	—	—	—	—
+163=	Sean Sanchez	Open	XUAC SEULGI SLAY ME NOW	—	—	—	—	—	—	—	—
+163=	Yeisha Abejo	Open	XUAC SEULGI SLAY ME NOW	—	—	—	—	—	—	—	—
+163=	Hugh Franco Estrada	Open	XUAC team babi	—	—	—	—	—	—	—	—
+163=	James Cachola	Open	XUAC team babi	—	—	—	—	—	—	—	—
+163=	John Robertson Despi	Open, Novice	UPLB Chicharong Bulaklak	—	—	—	—	—	—	—	—
+163=	Vince Emmanuel Peña	Open	UPLB Chicharong Bulaklak	—	—	—	—	—	—	—	—
+163=	Leila Sto. Domingo	Open, Novice	NCSHS mianhae kathniels 2: electric booga	—	—	—	—	—	—	—	—
+163=	Christopher Sumayao	Open, Novice	NCSHS mianhae kathniels 2: electric booga	—	—	—	—	—	—	—	—
+163=	Gabrielle Tatel	Open, Novice	we code from SITEAO	—	—	—	—	—	—	—	—
+163=	Adrian Russel Magno	Open, Novice	we code from SITEAO	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators	motion
+Swing 1	2nd	Opening Government	View Ballot	Athena Matin-awⒸ , Micaella Abarquez , Sophie Marie Isobel Rimando	the destruction of girlbosses everywhere
+only institution im breaking down i	1st	Opening Opposition	View Ballot	Athena Matin-awⒸ , Micaella Abarquez , Sophie Marie Isobel Rimando	the destruction of girlbosses everywhere
+ULS CJ	4th	Closing Government	View Ballot	Athena Matin-awⒸ , Micaella Abarquez , Sophie Marie Isobel Rimando	the destruction of girlbosses everywhere
+ULS LJ	3rd	Closing Opposition	View Ballot	Athena Matin-awⒸ , Micaella Abarquez , Sophie Marie Isobel Rimando	the destruction of girlbosses everywhere
+UNO	4th	Opening Government	View Ballot	PolⒸ , Betina Racanday Aquino , Merle Carbon	the destruction of girlbosses everywhere
+ADZU Lizher	3rd	Opening Opposition	View Ballot	PolⒸ , Betina Racanday Aquino , Merle Carbon	the destruction of girlbosses everywhere
+USTL - DF	2nd	Closing Government	View Ballot	PolⒸ , Betina Racanday Aquino , Merle Carbon	the destruction of girlbosses everywhere
+FEUM FEU GV	1st	Closing Opposition	View Ballot	PolⒸ , Betina Racanday Aquino , Merle Carbon	the destruction of girlbosses everywhere
+DLSU loser says poi	1st	Opening Opposition	View Ballot	Abdul WassayⒸ , Haven Mosquito , Kharl Frederick Pagat	the destruction of girlbosses everywhere
+UPLB Comeback Szn	3rd	Opening Government	View Ballot	Abdul WassayⒸ , Haven Mosquito , Kharl Frederick Pagat	the destruction of girlbosses everywhere
+Meow for POI	2nd	Closing Opposition	View Ballot	Abdul WassayⒸ , Haven Mosquito , Kharl Frederick Pagat	the destruction of girlbosses everywhere
+one of us is a lucy gray and coriol	4th	Closing Government	View Ballot	Abdul WassayⒸ , Haven Mosquito , Kharl Frederick Pagat	the destruction of girlbosses everywhere
+Firecracker (HAUDC)	4th	Opening Government	View Ballot	AxlotlezⒸ , Francisco Olpindo IV , Jerico Dungca	the destruction of girlbosses everywhere
+FEUM FEU AS	1st	Closing Opposition	View Ballot	AxlotlezⒸ , Francisco Olpindo IV , Jerico Dungca	the destruction of girlbosses everywhere
+PUP PUP no extra utils	2nd	Closing Government	View Ballot	AxlotlezⒸ , Francisco Olpindo IV , Jerico Dungca	the destruction of girlbosses everywhere
+DLSU-SHS go/jo	3rd	Opening Opposition	View Ballot	AxlotlezⒸ , Francisco Olpindo IV , Jerico Dungca	the destruction of girlbosses everywhere
+DLSU Gacha Gamers	1st	Closing Government	View Ballot	Vicente Medin NicolasⒸ , Aubrey Marya N. Macalde , Matthew Ace Angelo G. Tinamisan	the destruction of girlbosses everywhere
+ADDU-SHS MAra GAra	2nd	Opening Government	View Ballot	Vicente Medin NicolasⒸ , Aubrey Marya N. Macalde , Matthew Ace Angelo G. Tinamisan	the destruction of girlbosses everywhere
+SBUM Poiyat	4th	Closing Opposition	View Ballot	Vicente Medin NicolasⒸ , Aubrey Marya N. Macalde , Matthew Ace Angelo G. Tinamisan	the destruction of girlbosses everywhere
+LPD Naomi &amp; Shalom	3rd	Opening Opposition	View Ballot	Vicente Medin NicolasⒸ , Aubrey Marya N. Macalde , Matthew Ace Angelo G. Tinamisan	the destruction of girlbosses everywhere
+IHMA Kulto ni Aldub	3rd	Opening Opposition	View Ballot	Shane Heart BuhisanⒸ , Alkeziah Assuit , Leila Umandap	the destruction of girlbosses everywhere
+FEUM FEU CA	1st	Closing Opposition	View Ballot	Shane Heart BuhisanⒸ , Alkeziah Assuit , Leila Umandap	the destruction of girlbosses everywhere
+FEUM FEU GA	2nd	Opening Government	View Ballot	Shane Heart BuhisanⒸ , Alkeziah Assuit , Leila Umandap	the destruction of girlbosses everywhere
+IBED Trojans	4th	Closing Government	View Ballot	Shane Heart BuhisanⒸ , Alkeziah Assuit , Leila Umandap	the destruction of girlbosses everywhere
+IIT HJ	4th	Closing Opposition	View Ballot	Alexi CariagaⒸ , Kenneth Thomas Canque , Phoebe Dominguez	the destruction of girlbosses everywhere
+PSHS K&lt;3D, R&lt;3J	2nd	Closing Government	View Ballot	Alexi CariagaⒸ , Kenneth Thomas Canque , Phoebe Dominguez	the destruction of girlbosses everywhere
+its not confidential funds its fanu	1st	Opening Government	View Ballot	Alexi CariagaⒸ , Kenneth Thomas Canque , Phoebe Dominguez	the destruction of girlbosses everywhere
+XUAC Dodot and Diding	3rd	Opening Opposition	View Ballot	Alexi CariagaⒸ , Kenneth Thomas Canque , Phoebe Dominguez	the destruction of girlbosses everywhere
+Freia (HAUDC)	3rd	Closing Opposition	View Ballot	Allain ChristopherⒸ , Angeline Marie Realingo , Margaret Cristobal	the destruction of girlbosses everywhere
+Marvel (HAUDC)	4th	Closing Government	View Ballot	Allain ChristopherⒸ , Angeline Marie Realingo , Margaret Cristobal	the destruction of girlbosses everywhere
+ADMU ADMU TV	1st	Opening Government	View Ballot	Allain ChristopherⒸ , Angeline Marie Realingo , Margaret Cristobal	the destruction of girlbosses everywhere
+ADDU-SHS L_N_ Light	2nd	Opening Opposition	View Ballot	Allain ChristopherⒸ , Angeline Marie Realingo , Margaret Cristobal	the destruction of girlbosses everywhere
+Pogchamp	2nd	Closing Opposition	View Ballot	Miro FortunaⒸ , JM	the destruction of girlbosses everywhere
+ADDU-SHS CrisChrisTanTine	4th	Opening Opposition	View Ballot	Miro FortunaⒸ , JM	the destruction of girlbosses everywhere
+ADZU A	1st	Opening Government	View Ballot	Miro FortunaⒸ , JM	the destruction of girlbosses everywhere
+Damage Control Failed Successfully	3rd	Closing Government	View Ballot	Miro FortunaⒸ , JM	the destruction of girlbosses everywhere
+Team Zero (HAUDC)	4th	Closing Government	View Ballot	Aprylle Yesshua AmparoⒸ , Addison Fadrigo , Clofaye Abad	the destruction of girlbosses everywhere
+sir k3l defenderz	3rd	Opening Government	View Ballot	Aprylle Yesshua AmparoⒸ , Addison Fadrigo , Clofaye Abad	the destruction of girlbosses everywhere
+VIT getting the final stone	1st	Closing Opposition	View Ballot	Aprylle Yesshua AmparoⒸ , Addison Fadrigo , Clofaye Abad	the destruction of girlbosses everywhere
+Ogie Diaz School of Ganda Gandahan	2nd	Opening Opposition	View Ballot	Aprylle Yesshua AmparoⒸ , Addison Fadrigo , Clofaye Abad	the destruction of girlbosses everywhere
+UNUD A	2nd	Opening Opposition	View Ballot	Isaac BagalawisⒸ , Mark Louie Cabanting	the destruction of girlbosses everywhere
+USJ-R It started out with a kiss how did 	3rd	Opening Government	View Ballot	Isaac BagalawisⒸ , Mark Louie Cabanting	the destruction of girlbosses everywhere
+SBUM Gab^2	4th	Closing Government	View Ballot	Isaac BagalawisⒸ , Mark Louie Cabanting	the destruction of girlbosses everywhere
+franz and franz friend	1st	Closing Opposition	View Ballot	Isaac BagalawisⒸ , Mark Louie Cabanting	the destruction of girlbosses everywhere
+send NUDS to semifinals	4th	Opening Government	View Ballot	Sean BertizⒸ , Lance Castro , Stacey Louise Hurtado	the destruction of girlbosses everywhere
+UNUD B	2nd	Closing Opposition	View Ballot	Sean BertizⒸ , Lance Castro , Stacey Louise Hurtado	the destruction of girlbosses everywhere
+UPLB Flowers	1st	Closing Government	View Ballot	Sean BertizⒸ , Lance Castro , Stacey Louise Hurtado	the destruction of girlbosses everywhere
+SBDC - DA VINCY	3rd	Opening Opposition	View Ballot	Sean BertizⒸ , Lance Castro , Stacey Louise Hurtado	the destruction of girlbosses everywhere
+POMNHS this is our first time debating	3rd	Opening Opposition	View Ballot	Stephanie CayabyabⒸ , Christian Andrianto , Lorenz De Claro	the destruction of girlbosses everywhere
+SBUM BELLAS	4th	Closing Government	View Ballot	Stephanie CayabyabⒸ , Christian Andrianto , Lorenz De Claro	the destruction of girlbosses everywhere
+UPM Mekus2 #TamaNaYanInsan	2nd	Closing Opposition	View Ballot	Stephanie CayabyabⒸ , Christian Andrianto , Lorenz De Claro	the destruction of girlbosses everywhere
+PAC MEZ	1st	Opening Government	View Ballot	Stephanie CayabyabⒸ , Christian Andrianto , Lorenz De Claro	the destruction of girlbosses everywhere
+14/6 Gang	1st	Closing Government	View Ballot	Jaryll JuntadoⒸ , Mar Inno Brian Plazos , Mark Angelo L. Gallardo	the destruction of girlbosses everywhere
+FEUM FEU MB	2nd	Opening Government	View Ballot	Jaryll JuntadoⒸ , Mar Inno Brian Plazos , Mark Angelo L. Gallardo	the destruction of girlbosses everywhere
+POMNHS sadbois	4th	Closing Opposition	View Ballot	Jaryll JuntadoⒸ , Mar Inno Brian Plazos , Mark Angelo L. Gallardo	the destruction of girlbosses everywhere
+DLSU kalawang	3rd	Opening Opposition	View Ballot	Jaryll JuntadoⒸ , Mar Inno Brian Plazos , Mark Angelo L. Gallardo	the destruction of girlbosses everywhere
+Call Him By His Last Name	3rd	Opening Opposition	View Ballot	Angela AnezkaⒸ , Nayaka Ksatria Purantara , Reignier Reantillo	the destruction of girlbosses everywhere
+MSUIIT IIT AJ	2nd	Closing Opposition	View Ballot	Angela AnezkaⒸ , Nayaka Ksatria Purantara , Reignier Reantillo	the destruction of girlbosses everywhere
+DLSU-SHS 102.5% Chinese	1st	Opening Government	View Ballot	Angela AnezkaⒸ , Nayaka Ksatria Purantara , Reignier Reantillo	the destruction of girlbosses everywhere
+IHMA TheHowsOfUs😔✊	4th	Closing Government	View Ballot	Angela AnezkaⒸ , Nayaka Ksatria Purantara , Reignier Reantillo	the destruction of girlbosses everywhere
+One (HAUDC)	3rd	Closing Opposition	View Ballot	Sam UnabiaⒸ , Dave Michael Villasan , Kate Garcia	the destruction of girlbosses everywhere
+NUDS That time I reincarnated as a 	1st	Opening Government	View Ballot	Sam UnabiaⒸ , Dave Michael Villasan , Kate Garcia	the destruction of girlbosses everywhere
+LPD Pababy kami pls	4th	Opening Opposition	View Ballot	Sam UnabiaⒸ , Dave Michael Villasan , Kate Garcia	the destruction of girlbosses everywhere
+IHMA debATEfulness	2nd	Closing Government	View Ballot	Sam UnabiaⒸ , Dave Michael Villasan , Kate Garcia	the destruction of girlbosses everywhere
+AdDU FJ	1st	Closing Government	View Ballot	Keshav Rai BramhabhattⒸ , Elritz L. Lauron , FAYZAH INSHIRA ALA	the destruction of girlbosses everywhere
+DU A	2nd	Opening Government	View Ballot	Keshav Rai BramhabhattⒸ , Elritz L. Lauron , FAYZAH INSHIRA ALA	the destruction of girlbosses everywhere
+ADDU-SHS Barbs	3rd	Opening Opposition	View Ballot	Keshav Rai BramhabhattⒸ , Elritz L. Lauron , FAYZAH INSHIRA ALA	the destruction of girlbosses everywhere
+ULS ULS DJ	4th	Closing Opposition	View Ballot	Keshav Rai BramhabhattⒸ , Elritz L. Lauron , FAYZAH INSHIRA ALA	the destruction of girlbosses everywhere
+Euphemia (HAUDC)	4th	Opening Opposition	View Ballot	Matthew GodsloveⒸ , Marvin Mc Hyll Battung , Ronalyn Chan	the destruction of girlbosses everywhere
+MSUIIT IIT SR	2nd	Closing Opposition	View Ballot	Matthew GodsloveⒸ , Marvin Mc Hyll Battung , Ronalyn Chan	the destruction of girlbosses everywhere
+feu-Hehe im shy	1st	Closing Government	View Ballot	Matthew GodsloveⒸ , Marvin Mc Hyll Battung , Ronalyn Chan	the destruction of girlbosses everywhere
+PHDS Raining in manila pero di nila	3rd	Opening Government	View Ballot	Matthew GodsloveⒸ , Marvin Mc Hyll Battung , Ronalyn Chan	the destruction of girlbosses everywhere
+Sylvie (HAUDC)	4th	Closing Opposition	View Ballot	Kylene Faith AndalesⒸ , Gia Marie Mayangao , Kenj	the destruction of girlbosses everywhere
+IHMA El Grasya	2nd	Opening Government	View Ballot	Kylene Faith AndalesⒸ , Gia Marie Mayangao , Kenj	the destruction of girlbosses everywhere
+MSU SKELETATO	1st	Opening Opposition	View Ballot	Kylene Faith AndalesⒸ , Gia Marie Mayangao , Kenj	the destruction of girlbosses everywhere
+DYCI Riptide	3rd	Closing Government	View Ballot	Kylene Faith AndalesⒸ , Gia Marie Mayangao , Kenj	the destruction of girlbosses everywhere
+
+
+team	result	side	ballot	adjudicators	motion
+IBED Trojans	4th	Opening Government	View Ballot	Sam UnabiaⒸ , Aubrey Marya N. Macalde	mangkukulam does a bit of trolling
+POMNHS sadbois	3rd	Opening Opposition	View Ballot	Sam UnabiaⒸ , Aubrey Marya N. Macalde	mangkukulam does a bit of trolling
+ADZU Qties	2nd	Closing Government	View Ballot	Sam UnabiaⒸ , Aubrey Marya N. Macalde	mangkukulam does a bit of trolling
+one of us is a lucy gray and coriol	1st	Closing Opposition	View Ballot	Sam UnabiaⒸ , Aubrey Marya N. Macalde	mangkukulam does a bit of trolling
+Pogchamp	1st	Opening Opposition	View Ballot	Phoebe DominguezⒸ , Dave Michael Villasan , Kyle Germita	mangkukulam does a bit of trolling
+MSUIIT IIT AJ	4th	Opening Government	View Ballot	Phoebe DominguezⒸ , Dave Michael Villasan , Kyle Germita	mangkukulam does a bit of trolling
+USTL - DF	3rd	Closing Opposition	View Ballot	Phoebe DominguezⒸ , Dave Michael Villasan , Kyle Germita	mangkukulam does a bit of trolling
+FEUM FEU GA	2nd	Closing Government	View Ballot	Phoebe DominguezⒸ , Dave Michael Villasan , Kyle Germita	mangkukulam does a bit of trolling
+swing 1	1st	Opening Opposition	View Ballot	Kenneth Thomas CanqueⒸ , Christian Andrianto , Jerico Dungca	mangkukulam does a bit of trolling
+ULS CJ	3rd	Closing Opposition	View Ballot	Kenneth Thomas CanqueⒸ , Christian Andrianto , Jerico Dungca	mangkukulam does a bit of trolling
+ULS ULS DJ	4th	Opening Government	View Ballot	Kenneth Thomas CanqueⒸ , Christian Andrianto , Jerico Dungca	mangkukulam does a bit of trolling
+LPD Pababy kami pls	2nd	Closing Government	View Ballot	Kenneth Thomas CanqueⒸ , Christian Andrianto , Jerico Dungca	mangkukulam does a bit of trolling
+FEUM FEU AS	3rd	Closing Government	View Ballot	Kylene Faith AndalesⒸ , Gia Marie Mayangao , Miro Fortuna	mangkukulam does a bit of trolling
+FEUM FEU CA	4th	Opening Government	View Ballot	Kylene Faith AndalesⒸ , Gia Marie Mayangao , Miro Fortuna	mangkukulam does a bit of trolling
+FEUM FEU GV	2nd	Opening Opposition	View Ballot	Kylene Faith AndalesⒸ , Gia Marie Mayangao , Miro Fortuna	mangkukulam does a bit of trolling
+DLSU loser says poi	1st	Closing Opposition	View Ballot	Kylene Faith AndalesⒸ , Gia Marie Mayangao , Miro Fortuna	mangkukulam does a bit of trolling
+Call Him By His Last Name	3rd	Opening Government	View Ballot	Matthew GodsloveⒸ , Francisco Olpindo IV , Leila Umandap	mangkukulam does a bit of trolling
+sir k3l defenderz	1st	Opening Opposition	View Ballot	Matthew GodsloveⒸ , Francisco Olpindo IV , Leila Umandap	mangkukulam does a bit of trolling
+SBDC - DA VINCY	4th	Closing Government	View Ballot	Matthew GodsloveⒸ , Francisco Olpindo IV , Leila Umandap	mangkukulam does a bit of trolling
+DYCI Riptide	2nd	Closing Opposition	View Ballot	Matthew GodsloveⒸ , Francisco Olpindo IV , Leila Umandap	mangkukulam does a bit of trolling
+UNUD B	3rd	Opening Government	View Ballot	James CacholaⒸ , Mar Inno Brian Plazos	mangkukulam does a bit of trolling
+MSUIIT IIT SR	4th	Opening Opposition	View Ballot	James CacholaⒸ , Mar Inno Brian Plazos	mangkukulam does a bit of trolling
+DU A	1st	Closing Opposition	View Ballot	James CacholaⒸ , Mar Inno Brian Plazos	mangkukulam does a bit of trolling
+UPLB Comeback Szn	2nd	Closing Government	View Ballot	James CacholaⒸ , Mar Inno Brian Plazos	mangkukulam does a bit of trolling
+Swing 1	4th	Closing Government	View Ballot	Reignier ReantilloⒸ , Alkeziah Assuit , Shane Heart Buhisan	mangkukulam does a bit of trolling
+FEUM FEU MB	1st	Opening Opposition	View Ballot	Reignier ReantilloⒸ , Alkeziah Assuit , Shane Heart Buhisan	mangkukulam does a bit of trolling
+PSHS K&lt;3D, R&lt;3J	2nd	Opening Government	View Ballot	Reignier ReantilloⒸ , Alkeziah Assuit , Shane Heart Buhisan	mangkukulam does a bit of trolling
+PUP PUP no extra utils	3rd	Closing Opposition	View Ballot	Reignier ReantilloⒸ , Alkeziah Assuit , Shane Heart Buhisan	mangkukulam does a bit of trolling
+Marvel (HAUDC)	4th	Opening Opposition	View Ballot	Elritz L. LauronⒸ , Martina Macaraig , Marvin Mc Hyll Battung	mangkukulam does a bit of trolling
+Swing 2	3rd	Closing Government	View Ballot	Elritz L. LauronⒸ , Martina Macaraig , Marvin Mc Hyll Battung	mangkukulam does a bit of trolling
+ADDU-SHS CrisChrisTanTine	1st	Opening Government	View Ballot	Elritz L. LauronⒸ , Martina Macaraig , Marvin Mc Hyll Battung	mangkukulam does a bit of trolling
+IHMA TheHowsOfUs😔✊	2nd	Closing Opposition	View Ballot	Elritz L. LauronⒸ , Martina Macaraig , Marvin Mc Hyll Battung	mangkukulam does a bit of trolling
+send NUDS to semifinals	2nd	Opening Opposition	View Ballot	Clofaye AbadⒸ , Niña Kate Ashley J.  Roderos	mangkukulam does a bit of trolling
+Euphemia (HAUDC)	4th	Closing Government	View Ballot	Clofaye AbadⒸ , Niña Kate Ashley J.  Roderos	mangkukulam does a bit of trolling
+Sylvie (HAUDC)	3rd	Opening Government	View Ballot	Clofaye AbadⒸ , Niña Kate Ashley J.  Roderos	mangkukulam does a bit of trolling
+Swing 3	1st	Closing Opposition	View Ballot	Clofaye AbadⒸ , Niña Kate Ashley J.  Roderos	mangkukulam does a bit of trolling
+14/6 Gang	3rd	Opening Government	View Ballot	Angela AnezkaⒸ , FAYZAH INSHIRA ALA , Kate Garcia	mangkukulam does a bit of trolling
+DLSU Gacha Gamers	2nd	Opening Opposition	View Ballot	Angela AnezkaⒸ , FAYZAH INSHIRA ALA , Kate Garcia	mangkukulam does a bit of trolling
+Swing 2	4th	Closing Government	View Ballot	Angela AnezkaⒸ , FAYZAH INSHIRA ALA , Kate Garcia	mangkukulam does a bit of trolling
+its not confidential funds its fanu	1st	Closing Opposition	View Ballot	Angela AnezkaⒸ , FAYZAH INSHIRA ALA , Kate Garcia	mangkukulam does a bit of trolling
+Team Zero (HAUDC)	1st	Closing Opposition	View Ballot	Sophie Marie Isobel RimandoⒸ , Axlotlez , Stephanie Cayabyab	mangkukulam does a bit of trolling
+UNO	3rd	Closing Government	View Ballot	Sophie Marie Isobel RimandoⒸ , Axlotlez , Stephanie Cayabyab	mangkukulam does a bit of trolling
+IIT HJ	2nd	Opening Opposition	View Ballot	Sophie Marie Isobel RimandoⒸ , Axlotlez , Stephanie Cayabyab	mangkukulam does a bit of trolling
+SBUM Poiyat	4th	Opening Government	View Ballot	Sophie Marie Isobel RimandoⒸ , Axlotlez , Stephanie Cayabyab	mangkukulam does a bit of trolling
+AdDU FJ	1st	Closing Opposition	View Ballot	Addison FadrigoⒸ , Merle Carbon , Vicente Medin Nicolas	mangkukulam does a bit of trolling
+UPLB Flowers	2nd	Opening Government	View Ballot	Addison FadrigoⒸ , Merle Carbon , Vicente Medin Nicolas	mangkukulam does a bit of trolling
+NUDS That time I reincarnated as a 	3rd	Opening Opposition	View Ballot	Addison FadrigoⒸ , Merle Carbon , Vicente Medin Nicolas	mangkukulam does a bit of trolling
+VIT getting the final stone	4th	Closing Government	View Ballot	Addison FadrigoⒸ , Merle Carbon , Vicente Medin Nicolas	mangkukulam does a bit of trolling
+feu-Hehe im shy	2nd	Opening Opposition	View Ballot	Imran IlmamⒸ , Abdul Wassay , Kharl Frederick Pagat	mangkukulam does a bit of trolling
+MSU SKELETATO	4th	Closing Government	View Ballot	Imran IlmamⒸ , Abdul Wassay , Kharl Frederick Pagat	mangkukulam does a bit of trolling
+PAC MEZ	1st	Closing Opposition	View Ballot	Imran IlmamⒸ , Abdul Wassay , Kharl Frederick Pagat	mangkukulam does a bit of trolling
+franz and franz friend	3rd	Opening Government	View Ballot	Imran IlmamⒸ , Abdul Wassay , Kharl Frederick Pagat	mangkukulam does a bit of trolling
+ADDU-SHS Barbs	4th	Closing Opposition	View Ballot	PolⒸ	mangkukulam does a bit of trolling
+UPM Mekus2 #TamaNaYanInsan	2nd	Opening Government	View Ballot	PolⒸ	mangkukulam does a bit of trolling
+IHMA El Grasya	3rd	Closing Government	View Ballot	PolⒸ	mangkukulam does a bit of trolling
+IHMA debATEfulness	1st	Opening Opposition	View Ballot	PolⒸ	mangkukulam does a bit of trolling
+ADZU Lizher	4th	Closing Opposition	View Ballot	Athena Matin-awⒸ , Angeline Marie Realingo	mangkukulam does a bit of trolling
+XUAC Dodot and Diding	1st	Closing Government	View Ballot	Athena Matin-awⒸ , Angeline Marie Realingo	mangkukulam does a bit of trolling
+PHDS Raining in manila pero di nila	2nd	Opening Opposition	View Ballot	Athena Matin-awⒸ , Angeline Marie Realingo	mangkukulam does a bit of trolling
+SBUM BELLAS	3rd	Opening Government	View Ballot	Athena Matin-awⒸ , Angeline Marie Realingo	mangkukulam does a bit of trolling
+Firecracker (HAUDC)	1st	Closing Opposition	View Ballot	Micaella AbarquezⒸ , Jaryll Juntado , Nayaka Ksatria Purantara	mangkukulam does a bit of trolling
+Freia (HAUDC)	4th	Opening Opposition	View Ballot	Micaella AbarquezⒸ , Jaryll Juntado , Nayaka Ksatria Purantara	mangkukulam does a bit of trolling
+IHMA Kulto ni Aldub	3rd	Opening Government	View Ballot	Micaella AbarquezⒸ , Jaryll Juntado , Nayaka Ksatria Purantara	mangkukulam does a bit of trolling
+LPD Naomi &amp; Shalom	2nd	Closing Government	View Ballot	Micaella AbarquezⒸ , Jaryll Juntado , Nayaka Ksatria Purantara	mangkukulam does a bit of trolling
+ADMU ADMU TV	2nd	Closing Government	View Ballot	KenjⒸ , Lance Castro , Matthew Ace Angelo G. Tinamisan	mangkukulam does a bit of trolling
+DLSU-SHS 102.5% Chinese	4th	Closing Opposition	View Ballot	KenjⒸ , Lance Castro , Matthew Ace Angelo G. Tinamisan	mangkukulam does a bit of trolling
+ADZU A	3rd	Opening Opposition	View Ballot	KenjⒸ , Lance Castro , Matthew Ace Angelo G. Tinamisan	mangkukulam does a bit of trolling
+Meow for POI	1st	Opening Government	View Ballot	KenjⒸ , Lance Castro , Matthew Ace Angelo G. Tinamisan	mangkukulam does a bit of trolling
+One (HAUDC)	3rd	Opening Government	View Ballot	Sean BertizⒸ , JM , Margaret Cristobal	mangkukulam does a bit of trolling
+USJ-R It started out with a kiss how did 	2nd	Opening Opposition	View Ballot	Sean BertizⒸ , JM , Margaret Cristobal	mangkukulam does a bit of trolling
+DLSU kalawang	1st	Closing Government	View Ballot	Sean BertizⒸ , JM , Margaret Cristobal	mangkukulam does a bit of trolling
+DLSU-SHS go/jo	4th	Closing Opposition	View Ballot	Sean BertizⒸ , JM , Margaret Cristobal	mangkukulam does a bit of trolling
+POMNHS this is our first time debating	3rd	Closing Opposition	View Ballot	Haven MosquitoⒸ , Gab De Lazo , Ronalyn Chan	mangkukulam does a bit of trolling
+SBUM Gab^2	2nd	Opening Opposition	View Ballot	Haven MosquitoⒸ , Gab De Lazo , Ronalyn Chan	mangkukulam does a bit of trolling
+ULS LJ	4th	Closing Government	View Ballot	Haven MosquitoⒸ , Gab De Lazo , Ronalyn Chan	mangkukulam does a bit of trolling
+Damage Control Failed Successfully	1st	Opening Government	View Ballot	Haven MosquitoⒸ , Gab De Lazo , Ronalyn Chan	mangkukulam does a bit of trolling
+UNUD A	4th	Closing Government	View Ballot	Stacey Louise HurtadoⒸ , Alexi Cariaga , Betina Racanday Aquino	mangkukulam does a bit of trolling
+ADDU-SHS L_N_ Light	3rd	Closing Opposition	View Ballot	Stacey Louise HurtadoⒸ , Alexi Cariaga , Betina Racanday Aquino	mangkukulam does a bit of trolling
+ADDU-SHS MAra GAra	2nd	Opening Opposition	View Ballot	Stacey Louise HurtadoⒸ , Alexi Cariaga , Betina Racanday Aquino	mangkukulam does a bit of trolling
+Ogie Diaz School of Ganda Gandahan	1st	Opening Government	View Ballot	Stacey Louise HurtadoⒸ , Alexi Cariaga , Betina Racanday Aquino	mangkukulam does a bit of trolling
+
+
+team	result	side	ballot	adjudicators	motion
+PSHS K&lt;3D, R&lt;3J	1st	Closing Opposition	View Ballot	Haven MosquitoⒸ , Matthew Ace Angelo G. Tinamisan , Sophie Marie Isobel RimandoⓉ	this is a matt healy reference
+sir k3l defenderz	4th	Closing Government	View Ballot	Haven MosquitoⒸ , Matthew Ace Angelo G. Tinamisan , Sophie Marie Isobel RimandoⓉ	this is a matt healy reference
+XUAC Dodot and Diding	3rd	Opening Government	View Ballot	Haven MosquitoⒸ , Matthew Ace Angelo G. Tinamisan , Sophie Marie Isobel RimandoⓉ	this is a matt healy reference
+franz and franz friend	2nd	Opening Opposition	View Ballot	Haven MosquitoⒸ , Matthew Ace Angelo G. Tinamisan , Sophie Marie Isobel RimandoⓉ	this is a matt healy reference
+FEUM FEU GV	3rd	Opening Government	View Ballot	Imran IlmamⒸ , Phoebe Dominguez , Reignier Reantillo , AxlotlezⓉ	this is a matt healy reference
+ADMU ADMU TV	1st	Opening Opposition	View Ballot	Imran IlmamⒸ , Phoebe Dominguez , Reignier Reantillo , AxlotlezⓉ	this is a matt healy reference
+DU A	2nd	Closing Government	View Ballot	Imran IlmamⒸ , Phoebe Dominguez , Reignier Reantillo , AxlotlezⓉ	this is a matt healy reference
+UPLB Flowers	4th	Closing Opposition	View Ballot	Imran IlmamⒸ , Phoebe Dominguez , Reignier Reantillo , AxlotlezⓉ	this is a matt healy reference
+One (HAUDC)	2nd	Opening Opposition	View Ballot	Clofaye AbadⒸ , Nayaka Ksatria Purantara	this is a matt healy reference
+UNO	4th	Closing Opposition	View Ballot	Clofaye AbadⒸ , Nayaka Ksatria Purantara	this is a matt healy reference
+MSUIIT IIT SR	1st	Closing Government	View Ballot	Clofaye AbadⒸ , Nayaka Ksatria Purantara	this is a matt healy reference
+POMNHS this is our first time debating	3rd	Opening Government	View Ballot	Clofaye AbadⒸ , Nayaka Ksatria Purantara	this is a matt healy reference
+Swing 2	1st	Opening Opposition	View Ballot	Aubrey Marya N. MacaldeⒸ , Addison Fadrigo , Alkeziah AssuitⓉ	this is a matt healy reference
+DLSU-SHS go/jo	3rd	Closing Government	View Ballot	Aubrey Marya N. MacaldeⒸ , Addison Fadrigo , Alkeziah AssuitⓉ	this is a matt healy reference
+SBDC - DA VINCY	4th	Closing Opposition	View Ballot	Aubrey Marya N. MacaldeⒸ , Addison Fadrigo , Alkeziah AssuitⓉ	this is a matt healy reference
+ULS LJ	2nd	Opening Government	View Ballot	Aubrey Marya N. MacaldeⒸ , Addison Fadrigo , Alkeziah AssuitⓉ	this is a matt healy reference
+POMNHS sadbois	4th	Opening Government	View Ballot	Sean BertizⒸ	this is a matt healy reference
+ADDU-SHS Barbs	1st	Closing Government	View Ballot	Sean BertizⒸ	this is a matt healy reference
+SBUM BELLAS	3rd	Closing Opposition	View Ballot	Sean BertizⒸ	this is a matt healy reference
+ULS CJ	2nd	Opening Opposition	View Ballot	Sean BertizⒸ	this is a matt healy reference
+DLSU Gacha Gamers	3rd	Closing Opposition	View Ballot	PolⒸ	this is a matt healy reference
+feu-Hehe im shy	2nd	Opening Government	View Ballot	PolⒸ	this is a matt healy reference
+Ogie Diaz School of Ganda Gandahan	1st	Closing Government	View Ballot	PolⒸ	this is a matt healy reference
+Damage Control Failed Successfully	4th	Opening Opposition	View Ballot	PolⒸ	this is a matt healy reference
+FEUM FEU AS	1st	Opening Government	View Ballot	Kyle GermitaⒸ , Abdul Wassay , Alexi Cariaga , Mar Inno Brian PlazosⓉ	this is a matt healy reference
+NUDS That time I reincarnated as a 	3rd	Closing Opposition	View Ballot	Kyle GermitaⒸ , Abdul Wassay , Alexi Cariaga , Mar Inno Brian PlazosⓉ	this is a matt healy reference
+UPM Mekus2 #TamaNaYanInsan	2nd	Opening Opposition	View Ballot	Kyle GermitaⒸ , Abdul Wassay , Alexi Cariaga , Mar Inno Brian PlazosⓉ	this is a matt healy reference
+ADZU A	4th	Closing Government	View Ballot	Kyle GermitaⒸ , Abdul Wassay , Alexi Cariaga , Mar Inno Brian PlazosⓉ	this is a matt healy reference
+Euphemia (HAUDC)	2nd	Closing Opposition	View Ballot	Micaella AbarquezⒸ	this is a matt healy reference
+Marvel (HAUDC)	4th	Opening Government	View Ballot	Micaella AbarquezⒸ	this is a matt healy reference
+SBUM Poiyat	1st	Closing Government	View Ballot	Micaella AbarquezⒸ	this is a matt healy reference
+ULS ULS DJ	3rd	Opening Opposition	View Ballot	Micaella AbarquezⒸ	this is a matt healy reference
+Firecracker (HAUDC)	4th	Closing Government	View Ballot	Gab De LazoⒸ , Angeline Marie Realingo	this is a matt healy reference
+IIT HJ	3rd	Opening Government	View Ballot	Gab De LazoⒸ , Angeline Marie Realingo	this is a matt healy reference
+USTL - DF	1st	Opening Opposition	View Ballot	Gab De LazoⒸ , Angeline Marie Realingo	this is a matt healy reference
+ADDU-SHS CrisChrisTanTine	2nd	Closing Opposition	View Ballot	Gab De LazoⒸ , Angeline Marie Realingo	this is a matt healy reference
+AdDU FJ	2nd	Opening Opposition	View Ballot	Isaac BagalawisⒸ , Jed Earl Tabora	this is a matt healy reference
+its not confidential funds its fanu	4th	Closing Opposition	View Ballot	Isaac BagalawisⒸ , Jed Earl Tabora	this is a matt healy reference
+DLSU loser says poi	3rd	Opening Government	View Ballot	Isaac BagalawisⒸ , Jed Earl Tabora	this is a matt healy reference
+PAC MEZ	1st	Closing Government	View Ballot	Isaac BagalawisⒸ , Jed Earl Tabora	this is a matt healy reference
+send NUDS to semifinals	2nd	Closing Opposition	View Ballot	Margaret CristobalⒸ , Jerico Dungca	this is a matt healy reference
+Sylvie (HAUDC)	4th	Closing Government	View Ballot	Margaret CristobalⒸ , Jerico Dungca	this is a matt healy reference
+MSUIIT IIT AJ	1st	Opening Opposition	View Ballot	Margaret CristobalⒸ , Jerico Dungca	this is a matt healy reference
+SBUM Gab^2	3rd	Opening Government	View Ballot	Margaret CristobalⒸ , Jerico Dungca	this is a matt healy reference
+IHMA Kulto ni Aldub	3rd	Closing Government	View Ballot	Stephanie CayabyabⒸ	this is a matt healy reference
+Call Him By His Last Name	2nd	Closing Opposition	View Ballot	Stephanie CayabyabⒸ	this is a matt healy reference
+ADZU Lizher	4th	Opening Opposition	View Ballot	Stephanie CayabyabⒸ	this is a matt healy reference
+IHMA TheHowsOfUs😔✊	1st	Opening Government	View Ballot	Stephanie CayabyabⒸ	this is a matt healy reference
+Pogchamp	1st	Closing Government	View Ballot	James CacholaⒸ , Kylene Faith AndalesⓉ	this is a matt healy reference
+FEUM FEU MB	2nd	Closing Opposition	View Ballot	James CacholaⒸ , Kylene Faith AndalesⓉ	this is a matt healy reference
+IHMA debATEfulness	4th	Opening Government	View Ballot	James CacholaⒸ , Kylene Faith AndalesⓉ	this is a matt healy reference
+Meow for POI	3rd	Opening Opposition	View Ballot	James CacholaⒸ , Kylene Faith AndalesⓉ	this is a matt healy reference
+Team Zero (HAUDC)	2nd	Opening Government	View Ballot	Mark Louie CabantingⒸ , Miro FortunaⓉ	this is a matt healy reference
+only institution im breaking down i	1st	Closing Opposition	View Ballot	Mark Louie CabantingⒸ , Miro FortunaⓉ	this is a matt healy reference
+ADDU-SHS L_N_ Light	3rd	Closing Government	View Ballot	Mark Louie CabantingⒸ , Miro FortunaⓉ	this is a matt healy reference
+DYCI Riptide	4th	Opening Opposition	View Ballot	Mark Louie CabantingⒸ , Miro FortunaⓉ	this is a matt healy reference
+UNUD A	2nd	Opening Government	View Ballot	Vicente Medin NicolasⒸ , Leila Umandap , Francisco Olpindo IVⓉ	this is a matt healy reference
+USJ-R It started out with a kiss how did 	3rd	Closing Opposition	View Ballot	Vicente Medin NicolasⒸ , Leila Umandap , Francisco Olpindo IVⓉ	this is a matt healy reference
+FEUM FEU CA	4th	Closing Government	View Ballot	Vicente Medin NicolasⒸ , Leila Umandap , Francisco Olpindo IVⓉ	this is a matt healy reference
+one of us is a lucy gray and coriol	1st	Opening Opposition	View Ballot	Vicente Medin NicolasⒸ , Leila Umandap , Francisco Olpindo IVⓉ	this is a matt healy reference
+UNUD B	3rd	Closing Government	View Ballot	Kenneth Thomas CanqueⒸ , Marvin Mc Hyll Battung	this is a matt healy reference
+IHMA El Grasya	4th	Closing Opposition	View Ballot	Kenneth Thomas CanqueⒸ , Marvin Mc Hyll Battung	this is a matt healy reference
+MSU SKELETATO	1st	Opening Government	View Ballot	Kenneth Thomas CanqueⒸ , Marvin Mc Hyll Battung	this is a matt healy reference
+UPLB Comeback Szn	2nd	Opening Opposition	View Ballot	Kenneth Thomas CanqueⒸ , Marvin Mc Hyll Battung	this is a matt healy reference
+14/6 Gang	1st	Closing Opposition	View Ballot	Athena Matin-awⒸ , Lorenz De Claro , Merle CarbonⓉ	this is a matt healy reference
+FEUM FEU GA	2nd	Opening Opposition	View Ballot	Athena Matin-awⒸ , Lorenz De Claro , Merle CarbonⓉ	this is a matt healy reference
+DLSU kalawang	3rd	Opening Government	View Ballot	Athena Matin-awⒸ , Lorenz De Claro , Merle CarbonⓉ	this is a matt healy reference
+ADDU-SHS MAra GAra	4th	Closing Government	View Ballot	Athena Matin-awⒸ , Lorenz De Claro , Merle CarbonⓉ	this is a matt healy reference
+PHDS Raining in manila pero di nila	4th	Closing Opposition	View Ballot	Niña Kate Ashley J.  RoderosⒸ , Elritz L. Lauron	this is a matt healy reference
+DLSU-SHS 102.5% Chinese	1st	Closing Government	View Ballot	Niña Kate Ashley J.  RoderosⒸ , Elritz L. Lauron	this is a matt healy reference
+VIT getting the final stone	2nd	Opening Opposition	View Ballot	Niña Kate Ashley J.  RoderosⒸ , Elritz L. Lauron	this is a matt healy reference
+ADZU Qties	3rd	Opening Government	View Ballot	Niña Kate Ashley J.  RoderosⒸ , Elritz L. Lauron	this is a matt healy reference
+
+
+team	result	side	ballot	adjudicators	motion
+Call Him By His Last Name	2nd	Closing Government	View Ballot	Matthew Ace Angelo G. TinamisanⒸ , Clofaye Abad , Nayaka Ksatria Purantara	the IR motion was gonna come eventually
+ADDU-SHS Barbs	3rd	Opening Government	View Ballot	Matthew Ace Angelo G. TinamisanⒸ , Clofaye Abad , Nayaka Ksatria Purantara	the IR motion was gonna come eventually
+IHMA El Grasya	4th	Opening Opposition	View Ballot	Matthew Ace Angelo G. TinamisanⒸ , Clofaye Abad , Nayaka Ksatria Purantara	the IR motion was gonna come eventually
+Damage Control Failed Successfully	1st	Closing Opposition	View Ballot	Matthew Ace Angelo G. TinamisanⒸ , Clofaye Abad , Nayaka Ksatria Purantara	the IR motion was gonna come eventually
+IHMA Kulto ni Aldub	2nd	Closing Opposition	View Ballot	Margaret CristobalⒸ , Lance Castro	the IR motion was gonna come eventually
+IIT HJ	1st	Closing Government	View Ballot	Margaret CristobalⒸ , Lance Castro	the IR motion was gonna come eventually
+DLSU-SHS go/jo	3rd	Opening Government	View Ballot	Margaret CristobalⒸ , Lance Castro	the IR motion was gonna come eventually
+ULS LJ	4th	Opening Opposition	View Ballot	Margaret CristobalⒸ , Lance Castro	the IR motion was gonna come eventually
+UNUD B	2nd	Opening Opposition	View Ballot	AxlotlezⒸ , Phoebe DominguezⓉ	the IR motion was gonna come eventually
+USJ-R It started out with a kiss how did 	1st	Closing Government	View Ballot	AxlotlezⒸ , Phoebe DominguezⓉ	the IR motion was gonna come eventually
+ADDU-SHS L_N_ Light	4th	Opening Government	View Ballot	AxlotlezⒸ , Phoebe DominguezⓉ	the IR motion was gonna come eventually
+ADDU-SHS MAra GAra	3rd	Closing Opposition	View Ballot	AxlotlezⒸ , Phoebe DominguezⓉ	the IR motion was gonna come eventually
+Freia (HAUDC)	3rd	Closing Government	View Ballot	Kyle GermitaⒸ , Dave Michael Villasan , Kylene Faith Andales	the IR motion was gonna come eventually
+Marvel (HAUDC)	4th	Closing Opposition	View Ballot	Kyle GermitaⒸ , Dave Michael Villasan , Kylene Faith Andales	the IR motion was gonna come eventually
+UNO	2nd	Opening Opposition	View Ballot	Kyle GermitaⒸ , Dave Michael Villasan , Kylene Faith Andales	the IR motion was gonna come eventually
+Swing 2	1st	Opening Government	View Ballot	Kyle GermitaⒸ , Dave Michael Villasan , Kylene Faith Andales	the IR motion was gonna come eventually
+send NUDS to semifinals	3rd	Closing Government	View Ballot	Sean BertizⒸ , Francisco Olpindo IV , Mar Inno Brian Plazos	the IR motion was gonna come eventually
+UPLB Flowers	1st	Opening Opposition	View Ballot	Sean BertizⒸ , Francisco Olpindo IV , Mar Inno Brian Plazos	the IR motion was gonna come eventually
+VIT getting the final stone	4th	Opening Government	View Ballot	Sean BertizⒸ , Francisco Olpindo IV , Mar Inno Brian Plazos	the IR motion was gonna come eventually
+UPLB Comeback Szn	2nd	Closing Opposition	View Ballot	Sean BertizⒸ , Francisco Olpindo IV , Mar Inno Brian Plazos	the IR motion was gonna come eventually
+Team Zero (HAUDC)	2nd	Opening Opposition	View Ballot	Isaac BagalawisⒸ , FAYZAH INSHIRA ALA	the IR motion was gonna come eventually
+MSUIIT IIT AJ	3rd	Closing Government	View Ballot	Isaac BagalawisⒸ , FAYZAH INSHIRA ALA	the IR motion was gonna come eventually
+MSUIIT IIT SR	4th	Opening Government	View Ballot	Isaac BagalawisⒸ , FAYZAH INSHIRA ALA	the IR motion was gonna come eventually
+XUAC Dodot and Diding	1st	Closing Opposition	View Ballot	Isaac BagalawisⒸ , FAYZAH INSHIRA ALA	the IR motion was gonna come eventually
+its not confidential funds its fanu	3rd	Opening Opposition	View Ballot	PolⒸ , Stephanie Cayabyab	the IR motion was gonna come eventually
+MSU SKELETATO	4th	Closing Opposition	View Ballot	PolⒸ , Stephanie Cayabyab	the IR motion was gonna come eventually
+Meow for POI	1st	Closing Government	View Ballot	PolⒸ , Stephanie Cayabyab	the IR motion was gonna come eventually
+one of us is a lucy gray and coriol	2nd	Opening Government	View Ballot	PolⒸ , Stephanie Cayabyab	the IR motion was gonna come eventually
+UNUD A	1st	Opening Government	View Ballot	Gab De LazoⒸ , Alkeziah Assuit , Angeline Marie Realingo	the IR motion was gonna come eventually
+Firecracker (HAUDC)	3rd	Opening Opposition	View Ballot	Gab De LazoⒸ , Alkeziah Assuit , Angeline Marie Realingo	the IR motion was gonna come eventually
+One (HAUDC)	4th	Closing Government	View Ballot	Gab De LazoⒸ , Alkeziah Assuit , Angeline Marie Realingo	the IR motion was gonna come eventually
+sir k3l defenderz	2nd	Closing Opposition	View Ballot	Gab De LazoⒸ , Alkeziah Assuit , Angeline Marie Realingo	the IR motion was gonna come eventually
+FEUM FEU AS	3rd	Opening Government	View Ballot	Allain ChristopherⒸ , Alexi Cariaga , Marvin Mc Hyll Battung	the IR motion was gonna come eventually
+FEUM FEU MB	4th	Closing Government	View Ballot	Allain ChristopherⒸ , Alexi Cariaga , Marvin Mc Hyll Battung	the IR motion was gonna come eventually
+ADMU ADMU TV	1st	Closing Opposition	View Ballot	Allain ChristopherⒸ , Alexi Cariaga , Marvin Mc Hyll Battung	the IR motion was gonna come eventually
+DU A	2nd	Opening Opposition	View Ballot	Allain ChristopherⒸ , Alexi Cariaga , Marvin Mc Hyll Battung	the IR motion was gonna come eventually
+DLSU Gacha Gamers	3rd	Opening Government	View Ballot	Athena Matin-awⒸ , Elritz L. Lauron , Kate Garcia	the IR motion was gonna come eventually
+DLSU-SHS 102.5% Chinese	2nd	Opening Opposition	View Ballot	Athena Matin-awⒸ , Elritz L. Lauron , Kate Garcia	the IR motion was gonna come eventually
+IHMA debATEfulness	4th	Closing Opposition	View Ballot	Athena Matin-awⒸ , Elritz L. Lauron , Kate Garcia	the IR motion was gonna come eventually
+franz and franz friend	1st	Closing Government	View Ballot	Athena Matin-awⒸ , Elritz L. Lauron , Kate Garcia	the IR motion was gonna come eventually
+USTL - DF	3rd	Opening Government	View Ballot	Haven MosquitoⒸ , Sophie Marie Isobel Rimando , Betina Racanday AquinoⓉ	the IR motion was gonna come eventually
+FEUM FEU GV	1st	Opening Opposition	View Ballot	Haven MosquitoⒸ , Sophie Marie Isobel Rimando , Betina Racanday AquinoⓉ	the IR motion was gonna come eventually
+FEUM FEU GA	2nd	Closing Opposition	View Ballot	Haven MosquitoⒸ , Sophie Marie Isobel Rimando , Betina Racanday AquinoⓉ	the IR motion was gonna come eventually
+UPM Mekus2 #TamaNaYanInsan	4th	Closing Government	View Ballot	Haven MosquitoⒸ , Sophie Marie Isobel Rimando , Betina Racanday AquinoⓉ	the IR motion was gonna come eventually
+NUDS That time I reincarnated as a 	3rd	Opening Government	View Ballot	James CacholaⒸ , Niña Kate Ashley J.  Roderos	the IR motion was gonna come eventually
+DLSU kalawang	1st	Closing Opposition	View Ballot	James CacholaⒸ , Niña Kate Ashley J.  Roderos	the IR motion was gonna come eventually
+ADDU-SHS CrisChrisTanTine	2nd	Closing Government	View Ballot	James CacholaⒸ , Niña Kate Ashley J.  Roderos	the IR motion was gonna come eventually
+IHMA TheHowsOfUs😔✊	4th	Opening Opposition	View Ballot	James CacholaⒸ , Niña Kate Ashley J.  Roderos	the IR motion was gonna come eventually
+PHDS Raining in manila pero di nila	1st	Closing Government	View Ballot	Angela AnezkaⒸ	the IR motion was gonna come eventually
+SBUM Gab^2	2nd	Closing Opposition	View Ballot	Angela AnezkaⒸ	the IR motion was gonna come eventually
+ULS CJ	4th	Opening Government	View Ballot	Angela AnezkaⒸ	the IR motion was gonna come eventually
+ADZU Qties	3rd	Opening Opposition	View Ballot	Angela AnezkaⒸ	the IR motion was gonna come eventually
+14/6 Gang	3rd	Opening Opposition	View Ballot	Imran IlmamⒸ , Mark Louie Cabanting	the IR motion was gonna come eventually
+Swing 3	4th	Opening Government	View Ballot	Imran IlmamⒸ , Mark Louie Cabanting	the IR motion was gonna come eventually
+feu-Hehe im shy	1st	Closing Opposition	View Ballot	Imran IlmamⒸ , Mark Louie Cabanting	the IR motion was gonna come eventually
+DLSU loser says poi	2nd	Closing Government	View Ballot	Imran IlmamⒸ , Mark Louie Cabanting	the IR motion was gonna come eventually
+Pogchamp	3rd	Opening Government	View Ballot	Sam UnabiaⒸ , Aubrey Marya N. Macalde , Micaella Abarquez	the IR motion was gonna come eventually
+AdDU FJ	1st	Closing Government	View Ballot	Sam UnabiaⒸ , Aubrey Marya N. Macalde , Micaella Abarquez	the IR motion was gonna come eventually
+Ogie Diaz School of Ganda Gandahan	4th	Closing Opposition	View Ballot	Sam UnabiaⒸ , Aubrey Marya N. Macalde , Micaella Abarquez	the IR motion was gonna come eventually
+PAC MEZ	2nd	Opening Opposition	View Ballot	Sam UnabiaⒸ , Aubrey Marya N. Macalde , Micaella Abarquez	the IR motion was gonna come eventually
+Euphemia (HAUDC)	4th	Closing Government	View Ballot	Christian AndriantoⒸ , Shane Heart Buhisan	the IR motion was gonna come eventually
+Swing 1	1st	Closing Opposition	View Ballot	Christian AndriantoⒸ , Shane Heart Buhisan	the IR motion was gonna come eventually
+SBUM BELLAS	3rd	Opening Opposition	View Ballot	Christian AndriantoⒸ , Shane Heart Buhisan	the IR motion was gonna come eventually
+LPD Pababy kami pls	2nd	Opening Government	View Ballot	Christian AndriantoⒸ , Shane Heart Buhisan	the IR motion was gonna come eventually
+Sylvie (HAUDC)	2nd	Opening Opposition	View Ballot	Stacey Louise HurtadoⒸ , Lorenz De Claro , Miro Fortuna	the IR motion was gonna come eventually
+ADZU Lizher	3rd	Opening Government	View Ballot	Stacey Louise HurtadoⒸ , Lorenz De Claro , Miro Fortuna	the IR motion was gonna come eventually
+Swing 2	1st	Closing Opposition	View Ballot	Stacey Louise HurtadoⒸ , Lorenz De Claro , Miro Fortuna	the IR motion was gonna come eventually
+ULS ULS DJ	4th	Closing Government	View Ballot	Stacey Louise HurtadoⒸ , Lorenz De Claro , Miro Fortuna	the IR motion was gonna come eventually
+swing 1	3rd	Closing Opposition	View Ballot	Reignier ReantilloⒸ , Addison Fadrigo , Jed Earl Tabora	the IR motion was gonna come eventually
+POMNHS this is our first time debating	2nd	Closing Government	View Ballot	Reignier ReantilloⒸ , Addison Fadrigo , Jed Earl Tabora	the IR motion was gonna come eventually
+SBUM Poiyat	1st	Opening Opposition	View Ballot	Reignier ReantilloⒸ , Addison Fadrigo , Jed Earl Tabora	the IR motion was gonna come eventually
+DYCI Riptide	4th	Opening Government	View Ballot	Reignier ReantilloⒸ , Addison Fadrigo , Jed Earl Tabora	the IR motion was gonna come eventually
+
+
+team	result	side	ballot	adjudicators	motion
+send NUDS to semifinals	3rd	Closing Government	View Ballot	Alexi CariagaⒸ , Athena Matin-aw	imagine the state selling you cheap alcohol
+Swing 1	1st	Opening Opposition	View Ballot	Alexi CariagaⒸ , Athena Matin-aw	imagine the state selling you cheap alcohol
+ADDU-SHS MAra GAra	4th	Closing Opposition	View Ballot	Alexi CariagaⒸ , Athena Matin-aw	imagine the state selling you cheap alcohol
+IHMA TheHowsOfUs😔✊	2nd	Opening Government	View Ballot	Alexi CariagaⒸ , Athena Matin-aw	imagine the state selling you cheap alcohol
+Team Zero (HAUDC)	4th	Opening Opposition	View Ballot	Aubrey Marya N. MacaldeⒸ , Elritz L. Lauron , Shane Heart Buhisan	imagine the state selling you cheap alcohol
+DLSU Gacha Gamers	3rd	Closing Opposition	View Ballot	Aubrey Marya N. MacaldeⒸ , Elritz L. Lauron , Shane Heart Buhisan	imagine the state selling you cheap alcohol
+USJ-R It started out with a kiss how did 	1st	Closing Government	View Ballot	Aubrey Marya N. MacaldeⒸ , Elritz L. Lauron , Shane Heart Buhisan	imagine the state selling you cheap alcohol
+FEUM FEU MB	2nd	Opening Government	View Ballot	Aubrey Marya N. MacaldeⒸ , Elritz L. Lauron , Shane Heart Buhisan	imagine the state selling you cheap alcohol
+UNUD B	3rd	Opening Government	View Ballot	Marvin Mc Hyll BattungⒸ , Betina Racanday Aquino , Francisco Olpindo IV	imagine the state selling you cheap alcohol
+Call Him By His Last Name	2nd	Opening Opposition	View Ballot	Marvin Mc Hyll BattungⒸ , Betina Racanday Aquino , Francisco Olpindo IV	imagine the state selling you cheap alcohol
+POMNHS this is our first time debating	4th	Closing Government	View Ballot	Marvin Mc Hyll BattungⒸ , Betina Racanday Aquino , Francisco Olpindo IV	imagine the state selling you cheap alcohol
+PHDS Raining in manila pero di nila	1st	Closing Opposition	View Ballot	Marvin Mc Hyll BattungⒸ , Betina Racanday Aquino , Francisco Olpindo IV	imagine the state selling you cheap alcohol
+Firecracker (HAUDC)	2nd	Opening Government	View Ballot	Angela AnezkaⒸ , FAYZAH INSHIRA ALA , Vicente Medin Nicolas	imagine the state selling you cheap alcohol
+One (HAUDC)	1st	Closing Government	View Ballot	Angela AnezkaⒸ , FAYZAH INSHIRA ALA , Vicente Medin Nicolas	imagine the state selling you cheap alcohol
+ADDU-SHS L_N_ Light	3rd	Opening Opposition	View Ballot	Angela AnezkaⒸ , FAYZAH INSHIRA ALA , Vicente Medin Nicolas	imagine the state selling you cheap alcohol
+ADZU Qties	4th	Closing Opposition	View Ballot	Angela AnezkaⒸ , FAYZAH INSHIRA ALA , Vicente Medin Nicolas	imagine the state selling you cheap alcohol
+MSUIIT IIT SR	1st	Opening Opposition	View Ballot	Gab De LazoⒸ , Kyle Germita	imagine the state selling you cheap alcohol
+SBUM Gab^2	3rd	Closing Government	View Ballot	Gab De LazoⒸ , Kyle Germita	imagine the state selling you cheap alcohol
+LPD Pababy kami pls	2nd	Closing Opposition	View Ballot	Gab De LazoⒸ , Kyle Germita	imagine the state selling you cheap alcohol
+IHMA debATEfulness	4th	Opening Government	View Ballot	Gab De LazoⒸ , Kyle Germita	imagine the state selling you cheap alcohol
+UNUD A	2nd	Closing Opposition	View Ballot	Imran IlmamⒸ , Kenneth Thomas Canque , Stephanie Cayabyab	imagine the state selling you cheap alcohol
+its not confidential funds its fanu	3rd	Closing Government	View Ballot	Imran IlmamⒸ , Kenneth Thomas Canque , Stephanie Cayabyab	imagine the state selling you cheap alcohol
+ADDU-SHS CrisChrisTanTine	1st	Opening Government	View Ballot	Imran IlmamⒸ , Kenneth Thomas Canque , Stephanie Cayabyab	imagine the state selling you cheap alcohol
+UPM Mekus2 #TamaNaYanInsan	4th	Opening Opposition	View Ballot	Imran IlmamⒸ , Kenneth Thomas Canque , Stephanie Cayabyab	imagine the state selling you cheap alcohol
+FEUM FEU GV	4th	Closing Government	View Ballot	Christian AndriantoⒸ , Angeline Marie Realingo , Matthew Ace Angelo G. Tinamisan	imagine the state selling you cheap alcohol
+DU A	3rd	Opening Government	View Ballot	Christian AndriantoⒸ , Angeline Marie Realingo , Matthew Ace Angelo G. Tinamisan	imagine the state selling you cheap alcohol
+UPLB Flowers	2nd	Opening Opposition	View Ballot	Christian AndriantoⒸ , Angeline Marie Realingo , Matthew Ace Angelo G. Tinamisan	imagine the state selling you cheap alcohol
+franz and franz friend	1st	Closing Opposition	View Ballot	Christian AndriantoⒸ , Angeline Marie Realingo , Matthew Ace Angelo G. Tinamisan	imagine the state selling you cheap alcohol
+Pogchamp	4th	Opening Government	View Ballot	Allain ChristopherⒸ , Kylene Faith Andales , Micaella Abarquez	imagine the state selling you cheap alcohol
+DLSU loser says poi	2nd	Closing Opposition	View Ballot	Allain ChristopherⒸ , Kylene Faith Andales , Micaella Abarquez	imagine the state selling you cheap alcohol
+DLSU-SHS 102.5% Chinese	3rd	Closing Government	View Ballot	Allain ChristopherⒸ , Kylene Faith Andales , Micaella Abarquez	imagine the state selling you cheap alcohol
+Meow for POI	1st	Opening Opposition	View Ballot	Allain ChristopherⒸ , Kylene Faith Andales , Micaella Abarquez	imagine the state selling you cheap alcohol
+USTL - DF	3rd	Opening Government	View Ballot	Isaac BagalawisⒸ , Addison Fadrigo , Haven Mosquito	imagine the state selling you cheap alcohol
+NUDS That time I reincarnated as a 	4th	Closing Government	View Ballot	Isaac BagalawisⒸ , Addison Fadrigo , Haven Mosquito	imagine the state selling you cheap alcohol
+MSU SKELETATO	1st	Closing Opposition	View Ballot	Isaac BagalawisⒸ , Addison Fadrigo , Haven Mosquito	imagine the state selling you cheap alcohol
+Damage Control Failed Successfully	2nd	Opening Opposition	View Ballot	Isaac BagalawisⒸ , Addison Fadrigo , Haven Mosquito	imagine the state selling you cheap alcohol
+FEUM FEU AS	3rd	Opening Opposition	View Ballot	PolⒸ , Alkeziah Assuit	imagine the state selling you cheap alcohol
+XUAC Dodot and Diding	4th	Opening Government	View Ballot	PolⒸ , Alkeziah Assuit	imagine the state selling you cheap alcohol
+UPLB Comeback Szn	1st	Closing Opposition	View Ballot	PolⒸ , Alkeziah Assuit	imagine the state selling you cheap alcohol
+Ogie Diaz School of Ganda Gandahan	2nd	Closing Government	View Ballot	PolⒸ , Alkeziah Assuit	imagine the state selling you cheap alcohol
+MSUIIT IIT AJ	1st	Opening Opposition	View Ballot	AxlotlezⒸ , Abdul Wassay , Margaret Cristobal	imagine the state selling you cheap alcohol
+IIT HJ	2nd	Opening Government	View Ballot	AxlotlezⒸ , Abdul Wassay , Margaret Cristobal	imagine the state selling you cheap alcohol
+sir k3l defenderz	3rd	Closing Government	View Ballot	AxlotlezⒸ , Abdul Wassay , Margaret Cristobal	imagine the state selling you cheap alcohol
+SBUM Poiyat	4th	Closing Opposition	View Ballot	AxlotlezⒸ , Abdul Wassay , Margaret Cristobal	imagine the state selling you cheap alcohol
+14/6 Gang	4th	Opening Opposition	View Ballot	James CacholaⒸ , Lorenz De Claro , Mark Louie Cabanting	imagine the state selling you cheap alcohol
+FEUM FEU GA	2nd	Closing Opposition	View Ballot	James CacholaⒸ , Lorenz De Claro , Mark Louie Cabanting	imagine the state selling you cheap alcohol
+DLSU kalawang	1st	Closing Government	View Ballot	James CacholaⒸ , Lorenz De Claro , Mark Louie Cabanting	imagine the state selling you cheap alcohol
+one of us is a lucy gray and coriol	3rd	Opening Government	View Ballot	James CacholaⒸ , Lorenz De Claro , Mark Louie Cabanting	imagine the state selling you cheap alcohol
+AdDU FJ	3rd	Opening Government	View Ballot	Sean BertizⒸ , Mar Inno Brian Plazos , Miro Fortuna	imagine the state selling you cheap alcohol
+feu-Hehe im shy	4th	Closing Government	View Ballot	Sean BertizⒸ , Mar Inno Brian Plazos , Miro Fortuna	imagine the state selling you cheap alcohol
+ADMU ADMU TV	1st	Opening Opposition	View Ballot	Sean BertizⒸ , Mar Inno Brian Plazos , Miro Fortuna	imagine the state selling you cheap alcohol
+PAC MEZ	2nd	Closing Opposition	View Ballot	Sean BertizⒸ , Mar Inno Brian Plazos , Miro Fortuna	imagine the state selling you cheap alcohol
+Swing 2	4th	Opening Government	View Ballot	Jed Earl TaboraⒸ	imagine the state selling you cheap alcohol
+SBUM BELLAS	1st	Closing Opposition	View Ballot	Jed Earl TaboraⒸ	imagine the state selling you cheap alcohol
+DLSU-SHS go/jo	2nd	Closing Government	View Ballot	Jed Earl TaboraⒸ	imagine the state selling you cheap alcohol
+DYCI Riptide	3rd	Opening Opposition	View Ballot	Jed Earl TaboraⒸ	imagine the state selling you cheap alcohol
+UNO	3rd	Opening Opposition	View Ballot	Stacey Louise HurtadoⒸ , Nayaka Ksatria Purantara	imagine the state selling you cheap alcohol
+ULS CJ	4th	Closing Government	View Ballot	Stacey Louise HurtadoⒸ , Nayaka Ksatria Purantara	imagine the state selling you cheap alcohol
+ULS LJ	2nd	Opening Government	View Ballot	Stacey Louise HurtadoⒸ , Nayaka Ksatria Purantara	imagine the state selling you cheap alcohol
+IHMA El Grasya	1st	Closing Opposition	View Ballot	Stacey Louise HurtadoⒸ , Nayaka Ksatria Purantara	imagine the state selling you cheap alcohol
+Euphemia (HAUDC)	1st	Opening Government	View Ballot	Phoebe DominguezⒸ	imagine the state selling you cheap alcohol
+Marvel (HAUDC)	4th	Closing Opposition	View Ballot	Phoebe DominguezⒸ	imagine the state selling you cheap alcohol
+ADZU Lizher	2nd	Closing Government	View Ballot	Phoebe DominguezⒸ	imagine the state selling you cheap alcohol
+ULS ULS DJ	3rd	Opening Opposition	View Ballot	Phoebe DominguezⒸ	imagine the state selling you cheap alcohol
+IHMA Kulto ni Aldub	1st	Closing Government	View Ballot	Reignier ReantilloⒸ , Niña Kate Ashley J.  Roderos	imagine the state selling you cheap alcohol
+ADDU-SHS Barbs	4th	Closing Opposition	View Ballot	Reignier ReantilloⒸ , Niña Kate Ashley J.  Roderos	imagine the state selling you cheap alcohol
+LPD Naomi &amp; Shalom	3rd	Opening Government	View Ballot	Reignier ReantilloⒸ , Niña Kate Ashley J.  Roderos	imagine the state selling you cheap alcohol
+VIT getting the final stone	2nd	Opening Opposition	View Ballot	Reignier ReantilloⒸ , Niña Kate Ashley J.  Roderos	imagine the state selling you cheap alcohol
+
+
+team	result	side	adjudicators	motion
+feu-Hehe im shy	eliminated	Closing Government	Haven MosquitoⒸ , Addison Fadrigo , Lorenz De Claro , Miro Fortuna	CO2 Assets
+FEUM FEU AS	advancing	Opening Opposition	Haven MosquitoⒸ , Addison Fadrigo , Lorenz De Claro , Miro Fortuna	CO2 Assets
+ADMU ADMU TV	advancing	Opening Government	Haven MosquitoⒸ , Addison Fadrigo , Lorenz De Claro , Miro Fortuna	CO2 Assets
+Ogie Diaz School of Ganda Gandahan	eliminated	Closing Opposition	Haven MosquitoⒸ , Addison Fadrigo , Lorenz De Claro , Miro Fortuna	CO2 Assets
+USJ-R It started out with a kiss how did 	advancing	Closing Opposition	Gab De LazoⒸ , Marvin Mc Hyll Battung , Shane Heart Buhisan	CO2 Assets
+UPLB Flowers	eliminated	Opening Government	Gab De LazoⒸ , Marvin Mc Hyll Battung , Shane Heart Buhisan	CO2 Assets
+Meow for POI	eliminated	Closing Government	Gab De LazoⒸ , Marvin Mc Hyll Battung , Shane Heart Buhisan	CO2 Assets
+franz and franz friend	advancing	Opening Opposition	Gab De LazoⒸ , Marvin Mc Hyll Battung , Shane Heart Buhisan	CO2 Assets
+AdDU FJ	advancing	Closing Government	Stacey Louise HurtadoⒸ , Aprylle Yesshua Amparo , Athena Matin-aw , Elritz L. Lauron , Pol	CO2 Assets
+FEUM FEU GA	eliminated	Opening Opposition	Stacey Louise HurtadoⒸ , Aprylle Yesshua Amparo , Athena Matin-aw , Elritz L. Lauron , Pol	CO2 Assets
+DU A	eliminated	Closing Opposition	Stacey Louise HurtadoⒸ , Aprylle Yesshua Amparo , Athena Matin-aw , Elritz L. Lauron , Pol	CO2 Assets
+DLSU loser says poi	advancing	Opening Government	Stacey Louise HurtadoⒸ , Aprylle Yesshua Amparo , Athena Matin-aw , Elritz L. Lauron , Pol	CO2 Assets
+Pogchamp	advancing	Opening Government	Matthew Ace Angelo G. TinamisanⒸ , Imran Ilmam , Isaac Bagalawis , Reignier Reantillo , Sam Unabia	CO2 Assets
+DLSU kalawang	eliminated	Closing Opposition	Matthew Ace Angelo G. TinamisanⒸ , Imran Ilmam , Isaac Bagalawis , Reignier Reantillo , Sam Unabia	CO2 Assets
+UPLB Comeback Szn	eliminated	Opening Opposition	Matthew Ace Angelo G. TinamisanⒸ , Imran Ilmam , Isaac Bagalawis , Reignier Reantillo , Sam Unabia	CO2 Assets
+PAC MEZ	advancing	Closing Government	Matthew Ace Angelo G. TinamisanⒸ , Imran Ilmam , Isaac Bagalawis , Reignier Reantillo , Sam Unabia	CO2 Assets
+
+
+team	result	side	adjudicators	motion
+Pogchamp	eliminated	Opening Government	Isaac BagalawisⒸ , Alexi Cariaga , Kenneth Thomas Canque , Lorenz De Claro , Matthew Ace Angelo G. Tinamisan	imagine getting F- in league
+AdDU FJ	advancing	Closing Opposition	Isaac BagalawisⒸ , Alexi Cariaga , Kenneth Thomas Canque , Lorenz De Claro , Matthew Ace Angelo G. Tinamisan	imagine getting F- in league
+DLSU loser says poi	eliminated	Closing Government	Isaac BagalawisⒸ , Alexi Cariaga , Kenneth Thomas Canque , Lorenz De Claro , Matthew Ace Angelo G. Tinamisan	imagine getting F- in league
+PAC MEZ	advancing	Opening Opposition	Isaac BagalawisⒸ , Alexi Cariaga , Kenneth Thomas Canque , Lorenz De Claro , Matthew Ace Angelo G. Tinamisan	imagine getting F- in league
+USJ-R It started out with a kiss how did 	advancing	Opening Opposition	Marvin Mc Hyll BattungⒸ , FAYZAH INSHIRA ALA , Gab De Lazo , Miro Fortuna , Pol	imagine getting F- in league
+FEUM FEU AS	eliminated	Opening Government	Marvin Mc Hyll BattungⒸ , FAYZAH INSHIRA ALA , Gab De Lazo , Miro Fortuna , Pol	imagine getting F- in league
+ADMU ADMU TV	advancing	Closing Opposition	Marvin Mc Hyll BattungⒸ , FAYZAH INSHIRA ALA , Gab De Lazo , Miro Fortuna , Pol	imagine getting F- in league
+franz and franz friend	eliminated	Closing Government	Marvin Mc Hyll BattungⒸ , FAYZAH INSHIRA ALA , Gab De Lazo , Miro Fortuna , Pol	imagine getting F- in league
+
+
+team	result	side	adjudicators	motion
+USJ-R It started out with a kiss how did 	eliminated	Opening Opposition	Isaac BagalawisⒸ , Aprylle Yesshua Amparo , Axlotlez , Imran Ilmam , Lorenz De Claro , Miro Fortuna , Pol , Stacey Louise Hurtado , Stephanie Cayabyab	—
+AdDU FJ	eliminated	Opening Government	Isaac BagalawisⒸ , Aprylle Yesshua Amparo , Axlotlez , Imran Ilmam , Lorenz De Claro , Miro Fortuna , Pol , Stacey Louise Hurtado , Stephanie Cayabyab	—
+ADMU ADMU TV	advancing	Closing Government	Isaac BagalawisⒸ , Aprylle Yesshua Amparo , Axlotlez , Imran Ilmam , Lorenz De Claro , Miro Fortuna , Pol , Stacey Louise Hurtado , Stephanie Cayabyab	—
+PAC MEZ	eliminated	Closing Opposition	Isaac BagalawisⒸ , Aprylle Yesshua Amparo , Axlotlez , Imran Ilmam , Lorenz De Claro , Miro Fortuna , Pol , Stacey Louise Hurtado , Stephanie Cayabyab	—
+
+
+team	result	side	adjudicators	motion
+DLSU Gacha Gamers	eliminated	Opening Opposition	Alexi CariagaⒸ , Allain Christopher , FAYZAH INSHIRA ALA , Sean Bertiz	Offer
+IIT HJ	eliminated	Closing Government	Alexi CariagaⒸ , Allain Christopher , FAYZAH INSHIRA ALA , Sean Bertiz	Offer
+FEUM FEU GV	advancing	Closing Opposition	Alexi CariagaⒸ , Allain Christopher , FAYZAH INSHIRA ALA , Sean Bertiz	Offer
+FEUM FEU MB	advancing	Opening Government	Alexi CariagaⒸ , Allain Christopher , FAYZAH INSHIRA ALA , Sean Bertiz	Offer
+MSUIIT IIT AJ	eliminated	Opening Opposition	Christian AndriantoⒸ , Jaryll Juntado , Kenneth Thomas Canque , Margaret Cristobal	Offer
+MSUIIT IIT SR	eliminated	Closing Opposition	Christian AndriantoⒸ , Jaryll Juntado , Kenneth Thomas Canque , Margaret Cristobal	Offer
+USTL - DF	advancing	Closing Government	Christian AndriantoⒸ , Jaryll Juntado , Kenneth Thomas Canque , Margaret Cristobal	Offer
+MSU SKELETATO	advancing	Opening Government	Christian AndriantoⒸ , Jaryll Juntado , Kenneth Thomas Canque , Margaret Cristobal	Offer
+
+
+team	result	side	adjudicators	motion
+USTL - DF	eliminated	Opening Opposition	Sean BertizⒸ , Angela Anezka , Athena Matin-aw , Axlotlez , Haven Mosquito , Jaryll Juntado , Reignier Reantillo	life sucks, just memes.
+FEUM FEU GV	eliminated	Opening Government	Sean BertizⒸ , Angela Anezka , Athena Matin-aw , Axlotlez , Haven Mosquito , Jaryll Juntado , Reignier Reantillo	life sucks, just memes.
+FEUM FEU MB	eliminated	Closing Government	Sean BertizⒸ , Angela Anezka , Athena Matin-aw , Axlotlez , Haven Mosquito , Jaryll Juntado , Reignier Reantillo	life sucks, just memes.
+MSU SKELETATO	advancing	Closing Opposition	Sean BertizⒸ , Angela Anezka , Athena Matin-aw , Axlotlez , Haven Mosquito , Jaryll Juntado , Reignier Reantillo	life sucks, just memes.
+

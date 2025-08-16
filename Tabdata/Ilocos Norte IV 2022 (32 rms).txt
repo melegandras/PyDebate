@@ -1,0 +1,1193 @@
+
+Rk	team	categories	R1	R2	R3	R4	Pts	Spk	1sts	2nds	AWM
+1	ADMU WLIAS		1st	1st	1st	1st	12	667	4	0	—
+2	UPLB BR		1st	1st	1st	2nd	11	664	3	1	—
+3	ADMU IATBH		1st	2nd	1st	1st	11	639	3	1	—
+4	UST Jag and Ice		1st	1st	2nd	2nd	10	649	2	2	—
+5	UPD UP Dostoevsky Society A		1st	1st	1st	3rd	10	640	3	0	—
+6	SBU try lang wag gagalet		2nd	1st	2nd	1st	10	638	2	2	—
+7	UPD Teka Offline Partner Ko		2nd	1st	2nd	1st	10	632	2	2	—
+8	MSU-IIT Super Idol		1st	1st	3rd	1st	10	626	3	0	—
+9	ADZU SHS Ra ra Rasputin Lover of the Russian	High School	2nd	1st	1st	2nd	10	626	2	2	—
+10	COMPOSITE choke me hard, daddy uwu	High School	2nd	2nd	1st	1st	10	623	2	2	—
+11	UPM Bilangin ang Bituin sa Langit		1st	1st	2nd	3rd	9	651	2	1	—
+12	UPM Muling Umawit ang Puso		1st	2nd	1st	3rd	9	648	2	1	—
+13	DLSU SHS minsan ang buhay ay isang awit ng g	High School	2nd	1st	2nd	2nd	9	636	1	3	—
+14	ADNU SOLID LENI BICOL		1st	1st	4th	1st	9	619	3	0	—
+15	COMPOSITE can two tables?		1st	3rd	2nd	1st	9	619	2	1	—
+16	UPD bread is here D:		3rd	1st	2nd	1st	9	616	2	1	—
+17	UPLB doobi doobi dap dap second try		1st	4th	1st	1st	9	614	3	0	—
+18	COMPOSITE POI Preference: Single		1st	3rd	1st	2nd	9	611	2	1	—
+19	DLSU SHS Beki	High School	1st	2nd	3rd	1st	9	610	2	1	—
+20	UPLB Junk SAIS		1st	2nd	2nd	2nd	9	560	1	3	—
+21	DLSU SHS Holy Spirit	High School	1st	1st	4th	1st	9	541	3	0	—
+22	DLSU SHS mga biktima ng school calendar	High School	3rd	1st	1st	3rd	8	640	2	0	—
+23	ADNU SHS The Woman in the House Across the S	High School	2nd	1st	1st	4th	8	630	2	1	—
+24	HG (Please don&#x27;t hate us social media 	High School	1st	1st	2nd	4th	8	624	2	1	—
+25	UPLB single ladies		1st	3rd	1st	3rd	8	623	2	0	—
+26	UPD Committed (this is Sarah&#x27;s idea		1st	2nd	2nd	3rd	8	623	1	2	—
+27	OMNHS kuya russel sexy po ba yung hubad n	High School	1st	2nd	3rd	2nd	8	621	1	2	—
+28	ADNU SHS All of us are gays	High School	4th	1st	1st	2nd	8	619	2	1	—
+29	DLSZ 🐯 Uh 🗣️ my baby 😉 says she wanna da	High School	2nd	1st	4th	1st	8	616	2	1	—
+30=	COMPOSITE Gay Geto and gay Illumi crossover		1st	2nd	4th	1st	8	615	2	1	—
+30=	COMPOSITE hee hee hee ha		1st	2nd	4th	1st	8	615	2	1	—
+32	ADNU We&#x27;re accepting GCash on Feb 1		1st	3rd	3rd	1st	8	612	2	0	—
+33	MGC If found crying in prep, pls return	High School	2nd	1st	3rd	2nd	8	610	1	2	—
+34	DLSU SHS mga bitchesa with bad karma	High School	2nd	1st	4th	1st	8	609	2	1	—
+35	DLSZ raeine raeine go away come again an	High School	2nd	3rd	1st	2nd	8	608	1	2	—
+36	ADDU JHS smile if you like monica	High School	1st	4th	1st	2nd	8	602	2	1	—
+37	OMNHS Kuya russel kung kapatid po ng magn	High School	1st	3rd	3rd	1st	8	599	2	0	—
+38	SWING 1		1st	2nd	3rd	2nd	8	384	1	2	—
+39	OMDS Re-in-ven-tion!!	High School	2nd	2nd	1st	4th	7	656	1	2	—
+40	MSU-IIT Unsa atong team name?		3rd	1st	1st	4th	7	635	2	0	—
+41	MSU-M writtenbywomen		2nd	2nd	2nd	3rd	7	633	0	3	—
+42	COMPOSITE Marckcists		1st	3rd	2nd	3rd	7	631	1	1	—
+43	BulSU BidJacKarl		3rd	1st	1st	4th	7	630	2	0	—
+44	DLSU-M $wagapino $adbois		1st	1st	4th	3rd	7	622	2	0	—
+45	UPVI tallano golddiggers ;)		4th	1st	1st	3rd	7	620	2	0	—
+46	OMNHS Nasa amin si kuya russel at hindi n	High School	2nd	2nd	4th	1st	7	619	1	2	—
+47	XU Pha Khan Tooth		1st	2nd	4th	2nd	7	617	1	2	—
+48	INNHS aromatics	High School, Ilocos Norte	2nd	4th	1st	2nd	7	612	1	2	—
+49	JPENHS Butt hurt debaters	High School	2nd	2nd	4th	1st	7	610	1	2	—
+50	ADDU JHS M&amp;M	High School	3rd	3rd	1st	2nd	7	610	1	1	—
+51	PAREF Disappointment Twins	High School	2nd	3rd	2nd	2nd	7	610	0	3	—
+52	MSU-M SHS TRIBE AJ	High School	3rd	1st	2nd	3rd	7	609	1	1	—
+53	DLSU-M screaming crying throwing up		2nd	3rd	2nd	2nd	7	609	0	3	—
+54	DLSZ (Break)ing bones	High School	1st	3rd	4th	1st	7	608	2	0	—
+55	UPLB Mountain Bois		1st	3rd	3rd	2nd	7	608	1	1	—
+56	PHDS Alphabet	High School	2nd	3rd	3rd	1st	7	607	1	1	—
+57	MMSU Morax wanters	High School, Ilocos Norte	3rd	4th	1st	1st	7	603	2	0	—
+58	COMPOSITE andami mong dada, isampal ko kaya a	High School	3rd	1st	1st	4th	7	601	2	0	—
+59	BU BU A predicts all of us are dead in		4th	1st	2nd	2nd	7	596	1	2	—
+60	HG HG D (we can’t think of a name so l	High School	4th	3rd	1st	1st	7	586	2	0	—
+61	MSU-IIT Team Bumbay		2nd	1st	3rd	3rd	7	539	1	1	—
+62	DLSU-M Diglet&#x27;s Feet		3rd	4th	1st	1st	7	448	2	0	—
+63	COMPOSITE kuya russel sino po ba talaga ang t	High School	2nd	1st	3rd	4th	6	647	1	1	—
+64	HG HG C - This debate team is sponsore	High School	2nd	2nd	3rd	3rd	6	633	0	2	—
+65	DLSU-D This House Opposes Synchronous Clas	High School	1st	4th	3rd	2nd	6	628	1	1	—
+66	PAREF hopium	High School	1st	3rd	2nd	4th	6	622	1	1	—
+67	COMPOSITE IndoMie		3rd	1st	4th	2nd	6	620	1	1	—
+68	TNSHS BUKIDCORE	High School	3rd	3rd	2nd	2nd	6	619	0	2	—
+69	UST SHS BBM: Breaking Breakdowners Madness	High School	2nd	4th	3rd	1st	6	612	1	1	—
+70	MSU-IIT Both of Us are Dead		3rd	2nd	4th	1st	6	611	1	1	—
+71	NEMSU Swiftie Dakog Bunal		3rd	2nd	2nd	3rd	6	611	0	2	—
+72	DLSU SHS mga girlboss niyo sumalangit na	High School	3rd	1st	2nd	4th	6	606	1	1	—
+73	HG HG B - Dakkel Ngiwat	High School	3rd	2nd	2nd	3rd	6	606	0	2	—
+74	MSU-M wala ka kadalag calculator?!		3rd	2nd	1st	4th	6	605	1	1	—
+75	XU tallano gold treasure hunters		1st	3rd	3rd	3rd	6	605	1	0	—
+76	COMPOSITE Team BJ (Brian, Jay n&#x27; John)		3rd	2nd	2nd	3rd	6	600	0	2	—
+77	PAREF We both play multiplayer but one of	High School	1st	4th	4th	1st	6	599	2	0	—
+78	OMDS kuya russel considered po bang laki	High School	2nd	3rd	3rd	2nd	6	599	0	2	—
+79	MSU-M kojic yarn?		1st	4th	1st	4th	6	597	2	0	—
+80	OMDS Kuya russel ang funny nio naman po 	High School	3rd	2nd	4th	1st	6	597	1	1	—
+81	SLU binebenta namin si Eowyn Bueno		4th	2nd	1st	3rd	6	596	1	1	—
+82	CMU lord hear our PuUUuUuUuUr💅		3rd	2nd	1st	4th	6	594	1	1	—
+83	ELJ Hectic Skeptics	High School	4th	3rd	2nd	1st	6	589	1	1	—
+84	BU The Women from Bicol University Ram		4th	1st	3rd	2nd	6	587	1	1	—
+85	SWING 2		4th	1st	2nd	3rd	6	445	1	1	—
+86	SWING 4		4th	1st	1st	—	6	221	2	0	—
+87	COMPOSITE Keating 3		2nd	4th	2nd	3rd	5	636	0	2	—
+88	UNC Happy Birthday Gaile		4th	1st	4th	2nd	5	632	1	1	—
+89	UPVM UPVeryTired		2nd	2nd	3rd	4th	5	617	0	2	—
+90	JPENHS We Love Cats	High School	3rd	4th	2nd	2nd	5	615	0	2	—
+91	UPVDS Yams Ripple		3rd	3rd	1st	4th	5	605	1	0	—
+92	COMPOSITE Gian is Breaking-free		2nd	2nd	4th	3rd	5	603	0	2	—
+93	BU Ka Leodybels		1st	4th	2nd	4th	5	601	1	1	—
+94	FSUU WeAreNotWastedWeAreJustDrunk		2nd	3rd	2nd	4th	5	596	0	2	—
+95	MSU-GSC SHS Debate Team ni Jessica Soho	High School	2nd	4th	4th	1st	5	595	1	1	—
+96	NEMSU Someday, may magmamahal din sayo. P		4th	3rd	3rd	1st	5	593	1	0	—
+97	MSU-M SHS TRIBE RJ	High School	4th	2nd	3rd	2nd	5	591	0	2	—
+98	KSBF Sunt Amissa	High School	4th	3rd	2nd	2nd	5	590	0	2	—
+99	NUF Talano gold alamano beneficiaries		2nd	4th	2nd	3rd	5	571	0	2	—
+100	HG HG E - ...in a world where I was yo	High School	4th	1st	4th	2nd	5	558	1	1	—
+101	PHDS All too Unwell (Whole day Vers	High School	4th	2nd	2nd	3rd	5	530	0	2	—
+102	UPVM 1% Success Rate		3rd	4th	2nd	2nd	5	521	0	2	—
+103	UM SHS FIDELIS	High School	4th	2nd	1st	4th	5	519	1	1	—
+104	Sarap na sarap kang langaw ka ah	High School	2nd	2nd	3rd	—	5	484	0	2	—
+105	CSU A		3rd	3rd	1st	4th	5	466	1	0	—
+106	SLU Yamete Kudasai		3rd	3rd	2nd	3rd	5	464	0	1	—
+107	LPU-M ¡Los Conquistadors!		3rd	3rd	3rd	3rd	4	616	0	0	—
+108	NUF Straw Hats		2nd	2nd	4th	4th	4	612	0	2	—
+109	OMNHS kuya russel nagkakamuta po ba yung 	High School	1st	4th	4th	3rd	4	606	1	0	—
+110	JPENHS We were enchanted to meet them	High School	3rd	2nd	4th	3rd	4	603	0	1	—
+111	SLU I got my digital camera, this v		4th	2nd	3rd	3rd	4	601	0	1	—
+112	LPU-M AA Debatteries		4th	3rd	1st	4th	4	599	1	0	—
+113	NNHS sabi ng mama mo tita nalang daw ang	High School	4th	4th	2nd	2nd	4	596	0	2	—
+114	OMNHS kuya russel nakakadiabetes po ba an	High School	3rd	4th	4th	1st	4	592	1	0	—
+115=	ELJ We came for free trauma	High School	3rd	4th	1st	4th	4	589	1	0	—
+115=	PHDS Wake Me Up Inside (Save Meee)	High School	4th	1st	3rd	4th	4	589	1	0	—
+117	UPLB Mga Anak ni Daddy CJ		1st	4th	3rd	4th	4	588	1	0	—
+118	DLSU-D Debatetussy	High School	2nd	3rd	3rd	4th	4	582	0	1	—
+119	NUF Ang Mga Usisa		4th	2nd	3rd	3rd	4	579	0	1	—
+120	NWU Team Kwago	Ilocos Norte	2nd	4th	3rd	3rd	4	538	0	1	—
+121	MSU-M Imong mama!		2nd	4th	4th	2nd	4	522	0	2	—
+122	UST SHS Radeon RX 6700 XT	High School	2nd	4th	—	2nd	4	452	0	2	—
+123	UST SHS Lf: Sugar Daddaes	High School	3rd	3rd	2nd	—	4	452	0	1	—
+124	CSU B		3rd	2nd	3rd	—	4	443	0	1	—
+125	SWING 3		3rd	1st	4th	—	4	304	1	0	—
+126	CSU C		4th	2nd	4th	3rd	3	620	0	1	—
+127	MMSU 2GETHER BLUES	High School, Ilocos Norte	4th	3rd	4th	2nd	3	610	0	1	—
+128	MMSU kandela ni abuela	High School, Ilocos Norte	4th	2nd	4th	3rd	3	601	0	1	—
+129	ICA-B ICAlapati	High School, Ilocos Norte	3rd	3rd	3rd	4th	3	596	0	0	—
+130	JPENHS Never Gonna Give You Up	High School	4th	4th	1st	4th	3	595	1	0	—
+131	OSFI 555 tuna	High School, Ilocos Norte	4th	3rd	3rd	3rd	3	576	0	0	—
+132	CMU https://youtu.be/VJfK-QLv27o		4th	2nd	3rd	4th	3	524	0	1	—
+133	LPU-M &quot;If we don&#x27;t win di kayo mahal ni L		4th	3rd	2nd	4th	3	513	0	1	—
+134	COMPOSITE CIDS A		2nd	3rd	4th	—	3	467	0	1	—
+135	SWING 5		4th	4th	1st	—	3	465	1	0	—
+136	UPVI THERE IS NO KING OF THE NORTH		4th	4th	—	1st	3	449	1	0	—
+137	SLU Independence Die		1st	4th	4th	—	3	447	1	0	—
+138	SLU ENCANSHOTI		3rd	4th	3rd	4th	2	605	0	0	—
+139	JPENHS Wonder Pets	High School	3rd	3rd	4th	4th	2	599	0	0	—
+140	BSU Ay Okay!		4th	4th	2nd	4th	2	593	0	1	—
+141	MSU-M SHS TRIBE HN	High School	2nd	4th	4th	4th	2	589	0	1	—
+142	JPENHS Rare to Find	High School	3rd	4th	4th	3rd	2	585	0	0	—
+143	ELJ Zimzalabim	High School	3rd	4th	3rd	—	2	443	0	0	—
+144	NUF PM Miles Mapagmahal		3rd	4th	3rd	—	2	442	0	0	—
+145	OSFI Our Sagacity is Debatable	High School, Ilocos Norte	3rd	3rd	—	—	2	305	0	0	—
+146	UST Ah basta abstain nalang		2nd	—	—	—	2	157	0	1	—
+147	ADNU The burden in this debate is e		2nd	—	—	—	2	154	0	1	—
+148	NWU Team Smiling Hajo	Ilocos Norte	4th	4th	3rd	4th	1	604	0	0	—
+149	OSFI we are the biggest simps of the cen	High School, Ilocos Norte	4th	3rd	4th	4th	1	557	0	0	—
+150	USAnt D&#x27;Anthonians		4th	4th	3rd	—	1	379	0	0	—
+151	ADNU SHS DebAteneo	High School	3rd	4th	4th	—	1	373	0	0	—
+152	UST SHS Mommy Oni FOULer	High School	—	3rd	—	—	1	148	0	0	—
+153	MMSU Light Bub	High School, Ilocos Norte	4th	4th	4th	—	0	446	0	0	—
+154	TNSHS The Jessica Soho Presidential Inter	High School	4th	4th	—	—	0	281	0	0	—
+155	SWING 7		4th	—	4th	—	0	276	0	0	—
+156	SWING 6		4th	—	—	—	0	145	0	0	—
+157	ELJ Mark²	High School	4th	—	—	—	0	140	0	0	—
+158=	MSU-IIT Okay ra jud biya nako maskin unsa		—	—	—	—	—	—	0	0	—
+158=	PUP Cracked Katol		—	—	—	—	—	—	0	0	—
+158=	PUP Hindi ko alam		—	—	—	—	—	—	0	0	—
+158=	SLU is nate she luvli?		—	—	—	—	—	—	0	0	—
+158=	SBU we fight during prep		—	—	—	—	—	—	0	0	—
+
+
+Rk	name	category	team	R1	R2	R3	R4	Total	Avg	Stdev
+1	Tobi Leung	Open	ADMU WLIAS	83	84	82	85	334	83.50	1.12
+2	David Africa	Open	ADMU WLIAS	85	80	83	85	333	83.25	2.05
+3=	Armi Requina	Open	UPLB BR	78	84	86	84	332	83.00	3.00
+3=	Belle Barbin	Open	UPLB BR	78	85	85	84	332	83.00	2.92
+5	Jag	Open	UST Jag and Ice	92	78	78	81	329	82.25	5.76
+6=	Evan	Open, High School	OMDS Re-in-ven-tion!!	74	89	82	83	328	82.00	5.34
+6=	Jared	Open, High School	OMDS Re-in-ven-tion!!	75	88	82	83	328	82.00	4.64
+8=	Ram Marababol	Open	UPM Bilangin ang Bituin sa Langit	82	78	84	82	326	81.50	2.18
+8=	Raffy Perez	Open	UPM Muling Umawit ang Puso	79	85	82	80	326	81.50	2.29
+10	Rhad Resuello	Open	UPM Bilangin ang Bituin sa Langit	81	78	84	82	325	81.25	2.17
+11	Qui	Open, High School	COMPOSITE kuya russel sino po ba talaga ang t	75	90	83	76	324	81.00	6.04
+12	Corkii	Open, High School	COMPOSITE kuya russel sino po ba talaga ang t	75	89	84	75	323	80.75	6.02
+13	Bea Anlacan	Open	UPM Muling Umawit ang Puso	78	83	81	80	322	80.50	1.80
+14=	Quijana Jynnyll Samilo	Open, High School	DLSU SHS mga biktima ng school calendar	76	80	81	84	321	80.25	2.86
+14=	Pep Danguilan	Open	UPD UP Dostoevsky Society A	77	82	79	83	321	80.25	2.38
+16=	Irene Dela Cruz	Open	ADMU IATBH	78	77	80	85	320	80.00	3.08
+16=	Sam Unabia	Open	SBU try lang wag gagalet	78	82	80	80	320	80.00	1.41
+16=	Ice	Open	UST Jag and Ice	86	77	77	80	320	80.00	3.67
+16=	Ceos Pronto	Open	COMPOSITE Marckcists	79	77	89	75	320	80.00	5.39
+20=	Maeca Pansensoy	Open	ADMU IATBH	77	78	79	85	319	79.75	3.11
+20=	Lorine David	Open, High School	DLSU SHS minsan ang buhay ay isang awit ng g	77	86	77	79	319	79.75	3.70
+20=	Jerry Ann Atong	Open, High School	DLSU SHS mga biktima ng school calendar	76	80	80	83	319	79.75	2.49
+20=	Harvey Melendrez	Open	MSU-IIT Unsa atong team name?	74	77	90	78	319	79.75	6.10
+20=	Miguel Sulit	Open	UPD UP Dostoevsky Society A	77	81	79	82	319	79.75	1.92
+20=	Loys Talip	Open	UPLB Junk SAIS	78	80	77	84	319	79.75	2.68
+26=	Andrea Tabaniag	Open, High School	HG HG C - This debate team is sponsore	86	80	77	75	318	79.50	4.15
+26=	Julia San Jose	Open	SBU try lang wag gagalet	77	82	79	80	318	79.50	1.80
+26=	Kim Trisha G. Chu	Open	COMPOSITE Keating 3	84	85	75	74	318	79.50	5.02
+26=	Ronald Marion Angelo Obillo	Open	COMPOSITE Keating 3	83	85	76	74	318	79.50	4.61
+30=	Ignacius Cruz	Open, High School	DLSU SHS minsan ang buhay ay isang awit ng g	77	84	78	78	317	79.25	2.77
+30=	Fatma Zaena S. Saripada	Open	MSU-M writtenbywomen	75	84	82	76	317	79.25	3.83
+30=	Jemina Vera C. Pante	Open	UNC Happy Birthday Gaile	72	93	74	78	317	79.25	8.23
+30=	Marco Dava	Open	UPD Teka Offline Partner Ko	80	80	78	79	317	79.25	0.83
+34=	Novelle Marie Regis	Open	MSU-IIT Unsa atong team name?	74	76	87	79	316	79.00	4.95
+34=	Fathmah I. Sarangani	Open	MSU-M writtenbywomen	76	84	80	76	316	79.00	3.32
+36=	Alyssa Peyra	Open, High School	ADNU SHS The Woman in the House Across the S	74	82	79	80	315	78.75	2.95
+36=	Yeshua Celebrado	Open, High School	ADNU SHS The Woman in the House Across the S	75	81	78	81	315	78.75	2.49
+36=	Jack Reginald Casela	Open	BulSU BidJacKarl	83	77	78	77	315	78.75	2.49
+36=	Karl Mossesgeld Oxciano	Open	BulSU BidJacKarl	83	77	78	77	315	78.75	2.49
+36=	DJ Salud	Open, High School	HG HG C - This debate team is sponsore	86	79	76	74	315	78.75	4.55
+36=	Rimari Gabrielle T. Briozo	Open	UNC Happy Birthday Gaile	71	92	73	79	315	78.75	8.20
+36=	Nniel Pagdanganan	Open	UPD Teka Offline Partner Ko	81	79	77	78	315	78.75	1.48
+36=	Francesca Leila Demetillo	Open, High School	DLSU-D This House Opposes Synchronous Clas	84	78	77	76	315	78.75	3.11
+44=	Nur-Qhadir S. Tahamid	Open, High School	ADZU SHS Ra ra Rasputin Lover of the Russian	77	76	78	83	314	78.50	2.69
+44=	Art Joseph Tarranza	Open	MSU-IIT Super Idol	76	76	77	85	314	78.50	3.77
+46=	Andreas Santos-Punzalan	Open, High School	HG (Please don&#x27;t hate us social media 	78	81	74	80	313	78.25	2.68
+46=	Lia Denise Tan	Open	UPLB single ladies	77	80	79	77	313	78.25	1.30
+46=	Gian Daquiz	Open, High School	COMPOSITE choke me hard, daddy uwu	75	77	79	82	313	78.25	2.59
+46=	Elwin Joseph Rea	Open, High School	DLSU-D This House Opposes Synchronous Clas	84	77	77	75	313	78.25	3.42
+50=	Odessa Julienne E. Rebaya	Open, High School	ADZU SHS Ra ra Rasputin Lover of the Russian	76	76	78	82	312	78.00	2.45
+50=	Mezen Lababidi	Open	DLSU-M $wagapino $adbois	78	77	81	76	312	78.00	1.87
+50=	Nichole Simblante	Open	MSU-IIT Super Idol	74	76	77	85	312	78.00	4.18
+50=	Jack Reyes	Open, High School	PAREF hopium	81	78	78	75	312	78.00	2.12
+50=	Czarina Endaya	Open	UPD Committed (this is Sarah&#x27;s idea	79	78	77	78	312	78.00	0.71
+55=	Paul Anthony Domingo	Open	CSU C	72	91	74	74	311	77.75	7.69
+55=	Maria Francesca I. Rojas	Open, High School	HG (Please don&#x27;t hate us social media 	77	80	74	80	311	77.75	2.49
+55=	Jec Benter	Open, High School	OMNHS kuya russel sexy po ba yung hubad n	75	80	78	78	311	77.75	1.79
+55=	Sarah Gatmen	Open	UPD Committed (this is Sarah&#x27;s idea	78	78	78	77	311	77.75	0.43
+55=	Gene Bernard Dofitas	Open	UPVI tallano golddiggers ;)	75	81	77	78	311	77.75	2.17
+55=	Marc Bongalon	Open	COMPOSITE Marckcists	78	76	83	74	311	77.75	3.34
+61=	Jerwin Roy R. Villacruz	Open	ADNU SOLID LENI BICOL	79	76	76	79	310	77.50	1.50
+61=	Megan Orendain	Open, High School	ADNU SHS All of us are gays	75	78	79	78	310	77.50	1.50
+61=	Kanye Horatio	Open	DLSU-M $wagapino $adbois	78	75	82	75	310	77.50	2.87
+61=	Therese Lachaona	Open, High School	DLSZ 🐯 Uh 🗣️ my baby 😉 says she wanna da	75	79	75	81	310	77.50	2.60
+61=	Geoff Biscocho	Open, High School	PAREF hopium	81	78	78	73	310	77.50	2.87
+61=	ALEXA NICOLE ANDRESAN	Open, High School	TNSHS BUKIDCORE	76	75	83	76	310	77.50	3.20
+61=	Koya Ruzl	Open, High School	OMNHS Nasa amin si kuya russel at hindi n	76	80	77	77	310	77.50	1.50
+61=	Xam Delos Reyes	Open, High School	OMNHS kuya russel sexy po ba yung hubad n	75	81	77	77	310	77.50	2.18
+61=	Geanne Del Rosario	Open	UPLB single ladies	78	79	78	75	310	77.50	1.50
+61=	Mark Anthony David	Open	UPVM UPVeryTired	80	76	80	74	310	77.50	2.60
+61=	James Cachola	Open	XU Pha Khan Tooth	81	79	76	74	310	77.50	2.69
+61=	Astri Agustina	Open	COMPOSITE IndoMie	75	79	80	76	310	77.50	2.06
+61=	Almaulidio Tazkia	Open	COMPOSITE IndoMie	76	78	79	77	310	77.50	1.12
+61=	Jaed Bengzon	Open, High School	COMPOSITE choke me hard, daddy uwu	74	78	77	81	310	77.50	2.50
+61=	Wilson Lambiquit	Open	COMPOSITE can two tables?	78	76	78	78	310	77.50	0.87
+76=	Allysa Frances N. Salvino	Open	ADNU SOLID LENI BICOL	79	76	75	79	309	77.25	1.79
+76=	Andrei Fuerte	Open, High School	ADNU SHS All of us are gays	75	77	80	77	309	77.25	1.79
+76=	Rejonh Kenneth Alabat	Open	CSU C	72	90	74	73	309	77.25	7.40
+76=	Christian Danielle D. Olegario	Open, High School	DLSU SHS Holy Spirit	78	81	72	78	309	77.25	3.27
+76=	Bjorn Sebastian C. Mojica	Open, High School	JPENHS We Love Cats	74	76	78	81	309	77.25	2.59
+76=	Johann David Arcilla	Open	LPU-M ¡Los Conquistadors!	85	72	75	77	309	77.25	4.82
+76=	BRYL MALABANAN GAMAYA	Open, High School	TNSHS BUKIDCORE	76	74	84	75	309	77.25	3.96
+76=	Mamamo	Open, High School	OMNHS Nasa amin si kuya russel at hindi n	75	81	77	76	309	77.25	2.28
+76=	Ningning Azarraga	Open	UPVI tallano golddiggers ;)	75	80	77	77	309	77.25	1.79
+76=	Mathew Pernes	Open	COMPOSITE can two tables?	78	74	78	79	309	77.25	1.92
+86=	Jeff Aguilar	Open	MSU-IIT Team Bumbay	76	78	77	77	308	77.00	0.71
+86=	Miles Justine Rivera	Open	NUF Straw Hats	79	75	79	75	308	77.00	2.00
+86=	Gabrielle Pacaño	Open	UPD bread is here D:	76	77	78	77	308	77.00	0.71
+86=	Neackle Mempin	Open	UPD bread is here D:	75	78	78	77	308	77.00	1.22
+86=	Aleah Casco	Open	COMPOSITE Gay Geto and gay Illumi crossover	82	73	75	78	308	77.00	3.39
+86=	Zen Tiangco	Open	COMPOSITE hee hee hee ha	79	75	75	79	308	77.00	2.00
+92=	Heleina Mariel Trillanes	Open, High School, Ilocos Norte	INNHS aromatics	74	78	78	77	307	76.75	1.64
+92=	Marrke-Louis B. Perez	Open	LPU-M ¡Los Conquistadors!	85	72	74	76	307	76.75	4.97
+92=	Lodelyn A. Prado	Open	MSU-IIT Both of Us are Dead	78	75	74	80	307	76.75	2.38
+92=	Paul Camello	Open, High School	PAREF Disappointment Twins	78	77	76	76	307	76.75	0.83
+92=	Daniele Rozlyn Gogoling	Open	SLU Yamete Kudasai	74	83	75	75	307	76.75	3.63
+92=	Maritoni Jean Caridad	Open, High School	UST SHS BBM: Breaking Breakdowners Madness	75	73	76	83	307	76.75	3.77
+92=	Miriam Perilla	Open	UPLB doobi doobi dap dap second try	77	74	76	80	307	76.75	2.17
+92=	Francis Vendiola	Open	UPLB doobi doobi dap dap second try	77	74	77	79	307	76.75	1.79
+92=	Moira Kelly Pajares	Open	UPVM UPVeryTired	79	76	80	72	307	76.75	3.11
+92=	Steven Paul C. Siawan	Open	XU Pha Khan Tooth	80	78	76	73	307	76.75	2.59
+92=	John Hope Plaza	Open	COMPOSITE POI Preference: Single	75	76	79	77	307	76.75	1.48
+92=	Dahne Corporal	Open	COMPOSITE Gay Geto and gay Illumi crossover	81	75	74	77	307	76.75	2.68
+92=	Pao Taino	Open	COMPOSITE hee hee hee ha	79	76	74	78	307	76.75	1.92
+105=	Paola Rañola	Open	ADNU We&#x27;re accepting GCash on Feb 1	74	78	77	77	306	76.50	1.50
+105=	Pauline Barcia	Open	ADNU We&#x27;re accepting GCash on Feb 1	75	79	76	76	306	76.50	1.50
+105=	Benjamin B. Chan	Open, High School	DLSU SHS Beki	78	75	74	79	306	76.50	2.06
+105=	Dharla Yu	Open, High School	DLSZ 🐯 Uh 🗣️ my baby 😉 says she wanna da	74	77	74	81	306	76.50	2.87
+105=	Dureen Kim A. Urbiztondo	Open, High School	JPENHS We Love Cats	73	75	76	82	306	76.50	3.35
+105=	Joshua Junn P. Morata	Open, High School	JPENHS Butt hurt debaters	80	77	74	75	306	76.50	2.29
+105=	Grace Denise Gaw	Open	MGC If found crying in prep, pls return	75	77	76	78	306	76.50	1.12
+105=	John Damort Guingguing	Open	NEMSU Swiftie Dakog Bunal	74	76	78	78	306	76.50	1.66
+105=	Jacob Ty	Open, High School	PAREF We both play multiplayer but one of	77	76	73	80	306	76.50	2.50
+105=	Faith Gabrielle L. Padrelanan	Open, High School	PHDS Alphabet	76	75	79	76	306	76.50	1.50
+105=	burrito	Open, High School	OMNHS kuya russel nagkakamuta po ba yung 	82	78	70	76	306	76.50	4.33
+116=	Maica Angela P. Garcia	Open, High School	ADDU JHS M&amp;M	79	73	76	77	305	76.25	2.17
+116=	Mia Janine D. Bacani	Open, High School	ADDU JHS M&amp;M	79	74	76	76	305	76.25	1.79
+116=	Yael Inventor	Open	DLSU-M screaming crying throwing up	74	74	76	81	305	76.25	2.86
+116=	Patricia Rae Chelsea Fernandez	Open, High School	DLSU SHS mga bitchesa with bad karma	76	78	76	75	305	76.25	1.09
+116=	Angelica Fuentes	Open, High School	DLSZ (Break)ing bones	76	76	76	77	305	76.25	0.43
+116=	Angela Anezka Ragasa	Open, High School, Ilocos Norte	INNHS aromatics	73	77	78	77	305	76.25	1.92
+116=	Angel Rosevyl Vicente	Open, High School, Ilocos Norte	MMSU 2GETHER BLUES	73	85	73	74	305	76.25	5.07
+116=	Maxene Tangonan	Open, High School, Ilocos Norte	MMSU 2GETHER BLUES	74	84	73	74	305	76.25	4.49
+116=	JC Kyle Garcia	Open, High School	MSU-M SHS TRIBE AJ	74	75	79	77	305	76.25	1.92
+116=	Prince John Bert P. Buiza	Open	NEMSU Swiftie Dakog Bunal	73	75	78	79	305	76.25	2.38
+116=	Stephanie Jane B. Bonilla	Open, Ilocos Norte	NWU Team Kwago	77	75	80	73	305	76.25	2.59
+116=	Cedric Aaron Recongco	Open, High School	UST SHS BBM: Breaking Breakdowners Madness	75	73	75	82	305	76.25	3.42
+116=	Vince Emmanuel Peña	Open	UPLB Mountain Bois	76	75	78	76	305	76.25	1.09
+129=	Dasha Sofia Daquipil	Open, High School	ADDU JHS smile if you like monica	77	75	74	78	304	76.00	1.58
+129=	Kyra Villacorta	Open	DLSU-M screaming crying throwing up	74	75	75	80	304	76.00	2.35
+129=	Liam Joson	Open, High School	DLSU SHS mga bitchesa with bad karma	76	76	77	75	304	76.00	0.71
+129=	Annika Caitlin C. Chua	Open, High School	DLSU SHS Beki	77	76	73	78	304	76.00	1.87
+129=	Rae Laigo	Open, High School	DLSZ raeine raeine go away come again an	76	75	77	76	304	76.00	0.71
+129=	Raine Eslabon	Open, High School	DLSZ raeine raeine go away come again an	77	74	78	75	304	76.00	1.58
+129=	Feona Margarette C. Balansag	Open, High School	JPENHS Butt hurt debaters	79	76	73	76	304	76.00	2.12
+129=	Shawn Darren Chua	Open	MGC If found crying in prep, pls return	73	78	75	78	304	76.00	2.12
+129=	Zailla Althea P. Alarde	Open	MSU-IIT Both of Us are Dead	77	74	74	79	304	76.00	2.12
+129=	Amil Bahar Guro	Open, High School	MSU-M SHS TRIBE AJ	73	75	80	76	304	76.00	2.55
+129=	Teesha Cheinwen Betorio	Open	NUF Straw Hats	77	75	79	73	304	76.00	2.24
+129=	Jonalyn Jose	Open, Ilocos Norte	NWU Team Smiling Hajo	73	76	79	76	304	76.00	2.12
+129=	Princess Arriane Bugayong	Open	SLU ENCANSHOTI	74	73	76	81	304	76.00	3.08
+129=	Beinson Lutcha	Open	COMPOSITE POI Preference: Single	75	75	78	76	304	76.00	1.22
+143=	Lyndsay Patalinghog	Open, High School	DLSU SHS mga girlboss niyo sumalangit na	74	76	77	76	303	75.75	1.09
+143=	Juliana Lopez	Open, High School	DLSU SHS mga girlboss niyo sumalangit na	74	75	77	77	303	75.75	1.30
+143=	Leonna Ricci	Open, High School	DLSZ (Break)ing bones	75	76	75	77	303	75.75	0.83
+143=	Mika Bosano	Open, High School	HG HG B - Dakkel Ngiwat	78	75	75	75	303	75.75	1.30
+143=	Shadrack Nigel Vega	Open, High School	HG HG B - Dakkel Ngiwat	77	75	76	75	303	75.75	0.83
+143=	Rana Nicole C. Guerra	Open, High School	JPENHS We were enchanted to meet them	76	78	75	74	303	75.75	1.48
+143=	Mohammad Siddick Montila	Open	MSU-M wala ka kadalag calculator?!	76	75	75	77	303	75.75	0.83
+143=	Sean Pineda	Open, High School	PAREF Disappointment Twins	77	75	76	75	303	75.75	0.83
+143=	Ruff Louie Manganip	Open	UPLB Mountain Bois	76	75	77	75	303	75.75	0.83
+143=	Kylene Millanes	Open	UPVDS Yams Ripple	72	73	81	77	303	75.75	3.56
+143=	Kiarra Dlahmane P. Lingating	Open	XU tallano gold treasure hunters	76	76	75	76	303	75.75	0.43
+154=	Cheska Marcos	Open, High School, Ilocos Norte	MMSU Morax wanters	76	74	75	77	302	75.50	1.12
+154=	Khalid Damo	Open	MSU-M wala ka kadalag calculator?!	76	75	74	77	302	75.50	1.12
+154=	Renz Docejo	Open	SLU I got my digital camera, this v	76	71	73	82	302	75.50	4.15
+154=	Paul Gabriel Barranco	Open	UPVDS Yams Ripple	72	74	80	76	302	75.50	2.96
+154=	Josemaria Miguel Gambe	Open	XU tallano gold treasure hunters	75	76	75	76	302	75.50	0.50
+154=	Jonel Cacayuran	Open	COMPOSITE Gian is Breaking-free	76	75	76	75	302	75.50	0.50
+154=	Jared Pacheco	Open, High School	COMPOSITE andami mong dada, isampal ko kaya a	71	76	79	76	302	75.50	2.87
+161=	James Oren Licup	Open	BU Ka Leodybels	77	77	72	75	301	75.25	2.05
+161=	Jedi Velasco	Open, High School, Ilocos Norte	MMSU Morax wanters	75	74	75	77	301	75.25	1.09
+161=	Jelienne May A. Arante	Open, High School, Ilocos Norte	MMSU kandela ni abuela	74	76	73	78	301	75.25	1.92
+161=	Ayeeka-Fardah Saripada	Open	MSU-M Imong mama!	75	75	72	79	301	75.25	2.49
+161=	Guilian Iriz Ortega	Open, High School	OMDS kuya russel considered po bang laki	77	78	71	75	301	75.25	2.68
+161=	Alab Roldan	Open, High School	PHDS Alphabet	73	74	79	75	301	75.25	2.28
+161=	Cathryeona Rillorta	Open, High School	PHDS All too Unwell (Whole day Vers	74	76	77	74	301	75.25	1.30
+161=	Maya Lim	Open	SLU ENCANSHOTI	73	73	75	80	301	75.25	2.86
+161=	Brian Braulio II A. Sabalza	Open	COMPOSITE Team BJ (Brian, Jay n&#x27; John)	75	75	75	76	301	75.25	0.43
+161=	Dristant Gautam	Open	COMPOSITE Gian is Breaking-free	75	77	75	74	301	75.25	1.09
+171=	Alexander Zahf Tanji	Open	BU Ka Leodybels	78	77	71	74	300	75.00	2.74
+171=	Kirk Marco A. Aum	Open	FSUU WeAreNotWastedWeAreJustDrunk	77	76	74	73	300	75.00	1.58
+171=	Ruth Jurie A. Lagura	Open, High School	JPENHS Wonder Pets	74	73	81	72	300	75.00	3.54
+171=	JUSTINE L. GOFORTH	Open, High School	JPENHS We were enchanted to meet them	76	77	74	73	300	75.00	1.58
+171=	Caryl Abigail B. Rabe	Open	LPU-M AA Debatteries	82	75	72	71	300	75.00	4.30
+171=	Macy Queen C. Reyes	Open, High School, Ilocos Norte	MMSU kandela ni abuela	74	77	72	77	300	75.00	2.12
+171=	Siti Hajar N. Revilla	Open, Ilocos Norte	NWU Team Smiling Hajo	72	74	79	75	300	75.00	2.55
+171=	Ashley Stephanie P. Dimayuga	Open, High School	OMDS Kuya russel ang funny nio naman po 	73	80	73	74	300	75.00	2.92
+171=	crie	Open, High School	OMNHS kuya russel nagkakamuta po ba yung 	80	77	68	75	300	75.00	4.42
+171=	Sini Gang	Open, High School	OMNHS Kuya russel kung kapatid po ng magn	76	72	76	76	300	75.00	1.73
+181=	Verra Therese De Villa	Open	BU BU A predicts all of us are dead in	74	76	75	74	299	74.75	0.83
+181=	Rexie John Mangabat	Open, High School, Ilocos Norte	ICA-B ICAlapati	78	75	72	74	299	74.75	2.17
+181=	Kristine Gayle M. Polan	Open, High School	JPENHS Wonder Pets	74	73	80	72	299	74.75	3.11
+181=	Lance Axl A. Ngales	Open	LPU-M AA Debatteries	81	76	72	70	299	74.75	4.21
+181=	Aaron Kate J. Damaso	Open, High School	MSU-GSC SHS Debate Team ni Jessica Soho	77	74	73	75	299	74.75	1.48
+181=	Abdul Careb Abedin III	Open	MSU-M kojic yarn?	76	74	76	73	299	74.75	1.30
+181=	Crisjo Cadsap	Open	SLU I got my digital camera, this v	74	71	74	80	299	74.75	3.27
+181=	Rhea Carreon	Open	SLU binebenta namin si Eowyn Bueno	73	75	77	74	299	74.75	1.48
+181=	Meep	Open, High School	OMNHS Kuya russel kung kapatid po ng magn	76	71	76	76	299	74.75	2.17
+181=	Rex Jasper Dumagpi	Open	CMU https://youtu.be/VJfK-QLv27o	73	76	75	75	299	74.75	1.09
+181=	Bryan Jay S. Lasaca	Open	COMPOSITE Team BJ (Brian, Jay n&#x27; John)	76	74	74	75	299	74.75	0.83
+181=	Lisa Ong	Open, High School	COMPOSITE andami mong dada, isampal ko kaya a	71	75	78	75	299	74.75	2.49
+193=	Julia Danielle Rosero	Open, High School	ADDU JHS smile if you like monica	76	73	72	77	298	74.50	2.06
+193=	Clark Stanley A. Yu	Open, High School	JPENHS Never Gonna Give You Up	69	75	82	72	298	74.50	4.82
+193=	Amer Hassan Usman	Open	MSU-M kojic yarn?	76	74	75	73	298	74.50	1.12
+193=	Mary Joy T. Costales	Open, High School	NNHS sabi ng mama mo tita nalang daw ang	75	74	75	74	298	74.50	0.50
+193=	Raisa Mae E. Rabelas	Open, High School	NNHS sabi ng mama mo tita nalang daw ang	75	73	76	74	298	74.50	1.12
+193=	Jamile Matthew	Open, High School	OMDS kuya russel considered po bang laki	76	79	69	74	298	74.50	3.64
+193=	B I N C	Open, High School	OMNHS kuya russel nakakadiabetes po ba an	78	72	72	76	298	74.50	2.60
+193=	Maria Kristia N. Bajao	Open	CMU lord hear our PuUUuUuUuUr💅	75	74	75	74	298	74.50	0.50
+201=	Denver Godezano	Open	BU BU A predicts all of us are dead in	73	75	74	75	297	74.25	0.83
+201=	Lalaine May H. Mantos	Open	BSU Ay Okay!	74	69	81	73	297	74.25	4.32
+201=	Trevor Angelo Tabalbag	Open, High School, Ilocos Norte	ICA-B ICAlapati	75	74	72	76	297	74.25	1.48
+201=	Tisa Vina Christy L. Loayon	Open, High School	JPENHS Never Gonna Give You Up	69	75	82	71	297	74.25	4.97
+201=	August Maree Erojo	Open	NEMSU Someday, may magmamahal din sayo. P	73	70	74	80	297	74.25	3.63
+201=	John Arthur Gregory D. Dolor	Open, High School	OMDS Kuya russel ang funny nio naman po 	72	77	73	75	297	74.25	1.92
+201=	Lance De Vera	Open	SLU binebenta namin si Eowyn Bueno	73	76	76	72	297	74.25	1.79
+201=	Rick John Guillarte	Open	UPVM 1% Success Rate	75	71	75	76	297	74.25	1.92
+209=	Charles Jone M. Rosales	Open	BSU Ay Okay!	74	69	80	73	296	74.00	3.94
+209=	Mariane Shaine Z. Aguimbag	Open, High School	ELJ We came for free trauma	72	75	76	73	296	74.00	1.58
+209=	Angel Andolan	Open, High School	ELJ Hectic Skeptics	75	75	75	71	296	74.00	1.73
+209=	Erin Mae Amante	Open	FSUU WeAreNotWastedWeAreJustDrunk	76	76	73	71	296	74.00	2.12
+209=	Arwen Lia O. Sendico	Open, High School	MSU-GSC SHS Debate Team ni Jessica Soho	76	73	73	74	296	74.00	1.22
+209=	Juhary Macarimbang	Open, High School	MSU-M SHS TRIBE RJ	76	72	74	74	296	74.00	1.41
+209=	Mohammad Nor Laut	Open, High School	MSU-M SHS TRIBE HN	76	73	75	72	296	74.00	1.58
+209=	Reach Chell C. Javier	Open	NEMSU Someday, may magmamahal din sayo. P	74	69	74	79	296	74.00	3.54
+209=	Shainel S. Alamida	Open, High School	UM SHS FIDELIS	72	74	76	74	296	74.00	1.41
+209=	Agnes Faye Abonete	Open	CMU lord hear our PuUUuUuUuUr💅	74	73	75	74	296	74.00	0.71
+209=	Swing 2 - A		SWING 2	73	78	73	72	296	74.00	2.35
+220=	Uno Amor	Open, High School	KSBF Sunt Amissa	73	76	71	75	295	73.75	1.92
+220=	Rica Marcelo	Open, High School	KSBF Sunt Amissa	74	76	71	74	295	73.75	1.79
+220=	Sittie Rahma Alawi	Open, High School	MSU-M SHS TRIBE RJ	76	72	74	73	295	73.75	1.48
+220=	Haydn Alexander M. Tan	Open, High School	PHDS Wake Me Up Inside (Save Meee)	74	73	75	73	295	73.75	0.83
+220=	Adrian M. Torres	Open	UPLB Mga Anak ni Daddy CJ	72	76	75	72	295	73.75	1.79
+225=	Akiko Ma. Shiena R. Velasquez	Open	BU The Women from Bicol University Ram	75	78	74	67	294	73.50	4.03
+225=	Justine Beatriz B. Candazo	Open, High School	HG HG D (we can’t think of a name so l	76	73	77	68	294	73.50	3.50
+225=	Raylene V. Alegado	Open, High School	JPENHS Rare to Find	75	73	74	72	294	73.50	1.12
+225=	JD Caparas	Open, High School	PHDS Wake Me Up Inside (Save Meee)	74	73	75	72	294	73.50	1.12
+225=	Andrea	Open, High School	OMNHS kuya russel nakakadiabetes po ba an	77	70	72	75	294	73.50	2.69
+230=	Allysah Mariel S. Hugo	Open	BU The Women from Bicol University Ram	75	78	73	67	293	73.25	4.02
+230=	Danielle Ellyma T. Bayani	Open, High School	ELJ We came for free trauma	72	74	75	72	293	73.25	1.30
+230=	Cassandra Gean May Magbuo	Open, High School	ELJ Hectic Skeptics	74	74	74	71	293	73.25	1.30
+230=	Abdul Hakam Usman	Open, High School	MSU-M SHS TRIBE HN	76	73	74	70	293	73.25	2.17
+230=	Ross Garena	Open, High School	PAREF We both play multiplayer but one of	76	73	69	75	293	73.25	2.68
+230=	Alexi Cariaga	Open	UPLB Mga Anak ni Daddy CJ	72	75	74	72	293	73.25	1.30
+236=	Kyle Rei U. Matanguihan	Open, High School	HG HG D (we can’t think of a name so l	76	73	76	67	292	73.00	3.67
+236=	Gian Paolo F. Fedelicio	Open	LPU-M &quot;If we don&#x27;t win di kayo mahal ni L	72	76	75	69	292	73.00	2.74
+238=	Ritz Stephanie L. Duron	Open, High School	JPENHS Rare to Find	74	72	73	72	291	72.75	0.83
+238=	Yumi Aurea Casas	Open, High School	DLSU-D Debatetussy	77	75	73	66	291	72.75	4.15
+238=	Lian Alistair Cordova	Open, High School	DLSU-D Debatetussy	77	74	74	66	291	72.75	4.09
+241=	Phoenix Grail Camay	Open	NUF Ang Mga Usisa	75	77	68	70	290	72.50	3.64
+241=	Denisse L. Htoon	Open, High School, Ilocos Norte	OSFI 555 tuna	74	72	70	74	290	72.50	1.66
+243	John Loyd P. Chan	Open	NUF Ang Mga Usisa	75	77	67	70	289	72.25	3.96
+244	Hyaciel Perez	Open	NUF Talano gold alamano beneficiaries	72	75	75	66	288	72.00	3.67
+245	Rasmanpreet Kaur	Open, High School, Ilocos Norte	OSFI 555 tuna	72	71	70	73	286	71.50	1.12
+246	John Laurence S Marnilego	Open	NUF Talano gold alamano beneficiaries	71	73	72	67	283	70.75	2.28
+247	Anna Larisa Herrera	Open, High School, Ilocos Norte	OSFI we are the biggest simps of the cen	65	76	69	70	280	70.00	3.94
+248=	Kimberly Tan	Open, High School	HG HG E - ...in a world where I was yo	71	72	66	70	279	69.75	2.28
+248=	Hannah Cailles	Open, High School	HG HG E - ...in a world where I was yo	71	72	65	71	279	69.75	2.77
+250	Samantha Elle V. Puruganan	Open, High School, Ilocos Norte	OSFI we are the biggest simps of the cen	64	75	69	69	277	69.25	3.90
+251	Joshua B. Tesoro	Open, High School	Sarap na sarap kang langaw ka ah	81	76	86	—	243	81.00	4.08
+252=	Kit Anthony T. Pahuyo	Open, High School	Sarap na sarap kang langaw ka ah	80	77	84	—	241	80.33	2.87
+252=	Cj Salayo	Open	UPLB Junk SAIS	—	80	76	85	241	80.33	3.68
+254=	Cynne Paul Hayon	Open	CSU A	75	74	85	—	234	78.00	4.97
+254=	Duraicannan Jishnudav	Open	COMPOSITE CIDS A	78	85	71	—	234	78.00	5.72
+256=	Bea Bianca S. Balalio	Open, Ilocos Norte	NWU Team Kwago	77	74	82	—	233	77.67	3.30
+256=	Abishek Maheshwaran	Open	COMPOSITE CIDS A	77	86	70	—	233	77.67	6.55
+256=	Swing 5-B		SWING 5	73	84	76	—	233	77.67	4.64
+259=	Sarah Jessica Empang	Open	CSU A	74	73	85	—	232	77.33	5.44
+259=	Lorenzo G. Espiritu	Open, High School	DLSU SHS Holy Spirit	79	80	73	—	232	77.33	3.09
+259=	Swing 5-A		SWING 5	73	84	75	—	232	77.33	4.78
+262	John Cedrick Roid Canonigo	Open	MSU-IIT Team Bumbay	—	77	77	77	231	77.00	0.00
+263	Sophia Gulle	Open, High School	PHDS All too Unwell (Whole day Vers	75	77	77	—	229	76.33	0.94
+264	Earl Jaylord I. Berdol		USAnt D&#x27;Anthonians	80	72	75	—	227	75.67	3.30
+265=	Hanna Dei Cabral	Open, High School	UST SHS Lf: Sugar Daddaes	77	74	75	—	226	75.33	1.25
+265=	Julia Patajo	Open, High School	UST SHS Lf: Sugar Daddaes	76	75	75	—	226	75.33	0.47
+265=	Alcantara Michael M.	Open, High School	UST SHS Radeon RX 6700 XT	75	76	—	75	226	75.33	0.47
+265=	Ryan Cedric Tolentino	Open, High School	UST SHS Radeon RX 6700 XT	76	75	—	75	226	75.33	0.47
+265=	Frienze Ira Gardose	Open	UPVI THERE IS NO KING OF THE NORTH	75	75	—	76	226	75.33	0.47
+270	Kent Troy Balindres	Open	CMU https://youtu.be/VJfK-QLv27o	75	76	74	—	225	75.00	0.82
+271=	Angel Sano	Open	DLSU-M Diglet&#x27;s Feet	72	73	79	—	224	74.67	3.09
+271=	Dani Garcia	Open	DLSU-M Diglet&#x27;s Feet	73	73	78	—	224	74.67	2.36
+271=	Lukas Leano	Open, High School, Ilocos Norte	MMSU Light Bub	75	75	74	—	224	74.67	0.47
+271=	Hiro Miko Baldonado	Open	SLU Independence Die	77	71	76	—	224	74.67	2.62
+271=	John Paul Chiva	Open	UPVM 1% Success Rate	75	72	—	77	224	74.67	2.05
+276=	John Earl Benzon	Open	SLU Independence Die	76	71	76	—	223	74.33	2.36
+276=	Reese Bridgette N. Miguel	Open, High School	UM SHS FIDELIS	72	74	77	—	223	74.33	2.05
+276=	Jan Joan Ilio	Open	UPVI THERE IS NO KING OF THE NORTH	74	75	—	74	223	74.33	0.47
+279=	Phoebe Sabaybay	Open, High School	ADNU SHS DebAteneo	75	73	74	—	222	74.00	0.82
+279=	Neil Jasper Dinlayan	Open	CSU B	75	74	73	—	222	74.00	0.82
+279=	Angel Jomely A. Ramos	Open, High School	ELJ Zimzalabim	74	74	74	—	222	74.00	0.00
+279=	Adrian Jed V. Cacao	Open, High School, Ilocos Norte	MMSU Light Bub	75	74	73	—	222	74.00	0.82
+279=	Samantha Kiesha Intacto	Open	NUF PM Miles Mapagmahal	76	73	73	—	222	74.00	1.41
+284=	Jerson Aying	Open	CSU B	74	74	73	—	221	73.67	0.47
+284=	Reign Righteous F. Fausto	Open, High School	ELJ Zimzalabim	73	74	74	—	221	73.67	0.47
+284=	Bianca Marie Argete	Open	LPU-M &quot;If we don&#x27;t win di kayo mahal ni L	71	75	75	—	221	73.67	1.89
+284=	Nur Hanie Cayda	Open	MSU-M Imong mama!	75	75	71	—	221	73.67	1.89
+288	Mary Claire Villotica	Open	NUF PM Miles Mapagmahal	75	73	72	—	220	73.33	1.25
+289	Sheldan Escaño	Open	SLU Yamete Kudasai	74	83	—	—	157	78.50	4.50
+290	Swing 1 - A		SWING 1	—	—	76	78	154	77.00	1.00
+291	Alex Julie Bustamante	Open, High School, Ilocos Norte	OSFI Our Sagacity is Debatable	75	78	—	—	153	76.50	1.50
+292=	Brandon Paul Kaimo P. Reyno	Open, High School, Ilocos Norte	OSFI Our Sagacity is Debatable	74	78	—	—	152	76.00	2.00
+292=	Swing 3-A		SWING 3	75	—	77	—	152	76.00	1.00
+292=	Swing 3-B		SWING 3	75	—	77	—	152	76.00	1.00
+292=	Matt Andrew V. Samonte		USAnt D&#x27;Anthonians	80	72	—	—	152	76.00	4.00
+296	RJ Balagtas	Open, High School	ADNU SHS DebAteneo	75	—	76	—	151	75.50	0.50
+297=	Swing 4-A		SWING 4	72	—	77	—	149	74.50	2.50
+297=	Swing 2 - B		SWING 2	74	75	—	—	149	74.50	0.50
+299	YUKIH MARIE FREDA E. GADOR	Open, High School	TNSHS The Jessica Soho Presidential Inter	70	71	—	—	141	70.50	0.50
+300	BEVERLY HAMO PANTOHAN	Open, High School	TNSHS The Jessica Soho Presidential Inter	69	71	—	—	140	70.00	1.00
+301	Swing 7-A		SWING 7	61	—	78	—	139	69.50	8.50
+302	Swing 7-B		SWING 7	60	—	77	—	137	68.50	8.50
+303	Regi Hidalgo	Open	UST Ah basta abstain nalang	79	—	—	—	79	79.00	0.00
+304	Fonzy Racelis	Open	UST Ah basta abstain nalang	78	—	—	—	78	78.00	0.00
+305=	Ces Lastrollo	Open	ADNU The burden in this debate is e	77	—	—	—	77	77.00	0.00
+305=	Sean Bertiz	Open	ADNU The burden in this debate is e	77	—	—	—	77	77.00	0.00
+307	Swing 1 - B		SWING 1	76	—	—	—	76	76.00	0.00
+308	Clark Joshua Cuaresma	Open, High School	UST SHS Mommy Oni FOULer	—	75	—	—	75	75.00	0.00
+309=	Gabriel Adam Mabansag	Open, High School	UST SHS Mommy Oni FOULer	—	73	—	—	73	73.00	0.00
+309=	Swing 6-B		SWING 6	73	—	—	—	73	73.00	0.00
+311=	Swing 6-A		SWING 6	72	—	—	—	72	72.00	0.00
+311=	Swing 4-B		SWING 4	72	—	—	—	72	72.00	0.00
+313=	Mark Aspiras	Open, High School	ELJ Mark²	70	—	—	—	70	70.00	0.00
+313=	Mark De Guzman	Open, High School	ELJ Mark²	70	—	—	—	70	70.00	0.00
+315=	Jhanaloden Dipantar	Open	MSU-IIT Okay ra jud biya nako maskin unsa	—	—	—	—	—	—	—
+315=	Christian Roy Escolano	Open	MSU-IIT Okay ra jud biya nako maskin unsa	—	—	—	—	—	—	—
+315=	Mohdy Mahmoud	Open	PUP Hindi ko alam	—	—	—	—	—	—	—
+315=	James Dinglasa	Open	PUP Hindi ko alam	—	—	—	—	—	—	—
+315=	Jeggo Regis	Open	PUP Cracked Katol	—	—	—	—	—	—	—
+315=	Miller Mendoza	Open	PUP Cracked Katol	—	—	—	—	—	—	—
+315=	Jonathan Buclay Jr.	Open	SLU is nate she luvli?	—	—	—	—	—	—	—
+315=	Luvli Rimando	Open	SLU is nate she luvli?	—	—	—	—	—	—	—
+315=	Francis Revilla	Open	SBU we fight during prep	—	—	—	—	—	—	—
+315=	Arvinjohn Camarino	Open	SBU we fight during prep	—	—	—	—	—	—	—
+
+
+team	result	side	adjudicators
+SWING 2	4th	Closing Opposition	Claire FlorendoⒸ
+OMNHS Kuya russel kung kapatid po ng magn	1st	Closing Government	Claire FlorendoⒸ
+MSU-M Imong mama!	2nd	Opening Opposition	Claire FlorendoⒸ
+JPENHS Wonder Pets	3rd	Opening Government	Claire FlorendoⒸ
+UPM Bilangin ang Bituin sa Langit	1st	Closing Government	Ahren BaileyⒸ , Alleah Gail G. Pajarillo , Allyza Irish See
+OMNHS kuya russel nakakadiabetes po ba an	3rd	Opening Government	Ahren BaileyⒸ , Alleah Gail G. Pajarillo , Allyza Irish See
+HG HG D (we can’t think of a name so l	4th	Closing Opposition	Ahren BaileyⒸ , Alleah Gail G. Pajarillo , Allyza Irish See
+Sarap na sarap kang langaw ka ah	2nd	Opening Opposition	Ahren BaileyⒸ , Alleah Gail G. Pajarillo , Allyza Irish See
+COMPOSITE can two tables?	1st	Closing Opposition	Maria Isabela GonzalesⒸ
+UPD bread is here D:	3rd	Opening Opposition	Maria Isabela GonzalesⒸ
+NWU Team Kwago	2nd	Closing Government	Maria Isabela GonzalesⒸ
+ADNU SHS All of us are gays	4th	Opening Government	Maria Isabela GonzalesⒸ
+USAnt D&#x27;Anthonians	4th	Closing Opposition	Erin Denise FajardoⒸ , Jan Moore J Montes , John Lester Reamillo
+UST Jag and Ice	1st	Opening Government	Erin Denise FajardoⒸ , Jan Moore J Montes , John Lester Reamillo
+LPU-M ¡Los Conquistadors!	3rd	Closing Government	Erin Denise FajardoⒸ , Jan Moore J Montes , John Lester Reamillo
+HG HG C - This debate team is sponsore	2nd	Opening Opposition	Erin Denise FajardoⒸ , Jan Moore J Montes , John Lester Reamillo
+UPD Committed (this is Sarah&#x27;s idea	1st	Closing Opposition	Yuan Jacob MiguelⒸ , Adrian Russel S. Magno , Christian Klein Ramos
+UST SHS Lf: Sugar Daddaes	3rd	Closing Government	Yuan Jacob MiguelⒸ , Adrian Russel S. Magno , Christian Klein Ramos
+SBU try lang wag gagalet	2nd	Opening Government	Yuan Jacob MiguelⒸ , Adrian Russel S. Magno , Christian Klein Ramos
+NNHS sabi ng mama mo tita nalang daw ang	4th	Opening Opposition	Yuan Jacob MiguelⒸ , Adrian Russel S. Magno , Christian Klein Ramos
+UPVDS Yams Ripple	3rd	Closing Government	Miko CanoⒸ
+MSU-IIT Super Idol	1st	Closing Opposition	Miko CanoⒸ
+MGC If found crying in prep, pls return	2nd	Opening Government	Miko CanoⒸ
+HG HG E - ...in a world where I was yo	4th	Opening Opposition	Miko CanoⒸ
+COMPOSITE Marckcists	1st	Closing Opposition	Claris Aira SalangaⒸ
+UPVM 1% Success Rate	3rd	Closing Government	Claris Aira SalangaⒸ
+ELJ Hectic Skeptics	4th	Opening Opposition	Claris Aira SalangaⒸ
+DLSZ raeine raeine go away come again an	2nd	Opening Government	Claris Aira SalangaⒸ
+COMPOSITE choke me hard, daddy uwu	2nd	Opening Opposition	Ria FernandezⒸ , Ariel Jan Gayem , DJ Ugalino
+COMPOSITE POI Preference: Single	1st	Opening Government	Ria FernandezⒸ , Ariel Jan Gayem , DJ Ugalino
+SLU binebenta namin si Eowyn Bueno	4th	Closing Government	Ria FernandezⒸ , Ariel Jan Gayem , DJ Ugalino
+JPENHS We Love Cats	3rd	Closing Opposition	Ria FernandezⒸ , Ariel Jan Gayem , DJ Ugalino
+SWING 1	1st	Opening Opposition	Sandro Rico MuycoⒸ , Althea M. Romero , Nichelle Trinity H. Solsona
+OMNHS Nasa amin si kuya russel at hindi n	2nd	Closing Opposition	Sandro Rico MuycoⒸ , Althea M. Romero , Nichelle Trinity H. Solsona
+OSFI Our Sagacity is Debatable	3rd	Closing Government	Sandro Rico MuycoⒸ , Althea M. Romero , Nichelle Trinity H. Solsona
+MMSU kandela ni abuela	4th	Opening Government	Sandro Rico MuycoⒸ , Althea M. Romero , Nichelle Trinity H. Solsona
+COMPOSITE hee hee hee ha	1st	Closing Opposition	Eden CelisⒸ
+UST SHS Radeon RX 6700 XT	2nd	Opening Opposition	Eden CelisⒸ
+SLU Yamete Kudasai	3rd	Opening Government	Eden CelisⒸ
+NWU Team Smiling Hajo	4th	Closing Government	Eden CelisⒸ
+UPM Muling Umawit ang Puso	1st	Opening Government	Carl LianⒸ
+MSU-M SHS TRIBE HN	2nd	Closing Government	Carl LianⒸ
+MSU-IIT Unsa atong team name?	3rd	Opening Opposition	Carl LianⒸ
+MMSU 2GETHER BLUES	4th	Closing Opposition	Carl LianⒸ
+NUF PM Miles Mapagmahal	3rd	Opening Government	Karl Ibañez LabastidaⒸ
+DLSU SHS Beki	1st	Closing Opposition	Karl Ibañez LabastidaⒸ
+BU The Women from Bicol University Ram	4th	Opening Opposition	Karl Ibañez LabastidaⒸ
+ADZU SHS Ra ra Rasputin Lover of the Russian	2nd	Closing Government	Karl Ibañez LabastidaⒸ
+UPVM UPVeryTired	2nd	Opening Opposition	Alexandra Chloe BaylonⒸ
+PAREF hopium	1st	Closing Opposition	Alexandra Chloe BaylonⒸ
+MSU-M SHS TRIBE RJ	4th	Closing Government	Alexandra Chloe BaylonⒸ
+HG HG B - Dakkel Ngiwat	3rd	Opening Government	Alexandra Chloe BaylonⒸ
+COMPOSITE CIDS A	2nd	Closing Opposition	Mai TorresⒸ
+ELJ Mark²	4th	Closing Government	Mai TorresⒸ
+DLSU SHS Holy Spirit	1st	Opening Opposition	Mai TorresⒸ
+CSU B	3rd	Opening Government	Mai TorresⒸ
+PHDS Wake Me Up Inside (Save Meee)	4th	Opening Opposition	Jaryll James JuntadoⒸ , Alren Angelo Libre , Janel Rama
+MSU-GSC SHS Debate Team ni Jessica Soho	2nd	Closing Opposition	Jaryll James JuntadoⒸ , Alren Angelo Libre , Janel Rama
+JPENHS Rare to Find	3rd	Closing Government	Jaryll James JuntadoⒸ , Alren Angelo Libre , Janel Rama
+BU Ka Leodybels	1st	Opening Government	Jaryll James JuntadoⒸ , Alren Angelo Libre , Janel Rama
+DLSU-D Debatetussy	2nd	Opening Opposition	Dianne AblayⒸ
+CMU https://youtu.be/VJfK-QLv27o	4th	Closing Opposition	Dianne AblayⒸ
+UPLB BR	1st	Opening Government	Dianne AblayⒸ
+JPENHS We were enchanted to meet them	3rd	Closing Government	Dianne AblayⒸ
+DLSU-D This House Opposes Synchronous Clas	1st	Closing Opposition	Charmaine BañaderaⒸ
+COMPOSITE Keating 3	2nd	Opening Opposition	Charmaine BañaderaⒸ
+LPU-M AA Debatteries	4th	Opening Government	Charmaine BañaderaⒸ
+BulSU BidJacKarl	3rd	Closing Government	Charmaine BañaderaⒸ
+COMPOSITE Gay Geto and gay Illumi crossover	1st	Closing Government	Paul Lorenz AltaresⒸ
+UPD Teka Offline Partner Ko	2nd	Opening Government	Paul Lorenz AltaresⒸ
+JPENHS Never Gonna Give You Up	4th	Closing Opposition	Paul Lorenz AltaresⒸ
+ADDU JHS M&amp;M	3rd	Opening Opposition	Paul Lorenz AltaresⒸ
+UST SHS BBM: Breaking Breakdowners Madness	2nd	Opening Opposition	Franz MapaⒸ , Kim Lengen Gesite , Sittie Sheika Ansarola
+KSBF Sunt Amissa	4th	Opening Government	Franz MapaⒸ , Kim Lengen Gesite , Sittie Sheika Ansarola
+CSU A	3rd	Closing Opposition	Franz MapaⒸ , Kim Lengen Gesite , Sittie Sheika Ansarola
+ADMU IATBH	1st	Closing Government	Franz MapaⒸ , Kim Lengen Gesite , Sittie Sheika Ansarola
+UPD UP Dostoevsky Society A	1st	Opening Government	Maria Louise WeeⒸ , I am liebe , Nathalia T. Mayani
+SLU ENCANSHOTI	3rd	Opening Opposition	Maria Louise WeeⒸ , I am liebe , Nathalia T. Mayani
+OSFI 555 tuna	4th	Closing Opposition	Maria Louise WeeⒸ , I am liebe , Nathalia T. Mayani
+MSU-M writtenbywomen	2nd	Closing Government	Maria Louise WeeⒸ , I am liebe , Nathalia T. Mayani
+SWING 7	4th	Opening Opposition	Brian UnabiaⒸ
+PHDS Alphabet	2nd	Opening Government	Brian UnabiaⒸ
+NEMSU Swiftie Dakog Bunal	3rd	Closing Government	Brian UnabiaⒸ
+ADNU SOLID LENI BICOL	1st	Closing Opposition	Brian UnabiaⒸ
+UM SHS FIDELIS	4th	Closing Government	Mark Angelo GallardoⒸ , Anika Joy R. Cortez , kez
+DLSU-M Diglet&#x27;s Feet	3rd	Opening Opposition	Mark Angelo GallardoⒸ , Anika Joy R. Cortez , kez
+DLSU-M screaming crying throwing up	2nd	Opening Government	Mark Angelo GallardoⒸ , Anika Joy R. Cortez , kez
+ADNU We&#x27;re accepting GCash on Feb 1	1st	Closing Opposition	Mark Angelo GallardoⒸ , Anika Joy R. Cortez , kez
+UPLB Junk SAIS	1st	Opening Opposition	Mika EstradaⒸ
+TNSHS BUKIDCORE	3rd	Closing Government	Mika EstradaⒸ
+PAREF Disappointment Twins	2nd	Opening Government	Mika EstradaⒸ
+NUF Ang Mga Usisa	4th	Closing Opposition	Mika EstradaⒸ
+XU tallano gold treasure hunters	1st	Closing Government	Hannah BabaranⒸ , Jayvee G. Bondoc , Joanna Marie Del Mundo
+UNC Happy Birthday Gaile	4th	Closing Opposition	Hannah BabaranⒸ , Jayvee G. Bondoc , Joanna Marie Del Mundo
+INNHS aromatics	2nd	Opening Government	Hannah BabaranⒸ , Jayvee G. Bondoc , Joanna Marie Del Mundo
+ELJ We came for free trauma	3rd	Opening Opposition	Hannah BabaranⒸ , Jayvee G. Bondoc , Joanna Marie Del Mundo
+UPVI THERE IS NO KING OF THE NORTH	4th	Opening Opposition	Ysaiah GalacinaoⒸ , Dominique Elise Sy Asuncion , Franzyn Maryel Incon
+UPLB single ladies	1st	Closing Government	Ysaiah GalacinaoⒸ , Dominique Elise Sy Asuncion , Franzyn Maryel Incon
+MSU-M wala ka kadalag calculator?!	3rd	Closing Opposition	Ysaiah GalacinaoⒸ , Dominique Elise Sy Asuncion , Franzyn Maryel Incon
+DLSU SHS minsan ang buhay ay isang awit ng g	2nd	Opening Government	Ysaiah GalacinaoⒸ , Dominique Elise Sy Asuncion , Franzyn Maryel Incon
+SWING 3	3rd	Closing Opposition	Allain ChristopherⒸ , Ashley May L. Macarandang , Kelsey Elouisa Lanzuela
+NEMSU Someday, may magmamahal din sayo. P	4th	Opening Opposition	Allain ChristopherⒸ , Ashley May L. Macarandang , Kelsey Elouisa Lanzuela
+MSU-IIT Team Bumbay	2nd	Opening Government	Allain ChristopherⒸ , Ashley May L. Macarandang , Kelsey Elouisa Lanzuela
+ADDU JHS smile if you like monica	1st	Closing Government	Allain ChristopherⒸ , Ashley May L. Macarandang , Kelsey Elouisa Lanzuela
+COMPOSITE andami mong dada, isampal ko kaya a	3rd	Opening Government	Erin Jozel MadlangbayanⒸ , Kara Bea C. Solacito , Rhiesele Joy C. Bentaha
+UPLB Mga Anak ni Daddy CJ	1st	Closing Government	Erin Jozel MadlangbayanⒸ , Kara Bea C. Solacito , Rhiesele Joy C. Bentaha
+TNSHS The Jessica Soho Presidential Inter	4th	Closing Opposition	Erin Jozel MadlangbayanⒸ , Kara Bea C. Solacito , Rhiesele Joy C. Bentaha
+NUF Talano gold alamano beneficiaries	2nd	Opening Opposition	Erin Jozel MadlangbayanⒸ , Kara Bea C. Solacito , Rhiesele Joy C. Bentaha
+UST Ah basta abstain nalang	2nd	Closing Opposition	Deniz ZuluetaⒸ , Jiane Sulfia A. Caballes
+XU Pha Khan Tooth	1st	Opening Opposition	Deniz ZuluetaⒸ , Jiane Sulfia A. Caballes
+UPVI tallano golddiggers ;)	4th	Opening Government	Deniz ZuluetaⒸ , Jiane Sulfia A. Caballes
+MSU-IIT Both of Us are Dead	3rd	Closing Government	Deniz ZuluetaⒸ , Jiane Sulfia A. Caballes
+SWING 4	4th	Opening Government	Cheeto VitugⒸ , Jamille Buiza
+COMPOSITE Team BJ (Brian, Jay n&#x27; John)	3rd	Closing Government	Cheeto VitugⒸ , Jamille Buiza
+PAREF We both play multiplayer but one of	1st	Closing Opposition	Cheeto VitugⒸ , Jamille Buiza
+DLSU SHS mga bitchesa with bad karma	2nd	Opening Opposition	Cheeto VitugⒸ , Jamille Buiza
+SWING 6	4th	Closing Government	Elshah Gail L. CastañedaⒸ
+MSU-M kojic yarn?	1st	Opening Opposition	Elshah Gail L. CastañedaⒸ
+ELJ Zimzalabim	3rd	Opening Government	Elshah Gail L. CastañedaⒸ
+DLSZ 🐯 Uh 🗣️ my baby 😉 says she wanna da	2nd	Closing Opposition	Elshah Gail L. CastañedaⒸ
+PHDS All too Unwell (Whole day Vers	4th	Closing Government	Louie Grace WendamⒸ , Jaimie Calunod , Kenji Matthew Salingay Sai
+FSUU WeAreNotWastedWeAreJustDrunk	2nd	Opening Opposition	Louie Grace WendamⒸ , Jaimie Calunod , Kenji Matthew Salingay Sai
+DLSU SHS mga biktima ng school calendar	3rd	Opening Government	Louie Grace WendamⒸ , Jaimie Calunod , Kenji Matthew Salingay Sai
+DLSU-M $wagapino $adbois	1st	Closing Opposition	Louie Grace WendamⒸ , Jaimie Calunod , Kenji Matthew Salingay Sai
+OMNHS kuya russel nagkakamuta po ba yung 	1st	Closing Government	Brian AlubⒸ
+OSFI we are the biggest simps of the cen	4th	Closing Opposition	Brian AlubⒸ
+NUF Straw Hats	2nd	Opening Opposition	Brian AlubⒸ
+MMSU Morax wanters	3rd	Opening Government	Brian AlubⒸ
+CMU lord hear our PuUUuUuUuUr💅	3rd	Opening Opposition	Clarisse TanⒸ , Kaye Mendoza , PJ Espelita
+UPLB doobi doobi dap dap second try	1st	Closing Government	Clarisse TanⒸ , Kaye Mendoza , PJ Espelita
+OMDS kuya russel considered po bang laki	2nd	Closing Opposition	Clarisse TanⒸ , Kaye Mendoza , PJ Espelita
+BU BU A predicts all of us are dead in	4th	Opening Government	Clarisse TanⒸ , Kaye Mendoza , PJ Espelita
+COMPOSITE kuya russel sino po ba talaga ang t	2nd	Opening Opposition	Leila T. UmandapⒸ , Donald Christian Boarao , Maeranisa M. Aminoden
+SLU Independence Die	1st	Closing Opposition	Leila T. UmandapⒸ , Donald Christian Boarao , Maeranisa M. Aminoden
+MSU-M SHS TRIBE AJ	3rd	Closing Government	Leila T. UmandapⒸ , Donald Christian Boarao , Maeranisa M. Aminoden
+CSU C	4th	Opening Government	Leila T. UmandapⒸ , Donald Christian Boarao , Maeranisa M. Aminoden
+COMPOSITE Gian is Breaking-free	2nd	Closing Opposition	Julius PadillaⒸ
+UPLB Mountain Bois	1st	Closing Government	Julius PadillaⒸ
+BSU Ay Okay!	4th	Opening Opposition	Julius PadillaⒸ
+ADNU SHS DebAteneo	3rd	Opening Government	Julius PadillaⒸ
+SWING 5	4th	Opening Government	Patricia GuimaryⒸ
+OMNHS kuya russel sexy po ba yung hubad n	1st	Closing Opposition	Patricia GuimaryⒸ
+DLSU SHS mga girlboss niyo sumalangit na	3rd	Closing Government	Patricia GuimaryⒸ
+ADNU SHS The Woman in the House Across the S	2nd	Opening Opposition	Patricia GuimaryⒸ
+MMSU Light Bub	4th	Opening Opposition	Andrei Gyles Sy LimⒸ
+JPENHS Butt hurt debaters	2nd	Closing Government	Andrei Gyles Sy LimⒸ
+ICA-B ICAlapati	3rd	Closing Opposition	Andrei Gyles Sy LimⒸ
+ADMU WLIAS	1st	Opening Government	Andrei Gyles Sy LimⒸ
+COMPOSITE IndoMie	3rd	Closing Opposition	Justinne FelizartaⒸ
+SLU I got my digital camera, this v	4th	Opening Government	Justinne FelizartaⒸ
+HG (Please don&#x27;t hate us social media 	1st	Closing Government	Justinne FelizartaⒸ
+ADNU The burden in this debate is e	2nd	Opening Opposition	Justinne FelizartaⒸ
+OMDS Kuya russel ang funny nio naman po 	3rd	Opening Government	Anna Abigail TiczonⒸ , Isah Basher , Marc Jethro Guerrero
+OMDS Re-in-ven-tion!!	2nd	Closing Opposition	Anna Abigail TiczonⒸ , Isah Basher , Marc Jethro Guerrero
+LPU-M &quot;If we don&#x27;t win di kayo mahal ni L	4th	Opening Opposition	Anna Abigail TiczonⒸ , Isah Basher , Marc Jethro Guerrero
+DLSZ (Break)ing bones	1st	Closing Government	Anna Abigail TiczonⒸ , Isah Basher , Marc Jethro Guerrero
+
+
+team	result	side	adjudicators
+UPD Teka Offline Partner Ko	1st	Closing Government	Franzyn Maryel InconⒸ , Marc Jethro Guerrero
+UST SHS BBM: Breaking Breakdowners Madness	4th	Opening Government	Franzyn Maryel InconⒸ , Marc Jethro Guerrero
+JPENHS Butt hurt debaters	2nd	Closing Opposition	Franzyn Maryel InconⒸ , Marc Jethro Guerrero
+DLSZ raeine raeine go away come again an	3rd	Opening Opposition	Franzyn Maryel InconⒸ , Marc Jethro Guerrero
+UPLB Junk SAIS	2nd	Opening Government	Jayvee G. BondocⒸ , Andrei Gyles Sy Lim
+PAREF hopium	3rd	Closing Government	Jayvee G. BondocⒸ , Andrei Gyles Sy Lim
+HG (Please don&#x27;t hate us social media 	1st	Closing Opposition	Jayvee G. BondocⒸ , Andrei Gyles Sy Lim
+BU Ka Leodybels	4th	Opening Opposition	Jayvee G. BondocⒸ , Andrei Gyles Sy Lim
+SLU I got my digital camera, this v	2nd	Opening Opposition	Erin Jozel MadlangbayanⒸ
+NEMSU Someday, may magmamahal din sayo. P	3rd	Closing Government	Erin Jozel MadlangbayanⒸ
+HG HG E - ...in a world where I was yo	1st	Closing Opposition	Erin Jozel MadlangbayanⒸ
+BSU Ay Okay!	4th	Opening Government	Erin Jozel MadlangbayanⒸ
+UPVI tallano golddiggers ;)	1st	Closing Government	Kara Bea C. SolacitoⒸ , Third Arante III
+NUF Ang Mga Usisa	2nd	Opening Government	Kara Bea C. SolacitoⒸ , Third Arante III
+MMSU Light Bub	4th	Closing Opposition	Kara Bea C. SolacitoⒸ , Third Arante III
+LPU-M AA Debatteries	3rd	Opening Opposition	Kara Bea C. SolacitoⒸ , Third Arante III
+SWING 1	2nd	Opening Government	Clarisse TanⒸ , Allain Christopher
+UST Jag and Ice	1st	Closing Government	Clarisse TanⒸ , Allain Christopher
+XU tallano gold treasure hunters	3rd	Closing Opposition	Clarisse TanⒸ , Allain Christopher
+UPLB Mga Anak ni Daddy CJ	4th	Opening Opposition	Clarisse TanⒸ , Allain Christopher
+COMPOSITE can two tables?	3rd	Opening Government	Janel RamaⒸ , Sandro Rico Muyco
+NWU Team Kwago	4th	Closing Opposition	Janel RamaⒸ , Sandro Rico Muyco
+DLSU SHS Beki	2nd	Closing Government	Janel RamaⒸ , Sandro Rico Muyco
+ADNU SOLID LENI BICOL	1st	Opening Opposition	Janel RamaⒸ , Sandro Rico Muyco
+COMPOSITE Gay Geto and gay Illumi crossover	2nd	Closing Opposition	Cheeto VitugⒸ , Miko Cano
+OMNHS Kuya russel kung kapatid po ng magn	3rd	Opening Government	Cheeto VitugⒸ , Miko Cano
+SLU Independence Die	4th	Closing Government	Cheeto VitugⒸ , Miko Cano
+DLSU-M $wagapino $adbois	1st	Opening Opposition	Cheeto VitugⒸ , Miko Cano
+SLU ENCANSHOTI	4th	Closing Opposition	Alren Angelo LibreⒸ , Eden Celis
+NUF Straw Hats	2nd	Closing Government	Alren Angelo LibreⒸ , Eden Celis
+DLSU-M screaming crying throwing up	3rd	Opening Opposition	Alren Angelo LibreⒸ , Eden Celis
+ADZU SHS Ra ra Rasputin Lover of the Russian	1st	Opening Government	Alren Angelo LibreⒸ , Eden Celis
+PAREF Disappointment Twins	3rd	Opening Opposition	Maeranisa M. AminodenⒸ , Sittie Sheika Ansarola
+ELJ We came for free trauma	4th	Closing Government	Maeranisa M. AminodenⒸ , Sittie Sheika Ansarola
+DLSU SHS mga bitchesa with bad karma	1st	Opening Government	Maeranisa M. AminodenⒸ , Sittie Sheika Ansarola
+Sarap na sarap kang langaw ka ah	2nd	Closing Opposition	Maeranisa M. AminodenⒸ , Sittie Sheika Ansarola
+SWING 3	1st	Closing Government	Jaimie CalunodⒸ , Elshah Gail L. Castañeda
+COMPOSITE Team BJ (Brian, Jay n&#x27; John)	2nd	Opening Government	Jaimie CalunodⒸ , Elshah Gail L. Castañeda
+JPENHS Rare to Find	4th	Closing Opposition	Jaimie CalunodⒸ , Elshah Gail L. Castañeda
+JPENHS Wonder Pets	3rd	Opening Opposition	Jaimie CalunodⒸ , Elshah Gail L. Castañeda
+UPVDS Yams Ripple	3rd	Closing Opposition	I am liebeⒸ , Christian Klein Ramos
+UPVM 1% Success Rate	4th	Opening Opposition	I am liebeⒸ , Christian Klein Ramos
+UPD bread is here D:	1st	Closing Government	I am liebeⒸ , Christian Klein Ramos
+MSU-M wala ka kadalag calculator?!	2nd	Opening Government	I am liebeⒸ , Christian Klein Ramos
+TNSHS The Jessica Soho Presidential Inter	4th	Opening Opposition	Mark Angelo GallardoⒸ , Ria Fernandez
+PHDS Wake Me Up Inside (Save Meee)	1st	Closing Opposition	Mark Angelo GallardoⒸ , Ria Fernandez
+OSFI 555 tuna	3rd	Closing Government	Mark Angelo GallardoⒸ , Ria Fernandez
+MSU-M SHS TRIBE RJ	2nd	Opening Government	Mark Angelo GallardoⒸ , Ria Fernandez
+PHDS All too Unwell (Whole day Vers	2nd	Closing Opposition	Carl LianⒸ , Leila T. Umandap
+OSFI we are the biggest simps of the cen	3rd	Opening Government	Carl LianⒸ , Leila T. Umandap
+JPENHS Never Gonna Give You Up	4th	Closing Government	Carl LianⒸ , Leila T. Umandap
+ADNU SHS All of us are gays	1st	Opening Opposition	Carl LianⒸ , Leila T. Umandap
+SWING 4	1st	Closing Opposition	Louie Grace WendamⒸ
+SLU binebenta namin si Eowyn Bueno	2nd	Opening Opposition	Louie Grace WendamⒸ
+NNHS sabi ng mama mo tita nalang daw ang	4th	Opening Government	Louie Grace WendamⒸ
+ELJ Hectic Skeptics	3rd	Closing Government	Louie Grace WendamⒸ
+COMPOSITE andami mong dada, isampal ko kaya a	1st	Closing Government	Kelsey Elouisa LanzuelaⒸ , Ashley May L. Macarandang
+ICA-B ICAlapati	3rd	Opening Government	Kelsey Elouisa LanzuelaⒸ , Ashley May L. Macarandang
+HG HG B - Dakkel Ngiwat	2nd	Opening Opposition	Kelsey Elouisa LanzuelaⒸ , Ashley May L. Macarandang
+ADNU SHS DebAteneo	4th	Closing Opposition	Kelsey Elouisa LanzuelaⒸ , Ashley May L. Macarandang
+COMPOSITE POI Preference: Single	3rd	Closing Government	Donald Christian BoaraoⒸ , Julius Padilla
+UPM Bilangin ang Bituin sa Langit	1st	Opening Government	Donald Christian BoaraoⒸ , Julius Padilla
+UPLB doobi doobi dap dap second try	4th	Opening Opposition	Donald Christian BoaraoⒸ , Julius Padilla
+ADMU IATBH	2nd	Closing Opposition	Donald Christian BoaraoⒸ , Julius Padilla
+MSU-M SHS TRIBE AJ	1st	Closing Opposition	Claris Aira SalangaⒸ , Anna Abigail Ticzon
+DLSU-M Diglet&#x27;s Feet	4th	Opening Government	Claris Aira SalangaⒸ , Anna Abigail Ticzon
+CSU A	3rd	Opening Opposition	Claris Aira SalangaⒸ , Anna Abigail Ticzon
+CSU B	2nd	Closing Government	Claris Aira SalangaⒸ , Anna Abigail Ticzon
+TNSHS BUKIDCORE	3rd	Opening Opposition	Ysaiah GalacinaoⒸ , Alexandra Chloe Baylon
+NEMSU Swiftie Dakog Bunal	2nd	Opening Government	Ysaiah GalacinaoⒸ , Alexandra Chloe Baylon
+MSU-IIT Unsa atong team name?	1st	Closing Government	Ysaiah GalacinaoⒸ , Alexandra Chloe Baylon
+ELJ Zimzalabim	4th	Closing Opposition	Ysaiah GalacinaoⒸ , Alexandra Chloe Baylon
+COMPOSITE CIDS A	3rd	Opening Opposition	Jan Moore J MontesⒸ , Kim Lengen Gesite
+COMPOSITE Keating 3	4th	Opening Government	Jan Moore J MontesⒸ , Kim Lengen Gesite
+COMPOSITE kuya russel sino po ba talaga ang t	1st	Closing Opposition	Jan Moore J MontesⒸ , Kim Lengen Gesite
+OMDS Re-in-ven-tion!!	2nd	Closing Government	Jan Moore J MontesⒸ , Kim Lengen Gesite
+OSFI Our Sagacity is Debatable	3rd	Opening Opposition	Mika EstradaⒸ , Justinne Felizarta
+OMDS Kuya russel ang funny nio naman po 	2nd	Closing Opposition	Mika EstradaⒸ , Justinne Felizarta
+JPENHS We Love Cats	4th	Opening Government	Mika EstradaⒸ , Justinne Felizarta
+DLSU SHS mga biktima ng school calendar	1st	Closing Government	Mika EstradaⒸ , Justinne Felizarta
+COMPOSITE choke me hard, daddy uwu	2nd	Opening Government	Mai TorresⒸ , Rhiesele Joy C. Bentaha
+MSU-M Imong mama!	4th	Closing Opposition	Mai TorresⒸ , Rhiesele Joy C. Bentaha
+FSUU WeAreNotWastedWeAreJustDrunk	3rd	Closing Government	Mai TorresⒸ , Rhiesele Joy C. Bentaha
+DLSZ 🐯 Uh 🗣️ my baby 😉 says she wanna da	1st	Opening Opposition	Mai TorresⒸ , Rhiesele Joy C. Bentaha
+USAnt D&#x27;Anthonians	4th	Closing Government	Karl Ibañez LabastidaⒸ , Geovanni A. Manayon
+UM SHS FIDELIS	2nd	Opening Opposition	Karl Ibañez LabastidaⒸ , Geovanni A. Manayon
+HG HG D (we can’t think of a name so l	3rd	Opening Government	Karl Ibañez LabastidaⒸ , Geovanni A. Manayon
+BU BU A predicts all of us are dead in	1st	Closing Opposition	Karl Ibañez LabastidaⒸ , Geovanni A. Manayon
+NUF PM Miles Mapagmahal	4th	Closing Government	DJ UgalinoⒸ , kez
+MSU-IIT Both of Us are Dead	2nd	Closing Opposition	DJ UgalinoⒸ , kez
+DLSU SHS mga girlboss niyo sumalangit na	1st	Opening Opposition	DJ UgalinoⒸ , kez
+ADDU JHS M&amp;M	3rd	Opening Government	DJ UgalinoⒸ , kez
+COMPOSITE IndoMie	1st	Opening Opposition	Deniz ZuluetaⒸ , Jamille Buiza
+UST SHS Lf: Sugar Daddaes	3rd	Opening Government	Deniz ZuluetaⒸ , Jamille Buiza
+MMSU Morax wanters	4th	Closing Government	Deniz ZuluetaⒸ , Jamille Buiza
+JPENHS We were enchanted to meet them	2nd	Closing Opposition	Deniz ZuluetaⒸ , Jamille Buiza
+SWING 5	4th	Closing Government	Anika Joy R. CortezⒸ , John Lester Reamillo
+UNC Happy Birthday Gaile	1st	Opening Opposition	Anika Joy R. CortezⒸ , John Lester Reamillo
+MMSU 2GETHER BLUES	3rd	Opening Government	Anika Joy R. CortezⒸ , John Lester Reamillo
+CSU C	2nd	Closing Opposition	Anika Joy R. CortezⒸ , John Lester Reamillo
+UPD Committed (this is Sarah&#x27;s idea	2nd	Opening Government	Althea M. RomeroⒸ , Dianne Ablay
+DLSZ (Break)ing bones	3rd	Closing Opposition	Althea M. RomeroⒸ , Dianne Ablay
+ADMU WLIAS	1st	Closing Government	Althea M. RomeroⒸ , Dianne Ablay
+ADDU JHS smile if you like monica	4th	Opening Opposition	Althea M. RomeroⒸ , Dianne Ablay
+DLSU-D Debatetussy	3rd	Closing Government	Franz MapaⒸ , Charmaine Bañadera
+COMPOSITE Gian is Breaking-free	2nd	Opening Opposition	Franz MapaⒸ , Charmaine Bañadera
+NUF Talano gold alamano beneficiaries	4th	Opening Government	Franz MapaⒸ , Charmaine Bañadera
+MGC If found crying in prep, pls return	1st	Closing Opposition	Franz MapaⒸ , Charmaine Bañadera
+SWING 2	1st	Closing Government	Adrian Russel S. MagnoⒸ , Alyanna Fatmah Barapantao
+CMU https://youtu.be/VJfK-QLv27o	2nd	Opening Opposition	Adrian Russel S. MagnoⒸ , Alyanna Fatmah Barapantao
+NWU Team Smiling Hajo	4th	Closing Opposition	Adrian Russel S. MagnoⒸ , Alyanna Fatmah Barapantao
+LPU-M &quot;If we don&#x27;t win di kayo mahal ni L	3rd	Opening Government	Adrian Russel S. MagnoⒸ , Alyanna Fatmah Barapantao
+COMPOSITE hee hee hee ha	2nd	Closing Government	PJ EspelitaⒸ , Yuan Jacob Miguel
+UPLB Mountain Bois	3rd	Closing Opposition	PJ EspelitaⒸ , Yuan Jacob Miguel
+MSU-M kojic yarn?	4th	Opening Government	PJ EspelitaⒸ , Yuan Jacob Miguel
+MSU-IIT Super Idol	1st	Opening Opposition	PJ EspelitaⒸ , Yuan Jacob Miguel
+COMPOSITE Marckcists	3rd	Closing Government	Brian AlubⒸ , Isah Basher
+XU Pha Khan Tooth	2nd	Closing Opposition	Brian AlubⒸ , Isah Basher
+PAREF We both play multiplayer but one of	4th	Opening Opposition	Brian AlubⒸ , Isah Basher
+DLSU SHS Holy Spirit	1st	Opening Government	Brian AlubⒸ , Isah Basher
+UPVI THERE IS NO KING OF THE NORTH	4th	Closing Government	Allyza Irish SeeⒸ , Maria Isabela Gonzales
+MMSU kandela ni abuela	2nd	Opening Opposition	Allyza Irish SeeⒸ , Maria Isabela Gonzales
+KSBF Sunt Amissa	3rd	Closing Opposition	Allyza Irish SeeⒸ , Maria Isabela Gonzales
+BU The Women from Bicol University Ram	1st	Opening Government	Allyza Irish SeeⒸ , Maria Isabela Gonzales
+UPM Muling Umawit ang Puso	2nd	Opening Opposition	Brian UnabiaⒸ , Maria Louise Wee
+UPLB BR	1st	Closing Government	Brian UnabiaⒸ , Maria Louise Wee
+OMNHS kuya russel nagkakamuta po ba yung 	4th	Closing Opposition	Brian UnabiaⒸ , Maria Louise Wee
+ADNU We&#x27;re accepting GCash on Feb 1	3rd	Opening Government	Brian UnabiaⒸ , Maria Louise Wee
+UPVM UPVeryTired	2nd	Opening Government	Hannah BabaranⒸ , Alleah Gail G. Pajarillo
+UST SHS Mommy Oni FOULer	3rd	Closing Opposition	Hannah BabaranⒸ , Alleah Gail G. Pajarillo
+MSU-IIT Team Bumbay	1st	Opening Opposition	Hannah BabaranⒸ , Alleah Gail G. Pajarillo
+MSU-GSC SHS Debate Team ni Jessica Soho	4th	Closing Government	Hannah BabaranⒸ , Alleah Gail G. Pajarillo
+OMNHS Nasa amin si kuya russel at hindi n	2nd	Opening Government	Ahren BaileyⒸ , Nathalia T. Mayani
+SBU try lang wag gagalet	1st	Closing Government	Ahren BaileyⒸ , Nathalia T. Mayani
+OMDS kuya russel considered po bang laki	3rd	Opening Opposition	Ahren BaileyⒸ , Nathalia T. Mayani
+INNHS aromatics	4th	Closing Opposition	Ahren BaileyⒸ , Nathalia T. Mayani
+UST SHS Radeon RX 6700 XT	4th	Closing Government	Kenji Matthew Salingay SaiⒸ , Erin Denise Fajardo
+SLU Yamete Kudasai	3rd	Opening Opposition	Kenji Matthew Salingay SaiⒸ , Erin Denise Fajardo
+MSU-M writtenbywomen	2nd	Opening Government	Kenji Matthew Salingay SaiⒸ , Erin Denise Fajardo
+DLSU SHS minsan ang buhay ay isang awit ng g	1st	Closing Opposition	Kenji Matthew Salingay SaiⒸ , Erin Denise Fajardo
+PHDS Alphabet	3rd	Opening Opposition	Kaye MendozaⒸ , Jiane Sulfia A. Caballes
+MSU-M SHS TRIBE HN	4th	Opening Government	Kaye MendozaⒸ , Jiane Sulfia A. Caballes
+HG HG C - This debate team is sponsore	2nd	Closing Opposition	Kaye MendozaⒸ , Jiane Sulfia A. Caballes
+ADNU SHS The Woman in the House Across the S	1st	Closing Government	Kaye MendozaⒸ , Jiane Sulfia A. Caballes
+DLSU-D This House Opposes Synchronous Clas	4th	Opening Opposition	Jaryll James JuntadoⒸ , Paul Lorenz Altares
+UPLB single ladies	3rd	Closing Opposition	Jaryll James JuntadoⒸ , Paul Lorenz Altares
+UPD UP Dostoevsky Society A	1st	Closing Government	Jaryll James JuntadoⒸ , Paul Lorenz Altares
+OMNHS kuya russel sexy po ba yung hubad n	2nd	Opening Government	Jaryll James JuntadoⒸ , Paul Lorenz Altares
+CMU lord hear our PuUUuUuUuUr💅	2nd	Closing Government	Dominique Elise Sy AsuncionⒸ , Patricia Guimary
+OMNHS kuya russel nakakadiabetes po ba an	4th	Opening Opposition	Dominique Elise Sy AsuncionⒸ , Patricia Guimary
+LPU-M ¡Los Conquistadors!	3rd	Opening Government	Dominique Elise Sy AsuncionⒸ , Patricia Guimary
+BulSU BidJacKarl	1st	Closing Opposition	Dominique Elise Sy AsuncionⒸ , Patricia Guimary
+
+
+team	result	side	adjudicators
+UPD Teka Offline Partner Ko	2nd	Opening Opposition	Althea M. RomeroⒸ
+MSU-IIT Team Bumbay	3rd	Closing Opposition	Althea M. RomeroⒸ
+DLSU SHS mga bitchesa with bad karma	4th	Closing Government	Althea M. RomeroⒸ
+ADMU IATBH	1st	Opening Government	Althea M. RomeroⒸ
+UPVI tallano golddiggers ;)	1st	Opening Opposition	Elshah Gail L. CastañedaⒸ , Claire Florendo
+UPLB Mga Anak ni Daddy CJ	3rd	Closing Opposition	Elshah Gail L. CastañedaⒸ , Claire Florendo
+UNC Happy Birthday Gaile	4th	Opening Government	Elshah Gail L. CastañedaⒸ , Claire Florendo
+DLSU-M screaming crying throwing up	2nd	Closing Government	Elshah Gail L. CastañedaⒸ , Claire Florendo
+UPLB Mountain Bois	3rd	Opening Government	Carl LianⒸ , John Lester Reamillo
+UPLB single ladies	1st	Opening Opposition	Carl LianⒸ , John Lester Reamillo
+UPD bread is here D:	2nd	Closing Opposition	Carl LianⒸ , John Lester Reamillo
+OMNHS Nasa amin si kuya russel at hindi n	4th	Closing Government	Carl LianⒸ , John Lester Reamillo
+PHDS Wake Me Up Inside (Save Meee)	3rd	Closing Government	Maria Isabela GonzalesⒸ , Kim Lengen Gesite
+PAREF Disappointment Twins	2nd	Closing Opposition	Maria Isabela GonzalesⒸ , Kim Lengen Gesite
+JPENHS We were enchanted to meet them	4th	Opening Government	Maria Isabela GonzalesⒸ , Kim Lengen Gesite
+INNHS aromatics	1st	Opening Opposition	Maria Isabela GonzalesⒸ , Kim Lengen Gesite
+COMPOSITE Gay Geto and gay Illumi crossover	4th	Opening Government	Mai TorresⒸ , Franz Mapa
+UPM Muling Umawit ang Puso	1st	Closing Opposition	Mai TorresⒸ , Franz Mapa
+OMNHS kuya russel sexy po ba yung hubad n	3rd	Closing Government	Mai TorresⒸ , Franz Mapa
+SBU try lang wag gagalet	2nd	Opening Opposition	Mai TorresⒸ , Franz Mapa
+SLU ENCANSHOTI	3rd	Opening Government	Adrian Russel S. MagnoⒸ
+JPENHS We Love Cats	2nd	Closing Government	Adrian Russel S. MagnoⒸ
+DLSU-M Diglet&#x27;s Feet	1st	Closing Opposition	Adrian Russel S. MagnoⒸ
+ADNU SHS DebAteneo	4th	Opening Opposition	Adrian Russel S. MagnoⒸ
+UPVM 1% Success Rate	2nd	Opening Government	Third Arante IIIⒸ , Kelsey Elouisa Lanzuela
+OMNHS kuya russel nakakadiabetes po ba an	4th	Closing Opposition	Third Arante IIIⒸ , Kelsey Elouisa Lanzuela
+NUF PM Miles Mapagmahal	3rd	Opening Opposition	Third Arante IIIⒸ , Kelsey Elouisa Lanzuela
+HG HG D (we can’t think of a name so l	1st	Closing Government	Third Arante IIIⒸ , Kelsey Elouisa Lanzuela
+COMPOSITE Marckcists	2nd	Opening Opposition	Erin Denise FajardoⒸ , Patricia Guimary
+NUF Straw Hats	4th	Opening Government	Erin Denise FajardoⒸ , Patricia Guimary
+MSU-IIT Unsa atong team name?	1st	Closing Opposition	Erin Denise FajardoⒸ , Patricia Guimary
+Sarap na sarap kang langaw ka ah	3rd	Closing Government	Erin Denise FajardoⒸ , Patricia Guimary
+COMPOSITE Keating 3	2nd	Closing Government	Ysaiah GalacinaoⒸ , Louie Grace Wendam
+CMU https://youtu.be/VJfK-QLv27o	3rd	Opening Government	Ysaiah GalacinaoⒸ , Louie Grace Wendam
+CSU C	4th	Opening Opposition	Ysaiah GalacinaoⒸ , Louie Grace Wendam
+ADDU JHS M&amp;M	1st	Closing Opposition	Ysaiah GalacinaoⒸ , Louie Grace Wendam
+UPLB doobi doobi dap dap second try	1st	Opening Government	Allain ChristopherⒸ , Leila T. Umandap
+OMDS Kuya russel ang funny nio naman po 	4th	Opening Opposition	Allain ChristopherⒸ , Leila T. Umandap
+BU BU A predicts all of us are dead in	2nd	Closing Government	Allain ChristopherⒸ , Leila T. Umandap
+BU The Women from Bicol University Ram	3rd	Closing Opposition	Allain ChristopherⒸ , Leila T. Umandap
+COMPOSITE choke me hard, daddy uwu	1st	Closing Government	Jayvee G. BondocⒸ , PJ Espelita
+OMNHS Kuya russel kung kapatid po ng magn	3rd	Opening Opposition	Jayvee G. BondocⒸ , PJ Espelita
+DLSZ (Break)ing bones	4th	Opening Government	Jayvee G. BondocⒸ , PJ Espelita
+DLSU SHS mga girlboss niyo sumalangit na	2nd	Closing Opposition	Jayvee G. BondocⒸ , PJ Espelita
+UPVDS Yams Ripple	1st	Opening Opposition	Kara Bea C. SolacitoⒸ , Justinne Felizarta
+UST SHS BBM: Breaking Breakdowners Madness	3rd	Closing Government	Kara Bea C. SolacitoⒸ , Justinne Felizarta
+PHDS All too Unwell (Whole day Vers	2nd	Opening Government	Kara Bea C. SolacitoⒸ , Justinne Felizarta
+MSU-M SHS TRIBE HN	4th	Closing Opposition	Kara Bea C. SolacitoⒸ , Justinne Felizarta
+SWING 2	2nd	Opening Opposition	Brian AlubⒸ , Jamille Buiza
+NUF Ang Mga Usisa	3rd	Closing Government	Brian AlubⒸ , Jamille Buiza
+MSU-M kojic yarn?	1st	Closing Opposition	Brian AlubⒸ , Jamille Buiza
+HG HG E - ...in a world where I was yo	4th	Opening Government	Brian AlubⒸ , Jamille Buiza
+UM SHS FIDELIS	1st	Closing Opposition	Franzyn Maryel InconⒸ , Anika Joy R. Cortez
+SLU Yamete Kudasai	2nd	Closing Government	Franzyn Maryel InconⒸ , Anika Joy R. Cortez
+MSU-M SHS TRIBE RJ	3rd	Opening Opposition	Franzyn Maryel InconⒸ , Anika Joy R. Cortez
+MSU-GSC SHS Debate Team ni Jessica Soho	4th	Opening Government	Franzyn Maryel InconⒸ , Anika Joy R. Cortez
+TNSHS BUKIDCORE	2nd	Opening Government	Nathalia T. MayaniⒸ , Jan Moore J Montes
+NWU Team Kwago	3rd	Opening Opposition	Nathalia T. MayaniⒸ , Jan Moore J Montes
+JPENHS Wonder Pets	4th	Closing Opposition	Nathalia T. MayaniⒸ , Jan Moore J Montes
+CSU A	1st	Closing Government	Nathalia T. MayaniⒸ , Jan Moore J Montes
+MMSU 2GETHER BLUES	4th	Opening Opposition	Janel RamaⒸ , Sittie Sheika Ansarola
+MMSU Morax wanters	1st	Closing Opposition	Janel RamaⒸ , Sittie Sheika Ansarola
+ELJ Hectic Skeptics	2nd	Opening Government	Janel RamaⒸ , Sittie Sheika Ansarola
+ELJ Zimzalabim	3rd	Closing Government	Janel RamaⒸ , Sittie Sheika Ansarola
+SWING 5	1st	Closing Opposition	Dominique Elise Sy AsuncionⒸ , Jaimie Calunod
+NUF Talano gold alamano beneficiaries	2nd	Closing Government	Dominique Elise Sy AsuncionⒸ , Jaimie Calunod
+MSU-M Imong mama!	4th	Opening Government	Dominique Elise Sy AsuncionⒸ , Jaimie Calunod
+ICA-B ICAlapati	3rd	Opening Opposition	Dominique Elise Sy AsuncionⒸ , Jaimie Calunod
+UST Jag and Ice	2nd	Closing Opposition	Clarisse TanⒸ , Ria Fernandez
+UPD UP Dostoevsky Society A	1st	Opening Opposition	Clarisse TanⒸ , Ria Fernandez
+MSU-IIT Super Idol	3rd	Opening Government	Clarisse TanⒸ , Ria Fernandez
+ADNU SOLID LENI BICOL	4th	Closing Government	Clarisse TanⒸ , Ria Fernandez
+DLSU-D Debatetussy	3rd	Closing Opposition	Isah BasherⒸ , Kenji Matthew Salingay Sai
+COMPOSITE CIDS A	4th	Closing Government	Isah BasherⒸ , Kenji Matthew Salingay Sai
+COMPOSITE Team BJ (Brian, Jay n&#x27; John)	2nd	Opening Opposition	Isah BasherⒸ , Kenji Matthew Salingay Sai
+CMU lord hear our PuUUuUuUuUr💅	1st	Opening Government	Isah BasherⒸ , Kenji Matthew Salingay Sai
+PAREF We both play multiplayer but one of	4th	Opening Government	Maria Louise WeeⒸ , Nichelle Trinity H. Solsona
+MSU-M wala ka kadalag calculator?!	1st	Closing Government	Maria Louise WeeⒸ , Nichelle Trinity H. Solsona
+FSUU WeAreNotWastedWeAreJustDrunk	2nd	Closing Opposition	Maria Louise WeeⒸ , Nichelle Trinity H. Solsona
+CSU B	3rd	Opening Opposition	Maria Louise WeeⒸ , Nichelle Trinity H. Solsona
+COMPOSITE can two tables?	2nd	Closing Government	Hannah BabaranⒸ , Alleah Gail G. Pajarillo
+COMPOSITE POI Preference: Single	1st	Closing Opposition	Hannah BabaranⒸ , Alleah Gail G. Pajarillo
+XU tallano gold treasure hunters	3rd	Opening Opposition	Hannah BabaranⒸ , Alleah Gail G. Pajarillo
+JPENHS Butt hurt debaters	4th	Opening Government	Hannah BabaranⒸ , Alleah Gail G. Pajarillo
+SWING 3	4th	Opening Government	Paul Lorenz AltaresⒸ , Geovanni A. Manayon
+PHDS Alphabet	3rd	Closing Government	Paul Lorenz AltaresⒸ , Geovanni A. Manayon
+MSU-M SHS TRIBE AJ	2nd	Opening Opposition	Paul Lorenz AltaresⒸ , Geovanni A. Manayon
+DLSU SHS mga biktima ng school calendar	1st	Closing Opposition	Paul Lorenz AltaresⒸ , Geovanni A. Manayon
+SWING 7	4th	Closing Government	Allyza Irish SeeⒸ
+NWU Team Smiling Hajo	3rd	Opening Opposition	Allyza Irish SeeⒸ
+JPENHS Never Gonna Give You Up	1st	Opening Government	Allyza Irish SeeⒸ
+BSU Ay Okay!	2nd	Closing Opposition	Allyza Irish SeeⒸ
+COMPOSITE kuya russel sino po ba talaga ang t	3rd	Closing Government	Charmaine BañaderaⒸ , Alren Angelo Libre
+UPM Bilangin ang Bituin sa Langit	2nd	Opening Opposition	Charmaine BañaderaⒸ , Alren Angelo Libre
+UPLB BR	1st	Closing Opposition	Charmaine BañaderaⒸ , Alren Angelo Libre
+DLSU-M $wagapino $adbois	4th	Opening Government	Charmaine BañaderaⒸ , Alren Angelo Libre
+HG (Please don&#x27;t hate us social media 	2nd	Opening Opposition	Cheeto VitugⒸ , Donald Christian Boarao
+DLSU SHS Beki	3rd	Opening Government	Cheeto VitugⒸ , Donald Christian Boarao
+DLSU SHS Holy Spirit	4th	Closing Government	Cheeto VitugⒸ , Donald Christian Boarao
+ADMU WLIAS	1st	Closing Opposition	Cheeto VitugⒸ , Donald Christian Boarao
+OSFI 555 tuna	3rd	Opening Government	Mark Angelo GallardoⒸ , Jiane Sulfia A. Caballes
+OSFI we are the biggest simps of the cen	4th	Closing Government	Mark Angelo GallardoⒸ , Jiane Sulfia A. Caballes
+LPU-M AA Debatteries	1st	Closing Opposition	Mark Angelo GallardoⒸ , Jiane Sulfia A. Caballes
+KSBF Sunt Amissa	2nd	Opening Opposition	Mark Angelo GallardoⒸ , Jiane Sulfia A. Caballes
+UPD Committed (this is Sarah&#x27;s idea	2nd	Closing Government	Sandro Rico MuycoⒸ , Marc Jethro Guerrero
+MGC If found crying in prep, pls return	3rd	Opening Opposition	Sandro Rico MuycoⒸ , Marc Jethro Guerrero
+DLSZ 🐯 Uh 🗣️ my baby 😉 says she wanna da	4th	Opening Government	Sandro Rico MuycoⒸ , Marc Jethro Guerrero
+ADZU SHS Ra ra Rasputin Lover of the Russian	1st	Closing Opposition	Sandro Rico MuycoⒸ , Marc Jethro Guerrero
+UST SHS Lf: Sugar Daddaes	2nd	Opening Opposition	Ashley May L. MacarandangⒸ , Kaye Mendoza
+SLU binebenta namin si Eowyn Bueno	1st	Opening Government	Ashley May L. MacarandangⒸ , Kaye Mendoza
+SLU I got my digital camera, this v	3rd	Closing Government	Ashley May L. MacarandangⒸ , Kaye Mendoza
+MMSU kandela ni abuela	4th	Closing Opposition	Ashley May L. MacarandangⒸ , Kaye Mendoza
+COMPOSITE IndoMie	4th	Opening Government	Erin Jozel MadlangbayanⒸ
+UPVM UPVeryTired	3rd	Closing Government	Erin Jozel MadlangbayanⒸ
+OMDS Re-in-ven-tion!!	1st	Opening Opposition	Erin Jozel MadlangbayanⒸ
+MSU-M writtenbywomen	2nd	Closing Opposition	Erin Jozel MadlangbayanⒸ
+NEMSU Someday, may magmamahal din sayo. P	3rd	Opening Government	Karl Ibañez LabastidaⒸ , Eden Celis
+LPU-M &quot;If we don&#x27;t win di kayo mahal ni L	2nd	Closing Government	Karl Ibañez LabastidaⒸ , Eden Celis
+JPENHS Rare to Find	4th	Opening Opposition	Karl Ibañez LabastidaⒸ , Eden Celis
+ELJ We came for free trauma	1st	Closing Opposition	Karl Ibañez LabastidaⒸ , Eden Celis
+COMPOSITE andami mong dada, isampal ko kaya a	1st	Closing Opposition	Ahren BaileyⒸ , Claris Aira Salanga
+COMPOSITE Gian is Breaking-free	4th	Opening Government	Ahren BaileyⒸ , Claris Aira Salanga
+PAREF hopium	2nd	Opening Opposition	Ahren BaileyⒸ , Claris Aira Salanga
+HG HG C - This debate team is sponsore	3rd	Closing Government	Ahren BaileyⒸ , Claris Aira Salanga
+USAnt D&#x27;Anthonians	3rd	Opening Opposition	Jaryll James JuntadoⒸ , Rhiesele Joy C. Bentaha
+SWING 4	1st	Closing Opposition	Jaryll James JuntadoⒸ , Rhiesele Joy C. Bentaha
+NNHS sabi ng mama mo tita nalang daw ang	2nd	Closing Government	Jaryll James JuntadoⒸ , Rhiesele Joy C. Bentaha
+MMSU Light Bub	4th	Opening Government	Jaryll James JuntadoⒸ , Rhiesele Joy C. Bentaha
+SWING 1	3rd	Closing Opposition	Anna Abigail TiczonⒸ , kez
+COMPOSITE hee hee hee ha	4th	Opening Government	Anna Abigail TiczonⒸ , kez
+UPLB Junk SAIS	2nd	Closing Government	Anna Abigail TiczonⒸ , kez
+BulSU BidJacKarl	1st	Opening Opposition	Anna Abigail TiczonⒸ , kez
+DLSU-D This House Opposes Synchronous Clas	3rd	Opening Government	Alexandra Chloe BaylonⒸ
+SLU Independence Die	4th	Opening Opposition	Alexandra Chloe BaylonⒸ
+NEMSU Swiftie Dakog Bunal	2nd	Closing Opposition	Alexandra Chloe BaylonⒸ
+ADNU SHS All of us are gays	1st	Closing Government	Alexandra Chloe BaylonⒸ
+XU Pha Khan Tooth	4th	Opening Government	Yuan Jacob MiguelⒸ , Maeranisa M. Aminoden
+DLSU SHS minsan ang buhay ay isang awit ng g	2nd	Opening Opposition	Yuan Jacob MiguelⒸ , Maeranisa M. Aminoden
+ADNU SHS The Woman in the House Across the S	1st	Closing Opposition	Yuan Jacob MiguelⒸ , Maeranisa M. Aminoden
+ADNU We&#x27;re accepting GCash on Feb 1	3rd	Closing Government	Yuan Jacob MiguelⒸ , Maeranisa M. Aminoden
+OMNHS kuya russel nagkakamuta po ba yung 	4th	Opening Opposition	Miko CanoⒸ
+OMDS kuya russel considered po bang laki	3rd	Opening Government	Miko CanoⒸ
+BU Ka Leodybels	2nd	Closing Government	Miko CanoⒸ
+ADDU JHS smile if you like monica	1st	Closing Opposition	Miko CanoⒸ
+MSU-IIT Both of Us are Dead	4th	Opening Government	Deniz ZuluetaⒸ , Christian Klein Ramos
+LPU-M ¡Los Conquistadors!	3rd	Opening Opposition	Deniz ZuluetaⒸ , Christian Klein Ramos
+HG HG B - Dakkel Ngiwat	2nd	Closing Opposition	Deniz ZuluetaⒸ , Christian Klein Ramos
+DLSZ raeine raeine go away come again an	1st	Closing Government	Deniz ZuluetaⒸ , Christian Klein Ramos
+
+
+team	result	side	adjudicators
+NWU Team Smiling Hajo	4th	Opening Government	Nathalia T. MayaniⒸ
+NEMSU Someday, may magmamahal din sayo. P	1st	Closing Opposition	Nathalia T. MayaniⒸ
+MSU-M Imong mama!	2nd	Opening Opposition	Nathalia T. MayaniⒸ
+MMSU kandela ni abuela	3rd	Closing Government	Nathalia T. MayaniⒸ
+COMPOSITE hee hee hee ha	1st	Opening Opposition	Rhiesele Joy C. BentahaⒸ , Alexandra Chloe Baylon
+XU tallano gold treasure hunters	3rd	Opening Government	Rhiesele Joy C. BentahaⒸ , Alexandra Chloe Baylon
+INNHS aromatics	2nd	Closing Government	Rhiesele Joy C. BentahaⒸ , Alexandra Chloe Baylon
+BU Ka Leodybels	4th	Closing Opposition	Rhiesele Joy C. BentahaⒸ , Alexandra Chloe Baylon
+COMPOSITE Keating 3	3rd	Closing Opposition	Allain ChristopherⒸ , Janel Rama
+PHDS Wake Me Up Inside (Save Meee)	4th	Opening Government	Allain ChristopherⒸ , Janel Rama
+KSBF Sunt Amissa	2nd	Closing Government	Allain ChristopherⒸ , Janel Rama
+JPENHS Butt hurt debaters	1st	Opening Opposition	Allain ChristopherⒸ , Janel Rama
+XU Pha Khan Tooth	2nd	Closing Government	Dominique Elise Sy AsuncionⒸ , Eden Celis
+OMNHS Nasa amin si kuya russel at hindi n	1st	Opening Opposition	Dominique Elise Sy AsuncionⒸ , Eden Celis
+SLU binebenta namin si Eowyn Bueno	3rd	Closing Opposition	Dominique Elise Sy AsuncionⒸ , Eden Celis
+FSUU WeAreNotWastedWeAreJustDrunk	4th	Opening Government	Dominique Elise Sy AsuncionⒸ , Eden Celis
+UST SHS BBM: Breaking Breakdowners Madness	1st	Closing Opposition	Allyza Irish SeeⒸ
+SLU ENCANSHOTI	4th	Closing Government	Allyza Irish SeeⒸ
+SLU I got my digital camera, this v	3rd	Opening Government	Allyza Irish SeeⒸ
+JPENHS We Love Cats	2nd	Opening Opposition	Allyza Irish SeeⒸ
+UPLB BR	2nd	Closing Government	Erin Denise FajardoⒸ , Brian Unabia , Carl Lian
+UPD UP Dostoevsky Society A	3rd	Closing Opposition	Erin Denise FajardoⒸ , Brian Unabia , Carl Lian
+HG (Please don&#x27;t hate us social media 	4th	Opening Government	Erin Denise FajardoⒸ , Brian Unabia , Carl Lian
+ADMU WLIAS	1st	Opening Opposition	Erin Denise FajardoⒸ , Brian Unabia , Carl Lian
+CMU lord hear our PuUUuUuUuUr💅	4th	Closing Opposition	Yuan Jacob MiguelⒸ , Christian Klein Ramos
+MSU-M SHS TRIBE AJ	3rd	Opening Government	Yuan Jacob MiguelⒸ , Christian Klein Ramos
+DLSU SHS Beki	1st	Opening Opposition	Yuan Jacob MiguelⒸ , Christian Klein Ramos
+ADDU JHS smile if you like monica	2nd	Closing Government	Yuan Jacob MiguelⒸ , Christian Klein Ramos
+COMPOSITE choke me hard, daddy uwu	1st	Closing Opposition	Paul Lorenz AltaresⒸ , Alren Angelo Libre
+UST Jag and Ice	2nd	Opening Opposition	Paul Lorenz AltaresⒸ , Alren Angelo Libre
+UPM Muling Umawit ang Puso	3rd	Closing Government	Paul Lorenz AltaresⒸ , Alren Angelo Libre
+MSU-IIT Unsa atong team name?	4th	Opening Government	Paul Lorenz AltaresⒸ , Alren Angelo Libre
+COMPOSITE kuya russel sino po ba talaga ang t	4th	Opening Government	Brian AlubⒸ , Adrian Russel S. Magno
+UPLB doobi doobi dap dap second try	1st	Closing Opposition	Brian AlubⒸ , Adrian Russel S. Magno
+MSU-M writtenbywomen	3rd	Opening Opposition	Brian AlubⒸ , Adrian Russel S. Magno
+MGC If found crying in prep, pls return	2nd	Closing Government	Brian AlubⒸ , Adrian Russel S. Magno
+OMDS Kuya russel ang funny nio naman po 	1st	Closing Government	Third Arante IIIⒸ , Donald Christian Boarao
+NWU Team Kwago	3rd	Opening Government	Third Arante IIIⒸ , Donald Christian Boarao
+MSU-M SHS TRIBE RJ	2nd	Closing Opposition	Third Arante IIIⒸ , Donald Christian Boarao
+JPENHS Never Gonna Give You Up	4th	Opening Opposition	Third Arante IIIⒸ , Donald Christian Boarao
+COMPOSITE andami mong dada, isampal ko kaya a	4th	Opening Opposition	Sittie Sheika AnsarolaⒸ , Nichelle Trinity H. Solsona
+COMPOSITE POI Preference: Single	2nd	Closing Government	Sittie Sheika AnsarolaⒸ , Nichelle Trinity H. Solsona
+UPLB single ladies	3rd	Opening Government	Sittie Sheika AnsarolaⒸ , Nichelle Trinity H. Solsona
+UPD Teka Offline Partner Ko	1st	Closing Opposition	Sittie Sheika AnsarolaⒸ , Nichelle Trinity H. Solsona
+UST SHS Radeon RX 6700 XT	2nd	Closing Opposition	Franzyn Maryel InconⒸ
+OMNHS kuya russel nakakadiabetes po ba an	1st	Closing Government	Franzyn Maryel InconⒸ
+OSFI 555 tuna	3rd	Opening Opposition	Franzyn Maryel InconⒸ
+BSU Ay Okay!	4th	Opening Government	Franzyn Maryel InconⒸ
+SWING 2	3rd	Opening Government	DJ UgalinoⒸ , Ariel Jan Gayem
+LPU-M AA Debatteries	4th	Closing Government	DJ UgalinoⒸ , Ariel Jan Gayem
+DLSU SHS mga bitchesa with bad karma	1st	Closing Opposition	DJ UgalinoⒸ , Ariel Jan Gayem
+BU BU A predicts all of us are dead in	2nd	Opening Opposition	DJ UgalinoⒸ , Ariel Jan Gayem
+UPLB Mga Anak ni Daddy CJ	4th	Opening Government	Joanna Marie Del MundoⒸ , Elshah Gail L. Castañeda
+TNSHS BUKIDCORE	2nd	Closing Opposition	Joanna Marie Del MundoⒸ , Elshah Gail L. Castañeda
+JPENHS We were enchanted to meet them	3rd	Opening Opposition	Joanna Marie Del MundoⒸ , Elshah Gail L. Castañeda
+DLSU-M Diglet&#x27;s Feet	1st	Closing Government	Joanna Marie Del MundoⒸ , Elshah Gail L. Castañeda
+SWING 1	2nd	Closing Government	Mika EstradaⒸ , Kaye Mendoza
+UPVI tallano golddiggers ;)	3rd	Closing Opposition	Mika EstradaⒸ , Kaye Mendoza
+MSU-M wala ka kadalag calculator?!	4th	Opening Opposition	Mika EstradaⒸ , Kaye Mendoza
+ADNU SOLID LENI BICOL	1st	Opening Government	Mika EstradaⒸ , Kaye Mendoza
+COMPOSITE Gian is Breaking-free	3rd	Closing Government	Maria Louise WeeⒸ , Justinne Felizarta
+COMPOSITE IndoMie	2nd	Opening Government	Maria Louise WeeⒸ , Justinne Felizarta
+NUF Straw Hats	4th	Closing Opposition	Maria Louise WeeⒸ , Justinne Felizarta
+DLSZ (Break)ing bones	1st	Opening Opposition	Maria Louise WeeⒸ , Justinne Felizarta
+NNHS sabi ng mama mo tita nalang daw ang	2nd	Closing Opposition	Jaimie CalunodⒸ
+MSU-GSC SHS Debate Team ni Jessica Soho	1st	Opening Opposition	Jaimie CalunodⒸ
+JPENHS Wonder Pets	4th	Closing Government	Jaimie CalunodⒸ
+CSU C	3rd	Opening Government	Jaimie CalunodⒸ
+UPVI THERE IS NO KING OF THE NORTH	1st	Closing Opposition	Julius PadillaⒸ
+OSFI we are the biggest simps of the cen	4th	Opening Opposition	Julius PadillaⒸ
+MMSU 2GETHER BLUES	2nd	Closing Government	Julius PadillaⒸ
+JPENHS Rare to Find	3rd	Opening Government	Julius PadillaⒸ
+DLSU-D Debatetussy	4th	Opening Government	Mark Angelo GallardoⒸ , Patricia Guimary
+NUF Talano gold alamano beneficiaries	3rd	Closing Opposition	Mark Angelo GallardoⒸ , Patricia Guimary
+HG HG D (we can’t think of a name so l	1st	Opening Opposition	Mark Angelo GallardoⒸ , Patricia Guimary
+BU The Women from Bicol University Ram	2nd	Closing Government	Mark Angelo GallardoⒸ , Patricia Guimary
+COMPOSITE Marckcists	3rd	Opening Opposition	Kelsey Elouisa LanzuelaⒸ , Anna Abigail Ticzon
+UPD bread is here D:	1st	Opening Government	Kelsey Elouisa LanzuelaⒸ , Anna Abigail Ticzon
+MSU-M kojic yarn?	4th	Closing Government	Kelsey Elouisa LanzuelaⒸ , Anna Abigail Ticzon
+DLSZ raeine raeine go away come again an	2nd	Closing Opposition	Kelsey Elouisa LanzuelaⒸ , Anna Abigail Ticzon
+UPLB Junk SAIS	2nd	Closing Opposition	Jaryll James JuntadoⒸ , Althea M. Romero
+OMDS Re-in-ven-tion!!	4th	Opening Government	Jaryll James JuntadoⒸ , Althea M. Romero
+MSU-IIT Super Idol	1st	Closing Government	Jaryll James JuntadoⒸ , Althea M. Romero
+DLSU SHS mga biktima ng school calendar	3rd	Opening Opposition	Jaryll James JuntadoⒸ , Althea M. Romero
+UPM Bilangin ang Bituin sa Langit	3rd	Closing Opposition	Jayvee G. BondocⒸ , Claris Aira Salanga
+ADZU SHS Ra ra Rasputin Lover of the Russian	2nd	Opening Opposition	Jayvee G. BondocⒸ , Claris Aira Salanga
+ADNU SHS The Woman in the House Across the S	4th	Opening Government	Jayvee G. BondocⒸ , Claris Aira Salanga
+ADMU IATBH	1st	Closing Government	Jayvee G. BondocⒸ , Claris Aira Salanga
+PHDS All too Unwell (Whole day Vers	3rd	Opening Opposition	Alleah Gail G. PajarilloⒸ , Maeranisa M. Aminoden
+PHDS Alphabet	1st	Closing Opposition	Alleah Gail G. PajarilloⒸ , Maeranisa M. Aminoden
+OMDS kuya russel considered po bang laki	2nd	Closing Government	Alleah Gail G. PajarilloⒸ , Maeranisa M. Aminoden
+ELJ We came for free trauma	4th	Opening Government	Alleah Gail G. PajarilloⒸ , Maeranisa M. Aminoden
+UNC Happy Birthday Gaile	2nd	Opening Government	Andrei Gyles Sy LimⒸ
+MSU-IIT Both of Us are Dead	1st	Opening Opposition	Andrei Gyles Sy LimⒸ
+LPU-M ¡Los Conquistadors!	3rd	Closing Opposition	Andrei Gyles Sy LimⒸ
+ICA-B ICAlapati	4th	Closing Government	Andrei Gyles Sy LimⒸ
+UPLB Mountain Bois	2nd	Opening Opposition	Hannah BabaranⒸ , PJ Espelita
+OMNHS Kuya russel kung kapatid po ng magn	1st	Closing Opposition	Hannah BabaranⒸ , PJ Espelita
+HG HG B - Dakkel Ngiwat	3rd	Closing Government	Hannah BabaranⒸ , PJ Espelita
+CSU A	4th	Opening Government	Hannah BabaranⒸ , PJ Espelita
+DLSU-D This House Opposes Synchronous Clas	2nd	Opening Government	Maria Isabela GonzalesⒸ , Kenji Matthew Salingay Sai
+CMU https://youtu.be/VJfK-QLv27o	4th	Closing Government	Maria Isabela GonzalesⒸ , Kenji Matthew Salingay Sai
+SLU Yamete Kudasai	3rd	Closing Opposition	Maria Isabela GonzalesⒸ , Kenji Matthew Salingay Sai
+MMSU Morax wanters	1st	Opening Opposition	Maria Isabela GonzalesⒸ , Kenji Matthew Salingay Sai
+COMPOSITE can two tables?	1st	Opening Opposition	Isah BasherⒸ , kez
+PAREF hopium	4th	Opening Government	Isah BasherⒸ , kez
+DLSU-M $wagapino $adbois	3rd	Closing Government	Isah BasherⒸ , kez
+ADNU SHS All of us are gays	2nd	Closing Opposition	Isah BasherⒸ , kez
+UPVDS Yams Ripple	4th	Opening Government	Ahren BaileyⒸ , Erin Jozel Madlangbayan
+NEMSU Swiftie Dakog Bunal	3rd	Opening Opposition	Ahren BaileyⒸ , Erin Jozel Madlangbayan
+DLSZ 🐯 Uh 🗣️ my baby 😉 says she wanna da	1st	Closing Government	Ahren BaileyⒸ , Erin Jozel Madlangbayan
+DLSU-M screaming crying throwing up	2nd	Closing Opposition	Ahren BaileyⒸ , Erin Jozel Madlangbayan
+NUF Ang Mga Usisa	3rd	Opening Opposition	Cheeto VitugⒸ
+LPU-M &quot;If we don&#x27;t win di kayo mahal ni L	4th	Opening Government	Cheeto VitugⒸ
+HG HG E - ...in a world where I was yo	2nd	Closing Government	Cheeto VitugⒸ
+ELJ Hectic Skeptics	1st	Closing Opposition	Cheeto VitugⒸ
+COMPOSITE Gay Geto and gay Illumi crossover	1st	Opening Opposition	Deniz ZuluetaⒸ , Marc Jethro Guerrero
+COMPOSITE Team BJ (Brian, Jay n&#x27; John)	3rd	Closing Opposition	Deniz ZuluetaⒸ , Marc Jethro Guerrero
+UM SHS FIDELIS	4th	Opening Government	Deniz ZuluetaⒸ , Marc Jethro Guerrero
+ADDU JHS M&amp;M	2nd	Closing Government	Deniz ZuluetaⒸ , Marc Jethro Guerrero
+UPVM UPVeryTired	4th	Closing Opposition	Clarisse TanⒸ , I am liebe
+PAREF Disappointment Twins	2nd	Closing Government	Clarisse TanⒸ , I am liebe
+HG HG C - This debate team is sponsore	3rd	Opening Government	Clarisse TanⒸ , I am liebe
+ADNU We&#x27;re accepting GCash on Feb 1	1st	Opening Opposition	Clarisse TanⒸ , I am liebe
+UPVM 1% Success Rate	2nd	Closing Opposition	Mai TorresⒸ , Kim Lengen Gesite
+OMNHS kuya russel nagkakamuta po ba yung 	3rd	Opening Government	Mai TorresⒸ , Kim Lengen Gesite
+PAREF We both play multiplayer but one of	1st	Closing Government	Mai TorresⒸ , Kim Lengen Gesite
+MSU-M SHS TRIBE HN	4th	Opening Opposition	Mai TorresⒸ , Kim Lengen Gesite
+UPD Committed (this is Sarah&#x27;s idea	3rd	Opening Opposition	Ashley May L. MacarandangⒸ , Jiane Sulfia A. Caballes
+SBU try lang wag gagalet	1st	Closing Opposition	Ashley May L. MacarandangⒸ , Jiane Sulfia A. Caballes
+DLSU SHS minsan ang buhay ay isang awit ng g	2nd	Closing Government	Ashley May L. MacarandangⒸ , Jiane Sulfia A. Caballes
+BulSU BidJacKarl	4th	Opening Government	Ashley May L. MacarandangⒸ , Jiane Sulfia A. Caballes
+OMNHS kuya russel sexy po ba yung hubad n	2nd	Opening Opposition	Ysaiah GalacinaoⒸ , Kara Bea C. Solacito
+MSU-IIT Team Bumbay	3rd	Closing Government	Ysaiah GalacinaoⒸ , Kara Bea C. Solacito
+DLSU SHS Holy Spirit	1st	Closing Opposition	Ysaiah GalacinaoⒸ , Kara Bea C. Solacito
+DLSU SHS mga girlboss niyo sumalangit na	4th	Opening Government	Ysaiah GalacinaoⒸ , Kara Bea C. Solacito
+
+
+team	result	side	adjudicators
+UPM Bilangin ang Bituin sa Langit	eliminated	Opening Opposition	Julius PadillaⒸ , Maria Louise Wee
+OMNHS kuya russel sexy po ba yung hubad n	eliminated	Closing Opposition	Julius PadillaⒸ , Maria Louise Wee
+SBU try lang wag gagalet	advancing	Opening Government	Julius PadillaⒸ , Maria Louise Wee
+DLSU SHS mga biktima ng school calendar	advancing	Closing Government	Julius PadillaⒸ , Maria Louise Wee
+UPM Muling Umawit ang Puso	advancing	Closing Opposition	Allyza Irish SeeⒸ , Alleah Gail G. Pajarillo , Yuan Jacob Miguel
+UPD UP Dostoevsky Society A	eliminated	Opening Government	Allyza Irish SeeⒸ , Alleah Gail G. Pajarillo , Yuan Jacob Miguel
+MGC If found crying in prep, pls return	eliminated	Closing Government	Allyza Irish SeeⒸ , Alleah Gail G. Pajarillo , Yuan Jacob Miguel
+ADNU SHS All of us are gays	advancing	Opening Opposition	Allyza Irish SeeⒸ , Alleah Gail G. Pajarillo , Yuan Jacob Miguel
+UPLB single ladies	eliminated	Closing Government	Clarisse TanⒸ , Allain Christopher , Rhiesele Joy C. Bentaha
+MSU-IIT Super Idol	advancing	Opening Opposition	Clarisse TanⒸ , Allain Christopher , Rhiesele Joy C. Bentaha
+HG (Please don&#x27;t hate us social media 	eliminated	Opening Government	Clarisse TanⒸ , Allain Christopher , Rhiesele Joy C. Bentaha
+ADZU SHS Ra ra Rasputin Lover of the Russian	advancing	Closing Opposition	Clarisse TanⒸ , Allain Christopher , Rhiesele Joy C. Bentaha
+COMPOSITE can two tables?	eliminated	Closing Opposition	Dominique Elise Sy AsuncionⒸ , Hannah Babaran , Mai Torres
+COMPOSITE hee hee hee ha	advancing	Opening Government	Dominique Elise Sy AsuncionⒸ , Hannah Babaran , Mai Torres
+COMPOSITE POI Preference: Single	eliminated	Closing Government	Dominique Elise Sy AsuncionⒸ , Hannah Babaran , Mai Torres
+UPLB BR	advancing	Opening Opposition	Dominique Elise Sy AsuncionⒸ , Hannah Babaran , Mai Torres
+COMPOSITE choke me hard, daddy uwu	advancing	Closing Government	Miko CanoⒸ , Ysaiah Galacinao
+UPD Committed (this is Sarah&#x27;s idea	eliminated	Opening Government	Miko CanoⒸ , Ysaiah Galacinao
+UPD Teka Offline Partner Ko	eliminated	Closing Opposition	Miko CanoⒸ , Ysaiah Galacinao
+ADNU SHS The Woman in the House Across the S	advancing	Opening Opposition	Miko CanoⒸ , Ysaiah Galacinao
+COMPOSITE Gay Geto and gay Illumi crossover	eliminated	Opening Opposition	Dianne AblayⒸ , DJ Ugalino , Mark Angelo Gallardo
+DLSU SHS Beki	advancing	Opening Government	Dianne AblayⒸ , DJ Ugalino , Mark Angelo Gallardo
+ADNU SOLID LENI BICOL	eliminated	Closing Opposition	Dianne AblayⒸ , DJ Ugalino , Mark Angelo Gallardo
+ADMU IATBH	advancing	Closing Government	Dianne AblayⒸ , DJ Ugalino , Mark Angelo Gallardo
+UST Jag and Ice	advancing	Closing Opposition	Isah BasherⒸ , Nathalia T. Mayani , Sandro Rico Muyco
+UPLB Junk SAIS	eliminated	Opening Government	Isah BasherⒸ , Nathalia T. Mayani , Sandro Rico Muyco
+DLSZ 🐯 Uh 🗣️ my baby 😉 says she wanna da	eliminated	Opening Opposition	Isah BasherⒸ , Nathalia T. Mayani , Sandro Rico Muyco
+DLSU SHS minsan ang buhay ay isang awit ng g	advancing	Closing Government	Isah BasherⒸ , Nathalia T. Mayani , Sandro Rico Muyco
+UPLB doobi doobi dap dap second try	eliminated	Opening Government	Brian AlubⒸ , Jayvee G. Bondoc , Kelsey Elouisa Lanzuela
+UPD bread is here D:	advancing	Closing Government	Brian AlubⒸ , Jayvee G. Bondoc , Kelsey Elouisa Lanzuela
+ADNU We&#x27;re accepting GCash on Feb 1	eliminated	Closing Opposition	Brian AlubⒸ , Jayvee G. Bondoc , Kelsey Elouisa Lanzuela
+ADMU WLIAS	advancing	Opening Opposition	Brian AlubⒸ , Jayvee G. Bondoc , Kelsey Elouisa Lanzuela
+
+
+team	result	side	adjudicators
+SBU try lang wag gagalet	eliminated	Opening Government	Isah BasherⒸ , Alleah Gail G. Pajarillo , Hannah Babaran
+DLSU SHS Beki	eliminated	Opening Opposition	Isah BasherⒸ , Alleah Gail G. Pajarillo , Hannah Babaran
+DLSU SHS mga biktima ng school calendar	advancing	Closing Opposition	Isah BasherⒸ , Alleah Gail G. Pajarillo , Hannah Babaran
+ADMU IATBH	advancing	Closing Government	Isah BasherⒸ , Alleah Gail G. Pajarillo , Hannah Babaran
+COMPOSITE hee hee hee ha	advancing	Opening Government	Cheeto VitugⒸ , Brian Alub , Mark Angelo Gallardo
+COMPOSITE choke me hard, daddy uwu	eliminated	Closing Government	Cheeto VitugⒸ , Brian Alub , Mark Angelo Gallardo
+UPLB BR	advancing	Closing Opposition	Cheeto VitugⒸ , Brian Alub , Mark Angelo Gallardo
+ADNU SHS The Woman in the House Across the S	eliminated	Opening Opposition	Cheeto VitugⒸ , Brian Alub , Mark Angelo Gallardo
+UST Jag and Ice	eliminated	Closing Opposition	Brian UnabiaⒸ , Allyza Irish See , Jaryll James Juntado
+UPM Muling Umawit ang Puso	advancing	Closing Government	Brian UnabiaⒸ , Allyza Irish See , Jaryll James Juntado
+DLSU SHS minsan ang buhay ay isang awit ng g	advancing	Opening Government	Brian UnabiaⒸ , Allyza Irish See , Jaryll James Juntado
+ADNU SHS All of us are gays	eliminated	Opening Opposition	Brian UnabiaⒸ , Allyza Irish See , Jaryll James Juntado
+UPD bread is here D:	eliminated	Closing Opposition	Miko CanoⒸ , Deniz Zulueta , Julius Padilla
+MSU-IIT Super Idol	eliminated	Opening Opposition	Miko CanoⒸ , Deniz Zulueta , Julius Padilla
+ADZU SHS Ra ra Rasputin Lover of the Russian	advancing	Opening Government	Miko CanoⒸ , Deniz Zulueta , Julius Padilla
+ADMU WLIAS	advancing	Closing Government	Miko CanoⒸ , Deniz Zulueta , Julius Padilla
+
+
+team	result	side	adjudicators
+COMPOSITE hee hee hee ha	eliminated	Opening Opposition	Miko CanoⒸ , Allyza Irish See , Clarisse Tan , Dominique Elise Sy Asuncion , Kelsey Elouisa Lanzuela
+UPLB BR	advancing	Closing Opposition	Miko CanoⒸ , Allyza Irish See , Clarisse Tan , Dominique Elise Sy Asuncion , Kelsey Elouisa Lanzuela
+DLSU SHS Beki	eliminated	Closing Government	Miko CanoⒸ , Allyza Irish See , Clarisse Tan , Dominique Elise Sy Asuncion , Kelsey Elouisa Lanzuela
+ADMU IATBH	advancing	Opening Government	Miko CanoⒸ , Allyza Irish See , Clarisse Tan , Dominique Elise Sy Asuncion , Kelsey Elouisa Lanzuela
+UPM Muling Umawit ang Puso	eliminated	Opening Government	Third Arante IIIⒸ , DJ Ugalino , Isah Basher , Julius Padilla , Nathalia T. Mayani
+DLSU SHS minsan ang buhay ay isang awit ng g	advancing	Opening Opposition	Third Arante IIIⒸ , DJ Ugalino , Isah Basher , Julius Padilla , Nathalia T. Mayani
+ADZU SHS Ra ra Rasputin Lover of the Russian	eliminated	Closing Government	Third Arante IIIⒸ , DJ Ugalino , Isah Basher , Julius Padilla , Nathalia T. Mayani
+ADMU WLIAS	advancing	Closing Opposition	Third Arante IIIⒸ , DJ Ugalino , Isah Basher , Julius Padilla , Nathalia T. Mayani
+
+
+team	result	side	adjudicators
+UPLB BR	eliminated	Closing Opposition	Jaryll James JuntadoⒸ , Allyza Irish See , Brian Alub , Dominique Elise Sy Asuncion , Isah Basher , Kelsey Elouisa Lanzuela , Third Arante III
+DLSU SHS minsan ang buhay ay isang awit ng g	eliminated	Opening Opposition	Jaryll James JuntadoⒸ , Allyza Irish See , Brian Alub , Dominique Elise Sy Asuncion , Isah Basher , Kelsey Elouisa Lanzuela , Third Arante III
+ADMU IATBH	advancing	Closing Government	Jaryll James JuntadoⒸ , Allyza Irish See , Brian Alub , Dominique Elise Sy Asuncion , Isah Basher , Kelsey Elouisa Lanzuela , Third Arante III
+ADMU WLIAS	eliminated	Opening Government	Jaryll James JuntadoⒸ , Allyza Irish See , Brian Alub , Dominique Elise Sy Asuncion , Isah Basher , Kelsey Elouisa Lanzuela , Third Arante III
+
+
+team	result	side	adjudicators
+OMNHS Kuya russel kung kapatid po ng magn	eliminated	Opening Government	DJ UgalinoⒸ , Clarisse Tan , Third Arante III
+OMDS Re-in-ven-tion!!	advancing	Opening Opposition	DJ UgalinoⒸ , Clarisse Tan , Third Arante III
+JPENHS Butt hurt debaters	advancing	Closing Opposition	DJ UgalinoⒸ , Clarisse Tan , Third Arante III
+ADDU JHS M&amp;M	eliminated	Closing Government	DJ UgalinoⒸ , Clarisse Tan , Third Arante III
+OMNHS Nasa amin si kuya russel at hindi n	eliminated	Opening Government	Nathalia T. MayaniⒸ , Dominique Elise Sy Asuncion , Jayvee G. Bondoc
+INNHS aromatics	eliminated	Closing Government	Nathalia T. MayaniⒸ , Dominique Elise Sy Asuncion , Jayvee G. Bondoc
+DLSZ raeine raeine go away come again an	advancing	Opening Opposition	Nathalia T. MayaniⒸ , Dominique Elise Sy Asuncion , Jayvee G. Bondoc
+ADDU JHS smile if you like monica	advancing	Closing Opposition	Nathalia T. MayaniⒸ , Dominique Elise Sy Asuncion , Jayvee G. Bondoc
+
+
+team	result	side	adjudicators
+OMDS Re-in-ven-tion!!	eliminated	Closing Government	Jaryll James JuntadoⒸ , Brian Alub , Deniz Zulueta , Hannah Babaran , Mark Angelo Gallardo
+JPENHS Butt hurt debaters	eliminated	Closing Opposition	Jaryll James JuntadoⒸ , Brian Alub , Deniz Zulueta , Hannah Babaran , Mark Angelo Gallardo
+DLSZ raeine raeine go away come again an	advancing	Opening Government	Jaryll James JuntadoⒸ , Brian Alub , Deniz Zulueta , Hannah Babaran , Mark Angelo Gallardo
+ADDU JHS smile if you like monica	eliminated	Opening Opposition	Jaryll James JuntadoⒸ , Brian Alub , Deniz Zulueta , Hannah Babaran , Mark Angelo Gallardo
+
+
+team	result	side	adjudicators
+MMSU 2GETHER BLUES	eliminated	Closing Opposition	Cheeto VitugⒸ , Jaryll James Juntado , Third Arante III
+MMSU kandela ni abuela	eliminated	Closing Government	Cheeto VitugⒸ , Jaryll James Juntado , Third Arante III
+MMSU Morax wanters	advancing	Opening Government	Cheeto VitugⒸ , Jaryll James Juntado , Third Arante III
+ICA-B ICAlapati	eliminated	Opening Opposition	Cheeto VitugⒸ , Jaryll James Juntado , Third Arante III
+

@@ -1,0 +1,875 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Bhaavarth finals case		1st	1st	2nd	2nd	1st	13	795	3	2
+2	St. Louis		2nd	2nd	1st	1st	1st	13	776	3	2
+3	DLSU MLK and MCL		1st	4th	1st	1st	1st	12	800	4	0
+4	Verbal Abusers		2nd	1st	1st	1st	3rd	12	793	3	1
+5	Teddy West-Side &amp; Swarley		1st	2nd	3rd	1st	1st	12	781	3	1
+6	ILS OA		1st	1st	2nd	2nd	2nd	12	781	2	3
+7	Let Go by Pain &amp; Co.		2nd	1st	1st	3rd	2nd	11	790	2	2
+8	Harness your hopes b-side		2nd	1st	1st	1st	4th	11	783	3	1
+9	Gullu		3rd	1st	2nd	1st	2nd	11	776	2	2
+10	the cockblockers		3rd	1st	2nd	1st	2nd	11	773	2	2
+11	Yung, dumb and broke(for aodc)		2nd	3rd	2nd	1st	1st	11	766	2	2
+12	Clash me Harder	Novice	1st	3rd	2nd	2nd	1st	11	762	2	2
+13=	rayray and jayjay		1st	2nd	3rd	3rd	1st	10	782	2	1
+13=	str8 tumblr gyalz		1st	2nd	3rd	1st	3rd	10	782	2	1
+15	choli ke neeche beyoncè hai	Novice	2nd	2nd	1st	2nd	3rd	10	776	1	3
+16	greenback boogie		2nd	1st	3rd	3rd	1st	10	772	2	1
+17	dwarka mor femcel incel association	Novice	1st	3rd	2nd	2nd	2nd	10	769	1	3
+18	IITB Mehta &amp; Raghav Raj		2nd	3rd	3rd	1st	1st	10	768	2	1
+19	No scam just truth	Novice	1st	1st	1st	4th	4th	9	772	3	0
+20	mausambi ka juice	Novice	1st	2nd	4th	2nd	2nd	9	771	1	3
+21	Rina &amp; Yuki		2nd	3rd	1st	3rd	2nd	9	771	1	2
+22=	Lester and Moe		1st	4th	1st	4th	1st	9	770	3	0
+22=	Smells like potential		1st	1st	4th	4th	1st	9	770	3	0
+24	uiet x stephen&#x27;s	Novice	1st	2nd	2nd	4th	2nd	9	769	1	3
+25	Chinchwad cha kaamgar warg	Novice	3rd	2nd	2nd	1st	3rd	9	768	1	2
+26	David and Goliath		2nd	2nd	2nd	2nd	3rd	9	766	0	4
+27	Hogwarts A		2nd	2nd	3rd	3rd	1st	9	765	1	2
+28	Nigerian prince with echo echo		3rd	1st	2nd	4th	1st	9	761	2	1
+29	DS Legends Gon&#x27; Legend		4th	1st	2nd	2nd	2nd	9	760	1	3
+30	Eagle Chacha		1st	4th	1st	2nd	3rd	9	758	2	1
+31	Batman and Rohit	Novice	3rd	1st	4th	1st	2nd	9	745	2	1
+32	Kalah Finals Hahaha		1st	1st	—	—	1st	9	475	3	0
+33	Ryan and Mikulic		1st	1st	1st	—	—	9	474	3	0
+34	Ek dhakkan vodka?		3rd	1st	1st	4th	3rd	8	773	2	0
+35	JOOJOO &amp; JAJA	Novice	1st	1st	4th	3rd	3rd	8	771	2	0
+36	CamelBuddies	Novice	4th	1st	1st	2nd	4th	8	767	2	1
+37	Leave the gun, take the POI	Novice	1st	3rd	3rd	1st	4th	8	766	2	0
+38	Asghar in the Kohli&#x27;s Shadow		2nd	2nd	1st	3rd	4th	8	763	1	2
+39	The Cult of Deb-Kunaal	Novice	2nd	2nd	3rd	3rd	2nd	8	763	0	3
+40	Brampton ke Munde		4th	2nd	2nd	3rd	1st	8	762	1	2
+41	Elite by Extension		3rd	3rd	1st	2nd	3rd	8	759	1	1
+42	rajma chawal	Novice	2nd	4th	3rd	2nd	1st	8	758	1	2
+43	Basim &amp; Shariq	Novice	4th	1st	1st	4th	2nd	8	756	2	1
+44	O Billo Rani	Novice	4th	4th	1st	2nd	1st	8	746	2	1
+45	hope the wifi is strong enough	Novice	4th	2nd	1st	1st	4th	8	744	2	1
+46	paras ki duniya	Novice	1st	2nd	3rd	3rd	4th	7	764	1	1
+47	swing in RSS HQ	Novice	1st	3rd	4th	1st	4th	7	762	2	0
+48	Tharak ke Saudagar	Novice	2nd	3rd	4th	1st	3rd	7	762	1	1
+49	Ayyappa Swami x Kannannur Amma gang	Novice	3rd	4th	1st	1st	4th	7	759	2	0
+50	We are bored so that&#x27;s why	Novice	1st	4th	4th	3rd	1st	7	757	2	0
+51	meow meows are debating	Novice	3rd	3rd	1st	4th	2nd	7	756	1	1
+52	Banana And Coconut	Novice	2nd	2nd	4th	3rd	2nd	7	756	0	3
+53	Megatron Transform!! Erngk Erngk Er	Novice	3rd	2nd	3rd	1st	4th	7	755	1	1
+54	chandaal chudail ka chaalbaaz chaak	Novice	4th	2nd	2nd	2nd	3rd	7	753	0	3
+55	Not a sin to Mass Debate	Novice	2nd	3rd	1st	4th	3rd	7	752	1	1
+56=	Ek bihari Ek marathi		2nd	4th	1st	4th	2nd	7	751	1	2
+56=	Jabardast Jetha	Novice	2nd	4th	2nd	4th	1st	7	751	1	2
+58	Our Code	Novice	2nd	3rd	3rd	2nd	3rd	7	751	0	2
+59	Prep kaha hai?	Novice	2nd	4th	4th	1st	2nd	7	747	1	2
+60	Victorians	Novice	4th	4th	2nd	1st	2nd	7	741	1	2
+61	Alphabets	Novice	4th	3rd	2nd	1st	3rd	7	723	1	1
+62	We Need BoyfriendS		3rd	1st	3rd	2nd	—	7	611	1	1
+63	Tum Hi Ho		3rd	1st	4th	—	1st	7	602	2	0
+64	Bhajans By Kung Fu Kenny	Novice	3rd	2nd	3rd	3rd	3rd	6	772	0	1
+65	Choke me tabby	Novice	3rd	2nd	2nd	4th	3rd	6	767	0	2
+66	Happy Deb-aali !	Novice	1st	4th	2nd	3rd	4th	6	762	1	1
+67	mango mango	Novice	3rd	4th	1st	2nd	4th	6	757	1	1
+68	Career adjes	Novice	4th	3rd	1st	2nd	4th	6	748	1	1
+69	(2/3) Powerpuff girls	Novice	3rd	2nd	3rd	4th	2nd	6	748	0	2
+70	Argumentative Avengers	Novice	3rd	3rd	4th	2nd	2nd	6	746	0	2
+71	Yeh Rishta Break Kehlata Hai	Novice	4th	3rd	2nd	3rd	2nd	6	745	0	2
+72	I think we need a break.	Novice	1st	4th	2nd	4th	3rd	6	738	1	1
+73	Swing 1		—	3rd	2nd	1st	—	6	456	1	1
+74	Mermaid Man and Barnacle Boy	Novice	2nd	4th	2nd	3rd	4th	5	754	0	2
+75	Gonna win this time?	Novice	2nd	1st	4th	4th	4th	5	753	1	1
+76	Break before breakup	Novice	1st	3rd	4th	4th	3rd	5	748	1	0
+77	In So Far as	Novice	4th	4th	3rd	2nd	2nd	5	741	0	2
+78	Cool debators	Novice	4th	1st	4th	2nd	4th	5	737	1	1
+79	Yolo	Novice	4th	3rd	4th	3rd	1st	5	736	1	0
+80	Banter Brigade	Novice	3rd	4th	3rd	3rd	3rd	4	746	0	0
+81	Cherry Blossoms	Novice	2nd	3rd	4th	3rd	4th	4	744	0	1
+82	We Lost A Chipmunk	Novice	4th	1st	4th	3rd	4th	4	738	1	0
+83	Virgin Boys	Novice	1st	4th	3rd	4th	4th	4	732	1	0
+84	Jazba	Novice	4th	4th	4th	1st	3rd	4	729	1	0
+85	Team Johor	Novice	4th	2nd	4th	3rd	3rd	4	727	0	1
+86	Cabinet Cracks	Novice	3rd	2nd	3rd	—	—	4	436	0	1
+87	Team KR	Novice	4th	2nd	4th	3rd	4th	3	739	0	1
+88	Presidencies	Novice	3rd	3rd	3rd	4th	4th	3	729	0	0
+89	Joestars	Novice	3rd	3rd	3rd	4th	—	3	594	0	0
+90	DSBC 2.0	Novice	4th	1st	4th	4th	—	3	589	1	0
+91	Proof Positive	Novice	3rd	4th	2nd	—	—	3	439	0	1
+92	Samartime sadness	Novice	2nd	4th	4th	—	—	2	458	0	1
+93	BorderlineADHD 👽	Novice	3rd	4th	3rd	—	—	2	434	0	0
+94	Swing 3		—	—	3rd	3rd	—	2	304	0	0
+95	Boltzmann would be proud	Novice	3rd	3rd	—	—	—	2	295	0	0
+96	WordSmith squad	Novice	4th	2nd	—	—	—	2	276	0	1
+97	swing 4		—	—	—	2nd	—	2	149	0	1
+98	Swing 5		—	—	—	2nd	—	2	146	0	1
+99	Speech Spartans	Novice	3rd	4th	4th	4th	—	1	563	0	0
+100	SXC Maths honours Minority Represen		4th	3rd	—	—	—	1	301	0	0
+101	Swing 2		—	—	3rd	4th	—	1	289	0	0
+102	Caffeinators	Novice	4th	3rd	—	—	—	1	288	0	0
+103	H&amp;M	Novice	4th	4th	4th	4th	—	0	581	0	0
+104	Blazing Debaters		—	4th	—	—	—	0	146	0	0
+105	Parliamentary Pride		4th	—	—	—	—	0	144	0	0
+106	Pinnaclites	Novice	4th	—	—	—	—	0	113	0	0
+107=	Lioncubs	Novice	—	—	—	—	—	—	—	0	0
+107=	Civitas Collective	Novice	—	—	—	—	—	—	—	0	0
+107=	UCL CD	Novice	—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Num
+1=	Mezen Lababidi		DLSU MLK and MCL	82	77	80	81	80	400	80.00	5
+1=	Kimberly Lopez		DLSU MLK and MCL	82	78	81	79	80	400	80.00	5
+3	Afreen		Bhaavarth finals case	79	81	80	80	79	399	79.80	5
+4	Vin		Verbal Abusers	80	78	80	82	77	397	79.40	5
+5=	Hasan		Harness your hopes b-side	79	78	81	82	76	396	79.20	5
+5=	Anubhav Mitra		Let Go by Pain &amp; Co.	79	81	80	78	78	396	79.20	5
+5=	Matthew Ace Angelo Tinamisna		Verbal Abusers	80	78	79	82	77	396	79.20	5
+5=	Snehal		Bhaavarth finals case	79	81	79	78	79	396	79.20	5
+9	Kevin Jais		Let Go by Pain &amp; Co.	78	80	79	79	78	394	78.80	5
+10=	Ojas		ILS OA	78	77	78	81	79	393	78.60	5
+10=	Gaurangi Pande		str8 tumblr gyalz	82	78	79	77	77	393	78.60	5
+12=	Raymond Qiu		rayray and jayjay	78	78	79	76	81	392	78.40	5
+12=	Ishan Saikia		Teddy West-Side &amp; Swarley	78	79	77	80	78	392	78.40	5
+14	Allain Christopher		St. Louis	77	78	78	78	80	391	78.20	5
+15	apaar	Novice	choli ke neeche beyoncè hai	77	80	78	78	77	390	78.00	5
+16=	Rushdoon Ahmed		Teddy West-Side &amp; Swarley	77	78	77	78	79	389	77.80	5
+16=	Ganesh Prasad		str8 tumblr gyalz	81	77	77	77	77	389	77.80	5
+16=	Valentin Katzarov*	Schools	No scam just truth	78	81	79	75	76	389	77.80	5
+16=	Vishesh		Gullu	78	79	77	78	77	389	77.80	5
+20=	Aarohi Bharadwaj	Novice	ILS OA	78	76	77	79	78	388	77.60	5
+20=	Rina Kajitani		Rina &amp; Yuki	78	77	77	77	79	388	77.60	5
+22=	Akarsh		the cockblockers	74	77	79	79	78	387	77.40	5
+22=	Milind Sharma	Novice	Harness your hopes b-side	77	77	79	79	75	387	77.40	5
+22=	Manav Agarwal	Novice	Bhajans By Kung Fu Kenny	76	77	81	75	78	387	77.40	5
+22=	Dharam	Novice	dwarka mor femcel incel association	79	79	76	78	75	387	77.40	5
+22=	Krishaang Kohli		greenback boogie	78	78	76	77	78	387	77.40	5
+22=	Samaara		Gullu	79	78	77	78	75	387	77.40	5
+28=	Taanish Arora	Novice	the cockblockers	74	77	79	78	78	386	77.20	5
+28=	Christine Ong	Novice	JOOJOO &amp; JAJA	77	77	76	78	78	386	77.20	5
+28=	Vishwa Raghav Raj		IITB Mehta &amp; Raghav Raj	76	78	76	78	78	386	77.20	5
+28=	Riya Mirchandani	Novice	mausambi ka juice	76	76	74	82	78	386	77.20	5
+28=	shueza	Novice	choli ke neeche beyoncè hai	76	79	78	77	76	386	77.20	5
+33=	Ryan Tahamid		Hogwarts A	77	80	74	75	79	385	77.00	5
+33=	Ishaan Unni	Novice	Bhajans By Kung Fu Kenny	75	77	79	76	78	385	77.00	5
+33=	Erris Lance		St. Louis	75	77	77	78	78	385	77.00	5
+33=	Aiman Hafiz	Novice	JOOJOO &amp; JAJA	77	78	76	77	77	385	77.00	5
+33=	Yashi saraf	Novice	mausambi ka juice	76	75	74	82	78	385	77.00	5
+33=	Siddharth Sisodia		greenback boogie	77	78	76	75	79	385	77.00	5
+33=	Shaunak Shirgaonkar	Novice	Chinchwad cha kaamgar warg	73	77	77	84	74	385	77.00	5
+33=	Sarmad Ahmed		Smells like potential	78	78	77	75	77	385	77.00	5
+33=	Lakshya	Novice	uiet x stephen&#x27;s	78	79	78	72	78	385	77.00	5
+33=	Keshav		Yung, dumb and broke(for aodc)	77	74	76	79	79	385	77.00	5
+33=	Jaron Pomer		Lester and Moe	76	76	83	73	77	385	77.00	5
+33=	Arielle Mirandilla		Lester and Moe	77	76	82	73	77	385	77.00	5
+45=	Aryaman Khuntia	Novice	Clash me Harder	79	75	76	77	77	384	76.80	5
+45=	Anne Claire Sayas	Novice	Leave the gun, take the POI	78	77	77	77	75	384	76.80	5
+45=	Divanshie Sumit Setia	Novice	Ek dhakkan vodka?	77	77	77	77	76	384	76.80	5
+45=	Shashwat Nagar		Nigerian prince with echo echo	75	82	78	73	76	384	76.80	5
+45=	Vakeesh Rupan Shanthiruban	Novice	CamelBuddies	75	77	79	78	75	384	76.80	5
+45=	Vaibhav	Novice	uiet x stephen&#x27;s	77	79	77	73	78	384	76.80	5
+45=	Divyansh Shah		David and Goliath	75	77	77	78	77	384	76.80	5
+52=	Yuki Saito		Rina &amp; Yuki	76	76	78	75	78	383	76.60	5
+52=	Aryan Rakhe	Novice	Chinchwad cha kaamgar warg	74	76	76	83	74	383	76.60	5
+52=	Ilina Pashkunova*	Novice, Schools	No scam just truth	77	77	78	74	77	383	76.60	5
+55=	Mayukh Maity	Novice	paras ki duniya	78	76	76	76	76	382	76.40	5
+55=	Akshaya Sridhar	Novice	paras ki duniya	77	76	76	76	77	382	76.40	5
+55=	Adithya Venkatraman	Novice	The Cult of Deb-Kunaal	77	79	76	74	76	382	76.40	5
+55=	Pakhi	Novice	dwarka mor femcel incel association	75	78	77	76	76	382	76.40	5
+55=	Rohan Sawlani	Novice	Choke me tabby	75	79	78	73	77	382	76.40	5
+55=	Neil Ivan Florencio	Novice	Leave the gun, take the POI	78	77	76	76	75	382	76.40	5
+55=	Mansi Mukhija	Novice	Happy Deb-aali !	80	74	75	81	72	382	76.40	5
+55=	Hardik Kohli		Asghar in the Kohli&#x27;s Shadow	78	77	78	76	73	382	76.40	5
+55=	Arnav	Novice	Tharak ke Saudagar	77	76	75	76	78	382	76.40	5
+64=	Kashaf Fatima		DS Legends Gon&#x27; Legend	75	76	77	77	76	381	76.20	5
+64=	Avaneesh P	Novice	The Cult of Deb-Kunaal	76	78	76	74	77	381	76.20	5
+64=	Nipun Sapru		Brampton ke Munde	74	74	78	75	80	381	76.20	5
+64=	Aditya Bhatiya		Brampton ke Munde	74	74	78	76	79	381	76.20	5
+64=	srinivas	Novice	Ayyappa Swami x Kannannur Amma gang	76	74	77	78	76	381	76.20	5
+64=	Naman singh		swing in RSS HQ	78	77	75	77	74	381	76.20	5
+64=	Swayam		swing in RSS HQ	79	77	75	76	74	381	76.20	5
+64=	Prajwal Sastry		Yung, dumb and broke(for aodc)	76	72	76	78	79	381	76.20	5
+64=	Syed Taha Asghar		Asghar in the Kohli&#x27;s Shadow	78	77	77	76	73	381	76.20	5
+73=	Val Lubrido	Novice	Hogwarts A	76	78	71	77	78	380	76.00	5
+73=	Rajvini Rout*	Novice	rajma chawal	75	75	74	77	79	380	76.00	5
+73=	Christine Alva Marwein	Novice	We are bored so that&#x27;s why	77	76	76	76	75	380	76.00	5
+73=	Thu Tran	Novice	meow meows are debating	75	73	79	78	75	380	76.00	5
+73=	Redacted	Novice	—	79	73	76	80	72	380	76.00	5
+73=	Kavya Ramasubramanian		Elite by Extension	76	77	76	76	75	380	76.00	5
+73=	Nischal	Novice	Tharak ke Saudagar	76	76	75	76	77	380	76.00	5
+80=	Ryan Qian*	Novice, Schools	mango mango	75	77	75	78	74	379	75.80	5
+80=	Sameen Ahmad		DS Legends Gon&#x27; Legend	74	77	76	77	75	379	75.80	5
+80=	Basim	Novice	Basim &amp; Shariq	73	77	77	75	77	379	75.80	5
+80=	Ayushman	Novice	Eagle Chacha	73	76	77	77	76	379	75.80	5
+80=	Kinshuk Vasan	Novice	Eagle Chacha	75	77	76	76	75	379	75.80	5
+85=	Hisham Khan*	Novice, Schools	mango mango	75	77	75	77	74	378	75.60	5
+85=	Diya Changwani	Novice	rajma chawal	75	75	74	76	78	378	75.60	5
+85=	Huezen Kroy Montejo	Novice	Megatron Transform!! Erngk Erngk Er	76	74	76	77	75	378	75.60	5
+85=	Summer Liew Yi Qin	Novice	Banana And Coconut	75	76	75	73	79	378	75.60	5
+85=	Aaron Talalla	Novice	Banana And Coconut	76	76	75	73	78	378	75.60	5
+85=	Joanna Ann Samuel	Novice	Clash me Harder	77	73	76	76	76	378	75.60	5
+85=	Hesaya Hernandez	Novice, Schools	Mermaid Man and Barnacle Boy	75	76	76	75	76	378	75.60	5
+85=	radhika	Novice	Ayyappa Swami x Kannannur Amma gang	74	75	77	76	76	378	75.60	5
+85=	Srijan Badhya	Novice	Not a sin to Mass Debate	73	76	78	75	76	378	75.60	5
+94=	Yogesh Jhawar	Novice	Gonna win this time?	78	77	74	75	73	377	75.40	5
+94=	Hannah Amerol	Novice	Megatron Transform!! Erngk Erngk Er	76	74	76	76	75	377	75.40	5
+94=	Redacted	Novice	—	76	76	75	74	76	377	75.40	5
+94=	Robin Sinha	Novice	Nigerian prince with echo echo	73	81	77	71	75	377	75.40	5
+94=	Kushagra Tiwari	Novice	chandaal chudail ka chaalbaaz chaak	75	75	76	76	75	377	75.40	5
+94=	Shariq	Novice	Basim &amp; Shariq	72	77	77	75	76	377	75.40	5
+100=	Milan Kumari Panda	Novice	Gonna win this time?	79	76	74	75	72	376	75.20	5
+100=	Akhilesh Dheer	Novice	Prep kaha hai?	77	73	74	77	75	376	75.20	5
+100=	Saanvi Kaplish	Novice	Jabardast Jetha	76	73	79	72	76	376	75.20	5
+100=	Shivam Shaurya	Novice	Ek bihari Ek marathi	73	75	76	74	78	376	75.20	5
+100=	Himanshu Sharma	Novice	Our Code	76	74	78	74	74	376	75.20	5
+100=	Tanvi Anand	Novice	Break before breakup	78	75	75	74	74	376	75.20	5
+100=	Giai-Nguyen Ngo	Novice	meow meows are debating	74	72	78	77	75	376	75.20	5
+100=	Atiyab	Novice	Career adjes	75	76	75	77	73	376	75.20	5
+108=	Sidra Shaikh	Novice	(2/3) Powerpuff girls	75	76	75	75	74	375	75.00	5
+108=	Shiv Jani	Novice	Jabardast Jetha	77	73	78	73	74	375	75.00	5
+108=	Aaryan Gurav		Ek bihari Ek marathi	72	74	76	75	78	375	75.00	5
+108=	Aditya V	Novice	Our Code	76	74	77	75	73	375	75.00	5
+108=	Riddhi Vinherkar	Novice	Yeh Rishta Break Kehlata Hai	77	73	74	76	75	375	75.00	5
+113=	Shreya Datta	Novice	Batman and Rohit	74	77	65	78	80	374	74.80	5
+113=	Khushi Chhabra*	Novice	Argumentative Avengers	73	79	72	75	75	374	74.80	5
+113=	Gokul M D	Novice	Not a sin to Mass Debate	72	75	77	75	75	374	74.80	5
+116=	Maitreyee	Novice	(2/3) Powerpuff girls	76	76	74	74	73	373	74.60	5
+116=	Redacted	Novice	—	78	73	73	74	75	373	74.60	5
+116=	Aaditya Babhulkar	Novice	Banter Brigade	77	75	73	74	74	373	74.60	5
+116=	Mishti Bose	Novice	O Billo Rani	71	71	78	75	78	373	74.60	5
+116=	Ishanvi Agrawal	Novice	O Billo Rani	71	71	77	76	78	373	74.60	5
+121=	HONSHOOJA PAUL CHOWDHURY*	Novice	hope the wifi is strong enough	72	76	76	77	71	372	74.40	5
+121=	OJASVINI GOEL	Novice	hope the wifi is strong enough	72	75	76	78	71	372	74.40	5
+121=	Shreya Chaudhary	Novice	Argumentative Avengers	72	78	73	74	75	372	74.40	5
+121=	Aryamman	Novice	Break before breakup	77	74	75	72	74	372	74.40	5
+125=	Stephen lim*	Novice	Victorians	74	66	77	77	77	371	74.20	5
+125=	Krishaa Vikrant Bhargava	Novice	Team KR	74	76	74	74	73	371	74.20	5
+125=	Rohitaswa Das	Novice	Batman and Rohit	73	77	65	77	79	371	74.20	5
+125=	Urvashi Verma	Novice	Prep kaha hai?	76	73	72	76	74	371	74.20	5
+125=	Rannvijay Roy	Novice	In So Far as	71	73	75	75	77	371	74.20	5
+130=	Utkarsh khirwal*	Novice	Victorians	74	66	77	76	77	370	74.00	5
+130=	Madhura Kulkarni	Novice	Cool debators	76	70	75	76	73	370	74.00	5
+130=	Prachi Ahuja*	Novice	Yeh Rishta Break Kehlata Hai	75	72	74	75	74	370	74.00	5
+133=	Snehank Kadam	Novice	Virgin Boys	74	72	76	74	73	369	73.80	5
+133=	Selwin	Novice	Yolo	73	74	74	71	77	369	73.80	5
+133=	Caeden CHOY*	Novice	We Lost A Chipmunk	68	76	76	77	72	369	73.80	5
+133=	Audrey CHENG*	Novice	We Lost A Chipmunk	69	77	76	76	71	369	73.80	5
+137=	Radhika Prashant Dahalkar	Novice	Team KR	73	73	75	74	73	368	73.60	5
+137=	Angad Mohinder Singh Grewal	Novice	I think we need a break.	75	64	81	75	73	368	73.60	5
+139=	Grazzi	Novice	Yolo	71	74	74	71	77	367	73.40	5
+139=	Taniksha Elango	Novice	Cool debators	76	70	72	76	73	367	73.40	5
+141=	Agam Singh Gill	Novice	Presidencies	72	73	76	75	69	365	73.00	5
+141=	Prabhjot Kaur	Novice	Jazba	72	74	72	74	73	365	73.00	5
+143=	Sanskar Dhyani	Novice	Jazba	71	73	73	74	73	364	72.80	5
+143=	Jamie Jia-Wei Then	Novice	Team Johor	71	75	73	74	71	364	72.80	5
+145=	Mohammad Qamar Sadikali Sayyad	Novice	Virgin Boys	73	70	74	73	73	363	72.60	5
+145=	SIDDARTH VISHAL SARAVANAN	Novice	Team Johor	71	75	72	74	71	363	72.60	5
+147	Anushree Dwivedi	Novice	Alphabets	70	67	75	77	73	362	72.40	5
+148	Ananya Shinde	Novice	Alphabets	69	67	75	77	73	361	72.20	5
+149=	Satvik Sharma	Novice	Boltzmann would be proud	76	72	—	—	—	148	74.00	2
+149=	Advaith GS	Novice	Boltzmann would be proud	—	71	—	—	—	71	71.00	1
+149=	Aditya Goomer	Novice	Speech Spartans	68	72	71	75	—	286	71.50	4
+149=	Harsh Gautam Jha	Novice	Speech Spartans	66	72	71	68	—	277	69.25	4
+149=	Aaryan Yadav	Novice	Caffeinators	70	75	—	—	—	145	72.50	2
+149=	Sukriti Talwar	Novice	Caffeinators	70	73	—	—	—	143	71.50	2
+149=	Papiha Mandpe	Novice	Presidencies	72	73	75	75	—	295	73.75	4
+149=	Ronit Bhati	Novice	DSBC 2.0	74	76	73	73	—	296	74.00	4
+149=	Gauri Prem	Novice	DSBC 2.0	—	75	73	73	—	221	73.67	3
+149=	Ujjwal Gupta	Novice	WordSmith squad	70	69	—	—	—	139	69.50	2
+149=	Jasmeet Kaur	Novice	WordSmith squad	—	—	—	—	—	—	—	0
+149=	Manan Mehta		IITB Mehta &amp; Raghav Raj	—	76	75	78	77	306	76.50	4
+149=	Nihar Barnwal	Novice	Pinnaclites	50	—	—	—	—	50	50.00	1
+149=	Naman Jain*	Novice	Pinnaclites	63	—	—	—	—	63	63.00	1
+149=	Ayushi Mishra	Novice	Cabinet Cracks	69	74	75	—	—	218	72.67	3
+149=	Jaanahvya Kongara	Novice	Cabinet Cracks	69	75	74	—	—	218	72.67	3
+149=	Daksh agrawal	Novice	Choke me tabby	76	80	—	73	78	307	76.75	4
+149=	Rishabh Gupta		Ek dhakkan vodka?	—	77	79	79	77	312	78.00	4
+149=	Michael John Serica	Novice, Schools	Mermaid Man and Barnacle Boy	—	76	75	75	76	302	75.50	4
+149=	Rohan campion		UCL CD	—	—	—	—	—	—	—	0
+149=	Manav dhaliwal		UCL CD	—	—	—	—	—	—	—	0
+149=	Neva Mikulic		Ryan and Mikulic	77	79	80	—	—	236	78.67	3
+149=	Will Ryan		Ryan and Mikulic	78	80	80	—	—	238	79.33	3
+149=	Rohin Sarkar	Novice	Lioncubs	—	—	—	—	—	—	—	0
+149=	Shoibayon Ganguly	Novice	Lioncubs	—	—	—	—	—	—	—	0
+149=	Rashrvin Pillay		Kalah Finals Hahaha	79	80	—	—	79	238	79.33	3
+149=	Thivagar		Kalah Finals Hahaha	—	—	—	—	—	—	—	0
+149=	Jacqueline Huang	Novice	rayray and jayjay	77	77	—	—	82	236	78.67	3
+149=	Anushka Das		SXC Maths honours Minority Represen	76	74	—	—	—	150	75.00	2
+149=	Preyashi Agarwal	Novice	SXC Maths honours Minority Represen	76	75	—	—	—	151	75.50	2
+149=	Zehaan	Novice	chandaal chudail ka chaalbaaz chaak	—	—	75	76	75	226	75.33	3
+149=	Saksham Maggo	Novice	Samartime sadness	76	75	80	—	—	231	77.00	3
+149=	Shridhar Tiwari	Novice	Samartime sadness	75	74	78	—	—	227	75.67	3
+149=	Harshit Goyal		Blazing Debaters	—	73	—	—	—	73	73.00	1
+149=	Naman		Blazing Debaters	—	—	—	—	—	—	—	0
+149=	Swinger 1		Swing 1	—	75	76	78	—	229	76.33	3
+149=	Swinger 2		Swing 1	—	—	76	77	—	153	76.50	2
+149=	Swingerr 1		Swing 2	—	—	73	72	—	145	72.50	2
+149=	Swingerr 2		Swing 2	—	—	73	71	—	144	72.00	2
+149=	Speaker 1		Swing 3	—	—	77	74	—	151	75.50	2
+149=	Speaker 2		Swing 3	—	—	—	77	—	77	77.00	1
+149=	Swingg		swing 4	—	—	—	74	—	74	74.00	1
+149=	Swingg		swing 4	—	—	—	—	—	—	—	0
+149=	Speak 1		Swing 5	—	—	—	73	—	73	73.00	1
+149=	Speak 2		Swing 5	—	—	—	—	—	—	—	0
+149=	Mohamed Sajjad Reyaz	Novice	CamelBuddies	—	76	79	78	76	309	77.25	4
+149=	Balakrishnan Mahaamitiraan*	Novice	Proof Positive	75	71	75	—	—	221	73.67	3
+149=	Trevor Tan Guan Rui*	Novice	Proof Positive	74	70	74	—	—	218	72.67	3
+149=	Happy Ng		We Need BoyfriendS	74	80	76	76	—	306	76.50	4
+149=	Chantal Cheung		We Need BoyfriendS	73	80	76	76	—	305	76.25	4
+149=	Sifar Jirgale*	Novice	Civitas Collective	—	—	—	—	—	—	—	0
+149=	Mihit Mundada*	Novice	Civitas Collective	—	—	—	—	—	—	—	0
+149=	Fawaz Ahmed Khan		Parliamentary Pride	72	—	—	—	—	72	72.00	1
+149=	Faraz Ahmed Khan*		Parliamentary Pride	—	—	—	—	—	—	—	0
+149=	Than Huyen Thu-Margaret	Schools	H&amp;M	75	74	73	69	—	291	72.75	4
+149=	Dinh Hoang Bao Chau	Schools	H&amp;M	75	73	73	69	—	290	72.50	4
+149=	Nitiksha Tyagi		Elite by Extension	75	—	78	75	75	303	75.75	4
+149=	Dania Magsi	Novice	Smells like potential	—	78	78	75	77	308	77.00	4
+149=	Krishiv Jetly Amirthalingam		Tum Hi Ho	77	74	75	—	77	303	75.75	4
+149=	Mohammed Yaahsar		Tum Hi Ho	73	75	75	—	—	223	74.33	3
+149=	Devanshi Singh	Novice	Joestars	76	75	74	72	—	297	74.25	4
+149=	Kalpana Pandey	Novice	Joestars	75	75	75	72	—	297	74.25	4
+149=	Shristi Shandilya	Novice	Cherry Blossoms	—	75	75	75	73	298	74.50	4
+149=	Anjali Mishra	Novice	Cherry Blossoms	74	75	74	76	—	299	74.75	4
+149=	Aarush Rajoura	Novice	BorderlineADHD 👽	73	71	73	—	—	217	72.33	3
+149=	Chiranjeev Gupta	Novice	BorderlineADHD 👽	73	71	73	—	—	217	72.33	3
+149=	Farhaan Siddiqui	Novice	I think we need a break.	75	64	81	—	75	295	73.75	4
+149=	Vansh Gupta	Novice	Career adjes	74	77	75	74	—	300	75.00	4
+149=	Aryashree Nag	Novice	In So Far as	71	74	—	—	76	221	73.67	3
+149=	Arpith David Ratnaraj	Novice	David and Goliath	75	76	77	77	—	305	76.25	4
+
+
+team	result	side	ballot	adjudicators
+Ek dhakkan vodka?	3rd	Opening Opposition	View Ballot	Raymond ChumaⒸ , Charuvi PandeyⓉ , Mansi HarsanaⓉ
+SXC Maths honours Minority Represen	4th	Opening Government	View Ballot	Raymond ChumaⒸ , Charuvi PandeyⓉ , Mansi HarsanaⓉ
+swing in RSS HQ	1st	Closing Opposition	View Ballot	Raymond ChumaⒸ , Charuvi PandeyⓉ , Mansi HarsanaⓉ
+Asghar in the Kohli&#x27;s Shadow	2nd	Closing Government	View Ballot	Raymond ChumaⒸ , Charuvi PandeyⓉ , Mansi HarsanaⓉ
+Jazba	4th	Closing Opposition	View Ballot	Imran IlmamⒸ , Aditya Tyagi , Pragyansh NayakⓉ
+mausambi ka juice	1st	Opening Government	View Ballot	Imran IlmamⒸ , Aditya Tyagi , Pragyansh NayakⓉ
+Mermaid Man and Barnacle Boy	2nd	Closing Government	View Ballot	Imran IlmamⒸ , Aditya Tyagi , Pragyansh NayakⓉ
+BorderlineADHD 👽	3rd	Opening Opposition	View Ballot	Imran IlmamⒸ , Aditya Tyagi , Pragyansh NayakⓉ
+Banana And Coconut	2nd	Opening Opposition	View Ballot	Romana RuqiaⒸ , Sudiksha Aggarwal , Jean Wilson BuluranⓉ
+We are bored so that&#x27;s why	1st	Closing Government	View Ballot	Romana RuqiaⒸ , Sudiksha Aggarwal , Jean Wilson BuluranⓉ
+O Billo Rani	4th	Closing Opposition	View Ballot	Romana RuqiaⒸ , Sudiksha Aggarwal , Jean Wilson BuluranⓉ
+Chinchwad cha kaamgar warg	3rd	Opening Government	View Ballot	Romana RuqiaⒸ , Sudiksha Aggarwal , Jean Wilson BuluranⓉ
+mango mango	3rd	Closing Opposition	View Ballot	Martin AvorgahⒸ , Keshav jainⓉ
+Victorians	4th	Opening Government	View Ballot	Martin AvorgahⒸ , Keshav jainⓉ
+Ryan and Mikulic	1st	Opening Opposition	View Ballot	Martin AvorgahⒸ , Keshav jainⓉ
+choli ke neeche beyoncè hai	2nd	Closing Government	View Ballot	Martin AvorgahⒸ , Keshav jainⓉ
+Verbal Abusers	2nd	Closing Opposition	View Ballot	Yrein Aquino CanzonⒸ , Sourav GhoshⓉ , Swastik PandeyⓉ
+Yeh Rishta Break Kehlata Hai	4th	Closing Government	View Ballot	Yrein Aquino CanzonⒸ , Sourav GhoshⓉ , Swastik PandeyⓉ
+str8 tumblr gyalz	1st	Opening Government	View Ballot	Yrein Aquino CanzonⒸ , Sourav GhoshⓉ , Swastik PandeyⓉ
+Gullu	3rd	Opening Opposition	View Ballot	Yrein Aquino CanzonⒸ , Sourav GhoshⓉ , Swastik PandeyⓉ
+the cockblockers	3rd	Closing Opposition	View Ballot	Shivani MishraⒸ , Aaryan chaudharyⓉ
+WordSmith squad	4th	Opening Government	View Ballot	Shivani MishraⒸ , Aaryan chaudharyⓉ
+Samartime sadness	2nd	Opening Opposition	View Ballot	Shivani MishraⒸ , Aaryan chaudharyⓉ
+Lester and Moe	1st	Closing Government	View Ballot	Shivani MishraⒸ , Aaryan chaudharyⓉ
+Presidencies	3rd	Opening Opposition	View Ballot	Manasija DasⒸ , Aadit Baxi , Animesh ChaturvediⓉ
+Virgin Boys	1st	Opening Government	View Ballot	Manasija DasⒸ , Aadit Baxi , Animesh ChaturvediⓉ
+Team Johor	4th	Closing Government	View Ballot	Manasija DasⒸ , Aadit Baxi , Animesh ChaturvediⓉ
+Not a sin to Mass Debate	2nd	Closing Opposition	View Ballot	Manasija DasⒸ , Aadit Baxi , Animesh ChaturvediⓉ
+Ek bihari Ek marathi	2nd	Closing Opposition	View Ballot	Mohanish TatiyaⒸ , Saniya AhmedⓉ
+Cabinet Cracks	3rd	Opening Opposition	View Ballot	Mohanish TatiyaⒸ , Saniya AhmedⓉ
+We Lost A Chipmunk	4th	Closing Government	View Ballot	Mohanish TatiyaⒸ , Saniya AhmedⓉ
+Eagle Chacha	1st	Opening Government	View Ballot	Mohanish TatiyaⒸ , Saniya AhmedⓉ
+Clash me Harder	1st	Closing Government	View Ballot	UphieⒸ , Aoishi , Shreya ChenjiⓉ
+CamelBuddies	4th	Closing Opposition	View Ballot	UphieⒸ , Aoishi , Shreya ChenjiⓉ
+Tum Hi Ho	3rd	Opening Government	View Ballot	UphieⒸ , Aoishi , Shreya ChenjiⓉ
+Tharak ke Saudagar	2nd	Opening Opposition	View Ballot	UphieⒸ , Aoishi , Shreya ChenjiⓉ
+Kalah Finals Hahaha	1st	Opening Government	View Ballot	M.NavakanthⒸ , Vansh Chadha
+greenback boogie	2nd	Closing Opposition	View Ballot	M.NavakanthⒸ , Vansh Chadha
+We Need BoyfriendS	3rd	Closing Government	View Ballot	M.NavakanthⒸ , Vansh Chadha
+Basim &amp; Shariq	4th	Opening Opposition	View Ballot	M.NavakanthⒸ , Vansh Chadha
+Team KR	4th	Opening Government	View Ballot	Mishaal SaidⒸ , Aditya SanwalⓉ , Devi MenonⓉ
+IITB Mehta &amp; Raghav Raj	2nd	Opening Opposition	View Ballot	Mishaal SaidⒸ , Aditya SanwalⓉ , Devi MenonⓉ
+Choke me tabby	3rd	Closing Government	View Ballot	Mishaal SaidⒸ , Aditya SanwalⓉ , Devi MenonⓉ
+No scam just truth	1st	Closing Opposition	View Ballot	Mishaal SaidⒸ , Aditya SanwalⓉ , Devi MenonⓉ
+hope the wifi is strong enough	4th	Closing Government	View Ballot	YuvrajⒸ , Snigdha Priyadarshini
+Break before breakup	1st	Opening Opposition	View Ballot	YuvrajⒸ , Snigdha Priyadarshini
+Ayyappa Swami x Kannannur Amma gang	3rd	Closing Opposition	View Ballot	YuvrajⒸ , Snigdha Priyadarshini
+Yung, dumb and broke(for aodc)	2nd	Opening Government	View Ballot	YuvrajⒸ , Snigdha Priyadarshini
+Boltzmann would be proud	3rd	Closing Opposition	View Ballot	Aryan KhokherⒸ , Kaushiki Ishwar
+Prep kaha hai?	2nd	Opening Opposition	View Ballot	Aryan KhokherⒸ , Kaushiki Ishwar
+H&amp;M	4th	Closing Government	View Ballot	Aryan KhokherⒸ , Kaushiki Ishwar
+Smells like potential	1st	Opening Government	View Ballot	Aryan KhokherⒸ , Kaushiki Ishwar
+paras ki duniya	1st	Opening Opposition	View Ballot	Aditya JhaⒸ , Shambhavi SinghⓉ
+Yolo	4th	Opening Government	View Ballot	Aditya JhaⒸ , Shambhavi SinghⓉ
+meow meows are debating	3rd	Closing Government	View Ballot	Aditya JhaⒸ , Shambhavi SinghⓉ
+David and Goliath	2nd	Closing Opposition	View Ballot	Aditya JhaⒸ , Shambhavi SinghⓉ
+Argumentative Avengers	3rd	Opening Opposition	View Ballot	Ayushi NasaⒸ , Aahi Guha ThakurtaⓉ
+Cherry Blossoms	2nd	Closing Opposition	View Ballot	Ayushi NasaⒸ , Aahi Guha ThakurtaⓉ
+I think we need a break.	1st	Opening Government	View Ballot	Ayushi NasaⒸ , Aahi Guha ThakurtaⓉ
+In So Far as	4th	Closing Government	View Ballot	Ayushi NasaⒸ , Aahi Guha ThakurtaⓉ
+DS Legends Gon&#x27; Legend	4th	Closing Government	View Ballot	Josef SingsonⒸ , Leah Joy G. RiveraⓉ
+St. Louis	2nd	Closing Opposition	View Ballot	Josef SingsonⒸ , Leah Joy G. RiveraⓉ
+Teddy West-Side &amp; Swarley	1st	Opening Government	View Ballot	Josef SingsonⒸ , Leah Joy G. RiveraⓉ
+Elite by Extension	3rd	Opening Opposition	View Ballot	Josef SingsonⒸ , Leah Joy G. RiveraⓉ
+Speech Spartans	3rd	Opening Government	View Ballot	Ansuman PattanayakⒸ , Shishir JhaⓉ
+Pinnaclites	4th	Closing Government	View Ballot	Ansuman PattanayakⒸ , Shishir JhaⓉ
+ILS OA	1st	Closing Opposition	View Ballot	Ansuman PattanayakⒸ , Shishir JhaⓉ
+Rina &amp; Yuki	2nd	Opening Opposition	View Ballot	Ansuman PattanayakⒸ , Shishir JhaⓉ
+Hogwarts A	2nd	Opening Government	View Ballot	Tavish JoshiⒸ , Atulya SaurabhⓉ
+DSBC 2.0	4th	Opening Opposition	View Ballot	Tavish JoshiⒸ , Atulya SaurabhⓉ
+dwarka mor femcel incel association	1st	Closing Opposition	View Ballot	Tavish JoshiⒸ , Atulya SaurabhⓉ
+Nigerian prince with echo echo	3rd	Closing Government	View Ballot	Tavish JoshiⒸ , Atulya SaurabhⓉ
+Jabardast Jetha	2nd	Opening Opposition	View Ballot	Raihan RahmanⒸ , Salic SaudⓉ
+Brampton ke Munde	4th	Closing Government	View Ballot	Raihan RahmanⒸ , Salic SaudⓉ
+rayray and jayjay	1st	Closing Opposition	View Ballot	Raihan RahmanⒸ , Salic SaudⓉ
+Proof Positive	3rd	Opening Government	View Ballot	Raihan RahmanⒸ , Salic SaudⓉ
+(2/3) Powerpuff girls	3rd	Closing Government	View Ballot	Pratyush Kumar ShekharⒸ , Amol Krishn PatelⓉ
+Harness your hopes b-side	2nd	Closing Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Amol Krishn PatelⓉ
+Bhaavarth finals case	1st	Opening Government	View Ballot	Pratyush Kumar ShekharⒸ , Amol Krishn PatelⓉ
+Parliamentary Pride	4th	Opening Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Amol Krishn PatelⓉ
+Caffeinators	4th	Closing Government	View Ballot	parthaⒸ , Aniket Patra
+rajma chawal	2nd	Opening Government	View Ballot	parthaⒸ , Aniket Patra
+Batman and Rohit	3rd	Opening Opposition	View Ballot	parthaⒸ , Aniket Patra
+Leave the gun, take the POI	1st	Closing Opposition	View Ballot	parthaⒸ , Aniket Patra
+Bhajans By Kung Fu Kenny	3rd	Closing Government	View Ballot	Pratyaksha VijayⒸ , Shreyas SankaranⓉ
+JOOJOO &amp; JAJA	1st	Opening Government	View Ballot	Pratyaksha VijayⒸ , Shreyas SankaranⓉ
+Our Code	2nd	Closing Opposition	View Ballot	Pratyaksha VijayⒸ , Shreyas SankaranⓉ
+chandaal chudail ka chaalbaaz chaak	4th	Opening Opposition	View Ballot	Pratyaksha VijayⒸ , Shreyas SankaranⓉ
+DLSU MLK and MCL	1st	Closing Opposition	View Ballot	maheshⒸ , Raj Singh , Sanika PrasadⓉ
+Alphabets	4th	Opening Government	View Ballot	maheshⒸ , Raj Singh , Sanika PrasadⓉ
+Let Go by Pain &amp; Co.	2nd	Closing Government	View Ballot	maheshⒸ , Raj Singh , Sanika PrasadⓉ
+Megatron Transform!! Erngk Erngk Er	3rd	Opening Opposition	View Ballot	maheshⒸ , Raj Singh , Sanika PrasadⓉ
+The Cult of Deb-Kunaal	2nd	Closing Government	View Ballot	SALEEM SALISUⒸ , Shashank RenwaⓉ
+uiet x stephen&#x27;s	1st	Opening Government	View Ballot	SALEEM SALISUⒸ , Shashank RenwaⓉ
+Joestars	3rd	Closing Opposition	View Ballot	SALEEM SALISUⒸ , Shashank RenwaⓉ
+Career adjes	4th	Opening Opposition	View Ballot	SALEEM SALISUⒸ , Shashank RenwaⓉ
+Gonna win this time?	2nd	Opening Opposition	View Ballot	Desmond DorvloⒸ , Shaurya JakharⓉ
+Banter Brigade	3rd	Closing Government	View Ballot	Desmond DorvloⒸ , Shaurya JakharⓉ
+Cool debators	4th	Closing Opposition	View Ballot	Desmond DorvloⒸ , Shaurya JakharⓉ
+Happy Deb-aali !	1st	Opening Government	View Ballot	Desmond DorvloⒸ , Shaurya JakharⓉ
+
+
+team	result	side	ballot	adjudicators
+Prep kaha hai?	4th	Opening Government	View Ballot	Romana RuqiaⒸ , Aditya Tyagi , Snigdha Priyadarshini
+St. Louis	2nd	Opening Opposition	View Ballot	Romana RuqiaⒸ , Aditya Tyagi , Snigdha Priyadarshini
+Verbal Abusers	1st	Closing Government	View Ballot	Romana RuqiaⒸ , Aditya Tyagi , Snigdha Priyadarshini
+Elite by Extension	3rd	Closing Opposition	View Ballot	Romana RuqiaⒸ , Aditya Tyagi , Snigdha Priyadarshini
+Brampton ke Munde	2nd	Closing Opposition	View Ballot	Shivani MishraⒸ , Saniya AhmedⓉ
+O Billo Rani	4th	Closing Government	View Ballot	Shivani MishraⒸ , Saniya AhmedⓉ
+Yeh Rishta Break Kehlata Hai	3rd	Opening Government	View Ballot	Shivani MishraⒸ , Saniya AhmedⓉ
+CamelBuddies	1st	Opening Opposition	View Ballot	Shivani MishraⒸ , Saniya AhmedⓉ
+swing in RSS HQ	3rd	Opening Government	View Ballot	Imran IlmamⒸ , Aditya SanwalⓉ
+str8 tumblr gyalz	2nd	Closing Opposition	View Ballot	Imran IlmamⒸ , Aditya SanwalⓉ
+Smells like potential	1st	Opening Opposition	View Ballot	Imran IlmamⒸ , Aditya SanwalⓉ
+Eagle Chacha	4th	Closing Government	View Ballot	Imran IlmamⒸ , Aditya SanwalⓉ
+We are bored so that&#x27;s why	4th	Opening Opposition	View Ballot	UphieⒸ , Sourav GhoshⓉ
+Leave the gun, take the POI	3rd	Opening Government	View Ballot	UphieⒸ , Sourav GhoshⓉ
+Bhaavarth finals case	1st	Closing Government	View Ballot	UphieⒸ , Sourav GhoshⓉ
+choli ke neeche beyoncè hai	2nd	Closing Opposition	View Ballot	UphieⒸ , Sourav GhoshⓉ
+Gonna win this time?	1st	Closing Opposition	View Ballot	SALEEM SALISUⒸ , Mansi HarsanaⓉ
+Banana And Coconut	2nd	Closing Government	View Ballot	SALEEM SALISUⒸ , Mansi HarsanaⓉ
+Ek bihari Ek marathi	4th	Opening Government	View Ballot	SALEEM SALISUⒸ , Mansi HarsanaⓉ
+Cherry Blossoms	3rd	Opening Opposition	View Ballot	SALEEM SALISUⒸ , Mansi HarsanaⓉ
+Victorians	4th	Closing Opposition	View Ballot	Mohanish TatiyaⒸ , Shambhavi SinghⓉ
+Alphabets	3rd	Opening Opposition	View Ballot	Mohanish TatiyaⒸ , Shambhavi SinghⓉ
+WordSmith squad	2nd	Closing Government	View Ballot	Mohanish TatiyaⒸ , Shambhavi SinghⓉ
+Cool debators	1st	Opening Government	View Ballot	Mohanish TatiyaⒸ , Shambhavi SinghⓉ
+paras ki duniya	2nd	Closing Opposition	View Ballot	maheshⒸ , Salic SaudⓉ
+Virgin Boys	4th	Opening Opposition	View Ballot	maheshⒸ , Salic SaudⓉ
+JOOJOO &amp; JAJA	1st	Closing Government	View Ballot	maheshⒸ , Salic SaudⓉ
+Clash me Harder	3rd	Opening Government	View Ballot	maheshⒸ , Salic SaudⓉ
+Kalah Finals Hahaha	1st	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ , Debadrita dindaⓉ , Leah Joy G. RiveraⓉ
+rayray and jayjay	2nd	Opening Government	View Ballot	Angad Singh ChawlaⒸ , Debadrita dindaⓉ , Leah Joy G. RiveraⓉ
+Yung, dumb and broke(for aodc)	3rd	Closing Government	View Ballot	Angad Singh ChawlaⒸ , Debadrita dindaⓉ , Leah Joy G. RiveraⓉ
+I think we need a break.	4th	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ , Debadrita dindaⓉ , Leah Joy G. RiveraⓉ
+Jabardast Jetha	4th	Closing Opposition	View Ballot	M.NavakanthⒸ , Aniket Patra , Aoishi
+Our Code	3rd	Opening Government	View Ballot	M.NavakanthⒸ , Aniket Patra , Aoishi
+greenback boogie	1st	Opening Opposition	View Ballot	M.NavakanthⒸ , Aniket Patra , Aoishi
+David and Goliath	2nd	Closing Government	View Ballot	M.NavakanthⒸ , Aniket Patra , Aoishi
+(2/3) Powerpuff girls	2nd	Opening Opposition	View Ballot	Ansuman PattanayakⒸ , Keshav jainⓉ
+Boltzmann would be proud	3rd	Closing Government	View Ballot	Ansuman PattanayakⒸ , Keshav jainⓉ
+Batman and Rohit	1st	Opening Government	View Ballot	Ansuman PattanayakⒸ , Keshav jainⓉ
+BorderlineADHD 👽	4th	Closing Opposition	View Ballot	Ansuman PattanayakⒸ , Keshav jainⓉ
+rajma chawal	4th	Closing Government	View Ballot	Desmond DorvloⒸ , Shashank RenwaⓉ
+The Cult of Deb-Kunaal	2nd	Opening Opposition	View Ballot	Desmond DorvloⒸ , Shashank RenwaⓉ
+We Need BoyfriendS	1st	Closing Opposition	View Ballot	Desmond DorvloⒸ , Shashank RenwaⓉ
+Not a sin to Mass Debate	3rd	Opening Government	View Ballot	Desmond DorvloⒸ , Shashank RenwaⓉ
+Ek dhakkan vodka?	1st	Closing Opposition	View Ballot	Raihan RahmanⒸ , Amol Krishn PatelⓉ
+Ayyappa Swami x Kannannur Amma gang	4th	Opening Government	View Ballot	Raihan RahmanⒸ , Amol Krishn PatelⓉ
+Chinchwad cha kaamgar warg	2nd	Closing Government	View Ballot	Raihan RahmanⒸ , Amol Krishn PatelⓉ
+Joestars	3rd	Opening Opposition	View Ballot	Raihan RahmanⒸ , Amol Krishn PatelⓉ
+mango mango	4th	Closing Government	View Ballot	Yrein Aquino CanzonⒸ , Charuvi PandeyⓉ
+Argumentative Avengers	3rd	Closing Opposition	View Ballot	Yrein Aquino CanzonⒸ , Charuvi PandeyⓉ
+Choke me tabby	2nd	Opening Government	View Ballot	Yrein Aquino CanzonⒸ , Charuvi PandeyⓉ
+Nigerian prince with echo echo	1st	Opening Opposition	View Ballot	Yrein Aquino CanzonⒸ , Charuvi PandeyⓉ
+DS Legends Gon&#x27; Legend	1st	Opening Government	View Ballot	Tavish JoshiⒸ , Animesh ChaturvediⓉ
+hope the wifi is strong enough	2nd	Closing Opposition	View Ballot	Tavish JoshiⒸ , Animesh ChaturvediⓉ
+SXC Maths honours Minority Represen	3rd	Closing Government	View Ballot	Tavish JoshiⒸ , Animesh ChaturvediⓉ
+In So Far as	4th	Opening Opposition	View Ballot	Tavish JoshiⒸ , Animesh ChaturvediⓉ
+Hogwarts A	2nd	Opening Opposition	View Ballot	Aryan KhokherⒸ , Raj Singh , Vansh Chadha
+Let Go by Pain &amp; Co.	1st	Opening Government	View Ballot	Aryan KhokherⒸ , Raj Singh , Vansh Chadha
+Samartime sadness	4th	Closing Government	View Ballot	Aryan KhokherⒸ , Raj Singh , Vansh Chadha
+Tharak ke Saudagar	3rd	Closing Opposition	View Ballot	Aryan KhokherⒸ , Raj Singh , Vansh Chadha
+Harness your hopes b-side	1st	Closing Government	View Ballot	parthaⒸ , Aadit Baxi , Kaushiki Ishwar
+Mermaid Man and Barnacle Boy	4th	Opening Opposition	View Ballot	parthaⒸ , Aadit Baxi , Kaushiki Ishwar
+Rina &amp; Yuki	3rd	Opening Government	View Ballot	parthaⒸ , Aadit Baxi , Kaushiki Ishwar
+Asghar in the Kohli&#x27;s Shadow	2nd	Closing Opposition	View Ballot	parthaⒸ , Aadit Baxi , Kaushiki Ishwar
+Banter Brigade	4th	Opening Government	View Ballot	Pratyush Kumar ShekharⒸ , Swastik PandeyⓉ
+Bhajans By Kung Fu Kenny	2nd	Opening Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Swastik PandeyⓉ
+Gullu	1st	Closing Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Swastik PandeyⓉ
+Career adjes	3rd	Closing Government	View Ballot	Pratyush Kumar ShekharⒸ , Swastik PandeyⓉ
+chandaal chudail ka chaalbaaz chaak	2nd	Opening Government	View Ballot	YuvrajⒸ , Shishir JhaⓉ
+We Lost A Chipmunk	1st	Opening Opposition	View Ballot	YuvrajⒸ , Shishir JhaⓉ
+Blazing Debaters	4th	Closing Government	View Ballot	YuvrajⒸ , Shishir JhaⓉ
+Swing 1	3rd	Closing Opposition	View Ballot	YuvrajⒸ , Shishir JhaⓉ
+DLSU MLK and MCL	4th	Opening Government	View Ballot	Raymond ChumaⒸ , Minh Nhat Nguyen LeⓉ
+dwarka mor femcel incel association	3rd	Opening Opposition	View Ballot	Raymond ChumaⒸ , Minh Nhat Nguyen LeⓉ
+Ryan and Mikulic	1st	Closing Opposition	View Ballot	Raymond ChumaⒸ , Minh Nhat Nguyen LeⓉ
+uiet x stephen&#x27;s	2nd	Closing Government	View Ballot	Raymond ChumaⒸ , Minh Nhat Nguyen LeⓉ
+mausambi ka juice	2nd	Closing Government	View Ballot	Mishaal SaidⒸ , Aaryan chaudharyⓉ
+ILS OA	1st	Opening Opposition	View Ballot	Mishaal SaidⒸ , Aaryan chaudharyⓉ
+Break before breakup	3rd	Opening Government	View Ballot	Mishaal SaidⒸ , Aaryan chaudharyⓉ
+Happy Deb-aali !	4th	Closing Opposition	View Ballot	Mishaal SaidⒸ , Aaryan chaudharyⓉ
+IITB Mehta &amp; Raghav Raj	3rd	Opening Government	View Ballot	Manasija DasⒸ , Aahi Guha ThakurtaⓉ , Shreya ChenjiⓉ
+Teddy West-Side &amp; Swarley	2nd	Closing Government	View Ballot	Manasija DasⒸ , Aahi Guha ThakurtaⓉ , Shreya ChenjiⓉ
+No scam just truth	1st	Opening Opposition	View Ballot	Manasija DasⒸ , Aahi Guha ThakurtaⓉ , Shreya ChenjiⓉ
+Lester and Moe	4th	Closing Opposition	View Ballot	Manasija DasⒸ , Aahi Guha ThakurtaⓉ , Shreya ChenjiⓉ
+Megatron Transform!! Erngk Erngk Er	2nd	Opening Government	View Ballot	Ayushi NasaⒸ , Shreyas SankaranⓉ
+Proof Positive	4th	Closing Government	View Ballot	Ayushi NasaⒸ , Shreyas SankaranⓉ
+meow meows are debating	3rd	Closing Opposition	View Ballot	Ayushi NasaⒸ , Shreyas SankaranⓉ
+Tum Hi Ho	1st	Opening Opposition	View Ballot	Ayushi NasaⒸ , Shreyas SankaranⓉ
+the cockblockers	1st	Opening Opposition	View Ballot	Martin AvorgahⒸ , Atulya SaurabhⓉ
+Speech Spartans	4th	Closing Government	View Ballot	Martin AvorgahⒸ , Atulya SaurabhⓉ
+Presidencies	3rd	Opening Government	View Ballot	Martin AvorgahⒸ , Atulya SaurabhⓉ
+Cabinet Cracks	2nd	Closing Opposition	View Ballot	Martin AvorgahⒸ , Atulya SaurabhⓉ
+DSBC 2.0	1st	Closing Opposition	View Ballot	Pratyaksha VijayⒸ
+Jazba	4th	Opening Opposition	View Ballot	Pratyaksha VijayⒸ
+Team Johor	2nd	Opening Government	View Ballot	Pratyaksha VijayⒸ
+Yolo	3rd	Closing Government	View Ballot	Pratyaksha VijayⒸ
+Caffeinators	3rd	Opening Government	View Ballot	Josef SingsonⒸ , Sanika PrasadⓉ
+Team KR	2nd	Closing Government	View Ballot	Josef SingsonⒸ , Sanika PrasadⓉ
+H&amp;M	4th	Opening Opposition	View Ballot	Josef SingsonⒸ , Sanika PrasadⓉ
+Basim &amp; Shariq	1st	Closing Opposition	View Ballot	Josef SingsonⒸ , Sanika PrasadⓉ
+
+
+team	result	side	ballot	adjudicators
+Cabinet Cracks	3rd	Opening Government	View Ballot	Raymond ChumaⒸ , Shambhavi SinghⓉ
+Cool debators	4th	Closing Government	View Ballot	Raymond ChumaⒸ , Shambhavi SinghⓉ
+Yung, dumb and broke(for aodc)	2nd	Closing Opposition	View Ballot	Raymond ChumaⒸ , Shambhavi SinghⓉ
+Eagle Chacha	1st	Opening Opposition	View Ballot	Raymond ChumaⒸ , Shambhavi SinghⓉ
+The Cult of Deb-Kunaal	3rd	Closing Opposition	View Ballot	Kaushiki IshwarⒸ , Mohanish Tatiya
+Tum Hi Ho	4th	Closing Government	View Ballot	Kaushiki IshwarⒸ , Mohanish Tatiya
+Asghar in the Kohli&#x27;s Shadow	1st	Opening Opposition	View Ballot	Kaushiki IshwarⒸ , Mohanish Tatiya
+David and Goliath	2nd	Opening Government	View Ballot	Kaushiki IshwarⒸ , Mohanish Tatiya
+Ryan and Mikulic	1st	Opening Government	View Ballot	UphieⒸ , Aadit Baxi , Aditi raiⓉ
+str8 tumblr gyalz	3rd	Closing Government	View Ballot	UphieⒸ , Aadit Baxi , Aditi raiⓉ
+Bhaavarth finals case	2nd	Opening Opposition	View Ballot	UphieⒸ , Aadit Baxi , Aditi raiⓉ
+Smells like potential	4th	Closing Opposition	View Ballot	UphieⒸ , Aadit Baxi , Aditi raiⓉ
+Hogwarts A	3rd	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ , Aditya Tyagi
+Batman and Rohit	4th	Closing Government	View Ballot	Angad Singh ChawlaⒸ , Aditya Tyagi
+St. Louis	1st	Opening Government	View Ballot	Angad Singh ChawlaⒸ , Aditya Tyagi
+Clash me Harder	2nd	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ , Aditya Tyagi
+the cockblockers	2nd	Closing Government	View Ballot	Ansuman PattanayakⒸ , Romana Ruqia , Vansh Chadha
+Harness your hopes b-side	1st	Opening Government	View Ballot	Ansuman PattanayakⒸ , Romana Ruqia , Vansh Chadha
+mausambi ka juice	4th	Closing Opposition	View Ballot	Ansuman PattanayakⒸ , Romana Ruqia , Vansh Chadha
+rayray and jayjay	3rd	Opening Opposition	View Ballot	Ansuman PattanayakⒸ , Romana Ruqia , Vansh Chadha
+Gonna win this time?	4th	Closing Government	View Ballot	Raihan RahmanⒸ , Raj Singh , Snigdha Priyadarshini
+Let Go by Pain &amp; Co.	1st	Closing Opposition	View Ballot	Raihan RahmanⒸ , Raj Singh , Snigdha Priyadarshini
+greenback boogie	3rd	Opening Government	View Ballot	Raihan RahmanⒸ , Raj Singh , Snigdha Priyadarshini
+uiet x stephen&#x27;s	2nd	Opening Opposition	View Ballot	Raihan RahmanⒸ , Raj Singh , Snigdha Priyadarshini
+dwarka mor femcel incel association	2nd	Opening Government	View Ballot	Manasija DasⒸ , Devi MenonⓉ , Leah Joy G. RiveraⓉ
+Ek dhakkan vodka?	1st	Closing Government	View Ballot	Manasija DasⒸ , Devi MenonⓉ , Leah Joy G. RiveraⓉ
+Break before breakup	4th	Closing Opposition	View Ballot	Manasija DasⒸ , Devi MenonⓉ , Leah Joy G. RiveraⓉ
+We Need BoyfriendS	3rd	Opening Opposition	View Ballot	Manasija DasⒸ , Devi MenonⓉ , Leah Joy G. RiveraⓉ
+rajma chawal	3rd	Closing Opposition	View Ballot	Shivani MishraⒸ , Mansi HarsanaⓉ
+Prep kaha hai?	4th	Closing Government	View Ballot	Shivani MishraⒸ , Mansi HarsanaⓉ
+Swing 1	2nd	Opening Opposition	View Ballot	Shivani MishraⒸ , Mansi HarsanaⓉ
+Elite by Extension	1st	Opening Government	View Ballot	Shivani MishraⒸ , Mansi HarsanaⓉ
+JOOJOO &amp; JAJA	4th	Opening Opposition	View Ballot	Imran IlmamⒸ , Aaryan chaudharyⓉ , Debadrita dindaⓉ
+ILS OA	2nd	Closing Government	View Ballot	Imran IlmamⒸ , Aaryan chaudharyⓉ , Debadrita dindaⓉ
+Teddy West-Side &amp; Swarley	3rd	Closing Opposition	View Ballot	Imran IlmamⒸ , Aaryan chaudharyⓉ , Debadrita dindaⓉ
+No scam just truth	1st	Opening Government	View Ballot	Imran IlmamⒸ , Aaryan chaudharyⓉ , Debadrita dindaⓉ
+Banana And Coconut	4th	Closing Opposition	View Ballot	Ayushi NasaⒸ , Aniket Patra
+Leave the gun, take the POI	3rd	Closing Government	View Ballot	Ayushi NasaⒸ , Aniket Patra
+Gullu	2nd	Opening Government	View Ballot	Ayushi NasaⒸ , Aniket Patra
+choli ke neeche beyoncè hai	1st	Opening Opposition	View Ballot	Ayushi NasaⒸ , Aniket Patra
+mango mango	1st	Opening Government	View Ballot	Pratyaksha VijayⒸ , Keshav jainⓉ
+Banter Brigade	3rd	Closing Opposition	View Ballot	Pratyaksha VijayⒸ , Keshav jainⓉ
+Jazba	4th	Closing Government	View Ballot	Pratyaksha VijayⒸ , Keshav jainⓉ
+Yeh Rishta Break Kehlata Hai	2nd	Opening Opposition	View Ballot	Pratyaksha VijayⒸ , Keshav jainⓉ
+Our Code	3rd	Closing Government	View Ballot	Desmond DorvloⒸ , Shashank RenwaⓉ
+Choke me tabby	2nd	Opening Opposition	View Ballot	Desmond DorvloⒸ , Shashank RenwaⓉ
+We Lost A Chipmunk	4th	Closing Opposition	View Ballot	Desmond DorvloⒸ , Shashank RenwaⓉ
+CamelBuddies	1st	Opening Government	View Ballot	Desmond DorvloⒸ , Shashank RenwaⓉ
+paras ki duniya	3rd	Opening Government	View Ballot	maheshⒸ , Saniya AhmedⓉ , Shreya ChenjiⓉ
+Verbal Abusers	1st	Opening Opposition	View Ballot	maheshⒸ , Saniya AhmedⓉ , Shreya ChenjiⓉ
+Nigerian prince with echo echo	2nd	Closing Opposition	View Ballot	maheshⒸ , Saniya AhmedⓉ , Shreya ChenjiⓉ
+swing in RSS HQ	4th	Closing Government	View Ballot	maheshⒸ , Saniya AhmedⓉ , Shreya ChenjiⓉ
+Alphabets	2nd	Closing Opposition	View Ballot	M.NavakanthⒸ , Pragyansh NayakⓉ
+Yolo	4th	Opening Opposition	View Ballot	M.NavakanthⒸ , Pragyansh NayakⓉ
+Ayyappa Swami x Kannannur Amma gang	1st	Closing Government	View Ballot	M.NavakanthⒸ , Pragyansh NayakⓉ
+In So Far as	3rd	Opening Government	View Ballot	M.NavakanthⒸ , Pragyansh NayakⓉ
+DS Legends Gon&#x27; Legend	2nd	Opening Opposition	View Ballot	Josef SingsonⒸ , Charuvi PandeyⓉ
+IITB Mehta &amp; Raghav Raj	3rd	Closing Opposition	View Ballot	Josef SingsonⒸ , Charuvi PandeyⓉ
+Basim &amp; Shariq	1st	Opening Government	View Ballot	Josef SingsonⒸ , Charuvi PandeyⓉ
+Tharak ke Saudagar	4th	Closing Government	View Ballot	Josef SingsonⒸ , Charuvi PandeyⓉ
+DLSU MLK and MCL	1st	Opening Opposition	View Ballot	Mishaal SaidⒸ , Animesh ChaturvediⓉ , Swastik PandeyⓉ
+Virgin Boys	3rd	Closing Opposition	View Ballot	Mishaal SaidⒸ , Animesh ChaturvediⓉ , Swastik PandeyⓉ
+Jabardast Jetha	2nd	Opening Government	View Ballot	Mishaal SaidⒸ , Animesh ChaturvediⓉ , Swastik PandeyⓉ
+Cherry Blossoms	4th	Closing Government	View Ballot	Mishaal SaidⒸ , Animesh ChaturvediⓉ , Swastik PandeyⓉ
+Bhajans By Kung Fu Kenny	3rd	Opening Government	View Ballot	Yrein Aquino CanzonⒸ , Atulya SaurabhⓉ , Shishir JhaⓉ
+Samartime sadness	4th	Closing Opposition	View Ballot	Yrein Aquino CanzonⒸ , Atulya SaurabhⓉ , Shishir JhaⓉ
+Lester and Moe	1st	Opening Opposition	View Ballot	Yrein Aquino CanzonⒸ , Atulya SaurabhⓉ , Shishir JhaⓉ
+I think we need a break.	2nd	Closing Government	View Ballot	Yrein Aquino CanzonⒸ , Atulya SaurabhⓉ , Shishir JhaⓉ
+(2/3) Powerpuff girls	3rd	Closing Opposition	View Ballot	Martin AvorgahⒸ , Aahi Guha ThakurtaⓉ , Shreyas SankaranⓉ
+DSBC 2.0	4th	Opening Government	View Ballot	Martin AvorgahⒸ , Aahi Guha ThakurtaⓉ , Shreyas SankaranⓉ
+Rina &amp; Yuki	1st	Closing Government	View Ballot	Martin AvorgahⒸ , Aahi Guha ThakurtaⓉ , Shreyas SankaranⓉ
+Happy Deb-aali !	2nd	Opening Opposition	View Ballot	Martin AvorgahⒸ , Aahi Guha ThakurtaⓉ , Shreyas SankaranⓉ
+hope the wifi is strong enough	1st	Opening Government	View Ballot	Aryan KhokherⒸ , Aryan AwasthiⓉ
+Team Johor	4th	Opening Opposition	View Ballot	Aryan KhokherⒸ , Aryan AwasthiⓉ
+chandaal chudail ka chaalbaaz chaak	2nd	Closing Opposition	View Ballot	Aryan KhokherⒸ , Aryan AwasthiⓉ
+Joestars	3rd	Closing Government	View Ballot	Aryan KhokherⒸ , Aryan AwasthiⓉ
+Victorians	2nd	Opening Opposition	View Ballot	Sourav GhoshⒸ
+O Billo Rani	1st	Opening Government	View Ballot	Sourav GhoshⒸ
+Swing 3	3rd	Closing Government	View Ballot	Sourav GhoshⒸ
+H&amp;M	4th	Closing Opposition	View Ballot	Sourav GhoshⒸ
+Team KR	4th	Closing Opposition	View Ballot	Aditya JhaⒸ , Sanika PrasadⓉ
+Presidencies	3rd	Closing Government	View Ballot	Aditya JhaⒸ , Sanika PrasadⓉ
+Brampton ke Munde	2nd	Opening Opposition	View Ballot	Aditya JhaⒸ , Sanika PrasadⓉ
+meow meows are debating	1st	Opening Government	View Ballot	Aditya JhaⒸ , Sanika PrasadⓉ
+Megatron Transform!! Erngk Erngk Er	3rd	Closing Government	View Ballot	SALEEM SALISUⒸ , Minh Nhat Nguyen LeⓉ
+We are bored so that&#x27;s why	4th	Opening Government	View Ballot	SALEEM SALISUⒸ , Minh Nhat Nguyen LeⓉ
+Chinchwad cha kaamgar warg	2nd	Closing Opposition	View Ballot	SALEEM SALISUⒸ , Minh Nhat Nguyen LeⓉ
+Not a sin to Mass Debate	1st	Opening Opposition	View Ballot	SALEEM SALISUⒸ , Minh Nhat Nguyen LeⓉ
+Speech Spartans	4th	Closing Opposition	View Ballot	parthaⒸ , Amol Krishn PatelⓉ
+Proof Positive	2nd	Opening Opposition	View Ballot	parthaⒸ , Amol Krishn PatelⓉ
+BorderlineADHD 👽	3rd	Closing Government	View Ballot	parthaⒸ , Amol Krishn PatelⓉ
+Career adjes	1st	Opening Government	View Ballot	parthaⒸ , Amol Krishn PatelⓉ
+Argumentative Avengers	4th	Closing Government	View Ballot	Tavish JoshiⒸ , Aditya SanwalⓉ
+Ek bihari Ek marathi	1st	Opening Opposition	View Ballot	Tavish JoshiⒸ , Aditya SanwalⓉ
+Mermaid Man and Barnacle Boy	2nd	Closing Opposition	View Ballot	Tavish JoshiⒸ , Aditya SanwalⓉ
+Swing 2	3rd	Opening Government	View Ballot	Tavish JoshiⒸ , Aditya SanwalⓉ
+
+
+team	result	side	ballot	adjudicators
+Megatron Transform!! Erngk Erngk Er	1st	Closing Opposition	View Ballot	Martin AvorgahⒸ , Shreya Chenji , Shishir JhaⓉ
+Banana And Coconut	3rd	Opening Government	View Ballot	Martin AvorgahⒸ , Shreya Chenji , Shishir JhaⓉ
+Jabardast Jetha	4th	Closing Government	View Ballot	Martin AvorgahⒸ , Shreya Chenji , Shishir JhaⓉ
+Our Code	2nd	Opening Opposition	View Ballot	Martin AvorgahⒸ , Shreya Chenji , Shishir JhaⓉ
+JOOJOO &amp; JAJA	3rd	Closing Opposition	View Ballot	Aditya JhaⒸ , Aadit Baxi , Vansh Chadha
+Teddy West-Side &amp; Swarley	1st	Opening Opposition	View Ballot	Aditya JhaⒸ , Aadit Baxi , Vansh Chadha
+CamelBuddies	2nd	Opening Government	View Ballot	Aditya JhaⒸ , Aadit Baxi , Vansh Chadha
+Smells like potential	4th	Closing Government	View Ballot	Aditya JhaⒸ , Aadit Baxi , Vansh Chadha
+DLSU MLK and MCL	1st	Opening Government	View Ballot	Shivani MishraⒸ , Aniket Patra , Sourav Ghosh
+rayray and jayjay	3rd	Closing Government	View Ballot	Shivani MishraⒸ , Aniket Patra , Sourav Ghosh
+Basim &amp; Shariq	4th	Closing Opposition	View Ballot	Shivani MishraⒸ , Aniket Patra , Sourav Ghosh
+David and Goliath	2nd	Opening Opposition	View Ballot	Shivani MishraⒸ , Aniket Patra , Sourav Ghosh
+Presidencies	4th	Closing Opposition	View Ballot	Desmond DorvloⒸ , Aahi Guha ThakurtaⓉ
+Alphabets	1st	Closing Government	View Ballot	Desmond DorvloⒸ , Aahi Guha ThakurtaⓉ
+Cool debators	2nd	Opening Opposition	View Ballot	Desmond DorvloⒸ , Aahi Guha ThakurtaⓉ
+Cherry Blossoms	3rd	Opening Government	View Ballot	Desmond DorvloⒸ , Aahi Guha ThakurtaⓉ
+Victorians	1st	Closing Government	View Ballot	Aditya SanwalⒸ , Atulya SaurabhⓉ
+Speech Spartans	4th	Opening Government	View Ballot	Aditya SanwalⒸ , Atulya SaurabhⓉ
+Banter Brigade	3rd	Opening Opposition	View Ballot	Aditya SanwalⒸ , Atulya SaurabhⓉ
+In So Far as	2nd	Closing Opposition	View Ballot	Aditya SanwalⒸ , Atulya SaurabhⓉ
+mausambi ka juice	2nd	Closing Opposition	View Ballot	Yrein Aquino CanzonⒸ , Aaryan chaudhary , Pragyansh NayakⓉ
+Chinchwad cha kaamgar warg	1st	Opening Opposition	View Ballot	Yrein Aquino CanzonⒸ , Aaryan chaudhary , Pragyansh NayakⓉ
+meow meows are debating	4th	Opening Government	View Ballot	Yrein Aquino CanzonⒸ , Aaryan chaudhary , Pragyansh NayakⓉ
+Happy Deb-aali !	3rd	Closing Government	View Ballot	Yrein Aquino CanzonⒸ , Aaryan chaudhary , Pragyansh NayakⓉ
+the cockblockers	1st	Opening Government	View Ballot	Pratyaksha VijayⒸ , Kaushiki Ishwar , Leah Joy G. Rivera
+paras ki duniya	3rd	Opening Opposition	View Ballot	Pratyaksha VijayⒸ , Kaushiki Ishwar , Leah Joy G. Rivera
+Clash me Harder	2nd	Closing Opposition	View Ballot	Pratyaksha VijayⒸ , Kaushiki Ishwar , Leah Joy G. Rivera
+Not a sin to Mass Debate	4th	Closing Government	View Ballot	Pratyaksha VijayⒸ , Kaushiki Ishwar , Leah Joy G. Rivera
+greenback boogie	3rd	Closing Government	View Ballot	Imran IlmamⒸ , Shreyas Sankaran
+str8 tumblr gyalz	1st	Opening Opposition	View Ballot	Imran IlmamⒸ , Shreyas Sankaran
+Lester and Moe	4th	Opening Government	View Ballot	Imran IlmamⒸ , Shreyas Sankaran
+Eagle Chacha	2nd	Closing Opposition	View Ballot	Imran IlmamⒸ , Shreyas Sankaran
+Harness your hopes b-side	1st	Opening Opposition	View Ballot	Angad Singh ChawlaⒸ
+ILS OA	2nd	Opening Government	View Ballot	Angad Singh ChawlaⒸ
+Swing 3	3rd	Closing Government	View Ballot	Angad Singh ChawlaⒸ
+No scam just truth	4th	Closing Opposition	View Ballot	Angad Singh ChawlaⒸ
+Jazba	1st	Opening Opposition	View Ballot	Mohanish TatiyaⒸ , Minh Nhat Nguyen LeⓉ
+Yolo	3rd	Closing Opposition	View Ballot	Mohanish TatiyaⒸ , Minh Nhat Nguyen LeⓉ
+Swing 5	2nd	Closing Government	View Ballot	Mohanish TatiyaⒸ , Minh Nhat Nguyen LeⓉ
+H&amp;M	4th	Opening Government	View Ballot	Mohanish TatiyaⒸ , Minh Nhat Nguyen LeⓉ
+dwarka mor femcel incel association	2nd	Closing Government	View Ballot	Aryan KhokherⒸ , Aoishi , Snigdha Priyadarshini
+Nigerian prince with echo echo	4th	Opening Government	View Ballot	Aryan KhokherⒸ , Aoishi , Snigdha Priyadarshini
+Rina &amp; Yuki	3rd	Closing Opposition	View Ballot	Aryan KhokherⒸ , Aoishi , Snigdha Priyadarshini
+Gullu	1st	Opening Opposition	View Ballot	Aryan KhokherⒸ , Aoishi , Snigdha Priyadarshini
+We are bored so that&#x27;s why	3rd	Closing Opposition	View Ballot	YuvrajⒸ , Saniya AhmedⓉ
+O Billo Rani	2nd	Opening Opposition	View Ballot	YuvrajⒸ , Saniya AhmedⓉ
+Swing 1	1st	Closing Government	View Ballot	YuvrajⒸ , Saniya AhmedⓉ
+Joestars	4th	Opening Government	View Ballot	YuvrajⒸ , Saniya AhmedⓉ
+(2/3) Powerpuff girls	4th	Opening Government	View Ballot	Ayushi NasaⒸ , Amol Krishn PatelⓉ
+Yeh Rishta Break Kehlata Hai	3rd	Closing Opposition	View Ballot	Ayushi NasaⒸ , Amol Krishn PatelⓉ
+chandaal chudail ka chaalbaaz chaak	2nd	Closing Government	View Ballot	Ayushi NasaⒸ , Amol Krishn PatelⓉ
+swing in RSS HQ	1st	Opening Opposition	View Ballot	Ayushi NasaⒸ , Amol Krishn PatelⓉ
+Bhajans By Kung Fu Kenny	3rd	Closing Opposition	View Ballot	Mishaal SaidⒸ , Swastik Pandey
+Ek bihari Ek marathi	4th	Closing Government	View Ballot	Mishaal SaidⒸ , Swastik Pandey
+We Need BoyfriendS	2nd	Opening Government	View Ballot	Mishaal SaidⒸ , Swastik Pandey
+Yung, dumb and broke(for aodc)	1st	Opening Opposition	View Ballot	Mishaal SaidⒸ , Swastik Pandey
+The Cult of Deb-Kunaal	3rd	Opening Government	View Ballot	Raihan RahmanⒸ , Devi Menon , Shambhavi SinghⓉ
+Choke me tabby	4th	Closing Opposition	View Ballot	Raihan RahmanⒸ , Devi Menon , Shambhavi SinghⓉ
+Leave the gun, take the POI	1st	Opening Opposition	View Ballot	Raihan RahmanⒸ , Devi Menon , Shambhavi SinghⓉ
+Elite by Extension	2nd	Closing Government	View Ballot	Raihan RahmanⒸ , Devi Menon , Shambhavi SinghⓉ
+Let Go by Pain &amp; Co.	3rd	Opening Opposition	View Ballot	maheshⒸ , partha
+Ek dhakkan vodka?	4th	Closing Government	View Ballot	maheshⒸ , partha
+Verbal Abusers	1st	Opening Government	View Ballot	maheshⒸ , partha
+Bhaavarth finals case	2nd	Closing Opposition	View Ballot	maheshⒸ , partha
+Virgin Boys	4th	Closing Government	View Ballot	Josef SingsonⒸ , Raj Singh
+rajma chawal	2nd	Opening Opposition	View Ballot	Josef SingsonⒸ , Raj Singh
+Batman and Rohit	1st	Closing Opposition	View Ballot	Josef SingsonⒸ , Raj Singh
+Brampton ke Munde	3rd	Opening Government	View Ballot	Josef SingsonⒸ , Raj Singh
+Team KR	3rd	Opening Opposition	View Ballot	Romana RuqiaⒸ , Keshav jainⓉ
+Prep kaha hai?	1st	Closing Opposition	View Ballot	Romana RuqiaⒸ , Keshav jainⓉ
+Argumentative Avengers	2nd	Opening Government	View Ballot	Romana RuqiaⒸ , Keshav jainⓉ
+Swing 2	4th	Closing Government	View Ballot	Romana RuqiaⒸ , Keshav jainⓉ
+Hogwarts A	3rd	Closing Government	View Ballot	Raymond ChumaⒸ , Shashank Renwa
+Gonna win this time?	4th	Opening Government	View Ballot	Raymond ChumaⒸ , Shashank Renwa
+DS Legends Gon&#x27; Legend	2nd	Closing Opposition	View Ballot	Raymond ChumaⒸ , Shashank Renwa
+hope the wifi is strong enough	1st	Opening Opposition	View Ballot	Raymond ChumaⒸ , Shashank Renwa
+DSBC 2.0	4th	Closing Government	View Ballot	SALEEM SALISUⒸ , Aditya Tyagi , Animesh ChaturvediⓉ
+Team Johor	3rd	Closing Opposition	View Ballot	SALEEM SALISUⒸ , Aditya Tyagi , Animesh ChaturvediⓉ
+swing 4	2nd	Opening Opposition	View Ballot	SALEEM SALISUⒸ , Aditya Tyagi , Animesh ChaturvediⓉ
+Tharak ke Saudagar	1st	Opening Government	View Ballot	SALEEM SALISUⒸ , Aditya Tyagi , Animesh ChaturvediⓉ
+mango mango	2nd	Opening Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Salic SaudⓉ
+IITB Mehta &amp; Raghav Raj	1st	Closing Government	View Ballot	Pratyush Kumar ShekharⒸ , Salic SaudⓉ
+We Lost A Chipmunk	3rd	Opening Government	View Ballot	Pratyush Kumar ShekharⒸ , Salic SaudⓉ
+I think we need a break.	4th	Closing Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Salic SaudⓉ
+St. Louis	1st	Closing Government	View Ballot	UphieⒸ , M.Navakanth
+uiet x stephen&#x27;s	4th	Closing Opposition	View Ballot	UphieⒸ , M.Navakanth
+choli ke neeche beyoncè hai	2nd	Opening Opposition	View Ballot	UphieⒸ , M.Navakanth
+Asghar in the Kohli&#x27;s Shadow	3rd	Opening Government	View Ballot	UphieⒸ , M.Navakanth
+Break before breakup	4th	Closing Government	View Ballot	Ansuman PattanayakⒸ
+Mermaid Man and Barnacle Boy	3rd	Opening Government	View Ballot	Ansuman PattanayakⒸ
+Ayyappa Swami x Kannannur Amma gang	1st	Opening Opposition	View Ballot	Ansuman PattanayakⒸ
+Career adjes	2nd	Closing Opposition	View Ballot	Ansuman PattanayakⒸ
+
+
+team	result	side	ballot	adjudicators
+Our Code	3rd	Closing Opposition	View Ballot	Raihan RahmanⒸ , Swastik Pandey , Shreya ChenjiⓉ
+meow meows are debating	2nd	Opening Opposition	View Ballot	Raihan RahmanⒸ , Swastik Pandey , Shreya ChenjiⓉ
+Lester and Moe	1st	Closing Government	View Ballot	Raihan RahmanⒸ , Swastik Pandey , Shreya ChenjiⓉ
+Career adjes	4th	Opening Government	View Ballot	Raihan RahmanⒸ , Swastik Pandey , Shreya ChenjiⓉ
+the cockblockers	2nd	Opening Government	View Ballot	Raymond ChumaⒸ , Minh Nhat Nguyen Le
+str8 tumblr gyalz	3rd	Closing Opposition	View Ballot	Raymond ChumaⒸ , Minh Nhat Nguyen Le
+Bhaavarth finals case	1st	Opening Opposition	View Ballot	Raymond ChumaⒸ , Minh Nhat Nguyen Le
+No scam just truth	4th	Closing Government	View Ballot	Raymond ChumaⒸ , Minh Nhat Nguyen Le
+Hogwarts A	1st	Closing Government	View Ballot	maheshⒸ , SALEEM SALISU
+JOOJOO &amp; JAJA	3rd	Opening Government	View Ballot	maheshⒸ , SALEEM SALISU
+mausambi ka juice	2nd	Opening Opposition	View Ballot	maheshⒸ , SALEEM SALISU
+Ayyappa Swami x Kannannur Amma gang	4th	Closing Opposition	View Ballot	maheshⒸ , SALEEM SALISU
+Bhajans By Kung Fu Kenny	3rd	Closing Opposition	View Ballot	Desmond DorvloⒸ , Sanika PrasadⓉ
+Banana And Coconut	2nd	Opening Government	View Ballot	Desmond DorvloⒸ , Sanika PrasadⓉ
+Brampton ke Munde	1st	Opening Opposition	View Ballot	Desmond DorvloⒸ , Sanika PrasadⓉ
+Mermaid Man and Barnacle Boy	4th	Closing Government	View Ballot	Desmond DorvloⒸ , Sanika PrasadⓉ
+DS Legends Gon&#x27; Legend	2nd	Closing Government	View Ballot	Mishaal SaidⒸ , Devi Menon
+IITB Mehta &amp; Raghav Raj	1st	Opening Government	View Ballot	Mishaal SaidⒸ , Devi Menon
+swing in RSS HQ	4th	Closing Opposition	View Ballot	Mishaal SaidⒸ , Devi Menon
+Elite by Extension	3rd	Opening Opposition	View Ballot	Mishaal SaidⒸ , Devi Menon
+Team KR	4th	Opening Government	View Ballot	AoishiⒸ , Aahi Guha ThakurtaⓉ
+Banter Brigade	3rd	Opening Opposition	View Ballot	AoishiⒸ , Aahi Guha ThakurtaⓉ
+Yolo	1st	Closing Opposition	View Ballot	AoishiⒸ , Aahi Guha ThakurtaⓉ
+In So Far as	2nd	Closing Government	View Ballot	AoishiⒸ , Aahi Guha ThakurtaⓉ
+Megatron Transform!! Erngk Erngk Er	4th	Closing Government	View Ballot	Josef SingsonⒸ , Aadit Baxi , Snigdha Priyadarshini
+Ek dhakkan vodka?	3rd	Opening Government	View Ballot	Josef SingsonⒸ , Aadit Baxi , Snigdha Priyadarshini
+greenback boogie	1st	Opening Opposition	View Ballot	Josef SingsonⒸ , Aadit Baxi , Snigdha Priyadarshini
+uiet x stephen&#x27;s	2nd	Closing Opposition	View Ballot	Josef SingsonⒸ , Aadit Baxi , Snigdha Priyadarshini
+Rina &amp; Yuki	2nd	Opening Government	View Ballot	Pratyush Kumar ShekharⒸ , Kaushiki Ishwar , Sourav Ghosh
+CamelBuddies	4th	Closing Government	View Ballot	Pratyush Kumar ShekharⒸ , Kaushiki Ishwar , Sourav Ghosh
+Yung, dumb and broke(for aodc)	1st	Closing Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Kaushiki Ishwar , Sourav Ghosh
+David and Goliath	3rd	Opening Opposition	View Ballot	Pratyush Kumar ShekharⒸ , Kaushiki Ishwar , Sourav Ghosh
+Gonna win this time?	4th	Closing Government	View Ballot	Shivani MishraⒸ , Shambhavi SinghⓉ
+Victorians	2nd	Closing Opposition	View Ballot	Shivani MishraⒸ , Shambhavi SinghⓉ
+O Billo Rani	1st	Opening Opposition	View Ballot	Shivani MishraⒸ , Shambhavi SinghⓉ
+I think we need a break.	3rd	Opening Government	View Ballot	Shivani MishraⒸ , Shambhavi SinghⓉ
+Cool debators	4th	Closing Opposition	View Ballot	M.NavakanthⒸ , Shishir JhaⓉ
+Kalah Finals Hahaha	1st	Opening Opposition	View Ballot	M.NavakanthⒸ , Shishir JhaⓉ
+Basim &amp; Shariq	2nd	Closing Government	View Ballot	M.NavakanthⒸ , Shishir JhaⓉ
+Not a sin to Mass Debate	3rd	Opening Government	View Ballot	M.NavakanthⒸ , Shishir JhaⓉ
+rajma chawal	1st	Opening Opposition	View Ballot	Leah Joy G. RiveraⒸ , Aaryan chaudharyⓉ
+Ek bihari Ek marathi	2nd	Closing Opposition	View Ballot	Leah Joy G. RiveraⒸ , Aaryan chaudharyⓉ
+Choke me tabby	3rd	Closing Government	View Ballot	Leah Joy G. RiveraⒸ , Aaryan chaudharyⓉ
+Cherry Blossoms	4th	Opening Government	View Ballot	Leah Joy G. RiveraⒸ , Aaryan chaudharyⓉ
+Jazba	3rd	Opening Government	View Ballot	Romana RuqiaⒸ
+Argumentative Avengers	2nd	Opening Opposition	View Ballot	Romana RuqiaⒸ
+We Lost A Chipmunk	4th	Closing Government	View Ballot	Romana RuqiaⒸ
+Tum Hi Ho	1st	Closing Opposition	View Ballot	Romana RuqiaⒸ
+dwarka mor femcel incel association	2nd	Opening Opposition	View Ballot	YuvrajⒸ , Vansh Chadha , partha
+hope the wifi is strong enough	4th	Opening Government	View Ballot	YuvrajⒸ , Vansh Chadha , partha
+Clash me Harder	1st	Closing Government	View Ballot	YuvrajⒸ , Vansh Chadha , partha
+Chinchwad cha kaamgar warg	3rd	Closing Opposition	View Ballot	YuvrajⒸ , Vansh Chadha , partha
+paras ki duniya	4th	Closing Government	View Ballot	Yrein Aquino CanzonⒸ , Aniket Patra , Shashank Renwa
+Batman and Rohit	2nd	Closing Opposition	View Ballot	Yrein Aquino CanzonⒸ , Aniket Patra , Shashank Renwa
+rayray and jayjay	1st	Opening Opposition	View Ballot	Yrein Aquino CanzonⒸ , Aniket Patra , Shashank Renwa
+Tharak ke Saudagar	3rd	Opening Government	View Ballot	Yrein Aquino CanzonⒸ , Aniket Patra , Shashank Renwa
+DLSU MLK and MCL	1st	Closing Government	View Ballot	Imran IlmamⒸ
+Let Go by Pain &amp; Co.	2nd	Closing Opposition	View Ballot	Imran IlmamⒸ
+Leave the gun, take the POI	4th	Opening Opposition	View Ballot	Imran IlmamⒸ
+choli ke neeche beyoncè hai	3rd	Opening Government	View Ballot	Imran IlmamⒸ
+Virgin Boys	4th	Closing Government	View Ballot	Aditya TyagiⒸ , Debadrita dindaⓉ
+We are bored so that&#x27;s why	1st	Opening Opposition	View Ballot	Aditya TyagiⒸ , Debadrita dindaⓉ
+Break before breakup	3rd	Opening Government	View Ballot	Aditya TyagiⒸ , Debadrita dindaⓉ
+Yeh Rishta Break Kehlata Hai	2nd	Closing Opposition	View Ballot	Aditya TyagiⒸ , Debadrita dindaⓉ
+Alphabets	3rd	Opening Opposition	View Ballot	Aryan KhokherⒸ , Martin Avorgah
+Prep kaha hai?	2nd	Closing Opposition	View Ballot	Aryan KhokherⒸ , Martin Avorgah
+Nigerian prince with echo echo	1st	Opening Government	View Ballot	Aryan KhokherⒸ , Martin Avorgah
+Happy Deb-aali !	4th	Closing Government	View Ballot	Aryan KhokherⒸ , Martin Avorgah
+Harness your hopes b-side	4th	Closing Government	View Ballot	Manasija DasⒸ , Raj Singh
+St. Louis	1st	Opening Opposition	View Ballot	Manasija DasⒸ , Raj Singh
+ILS OA	2nd	Closing Opposition	View Ballot	Manasija DasⒸ , Raj Singh
+Verbal Abusers	3rd	Opening Government	View Ballot	Manasija DasⒸ , Raj Singh
+Teddy West-Side &amp; Swarley	1st	Opening Opposition	View Ballot	Ansuman PattanayakⒸ , Shreyas Sankaran
+Gullu	2nd	Closing Government	View Ballot	Ansuman PattanayakⒸ , Shreyas Sankaran
+Eagle Chacha	3rd	Closing Opposition	View Ballot	Ansuman PattanayakⒸ , Shreyas Sankaran
+Asghar in the Kohli&#x27;s Shadow	4th	Opening Government	View Ballot	Ansuman PattanayakⒸ , Shreyas Sankaran
+mango mango	4th	Opening Government	View Ballot	Ayushi NasaⒸ , Mansi Harsana
+The Cult of Deb-Kunaal	2nd	Opening Opposition	View Ballot	Ayushi NasaⒸ , Mansi Harsana
+chandaal chudail ka chaalbaaz chaak	3rd	Closing Opposition	View Ballot	Ayushi NasaⒸ , Mansi Harsana
+Smells like potential	1st	Closing Government	View Ballot	Ayushi NasaⒸ , Mansi Harsana
+(2/3) Powerpuff girls	2nd	Closing Opposition	View Ballot	Mohanish TatiyaⒸ , Saniya AhmedⓉ
+Presidencies	4th	Closing Government	View Ballot	Mohanish TatiyaⒸ , Saniya AhmedⓉ
+Team Johor	3rd	Opening Opposition	View Ballot	Mohanish TatiyaⒸ , Saniya AhmedⓉ
+Jabardast Jetha	1st	Opening Government	View Ballot	Mohanish TatiyaⒸ , Saniya AhmedⓉ
+
+
+team	result	side	adjudicators
+dwarka mor femcel incel association	eliminated	Opening Opposition	M.NavakanthⒸ , Ansuman Pattanayak , Pratyaksha Vijay
+CamelBuddies	advancing	Opening Government	M.NavakanthⒸ , Ansuman Pattanayak , Pratyaksha Vijay
+Chinchwad cha kaamgar warg	eliminated	Closing Government	M.NavakanthⒸ , Ansuman Pattanayak , Pratyaksha Vijay
+uiet x stephen&#x27;s	advancing	Closing Opposition	M.NavakanthⒸ , Ansuman Pattanayak , Pratyaksha Vijay
+Batman and Rohit	advancing	Opening Opposition	Aryan KhokherⒸ , Leah Joy G. Rivera , Snigdha Priyadarshini
+JOOJOO &amp; JAJA	eliminated	Closing Opposition	Aryan KhokherⒸ , Leah Joy G. Rivera , Snigdha Priyadarshini
+mausambi ka juice	advancing	Closing Government	Aryan KhokherⒸ , Leah Joy G. Rivera , Snigdha Priyadarshini
+No scam just truth	eliminated	Opening Government	Aryan KhokherⒸ , Leah Joy G. Rivera , Snigdha Priyadarshini
+
+
+team	result	side	adjudicators
+Batman and Rohit	eliminated	Closing Government	Ansuman PattanayakⒸ , Aditya Jha , Mishaal Said , Shashank Renwa , Shivani Mishra , Uphie , Yuvraj
+mausambi ka juice	eliminated	Closing Opposition	Ansuman PattanayakⒸ , Aditya Jha , Mishaal Said , Shashank Renwa , Shivani Mishra , Uphie , Yuvraj
+CamelBuddies	advancing	Opening Government	Ansuman PattanayakⒸ , Aditya Jha , Mishaal Said , Shashank Renwa , Shivani Mishra , Uphie , Yuvraj
+uiet x stephen&#x27;s	eliminated	Opening Opposition	Ansuman PattanayakⒸ , Aditya Jha , Mishaal Said , Shashank Renwa , Shivani Mishra , Uphie , Yuvraj
+
+
+team	result	side	adjudicators
+Harness your hopes b-side	advancing	Opening Opposition	Mishaal SaidⒸ , Aoishi , Manasija Das
+greenback boogie	advancing	Closing Government	Mishaal SaidⒸ , Aoishi , Manasija Das
+Bhaavarth finals case	eliminated	Opening Government	Mishaal SaidⒸ , Aoishi , Manasija Das
+Gullu	eliminated	Closing Opposition	Mishaal SaidⒸ , Aoishi , Manasija Das
+the cockblockers	eliminated	Opening Government	Pratyush Kumar ShekharⒸ , Aniket Patra , mahesh
+Let Go by Pain &amp; Co.	advancing	Opening Opposition	Pratyush Kumar ShekharⒸ , Aniket Patra , mahesh
+St. Louis	eliminated	Closing Opposition	Pratyush Kumar ShekharⒸ , Aniket Patra , mahesh
+choli ke neeche beyoncè hai	advancing	Closing Government	Pratyush Kumar ShekharⒸ , Aniket Patra , mahesh
+DLSU MLK and MCL	advancing	Opening Opposition	Yrein Aquino CanzonⒸ , Martin Avorgah , Vansh Chadha
+ILS OA	advancing	Opening Government	Yrein Aquino CanzonⒸ , Martin Avorgah , Vansh Chadha
+rayray and jayjay	eliminated	Closing Opposition	Yrein Aquino CanzonⒸ , Martin Avorgah , Vansh Chadha
+Yung, dumb and broke(for aodc)	eliminated	Closing Government	Yrein Aquino CanzonⒸ , Martin Avorgah , Vansh Chadha
+Clash me Harder	eliminated	Opening Government	Imran IlmamⒸ , Kaushiki Ishwar , Raj Singh
+Verbal Abusers	advancing	Closing Government	Imran IlmamⒸ , Kaushiki Ishwar , Raj Singh
+Teddy West-Side &amp; Swarley	advancing	Closing Opposition	Imran IlmamⒸ , Kaushiki Ishwar , Raj Singh
+str8 tumblr gyalz	eliminated	Opening Opposition	Imran IlmamⒸ , Kaushiki Ishwar , Raj Singh
+
+
+team	result	side	adjudicators
+DLSU MLK and MCL	advancing	Opening Government	Snigdha PriyadarshiniⒸ , Aniket Patra , Ayushi Nasa , Desmond Dorvlo , Raihan Rahman
+Let Go by Pain &amp; Co.	eliminated	Closing Government	Snigdha PriyadarshiniⒸ , Aniket Patra , Ayushi Nasa , Desmond Dorvlo , Raihan Rahman
+ILS OA	advancing	Opening Opposition	Snigdha PriyadarshiniⒸ , Aniket Patra , Ayushi Nasa , Desmond Dorvlo , Raihan Rahman
+choli ke neeche beyoncè hai	eliminated	Closing Opposition	Snigdha PriyadarshiniⒸ , Aniket Patra , Ayushi Nasa , Desmond Dorvlo , Raihan Rahman
+Harness your hopes b-side	eliminated	Closing Government	maheshⒸ , Aryan Khokher , Josef Singson , Raymond Chuma , Vansh Chadha
+Verbal Abusers	eliminated	Closing Opposition	maheshⒸ , Aryan Khokher , Josef Singson , Raymond Chuma , Vansh Chadha
+greenback boogie	advancing	Opening Government	maheshⒸ , Aryan Khokher , Josef Singson , Raymond Chuma , Vansh Chadha
+Teddy West-Side &amp; Swarley	advancing	Opening Opposition	maheshⒸ , Aryan Khokher , Josef Singson , Raymond Chuma , Vansh Chadha
+
+
+team	result	side	adjudicators
+DLSU MLK and MCL	eliminated	Closing Government	UphieⒸ , Imran Ilmam , Manasija Das , Snigdha Priyadarshini , Vansh Chadha , Yrein Aquino Canzon , mahesh
+ILS OA	advancing	Opening Government	UphieⒸ , Imran Ilmam , Manasija Das , Snigdha Priyadarshini , Vansh Chadha , Yrein Aquino Canzon , mahesh
+greenback boogie	eliminated	Opening Opposition	UphieⒸ , Imran Ilmam , Manasija Das , Snigdha Priyadarshini , Vansh Chadha , Yrein Aquino Canzon , mahesh
+Teddy West-Side &amp; Swarley	eliminated	Closing Opposition	UphieⒸ , Imran Ilmam , Manasija Das , Snigdha Priyadarshini , Vansh Chadha , Yrein Aquino Canzon , mahesh
+

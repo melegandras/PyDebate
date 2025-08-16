@@ -1,0 +1,1682 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	R6	R7	Pts	Spk	1sts	2nds
+1	MWBD		2nd	2nd	1st	1st	1st	2nd	1st	18	1133	4	3
+2	Table L is the Best L		1st	1st	3rd	1st	2nd	2nd	1st	17	1125	4	2
+3	Hammering Yall&#x27;s Epistemics		1st	1st	2nd	1st	1st	4th	1st	17	1112	5	1
+4	Ateneo BC		2nd	1st	1st	1st	2nd	3rd	2nd	16	1134	3	3
+5	UPD GL		1st	2nd	1st	2nd	1st	1st	4th	16	1128	4	2
+6	Girlboos	High School	2nd	1st	3rd	1st	1st	1st	3rd	16	1109	4	1
+7	1.5 Malaysians		1st	4th	1st	1st	1st	2nd	2nd	16	1106	4	2
+8	TC DBSK		3rd	1st	1st	4th	1st	1st	1st	16	1105	5	0
+9	NUS LT		1st	1st	2nd	2nd	2nd	4th	1st	15	1122	3	3
+10	I Ordered Affogato and They Gave Me		1st	1st	2nd	4th	1st	3rd	1st	15	1118	4	1
+11	Benchwarmers	High School	1st	4th	1st	2nd	2nd	2nd	1st	15	1109	3	3
+12	21 Chump Street		2nd	1st	1st	2nd	3rd	1st	3rd	15	1108	3	2
+13	rawr		1st	3rd	2nd	2nd	2nd	1st	2nd	15	1099	2	4
+14	DAV Jagerbomb		1st	3rd	4th	1st	2nd	1st	1st	15	1084	4	1
+15	Making questionable decisions every		1st	2nd	3rd	1st	3rd	1st	3rd	14	1110	3	1
+16	Cat grill friend		1st	1st	1st	1st	3rd	3rd	4th	14	1109	4	0
+17	CWSDC MA	High School	2nd	1st	2nd	1st	3rd	3rd	2nd	14	1109	2	3
+18	Zagreb A(lternate Universe)		1st	2nd	2nd	3rd	4th	1st	1st	14	1106	3	2
+19	Korea-Japan Collab in Europe		1st	3rd	1st	2nd	4th	1st	2nd	14	1096	3	2
+20	Me When	High School	1st	3rd	3rd	1st	1st	1st	4th	14	1094	4	0
+21	UZ	High School	4th	1st	2nd	2nd	2nd	2nd	1st	14	1094	2	4
+22	Blissful New World	High School	1st	1st	4th	1st	3rd	1st	3rd	14	1088	4	0
+23	we know what you posted on facebook	High School	3rd	2nd	4th	1st	1st	2nd	1st	14	1087	3	2
+24	No Sleep Schedule		2nd	1st	1st	3rd	4th	1st	2nd	14	1084	3	2
+25	CWSDC BC	High School	2nd	1st	2nd	2nd	2nd	4th	2nd	13	1109	1	5
+26	Malaysia Midnights		1st	1st	1st	3rd	4th	3rd	2nd	13	1106	3	1
+27	CWSDC HK	High School	2nd	2nd	1st	4th	2nd	3rd	1st	13	1102	2	3
+28	2 Parks 0 Professors		1st	2nd	1st	4th	3rd	1st	3rd	13	1100	3	1
+29	Lil K &amp; Shawty	High School	1st	1st	4th	4th	3rd	1st	1st	13	1098	4	0
+30	Osaka A		1st	1st	4th	2nd	2nd	4th	1st	13	1098	3	2
+31	I Draw the Line at Incels	High School	2nd	1st	2nd	4th	1st	2nd	3rd	13	1098	2	3
+32	Swirling darkness		2nd	1st	4th	3rd	1st	2nd	2nd	13	1095	2	3
+33	feminisht princhessus	High School	4th	1st	1st	3rd	1st	2nd	3rd	13	1092	3	1
+34	Hsejar	High School	2nd	3rd	3rd	1st	1st	4th	1st	13	1091	3	1
+35	prowlin pogchamp	High School	1st	2nd	3rd	1st	2nd	2nd	4th	13	1090	2	3
+36	Pls have mercy on us	High School	3rd	2nd	2nd	1st	1st	4th	2nd	13	1081	2	3
+37	CWSDC AJ	High School	2nd	2nd	4th	2nd	2nd	1st	2nd	13	1079	1	5
+38	Unbroke	High School	4th	2nd	3rd	1st	2nd	2nd	1st	13	1075	2	3
+39	This Shanghainese get Shanghai&#x27;ed t		2nd	2nd	2nd	2nd	3rd	1st	4th	12	1107	1	4
+40	rampage	High School	1st	2nd	3rd	4th	1st	2nd	3rd	12	1094	2	2
+41	bmarin kitagawa	High School	3rd	1st	2nd	2nd	1st	3rd	4th	12	1093	2	2
+42	Kandyland	High School	1st	4th	1st	3rd	1st	2nd	4th	12	1091	3	1
+43	muffins are sad cupcakes	High School	2nd	2nd	2nd	4th	1st	1st	4th	12	1090	2	3
+44	Still Life 1487	High School	2nd	3rd	1st	2nd	4th	1st	3rd	12	1090	2	2
+45	CWSDC AV	High School	1st	3rd	3rd	1st	2nd	3rd	3rd	12	1090	2	1
+46	Malaysia 1989		3rd	2nd	2nd	4th	1st	1st	3rd	12	1089	2	2
+47	CWSDC AT	High School	1st	3rd	1st	4th	3rd	3rd	1st	12	1088	3	0
+48	You know what	High School	1st	2nd	4th	3rd	3rd	1st	2nd	12	1083	2	2
+49	Forda compete ang fersons		2nd	2nd	2nd	3rd	3rd	3rd	1st	12	1083	1	3
+50	Mga Bading		2nd	3rd	3rd	1st	3rd	3rd	1st	12	1082	2	1
+51	SUFE 1		1st	4th	3rd	2nd	1st	4th	1st	12	1080	3	1
+52	Not Breaking Not Broken	High School	4th	1st	1st	1st	4th	3rd	2nd	12	1079	3	1
+53	won&#x27;t be there for roll call		3rd	1st	3rd	1st	3rd	3rd	2nd	12	1079	2	1
+54	Should&#x27;ve Broke Second	High School	3rd	1st	4th	1st	3rd	3rd	1st	12	1078	3	0
+55	CWSDC Vanderbilt		2nd	4th	2nd	4th	1st	1st	2nd	12	1076	2	3
+56	Defenestrators	High School	3rd	2nd	3rd	2nd	3rd	2nd	1st	12	1076	1	3
+57	disaPOIntment		1st	3rd	4th	1st	4th	1st	2nd	12	1075	3	1
+58	NUS TD		1st	1st	3rd	3rd	4th	2nd	3rd	11	1105	2	1
+59	Cat Transformers		2nd	2nd	1st	2nd	4th	3rd	3rd	11	1096	1	3
+60	We don&#x27;t have a 2nd speaker so we m		1st	4th	1st	3rd	1st	3rd	4th	11	1093	3	0
+61	THBT	High School	2nd	2nd	2nd	3rd	4th	1st	3rd	11	1089	1	3
+62	Can&#x27;t stop coming ............to de		3rd	1st	3rd	4th	1st	3rd	2nd	11	1088	2	1
+63	Ronaldo Suwi	High School	2nd	2nd	1st	3rd	4th	3rd	2nd	11	1087	1	3
+64	AC	High School	3rd	1st	3rd	1st	1st	4th	4th	11	1085	3	0
+65	Panic pandas		2nd	3rd	2nd	2nd	2nd	2nd	4th	11	1084	0	5
+66	YNC QC		2nd	3rd	2nd	1st	4th	2nd	3rd	11	1082	1	3
+67	SYDO	High School	2nd	3rd	3rd	2nd	4th	1st	2nd	11	1076	1	3
+68	Father Bostan	High School	4th	2nd	2nd	2nd	2nd	4th	1st	11	1071	1	4
+69	Small smoked fish &amp; Morgan Stanley 		1st	3rd	4th	4th	1st	3rd	1st	11	1070	3	0
+70	QUEENS	High School	3rd	2nd	3rd	1st	3rd	2nd	3rd	11	1070	1	2
+71	CWSDC GA	High School	2nd	4th	1st	2nd	3rd	4th	1st	11	1068	2	2
+72	A Heartbroken dude and a Stressed g	High School	4th	1st	4th	3rd	3rd	1st	1st	11	1065	3	0
+73	shipping is happiness		4th	3rd	2nd	1st	1st	4th	2nd	11	1061	2	2
+74	PEANUTS GA SUKI	High School	3rd	2nd	1st	4th	3rd	2nd	3rd	10	1087	1	2
+75	Rick Gave Us Up (because we are bro	High School	3rd	1st	1st	3rd	2nd	4th	4th	10	1083	2	1
+76	Bear		1st	3rd	4th	2nd	2nd	2nd	4th	10	1083	1	3
+77	What We Got		4th	2nd	2nd	3rd	2nd	2nd	3rd	10	1083	0	4
+78	Sharks	High School	1st	2nd	3rd	3rd	2nd	4th	3rd	10	1082	1	2
+79	CWSDC LE	High School	1st	2nd	4th	2nd	4th	4th	1st	10	1081	2	2
+80	Candy Crush	High School	2nd	4th	1st	1st	3rd	4th	3rd	10	1079	2	1
+81	We Grew Up With SIDO		1st	4th	1st	4th	3rd	4th	1st	10	1074	3	0
+82	FUV		3rd	3rd	1st	2nd	3rd	4th	2nd	10	1074	1	2
+83=	Kinetic Energy	High School	1st	4th	2nd	3rd	3rd	1st	4th	10	1073	2	1
+83=	Swky	High School	2nd	4th	1st	3rd	4th	3rd	1st	10	1073	2	1
+85	MUST LOOOOOK		3rd	2nd	4th	1st	2nd	2nd	4th	10	1073	1	3
+86	Amma		2nd	3rd	2nd	3rd	3rd	3rd	2nd	10	1073	0	3
+87	we take pois personally	High School	3rd	3rd	4th	2nd	2nd	3rd	1st	10	1070	1	2
+88	Fantastick		2nd	3rd	4th	2nd	3rd	2nd	2nd	10	1069	0	4
+89	Wabi Sabi	High School	3rd	4th	2nd	1st	1st	3rd	4th	10	1066	2	1
+90	Kandy A	High School	4th	3rd	3rd	3rd	2nd	1st	2nd	10	1064	1	2
+91	where do we go from here?		3rd	2nd	3rd	3rd	2nd	4th	1st	10	1063	1	2
+92	Neversober		4th	2nd	4th	2nd	1st	2nd	3rd	10	1062	1	3
+93	Midnight Sleepyheads		3rd	3rd	4th	2nd	2nd	2nd	2nd	10	1056	0	4
+94	Domy Yogurt		3rd	3rd	3rd	3rd	2nd	1st	3rd	10	1053	1	1
+95	Am I adorable?		4th	4th	2nd	2nd	3rd	1st	2nd	10	1048	1	3
+96	Debate our way to the GF	High School	1st	4th	4th	2nd	4th	1st	2nd	10	1047	2	2
+97	Crispy Chicken	High School	1st	3rd	3rd	3rd	4th	1st	4th	9	1086	2	0
+98	rich era when	High School	1st	4th	4th	2nd	2nd	2nd	4th	9	1076	1	3
+99	low hanging fruit	High School	3rd	1st	4th	1st	2nd	4th	4th	9	1071	2	1
+100	idk	High School	3rd	2nd	2nd	4th	2nd	3rd	3rd	9	1071	0	3
+101=	First month of f2f is 💩	High School	3rd	3rd	2nd	2nd	4th	1st	4th	9	1062	1	2
+101=	Malaysia Folklore	High School	2nd	4th	3rd	3rd	1st	2nd	4th	9	1062	1	2
+103	RUC Sunday Morning		3rd	4th	2nd	4th	2nd	3rd	1st	9	1060	1	2
+104	Wayward Ribs		2nd	4th	3rd	3rd	2nd	3rd	2nd	9	1058	0	3
+105	SHOU-AJ		2nd	4th	3rd	4th	1st	2nd	3rd	9	1056	1	2
+106	unverage		3rd	4th	2nd	2nd	2nd	3rd	3rd	9	1055	0	3
+107	Arvada King Dar Gwa		3rd	4th	2nd	3rd	4th	2nd	1st	9	1053	1	2
+108=	Give me five one more time		4th	2nd	1st	4th	1st	4th	3rd	9	1051	2	1
+108=	MUST Die Hard		4th	3rd	4th	2nd	4th	1st	1st	9	1051	2	1
+110	Double WHIPS		4th	3rd	1st	3rd	3rd	1st	4th	9	1050	2	0
+111	Simultaneous Equation		4th	2nd	3rd	2nd	4th	2nd	2nd	9	1046	0	4
+112	3rd is satisfying		4th	1st	2nd	2nd	4th	3rd	4th	8	1072	1	2
+113	Sugar Plz		2nd	3rd	3rd	4th	2nd	2nd	4th	8	1067	0	3
+114	no clue	High School	4th	1st	2nd	4th	3rd	4th	2nd	8	1065	1	2
+115	We don’t have a name		4th	1st	4th	4th	1st	4th	2nd	8	1064	2	1
+116	NNU Plus One		4th	1st	2nd	3rd	4th	4th	2nd	8	1063	1	2
+117	have mercy on us please		3rd	2nd	3rd	4th	1st	4th	3rd	8	1061	1	1
+118	Manphia		2nd	4th	2nd	3rd	2nd	4th	3rd	8	1060	0	3
+119	Lay Flat		3rd	3rd	4th	1st	1st	4th	4th	8	1057	2	0
+120	Electricity		3rd	4th	1st	1st	4th	3rd	4th	8	1053	2	0
+121	Random Weirdos	High School	3rd	4th	4th	1st	3rd	2nd	3rd	8	1049	1	1
+122	We don&#x27;t cook we don&#x27;t clean		4th	3rd	3rd	4th	2nd	3rd	1st	8	1041	1	1
+123	Who&#x27;s Next		3rd	4th	3rd	3rd	2nd	1st	4th	8	1037	1	1
+124	Let&#x27;s Taco Bout It	High School	3rd	4th	1st	3rd	1st	—	—	8	767	2	0
+125	Z&amp;L		3rd	3rd	3rd	1st	4th	3rd	4th	7	1066	1	0
+126	Outsiders		3rd	1st	4th	3rd	4th	2nd	4th	7	1056	1	1
+127	SISU stray girls		4th	1st	4th	4th	3rd	3rd	2nd	7	1053	1	1
+128	Shanghai		4th	2nd	4th	1st	4th	3rd	3rd	7	1052	1	1
+129	THW Ban Dihydro Monoxide		2nd	2nd	3rd	2nd	4th	4th	4th	7	1050	0	3
+130	evermore		4th	3rd	4th	1st	4th	1st	4th	7	1047	2	0
+131	Jimei		4th	4th	1st	3rd	3rd	4th	2nd	7	1047	1	1
+132	Think about it		2nd	4th	2nd	4th	4th	2nd	3rd	7	1047	0	3
+133	Big smart eggs		4th	4th	1st	3rd	3rd	3rd	3rd	7	1046	1	0
+134	Plus	High School	4th	3rd	3rd	4th	3rd	2nd	2nd	7	1044	0	2
+135	FL Clover		4th	3rd	1st	4th	4th	4th	1st	7	1043	2	0
+136	Desperated headache 🤦‍♂️		4th	1st	4th	4th	3rd	2nd	3rd	7	1042	1	1
+137	LHP Padaboom		3rd	3rd	3rd	4th	4th	1st	3rd	7	1041	1	0
+138	Grass Connoisseurs	High School	4th	3rd	4th	3rd	1st	2nd	4th	7	1040	1	1
+139	Shuank Q		4th	4th	3rd	3rd	2nd	4th	1st	7	1033	1	1
+140	KNUST O		3rd	3rd	1st	4th	2nd	—	—	7	774	1	1
+141	SGT		2nd	1st	4th	4th	4th	3rd	4th	6	1048	1	1
+142	Don&#x27;t Judge		4th	2nd	2nd	4th	3rd	4th	3rd	6	1036	0	2
+143	To be Rich		4th	4th	4th	1st	1st	4th	4th	6	1028	2	0
+144	POI in the Chat		3rd	4th	1st	4th	4th	3rd	4th	5	1055	1	0
+145	SpongeBob		3rd	3rd	4th	2nd	3rd	4th	4th	5	1035	0	1
+146	Debate for Love Team		4th	4th	3rd	4th	1st	4th	3rd	5	1028	1	0
+147	Team Macau Dev MM	High School	4th	4th	3rd	3rd	4th	2nd	3rd	5	1028	0	1
+148	its giving existential dread bestie		4th	2nd	1st	4th	4th	—	—	5	753	1	1
+149	Team Macau Dev TT	High School	4th	4th	2nd	4th	4th	4th	2nd	4	1012	0	2
+150	Team Macau Dev HY	High School	4th	4th	4th	2nd	4th	3rd	4th	3	997	0	1
+151	swing ZZ		—	—	4th	—	—	1st	—	3	296	1	0
+152	Swing HT		—	—	—	3rd	—	—	2nd	3	291	0	1
+153	Break X Hunter		2nd	4th	—	—	—	—	—	2	307	0	1
+154	Swing CY		—	—	4th	—	3rd	4th	—	1	431	0	0
+155	Swing GL		4th	4th	—	—	—	3rd	—	1	430	0	0
+156	Swing FS		—	—	—	4th	3rd	4th	—	1	428	0	0
+157	Swing 3		—	—	—	—	—	4th	—	0	148	0	0
+158=	Dynamo Blancos		—	—	—	—	—	—	—	—	—	0	0
+158=	Ones who Knock	High School	—	—	—	—	—	—	—	—	—	0	0
+158=	Probably Wrong		—	—	—	—	—	—	—	—	—	0	0
+158=	Sabak Daddy Bi		—	—	—	—	—	—	—	—	—	0	0
+158=	Two Simps		—	—	—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	R6	R7	Total	Stdev
+1	Goh Han Yang		MWBD	78	81	79	82	81	81	86	568	2.36
+2	Ted Chang		Table L is the Best L	81	81	80	82	81	81	81	567	0.53
+3=	Aly Barranda		Ateneo BC	81	78	83	82	80	79	84	567	2.00
+3=	Quintin Chua		Ateneo BC	82	78	83	81	80	79	84	567	2.00
+5	Bea Legaspi		UPD GL	80	82	81	80	81	81	81	566	0.64
+6	Osel Pan		MWBD	77	81	79	82	81	79	86	565	2.66
+7	Shaun Lee		NUS LT	80	80	81	81	79	80	82	563	0.90
+8	Luis Garcia		UPD GL	80	80	80	79	80	81	82	562	0.88
+9	Cavan Tay		NUS LT	79	79	79	81	80	80	81	559	0.83
+10=	Benjamin Goh		I Ordered Affogato and They Gave Me	80	80	82	78	82	78	79	559	1.55
+10=	Samuel Soh		I Ordered Affogato and They Gave Me	80	79	82	77	81	79	81	559	1.55
+12	Stefan Christian Milicescu		Table L is the Best L	79	79	78	81	80	81	80	558	1.03
+13	Megha Rahman		Making questionable decisions every	80	79	79	80	79	82	79	558	1.03
+14	Ricky Huang		Hammering Yall&#x27;s Epistemics	79	80	77	81	81	79	80	557	1.29
+15	Clement Tsao	High School	CWSDC BC	78	80	81	81	79	76	82	557	1.92
+16=	Alicia Chen	High School	CWSDC MA	80	79	79	81	80	77	80	556	1.18
+16=	Shaurya Chandravanshi		Cat grill friend	79	78	81	81	78	80	79	556	1.18
+18	Leauren Shiyuan Ji		This Shanghainese get Shanghai&#x27;ed t	80	78	77	82	80	80	78	555	1.58
+19	Isaac David Tan	High School	Benchwarmers	79	77	79	80	79	78	83	555	1.75
+20	Max Thomas	High School	Girlboos	76	79	79	79	77	82	83	555	2.31
+21	Edward Xu		21 Chump Street	79	80	78	81	79	78	79	554	0.99
+22	Jacquelynn Lin		21 Chump Street	77	81	78	80	79	79	80	554	1.25
+23	Daniel Berman		TC DBSK	80	79	80	76	81	79	79	554	1.46
+24	Clairene Tan		NUS TD	82	81	77	80	79	78	77	554	1.81
+25	Isaiah Hui	High School	Benchwarmers	79	76	79	80	80	77	83	554	2.10
+26	Umar Fazlan Azri		Malaysia Midnights	79	82	83	79	77	77	77	554	2.29
+27	Caylee Pan	High School	Girlboos	75	79	80	78	77	82	83	554	2.59
+28	Paula Djaković		Zagreb A(lternate Universe)	79	80	79	78	79	79	79	553	0.53
+29	Kai Tsai	High School	CWSDC HK	79	80	78	80	80	78	78	553	0.93
+30	Robert Raos		Zagreb A(lternate Universe)	81	80	78	79	78	79	78	553	1.07
+31	Minami Matsushima		Osaka A	80	79	81	79	77	78	79	553	1.20
+32	Dung Nguyen		Cat grill friend	78	77	80	81	77	81	79	553	1.60
+33	Miranda Wu	High School	CWSDC MA	78	78	79	82	80	76	80	553	1.77
+34	Aliya Fairuz		Making questionable decisions every	79	78	79	79	78	81	78	552	0.99
+35	Hishah Khalishah		This Shanghainese get Shanghai&#x27;ed t	79	79	76	80	80	79	79	552	1.25
+36	Chansol Park		2 Parks 0 Professors	77	77	80	78	79	81	80	552	1.46
+37	Teioh Nuan Ning		Malaysia Midnights	79	81	82	78	77	77	78	552	1.81
+38	Barron Ren	High School	CWSDC BC	77	79	80	80	80	75	81	552	1.96
+39	Kiki Liew		1.5 Malaysians	79	77	79	79	79	78	80	551	0.88
+40	Si Kai Feng	High School	TC DBSK	80	78	79	77	80	78	79	551	1.03
+41	Rdu Dillion		NUS TD	82	80	77	80	78	78	76	551	1.91
+42	Jeff Tsai		Swirling darkness	76	82	79	76	80	80	78	551	2.05
+43	Pio Ventura	High School	I Draw the Line at Incels	80	79	80	77	78	78	78	550	1.05
+44	Daniella Louise S. Barbacena	High School	rawr	79	78	76	79	79	80	79	550	1.18
+45	Ira Noelle C. Concepcion	High School	Lil K &amp; Shawty	77	84	77	77	76	78	81	550	2.66
+46	Hanjing Wang	High School	CWSDC HK	78	79	77	80	79	77	79	549	1.05
+47	Eldridge Vincent M. Hubilla		rawr	78	77	77	78	79	81	79	549	1.29
+48	Victoria Kurakata	High School	CWSDC AV	79	78	77	78	82	79	76	549	1.76
+49	Salleh Nidzam		Cat Transformers	76	78	77	82	79	79	78	549	1.76
+50=	Martin Huang	High School	rampage	77	79	81	77	78	78	78	548	1.28
+50=	Kristen Reyes	High School	I Draw the Line at Incels	80	79	80	78	77	77	77	548	1.28
+52=	Uday Vir Khosla	High School	UZ	78	77	78	76	79	80	80	548	1.39
+52=	Brandon Ma	High School	bmarin kitagawa	76	80	78	79	80	77	78	548	1.39
+54	Haesol Park	High School	2 Parks 0 Professors	76	76	78	78	79	80	81	548	1.75
+55	Edgar Cheng	High School	Me When	79	76	77	79	80	82	75	548	2.25
+56	Arles Kiel Mirandilla	High School	Lil K &amp; Shawty	77	83	77	76	76	78	81	548	2.49
+57	Ariel Lim		No Sleep Schedule	79	81	81	79	73	78	77	548	2.55
+58	Robert Miles Chong	High School	Hsejar	79	78	77	77	79	78	79	547	0.83
+59	Martina Wu	High School	Still Life 1487	79	77	80	78	77	78	78	547	0.99
+60	Tony Wang		We don&#x27;t have a 2nd speaker so we m	79	77	78	78	81	78	76	547	1.46
+61	Caridee Chau	High School	muffins are sad cupcakes	78	78	77	80	79	80	75	547	1.64
+62	Peijin Zhou	High School	feminisht princhessus	75	76	78	77	82	80	79	547	2.23
+63	Zunaira Husain	High School	UZ	78	77	78	77	78	79	79	546	0.76
+64=	Brandon Park	High School	rampage	76	78	81	77	78	77	79	546	1.51
+64=	Leopold Lind	High School	THBT	78	79	78	80	75	77	79	546	1.51
+66	Sharon Wang		We don&#x27;t have a 2nd speaker so we m	78	77	78	79	81	79	74	546	2.00
+67=	Rachel Lang	High School	Me When	79	75	78	78	80	81	75	546	2.14
+67=	Sanithma Jayasooriya	High School	Kandyland	76	75	82	78	77	79	79	546	2.14
+69	Teresa Chen	High School	prowlin pogchamp	77	78	78	80	77	82	74	546	2.33
+70	Sim Yang Ming		Malaysia 1989	77	79	79	78	78	77	77	545	0.83
+71	Ryan Rayner Low	High School	PEANUTS GA SUKI	78	78	79	77	78	76	79	545	0.99
+72	Yuta Yamagishi		Osaka A	77	78	80	78	77	77	78	545	0.99
+73=	Donner Tang		Can&#x27;t stop coming ............to de	76	79	77	77	79	78	79	545	1.12
+73=	Chris Cai	High School	bmarin kitagawa	77	79	77	79	79	76	78	545	1.12
+75	Angela Zhang	High School	CWSDC AT	81	78	78	78	76	78	76	545	1.55
+76	Sophia Gong	High School	feminisht princhessus	75	76	77	78	80	79	80	545	1.81
+77	Caitlin Gaw	High School	we know what you posted on facebook	77	77	74	79	79	80	79	545	1.88
+78	Ngo Minh Kien		DAV Jagerbomb	77	75	76	78	77	81	81	545	2.17
+79	Thithira Jayakody	High School	Kandyland	76	75	82	76	78	80	78	545	2.29
+80	Lauren Tse	High School	Crispy Chicken	78	77	77	78	77	79	78	544	0.70
+81=	Connor Chen	High School	Hsejar	78	78	76	76	79	78	79	544	1.16
+81=	Divvesh Kumaravel		Malaysia 1989	76	80	78	78	78	77	77	544	1.16
+83	Henry Hatridge	High School	Ronaldo Suwi	76	77	79	81	76	77	78	544	1.67
+84	Bella Chien	High School	Swirling darkness	75	81	77	75	80	78	78	544	2.12
+85	Isabella Huang	High School	prowlin pogchamp	78	78	77	81	76	80	74	544	2.19
+86	Lilian Song	High School	Blissful New World	79	80	75	81	75	79	75	544	2.43
+87	Bo Xin Zhao	High School	Blissful New World	79	80	76	82	74	79	74	544	2.86
+88	Chloe Wang	High School	Still Life 1487	78	76	79	77	78	78	77	543	0.90
+89	Valerie Gu	High School	You know what	79	77	77	76	78	79	77	543	1.05
+90	Hosei Kishida	High School	muffins are sad cupcakes	77	76	77	79	78	79	77	543	1.05
+91	Damien Lao		Can&#x27;t stop coming ............to de	75	79	76	78	79	77	79	543	1.50
+92	Chingwei Zhou	High School	AC	77	77	76	78	81	77	77	543	1.50
+93=	Krystal Wang	High School	THBT	78	78	77	80	75	76	79	543	1.59
+93=	Jason Shinheng Lee	High School	Ronaldo Suwi	77	78	77	81	76	76	78	543	1.59
+93=	Beryl Zhang		Bear	80	78	77	76	79	78	75	543	1.59
+93=	Alex Wang		What We Got	78	75	80	79	76	78	77	543	1.59
+97=	Tristan Su	High School	CWSDC AT	81	77	77	77	75	79	77	543	1.76
+97=	Franz Mapa		Mga Bading	76	77	78	80	77	75	80	543	1.76
+99=	Christine Lam	High School	Crispy Chicken	77	77	76	79	77	78	78	542	0.90
+99=	ZHANGYANG shen		SUFE 1	79	78	77	77	78	76	77	542	0.90
+99=	Raymond Kimura	High School	PEANUTS GA SUKI	77	77	79	77	78	76	78	542	0.90
+102	Jack Thompson﻿		Panic pandas	78	77	77	78	79	78	75	542	1.18
+103	Belle Ho		Panic pandas	77	77	77	79	79	78	75	542	1.29
+104	Gia Nghia Ngo	High School	Rick Gave Us Up (because we are bro	76	77	78	78	80	76	77	542	1.29
+105=	Ramya Espiritu	High School	we know what you posted on facebook	76	76	75	79	79	79	78	542	1.59
+105=	Amber Yuan	High School	AC	77	77	76	78	81	76	77	542	1.59
+105=	Ben Nadzmier Bensali		Forda compete ang fersons	78	78	79	78	75	75	79	542	1.59
+108	Vincent Ying	High School	Should&#x27;ve Broke Second	76	81	75	78	78	77	77	542	1.76
+109	Ian Dylan Chai		YNC QC	76	74	78	81	79	77	77	542	2.06
+110	Phan The Viet	High School	Candy Crush	77	78	77	77	79	76	77	541	0.88
+111	Afrah Athahurahman	High School	Sharks	78	79	76	78	77	77	76	541	1.03
+112	Alpha Zhang	High School	CWSDC AV	77	77	75	79	79	78	76	541	1.39
+113	Akindu Athauda	High School	Sharks	78	80	75	78	77	77	76	541	1.48
+114	Ricky Jin		won&#x27;t be there for roll call	75	79	76	78	78	79	76	541	1.48
+115	Faith Padrelanan	High School	Pls have mercy on us	75	77	76	79	79	76	79	541	1.58
+116	Do Thu Mai	High School	Rick Gave Us Up (because we are bro	76	77	77	80	79	75	77	541	1.58
+117	Vince Emmanuel Pena		Forda compete ang fersons	77	79	79	77	74	76	79	541	1.75
+118	Emma Zhu	High School	CWSDC LE	77	82	77	76	77	75	77	541	2.05
+119	Antash Misra		disaPOIntment	76	78	76	81	73	78	79	541	2.37
+120	Catherine Liu		What We Got	77	76	78	77	77	77	78	540	0.64
+121	Ryoji Yoshisada		Korea-Japan Collab in Europe	77	76	78	77	76	79	77	540	0.99
+122=	Ian Qiu		YNC QC	78	75	77	79	78	76	77	540	1.25
+122=	Anna Chen	High School	CWSDC Vanderbilt	76	77	76	77	77	77	80	540	1.25
+122=	Zixi Ye	High School	You know what	79	77	76	75	78	78	77	540	1.25
+122=	Claire Luo		Bear	79	78	77	76	78	77	75	540	1.25
+122=	Alex Gao		MUST LOOOOOK	77	77	76	77	77	80	76	540	1.25
+122=	Alexander Chen	High School	SYDO	75	78	77	79	76	78	77	540	1.25
+128	Lucy Du	High School	CWSDC LE	76	81	76	77	77	75	78	540	1.81
+129=	Jeanine Cheng	High School	CWSDC AJ	75	79	74	77	77	79	79	540	1.88
+129=	Tyrone Serapio	High School	Pls have mercy on us	74	76	77	79	78	76	80	540	1.88
+131	Arthur Qu	High School	Not Breaking Not Broken	73	78	78	80	77	76	78	540	2.03
+132	Brian Luo	High School	Defenestrators	75	78	76	78	77	77	78	539	1.07
+133	Le Dao Minh Tam		FUV	75	76	77	80	77	77	77	539	1.41
+134	Sandro Muyco		Mga Bading	75	77	77	78	76	76	80	539	1.51
+135=	Grace Chen	High School	Not Breaking Not Broken	73	78	77	79	78	77	77	539	1.77
+135=	Jamie Carelle C. Antonio	High School	rich era when	80	74	76	77	78	78	76	539	1.77
+137	Vu Duc Hung		DAV Jagerbomb	76	75	75	78	76	79	80	539	1.85
+138	Albert Zhang	High School	CWSDC AJ	75	79	73	77	77	81	77	539	2.39
+139	Pham Tran Bao Chau	High School	Unbroke	77	76	78	77	77	76	77	538	0.64
+140=	Dinh Tran Phuong Linh	High School	Candy Crush	76	77	76	77	79	76	77	538	0.99
+140=	River Yuan		We Grew Up With SIDO	77	78	78	76	77	75	77	538	0.99
+142=	Alvin Song	High School	Father Bostan	76	77	76	79	78	76	76	538	1.12
+142=	Annika Wang		won&#x27;t be there for roll call	76	78	75	77	78	78	76	538	1.12
+144	Manqi Tang		SUFE 1	79	77	76	76	78	75	77	538	1.25
+145=	Zhang Yuxuan	High School	Swky	77	77	76	76	76	77	78	537	0.70
+145=	Alex TY Wang	High School	idk	76	78	77	77	77	76	76	537	0.70
+147	Amy Sun		Amma	77	77	78	77	77	75	76	537	0.88
+148	Jackson Peisong Yan		Fantastick	77	79	76	76	75	78	76	537	1.28
+149	Michelle Ko	High School	QUEENS	77	77	75	78	75	79	76	537	1.39
+150=	Alshana Ann P. Almeda	High School	rich era when	79	75	77	76	77	78	75	537	1.39
+150=	Jason Zhang Zheng		3rd is satisfying	77	77	79	78	75	76	75	537	1.39
+152	Jianing Zhou	High School	Defenestrators	74	78	76	78	75	77	79	537	1.67
+153	Erica Li	High School	Kinetic Energy	80	74	78	75	76	79	75	537	2.12
+154=	Zhu Kongyang	High School	Swky	77	78	76	76	75	76	78	536	1.05
+154=	Meredith Wang		We Grew Up With SIDO	76	78	78	76	76	75	77	536	1.05
+156=	Sylvia Gao		CWSDC Vanderbilt	75	76	76	78	76	76	79	536	1.29
+156=	Sean Thew	High School	SYDO	75	78	76	78	75	78	76	536	1.29
+158=	Taylen Huang	High School	we take pois personally	74	76	78	77	79	77	75	536	1.59
+158=	Benjamin Duan	High School	Should&#x27;ve Broke Second	75	79	74	78	77	77	76	536	1.59
+160	Leah Del Fierro	High School	low hanging fruit	78	78	76	77	76	78	73	536	1.68
+161	Kitty Jiang	High School	Kinetic Energy	80	74	77	76	76	79	74	536	2.13
+162	Thang Tran		No Sleep Schedule	75	78	81	75	74	78	75	536	2.32
+163	Le Minh Tu		FUV	75	76	76	78	76	77	77	535	0.90
+164=	Gina Hu	High School	CWSDC GA	78	76	76	77	75	75	78	535	1.18
+164=	Natsuki Mogi	High School	Wabi Sabi	77	75	76	76	78	78	75	535	1.18
+166	Zhuangyan (Kevin) Shi	High School	low hanging fruit	77	77	75	77	77	78	74	535	1.29
+167	Andy Yang		3rd is satisfying	77	77	78	78	74	76	75	535	1.40
+168	Geoffrey Gao		Small smoked fish &amp; Morgan Stanley 	77	80	74	76	77	76	75	535	1.76
+169	Daniel Yueng		Small smoked fish &amp; Morgan Stanley 	79	79	74	74	77	76	76	535	1.92
+170	Smart Lee		Sugar Plz	76	78	76	77	76	76	75	534	0.88
+171	Chaewon Joung	High School	idk	76	78	77	77	76	75	75	534	1.03
+172	Elaine Shen	High School	no clue	77	77	78	75	77	76	74	534	1.28
+173	Angelina Li	High School	we take pois personally	74	76	77	77	79	76	75	534	1.48
+174	Zhang Junye		Z&amp;L	75	79	74	77	78	75	76	534	1.67
+175	Akshatha Sabaji		disaPOIntment	75	78	75	78	73	78	77	534	1.83
+176	(Redacted)		where do we go from here?	76	77	75	76	77	75	77	533	0.83
+177=	Amy Tao	High School	CWSDC GA	77	76	76	76	75	75	78	533	0.99
+177=	Eve Lee	High School	Father Bostan	75	76	75	78	77	76	76	533	0.99
+177=	Cathy Dong		Sugar Plz	77	77	76	76	77	76	74	533	0.99
+177=	Sophia Xiao		MUST LOOOOOK	75	76	75	76	77	78	76	533	0.99
+181	Anielka Nallathamby	High School	Kandy A	74	76	76	76	76	77	78	533	1.12
+182	Arunwan Areeanchuleekorn	High School	A Heartbroken dude and a Stressed g	75	77	74	74	78	77	78	533	1.64
+183	Jane Hahn	High School	QUEENS	75	78	74	78	75	78	75	533	1.64
+184	Ruolin Fang		We don’t have a name	75	76	76	75	77	76	77	532	0.76
+185	Jiayi Zhao		NNU Plus One	75	75	77	77	76	75	77	532	0.93
+186	Cassie Yiyan Zhang		Fantastick	76	78	75	76	74	77	76	532	1.20
+187	Nanop Pornprommin	High School	A Heartbroken dude and a Stressed g	75	76	74	75	77	77	78	532	1.31
+188=	John Arthur Gregory D. Dolor	High School	First month of f2f is 💩	75	77	75	76	75	79	75	532	1.41
+188=	LuYingqi		Z&amp;L	74	78	74	77	77	76	76	532	1.41
+190	Tim Gu	High School	no clue	76	77	77	75	75	76	75	531	0.83
+191=	Nguyen Thi Minh Thao		have mercy on us please	75	77	76	75	78	76	74	531	1.25
+191=	Sophia Sheng		Manphia	75	76	75	76	78	74	77	531	1.25
+191=	Jiayi Shi		NNU Plus One	75	74	76	78	76	75	77	531	1.25
+191=	Betty Han		shipping is happiness	74	76	75	77	78	75	76	531	1.25
+195=	Yudai Kubota	High School	Wabi Sabi	74	75	75	76	78	78	75	531	1.46
+195=	Grace Ge		RUC Sunday Morning	74	78	77	75	77	74	76	531	1.46
+197	Yumna Nafees	High School	Kandy A	75	73	77	75	76	78	77	531	1.55
+198	Aaron Wang		Neversober	79	76	75	76	76	76	73	531	1.64
+199	Wu Tong		Neversober	79	76	76	76	75	76	73	531	1.64
+200	Adam Syahmi bin Ahmad Shahran	High School	Malaysia Folklore	79	73	76	76	80	77	70	531	3.18
+201	Kate Tee Kai Marn	High School	Malaysia Folklore	79	73	77	75	80	77	70	531	3.23
+202	Chorena Grace G. Lorania		where do we go from here?	75	75	77	75	76	75	77	530	0.88
+203	Nguyen Viet Tung		have mercy on us please	75	76	76	75	78	76	74	530	1.16
+204	Linhan Wang		shipping is happiness	74	75	75	77	78	75	76	530	1.28
+205	Jing Xu		Wayward Ribs	78	76	76	74	76	76	74	530	1.28
+206	Ashley Stephanie P. Dimayuga	High School	First month of f2f is 💩	73	76	75	76	76	78	76	530	1.39
+207	Jie Huang		SHOU-AJ	77	76	75	73	78	76	75	530	1.48
+208	Daisy Jin		Midnight Sleepyheads	73	76	73	78	78	77	75	530	1.98
+209	Dasun de Silva		Lay Flat	79	76	73	78	76	75	73	530	2.12
+210	Doris Yang		Domy Yogurt	75	76	75	76	75	77	75	529	0.73
+211	Vu Ha Anh	High School	unverage	77	76	75	76	75	76	74	529	0.90
+212=	Lexie Li		RUC Sunday Morning	74	77	77	75	76	74	76	529	1.18
+212=	Mandy Luo		Manphia	75	75	75	76	78	74	76	529	1.18
+214	Sophie Zhang		Outsiders	76	77	74	78	75	75	74	529	1.40
+215	Edison Kung		Electricity	75	75	74	79	76	75	75	529	1.50
+216	Li Miao		Wayward Ribs	76	76	76	74	76	75	75	528	0.73
+217	Christopher		POI in the Chat	75	75	77	75	78	74	74	528	1.40
+218	Jenny Xu		SISU stray girls	75	78	75	76	76	76	72	528	1.68
+219	Norman Mingjian Li		Shanghai	74	75	74	76	75	76	77	527	1.03
+220	Tina Tian		MUST Die Hard	75	76	73	76	75	77	75	527	1.16
+221=	Janice		POI in the Chat	75	76	78	74	76	74	74	527	1.39
+221=	Millie Shao		SGT	77	77	74	75	76	75	73	527	1.39
+223	Cindy Xu		Outsiders	75	77	74	78	75	74	74	527	1.48
+224	Louix Lu		Lay Flat	78	74	74	77	75	76	73	527	1.67
+225	Jessie Xiong		Arvada King Dar Gwa	76	75	73	77	73	75	78	527	1.75
+226	Thuy An Pham		THW Ban Dihydro Monoxide	77	75	75	77	77	75	71	527	1.98
+227	Ruotong Gao		SHOU-AJ	75	76	74	73	77	76	75	526	1.25
+228=	Ta Huy Hieu		unverage	77	74	74	76	75	77	73	526	1.46
+228=	Ray Yangyu		Double WHIPS	73	73	76	76	76	77	75	526	1.46
+230	Fan Zelin		Give me five one more time	73	74	76	73	78	76	76	526	1.73
+231	Wakanda Hu	High School	Arvada King Dar Gwa	76	75	73	77	73	74	78	526	1.81
+232	Lijie Bai		Midnight Sleepyheads	73	76	73	77	77	77	73	526	1.88
+233	Cindy Xinyi Wu		Shanghai	74	75	74	76	75	75	76	525	0.76
+234	Xingyu Cai		Am I adorable?	74	73	75	75	76	77	75	525	1.20
+235	Alexa Chen		SISU stray girls	75	76	75	76	76	75	72	525	1.31
+236=	Lei Kun		evermore	75	73	73	77	75	76	76	525	1.41
+236=	Liufu Shixian		Jimei	75	72	75	75	76	75	77	525	1.41
+238	Hong Rachel		Give me five one more time	73	74	75	74	79	75	75	525	1.77
+239	Nisra Sookpradist	High School	Random Weirdos	74	75	71	76	77	76	76	525	1.85
+240=	Macy Yuan		Domy Yogurt	74	75	75	75	74	77	74	524	0.99
+240=	Yuan Yutong		FL Clover	73	75	76	76	75	74	75	524	0.99
+242	Giselle Zhang		Think about it	76	73	77	74	75	75	74	524	1.25
+243	Cindy Xu Xinyi		Double WHIPS	73	73	76	75	76	77	74	524	1.46
+244	Shi Kexin		Simultaneous Equation	72	77	73	75	75	76	76	524	1.64
+245	Yaqing Li	High School	Plus	76	73	72	75	75	77	76	524	1.64
+246	Ruoxi Wang	High School	Random Weirdos	73	74	72	77	76	76	76	524	1.73
+247	Jennifer Fan	High School	Debate our way to the GF	77	74	72	77	73	76	75	524	1.81
+248	Lydia Li		Electricity	77	73	73	79	73	74	75	524	2.17
+249	Ren Zige		Big smart eggs	75	74	76	75	75	74	74	523	0.70
+250	Deng Linjing		Big smart eggs	74	74	76	76	75	74	74	523	0.88
+251	Rachel Xin		Think about it	74	74	77	75	75	74	74	523	1.03
+252	Tengfei Ding		Am I adorable?	74	73	74	74	76	77	75	523	1.28
+253	Chen Xiaotong	High School	Debate our way to the GF	74	74	72	77	74	76	76	523	1.58
+254	Huang Jiadi		Jimei	74	72	74	76	76	74	76	522	1.40
+255	Deng Jiewen		evermore	75	72	73	77	75	75	75	522	1.50
+256	Zhang Jiening		Simultaneous Equation	71	76	74	75	73	76	77	522	1.92
+257	Napolie He		SGT	75	74	73	75	76	75	73	521	1.05
+258	Jingqi Quan		We don&#x27;t cook we don&#x27;t clean	74	74	74	73	74	75	77	521	1.18
+259	Vuong Quoc Dung (Jun)		Desperated headache 🤦‍♂️	77	75	73	73	72	76	75	521	1.68
+260	Danh Thai Duong Nguyen (Darwin)		Desperated headache 🤦‍♂️	76	76	74	73	71	77	74	521	1.92
+261	Jingxiang Jia	High School	Plus	75	73	73	76	75	73	75	520	1.16
+262	Xiaojie Zhou		We don&#x27;t cook we don&#x27;t clean	73	75	74	72	74	75	77	520	1.48
+263	Eyedi Wen		Who&#x27;s Next	77	75	74	76	72	75	71	520	1.98
+264	Wei Yiran		FL Clover	74	75	75	75	74	73	73	519	0.83
+265	Nhu-Y Vu Hoang		LHP Padaboom	74	75	74	75	71	76	74	519	1.46
+266	Freya Liang		Shuank Q	73	73	74	76	74	74	74	518	0.93
+267	Diwen Yang		Don&#x27;t Judge	74	74	74	74	76	74	72	518	1.07
+268	Zeping Li		Don&#x27;t Judge	73	74	75	74	76	75	71	518	1.51
+269	Wendy Zhang		SpongeBob	76	75	73	76	74	73	71	518	1.69
+270	Catherine Bao		SpongeBob	76	75	74	75	73	74	70	517	1.81
+271	Sophie Yuan		Who&#x27;s Next	77	75	74	76	72	75	68	517	2.80
+272	Richelle Liu		To be Rich	75	73	73	74	73	75	73	516	0.88
+273	Andrew Lim		Shuank Q	73	73	73	75	74	74	73	515	0.73
+274	Jiang Yiming		Debate for Love Team	74	73	74	74	75	73	72	515	0.90
+275	Mandy Zhang	High School	Team Macau Dev MM	72	74	72	75	74	73	75	515	1.18
+276	Zhang Yirui		Debate for Love Team	74	72	73	74	75	73	72	513	1.03
+277	Missa Cheng	High School	Team Macau Dev MM	71	74	73	74	73	73	75	513	1.16
+278	Toni Wang		To be Rich	74	72	73	73	72	75	73	512	0.99
+279	Tsam-Tsam Tou	High School	Team Macau Dev TT	75	73	74	73	72	70	73	510	1.46
+280	Rain Teng	High School	Team Macau Dev TT	69	73	73	73	72	70	72	502	1.48
+281	Emma Yang	High School	Team Macau Dev HY	71	70	71	72	73	73	71	501	1.05
+282	Nathan Han	High School	Team Macau Dev HY	70	70	71	71	71	72	71	496	0.64
+283	Flora Baek		Korea-Japan Collab in Europe	79	—	81	81	78	81	81	481	1.21
+284	Revan Lim TJ		1.5 Malaysians	80	—	80	80	81	77	80	478	1.25
+285	Paolo Taino		Cat Transformers	—	79	78	81	79	78	77	472	1.25
+286	Mai Quang Hưng	High School	Unbroke	76	76	78	78	—	76	77	461	0.90
+287	Mark Ma		Amma	—	77	78	77	76	76	76	460	0.75
+288	Wu Tong		We don’t have a name	76	77	75	—	76	76	78	458	0.94
+289	Hai-Anh Luong Minh	High School	LHP Padaboom	75	76	74	74	—	78	74	451	1.46
+290	Chelsea Zheng		MUST Die Hard	75	75	72	76	74	—	75	447	1.26
+291	Huynh Vinh Thuy		THW Ban Dihydro Monoxide	—	75	75	76	75	75	71	447	1.61
+292	Praewinkant Pongpatcharathorntep	High School	Grass Connoisseurs	—	77	71	73	75	76	73	445	2.03
+293	Tanae Rao		Hammering Yall&#x27;s Epistemics	79	—	78	81	81	77	—	396	1.60
+294	Bernard Opoku Baah		KNUST O	77	76	79	75	79	—	—	386	1.60
+295	Lưu Chí Anh	High School	Let&#x27;s Taco Bout It	78	75	78	75	78	—	—	384	1.47
+296	Vu Ngo Ai Khanh	High School	Let&#x27;s Taco Bout It	79	75	77	75	77	—	—	383	1.50
+297	Rahat Khan		its giving existential dread bestie	74	78	77	74	75	—	—	378	1.62
+298	Fairana Afsana		its giving existential dread bestie	73	76	78	74	74	—	—	375	1.79
+299	Suprawee Tuanto	High School	Grass Connoisseurs	75	75	71	—	—	77	74	372	1.96
+300	Alhassan Umuhairu		KNUST O	78	—	80	76	—	—	—	234	1.63
+301	Monica Yue Yao		Swing CY	—	—	72	—	73	71	—	216	0.82
+302	Isadora Tianyi Cai		Swing CY	—	—	72	—	72	71	—	215	0.47
+303=	Philippa Yutong Guo		Swing GL	69	74	—	—	—	72	—	215	2.05
+303=	Carol Zhirui Li		Swing GL	69	74	—	—	—	72	—	215	2.05
+305=	Helen Yang Fei		Swing FS	—	—	—	70	73	71	—	214	1.25
+305=	David Jisheng Shu		Swing FS	—	—	—	70	73	71	—	214	1.25
+307	Anaïs Kneppers		Break X Hunter	77	76	—	—	—	—	—	153	0.50
+308	Anarchy Jianing Zhang		swing ZZ	—	—	74	—	—	74	—	148	0.00
+309	Edwin Zifu Zhang		swing ZZ	—	—	75	—	—	73	—	148	1.00
+310	Jackson Linjun Tang		Swing HT	—	—	—	71	—	—	75	146	2.00
+311	Daniel Qiyang Huang		Swing HT	—	—	—	70	—	—	75	145	2.50
+312=	Speaker 5		Swing 3	—	—	—	—	—	74	—	74	0.00
+312=	Speaker 6		Swing 3	—	—	—	—	—	74	—	74	0.00
+314=	Khushpreet Kaur		Two Simps	—	—	—	—	—	—	—	—	—
+314=	Harsh Darshan Upadhyay		Two Simps	—	—	—	—	—	—	—	—	—
+314=	Mevindu Asuramanna	High School	Ones who Knock	—	—	—	—	—	—	—	—	—
+314=	Cheka Mendis	High School	Ones who Knock	—	—	—	—	—	—	—	—	—
+314=	Steven Paul C. Siawan		Sabak Daddy Bi	—	—	—	—	—	—	—	—	—
+314=	James Ryan Cachola		Sabak Daddy Bi	—	—	—	—	—	—	—	—	—
+314=	Anjani Chauhan		Probably Wrong	—	—	—	—	—	—	—	—	—
+314=	Riya Gupta		Probably Wrong	—	—	—	—	—	—	—	—	—
+314=	Raihan Rahman		Break X Hunter	—	—	—	—	—	—	—	—	—
+314=	Anene Anthony		Dynamo Blancos	—	—	—	—	—	—	—	—	—
+314=	Chigozie Daniel.		Dynamo Blancos	—	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+Small smoked fish &amp; Morgan Stanley 	1st	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+Arvada King Dar Gwa	3rd	Closing Government	View Ballot	Ayafa TonyeⒸ
+SISU stray girls	4th	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+Amma	2nd	Opening Government	View Ballot	Ayafa TonyeⒸ
+rawr	1st	Closing Opposition	View Ballot	BoemoⒸ
+MUST Die Hard	4th	Closing Government	View Ballot	BoemoⒸ
+THW Ban Dihydro Monoxide	2nd	Opening Opposition	View Ballot	BoemoⒸ
+where do we go from here?	3rd	Opening Government	View Ballot	BoemoⒸ
+MUST LOOOOOK	3rd	Closing Opposition	View Ballot	Joy HadomeⒸ
+21 Chump Street	2nd	Closing Government	View Ballot	Joy HadomeⒸ
+Benchwarmers	1st	Opening Opposition	View Ballot	Joy HadomeⒸ
+Debate for Love Team	4th	Opening Government	View Ballot	Joy HadomeⒸ
+rampage	1st	Closing Opposition	View Ballot	Vansh ChadhaⒸ
+Defenestrators	3rd	Closing Government	View Ballot	Vansh ChadhaⒸ
+its giving existential dread bestie	4th	Opening Opposition	View Ballot	Vansh ChadhaⒸ
+Swirling darkness	2nd	Opening Government	View Ballot	Vansh ChadhaⒸ
+Mga Bading	2nd	Closing Opposition	View Ballot	NemoⒸ
+FUV	3rd	Closing Government	View Ballot	NemoⒸ
+FL Clover	4th	Opening Opposition	View Ballot	NemoⒸ
+2 Parks 0 Professors	1st	Opening Government	View Ballot	NemoⒸ
+YNC QC	2nd	Closing Opposition	View Ballot	Kyle GoⒸ
+shipping is happiness	4th	Opening Government	View Ballot	Kyle GoⒸ
+we know what you posted on facebook	3rd	Closing Government	View Ballot	Kyle GoⒸ
+Hammering Yall&#x27;s Epistemics	1st	Opening Opposition	View Ballot	Kyle GoⒸ
+Rick Gave Us Up (because we are bro	3rd	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ
+Big smart eggs	4th	Closing Government	View Ballot	Erasmus SegbefiaⒸ
+Korea-Japan Collab in Europe	1st	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ
+Wayward Ribs	2nd	Opening Government	View Ballot	Erasmus SegbefiaⒸ
+Lil K &amp; Shawty	1st	Closing Opposition	View Ballot	Daisy SunⒸ
+A Heartbroken dude and a Stressed g	4th	Closing Government	View Ballot	Daisy SunⒸ
+Sugar Plz	2nd	Opening Opposition	View Ballot	Daisy SunⒸ
+Can&#x27;t stop coming ............to de	3rd	Opening Government	View Ballot	Daisy SunⒸ
+Give me five one more time	4th	Closing Opposition	View Ballot	ShudiptoⒸ
+Table L is the Best L	1st	Closing Government	View Ballot	ShudiptoⒸ
+Swky	2nd	Opening Opposition	View Ballot	ShudiptoⒸ
+RUC Sunday Morning	3rd	Opening Government	View Ballot	ShudiptoⒸ
+rich era when	1st	Closing Opposition	View Ballot	Srijan PoudelⒸ
+Malaysia Folklore	2nd	Closing Government	View Ballot	Srijan PoudelⒸ
+Outsiders	3rd	Opening Opposition	View Ballot	Srijan PoudelⒸ
+Jimei	4th	Opening Government	View Ballot	Srijan PoudelⒸ
+Osaka A	1st	Closing Opposition	View Ballot	Tengku OmarⒸ , Maia PunzalanⓉ
+Think about it	2nd	Closing Government	View Ballot	Tengku OmarⒸ , Maia PunzalanⓉ
+First month of f2f is 💩	3rd	Opening Opposition	View Ballot	Tengku OmarⒸ , Maia PunzalanⓉ
+Swing GL	4th	Opening Government	View Ballot	Tengku OmarⒸ , Maia PunzalanⓉ
+AC	3rd	Closing Opposition	View Ballot	Toru OgaⒸ
+Panic pandas	2nd	Closing Government	View Ballot	Toru OgaⒸ
+Plus	4th	Opening Opposition	View Ballot	Toru OgaⒸ
+Malaysia Midnights	1st	Opening Government	View Ballot	Toru OgaⒸ
+NUS LT	1st	Closing Opposition	View Ballot	Pranav KagalkarⒸ
+Girlboos	2nd	Closing Government	View Ballot	Pranav KagalkarⒸ
+Midnight Sleepyheads	3rd	Opening Opposition	View Ballot	Pranav KagalkarⒸ
+Simultaneous Equation	4th	Opening Government	View Ballot	Pranav KagalkarⒸ
+Shanghai	4th	Closing Opposition	View Ballot	Chinmaya MohanⒸ
+have mercy on us please	3rd	Opening Government	View Ballot	Chinmaya MohanⒸ
+DAV Jagerbomb	1st	Opening Opposition	View Ballot	Chinmaya MohanⒸ
+Cat Transformers	2nd	Closing Government	View Ballot	Chinmaya MohanⒸ
+Cat grill friend	1st	Closing Opposition	View Ballot	Shuvam MitraⒸ
+No Sleep Schedule	2nd	Closing Government	View Ballot	Shuvam MitraⒸ
+bmarin kitagawa	3rd	Opening Opposition	View Ballot	Shuvam MitraⒸ
+Kandy A	4th	Opening Government	View Ballot	Shuvam MitraⒸ
+Grass Connoisseurs	4th	Closing Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+CWSDC BC	2nd	Closing Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+unverage	3rd	Opening Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+We don&#x27;t have a 2nd speaker so we m	1st	Opening Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+You know what	1st	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ
+Malaysia 1989	3rd	Closing Government	View Ballot	Vladimira ŠuflajⒸ
+We don’t have a name	4th	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ
+muffins are sad cupcakes	2nd	Opening Government	View Ballot	Vladimira ŠuflajⒸ
+Don&#x27;t Judge	4th	Closing Opposition	View Ballot	Jonathan TuliaoⒸ
+SHOU-AJ	2nd	Closing Government	View Ballot	Jonathan TuliaoⒸ
+won&#x27;t be there for roll call	3rd	Opening Opposition	View Ballot	Jonathan TuliaoⒸ
+We Grew Up With SIDO	1st	Opening Government	View Ballot	Jonathan TuliaoⒸ
+CWSDC LE	1st	Closing Opposition	View Ballot	Ryosei KobayashiⒸ , Banun Sabri
+Shuank Q	4th	Closing Government	View Ballot	Ryosei KobayashiⒸ , Banun Sabri
+Pls have mercy on us	3rd	Opening Opposition	View Ballot	Ryosei KobayashiⒸ , Banun Sabri
+CWSDC Vanderbilt	2nd	Opening Government	View Ballot	Ryosei KobayashiⒸ , Banun Sabri
+we take pois personally	3rd	Closing Opposition	View Ballot	Saugat PokharelⒸ
+SYDO	2nd	Closing Government	View Ballot	Saugat PokharelⒸ
+disaPOIntment	1st	Opening Opposition	View Ballot	Saugat PokharelⒸ
+Not Breaking Not Broken	4th	Opening Government	View Ballot	Saugat PokharelⒸ
+Let&#x27;s Taco Bout It	3rd	Closing Opposition	View Ballot	Beatrice CuizonⒸ
+UZ	4th	Closing Government	View Ballot	Beatrice CuizonⒸ
+Zagreb A(lternate Universe)	1st	Opening Opposition	View Ballot	Beatrice CuizonⒸ
+CWSDC MA	2nd	Opening Government	View Ballot	Beatrice CuizonⒸ
+Blissful New World	1st	Closing Opposition	View Ballot	Rahul DattaⒸ
+Hsejar	2nd	Closing Government	View Ballot	Rahul DattaⒸ
+3rd is satisfying	4th	Opening Opposition	View Ballot	Rahul DattaⒸ
+low hanging fruit	3rd	Opening Government	View Ballot	Rahul DattaⒸ
+Bear	1st	Closing Opposition	View Ballot	Ogundare Taye TobiⒸ
+Forda compete ang fersons	2nd	Closing Government	View Ballot	Ogundare Taye TobiⒸ
+Team Macau Dev TT	4th	Opening Opposition	View Ballot	Ogundare Taye TobiⒸ
+Electricity	3rd	Opening Government	View Ballot	Ogundare Taye TobiⒸ
+NUS TD	1st	Closing Opposition	View Ballot	Nayara NoorⒸ
+Neversober	4th	Closing Government	View Ballot	Nayara NoorⒸ
+TC DBSK	3rd	Opening Opposition	View Ballot	Nayara NoorⒸ
+Ateneo BC	2nd	Opening Government	View Ballot	Nayara NoorⒸ
+CWSDC HK	2nd	Closing Opposition	View Ballot	Pranav AnandⒸ
+no clue	4th	Closing Government	View Ballot	Pranav AnandⒸ
+KNUST O	3rd	Opening Opposition	View Ballot	Pranav AnandⒸ
+SUFE 1	1st	Opening Government	View Ballot	Pranav AnandⒸ
+Still Life 1487	2nd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ
+Unbroke	4th	Closing Government	View Ballot	Rushdoon AhmedⒸ
+Making questionable decisions every	1st	Opening Opposition	View Ballot	Rushdoon AhmedⒸ
+PEANUTS GA SUKI	3rd	Opening Government	View Ballot	Rushdoon AhmedⒸ
+Double WHIPS	4th	Closing Opposition	View Ballot	Mehul JoshiⒸ
+Kandyland	1st	Closing Government	View Ballot	Mehul JoshiⒸ
+Random Weirdos	3rd	Opening Opposition	View Ballot	Mehul JoshiⒸ
+Manphia	2nd	Opening Government	View Ballot	Mehul JoshiⒸ
+QUEENS	3rd	Closing Opposition	View Ballot	Prashasti SaxenaⒸ , Jade ShawⓉ
+NNU Plus One	4th	Closing Government	View Ballot	Prashasti SaxenaⒸ , Jade ShawⓉ
+Fantastick	2nd	Opening Opposition	View Ballot	Prashasti SaxenaⒸ , Jade ShawⓉ
+Crispy Chicken	1st	Opening Government	View Ballot	Prashasti SaxenaⒸ , Jade ShawⓉ
+feminisht princhessus	4th	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+Sharks	1st	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ
+Ronaldo Suwi	2nd	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+Should&#x27;ve Broke Second	3rd	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ
+1.5 Malaysians	1st	Closing Opposition	View Ballot	Anshuman MishraⒸ
+THBT	2nd	Closing Government	View Ballot	Anshuman MishraⒸ
+Z&amp;L	3rd	Opening Opposition	View Ballot	Anshuman MishraⒸ
+Am I adorable?	4th	Opening Government	View Ballot	Anshuman MishraⒸ
+idk	3rd	Closing Opposition	View Ballot	Davida PaulⒸ , Bilal Najaf
+prowlin pogchamp	1st	Closing Government	View Ballot	Davida PaulⒸ , Bilal Najaf
+Break X Hunter	2nd	Opening Opposition	View Ballot	Davida PaulⒸ , Bilal Najaf
+Father Bostan	4th	Opening Government	View Ballot	Davida PaulⒸ , Bilal Najaf
+POI in the Chat	3rd	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ
+Me When	1st	Closing Government	View Ballot	Adel Mostaque AhmedⒸ
+MWBD	2nd	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ
+Team Macau Dev HY	4th	Opening Government	View Ballot	Adel Mostaque AhmedⒸ
+Wabi Sabi	3rd	Closing Opposition	View Ballot	Halimat Ojone UsmanⒸ
+I Ordered Affogato and They Gave Me	1st	Closing Government	View Ballot	Halimat Ojone UsmanⒸ
+SGT	2nd	Opening Opposition	View Ballot	Halimat Ojone UsmanⒸ
+To be Rich	4th	Opening Government	View Ballot	Halimat Ojone UsmanⒸ
+Who&#x27;s Next	3rd	Closing Opposition	View Ballot	Utkarsh PandeyⒸ
+UPD GL	1st	Closing Government	View Ballot	Utkarsh PandeyⒸ
+Desperated headache 🤦‍♂️	4th	Opening Opposition	View Ballot	Utkarsh PandeyⒸ
+This Shanghainese get Shanghai&#x27;ed t	2nd	Opening Government	View Ballot	Utkarsh PandeyⒸ
+Lay Flat	3rd	Closing Opposition	View Ballot	Owolabi Victor OluwatobiⒸ
+What We Got	4th	Closing Government	View Ballot	Owolabi Victor OluwatobiⒸ
+CWSDC AT	1st	Opening Opposition	View Ballot	Owolabi Victor OluwatobiⒸ
+I Draw the Line at Incels	2nd	Opening Government	View Ballot	Owolabi Victor OluwatobiⒸ
+Debate our way to the GF	1st	Closing Opposition	View Ballot	Ralph LeeⒸ , Xiaochun “Jennette” Zhu
+Domy Yogurt	3rd	Closing Government	View Ballot	Ralph LeeⒸ , Xiaochun “Jennette” Zhu
+We don&#x27;t cook we don&#x27;t clean	4th	Opening Opposition	View Ballot	Ralph LeeⒸ , Xiaochun “Jennette” Zhu
+CWSDC AJ	2nd	Opening Government	View Ballot	Ralph LeeⒸ , Xiaochun “Jennette” Zhu
+Kinetic Energy	1st	Closing Opposition	View Ballot	Ayodele SamuelⒸ
+SpongeBob	3rd	Closing Government	View Ballot	Ayodele SamuelⒸ
+evermore	4th	Opening Opposition	View Ballot	Ayodele SamuelⒸ
+CWSDC GA	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ
+Candy Crush	2nd	Opening Opposition	View Ballot	Yash ChaturvediⒸ
+LHP Padaboom	3rd	Opening Government	View Ballot	Yash ChaturvediⒸ
+Team Macau Dev MM	4th	Closing Opposition	View Ballot	Yash ChaturvediⒸ
+CWSDC AV	1st	Closing Government	View Ballot	Yash ChaturvediⒸ
+
+
+team	result	side	ballot	adjudicators
+Me When	3rd	Closing Opposition	View Ballot	ShudiptoⒸ , Owolabi Victor Oluwatobi
+rich era when	4th	Closing Government	View Ballot	ShudiptoⒸ , Owolabi Victor Oluwatobi
+Malaysia Midnights	1st	Opening Opposition	View Ballot	ShudiptoⒸ , Owolabi Victor Oluwatobi
+UPD GL	2nd	Opening Government	View Ballot	ShudiptoⒸ , Owolabi Victor Oluwatobi
+Midnight Sleepyheads	3rd	Closing Opposition	View Ballot	Jonathan TuliaoⒸ
+MUST LOOOOOK	2nd	Closing Government	View Ballot	Jonathan TuliaoⒸ
+POI in the Chat	4th	Opening Opposition	View Ballot	Jonathan TuliaoⒸ
+no clue	1st	Opening Government	View Ballot	Jonathan TuliaoⒸ
+To be Rich	4th	Closing Opposition	View Ballot	Vansh ChadhaⒸ
+Give me five one more time	2nd	Closing Government	View Ballot	Vansh ChadhaⒸ
+NNU Plus One	1st	Opening Opposition	View Ballot	Vansh ChadhaⒸ
+Plus	3rd	Opening Government	View Ballot	Vansh ChadhaⒸ
+SISU stray girls	1st	Closing Opposition	View Ballot	Kyle GoⒸ
+Simultaneous Equation	2nd	Closing Government	View Ballot	Kyle GoⒸ
+Grass Connoisseurs	3rd	Opening Opposition	View Ballot	Kyle GoⒸ
+Shuank Q	4th	Opening Government	View Ballot	Kyle GoⒸ
+DAV Jagerbomb	3rd	Closing Opposition	View Ballot	Anshuman MishraⒸ
+You know what	2nd	Closing Government	View Ballot	Anshuman MishraⒸ
+Osaka A	1st	Opening Opposition	View Ballot	Anshuman MishraⒸ
+Debate our way to the GF	4th	Opening Government	View Ballot	Anshuman MishraⒸ
+Big smart eggs	4th	Closing Opposition	View Ballot	Halimat Ojone UsmanⒸ
+We don&#x27;t cook we don&#x27;t clean	3rd	Closing Government	View Ballot	Halimat Ojone UsmanⒸ
+Shanghai	2nd	Opening Opposition	View Ballot	Halimat Ojone UsmanⒸ
+Desperated headache 🤦‍♂️	1st	Opening Government	View Ballot	Halimat Ojone UsmanⒸ
+Outsiders	1st	Closing Opposition	View Ballot	Joy HadomeⒸ
+have mercy on us please	2nd	Closing Government	View Ballot	Joy HadomeⒸ
+Who&#x27;s Next	4th	Opening Opposition	View Ballot	Joy HadomeⒸ
+KNUST O	3rd	Opening Government	View Ballot	Joy HadomeⒸ
+Making questionable decisions every	2nd	Closing Opposition	View Ballot	Chinmaya MohanⒸ
+Hammering Yall&#x27;s Epistemics	1st	Closing Government	View Ballot	Chinmaya MohanⒸ
+Crispy Chicken	3rd	Opening Opposition	View Ballot	Chinmaya MohanⒸ
+Benchwarmers	4th	Opening Government	View Ballot	Chinmaya MohanⒸ
+THW Ban Dihydro Monoxide	2nd	Closing Opposition	View Ballot	NemoⒸ , Jade ShawⓉ
+SGT	1st	Closing Government	View Ballot	NemoⒸ , Jade ShawⓉ
+YNC QC	3rd	Opening Opposition	View Ballot	NemoⒸ , Jade ShawⓉ
+Think about it	4th	Opening Government	View Ballot	NemoⒸ , Jade ShawⓉ
+Domy Yogurt	3rd	Closing Opposition	View Ballot	Toru OgaⒸ
+low hanging fruit	1st	Closing Government	View Ballot	Toru OgaⒸ
+Let&#x27;s Taco Bout It	4th	Opening Opposition	View Ballot	Toru OgaⒸ
+we know what you posted on facebook	2nd	Opening Government	View Ballot	Toru OgaⒸ
+bmarin kitagawa	1st	Closing Opposition	View Ballot	Ogundare Taye TobiⒸ , Xiaochun “Jennette” Zhu
+unverage	4th	Closing Government	View Ballot	Ogundare Taye TobiⒸ , Xiaochun “Jennette” Zhu
+FUV	3rd	Opening Opposition	View Ballot	Ogundare Taye TobiⒸ , Xiaochun “Jennette” Zhu
+QUEENS	2nd	Opening Government	View Ballot	Ogundare Taye TobiⒸ , Xiaochun “Jennette” Zhu
+TC DBSK	1st	Closing Opposition	View Ballot	Rushdoon AhmedⒸ
+First month of f2f is 💩	3rd	Closing Government	View Ballot	Rushdoon AhmedⒸ
+Swing GL	4th	Opening Opposition	View Ballot	Rushdoon AhmedⒸ
+Defenestrators	2nd	Opening Government	View Ballot	Rushdoon AhmedⒸ
+This Shanghainese get Shanghai&#x27;ed t	2nd	Closing Opposition	View Ballot	Tamkeen NawabⒸ
+NUS LT	1st	Closing Government	View Ballot	Tamkeen NawabⒸ
+Kinetic Energy	4th	Opening Opposition	View Ballot	Tamkeen NawabⒸ
+CWSDC AT	3rd	Opening Government	View Ballot	Tamkeen NawabⒸ
+CWSDC AV	3rd	Closing Opposition	View Ballot	Joshua ParkⒸ
+We don&#x27;t have a 2nd speaker so we m	4th	Closing Government	View Ballot	Joshua ParkⒸ
+NUS TD	1st	Opening Opposition	View Ballot	Joshua ParkⒸ
+Zagreb A(lternate Universe)	2nd	Opening Government	View Ballot	Joshua ParkⒸ
+Am I adorable?	4th	Closing Opposition	View Ballot	Mehul JoshiⒸ
+Father Bostan	2nd	Closing Government	View Ballot	Mehul JoshiⒸ
+shipping is happiness	3rd	Opening Opposition	View Ballot	Mehul JoshiⒸ
+3rd is satisfying	1st	Opening Government	View Ballot	Mehul JoshiⒸ
+Fantastick	3rd	Closing Opposition	View Ballot	Yash ChaturvediⒸ
+CWSDC HK	2nd	Closing Government	View Ballot	Yash ChaturvediⒸ
+21 Chump Street	1st	Opening Opposition	View Ballot	Yash ChaturvediⒸ
+Swky	4th	Opening Government	View Ballot	Yash ChaturvediⒸ
+We Grew Up With SIDO	4th	Closing Opposition	View Ballot	Brian WongⒸ , Chinedu Ijioma
+CWSDC LE	2nd	Closing Government	View Ballot	Brian WongⒸ , Chinedu Ijioma
+Small smoked fish &amp; Morgan Stanley 	3rd	Opening Opposition	View Ballot	Brian WongⒸ , Chinedu Ijioma
+Lil K &amp; Shawty	1st	Opening Government	View Ballot	Brian WongⒸ , Chinedu Ijioma
+2 Parks 0 Professors	2nd	Closing Opposition	View Ballot	BoemoⒸ , Maia PunzalanⓉ
+Korea-Japan Collab in Europe	3rd	Closing Government	View Ballot	BoemoⒸ , Maia PunzalanⓉ
+Kandyland	4th	Opening Opposition	View Ballot	BoemoⒸ , Maia PunzalanⓉ
+Cat grill friend	1st	Opening Government	View Ballot	BoemoⒸ , Maia PunzalanⓉ
+CWSDC MA	1st	Closing Opposition	View Ballot	Davida PaulⒸ
+Manphia	4th	Closing Government	View Ballot	Davida PaulⒸ
+muffins are sad cupcakes	2nd	Opening Opposition	View Ballot	Davida PaulⒸ
+Still Life 1487	3rd	Opening Government	View Ballot	Davida PaulⒸ
+prowlin pogchamp	2nd	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+1.5 Malaysians	4th	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ
+I Ordered Affogato and They Gave Me	1st	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+rawr	3rd	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ
+CWSDC BC	1st	Closing Opposition	View Ballot	Srijan PoudelⒸ , Yahya Ichakdi
+Wayward Ribs	4th	Closing Government	View Ballot	Srijan PoudelⒸ , Yahya Ichakdi
+Forda compete ang fersons	2nd	Opening Opposition	View Ballot	Srijan PoudelⒸ , Yahya Ichakdi
+Sugar Plz	3rd	Opening Government	View Ballot	Srijan PoudelⒸ , Yahya Ichakdi
+Malaysia Folklore	4th	Closing Opposition	View Ballot	Tengku OmarⒸ
+rampage	2nd	Closing Government	View Ballot	Tengku OmarⒸ
+Bear	3rd	Opening Opposition	View Ballot	Tengku OmarⒸ
+Table L is the Best L	1st	Opening Government	View Ballot	Tengku OmarⒸ
+Unbroke	2nd	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ , Saugat Pokharel
+Debate for Love Team	4th	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ , Saugat Pokharel
+A Heartbroken dude and a Stressed g	1st	Opening Government	View Ballot	Erasmus SegbefiaⒸ , Saugat Pokharel
+Kandy A	3rd	Closing Government	View Ballot	Erasmus SegbefiaⒸ , Saugat Pokharel
+MWBD	2nd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Ralph Lee
+SYDO	3rd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Ralph Lee
+Candy Crush	4th	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Ralph Lee
+Swirling darkness	1st	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Ralph Lee
+its giving existential dread bestie	2nd	Closing Opposition	View Ballot	Tawfique ElahiⒸ , Diether
+Team Macau Dev TT	4th	Closing Government	View Ballot	Tawfique ElahiⒸ , Diether
+Not Breaking Not Broken	1st	Opening Opposition	View Ballot	Tawfique ElahiⒸ , Diether
+FL Clover	3rd	Opening Government	View Ballot	Tawfique ElahiⒸ , Diether
+Pls have mercy on us	2nd	Closing Opposition	View Ballot	Nayara NoorⒸ
+Random Weirdos	4th	Closing Government	View Ballot	Nayara NoorⒸ
+AC	1st	Opening Opposition	View Ballot	Nayara NoorⒸ
+SpongeBob	3rd	Opening Government	View Ballot	Nayara NoorⒸ
+Ateneo BC	1st	Closing Opposition	View Ballot	Ryosei KobayashiⒸ
+Ronaldo Suwi	2nd	Closing Government	View Ballot	Ryosei KobayashiⒸ
+Panic pandas	3rd	Opening Opposition	View Ballot	Ryosei KobayashiⒸ
+Break X Hunter	4th	Opening Government	View Ballot	Ryosei KobayashiⒸ
+RUC Sunday Morning	4th	Closing Opposition	View Ballot	Pranav AnandⒸ
+Should&#x27;ve Broke Second	1st	Closing Government	View Ballot	Pranav AnandⒸ
+Malaysia 1989	2nd	Opening Opposition	View Ballot	Pranav AnandⒸ
+Z&amp;L	3rd	Opening Government	View Ballot	Pranav AnandⒸ
+Rick Gave Us Up (because we are bro	1st	Opening Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+where do we go from here?	2nd	Closing Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+LHP Padaboom	3rd	Closing Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+Wabi Sabi	4th	Opening Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+evermore	3rd	Closing Opposition	View Ballot	Shuvam MitraⒸ
+Team Macau Dev HY	4th	Closing Government	View Ballot	Shuvam MitraⒸ
+UZ	1st	Opening Opposition	View Ballot	Shuvam MitraⒸ
+What We Got	2nd	Opening Government	View Ballot	Shuvam MitraⒸ
+won&#x27;t be there for roll call	1st	Closing Opposition	View Ballot	Utkarsh PandeyⒸ
+PEANUTS GA SUKI	2nd	Closing Government	View Ballot	Utkarsh PandeyⒸ
+we take pois personally	3rd	Opening Opposition	View Ballot	Utkarsh PandeyⒸ
+Arvada King Dar Gwa	4th	Opening Government	View Ballot	Utkarsh PandeyⒸ
+Sharks	2nd	Closing Opposition	View Ballot	OljaⒸ , Jeanelle De Ocampo
+Blissful New World	1st	Closing Government	View Ballot	OljaⒸ , Jeanelle De Ocampo
+SUFE 1	4th	Opening Opposition	View Ballot	OljaⒸ , Jeanelle De Ocampo
+disaPOIntment	3rd	Opening Government	View Ballot	OljaⒸ , Jeanelle De Ocampo
+Amma	3rd	Closing Opposition	View Ballot	Ayodele SamuelⒸ
+CWSDC Vanderbilt	4th	Closing Government	View Ballot	Ayodele SamuelⒸ
+Girlboos	1st	Opening Opposition	View Ballot	Ayodele SamuelⒸ
+THBT	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ
+Jimei	4th	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ
+Double WHIPS	3rd	Closing Government	View Ballot	Adel Mostaque AhmedⒸ
+feminisht princhessus	1st	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ
+Don&#x27;t Judge	2nd	Opening Government	View Ballot	Adel Mostaque AhmedⒸ
+No Sleep Schedule	1st	Closing Opposition	View Ballot	Beatrice CuizonⒸ
+CWSDC AJ	2nd	Closing Government	View Ballot	Beatrice CuizonⒸ
+Mga Bading	3rd	Opening Opposition	View Ballot	Beatrice CuizonⒸ
+SHOU-AJ	4th	Opening Government	View Ballot	Beatrice CuizonⒸ
+Cat Transformers	2nd	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+I Draw the Line at Incels	1st	Closing Government	View Ballot	Ayafa TonyeⒸ
+CWSDC GA	4th	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+Hsejar	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ
+MUST Die Hard	3rd	Closing Opposition	View Ballot	Rahul DattaⒸ
+We don’t have a name	1st	Closing Government	View Ballot	Rahul DattaⒸ
+Neversober	2nd	Opening Opposition	View Ballot	Rahul DattaⒸ
+Team Macau Dev MM	4th	Opening Government	View Ballot	Rahul DattaⒸ
+Can&#x27;t stop coming ............to de	1st	Closing Opposition	View Ballot	Prashasti SaxenaⒸ
+idk	2nd	Closing Government	View Ballot	Prashasti SaxenaⒸ
+Electricity	4th	Opening Opposition	View Ballot	Prashasti SaxenaⒸ
+Lay Flat	3rd	Opening Government	View Ballot	Prashasti SaxenaⒸ
+
+
+team	result	side	ballot	adjudicators
+We don’t have a name	4th	Closing Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+SUFE 1	3rd	Closing Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+1.5 Malaysians	1st	Opening Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+Malaysia 1989	2nd	Opening Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+PEANUTS GA SUKI	1st	Closing Opposition	View Ballot	Jonathan TuliaoⒸ
+Sugar Plz	3rd	Closing Government	View Ballot	Jonathan TuliaoⒸ
+Debate our way to the GF	4th	Opening Opposition	View Ballot	Jonathan TuliaoⒸ
+idk	2nd	Opening Government	View Ballot	Jonathan TuliaoⒸ
+Team Macau Dev HY	4th	Closing Opposition	View Ballot	Mehul JoshiⒸ
+Jimei	1st	Closing Government	View Ballot	Mehul JoshiⒸ
+Team Macau Dev MM	3rd	Opening Opposition	View Ballot	Mehul JoshiⒸ
+Team Macau Dev TT	2nd	Opening Government	View Ballot	Mehul JoshiⒸ
+Z&amp;L	3rd	Closing Opposition	View Ballot	Shuvam MitraⒸ
+Swing CY	4th	Closing Government	View Ballot	Shuvam MitraⒸ
+Father Bostan	2nd	Opening Opposition	View Ballot	Shuvam MitraⒸ
+Candy Crush	1st	Opening Government	View Ballot	Shuvam MitraⒸ
+Girlboos	3rd	Closing Opposition	View Ballot	ShudiptoⒸ , Joy Hadome
+Ateneo BC	1st	Closing Government	View Ballot	ShudiptoⒸ , Joy Hadome
+CWSDC BC	2nd	Opening Opposition	View Ballot	ShudiptoⒸ , Joy Hadome
+CWSDC LE	4th	Opening Government	View Ballot	ShudiptoⒸ , Joy Hadome
+UPD GL	1st	Closing Opposition	View Ballot	Tamkeen NawabⒸ , Ralph Lee
+CWSDC MA	2nd	Closing Government	View Ballot	Tamkeen NawabⒸ , Ralph Lee
+prowlin pogchamp	3rd	Opening Opposition	View Ballot	Tamkeen NawabⒸ , Ralph Lee
+You know what	4th	Opening Government	View Ballot	Tamkeen NawabⒸ , Ralph Lee
+Crispy Chicken	3rd	Closing Opposition	View Ballot	BoemoⒸ , Saugat Pokharel
+TC DBSK	1st	Closing Government	View Ballot	BoemoⒸ , Saugat Pokharel
+low hanging fruit	4th	Opening Opposition	View Ballot	BoemoⒸ , Saugat Pokharel
+bmarin kitagawa	2nd	Opening Government	View Ballot	BoemoⒸ , Saugat Pokharel
+Swirling darkness	4th	Closing Opposition	View Ballot	Brian WongⒸ
+Making questionable decisions every	3rd	Closing Government	View Ballot	Brian WongⒸ
+I Draw the Line at Incels	2nd	Opening Opposition	View Ballot	Brian WongⒸ
+No Sleep Schedule	1st	Opening Government	View Ballot	Brian WongⒸ
+Panic pandas	2nd	Closing Opposition	View Ballot	OljaⒸ , Tawfique Elahi
+Outsiders	4th	Closing Government	View Ballot	OljaⒸ , Tawfique Elahi
+CWSDC HK	1st	Opening Opposition	View Ballot	OljaⒸ , Tawfique Elahi
+SYDO	3rd	Opening Government	View Ballot	OljaⒸ , Tawfique Elahi
+Think about it	2nd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ
+its giving existential dread bestie	1st	Closing Government	View Ballot	Rushdoon AhmedⒸ
+Wayward Ribs	3rd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ
+Neversober	4th	Opening Government	View Ballot	Rushdoon AhmedⒸ
+Korea-Japan Collab in Europe	1st	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Jade ShawⓉ
+Bear	4th	Closing Government	View Ballot	Ayafa TonyeⒸ , Jade ShawⓉ
+Me When	3rd	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Jade ShawⓉ
+Forda compete ang fersons	2nd	Opening Government	View Ballot	Ayafa TonyeⒸ , Jade ShawⓉ
+I Ordered Affogato and They Gave Me	2nd	Closing Opposition	View Ballot	Nayara NoorⒸ
+Malaysia Midnights	1st	Closing Government	View Ballot	Nayara NoorⒸ
+rampage	3rd	Opening Opposition	View Ballot	Nayara NoorⒸ
+Osaka A	4th	Opening Government	View Ballot	Nayara NoorⒸ
+Simultaneous Equation	3rd	Closing Opposition	View Ballot	Utkarsh PandeyⒸ
+CWSDC GA	1st	Closing Government	View Ballot	Utkarsh PandeyⒸ
+Manphia	2nd	Opening Opposition	View Ballot	Utkarsh PandeyⒸ
+Midnight Sleepyheads	4th	Opening Government	View Ballot	Utkarsh PandeyⒸ
+Should&#x27;ve Broke Second	4th	Closing Opposition	View Ballot	Anshuman MishraⒸ
+CWSDC AT	1st	Closing Government	View Ballot	Anshuman MishraⒸ
+rawr	2nd	Opening Opposition	View Ballot	Anshuman MishraⒸ
+won&#x27;t be there for roll call	3rd	Opening Government	View Ballot	Anshuman MishraⒸ
+A Heartbroken dude and a Stressed g	4th	Closing Opposition	View Ballot	Xiaochun “Jennette” ZhuⒸ , Tengku Omar
+feminisht princhessus	1st	Closing Government	View Ballot	Xiaochun “Jennette” ZhuⒸ , Tengku Omar
+have mercy on us please	3rd	Opening Opposition	View Ballot	Xiaochun “Jennette” ZhuⒸ , Tengku Omar
+NNU Plus One	2nd	Opening Government	View Ballot	Xiaochun “Jennette” ZhuⒸ , Tengku Omar
+Benchwarmers	1st	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ
+Amma	2nd	Closing Government	View Ballot	Adel Mostaque AhmedⒸ
+rich era when	4th	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ
+Mga Bading	3rd	Opening Government	View Ballot	Adel Mostaque AhmedⒸ
+swing ZZ	4th	Closing Opposition	View Ballot	Rahul DattaⒸ
+RUC Sunday Morning	2nd	Closing Government	View Ballot	Rahul DattaⒸ
+Kandy A	3rd	Opening Opposition	View Ballot	Rahul DattaⒸ
+POI in the Chat	1st	Opening Government	View Ballot	Rahul DattaⒸ
+Desperated headache 🤦‍♂️	4th	Closing Opposition	View Ballot	Srijan PoudelⒸ
+Kinetic Energy	2nd	Closing Government	View Ballot	Srijan PoudelⒸ
+QUEENS	3rd	Opening Opposition	View Ballot	Srijan PoudelⒸ
+Kandyland	1st	Opening Government	View Ballot	Srijan PoudelⒸ
+We don&#x27;t have a 2nd speaker so we m	1st	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Banun Sabri
+SISU stray girls	4th	Closing Government	View Ballot	Ayodele SamuelⒸ , Banun Sabri
+no clue	2nd	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Banun Sabri
+Malaysia Folklore	3rd	Opening Government	View Ballot	Ayodele SamuelⒸ , Banun Sabri
+Hsejar	3rd	Closing Opposition	View Ballot	Beatrice CuizonⒸ , Owolabi Victor Oluwatobi
+We Grew Up With SIDO	1st	Closing Government	View Ballot	Beatrice CuizonⒸ , Owolabi Victor Oluwatobi
+MUST LOOOOOK	4th	Opening Opposition	View Ballot	Beatrice CuizonⒸ , Owolabi Victor Oluwatobi
+YNC QC	2nd	Opening Government	View Ballot	Beatrice CuizonⒸ , Owolabi Victor Oluwatobi
+What We Got	2nd	Closing Opposition	View Ballot	Halimat Ojone UsmanⒸ
+KNUST O	1st	Closing Government	View Ballot	Halimat Ojone UsmanⒸ
+Unbroke	3rd	Opening Opposition	View Ballot	Halimat Ojone UsmanⒸ
+we take pois personally	4th	Opening Government	View Ballot	Halimat Ojone UsmanⒸ
+THBT	2nd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ
+DAV Jagerbomb	4th	Closing Government	View Ballot	Vladimira ŠuflajⒸ
+Can&#x27;t stop coming ............to de	3rd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ
+Ronaldo Suwi	1st	Opening Government	View Ballot	Vladimira ŠuflajⒸ
+Debate for Love Team	3rd	Closing Opposition	View Ballot	Devashish TrivediⒸ
+Am I adorable?	2nd	Closing Government	View Ballot	Devashish TrivediⒸ
+To be Rich	4th	Opening Opposition	View Ballot	Devashish TrivediⒸ
+Big smart eggs	1st	Opening Government	View Ballot	Devashish TrivediⒸ
+Hammering Yall&#x27;s Epistemics	2nd	Closing Opposition	View Ballot	NemoⒸ
+NUS TD	3rd	Closing Government	View Ballot	NemoⒸ
+Blissful New World	4th	Opening Opposition	View Ballot	NemoⒸ
+21 Chump Street	1st	Opening Government	View Ballot	NemoⒸ
+Random Weirdos	4th	Closing Opposition	View Ballot	Daud LoudoeⒸ
+Wabi Sabi	2nd	Closing Government	View Ballot	Daud LoudoeⒸ
+Shuank Q	3rd	Opening Opposition	View Ballot	Daud LoudoeⒸ
+Let&#x27;s Taco Bout It	1st	Opening Government	View Ballot	Daud LoudoeⒸ
+CWSDC Vanderbilt	2nd	Closing Opposition	View Ballot	Vansh ChadhaⒸ
+Lay Flat	4th	Closing Government	View Ballot	Vansh ChadhaⒸ
+Domy Yogurt	3rd	Opening Opposition	View Ballot	Vansh ChadhaⒸ
+FUV	1st	Opening Government	View Ballot	Vansh ChadhaⒸ
+Table L is the Best L	3rd	Closing Opposition	View Ballot	NJUGUNA MACHARIAⒸ , Kyle Go
+Cat grill friend	1st	Closing Government	View Ballot	NJUGUNA MACHARIAⒸ , Kyle Go
+Lil K &amp; Shawty	4th	Opening Opposition	View Ballot	NJUGUNA MACHARIAⒸ , Kyle Go
+NUS LT	2nd	Opening Government	View Ballot	NJUGUNA MACHARIAⒸ , Kyle Go
+MWBD	1st	Closing Opposition	View Ballot	Davida PaulⒸ
+Small smoked fish &amp; Morgan Stanley 	4th	Closing Government	View Ballot	Davida PaulⒸ
+CWSDC AV	3rd	Opening Opposition	View Ballot	Davida PaulⒸ
+UZ	2nd	Opening Government	View Ballot	Davida PaulⒸ
+3rd is satisfying	2nd	Closing Opposition	View Ballot	Toru OgaⒸ
+Still Life 1487	1st	Closing Government	View Ballot	Toru OgaⒸ
+where do we go from here?	3rd	Opening Opposition	View Ballot	Toru OgaⒸ
+Fantastick	4th	Opening Government	View Ballot	Toru OgaⒸ
+CWSDC AJ	4th	Closing Opposition	View Ballot	Yash ChaturvediⒸ , Maia PunzalanⓉ
+THW Ban Dihydro Monoxide	3rd	Closing Government	View Ballot	Yash ChaturvediⒸ , Maia PunzalanⓉ
+This Shanghainese get Shanghai&#x27;ed t	2nd	Opening Opposition	View Ballot	Yash ChaturvediⒸ , Maia PunzalanⓉ
+Cat Transformers	1st	Opening Government	View Ballot	Yash ChaturvediⒸ , Maia PunzalanⓉ
+shipping is happiness	2nd	Closing Opposition	View Ballot	DietherⒸ
+evermore	4th	Closing Government	View Ballot	DietherⒸ
+Double WHIPS	1st	Opening Opposition	View Ballot	DietherⒸ
+We don&#x27;t cook we don&#x27;t clean	3rd	Opening Government	View Ballot	DietherⒸ
+Electricity	1st	Closing Opposition	View Ballot	Ryosei KobayashiⒸ
+Plus	3rd	Closing Government	View Ballot	Ryosei KobayashiⒸ
+Arvada King Dar Gwa	2nd	Opening Opposition	View Ballot	Ryosei KobayashiⒸ
+Grass Connoisseurs	4th	Opening Government	View Ballot	Ryosei KobayashiⒸ
+Zagreb A(lternate Universe)	2nd	Closing Opposition	View Ballot	Chinmaya MohanⒸ
+2 Parks 0 Professors	1st	Closing Government	View Ballot	Chinmaya MohanⒸ
+Sharks	3rd	Opening Opposition	View Ballot	Chinmaya MohanⒸ
+SGT	4th	Opening Government	View Ballot	Chinmaya MohanⒸ
+Swky	1st	Closing Opposition	View Ballot	Prashasti SaxenaⒸ
+Shanghai	4th	Closing Government	View Ballot	Prashasti SaxenaⒸ
+SHOU-AJ	3rd	Opening Opposition	View Ballot	Prashasti SaxenaⒸ
+First month of f2f is 💩	2nd	Opening Government	View Ballot	Prashasti SaxenaⒸ
+we know what you posted on facebook	4th	Closing Opposition	View Ballot	Ogundare Taye TobiⒸ , Pranav Kagalkar
+Not Breaking Not Broken	1st	Closing Government	View Ballot	Ogundare Taye TobiⒸ , Pranav Kagalkar
+Defenestrators	3rd	Opening Opposition	View Ballot	Ogundare Taye TobiⒸ , Pranav Kagalkar
+Pls have mercy on us	2nd	Opening Government	View Ballot	Ogundare Taye TobiⒸ , Pranav Kagalkar
+FL Clover	1st	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ
+Who&#x27;s Next	3rd	Closing Government	View Ballot	Erasmus SegbefiaⒸ
+MUST Die Hard	4th	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ
+unverage	2nd	Opening Government	View Ballot	Erasmus SegbefiaⒸ
+SpongeBob	4th	Closing Opposition	View Ballot	Pranav AnandⒸ
+Don&#x27;t Judge	2nd	Closing Government	View Ballot	Pranav AnandⒸ
+LHP Padaboom	3rd	Opening Opposition	View Ballot	Pranav AnandⒸ
+Give me five one more time	1st	Opening Government	View Ballot	Pranav AnandⒸ
+muffins are sad cupcakes	2nd	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ
+Rick Gave Us Up (because we are bro	1st	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+AC	3rd	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ
+disaPOIntment	4th	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+
+
+team	result	side	ballot	adjudicators
+SUFE 1	2nd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ
+FL Clover	4th	Closing Government	View Ballot	Rushdoon AhmedⒸ
+Should&#x27;ve Broke Second	1st	Opening Opposition	View Ballot	Rushdoon AhmedⒸ
+Manphia	3rd	Opening Government	View Ballot	Rushdoon AhmedⒸ
+have mercy on us please	4th	Closing Opposition	View Ballot	Jonathan TuliaoⒸ
+QUEENS	1st	Closing Government	View Ballot	Jonathan TuliaoⒸ
+CWSDC AJ	2nd	Opening Opposition	View Ballot	Jonathan TuliaoⒸ
+Double WHIPS	3rd	Opening Government	View Ballot	Jonathan TuliaoⒸ
+SGT	4th	Closing Opposition	View Ballot	Utkarsh PandeyⒸ
+3rd is satisfying	2nd	Closing Government	View Ballot	Utkarsh PandeyⒸ
+Amma	3rd	Opening Opposition	View Ballot	Utkarsh PandeyⒸ
+CWSDC AV	1st	Opening Government	View Ballot	Utkarsh PandeyⒸ
+I Draw the Line at Incels	4th	Closing Opposition	View Ballot	Pranav AnandⒸ , Ralph Lee
+Rick Gave Us Up (because we are bro	3rd	Closing Government	View Ballot	Pranav AnandⒸ , Ralph Lee
+Table L is the Best L	1st	Opening Opposition	View Ballot	Pranav AnandⒸ , Ralph Lee
+CWSDC BC	2nd	Opening Government	View Ballot	Pranav AnandⒸ , Ralph Lee
+DAV Jagerbomb	1st	Opening Government	View Ballot	Prashasti SaxenaⒸ , Shifatul Ahsan Apurba
+Big smart eggs	3rd	Opening Opposition	View Ballot	Prashasti SaxenaⒸ , Shifatul Ahsan Apurba
+unverage	2nd	Closing Opposition	View Ballot	Prashasti SaxenaⒸ , Shifatul Ahsan Apurba
+POI in the Chat	4th	Closing Government	View Ballot	Prashasti SaxenaⒸ , Shifatul Ahsan Apurba
+We don&#x27;t cook we don&#x27;t clean	4th	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ
+Grass Connoisseurs	3rd	Closing Government	View Ballot	Erasmus SegbefiaⒸ
+Am I adorable?	2nd	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ
+Random Weirdos	1st	Opening Government	View Ballot	Erasmus SegbefiaⒸ
+21 Chump Street	2nd	Closing Opposition	View Ballot	ShudiptoⒸ , Ogundare Taye Tobi
+Hammering Yall&#x27;s Epistemics	1st	Closing Government	View Ballot	ShudiptoⒸ , Ogundare Taye Tobi
+No Sleep Schedule	3rd	Opening Opposition	View Ballot	ShudiptoⒸ , Ogundare Taye Tobi
+TC DBSK	4th	Opening Government	View Ballot	ShudiptoⒸ , Ogundare Taye Tobi
+Father Bostan	2nd	Closing Opposition	View Ballot	Rahul DattaⒸ , Diether
+Electricity	1st	Closing Government	View Ballot	Rahul DattaⒸ , Diether
+CWSDC Vanderbilt	4th	Opening Opposition	View Ballot	Rahul DattaⒸ , Diether
+Outsiders	3rd	Opening Government	View Ballot	Rahul DattaⒸ , Diether
+NNU Plus One	3rd	Closing Opposition	View Ballot	Ayodele SamuelⒸ
+Pls have mercy on us	1st	Closing Government	View Ballot	Ayodele SamuelⒸ
+idk	4th	Opening Opposition	View Ballot	Ayodele SamuelⒸ
+Panic pandas	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ
+Swing FS	4th	Closing Opposition	View Ballot	Saugat PokharelⒸ
+To be Rich	1st	Closing Government	View Ballot	Saugat PokharelⒸ
+Team Macau Dev HY	2nd	Opening Opposition	View Ballot	Saugat PokharelⒸ
+Swing HT	3rd	Opening Government	View Ballot	Saugat PokharelⒸ
+low hanging fruit	1st	Closing Opposition	View Ballot	Mehul JoshiⒸ , Owolabi Victor Oluwatobi
+Let&#x27;s Taco Bout It	3rd	Closing Government	View Ballot	Mehul JoshiⒸ , Owolabi Victor Oluwatobi
+Think about it	4th	Opening Opposition	View Ballot	Mehul JoshiⒸ , Owolabi Victor Oluwatobi
+Bear	2nd	Opening Government	View Ballot	Mehul JoshiⒸ , Owolabi Victor Oluwatobi
+CWSDC AT	4th	Closing Opposition	View Ballot	Pranav KagalkarⒸ
+Zagreb A(lternate Universe)	3rd	Closing Government	View Ballot	Pranav KagalkarⒸ
+CWSDC MA	1st	Opening Opposition	View Ballot	Pranav KagalkarⒸ
+Korea-Japan Collab in Europe	2nd	Opening Government	View Ballot	Pranav KagalkarⒸ
+SHOU-AJ	4th	Closing Opposition	View Ballot	Daud LoudoeⒸ
+Fantastick	2nd	Closing Government	View Ballot	Daud LoudoeⒸ
+A Heartbroken dude and a Stressed g	3rd	Opening Opposition	View Ballot	Daud LoudoeⒸ
+MUST LOOOOOK	1st	Opening Government	View Ballot	Daud LoudoeⒸ
+Plus	4th	Closing Opposition	View Ballot	Beatrice CuizonⒸ
+we take pois personally	2nd	Closing Government	View Ballot	Beatrice CuizonⒸ
+Lay Flat	1st	Opening Opposition	View Ballot	Beatrice CuizonⒸ
+Who&#x27;s Next	3rd	Opening Government	View Ballot	Beatrice CuizonⒸ
+Unbroke	1st	Opening Government	View Ballot	Joy HadomeⒸ , Toru Oga
+LHP Padaboom	4th	Closing Opposition	View Ballot	Joy HadomeⒸ , Toru Oga
+Debate our way to the GF	2nd	Closing Government	View Ballot	Joy HadomeⒸ , Toru Oga
+Jimei	3rd	Opening Opposition	View Ballot	Joy HadomeⒸ , Toru Oga
+Malaysia Midnights	3rd	Closing Opposition	View Ballot	OljaⒸ
+Cat grill friend	1st	Closing Government	View Ballot	OljaⒸ
+UPD GL	2nd	Opening Opposition	View Ballot	OljaⒸ
+I Ordered Affogato and They Gave Me	4th	Opening Government	View Ballot	OljaⒸ
+Malaysia 1989	4th	Closing Opposition	View Ballot	NJUGUNA MACHARIAⒸ
+Benchwarmers	2nd	Closing Government	View Ballot	NJUGUNA MACHARIAⒸ
+We don&#x27;t have a 2nd speaker so we m	3rd	Opening Opposition	View Ballot	NJUGUNA MACHARIAⒸ
+prowlin pogchamp	1st	Opening Government	View Ballot	NJUGUNA MACHARIAⒸ
+muffins are sad cupcakes	4th	Closing Opposition	View Ballot	Brian WongⒸ
+This Shanghainese get Shanghai&#x27;ed t	2nd	Closing Government	View Ballot	Brian WongⒸ
+THBT	3rd	Opening Opposition	View Ballot	Brian WongⒸ
+Blissful New World	1st	Opening Government	View Ballot	Brian WongⒸ
+Kandy A	3rd	Closing Opposition	View Ballot	Devashish TrivediⒸ
+shipping is happiness	1st	Closing Government	View Ballot	Devashish TrivediⒸ
+RUC Sunday Morning	4th	Opening Opposition	View Ballot	Devashish TrivediⒸ
+rich era when	2nd	Opening Government	View Ballot	Devashish TrivediⒸ
+Kandyland	3rd	Closing Opposition	View Ballot	Anshuman MishraⒸ
+Lil K &amp; Shawty	4th	Closing Government	View Ballot	Anshuman MishraⒸ
+Still Life 1487	2nd	Opening Opposition	View Ballot	Anshuman MishraⒸ
+Girlboos	1st	Opening Government	View Ballot	Anshuman MishraⒸ
+Can&#x27;t stop coming ............to de	4th	Opening Opposition	View Ballot	Yash ChaturvediⒸ
+Crispy Chicken	3rd	Opening Government	View Ballot	Yash ChaturvediⒸ
+FUV	2nd	Closing Opposition	View Ballot	Yash ChaturvediⒸ
+YNC QC	1st	Closing Government	View Ballot	Yash ChaturvediⒸ
+Forda compete ang fersons	3rd	Closing Opposition	View Ballot	Davida PaulⒸ
+rawr	2nd	Closing Government	View Ballot	Davida PaulⒸ
+We Grew Up With SIDO	4th	Opening Opposition	View Ballot	Davida PaulⒸ
+1.5 Malaysians	1st	Opening Government	View Ballot	Davida PaulⒸ
+Shuank Q	3rd	Closing Opposition	View Ballot	Vansh ChadhaⒸ
+Debate for Love Team	4th	Closing Government	View Ballot	Vansh ChadhaⒸ
+MUST Die Hard	2nd	Opening Opposition	View Ballot	Vansh ChadhaⒸ
+evermore	1st	Opening Government	View Ballot	Vansh ChadhaⒸ
+rampage	4th	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+Osaka A	2nd	Closing Government	View Ballot	Ayafa TonyeⒸ
+Making questionable decisions every	1st	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+Sharks	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ
+Sugar Plz	4th	Closing Opposition	View Ballot	Tengku OmarⒸ
+Mga Bading	1st	Closing Government	View Ballot	Tengku OmarⒸ
+What We Got	3rd	Opening Opposition	View Ballot	Tengku OmarⒸ
+SYDO	2nd	Opening Government	View Ballot	Tengku OmarⒸ
+Swky	3rd	Closing Government	View Ballot	Daisy SunⒸ
+THW Ban Dihydro Monoxide	2nd	Opening Government	View Ballot	Daisy SunⒸ
+KNUST O	4th	Opening Opposition	View Ballot	Daisy SunⒸ
+Candy Crush	1st	Closing Opposition	View Ballot	Daisy SunⒸ
+CWSDC GA	2nd	Closing Opposition	View Ballot	BoemoⒸ
+won&#x27;t be there for roll call	1st	Closing Government	View Ballot	BoemoⒸ
+Give me five one more time	4th	Opening Opposition	View Ballot	BoemoⒸ
+Kinetic Energy	3rd	Opening Government	View Ballot	BoemoⒸ
+no clue	4th	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Tawfique Elahi
+Swirling darkness	3rd	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ , Tawfique Elahi
+CWSDC LE	2nd	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ , Tawfique Elahi
+Me When	1st	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ , Tawfique Elahi
+Ronaldo Suwi	3rd	Closing Opposition	View Ballot	Nayara NoorⒸ
+MWBD	1st	Closing Government	View Ballot	Nayara NoorⒸ
+Cat Transformers	2nd	Opening Opposition	View Ballot	Nayara NoorⒸ
+CWSDC HK	4th	Opening Government	View Ballot	Nayara NoorⒸ
+First month of f2f is 💩	2nd	Closing Opposition	View Ballot	Chinmaya MohanⒸ
+where do we go from here?	3rd	Closing Government	View Ballot	Chinmaya MohanⒸ
+Hsejar	1st	Opening Opposition	View Ballot	Chinmaya MohanⒸ
+Small smoked fish &amp; Morgan Stanley 	4th	Opening Government	View Ballot	Chinmaya MohanⒸ
+Arvada King Dar Gwa	3rd	Closing Opposition	View Ballot	Halimat Ojone UsmanⒸ
+Midnight Sleepyheads	2nd	Closing Government	View Ballot	Halimat Ojone UsmanⒸ
+we know what you posted on facebook	1st	Opening Opposition	View Ballot	Halimat Ojone UsmanⒸ
+SISU stray girls	4th	Opening Government	View Ballot	Halimat Ojone UsmanⒸ
+Neversober	2nd	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ
+Z&amp;L	1st	Closing Government	View Ballot	Adel Mostaque AhmedⒸ
+Malaysia Folklore	3rd	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ
+We don’t have a name	4th	Opening Government	View Ballot	Adel Mostaque AhmedⒸ
+You know what	3rd	Opening Opposition	View Ballot	NemoⒸ , Ryosei Kobayashi
+its giving existential dread bestie	4th	Opening Government	View Ballot	NemoⒸ , Ryosei Kobayashi
+UZ	2nd	Closing Opposition	View Ballot	NemoⒸ , Ryosei Kobayashi
+AC	1st	Closing Government	View Ballot	NemoⒸ , Ryosei Kobayashi
+Wayward Ribs	3rd	Closing Opposition	View Ballot	Shuvam MitraⒸ
+Desperated headache 🤦‍♂️	4th	Closing Government	View Ballot	Shuvam MitraⒸ
+Simultaneous Equation	2nd	Opening Opposition	View Ballot	Shuvam MitraⒸ
+Wabi Sabi	1st	Opening Government	View Ballot	Shuvam MitraⒸ
+Not Breaking Not Broken	1st	Closing Opposition	View Ballot	Banun SabriⒸ , Maia PunzalanⓉ
+bmarin kitagawa	2nd	Closing Government	View Ballot	Banun SabriⒸ , Maia PunzalanⓉ
+PEANUTS GA SUKI	4th	Opening Opposition	View Ballot	Banun SabriⒸ , Maia PunzalanⓉ
+feminisht princhessus	3rd	Opening Government	View Ballot	Banun SabriⒸ , Maia PunzalanⓉ
+Team Macau Dev TT	4th	Closing Opposition	View Ballot	Xiaochun “Jennette” ZhuⒸ , Kyle Go
+Team Macau Dev MM	3rd	Closing Government	View Ballot	Xiaochun “Jennette” ZhuⒸ , Kyle Go
+SpongeBob	2nd	Opening Opposition	View Ballot	Xiaochun “Jennette” ZhuⒸ , Kyle Go
+Shanghai	1st	Opening Government	View Ballot	Xiaochun “Jennette” ZhuⒸ , Kyle Go
+Defenestrators	2nd	Closing Opposition	View Ballot	Srijan PoudelⒸ
+disaPOIntment	1st	Closing Government	View Ballot	Srijan PoudelⒸ
+Don&#x27;t Judge	4th	Opening Opposition	View Ballot	Srijan PoudelⒸ
+Domy Yogurt	3rd	Opening Government	View Ballot	Srijan PoudelⒸ
+NUS LT	2nd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Jade ShawⓉ
+2 Parks 0 Professors	4th	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Jade ShawⓉ
+Ateneo BC	1st	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Jade ShawⓉ
+NUS TD	3rd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Jade ShawⓉ
+
+
+team	result	side	ballot	adjudicators
+low hanging fruit	2nd	Closing Opposition	View Ballot	Utkarsh PandeyⒸ , Banun Sabri
+I Draw the Line at Incels	1st	Closing Government	View Ballot	Utkarsh PandeyⒸ , Banun Sabri
+CWSDC AT	3rd	Opening Opposition	View Ballot	Utkarsh PandeyⒸ , Banun Sabri
+THBT	4th	Opening Government	View Ballot	Utkarsh PandeyⒸ , Banun Sabri
+We don’t have a name	1st	Closing Opposition	View Ballot	Ogundare Taye TobiⒸ
+Kandy A	2nd	Closing Government	View Ballot	Ogundare Taye TobiⒸ
+Plus	3rd	Opening Opposition	View Ballot	Ogundare Taye TobiⒸ
+MUST Die Hard	4th	Opening Government	View Ballot	Ogundare Taye TobiⒸ
+I Ordered Affogato and They Gave Me	1st	Closing Opposition	View Ballot	Srijan PoudelⒸ , Ayodele Samuel
+CWSDC AV	2nd	Closing Government	View Ballot	Srijan PoudelⒸ , Ayodele Samuel
+YNC QC	4th	Opening Opposition	View Ballot	Srijan PoudelⒸ , Ayodele Samuel
+This Shanghainese get Shanghai&#x27;ed t	3rd	Opening Government	View Ballot	Srijan PoudelⒸ , Ayodele Samuel
+Should&#x27;ve Broke Second	3rd	Opening Government	View Ballot	Adel Mostaque AhmedⒸ , Jonathan Tuliao
+We don&#x27;t have a 2nd speaker so we m	1st	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ , Jonathan Tuliao
+Panic pandas	2nd	Closing Government	View Ballot	Adel Mostaque AhmedⒸ , Jonathan Tuliao
+CWSDC LE	4th	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ , Jonathan Tuliao
+Fantastick	3rd	Closing Opposition	View Ballot	Ryosei KobayashiⒸ
+unverage	2nd	Closing Government	View Ballot	Ryosei KobayashiⒸ
+Lay Flat	1st	Opening Opposition	View Ballot	Ryosei KobayashiⒸ
+Debate our way to the GF	4th	Opening Government	View Ballot	Ryosei KobayashiⒸ
+Team Macau Dev TT	4th	Closing Opposition	View Ballot	Ralph LeeⒸ , Jade ShawⓉ
+Shuank Q	2nd	Closing Government	View Ballot	Ralph LeeⒸ , Jade ShawⓉ
+Swing FS	3rd	Opening Opposition	View Ballot	Ralph LeeⒸ , Jade ShawⓉ
+Debate for Love Team	1st	Opening Government	View Ballot	Ralph LeeⒸ , Jade ShawⓉ
+Manphia	2nd	Closing Opposition	View Ballot	Anshuman MishraⒸ
+Can&#x27;t stop coming ............to de	1st	Closing Government	View Ballot	Anshuman MishraⒸ
+Random Weirdos	3rd	Opening Opposition	View Ballot	Anshuman MishraⒸ
+SGT	4th	Opening Government	View Ballot	Anshuman MishraⒸ
+CWSDC BC	2nd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ
+1.5 Malaysians	1st	Closing Government	View Ballot	Vladimira ŠuflajⒸ
+Korea-Japan Collab in Europe	4th	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ
+Making questionable decisions every	3rd	Opening Government	View Ballot	Vladimira ŠuflajⒸ
+Girlboos	1st	Closing Opposition	View Ballot	BoemoⒸ
+No Sleep Schedule	4th	Closing Government	View Ballot	BoemoⒸ
+Blissful New World	3rd	Opening Opposition	View Ballot	BoemoⒸ
+prowlin pogchamp	2nd	Opening Government	View Ballot	BoemoⒸ
+Amma	3rd	Closing Opposition	View Ballot	Devashish TrivediⒸ
+Wabi Sabi	1st	Closing Government	View Ballot	Devashish TrivediⒸ
+NNU Plus One	4th	Opening Opposition	View Ballot	Devashish TrivediⒸ
+CWSDC AJ	2nd	Opening Government	View Ballot	Devashish TrivediⒸ
+SUFE 1	1st	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+First month of f2f is 💩	4th	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ
+MUST LOOOOOK	2nd	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+Lil K &amp; Shawty	3rd	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ
+Osaka A	2nd	Closing Opposition	View Ballot	Mehul JoshiⒸ , Joshua Park
+Pls have mercy on us	1st	Closing Government	View Ballot	Mehul JoshiⒸ , Joshua Park
+FUV	3rd	Opening Opposition	View Ballot	Mehul JoshiⒸ , Joshua Park
+Ronaldo Suwi	4th	Opening Government	View Ballot	Mehul JoshiⒸ , Joshua Park
+Cat Transformers	4th	Closing Opposition	View Ballot	Daisy SunⒸ
+MWBD	1st	Closing Government	View Ballot	Daisy SunⒸ
+CWSDC MA	3rd	Opening Opposition	View Ballot	Daisy SunⒸ
+Table L is the Best L	2nd	Opening Government	View Ballot	Daisy SunⒸ
+Am I adorable?	3rd	Closing Opposition	View Ballot	Vansh ChadhaⒸ
+Think about it	4th	Closing Government	View Ballot	Vansh ChadhaⒸ
+Midnight Sleepyheads	2nd	Opening Opposition	View Ballot	Vansh ChadhaⒸ
+have mercy on us please	1st	Opening Government	View Ballot	Vansh ChadhaⒸ
+Kandyland	1st	Closing Opposition	View Ballot	Yash ChaturvediⒸ , Joy Hadome
+3rd is satisfying	4th	Closing Government	View Ballot	Yash ChaturvediⒸ , Joy Hadome
+DAV Jagerbomb	2nd	Opening Opposition	View Ballot	Yash ChaturvediⒸ , Joy Hadome
+QUEENS	3rd	Opening Government	View Ballot	Yash ChaturvediⒸ , Joy Hadome
+where do we go from here?	2nd	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ
+Give me five one more time	1st	Closing Government	View Ballot	Erasmus SegbefiaⒸ
+its giving existential dread bestie	4th	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ
+no clue	3rd	Opening Government	View Ballot	Erasmus SegbefiaⒸ
+AC	1st	Opening Government	View Ballot	NJUGUNA MACHARIAⒸ
+Zagreb A(lternate Universe)	4th	Closing Opposition	View Ballot	NJUGUNA MACHARIAⒸ
+Rick Gave Us Up (because we are bro	2nd	Closing Government	View Ballot	NJUGUNA MACHARIAⒸ
+Candy Crush	3rd	Opening Opposition	View Ballot	NJUGUNA MACHARIAⒸ
+disaPOIntment	4th	Closing Opposition	View Ballot	ShudiptoⒸ , Halimat Ojone Usman
+Hsejar	1st	Closing Government	View Ballot	ShudiptoⒸ , Halimat Ojone Usman
+UZ	2nd	Opening Opposition	View Ballot	ShudiptoⒸ , Halimat Ojone Usman
+Forda compete ang fersons	3rd	Opening Government	View Ballot	ShudiptoⒸ , Halimat Ojone Usman
+Outsiders	4th	Closing Opposition	View Ballot	Rushdoon AhmedⒸ
+Malaysia 1989	1st	Closing Government	View Ballot	Rushdoon AhmedⒸ
+What We Got	2nd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ
+Double WHIPS	3rd	Opening Government	View Ballot	Rushdoon AhmedⒸ
+Simultaneous Equation	4th	Closing Opposition	View Ballot	Daud LoudoeⒸ
+muffins are sad cupcakes	1st	Closing Government	View Ballot	Daud LoudoeⒸ
+Unbroke	2nd	Opening Opposition	View Ballot	Daud LoudoeⒸ
+Kinetic Energy	3rd	Opening Government	View Ballot	Daud LoudoeⒸ
+POI in the Chat	4th	Closing Opposition	View Ballot	Owolabi Victor OluwatobiⒸ
+we take pois personally	2nd	Closing Government	View Ballot	Owolabi Victor OluwatobiⒸ
+A Heartbroken dude and a Stressed g	3rd	Opening Opposition	View Ballot	Owolabi Victor OluwatobiⒸ
+Malaysia Folklore	1st	Opening Government	View Ballot	Owolabi Victor OluwatobiⒸ
+Father Bostan	2nd	Closing Opposition	View Ballot	Chinmaya MohanⒸ
+We Grew Up With SIDO	3rd	Closing Government	View Ballot	Chinmaya MohanⒸ
+SYDO	4th	Opening Opposition	View Ballot	Chinmaya MohanⒸ
+rampage	1st	Opening Government	View Ballot	Chinmaya MohanⒸ
+Bear	2nd	Closing Opposition	View Ballot	Nayara NoorⒸ
+Z&amp;L	4th	Closing Government	View Ballot	Nayara NoorⒸ
+we know what you posted on facebook	1st	Opening Opposition	View Ballot	Nayara NoorⒸ
+You know what	3rd	Opening Government	View Ballot	Nayara NoorⒸ
+Electricity	4th	Closing Opposition	View Ballot	Kyle GoⒸ , Brian Wong
+feminisht princhessus	1st	Closing Government	View Ballot	Kyle GoⒸ , Brian Wong
+CWSDC HK	2nd	Opening Opposition	View Ballot	Kyle GoⒸ , Brian Wong
+CWSDC GA	3rd	Opening Government	View Ballot	Kyle GoⒸ , Brian Wong
+Arvada King Dar Gwa	4th	Closing Opposition	View Ballot	Saugat PokharelⒸ
+Neversober	1st	Closing Government	View Ballot	Saugat PokharelⒸ
+SpongeBob	3rd	Opening Opposition	View Ballot	Saugat PokharelⒸ
+Domy Yogurt	2nd	Opening Government	View Ballot	Saugat PokharelⒸ
+Defenestrators	3rd	Closing Opposition	View Ballot	OljaⒸ
+Swky	4th	Closing Government	View Ballot	OljaⒸ
+rich era when	2nd	Opening Opposition	View Ballot	OljaⒸ
+shipping is happiness	1st	Opening Government	View Ballot	OljaⒸ
+Small smoked fish &amp; Morgan Stanley 	1st	Closing Opposition	View Ballot	Rahul DattaⒸ
+evermore	4th	Closing Government	View Ballot	Rahul DattaⒸ
+Jimei	3rd	Opening Opposition	View Ballot	Rahul DattaⒸ
+Sugar Plz	2nd	Opening Government	View Ballot	Rahul DattaⒸ
+Let&#x27;s Taco Bout It	1st	Closing Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+idk	2nd	Closing Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+Don&#x27;t Judge	3rd	Opening Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+Shanghai	4th	Opening Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+Wayward Ribs	2nd	Closing Opposition	View Ballot	Xiaochun “Jennette” ZhuⒸ
+Big smart eggs	3rd	Closing Government	View Ballot	Xiaochun “Jennette” ZhuⒸ
+CWSDC Vanderbilt	1st	Opening Opposition	View Ballot	Xiaochun “Jennette” ZhuⒸ
+FL Clover	4th	Opening Government	View Ballot	Xiaochun “Jennette” ZhuⒸ
+LHP Padaboom	4th	Closing Opposition	View Ballot	Pranav KagalkarⒸ
+Desperated headache 🤦‍♂️	3rd	Closing Government	View Ballot	Pranav KagalkarⒸ
+To be Rich	1st	Opening Opposition	View Ballot	Pranav KagalkarⒸ
+Who&#x27;s Next	2nd	Opening Government	View Ballot	Pranav KagalkarⒸ
+Ateneo BC	2nd	Closing Opposition	View Ballot	Prashasti SaxenaⒸ
+Malaysia Midnights	4th	Closing Government	View Ballot	Prashasti SaxenaⒸ
+Cat grill friend	3rd	Opening Opposition	View Ballot	Prashasti SaxenaⒸ
+Hammering Yall&#x27;s Epistemics	1st	Opening Government	View Ballot	Prashasti SaxenaⒸ
+Team Macau Dev HY	4th	Closing Opposition	View Ballot	Toru OgaⒸ
+We don&#x27;t cook we don&#x27;t clean	2nd	Closing Government	View Ballot	Toru OgaⒸ
+Grass Connoisseurs	1st	Opening Opposition	View Ballot	Toru OgaⒸ
+Swing CY	3rd	Opening Government	View Ballot	Toru OgaⒸ
+TC DBSK	1st	Closing Opposition	View Ballot	Pranav AnandⒸ
+Sharks	2nd	Closing Government	View Ballot	Pranav AnandⒸ
+THW Ban Dihydro Monoxide	4th	Opening Opposition	View Ballot	Pranav AnandⒸ
+Mga Bading	3rd	Opening Government	View Ballot	Pranav AnandⒸ
+UPD GL	1st	Closing Opposition	View Ballot	Davida PaulⒸ
+Not Breaking Not Broken	4th	Closing Government	View Ballot	Davida PaulⒸ
+NUS LT	2nd	Opening Opposition	View Ballot	Davida PaulⒸ
+21 Chump Street	3rd	Opening Government	View Ballot	Davida PaulⒸ
+KNUST O	2nd	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+Crispy Chicken	4th	Closing Government	View Ballot	Ayafa TonyeⒸ
+Swirling darkness	1st	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+PEANUTS GA SUKI	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ
+NUS TD	4th	Closing Opposition	View Ballot	Beatrice CuizonⒸ , Shuvam Mitra
+Benchwarmers	2nd	Closing Government	View Ballot	Beatrice CuizonⒸ , Shuvam Mitra
+2 Parks 0 Professors	3rd	Opening Opposition	View Ballot	Beatrice CuizonⒸ , Shuvam Mitra
+Me When	1st	Opening Government	View Ballot	Beatrice CuizonⒸ , Shuvam Mitra
+Team Macau Dev MM	4th	Closing Opposition	View Ballot	Tawfique ElahiⒸ , Maia PunzalanⓉ
+RUC Sunday Morning	2nd	Closing Government	View Ballot	Tawfique ElahiⒸ , Maia PunzalanⓉ
+SHOU-AJ	1st	Opening Opposition	View Ballot	Tawfique ElahiⒸ , Maia PunzalanⓉ
+SISU stray girls	3rd	Opening Government	View Ballot	Tawfique ElahiⒸ , Maia PunzalanⓉ
+bmarin kitagawa	1st	Closing Opposition	View Ballot	Tengku OmarⒸ , Nemo
+Still Life 1487	4th	Closing Government	View Ballot	Tengku OmarⒸ , Nemo
+rawr	2nd	Opening Opposition	View Ballot	Tengku OmarⒸ , Nemo
+won&#x27;t be there for roll call	3rd	Opening Government	View Ballot	Tengku OmarⒸ , Nemo
+
+
+team	result	side	ballot	adjudicators
+Korea-Japan Collab in Europe	1st	Opening Government	View Ballot	Pranav AnandⒸ , NJUGUNA MACHARIA
+Sharks	4th	Closing Opposition	View Ballot	Pranav AnandⒸ , NJUGUNA MACHARIA
+UZ	2nd	Closing Government	View Ballot	Pranav AnandⒸ , NJUGUNA MACHARIA
+Cat Transformers	3rd	Opening Opposition	View Ballot	Pranav AnandⒸ , NJUGUNA MACHARIA
+we know what you posted on facebook	2nd	Opening Government	View Ballot	Srijan PoudelⒸ , Xiaochun “Jennette” Zhu
+DAV Jagerbomb	1st	Closing Government	View Ballot	Srijan PoudelⒸ , Xiaochun “Jennette” Zhu
+Should&#x27;ve Broke Second	3rd	Opening Opposition	View Ballot	Srijan PoudelⒸ , Xiaochun “Jennette” Zhu
+Give me five one more time	4th	Closing Opposition	View Ballot	Srijan PoudelⒸ , Xiaochun “Jennette” Zhu
+CWSDC GA	4th	Closing Opposition	View Ballot	Ryosei KobayashiⒸ
+Unbroke	2nd	Closing Government	View Ballot	Ryosei KobayashiⒸ
+Mga Bading	3rd	Opening Opposition	View Ballot	Ryosei KobayashiⒸ
+Still Life 1487	1st	Opening Government	View Ballot	Ryosei KobayashiⒸ
+Panic pandas	2nd	Closing Opposition	View Ballot	ShudiptoⒸ , Toru Oga
+shipping is happiness	4th	Closing Government	View Ballot	ShudiptoⒸ , Toru Oga
+2 Parks 0 Professors	1st	Opening Opposition	View Ballot	ShudiptoⒸ , Toru Oga
+CWSDC HK	3rd	Opening Government	View Ballot	ShudiptoⒸ , Toru Oga
+FL Clover	4th	Closing Opposition	View Ballot	Ralph LeeⒸ
+POI in the Chat	3rd	Closing Government	View Ballot	Ralph LeeⒸ
+Arvada King Dar Gwa	2nd	Opening Opposition	View Ballot	Ralph LeeⒸ
+evermore	1st	Opening Government	View Ballot	Ralph LeeⒸ
+This Shanghainese get Shanghai&#x27;ed t	1st	Closing Opposition	View Ballot	OljaⒸ , Owolabi Victor Oluwatobi
+Wabi Sabi	3rd	Opening Government	View Ballot	OljaⒸ , Owolabi Victor Oluwatobi
+Candy Crush	4th	Closing Government	View Ballot	OljaⒸ , Owolabi Victor Oluwatobi
+QUEENS	2nd	Opening Opposition	View Ballot	OljaⒸ , Owolabi Victor Oluwatobi
+rawr	1st	Closing Opposition	View Ballot	Tamkeen NawabⒸ , Jade ShawⓉ
+Kandyland	2nd	Closing Government	View Ballot	Tamkeen NawabⒸ , Jade ShawⓉ
+CWSDC AV	3rd	Opening Opposition	View Ballot	Tamkeen NawabⒸ , Jade ShawⓉ
+Osaka A	4th	Opening Government	View Ballot	Tamkeen NawabⒸ , Jade ShawⓉ
+Debate our way to the GF	1st	Closing Opposition	View Ballot	Shuvam MitraⒸ , Diether
+Swing FS	4th	Closing Government	View Ballot	Shuvam MitraⒸ , Diether
+Big smart eggs	3rd	Opening Opposition	View Ballot	Shuvam MitraⒸ , Diether
+Outsiders	2nd	Opening Government	View Ballot	Shuvam MitraⒸ , Diether
+Can&#x27;t stop coming ............to de	3rd	Closing Opposition	View Ballot	Halimat Ojone UsmanⒸ
+NUS TD	2nd	Opening Opposition	View Ballot	Halimat Ojone UsmanⒸ
+Zagreb A(lternate Universe)	1st	Opening Government	View Ballot	Halimat Ojone UsmanⒸ
+FUV	4th	Closing Government	View Ballot	Halimat Ojone UsmanⒸ
+rich era when	2nd	Closing Opposition	View Ballot	Anshuman MishraⒸ
+Small smoked fish &amp; Morgan Stanley 	3rd	Closing Government	View Ballot	Anshuman MishraⒸ
+We Grew Up With SIDO	4th	Opening Opposition	View Ballot	Anshuman MishraⒸ
+First month of f2f is 💩	1st	Opening Government	View Ballot	Anshuman MishraⒸ
+Rick Gave Us Up (because we are bro	4th	Closing Opposition	View Ballot	Davida PaulⒸ
+Blissful New World	1st	Closing Government	View Ballot	Davida PaulⒸ
+I Draw the Line at Incels	2nd	Opening Opposition	View Ballot	Davida PaulⒸ
+Malaysia Midnights	3rd	Opening Government	View Ballot	Davida PaulⒸ
+Random Weirdos	2nd	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+SGT	3rd	Closing Government	View Ballot	Ayafa TonyeⒸ
+Debate for Love Team	4th	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+A Heartbroken dude and a Stressed g	1st	Opening Government	View Ballot	Ayafa TonyeⒸ
+no clue	4th	Closing Opposition	View Ballot	Ogundare Taye TobiⒸ
+Crispy Chicken	1st	Closing Government	View Ballot	Ogundare Taye TobiⒸ
+Fantastick	2nd	Opening Opposition	View Ballot	Ogundare Taye TobiⒸ
+Swky	3rd	Opening Government	View Ballot	Ogundare Taye TobiⒸ
+Plus	2nd	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ
+LHP Padaboom	1st	Closing Government	View Ballot	Erasmus SegbefiaⒸ
+Team Macau Dev HY	3rd	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ
+Team Macau Dev TT	4th	Opening Government	View Ballot	Erasmus SegbefiaⒸ
+THBT	1st	Closing Government	View Ballot	Daud LoudoeⒸ
+PEANUTS GA SUKI	2nd	Opening Opposition	View Ballot	Daud LoudoeⒸ
+Electricity	3rd	Opening Government	View Ballot	Daud LoudoeⒸ
+Manphia	4th	Closing Opposition	View Ballot	Daud LoudoeⒸ
+CWSDC Vanderbilt	1st	Closing Opposition	View Ballot	Mehul JoshiⒸ
+CWSDC LE	4th	Closing Government	View Ballot	Mehul JoshiⒸ
+Neversober	2nd	Opening Opposition	View Ballot	Mehul JoshiⒸ
+idk	3rd	Opening Government	View Ballot	Mehul JoshiⒸ
+1.5 Malaysians	2nd	Closing Opposition	View Ballot	BoemoⒸ
+CWSDC BC	4th	Closing Government	View Ballot	BoemoⒸ
+21 Chump Street	1st	Opening Opposition	View Ballot	BoemoⒸ
+CWSDC MA	3rd	Opening Government	View Ballot	BoemoⒸ
+THW Ban Dihydro Monoxide	4th	Closing Opposition	View Ballot	Jonathan TuliaoⒸ
+disaPOIntment	1st	Closing Government	View Ballot	Jonathan TuliaoⒸ
+3rd is satisfying	3rd	Opening Opposition	View Ballot	Jonathan TuliaoⒸ
+Defenestrators	2nd	Opening Government	View Ballot	Jonathan TuliaoⒸ
+Swing GL	3rd	Closing Opposition	View Ballot	Adel Mostaque AhmedⒸ
+swing ZZ	1st	Closing Government	View Ballot	Adel Mostaque AhmedⒸ
+Swing CY	4th	Opening Opposition	View Ballot	Adel Mostaque AhmedⒸ
+Team Macau Dev MM	2nd	Opening Government	View Ballot	Adel Mostaque AhmedⒸ
+Grass Connoisseurs	2nd	Closing Opposition	View Ballot	Vansh ChadhaⒸ
+Don&#x27;t Judge	4th	Closing Government	View Ballot	Vansh ChadhaⒸ
+Shanghai	3rd	Opening Opposition	View Ballot	Vansh ChadhaⒸ
+Kandy A	1st	Opening Government	View Ballot	Vansh ChadhaⒸ
+Table L is the Best L	2nd	Closing Opposition	View Ballot	Rahul DattaⒸ , Joshua Park
+Girlboos	1st	Closing Government	View Ballot	Rahul DattaⒸ , Joshua Park
+NUS LT	4th	Opening Opposition	View Ballot	Rahul DattaⒸ , Joshua Park
+Cat grill friend	3rd	Opening Government	View Ballot	Rahul DattaⒸ , Joshua Park
+SISU stray girls	3rd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ
+Jimei	4th	Closing Government	View Ballot	Rushdoon AhmedⒸ
+Simultaneous Equation	2nd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ
+Am I adorable?	1st	Opening Government	View Ballot	Rushdoon AhmedⒸ
+Sugar Plz	2nd	Closing Opposition	View Ballot	Ayodele SamuelⒸ
+Wayward Ribs	3rd	Closing Government	View Ballot	Ayodele SamuelⒸ
+Domy Yogurt	1st	Opening Opposition	View Ballot	Ayodele SamuelⒸ
+To be Rich	4th	Opening Government	View Ballot	Ayodele SamuelⒸ
+Midnight Sleepyheads	2nd	Closing Opposition	View Ballot	Devashish TrivediⒸ
+We don’t have a name	4th	Closing Government	View Ballot	Devashish TrivediⒸ
+SYDO	1st	Opening Opposition	View Ballot	Devashish TrivediⒸ
+we take pois personally	3rd	Opening Government	View Ballot	Devashish TrivediⒸ
+Lay Flat	4th	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ
+You know what	1st	Closing Government	View Ballot	Vladimira ŠuflajⒸ
+Ronaldo Suwi	3rd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ
+Bear	2nd	Opening Government	View Ballot	Vladimira ŠuflajⒸ
+Shuank Q	4th	Closing Opposition	View Ballot	Tawfique ElahiⒸ
+MUST Die Hard	1st	Closing Government	View Ballot	Tawfique ElahiⒸ
+Desperated headache 🤦‍♂️	2nd	Opening Opposition	View Ballot	Tawfique ElahiⒸ
+We don&#x27;t cook we don&#x27;t clean	3rd	Opening Government	View Ballot	Tawfique ElahiⒸ
+Pls have mercy on us	4th	Closing Opposition	View Ballot	Prashasti SaxenaⒸ
+TC DBSK	1st	Closing Government	View Ballot	Prashasti SaxenaⒸ
+bmarin kitagawa	3rd	Opening Opposition	View Ballot	Prashasti SaxenaⒸ
+Benchwarmers	2nd	Opening Government	View Ballot	Prashasti SaxenaⒸ
+Making questionable decisions every	1st	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+We don&#x27;t have a 2nd speaker so we m	3rd	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ
+feminisht princhessus	2nd	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+Hsejar	4th	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ
+I Ordered Affogato and They Gave Me	3rd	Opening Government	View Ballot	Tengku OmarⒸ , Maia PunzalanⓉ
+prowlin pogchamp	2nd	Closing Opposition	View Ballot	Tengku OmarⒸ , Maia PunzalanⓉ
+AC	4th	Closing Government	View Ballot	Tengku OmarⒸ , Maia PunzalanⓉ
+Me When	1st	Opening Opposition	View Ballot	Tengku OmarⒸ , Maia PunzalanⓉ
+MWBD	2nd	Closing Opposition	View Ballot	Yash ChaturvediⒸ
+UPD GL	1st	Closing Government	View Ballot	Yash ChaturvediⒸ
+Ateneo BC	3rd	Opening Opposition	View Ballot	Yash ChaturvediⒸ
+Hammering Yall&#x27;s Epistemics	4th	Opening Government	View Ballot	Yash ChaturvediⒸ
+What We Got	2nd	Closing Opposition	View Ballot	NemoⒸ
+Amma	3rd	Closing Government	View Ballot	NemoⒸ
+Kinetic Energy	1st	Opening Opposition	View Ballot	NemoⒸ
+where do we go from here?	4th	Opening Government	View Ballot	NemoⒸ
+Not Breaking Not Broken	3rd	Opening Government	View Ballot	Chinmaya MohanⒸ
+rampage	2nd	Closing Government	View Ballot	Chinmaya MohanⒸ
+SUFE 1	4th	Opening Opposition	View Ballot	Chinmaya MohanⒸ
+No Sleep Schedule	1st	Closing Opposition	View Ballot	Chinmaya MohanⒸ
+Malaysia Folklore	2nd	Closing Opposition	View Ballot	Utkarsh PandeyⒸ
+have mercy on us please	4th	Closing Government	View Ballot	Utkarsh PandeyⒸ
+Lil K &amp; Shawty	1st	Opening Opposition	View Ballot	Utkarsh PandeyⒸ
+unverage	3rd	Opening Government	View Ballot	Utkarsh PandeyⒸ
+Z&amp;L	3rd	Closing Opposition	View Ballot	Joy HadomeⒸ
+NNU Plus One	4th	Closing Government	View Ballot	Joy HadomeⒸ
+Double WHIPS	1st	Opening Opposition	View Ballot	Joy HadomeⒸ
+SHOU-AJ	2nd	Opening Government	View Ballot	Joy HadomeⒸ
+Swirling darkness	2nd	Closing Opposition	View Ballot	Beatrice CuizonⒸ
+won&#x27;t be there for roll call	3rd	Closing Government	View Ballot	Beatrice CuizonⒸ
+low hanging fruit	4th	Opening Opposition	View Ballot	Beatrice CuizonⒸ
+muffins are sad cupcakes	1st	Opening Government	View Ballot	Beatrice CuizonⒸ
+Think about it	2nd	Closing Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+SpongeBob	4th	Closing Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+Who&#x27;s Next	1st	Opening Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+RUC Sunday Morning	3rd	Opening Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+Swing 3	4th	Closing Opposition	View Ballot	Saugat PokharelⒸ , Banun Sabri
+YNC QC	2nd	Closing Government	View Ballot	Saugat PokharelⒸ , Banun Sabri
+Forda compete ang fersons	3rd	Opening Opposition	View Ballot	Saugat PokharelⒸ , Banun Sabri
+Malaysia 1989	1st	Opening Government	View Ballot	Saugat PokharelⒸ , Banun Sabri
+MUST LOOOOOK	2nd	Closing Opposition	View Ballot	Kyle GoⒸ
+Father Bostan	4th	Closing Government	View Ballot	Kyle GoⒸ
+CWSDC AJ	1st	Opening Opposition	View Ballot	Kyle GoⒸ
+CWSDC AT	3rd	Opening Government	View Ballot	Kyle GoⒸ
+
+
+team	result	side	ballot	adjudicators
+Blissful New World	3rd	Closing Opposition	View Ballot	ShudiptoⒸ
+prowlin pogchamp	4th	Closing Government	View Ballot	ShudiptoⒸ
+No Sleep Schedule	2nd	Opening Opposition	View Ballot	ShudiptoⒸ
+TC DBSK	1st	Opening Government	View Ballot	ShudiptoⒸ
+Hsejar	1st	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Anshuman Mishra
+Kinetic Energy	4th	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Anshuman Mishra
+Not Breaking Not Broken	2nd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Anshuman Mishra
+YNC QC	3rd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Anshuman Mishra
+Cat grill friend	4th	Closing Opposition	View Ballot	Beatrice CuizonⒸ , Owolabi Victor Oluwatobi
+21 Chump Street	3rd	Closing Government	View Ballot	Beatrice CuizonⒸ , Owolabi Victor Oluwatobi
+Table L is the Best L	1st	Opening Opposition	View Ballot	Beatrice CuizonⒸ , Owolabi Victor Oluwatobi
+1.5 Malaysians	2nd	Opening Government	View Ballot	Beatrice CuizonⒸ , Owolabi Victor Oluwatobi
+DAV Jagerbomb	1st	Closing Opposition	View Ballot	Jonathan TuliaoⒸ
+bmarin kitagawa	4th	Closing Government	View Ballot	Jonathan TuliaoⒸ
+Pls have mercy on us	2nd	Opening Opposition	View Ballot	Jonathan TuliaoⒸ
+rampage	3rd	Opening Government	View Ballot	Jonathan TuliaoⒸ
+THBT	3rd	Closing Opposition	View Ballot	Ayodele SamuelⒸ
+Lil K &amp; Shawty	1st	Closing Government	View Ballot	Ayodele SamuelⒸ
+Rick Gave Us Up (because we are bro	4th	Opening Opposition	View Ballot	Ayodele SamuelⒸ
+CWSDC Vanderbilt	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ
+Mga Bading	1st	Closing Opposition	View Ballot	Rahul DattaⒸ
+PEANUTS GA SUKI	3rd	Closing Government	View Ballot	Rahul DattaⒸ
+Crispy Chicken	4th	Opening Opposition	View Ballot	Rahul DattaⒸ
+Can&#x27;t stop coming ............to de	2nd	Opening Government	View Ballot	Rahul DattaⒸ
+Shanghai	3rd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ
+Arvada King Dar Gwa	1st	Closing Government	View Ballot	Rushdoon AhmedⒸ
+We don’t have a name	2nd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ
+Z&amp;L	4th	Opening Government	View Ballot	Rushdoon AhmedⒸ
+Girlboos	3rd	Closing Opposition	View Ballot	Brian WongⒸ
+Ateneo BC	2nd	Closing Government	View Ballot	Brian WongⒸ
+MWBD	1st	Opening Opposition	View Ballot	Brian WongⒸ
+UPD GL	4th	Opening Government	View Ballot	Brian WongⒸ
+We Grew Up With SIDO	1st	Closing Opposition	View Ballot	Ryosei KobayashiⒸ
+SHOU-AJ	3rd	Closing Government	View Ballot	Ryosei KobayashiⒸ
+Sugar Plz	4th	Opening Opposition	View Ballot	Ryosei KobayashiⒸ
+Amma	2nd	Opening Government	View Ballot	Ryosei KobayashiⒸ
+Swing HT	2nd	Closing Opposition	View Ballot	Toru OgaⒸ
+Outsiders	4th	Closing Government	View Ballot	Toru OgaⒸ
+where do we go from here?	1st	Opening Opposition	View Ballot	Toru OgaⒸ
+Desperated headache 🤦‍♂️	3rd	Opening Government	View Ballot	Toru OgaⒸ
+A Heartbroken dude and a Stressed g	1st	Closing Opposition	View Ballot	Prashasti SaxenaⒸ , Maia PunzalanⓉ
+Electricity	4th	Closing Government	View Ballot	Prashasti SaxenaⒸ , Maia PunzalanⓉ
+Give me five one more time	3rd	Opening Opposition	View Ballot	Prashasti SaxenaⒸ , Maia PunzalanⓉ
+Fantastick	2nd	Opening Government	View Ballot	Prashasti SaxenaⒸ , Maia PunzalanⓉ
+won&#x27;t be there for roll call	2nd	Closing Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+QUEENS	3rd	Closing Government	View Ballot	Ruth Selorme AcolatseⒸ
+Bear	4th	Opening Opposition	View Ballot	Ruth Selorme AcolatseⒸ
+Unbroke	1st	Opening Government	View Ballot	Ruth Selorme AcolatseⒸ
+CWSDC LE	1st	Closing Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+Simultaneous Equation	2nd	Closing Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+evermore	4th	Opening Opposition	View Ballot	Shifatul Ahsan ApurbaⒸ
+Random Weirdos	3rd	Opening Government	View Ballot	Shifatul Ahsan ApurbaⒸ
+CWSDC HK	1st	Closing Opposition	View Ballot	Davida PaulⒸ
+Cat Transformers	3rd	Closing Government	View Ballot	Davida PaulⒸ
+disaPOIntment	2nd	Opening Opposition	View Ballot	Davida PaulⒸ
+MUST LOOOOOK	4th	Opening Government	View Ballot	Davida PaulⒸ
+First month of f2f is 💩	4th	Closing Opposition	View Ballot	Daud LoudoeⒸ
+SYDO	2nd	Closing Government	View Ballot	Daud LoudoeⒸ
+Sharks	3rd	Opening Opposition	View Ballot	Daud LoudoeⒸ
+SUFE 1	1st	Opening Government	View Ballot	Daud LoudoeⒸ
+CWSDC AV	3rd	Closing Opposition	View Ballot	Yash ChaturvediⒸ
+Zagreb A(lternate Universe)	1st	Closing Government	View Ballot	Yash ChaturvediⒸ
+Malaysia Midnights	2nd	Opening Opposition	View Ballot	Yash ChaturvediⒸ
+Panic pandas	4th	Opening Government	View Ballot	Yash ChaturvediⒸ
+UZ	1st	Closing Opposition	View Ballot	OljaⒸ , Adel Mostaque Ahmed
+CWSDC AJ	2nd	Closing Government	View Ballot	OljaⒸ , Adel Mostaque Ahmed
+Malaysia 1989	3rd	Opening Opposition	View Ballot	OljaⒸ , Adel Mostaque Ahmed
+We don&#x27;t have a 2nd speaker so we m	4th	Opening Government	View Ballot	OljaⒸ , Adel Mostaque Ahmed
+Domy Yogurt	3rd	Closing Opposition	View Ballot	BoemoⒸ
+Should&#x27;ve Broke Second	1st	Closing Government	View Ballot	BoemoⒸ
+Debate our way to the GF	2nd	Opening Opposition	View Ballot	BoemoⒸ
+low hanging fruit	4th	Opening Government	View Ballot	BoemoⒸ
+Who&#x27;s Next	4th	Closing Opposition	View Ballot	Erasmus SegbefiaⒸ
+Midnight Sleepyheads	2nd	Closing Government	View Ballot	Erasmus SegbefiaⒸ
+unverage	3rd	Opening Opposition	View Ballot	Erasmus SegbefiaⒸ
+Small smoked fish &amp; Morgan Stanley 	1st	Opening Government	View Ballot	Erasmus SegbefiaⒸ
+SGT	4th	Closing Opposition	View Ballot	Mehul JoshiⒸ
+no clue	2nd	Closing Government	View Ballot	Mehul JoshiⒸ
+LHP Padaboom	3rd	Opening Opposition	View Ballot	Mehul JoshiⒸ
+MUST Die Hard	1st	Opening Government	View Ballot	Mehul JoshiⒸ
+RUC Sunday Morning	1st	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+To be Rich	4th	Closing Government	View Ballot	Ayafa TonyeⒸ
+Think about it	3rd	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+Plus	2nd	Opening Government	View Ballot	Ayafa TonyeⒸ
+have mercy on us please	3rd	Closing Opposition	View Ballot	Shuvam MitraⒸ , Jade ShawⓉ
+Am I adorable?	2nd	Closing Government	View Ballot	Shuvam MitraⒸ , Jade ShawⓉ
+Father Bostan	1st	Opening Opposition	View Ballot	Shuvam MitraⒸ , Jade ShawⓉ
+Lay Flat	4th	Opening Government	View Ballot	Shuvam MitraⒸ , Jade ShawⓉ
+Me When	4th	Closing Opposition	View Ballot	Pranav AnandⒸ , Ogundare Taye Tobi
+Making questionable decisions every	3rd	Closing Government	View Ballot	Pranav AnandⒸ , Ogundare Taye Tobi
+Hammering Yall&#x27;s Epistemics	1st	Opening Opposition	View Ballot	Pranav AnandⒸ , Ogundare Taye Tobi
+rawr	2nd	Opening Government	View Ballot	Pranav AnandⒸ , Ogundare Taye Tobi
+CWSDC MA	2nd	Closing Opposition	View Ballot	Daisy SunⒸ , Devashish Trivedi
+NUS LT	1st	Closing Government	View Ballot	Daisy SunⒸ , Devashish Trivedi
+Kandyland	4th	Opening Opposition	View Ballot	Daisy SunⒸ , Devashish Trivedi
+feminisht princhessus	3rd	Opening Government	View Ballot	Daisy SunⒸ , Devashish Trivedi
+Double WHIPS	4th	Closing Opposition	View Ballot	Srijan PoudelⒸ
+Ronaldo Suwi	2nd	Closing Government	View Ballot	Srijan PoudelⒸ
+Defenestrators	1st	Opening Opposition	View Ballot	Srijan PoudelⒸ
+What We Got	3rd	Opening Government	View Ballot	Srijan PoudelⒸ
+Debate for Love Team	3rd	Closing Opposition	View Ballot	Saugat PokharelⒸ
+Team Macau Dev HY	4th	Closing Government	View Ballot	Saugat PokharelⒸ
+Team Macau Dev TT	2nd	Opening Opposition	View Ballot	Saugat PokharelⒸ
+Shuank Q	1st	Opening Government	View Ballot	Saugat PokharelⒸ
+Still Life 1487	3rd	Closing Opposition	View Ballot	Tamkeen NawabⒸ
+we know what you posted on facebook	1st	Closing Government	View Ballot	Tamkeen NawabⒸ
+AC	4th	Opening Opposition	View Ballot	Tamkeen NawabⒸ
+Swirling darkness	2nd	Opening Government	View Ballot	Tamkeen NawabⒸ
+NNU Plus One	2nd	Closing Opposition	View Ballot	Vansh ChadhaⒸ
+Manphia	3rd	Closing Government	View Ballot	Vansh ChadhaⒸ
+Swky	1st	Opening Opposition	View Ballot	Vansh ChadhaⒸ
+THW Ban Dihydro Monoxide	4th	Opening Government	View Ballot	Vansh ChadhaⒸ
+Benchwarmers	1st	Closing Opposition	View Ballot	Pranav KagalkarⒸ
+This Shanghainese get Shanghai&#x27;ed t	4th	Closing Government	View Ballot	Pranav KagalkarⒸ
+CWSDC BC	2nd	Opening Opposition	View Ballot	Pranav KagalkarⒸ
+2 Parks 0 Professors	3rd	Opening Government	View Ballot	Pranav KagalkarⒸ
+FUV	2nd	Closing Opposition	View Ballot	Utkarsh PandeyⒸ
+CWSDC GA	1st	Closing Government	View Ballot	Utkarsh PandeyⒸ
+idk	3rd	Opening Opposition	View Ballot	Utkarsh PandeyⒸ
+3rd is satisfying	4th	Opening Government	View Ballot	Utkarsh PandeyⒸ
+Candy Crush	3rd	Closing Opposition	View Ballot	Xiaochun “Jennette” ZhuⒸ , Diether
+Forda compete ang fersons	1st	Closing Government	View Ballot	Xiaochun “Jennette” ZhuⒸ , Diether
+Kandy A	2nd	Opening Opposition	View Ballot	Xiaochun “Jennette” ZhuⒸ , Diether
+rich era when	4th	Opening Government	View Ballot	Xiaochun “Jennette” ZhuⒸ , Diether
+Korea-Japan Collab in Europe	2nd	Closing Opposition	View Ballot	Tengku OmarⒸ , Kyle Go
+I Ordered Affogato and They Gave Me	1st	Closing Government	View Ballot	Tengku OmarⒸ , Kyle Go
+muffins are sad cupcakes	4th	Opening Opposition	View Ballot	Tengku OmarⒸ , Kyle Go
+I Draw the Line at Incels	3rd	Opening Government	View Ballot	Tengku OmarⒸ , Kyle Go
+Wabi Sabi	4th	Closing Opposition	View Ballot	Chinmaya MohanⒸ , Joy Hadome
+Osaka A	1st	Closing Government	View Ballot	Chinmaya MohanⒸ , Joy Hadome
+You know what	2nd	Opening Opposition	View Ballot	Chinmaya MohanⒸ , Joy Hadome
+NUS TD	3rd	Opening Government	View Ballot	Chinmaya MohanⒸ , Joy Hadome
+shipping is happiness	2nd	Closing Opposition	View Ballot	Halimat Ojone UsmanⒸ
+CWSDC AT	1st	Closing Government	View Ballot	Halimat Ojone UsmanⒸ
+Malaysia Folklore	4th	Opening Opposition	View Ballot	Halimat Ojone UsmanⒸ
+Neversober	3rd	Opening Government	View Ballot	Halimat Ojone UsmanⒸ
+SpongeBob	4th	Closing Opposition	View Ballot	Ralph LeeⒸ
+FL Clover	1st	Closing Government	View Ballot	Ralph LeeⒸ
+SISU stray girls	2nd	Opening Opposition	View Ballot	Ralph LeeⒸ
+Don&#x27;t Judge	3rd	Opening Government	View Ballot	Ralph LeeⒸ
+We don&#x27;t cook we don&#x27;t clean	1st	Closing Opposition	View Ballot	Tawfique ElahiⒸ
+Team Macau Dev MM	3rd	Closing Government	View Ballot	Tawfique ElahiⒸ
+POI in the Chat	4th	Opening Opposition	View Ballot	Tawfique ElahiⒸ
+Jimei	2nd	Opening Government	View Ballot	Tawfique ElahiⒸ
+Big smart eggs	3rd	Closing Opposition	View Ballot	NemoⒸ
+Grass Connoisseurs	4th	Closing Government	View Ballot	NemoⒸ
+we take pois personally	1st	Opening Opposition	View Ballot	NemoⒸ
+Wayward Ribs	2nd	Opening Government	View Ballot	NemoⒸ
+
+
+team	result	side	adjudicators
+Girlboos	eliminated	Closing Opposition	Devashish TrivediⒸ , Ogundare Taye Tobi , Olja
+CWSDC HK	eliminated	Closing Government	Devashish TrivediⒸ , Ogundare Taye Tobi , Olja
+Benchwarmers	advancing	Opening Opposition	Devashish TrivediⒸ , Ogundare Taye Tobi , Olja
+Blissful New World	advancing	Opening Government	Devashish TrivediⒸ , Ogundare Taye Tobi , Olja
+No Sleep Schedule	eliminated	Closing Opposition	Rahul DattaⒸ , Beatrice Cuizon , Chinmaya Mohan
+CWSDC BC	eliminated	Closing Government	Rahul DattaⒸ , Beatrice Cuizon , Chinmaya Mohan
+TC DBSK	advancing	Opening Opposition	Rahul DattaⒸ , Beatrice Cuizon , Chinmaya Mohan
+NUS LT	advancing	Opening Government	Rahul DattaⒸ , Beatrice Cuizon , Chinmaya Mohan
+Cat grill friend	advancing	Closing Opposition	Kyle GoⒸ , Pranav Anand , Rushdoon Ahmed
+CWSDC MA	eliminated	Closing Government	Kyle GoⒸ , Pranav Anand , Rushdoon Ahmed
+MWBD	advancing	Opening Opposition	Kyle GoⒸ , Pranav Anand , Rushdoon Ahmed
+Swirling darkness	eliminated	Opening Government	Kyle GoⒸ , Pranav Anand , Rushdoon Ahmed
+Zagreb A(lternate Universe)	advancing	Closing Opposition	BoemoⒸ , Tengku Omar , Toru Oga
+I Draw the Line at Incels	eliminated	Closing Government	BoemoⒸ , Tengku Omar , Toru Oga
+Table L is the Best L	advancing	Opening Opposition	BoemoⒸ , Tengku Omar , Toru Oga
+Making questionable decisions every	eliminated	Opening Government	BoemoⒸ , Tengku Omar , Toru Oga
+Lil K &amp; Shawty	eliminated	Closing Opposition	NemoⒸ , Adel Mostaque Ahmed , Ralph Lee
+rawr	advancing	Closing Government	NemoⒸ , Adel Mostaque Ahmed , Ralph Lee
+Ateneo BC	advancing	Opening Opposition	NemoⒸ , Adel Mostaque Ahmed , Ralph Lee
+Me When	eliminated	Opening Government	NemoⒸ , Adel Mostaque Ahmed , Ralph Lee
+Korea-Japan Collab in Europe	eliminated	Closing Opposition	Vladimira ŠuflajⒸ , Anshuman Mishra , Tawfique Elahi
+Hammering Yall&#x27;s Epistemics	advancing	Closing Government	Vladimira ŠuflajⒸ , Anshuman Mishra , Tawfique Elahi
+Osaka A	eliminated	Opening Opposition	Vladimira ŠuflajⒸ , Anshuman Mishra , Tawfique Elahi
+DAV Jagerbomb	advancing	Opening Government	Vladimira ŠuflajⒸ , Anshuman Mishra , Tawfique Elahi
+Malaysia Midnights	eliminated	Closing Opposition	Ryosei KobayashiⒸ , Ruth Selorme Acolatse , Yash Chaturvedi
+1.5 Malaysians	advancing	Closing Government	Ryosei KobayashiⒸ , Ruth Selorme Acolatse , Yash Chaturvedi
+we know what you posted on facebook	eliminated	Opening Opposition	Ryosei KobayashiⒸ , Ruth Selorme Acolatse , Yash Chaturvedi
+I Ordered Affogato and They Gave Me	advancing	Opening Government	Ryosei KobayashiⒸ , Ruth Selorme Acolatse , Yash Chaturvedi
+21 Chump Street	advancing	Closing Opposition	Prashasti SaxenaⒸ , Erasmus Segbefia , Utkarsh Pandey
+UPD GL	advancing	Closing Government	Prashasti SaxenaⒸ , Erasmus Segbefia , Utkarsh Pandey
+UZ	eliminated	Opening Opposition	Prashasti SaxenaⒸ , Erasmus Segbefia , Utkarsh Pandey
+2 Parks 0 Professors	eliminated	Opening Government	Prashasti SaxenaⒸ , Erasmus Segbefia , Utkarsh Pandey
+
+
+team	result	side	adjudicators
+1.5 Malaysians	advancing	Closing Opposition	Pranav AnandⒸ , Daisy Sun , Devashish Trivedi , Joy Hadome , Kyle Go
+I Ordered Affogato and They Gave Me	eliminated	Closing Government	Pranav AnandⒸ , Daisy Sun , Devashish Trivedi , Joy Hadome , Kyle Go
+Table L is the Best L	eliminated	Opening Opposition	Pranav AnandⒸ , Daisy Sun , Devashish Trivedi , Joy Hadome , Kyle Go
+Zagreb A(lternate Universe)	advancing	Opening Government	Pranav AnandⒸ , Daisy Sun , Devashish Trivedi , Joy Hadome , Kyle Go
+Blissful New World	eliminated	Closing Opposition	Tengku OmarⒸ , Ayafa Tonye , Nemo , Rushdoon Ahmed , Toru Oga
+Benchwarmers	advancing	Closing Government	Tengku OmarⒸ , Ayafa Tonye , Nemo , Rushdoon Ahmed , Toru Oga
+DAV Jagerbomb	eliminated	Opening Opposition	Tengku OmarⒸ , Ayafa Tonye , Nemo , Rushdoon Ahmed , Toru Oga
+Hammering Yall&#x27;s Epistemics	advancing	Opening Government	Tengku OmarⒸ , Ayafa Tonye , Nemo , Rushdoon Ahmed , Toru Oga
+NUS LT	advancing	Closing Opposition	Chinmaya MohanⒸ , Mehul Joshi , Shudipto , Srijan Poudel , Xiaochun “Jennette” Zhu
+MWBD	eliminated	Closing Government	Chinmaya MohanⒸ , Mehul Joshi , Shudipto , Srijan Poudel , Xiaochun “Jennette” Zhu
+TC DBSK	eliminated	Opening Opposition	Chinmaya MohanⒸ , Mehul Joshi , Shudipto , Srijan Poudel , Xiaochun “Jennette” Zhu
+Cat grill friend	advancing	Opening Government	Chinmaya MohanⒸ , Mehul Joshi , Shudipto , Srijan Poudel , Xiaochun “Jennette” Zhu
+UPD GL	advancing	Closing Opposition	Davida PaulⒸ , Rahul Datta , Ralph Lee , Saugat Pokharel , Tamkeen Nawab
+Ateneo BC	eliminated	Closing Government	Davida PaulⒸ , Rahul Datta , Ralph Lee , Saugat Pokharel , Tamkeen Nawab
+rawr	eliminated	Opening Opposition	Davida PaulⒸ , Rahul Datta , Ralph Lee , Saugat Pokharel , Tamkeen Nawab
+21 Chump Street	advancing	Opening Government	Davida PaulⒸ , Rahul Datta , Ralph Lee , Saugat Pokharel , Tamkeen Nawab
+
+
+team	result	side	adjudicators
+UPD GL	advancing	Closing Opposition	Beatrice CuizonⒸ , Ayodele Samuel , Chinmaya Mohan , Devashish Trivedi , Joy Hadome , Shudipto , Vladimira Šuflaj
+NUS LT	advancing	Closing Government	Beatrice CuizonⒸ , Ayodele Samuel , Chinmaya Mohan , Devashish Trivedi , Joy Hadome , Shudipto , Vladimira Šuflaj
+21 Chump Street	eliminated	Opening Opposition	Beatrice CuizonⒸ , Ayodele Samuel , Chinmaya Mohan , Devashish Trivedi , Joy Hadome , Shudipto , Vladimira Šuflaj
+Cat grill friend	eliminated	Opening Government	Beatrice CuizonⒸ , Ayodele Samuel , Chinmaya Mohan , Devashish Trivedi , Joy Hadome , Shudipto , Vladimira Šuflaj
+1.5 Malaysians	eliminated	Closing Opposition	Ruth Selorme AcolatseⒸ , Anshuman Mishra , Banun Sabri , Jonathan Tuliao , Kyle Go , Ryosei Kobayashi , Vansh Chadha
+Zagreb A(lternate Universe)	advancing	Closing Government	Ruth Selorme AcolatseⒸ , Anshuman Mishra , Banun Sabri , Jonathan Tuliao , Kyle Go , Ryosei Kobayashi , Vansh Chadha
+Benchwarmers	eliminated	Opening Opposition	Ruth Selorme AcolatseⒸ , Anshuman Mishra , Banun Sabri , Jonathan Tuliao , Kyle Go , Ryosei Kobayashi , Vansh Chadha
+Hammering Yall&#x27;s Epistemics	advancing	Opening Government	Ruth Selorme AcolatseⒸ , Anshuman Mishra , Banun Sabri , Jonathan Tuliao , Kyle Go , Ryosei Kobayashi , Vansh Chadha
+
+
+team	result	side	adjudicators
+Hammering Yall&#x27;s Epistemics	eliminated	Closing Opposition	Ruth Selorme AcolatseⒸ , Beatrice Cuizon , Chinmaya Mohan , Davida Paul , NJUGUNA MACHARIA , Prashasti Saxena , Ryosei Kobayashi , Srijan Poudel , Tengku Omar
+Zagreb A(lternate Universe)	eliminated	Closing Government	Ruth Selorme AcolatseⒸ , Beatrice Cuizon , Chinmaya Mohan , Davida Paul , NJUGUNA MACHARIA , Prashasti Saxena , Ryosei Kobayashi , Srijan Poudel , Tengku Omar
+UPD GL	advancing	Opening Opposition	Ruth Selorme AcolatseⒸ , Beatrice Cuizon , Chinmaya Mohan , Davida Paul , NJUGUNA MACHARIA , Prashasti Saxena , Ryosei Kobayashi , Srijan Poudel , Tengku Omar
+NUS LT	eliminated	Opening Government	Ruth Selorme AcolatseⒸ , Beatrice Cuizon , Chinmaya Mohan , Davida Paul , NJUGUNA MACHARIA , Prashasti Saxena , Ryosei Kobayashi , Srijan Poudel , Tengku Omar
+
+
+team	result	side	adjudicators
+CWSDC AV	eliminated	Closing Opposition	Xiaochun “Jennette” ZhuⒸ , Ayodele Samuel , Vansh Chadha
+Pls have mercy on us	advancing	Closing Government	Xiaochun “Jennette” ZhuⒸ , Ayodele Samuel , Vansh Chadha
+CWSDC AT	eliminated	Opening Opposition	Xiaochun “Jennette” ZhuⒸ , Ayodele Samuel , Vansh Chadha
+CWSDC AJ	advancing	Opening Government	Xiaochun “Jennette” ZhuⒸ , Ayodele Samuel , Vansh Chadha
+Hsejar	advancing	Closing Opposition	Saugat PokharelⒸ , Mehul Joshi , Owolabi Victor Oluwatobi
+Not Breaking Not Broken	eliminated	Closing Government	Saugat PokharelⒸ , Mehul Joshi , Owolabi Victor Oluwatobi
+muffins are sad cupcakes	advancing	Opening Opposition	Saugat PokharelⒸ , Mehul Joshi , Owolabi Victor Oluwatobi
+rampage	eliminated	Opening Government	Saugat PokharelⒸ , Mehul Joshi , Owolabi Victor Oluwatobi
+You know what	eliminated	Closing Opposition	Joy HadomeⒸ , Shifatul Ahsan Apurba , Srijan Poudel
+prowlin pogchamp	advancing	Closing Government	Joy HadomeⒸ , Shifatul Ahsan Apurba , Srijan Poudel
+Unbroke	eliminated	Opening Opposition	Joy HadomeⒸ , Shifatul Ahsan Apurba , Srijan Poudel
+Still Life 1487	advancing	Opening Government	Joy HadomeⒸ , Shifatul Ahsan Apurba , Srijan Poudel
+bmarin kitagawa	advancing	Closing Opposition	Daud LoudoeⒸ , Ayafa Tonye , Shuvam Mitra
+Should&#x27;ve Broke Second	eliminated	Closing Government	Daud LoudoeⒸ , Ayafa Tonye , Shuvam Mitra
+Kandyland	advancing	Opening Opposition	Daud LoudoeⒸ , Ayafa Tonye , Shuvam Mitra
+feminisht princhessus	eliminated	Opening Government	Daud LoudoeⒸ , Ayafa Tonye , Shuvam Mitra
+
+
+team	result	side	adjudicators
+Still Life 1487	eliminated	Closing Opposition	Yash ChaturvediⒸ , Adel Mostaque Ahmed , Erasmus Segbefia , Prashasti Saxena , Utkarsh Pandey
+prowlin pogchamp	advancing	Closing Government	Yash ChaturvediⒸ , Adel Mostaque Ahmed , Erasmus Segbefia , Prashasti Saxena , Utkarsh Pandey
+muffins are sad cupcakes	advancing	Opening Opposition	Yash ChaturvediⒸ , Adel Mostaque Ahmed , Erasmus Segbefia , Prashasti Saxena , Utkarsh Pandey
+Hsejar	eliminated	Opening Government	Yash ChaturvediⒸ , Adel Mostaque Ahmed , Erasmus Segbefia , Prashasti Saxena , Utkarsh Pandey
+Pls have mercy on us	advancing	Closing Opposition	Jonathan TuliaoⒸ , Anshuman Mishra , Owolabi Victor Oluwatobi , Shifatul Ahsan Apurba , Vladimira Šuflaj
+bmarin kitagawa	eliminated	Closing Government	Jonathan TuliaoⒸ , Anshuman Mishra , Owolabi Victor Oluwatobi , Shifatul Ahsan Apurba , Vladimira Šuflaj
+CWSDC AJ	advancing	Opening Opposition	Jonathan TuliaoⒸ , Anshuman Mishra , Owolabi Victor Oluwatobi , Shifatul Ahsan Apurba , Vladimira Šuflaj
+Kandyland	eliminated	Opening Government	Jonathan TuliaoⒸ , Anshuman Mishra , Owolabi Victor Oluwatobi , Shifatul Ahsan Apurba , Vladimira Šuflaj
+
+
+team	result	side	adjudicators
+muffins are sad cupcakes	eliminated	Closing Opposition	OljaⒸ , Boemo , Daud Loudoe , Pranav Anand , Tamkeen Nawab , Xiaochun “Jennette” Zhu , Yash Chaturvedi
+Pls have mercy on us	eliminated	Closing Government	OljaⒸ , Boemo , Daud Loudoe , Pranav Anand , Tamkeen Nawab , Xiaochun “Jennette” Zhu , Yash Chaturvedi
+CWSDC AJ	eliminated	Opening Opposition	OljaⒸ , Boemo , Daud Loudoe , Pranav Anand , Tamkeen Nawab , Xiaochun “Jennette” Zhu , Yash Chaturvedi
+prowlin pogchamp	advancing	Opening Government	OljaⒸ , Boemo , Daud Loudoe , Pranav Anand , Tamkeen Nawab , Xiaochun “Jennette” Zhu , Yash Chaturvedi
+

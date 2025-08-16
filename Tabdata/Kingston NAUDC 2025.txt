@@ -1,0 +1,1204 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	R6	R7	Pts	Spk	1sts	2nds	DS
+1	Stanford 6		1st	2nd	2nd	1st	1st	1st	1st	19	1150	5	2	280
+2	McGill 2		1st	1st	3rd	1st	1st	2nd	2nd	17	1139	4	2	285
+3	Stanford 1		1st	2nd	2nd	3rd	2nd	1st	1st	16	1143	3	3	274
+4	McGill 1		1st	3rd	1st	1st	2nd	1st	3rd	16	1125	4	1	281
+5	EDS 1		2nd	2nd	1st	2nd	1st	2nd	2nd	16	1124	2	5	256
+6	Hart House 1		1st	1st	4th	1st	1st	3rd	2nd	15	1130	4	1	278
+7	Harvard 3		1st	2nd	1st	4th	1st	3rd	1st	15	1117	4	1	239
+8	Columbia 1		1st	3rd	1st	3rd	2nd	2nd	1st	15	1111	3	2	258
+9	UCLA 1		3rd	1st	3rd	2nd	1st	2nd	1st	15	1081	3	2	223
+10	Harvard 1		2nd	1st	2nd	1st	3rd	1st	4th	14	1120	3	2	270
+11	Harvard 4		1st	1st	1st	2nd	2nd	4th	3rd	14	1118	3	2	286
+12	Stanford 5		3rd	2nd	1st	1st	4th	1st	2nd	14	1110	3	2	235
+13	Stanford 2		1st	1st	4th	2nd	1st	2nd	3rd	14	1103	3	2	262
+14	Rochester 1		1st	2nd	1st	1st	4th	1st	4th	14	1100	4	1	289
+15	Berkeley 1		2nd	2nd	1st	3rd	1st	3rd	2nd	14	1088	2	3	242
+16	Pennsylvania 1	Novice	4th	—	2nd	1st	1st	1st	1st	14	955	4	1	182
+17	Chicago 1		—	4th	1st	1st	2nd	1st	1st	14	951	4	1	180
+18	Princeton 3		1st	1st	1st	3rd	3rd	3rd	3rd	13	1120	3	0	289
+19	Harvard 2		1st	1st	3rd	2nd	4th	2nd	2nd	13	1120	2	3	290
+20	Cornell 2	Novice	2nd	1st	3rd	1st	4th	1st	3rd	13	1101	3	1	249
+21	Hart House 3		1st	4th	3rd	2nd	2nd	1st	2nd	13	1101	2	3	247
+22	McGill 4		2nd	1st	2nd	4th	3rd	2nd	1st	13	1096	2	3	234
+23	Northwestern 1		2nd	1st	4th	1st	3rd	3rd	1st	13	1077	3	1	245
+24	Hart House 9		2nd	3rd	2nd	2nd	1st	4th	1st	13	1077	2	3	236
+25	Yale 1		3rd	2nd	1st	4th	1st	2nd	2nd	13	1073	2	3	219
+26	JHU 1		1st	4th	4th	1st	2nd	2nd	1st	13	1069	3	2	226
+27	Stanford 4	Novice	4th	1st	4th	1st	1st	3rd	1st	13	1062	4	0	206
+28	Queen&#x27;s 5		1st	3rd	1st	3rd	2nd	2nd	4th	12	1105	2	2	265
+29	Columbia 2		2nd	2nd	2nd	2nd	3rd	3rd	2nd	12	1103	0	5	245
+30	UBC 1		3rd	1st	1st	4th	2nd	2nd	3rd	12	1096	2	2	239
+31	Hart House 2		2nd	2nd	3rd	1st	1st	4th	3rd	12	1095	2	2	256
+32	Calgary 1		2nd	4th	2nd	1st	2nd	4th	1st	12	1092	2	3	223
+33	Hart House 8	Novice	2nd	3rd	1st	1st	3rd	3rd	3rd	12	1086	2	1	230
+34	Western 3		3rd	1st	3rd	1st	3rd	1st	4th	12	1081	3	0	240
+35	Dartmouth 2	Novice	2nd	2nd	4th	3rd	2nd	1st	2nd	12	1080	1	4	210
+36	USC 3		3rd	1st	4th	2nd	2nd	1st	3rd	12	1079	2	2	219
+37	McGill 6	Novice	3rd	2nd	2nd	3rd	1st	1st	4th	12	1073	2	2	240
+38	Alberta 3		2nd	1st	3rd	4th	3rd	2nd	1st	12	1072	2	2	220
+39	Yale 2		1st	3rd	2nd	3rd	3rd	2nd	2nd	12	1060	1	3	239
+40	HWS 5		4th	4th	3rd	1st	1st	1st	2nd	12	1050	3	1	189
+41	Princeton 7	Novice	2nd	3rd	4th	4th	1st	1st	1st	12	1034	3	1	187
+42	Swing 1		2nd	—	1st	4th	1st	3rd	1st	12	917	3	1	187
+43	Waterloo 1		1st	2nd	2nd	4th	2nd	4th	2nd	11	1094	1	4	261
+44	McGill 3		2nd	3rd	3rd	1st	3rd	1st	4th	11	1092	2	1	241
+45	Western 1		4th	1st	3rd	1st	4th	3rd	1st	11	1089	3	0	201
+46	Queen&#x27;s 1		1st	2nd	4th	2nd	1st	3rd	4th	11	1084	2	2	244
+47	Yale 4		3rd	1st	2nd	2nd	3rd	2nd	4th	11	1083	1	3	259
+48	USC 2	Novice	1st	3rd	2nd	2nd	4th	2nd	3rd	11	1082	1	3	229
+49	Waterloo 2		3rd	1st	1st	2nd	2nd	4th	4th	11	1075	2	2	264
+50	EDS 3	Novice	3rd	3rd	2nd	4th	1st	1st	3rd	11	1071	2	1	199
+51	Berkeley 4		3rd	2nd	3rd	3rd	1st	3rd	2nd	11	1065	1	2	224
+52	Queen&#x27;s 2		3rd	4th	1st	1st	4th	2nd	2nd	11	1062	2	2	199
+53	Carleton 2	Novice	2nd	4th	1st	1st	4th	4th	1st	11	1060	3	1	217
+54	EDS 2		1st	4th	1st	4th	4th	1st	2nd	11	1050	3	1	222
+55	Middlebury 3	Novice	1st	3rd	4th	2nd	3rd	3rd	1st	11	1040	2	1	223
+56	Hart House 5		1st	—	4th	2nd	2nd	3rd	1st	11	902	2	2	179
+57	Western 4	Novice	4th	1st	1st	2nd	4th	3rd	3rd	10	1088	2	1	239
+58	Hart House 4		1st	4th	2nd	3rd	1st	3rd	4th	10	1078	2	1	237
+59	Yale 3	Novice	3rd	3rd	1st	1st	2nd	4th	4th	10	1075	2	1	232
+60	UBC 3		3rd	1st	4th	4th	3rd	2nd	1st	10	1073	2	1	194
+61	Queen&#x27;s 4	Novice	4th	1st	2nd	4th	4th	1st	2nd	10	1069	2	2	187
+62	UBC 2		1st	4th	3rd	1st	3rd	4th	2nd	10	1064	2	1	221
+63	Dartmouth 1		2nd	3rd	2nd	3rd	1st	4th	3rd	10	1064	1	2	237
+64	Queen&#x27;s 3	Novice	4th	1st	2nd	3rd	3rd	2nd	3rd	10	1063	1	2	212
+65	Middlebury 1		4th	2nd	3rd	2nd	3rd	3rd	1st	10	1063	1	2	194
+66	Alberta 7		4th	1st	3rd	4th	1st	1st	4th	10	1036	3	0	212
+67	Princeton 5	Novice	2nd	4th	2nd	2nd	4th	1st	3rd	10	1032	1	3	215
+68	Berkeley 3		3rd	3rd	1st	2nd	4th	2nd	3rd	10	1028	1	2	219
+69	Brown 1		3rd	—	1st	2nd	2nd	4th	2nd	10	919	1	3	187
+70	USC 1		2nd	1st	4th	4th	2nd	4th	2nd	9	1069	1	3	212
+71	Hart House 7		1st	4th	1st	4th	4th	2nd	3rd	9	1066	2	1	217
+72	Hart House 11		2nd	3rd	4th	2nd	1st	4th	3rd	9	1060	1	2	212
+73	Alberta 2		2nd	4th	3rd	2nd	4th	3rd	1st	9	1058	1	2	184
+74	Waterloo 3	Novice	3rd	2nd	1st	3rd	3rd	4th	3rd	9	1058	1	1	223
+75	Western 2		3rd	3rd	2nd	3rd	3rd	2nd	3rd	9	1048	0	2	192
+76	Northwestern 2		4th	3rd	2nd	3rd	3rd	2nd	2nd	9	1045	0	3	190
+77	Cornell 3	Novice	3rd	1st	2nd	4th	4th	1st	4th	9	1042	2	1	206
+78	TEC CEM 1		4th	3rd	2nd	1st	4th	4th	1st	9	1040	2	1	199
+79	McGill 5	Novice	3rd	4th	1st	3rd	2nd	4th	2nd	9	1026	1	2	200
+80	Berkeley 2		4th	2nd	4th	1st	4th	3rd	1st	9	1020	2	1	175
+81	Calgary 2		2nd	2nd	3rd	2nd	4th	4th	2nd	9	1014	0	4	216
+82	Chicago 2	Novice	—	2nd	2nd	3rd	1st	3rd	4th	9	909	1	2	174
+83	Princeton 6		2nd	2nd	4th	4th	2nd	3rd	3rd	8	1062	0	3	215
+84	Western 5	Novice	2nd	4th	1st	3rd	2nd	4th	4th	8	1052	1	2	213
+85	UCLA 2		1st	2nd	3rd	3rd	4th	3rd	4th	8	1052	1	1	238
+86	Princeton 2	Novice	1st	3rd	3rd	4th	3rd	2nd	4th	8	1050	1	1	224
+87	HWS 4		3rd	3rd	4th	2nd	2nd	2nd	4th	8	1044	0	3	180
+88	Western 6	Novice	3rd	3rd	4th	4th	1st	1st	4th	8	1039	2	0	178
+89	Cornell 1		3rd	2nd	4th	1st	3rd	4th	3rd	8	1033	1	1	211
+90	Queen&#x27;s 6		2nd	4th	3rd	4th	4th	2nd	1st	8	1032	1	2	191
+91	Dartmouth 3	Novice	4th	2nd	4th	4th	2nd	1st	3rd	8	1023	1	2	171
+92	Swarthmore 2	Novice	2nd	3rd	3rd	4th	2nd	4th	2nd	8	1023	0	3	190
+93	Carleton 1		4th	3rd	3rd	4th	4th	1st	1st	8	1007	2	0	153
+94	Swing 2		4th	—	—	—	1st	1st	2nd	8	605	2	1	71
+95	Calgary 6	Novice	4th	3rd	4th	2nd	3rd	1st	4th	7	1037	1	1	169
+96	Middlebury 2	Novice	1st	4th	2nd	4th	4th	4th	2nd	7	1034	1	2	211
+97	Calgary 3		4th	2nd	3rd	2nd	3rd	4th	3rd	7	1030	0	2	193
+98	Alberta 5	Novice	4th	4th	4th	4th	2nd	2nd	1st	7	1015	1	2	157
+99	Swarthmore 1		4th	3rd	2nd	4th	3rd	2nd	3rd	7	1012	0	2	173
+100	HWS 3	Novice	4th	2nd	4th	3rd	1st	3rd	4th	7	1007	1	1	194
+101	Calgary 4		2nd	4th	3rd	3rd	4th	3rd	3rd	6	1028	0	1	190
+102	Alberta 1		4th	3rd	3rd	3rd	2nd	3rd	4th	6	1020	0	1	181
+103	HWS 2	Novice	4th	4th	1st	3rd	4th	4th	2nd	6	1018	1	1	160
+104	UBC 4	Novice	4th	1st	4th	3rd	2nd	4th	4th	6	1006	1	1	192
+105	Alberta 6	Novice	3rd	4th	2nd	4th	2nd	3rd	4th	6	1004	0	2	186
+106	Carleton 3	Novice	4th	4th	3rd	1st	3rd	4th	4th	5	1013	1	0	163
+107	Rochester 2	Novice	4th	4th	2nd	2nd	3rd	4th	4th	5	1012	0	2	169
+108	Calgary 5	Novice	3rd	4th	3rd	3rd	4th	3rd	3rd	5	994	0	0	184
+109	Colby 1		4th	3rd	4th	3rd	3rd	2nd	4th	5	987	0	1	165
+110	HWS 1		3rd	4th	4th	2nd	4th	4th	3rd	4	986	0	1	158
+111	Columbia 3	Novice	3rd	4th	4th	4th	4th	3rd	2nd	4	980	0	1	153
+112	Stanford 3		4th	2nd	3rd	3rd	—	—	—	4	609	0	1	119
+113	HWS 6		4th	4th	4th	3rd	3rd	4th	4th	2	970	0	0	154
+114	Swing 3		3rd	—	—	—	—	—	—	1	153	0	0	30
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	R6	R7	Total	Stdev	Avg
+1	Amitai Ben Porat		Stanford 6	82	83	81	81	83	83	83	576	0.88	82.29
+2	Matt Mauriello		Stanford 6	81	83	81	82	83	83	81	574	0.93	82.00
+3	Tejas Subramaniam		Stanford 1	81	80	81	81	83	83	84	573	1.36	81.86
+4=	Jacob Silcoff		McGill 2	79	79	80	85	83	83	81	570	2.13	81.43
+4=	Elizabeth Li		Stanford 1	81	78	81	83	82	82	83	570	1.59	81.43
+6	Anders Woodruff		McGill 2	80	78	81	85	82	82	81	569	1.98	81.29
+7=	Arpi Yang		Hart House 1	81	83	78	82	83	80	79	566	1.81	80.86
+7=	Jaleelah Ammar		EDS 1	80	79	81	81	84	81	80	566	1.46	80.86
+9=	Karel Brandenbarg		McGill 1	81	80	81	79	81	83	79	564	1.29	80.57
+9=	Adam Banihani		Hart House 1	81	83	78	81	84	79	78	564	2.19	80.57
+11	Jenna Hong		Harvard 2	79	84	81	84	76	81	78	563	2.77	80.43
+12=	Ananya Ganesh		Harvard 1	80	84	81	81	80	80	75	561	2.47	80.14
+12=	Ted Chang		Harvard 3	82	81	81	77	82	76	82	561	2.36	80.14
+12=	Eve Pigat		McGill 1	81	80	79	79	80	81	81	561	0.83	80.14
+12=	Rahul Kalavagunta		Princeton 3	83	82	82	78	80	79	77	561	2.10	80.14
+16=	Tanya Chatterjee		Columbia 1	80	79	83	78	78	78	84	560	2.33	80.00
+16=	Stephanie Chen		Harvard 4	80	84	82	79	81	79	75	560	2.62	80.00
+18=	Molly Callaghan		Harvard 1	79	83	81	81	79	81	75	559	2.36	79.86
+18=	Tarun Ruschmeier		Princeton 3	83	81	82	78	77	80	78	559	2.10	79.86
+20=	Sajid Farook		Stanford 5	80	78	79	83	76	80	82	558	2.19	79.71
+20=	Ambika Grover		Harvard 4	81	83	82	78	80	79	75	558	2.49	79.71
+20=	Anais Kneppers		EDS 1	78	79	80	80	83	79	79	558	1.48	79.71
+23	Daniel Sheremeta		Harvard 2	80	83	80	83	76	80	75	557	2.87	79.57
+24	Alex Lee	Novice	Harvard 3	82	80	80	77	81	75	81	556	2.32	79.43
+25	Victor Tong		Columbia 2	78	79	80	80	77	80	80	554	1.12	79.14
+26	Robert Howden		Queen&#x27;s 5	81	78	81	78	80	79	76	553	1.69	79.00
+27=	Muhammad Dhafer		Stanford 5	77	77	79	81	76	80	82	552	2.10	78.86
+27=	Soren Jensen	Novice	Cornell 2	77	80	79	78	75	83	80	552	2.36	78.86
+27=	Vijay Tupper		McGill 4	80	80	78	75	79	78	82	552	2.03	78.86
+27=	Seamus Allen		Stanford 2	83	77	79	79	79	77	78	552	1.88	78.86
+27=	Emma Kelly		Queen&#x27;s 5	81	79	80	78	80	79	75	552	1.81	78.86
+32=	Rohan Sundaram		Columbia 1	78	78	81	78	77	76	83	551	2.25	78.71
+32=	Emma Blemaster		Stanford 2	83	78	79	80	79	75	77	551	2.31	78.71
+32=	Alex Zhu		Waterloo 1	81	77	79	77	78	79	80	551	1.39	78.71
+32=	Simon Yu		Hart House 3	79	78	80	80	76	81	77	551	1.67	78.71
+32=	Nilabh Agrawal		UBC 1	77	78	80	80	79	79	78	551	1.03	78.71
+37=	Faith Liu		Rochester 1	82	76	81	79	77	77	78	550	2.06	78.57
+37=	Charles Ndlovu		Rochester 1	80	77	82	80	77	76	78	550	1.99	78.57
+37=	David Zu		Hart House 3	79	78	78	80	76	81	78	550	1.50	78.57
+40=	Edgar Cheng	Novice	Columbia 2	76	78	79	79	78	78	81	549	1.40	78.43
+40=	Eamin Ahmed	Novice	Cornell 2	77	78	79	78	76	82	79	549	1.76	78.43
+40=	Crystal Zhang		Hart House 2	78	80	80	78	80	78	75	549	1.68	78.43
+43	Urfaan Sadid	Novice	McGill 3	80	78	77	83	75	81	74	548	3.01	78.29
+44=	Kevin Chen	Novice	Western 4	75	79	84	78	76	77	77	546	2.73	78.00
+44=	Emily Shi		Hart House 2	77	79	80	78	79	78	75	546	1.51	78.00
+44=	Andrew Liu		Western 1	78	79	76	80	78	77	78	546	1.20	78.00
+47=	Ryan Ham		Berkeley 1	77	76	78	77	80	78	79	545	1.25	77.86
+47=	Claire Chen		Queen&#x27;s 1	77	80	77	78	80	78	75	545	1.64	77.86
+47=	Sewon Jeon		UBC 1	76	78	78	78	79	79	77	545	0.99	77.86
+50=	Warren Chen		McGill 3	80	77	77	81	75	80	74	544	2.49	77.71
+50=	Bridget Li		McGill 4	78	79	77	73	78	78	81	544	2.25	77.71
+52=	Tanzim Hossain		Calgary 1	77	75	83	78	75	76	79	543	2.61	77.57
+52=	Justin Zhou		Berkeley 1	77	76	79	76	79	78	78	543	1.18	77.57
+52=	Richard Colgrove		UCLA 1	76	82	73	73	79	80	80	543	3.33	77.57
+52=	Advait Sangle		Waterloo 1	80	77	78	76	78	76	78	543	1.29	77.57
+52=	Giuseppe Di Massa	Novice	Yale 3	78	76	79	76	79	78	77	543	1.18	77.57
+52=	Sherry Shu		Western 1	78	79	74	79	78	76	79	543	1.76	77.57
+52=	Edward Wang		Western 3	76	78	78	79	79	77	76	543	1.18	77.57
+52=	Sophie Zhang	Novice	Hart House 8	79	81	76	78	78	75	76	543	1.92	77.57
+52=	Ethan Qiu	Novice	Hart House 8	79	82	77	80	77	74	74	543	2.77	77.57
+61=	Tony Chen	Novice	Western 4	76	78	82	76	77	76	77	542	1.99	77.43
+61=	William Berry		Yale 4	77	81	78	78	77	77	74	542	1.92	77.43
+61=	Sabrina Fox	Novice	USC 2	80	73	81	79	74	79	76	542	2.87	77.43
+64=	Fefe Montalvo		Yale 4	78	80	78	77	76	78	74	541	1.75	77.29
+64=	Maeve Goldman	Novice	Dartmouth 2	78	82	72	75	77	79	78	541	2.91	77.29
+66=	Taira Mehta		Waterloo 2	76	80	79	79	81	72	73	540	3.27	77.14
+66=	Ryan Buckner	Novice	USC 2	80	74	81	78	73	79	75	540	2.90	77.14
+66=	Anna Liu		USC 3	76	81	74	77	75	81	76	540	2.59	77.14
+69=	Darren Yang		Northwestern 1	78	76	76	75	76	79	79	539	1.51	77.00
+69=	Neo Way De		Hart House 4	80	77	78	80	76	73	75	539	2.39	77.00
+69=	Nimai Koneru		Hart House 4	79	77	79	77	77	75	75	539	1.51	77.00
+69=	Mahir Aziz		Hart House 9	77	76	77	77	81	73	78	539	2.20	77.00
+69=	Harshitha Dasari		USC 3	78	78	74	77	77	80	75	539	1.85	77.00
+69=	Annika Frankiss		Queen&#x27;s 1	75	80	75	77	80	78	74	539	2.27	77.00
+69=	Thien Lam Nguyen		UBC 3	75	80	78	75	74	78	79	539	2.14	77.00
+69=	Angela Zhang	Novice	Dartmouth 2	77	82	72	75	76	79	78	539	2.93	77.00
+77=	Alexa Murphy	Novice	Northwestern 1	78	78	74	75	76	77	80	538	1.88	76.86
+77=	Ellena Kim		UCLA 1	77	81	72	75	76	77	80	538	2.80	76.86
+77=	Eamon Roach		Hart House 9	78	74	77	77	81	73	78	538	2.47	76.86
+77=	Tessa Smith		Western 3	77	77	76	78	78	77	75	538	0.99	76.86
+77=	Justin Kim		Yale 1	76	78	78	75	79	76	76	538	1.36	76.86
+77=	Annie Wu	Novice	Queen&#x27;s 4	74	82	75	77	78	77	75	538	2.47	76.86
+83=	Christopher Li	Novice	McGill 6	76	76	78	76	78	79	74	537	1.58	76.71
+83=	Angad Phagura		Alberta 3	77	81	77	76	75	74	77	537	2.05	76.71
+83=	Alicia Leguizamón López	Novice	EDS 3	75	75	78	73	77	80	79	537	2.31	76.71
+86=	Eloic Malekzedah	Novice	McGill 6	77	76	78	76	77	79	73	536	1.76	76.57
+86=	Katie Jack		USC 1	76	81	74	74	80	75	76	536	2.61	76.57
+86=	Sophia Tyrrell-Knott		JHU 1	76	77	72	77	76	79	79	536	2.19	76.57
+89=	Darrius Tan	Novice	Stanford 4	74	79	72	77	78	77	78	535	2.32	76.43
+89=	Neil Roy Choudhury		Alberta 3	77	79	77	76	75	74	77	535	1.50	76.43
+89=	Elaine Zhao		Waterloo 2	77	80	78	78	80	71	71	535	3.58	76.43
+89=	Richard Kim		Yale 1	76	76	78	75	80	75	75	535	1.76	76.43
+93=	James Camp		Middlebury 1	76	76	77	77	79	76	73	534	1.67	76.29
+93=	Joseph Mai		Hart House 7	79	74	79	77	74	77	74	534	2.12	76.29
+93=	Oscar Lavitt	Novice	EDS 3	75	74	77	73	77	79	79	534	2.19	76.29
+93=	Jonathan Randall Bunjamin	Novice	UBC 3	76	80	77	75	74	77	75	534	1.83	76.29
+97=	Mya Koffie		Princeton 6	78	78	75	74	79	76	73	533	2.10	76.14
+97=	Ken Tieu		Alberta 2	80	76	76	74	77	77	73	533	2.10	76.14
+97=	Collin Goel	Novice	Berkeley 4	77	79	80	75	78	72	72	533	3.00	76.14
+97=	Hugo Kittell		USC 1	77	80	75	75	80	73	73	533	2.75	76.14
+97=	Lily Mckay-De Carvalho		Queen&#x27;s 2	76	76	78	78	70	78	77	533	2.64	76.14
+97=	Annabelle Katz		UBC 2	80	74	78	80	76	69	76	533	3.56	76.14
+97=	Michael Tsutagawa		JHU 1	76	76	72	74	76	81	78	533	2.64	76.14
+97=	Greta Batchelor	Novice	Dartmouth 1	76	77	78	73	77	76	76	533	1.46	76.14
+105=	Alex Parikh Briggs		Berkeley 4	77	78	80	75	78	72	72	532	2.88	76.00
+105=	Jaclyn Wang	Novice	Waterloo 3	75	79	79	78	74	73	74	532	2.39	76.00
+105=	Netra Easwaran		Yale 2	78	74	79	77	67	78	79	532	4.00	76.00
+105=	Kosar Hemmati		Hart House 7	81	72	78	77	74	77	73	532	2.93	76.00
+105=	Thomas André	Novice	Carleton 2	77	76	78	79	74	74	74	532	1.93	76.00
+105=	Ivan Guan	Novice	Queen&#x27;s 3	74	78	76	74	75	77	78	532	1.60	76.00
+111=	McEwen Reil		Hart House 11	78	77	74	75	81	70	76	531	3.18	75.86
+111=	Alex Wang	Novice	Queen&#x27;s 3	74	78	75	74	75	78	77	531	1.64	75.86
+111=	Simon Mackinnon	Novice	Queen&#x27;s 4	75	80	76	76	77	73	74	531	2.10	75.86
+111=	Manon Melkonyan		UBC 2	79	73	77	80	76	69	77	531	3.48	75.86
+111=	Mackenzie Wilson		Dartmouth 1	77	78	77	73	77	75	74	531	1.73	75.86
+116	Hudson Chou		HWS 5	71	74	79	73	79	77	77	530	2.86	75.71
+117=	Aria Saines		Middlebury 1	76	75	76	76	78	76	72	529	1.68	75.57
+117=	Elaine Gao	Novice	Princeton 6	76	77	75	74	77	77	73	529	1.50	75.57
+117=	Ibrahim Bilal		Hart House 11	78	76	75	75	79	71	75	529	2.38	75.57
+117=	Nirvan Bose	Novice	Western 5	76	75	78	77	73	76	74	529	1.59	75.57
+117=	Balraj Toor		Queen&#x27;s 2	75	74	78	77	72	77	76	529	1.92	75.57
+122=	Zander Jeinthanuttkanont	Novice	Yale 2	78	75	78	75	67	78	77	528	3.66	75.43
+122=	Erika Fonseca Cordeiro	Novice	Carleton 2	77	75	78	79	74	72	73	528	2.44	75.43
+124=	Haider Rizvi	Novice	Cornell 3	72	77	76	77	71	79	75	527	2.66	75.29
+124=	Sophia Kim	Novice	Stanford 4	73	78	71	75	77	75	78	527	2.43	75.29
+124=	Clarissa Zuo		UCLA 2	78	78	76	78	74	76	67	527	3.65	75.29
+127=	Skyler Shooer-Sampson	Novice	Middlebury 3	79	75	73	77	75	70	77	526	2.75	75.14
+127=	Kyla Coutts		Western 2	76	79	77	73	72	78	71	526	2.90	75.14
+127=	Nihal Ahmed	Novice	Waterloo 3	76	78	76	76	73	73	74	526	1.73	75.14
+127=	Parth Jain	Novice	Princeton 2	77	78	78	73	75	73	72	526	2.36	75.14
+131=	Natalie Roots-Nowakowski		Northwestern 2	77	75	78	69	79	75	72	525	3.25	75.00
+131=	Dhruv Kairon		Alberta 2	78	73	76	74	76	74	74	525	1.60	75.00
+131=	Caelystar Valentina Ng May Zher	Novice	UCLA 2	77	76	76	78	75	75	68	525	3.02	75.00
+131=	Yueqian Wang		EDS 2	78	76	79	72	71	74	75	525	2.73	75.00
+131=	Eric Peng		EDS 2	77	76	78	74	70	74	76	525	2.45	75.00
+136=	Jacob Franchi		HWS 4	74	78	74	76	73	76	73	524	1.73	74.86
+136=	Nathan Spencer	Novice	Princeton 2	78	78	75	73	75	73	72	524	2.23	74.86
+138	Ricky Zhou	Novice	Western 5	75	74	77	77	71	75	74	523	1.91	74.71
+139=	Jacky Li		Western 2	76	77	76	73	71	77	72	522	2.32	74.57
+139=	Esteban Valle		TEC CEM 1	76	75	77	71	73	76	74	522	1.92	74.57
+141=	Jacob Molina		Berkeley 3	77	77	76	78	70	71	72	521	3.06	74.43
+141=	Jasmeet Randhawa	Novice	Western 6	71	76	76	70	76	78	74	521	2.72	74.43
+143=	Leo Bonacci		HWS 4	73	78	74	75	73	76	71	520	2.12	74.29
+143=	Gianluca LoPorto		HWS 5	71	73	76	74	76	75	75	520	1.67	74.29
+143=	Lucas Yang		Northwestern 2	75	75	77	70	76	74	73	520	2.12	74.29
+146=	Sanjana Kumar	Novice	Princeton 7	75	77	75	67	72	78	75	519	3.40	74.14
+146=	Monmoy Maahdie		Calgary 4	79	76	75	73	68	73	75	519	3.14	74.14
+146=	Laiba Nasir	Novice	Calgary 6	71	77	76	74	75	74	72	519	1.96	74.14
+149=	Julia McCarthy	Novice	Middlebury 2	77	73	79	71	74	70	74	518	2.93	74.00
+149=	Jade Tombs		Alberta 7	74	80	76	72	75	68	73	518	3.42	74.00
+149=	Eyasu Yakob		Alberta 7	74	77	76	71	74	71	75	518	2.14	74.00
+149=	Stella Mizak	Novice	Calgary 6	73	76	75	72	75	76	71	518	1.85	74.00
+149=	Cyrus Bechtold	Novice	Western 6	70	75	75	69	76	78	75	518	3.02	74.00
+149=	Sophie Ng		Queen&#x27;s 6	78	77	72	70	70	76	75	518	3.07	74.00
+149=	Luis Marcos Villarreal Cárdenas		TEC CEM 1	76	75	74	72	73	74	74	518	1.20	74.00
+156=	Abhay Gupta		Cornell 1	76	78	71	75	75	75	67	517	3.40	73.86
+156=	Aashna Parikh	Novice	Princeton 5	77	63	75	74	74	79	75	517	4.73	73.86
+158=	William Lock		Cornell 1	76	76	71	75	76	75	67	516	3.19	73.71
+158=	Aelia Russell	Novice	Middlebury 2	77	73	77	72	74	71	72	516	2.25	73.71
+160=	Nicolas Jaimes	Novice	Cornell 3	73	78	70	75	68	76	75	515	3.25	73.57
+160=	Tanya Chawla	Novice	McGill 5	75	76	75	69	77	71	72	515	2.72	73.57
+160=	Sakshyam Pokharel	Novice	Princeton 5	76	63	75	74	74	79	74	515	4.62	73.57
+160=	Calvin Liu	Novice	Swarthmore 2	75	78	71	71	77	69	74	515	3.11	73.57
+160=	Natalie Derkowski		Calgary 3	73	76	73	75	73	75	70	515	1.84	73.57
+160=	Rikthipranadhik Mondal		Calgary 3	72	77	73	75	72	76	70	515	2.32	73.57
+166=	Kristal Lin	Novice	Middlebury 3	78	74	70	77	74	66	75	514	3.85	73.43
+166=	Olivia Tucker		Queen&#x27;s 6	78	78	71	68	71	73	75	514	3.50	73.43
+168=	Dylan Ballard	Novice	HWS 2	76	75	78	68	71	69	76	513	3.61	73.29
+168=	Randy Liu	Novice	Dartmouth 3	74	77	76	72	70	75	69	513	2.81	73.29
+170=	Amelia Taylor	Novice	McGill 5	74	76	76	69	76	70	70	511	2.98	73.00
+170=	Ravi Naidu		Swarthmore 1	75	78	78	67	69	72	72	511	3.93	73.00
+170=	Bruce Tong		Alberta 1	72	76	73	71	76	75	68	511	2.73	73.00
+170=	Murtaza Shiyaji		Berkeley 2	75	76	72	78	64	71	75	511	4.28	73.00
+174=	Azrina Hossain		Calgary 2	77	79	75	75	66	68	70	510	4.52	72.86
+174=	Showmee Zhou	Novice	Rochester 2	74	76	77	73	71	66	73	510	3.36	72.86
+174=	Coston Autry	Novice	Dartmouth 3	74	77	74	72	70	75	68	510	2.85	72.86
+177=	Journey Horeis	Novice	HWS 3	72	78	76	70	76	71	66	509	3.88	72.71
+177=	Eddie Lutz		Alberta 1	71	76	73	71	75	74	69	509	2.31	72.71
+177=	Rachel Renegado	Novice	Calgary 4	75	72	76	74	67	71	74	509	2.81	72.71
+177=	Preethi Mohan		Berkeley 2	75	75	73	77	65	70	74	509	3.73	72.71
+181=	Charlotte Hall	Novice	Swarthmore 2	72	76	74	70	75	70	71	508	2.26	72.57
+181=	Zachary Tessier	Novice	Alberta 5	75	73	70	69	70	73	78	508	2.97	72.57
+183=	Felix Zhang	Novice	Carleton 3	74	73	76	75	66	72	71	507	3.06	72.43
+183=	Tenisha Brar	Novice	Alberta 5	75	73	71	69	72	73	74	507	1.84	72.43
+183=	Raymond Yuan		Berkeley 3	73	74	75	78	70	67	70	507	3.42	72.43
+186=	Maddy Gordon		Carleton 1	74	74	74	68	65	74	77	506	3.88	72.29
+186=	Kaylie Precepa	Novice	Carleton 3	73	73	76	74	70	71	69	506	2.25	72.29
+186=	Menooha Koneru	Novice	Calgary 5	77	71	73	74	69	70	72	506	2.49	72.29
+189=	Briana Reyes	Novice	HWS 2	74	75	77	67	69	69	74	505	3.48	72.14
+189=	Brandon Lu	Novice	UBC 4	70	77	72	72	75	73	66	505	3.27	72.14
+191	Prithul Hia		Calgary 2	76	76	75	74	67	66	70	504	3.96	72.00
+192	Jarod Chiasson	Novice	Alberta 6	74	74	74	66	71	72	72	503	2.64	71.86
+193	Cole Jerum	Novice	Rochester 2	72	76	76	73	72	60	73	502	5.03	71.71
+194=	Kyla Silva		Carleton 1	73	74	72	68	64	74	76	501	3.85	71.57
+194=	Elijah Nepomuceno	Novice	Swarthmore 1	75	76	77	66	65	72	70	501	4.44	71.57
+194=	Daisy Dyck	Novice	Alberta 6	75	73	74	66	71	71	71	501	2.72	71.57
+194=	Aaryan Jogina	Novice	UBC 4	68	76	71	69	74	75	68	501	3.16	71.57
+198	Julianna Thornburg	Novice	HWS 3	70	76	72	68	77	69	66	498	3.80	71.14
+199=	John Hanson		Colby 1	68	74	68	73	68	76	69	496	3.14	70.86
+199=	Jasmine Goncalves		HWS 1	77	72	71	74	71	68	63	496	4.12	70.86
+201	Richie Lu	Novice	Columbia 3	75	72	67	70	69	71	69	493	2.38	70.43
+202	Thuy Khuc		Colby 1	68	74	68	70	66	75	70	491	3.04	70.14
+203	Sasha Zory	Novice	HWS 1	76	71	71	72	72	65	63	490	4.14	70.00
+204	Miguel Sharif	Novice	Calgary 5	75	67	72	72	64	66	72	488	3.73	69.71
+205	Anissa Basu	Novice	Columbia 3	76	71	67	68	68	72	65	487	3.42	69.57
+206	Johnny Bewley		HWS 6	73	72	74	69	71	65	62	486	4.10	69.43
+207	Jaden Haywood	Novice	HWS 6	73	72	74	70	69	64	62	484	4.22	69.14
+208	Clement Tsao	Novice	Pennsylvania 1	77	—	79	79	81	82	80	478	1.60	79.67
+209=	Jonathan Chen		Chicago 1	—	74	80	80	81	81	81	477	2.50	79.50
+209=	John Wu	Novice	Pennsylvania 1	77	—	79	79	81	81	80	477	1.38	79.50
+211	Feifei Mei		Chicago 1	—	74	79	80	80	81	80	474	2.31	79.00
+212	Griffin Wong		Calgary 1	79	75	—	80	75	78	81	468	2.31	78.00
+213	Diego Castillo		Brown 1	77	—	78	79	80	74	76	464	1.97	77.33
+214	Teotihuacan		Swing 1	78	—	80	67	81	75	79	460	4.71	76.67
+215	Amy Ma	Novice	Chicago 2	—	78	78	78	78	76	71	459	2.57	76.50
+216	Jason Shan		Brown 1	77	—	74	77	79	73	75	455	2.03	75.83
+217	Brandon Zhang		Hart House 5	80	—	75	70	74	74	79	452	3.35	75.33
+218=	Gavin An	Novice	Chicago 2	—	77	77	77	76	74	69	450	2.89	75.00
+218=	William Shi		Hart House 5	78	—	76	70	75	73	78	450	2.83	75.00
+220	El Zocalo		Swing 1	78	—	77	68	80	—	79	382	4.32	76.40
+221	James Masson	Novice	Yale 3	77	76	78	73	—	75	—	379	1.72	75.80
+222	Annmaria Antony		Stanford 3	74	79	77	77	—	—	—	307	1.79	76.75
+223	Chichén Itzá		Swing 2	75	—	—	—	77	78	74	304	1.58	76.00
+224	Akaash Kolluri		Stanford 3	74	77	75	76	—	—	—	302	1.12	75.50
+225	Fiona Bray	Novice	Princeton 7	76	76	74	67	—	—	—	293	3.70	73.25
+226	San Miguelito		Swing 2	75	—	—	—	—	77	72	224	2.05	74.67
+227	Teatro Degollado		Swing 3	77	—	—	—	—	—	—	77	0.00	77.00
+228	Glorieta Chapalita		Swing 3	76	—	—	—	—	—	—	76	0.00	76.00
+
+
+team	result	side	ballot	adjudicators
+Yale 2	1st	Opening Government	View Ballot	Arjun RamanⒸ , Ashley Shea
+Princeton 5	2nd	Opening Opposition	View Ballot	Arjun RamanⒸ , Ashley Shea
+Calgary 3	4th	Closing Government	View Ballot	Arjun RamanⒸ , Ashley Shea
+EDS 3	3rd	Closing Opposition	View Ballot	Arjun RamanⒸ , Ashley Shea
+Calgary 2	2nd	Opening Government	View Ballot	Audrey MelodyⒸ , Gin Nguyen
+Middlebury 2	1st	Opening Opposition	View Ballot	Audrey MelodyⒸ , Gin Nguyen
+Queen&#x27;s 4	4th	Closing Government	View Ballot	Audrey MelodyⒸ , Gin Nguyen
+Western 2	3rd	Closing Opposition	View Ballot	Audrey MelodyⒸ , Gin Nguyen
+USC 3	3rd	Opening Government	View Ballot	Tanay PatriⒸ , Hargun Rekhi , Aryanna RamⓉ
+Harvard 4	1st	Opening Opposition	View Ballot	Tanay PatriⒸ , Hargun Rekhi , Aryanna RamⓉ
+Alberta 1	4th	Closing Government	View Ballot	Tanay PatriⒸ , Hargun Rekhi , Aryanna RamⓉ
+Queen&#x27;s 6	2nd	Closing Opposition	View Ballot	Tanay PatriⒸ , Hargun Rekhi , Aryanna RamⓉ
+Stanford 4	4th	Opening Government	View Ballot	Isabelle FengⒸ , Aubrey Nan
+Queen&#x27;s 5	1st	Opening Opposition	View Ballot	Isabelle FengⒸ , Aubrey Nan
+Western 3	3rd	Closing Government	View Ballot	Isabelle FengⒸ , Aubrey Nan
+Northwestern 1	2nd	Closing Opposition	View Ballot	Isabelle FengⒸ , Aubrey Nan
+HWS 1	3rd	Opening Government	View Ballot	Nir AminⒸ , Teddy SchwartzⓉ
+EDS 2	1st	Opening Opposition	View Ballot	Nir AminⒸ , Teddy SchwartzⓉ
+Middlebury 1	4th	Closing Government	View Ballot	Nir AminⒸ , Teddy SchwartzⓉ
+Alberta 3	2nd	Closing Opposition	View Ballot	Nir AminⒸ , Teddy SchwartzⓉ
+Princeton 6	2nd	Opening Government	View Ballot	Sarenna McKellarⒸ , William Zhang , Carter SchmittⓉ
+Columbia 3	3rd	Opening Opposition	View Ballot	Sarenna McKellarⒸ , William Zhang , Carter SchmittⓉ
+Harvard 3	1st	Closing Government	View Ballot	Sarenna McKellarⒸ , William Zhang , Carter SchmittⓉ
+Dartmouth 3	4th	Closing Opposition	View Ballot	Sarenna McKellarⒸ , William Zhang , Carter SchmittⓉ
+Alberta 7	4th	Opening Government	View Ballot	Mic LewisⒸ , Julia Van Damme
+Hart House 4	1st	Opening Opposition	View Ballot	Mic LewisⒸ , Julia Van Damme
+Columbia 2	2nd	Closing Government	View Ballot	Mic LewisⒸ , Julia Van Damme
+Berkeley 3	3rd	Closing Opposition	View Ballot	Mic LewisⒸ , Julia Van Damme
+Western 1	4th	Opening Government	View Ballot	Xiao-ke Lu🦭Ⓒ , Greg Kwok
+USC 2	1st	Opening Opposition	View Ballot	Xiao-ke Lu🦭Ⓒ , Greg Kwok
+Alberta 2	2nd	Closing Government	View Ballot	Xiao-ke Lu🦭Ⓒ , Greg Kwok
+Stanford 5	3rd	Closing Opposition	View Ballot	Xiao-ke Lu🦭Ⓒ , Greg Kwok
+Yale 1	3rd	Opening Government	View Ballot	Caitlin HodgeⒸ , Jack Zhu
+UCLA 2	1st	Opening Opposition	View Ballot	Caitlin HodgeⒸ , Jack Zhu
+Dartmouth 1	2nd	Closing Government	View Ballot	Caitlin HodgeⒸ , Jack Zhu
+HWS 5	4th	Closing Opposition	View Ballot	Caitlin HodgeⒸ , Jack Zhu
+Swarthmore 2	2nd	Opening Government	View Ballot	Maria XuⒸ , Aarian Bhakoo
+Queen&#x27;s 1	1st	Opening Opposition	View Ballot	Maria XuⒸ , Aarian Bhakoo
+Cornell 3	3rd	Closing Government	View Ballot	Maria XuⒸ , Aarian Bhakoo
+UBC 4	4th	Closing Opposition	View Ballot	Maria XuⒸ , Aarian Bhakoo
+Western 6	3rd	Opening Government	View Ballot	John Washburn 🇰🇵Ⓒ , Rojella Santos , Emma NolanⓉ
+Hart House 7	1st	Opening Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Rojella Santos , Emma NolanⓉ
+Princeton 7	2nd	Closing Government	View Ballot	John Washburn 🇰🇵Ⓒ , Rojella Santos , Emma NolanⓉ
+Colby 1	4th	Closing Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Rojella Santos , Emma NolanⓉ
+Hart House 9	2nd	Opening Government	View Ballot	Humam AzizⒸ , Kelly Huang
+Rochester 1	1st	Opening Opposition	View Ballot	Humam AzizⒸ , Kelly Huang
+Western 4	4th	Closing Government	View Ballot	Humam AzizⒸ , Kelly Huang
+Berkeley 4	3rd	Closing Opposition	View Ballot	Humam AzizⒸ , Kelly Huang
+McGill 6	3rd	Opening Government	View Ballot	Guo ChenⒸ , Aadarsh S Adivishnu
+McGill 1	1st	Opening Opposition	View Ballot	Guo ChenⒸ , Aadarsh S Adivishnu
+McGill 4	2nd	Closing Government	View Ballot	Guo ChenⒸ , Aadarsh S Adivishnu
+TEC CEM 1	4th	Closing Opposition	View Ballot	Guo ChenⒸ , Aadarsh S Adivishnu
+McGill 5	3rd	Opening Government	View Ballot	Patrick Cowley🐍Ⓒ , Myles NicholsⓉ
+USC 1	2nd	Opening Opposition	View Ballot	Patrick Cowley🐍Ⓒ , Myles NicholsⓉ
+Stanford 3	4th	Closing Government	View Ballot	Patrick Cowley🐍Ⓒ , Myles NicholsⓉ
+Stanford 1	1st	Closing Opposition	View Ballot	Patrick Cowley🐍Ⓒ , Myles NicholsⓉ
+McGill 2	1st	Opening Government	View Ballot	Barron Junteng Ren 🐷Ⓒ , Addison Baker , Rafael AguilarⓉ
+Hart House 11	2nd	Opening Opposition	View Ballot	Barron Junteng Ren 🐷Ⓒ , Addison Baker , Rafael AguilarⓉ
+Berkeley 2	4th	Closing Government	View Ballot	Barron Junteng Ren 🐷Ⓒ , Addison Baker , Rafael AguilarⓉ
+Yale 3	3rd	Closing Opposition	View Ballot	Barron Junteng Ren 🐷Ⓒ , Addison Baker , Rafael AguilarⓉ
+JHU 1	1st	Opening Government	View Ballot	Anette XiaⒸ , Thomas Bowes
+HWS 4	3rd	Opening Opposition	View Ballot	Anette XiaⒸ , Thomas Bowes
+Calgary 6	4th	Closing Government	View Ballot	Anette XiaⒸ , Thomas Bowes
+Western 5	2nd	Closing Opposition	View Ballot	Anette XiaⒸ , Thomas Bowes
+Alberta 5	4th	Opening Government	View Ballot	Tanvir ShahriarⒸ , Oskar Lieberman
+Swing 1	2nd	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Oskar Lieberman
+Brown 1	3rd	Closing Government	View Ballot	Tanvir ShahriarⒸ , Oskar Lieberman
+Harvard 2	1st	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Oskar Lieberman
+McGill 3	2nd	Opening Government	View Ballot	Caitlin MahⒸ , Evan Vega
+Yale 4	3rd	Opening Opposition	View Ballot	Caitlin MahⒸ , Evan Vega
+Waterloo 1	1st	Closing Government	View Ballot	Caitlin MahⒸ , Evan Vega
+Pennsylvania 1	4th	Closing Opposition	View Ballot	Caitlin MahⒸ , Evan Vega
+Columbia 1	1st	Opening Government	View Ballot	Daniel SvirskyⒸ , Ashlyn Lu , Kenn JiangⓉ
+UBC 1	3rd	Opening Opposition	View Ballot	Daniel SvirskyⒸ , Ashlyn Lu , Kenn JiangⓉ
+Dartmouth 2	2nd	Closing Government	View Ballot	Daniel SvirskyⒸ , Ashlyn Lu , Kenn JiangⓉ
+HWS 6	4th	Closing Opposition	View Ballot	Daniel SvirskyⒸ , Ashlyn Lu , Kenn JiangⓉ
+Stanford 2	1st	Opening Government	View Ballot	Nicholas AbernethyⒸ , Victoria MoldovanⓉ
+Waterloo 3	3rd	Opening Opposition	View Ballot	Nicholas AbernethyⒸ , Victoria MoldovanⓉ
+Berkeley 1	2nd	Closing Government	View Ballot	Nicholas AbernethyⒸ , Victoria MoldovanⓉ
+Carleton 1	4th	Closing Opposition	View Ballot	Nicholas AbernethyⒸ , Victoria MoldovanⓉ
+Hart House 2	2nd	Opening Government	View Ballot	Emma JonesⒸ , Kira Waldhalm , Arnav GandhiⓉ
+Northwestern 2	4th	Opening Opposition	View Ballot	Emma JonesⒸ , Kira Waldhalm , Arnav GandhiⓉ
+Hart House 5	1st	Closing Government	View Ballot	Emma JonesⒸ , Kira Waldhalm , Arnav GandhiⓉ
+Waterloo 2	3rd	Closing Opposition	View Ballot	Emma JonesⒸ , Kira Waldhalm , Arnav GandhiⓉ
+Queen&#x27;s 3	4th	Opening Government	View Ballot	Hamza AzizⒸ , Brenden Han
+Harvard 1	2nd	Opening Opposition	View Ballot	Hamza AzizⒸ , Brenden Han
+Cornell 1	3rd	Closing Government	View Ballot	Hamza AzizⒸ , Brenden Han
+Princeton 3	1st	Closing Opposition	View Ballot	Hamza AzizⒸ , Brenden Han
+HWS 2	4th	Opening Government	View Ballot	Rhys NickersonⒸ , Emma Listgarten , Annika RoseⓉ
+Cornell 2	2nd	Opening Opposition	View Ballot	Rhys NickersonⒸ , Emma Listgarten , Annika RoseⓉ
+Princeton 2	1st	Closing Government	View Ballot	Rhys NickersonⒸ , Emma Listgarten , Annika RoseⓉ
+Queen&#x27;s 2	3rd	Closing Opposition	View Ballot	Rhys NickersonⒸ , Emma Listgarten , Annika RoseⓉ
+Stanford 6	1st	Opening Government	View Ballot	Alexander BeaumontⒸ , Divit ChopraⓉ
+Alberta 6	3rd	Opening Opposition	View Ballot	Alexander BeaumontⒸ , Divit ChopraⓉ
+HWS 3	4th	Closing Government	View Ballot	Alexander BeaumontⒸ , Divit ChopraⓉ
+Carleton 2	2nd	Closing Opposition	View Ballot	Alexander BeaumontⒸ , Divit ChopraⓉ
+Hart House 8	2nd	Opening Government	View Ballot	Ryan LaffertyⒸ , Tejas Rajagopal , Milla ChavezⓉ
+Swing 3	3rd	Opening Opposition	View Ballot	Ryan LaffertyⒸ , Tejas Rajagopal , Milla ChavezⓉ
+Swing 2	4th	Closing Government	View Ballot	Ryan LaffertyⒸ , Tejas Rajagopal , Milla ChavezⓉ
+UBC 2	1st	Closing Opposition	View Ballot	Ryan LaffertyⒸ , Tejas Rajagopal , Milla ChavezⓉ
+Calgary 5	3rd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Luis Gontes , Aaron ZengⓉ
+EDS 1	2nd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Luis Gontes , Aaron ZengⓉ
+Hart House 1	1st	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Luis Gontes , Aaron ZengⓉ
+Swarthmore 1	4th	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Luis Gontes , Aaron ZengⓉ
+Middlebury 3	1st	Opening Government	View Ballot	Raymond QiuⒸ , George Macauley
+Rochester 2	4th	Opening Opposition	View Ballot	Raymond QiuⒸ , George Macauley
+UCLA 1	3rd	Closing Government	View Ballot	Raymond QiuⒸ , George Macauley
+Calgary 4	2nd	Closing Opposition	View Ballot	Raymond QiuⒸ , George Macauley
+Carleton 3	4th	Opening Government	View Ballot	Devan TatlowⒸ , Mary Larkin
+Calgary 1	2nd	Opening Opposition	View Ballot	Devan TatlowⒸ , Mary Larkin
+Hart House 3	1st	Closing Government	View Ballot	Devan TatlowⒸ , Mary Larkin
+UBC 3	3rd	Closing Opposition	View Ballot	Devan TatlowⒸ , Mary Larkin
+
+
+team	result	side	ballot	adjudicators
+Columbia 3	4th	Opening Government	View Ballot	Varun LodayaⒸ , Emma Nolan
+Cornell 3	1st	Opening Opposition	View Ballot	Varun LodayaⒸ , Emma Nolan
+EDS 3	3rd	Closing Government	View Ballot	Varun LodayaⒸ , Emma Nolan
+McGill 6	2nd	Closing Opposition	View Ballot	Varun LodayaⒸ , Emma Nolan
+Waterloo 1	2nd	Opening Government	View Ballot	Allie McGowanⒸ , Kelly Huang
+Stanford 2	1st	Opening Opposition	View Ballot	Allie McGowanⒸ , Kelly Huang
+UBC 2	4th	Closing Government	View Ballot	Allie McGowanⒸ , Kelly Huang
+Yale 2	3rd	Closing Opposition	View Ballot	Allie McGowanⒸ , Kelly Huang
+HWS 6	4th	Opening Government	View Ballot	Emma JonesⒸ , Emma Listgarten , Teddy SchwartzⓉ
+UBC 4	1st	Opening Opposition	View Ballot	Emma JonesⒸ , Emma Listgarten , Teddy SchwartzⓉ
+Carleton 1	3rd	Closing Government	View Ballot	Emma JonesⒸ , Emma Listgarten , Teddy SchwartzⓉ
+Berkeley 2	2nd	Closing Opposition	View Ballot	Emma JonesⒸ , Emma Listgarten , Teddy SchwartzⓉ
+Colby 1	3rd	Opening Government	View Ballot	Ayal MorⒸ , Mary Larkin , Milla ChavezⓉ
+Western 4	1st	Opening Opposition	View Ballot	Ayal MorⒸ , Mary Larkin , Milla ChavezⓉ
+HWS 5	4th	Closing Government	View Ballot	Ayal MorⒸ , Mary Larkin , Milla ChavezⓉ
+Middlebury 1	2nd	Closing Opposition	View Ballot	Ayal MorⒸ , Mary Larkin , Milla ChavezⓉ
+TEC CEM 1	3rd	Opening Government	View Ballot	Kayla PowersⒸ , Aarian Bhakoo , Divit ChopraⓉ
+Calgary 3	2nd	Opening Opposition	View Ballot	Kayla PowersⒸ , Aarian Bhakoo , Divit ChopraⓉ
+Alberta 5	4th	Closing Government	View Ballot	Kayla PowersⒸ , Aarian Bhakoo , Divit ChopraⓉ
+Queen&#x27;s 3	1st	Closing Opposition	View Ballot	Kayla PowersⒸ , Aarian Bhakoo , Divit ChopraⓉ
+UBC 1	1st	Opening Government	View Ballot	Anette XiaⒸ , Kira Waldhalm , Oskar Lieberman
+Yale 3	3rd	Opening Opposition	View Ballot	Anette XiaⒸ , Kira Waldhalm , Oskar Lieberman
+Queen&#x27;s 2	4th	Closing Government	View Ballot	Anette XiaⒸ , Kira Waldhalm , Oskar Lieberman
+Cornell 1	2nd	Closing Opposition	View Ballot	Anette XiaⒸ , Kira Waldhalm , Oskar Lieberman
+HWS 4	3rd	Opening Government	View Ballot	Hargun RekhiⒸ , Greg Kwok
+UBC 3	1st	Opening Opposition	View Ballot	Hargun RekhiⒸ , Greg Kwok
+Waterloo 3	2nd	Closing Government	View Ballot	Hargun RekhiⒸ , Greg Kwok
+McGill 5	4th	Closing Opposition	View Ballot	Hargun RekhiⒸ , Greg Kwok
+Dartmouth 3	2nd	Opening Government	View Ballot	Arjun RamanⒸ , Luis Gontes , Annika RoseⓉ
+Queen&#x27;s 4	1st	Opening Opposition	View Ballot	Arjun RamanⒸ , Luis Gontes , Annika RoseⓉ
+Carleton 3	4th	Closing Government	View Ballot	Arjun RamanⒸ , Luis Gontes , Annika RoseⓉ
+Northwestern 2	3rd	Closing Opposition	View Ballot	Arjun RamanⒸ , Luis Gontes , Annika RoseⓉ
+Berkeley 4	2nd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Addison Baker
+Waterloo 2	1st	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Addison Baker
+Western 2	3rd	Closing Government	View Ballot	Tanvir ShahriarⒸ , Addison Baker
+Alberta 6	4th	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Addison Baker
+Rochester 1	2nd	Opening Government	View Ballot	Maria XuⒸ , Ashley Shea
+McGill 2	1st	Opening Opposition	View Ballot	Maria XuⒸ , Ashley Shea
+Middlebury 2	4th	Closing Government	View Ballot	Maria XuⒸ , Ashley Shea
+Middlebury 3	3rd	Closing Opposition	View Ballot	Maria XuⒸ , Ashley Shea
+Chicago 2	2nd	Opening Government	View Ballot	Caitlin MahⒸ , Jason Fu , Victoria Moldovan
+Calgary 6	3rd	Opening Opposition	View Ballot	Caitlin MahⒸ , Jason Fu , Victoria Moldovan
+Western 1	1st	Closing Government	View Ballot	Caitlin MahⒸ , Jason Fu , Victoria Moldovan
+HWS 2	4th	Closing Opposition	View Ballot	Caitlin MahⒸ , Jason Fu , Victoria Moldovan
+EDS 1	2nd	Opening Government	View Ballot	Gwen StearnsⒸ , Ashlyn Lu , Carter SchmittⓉ
+USC 3	1st	Opening Opposition	View Ballot	Gwen StearnsⒸ , Ashlyn Lu , Carter SchmittⓉ
+Carleton 2	4th	Closing Government	View Ballot	Gwen StearnsⒸ , Ashlyn Lu , Carter SchmittⓉ
+Dartmouth 1	3rd	Closing Opposition	View Ballot	Gwen StearnsⒸ , Ashlyn Lu , Carter SchmittⓉ
+Western 3	1st	Opening Government	View Ballot	William ZhangⒸ , Thomas Bowes
+HWS 1	4th	Opening Opposition	View Ballot	William ZhangⒸ , Thomas Bowes
+Western 6	3rd	Closing Government	View Ballot	William ZhangⒸ , Thomas Bowes
+Yale 1	2nd	Closing Opposition	View Ballot	William ZhangⒸ , Thomas Bowes
+McGill 1	3rd	Opening Government	View Ballot	Daniel SvirskyⒸ , Evan Vega , Aryanna RamⓉ
+Harvard 2	1st	Opening Opposition	View Ballot	Daniel SvirskyⒸ , Evan Vega , Aryanna RamⓉ
+Stanford 6	2nd	Closing Government	View Ballot	Daniel SvirskyⒸ , Evan Vega , Aryanna RamⓉ
+Hart House 3	4th	Closing Opposition	View Ballot	Daniel SvirskyⒸ , Evan Vega , Aryanna RamⓉ
+Stanford 3	2nd	Opening Government	View Ballot	Nir AminⒸ , Tejas Rajagopal
+Swarthmore 1	3rd	Opening Opposition	View Ballot	Nir AminⒸ , Tejas Rajagopal
+Rochester 2	4th	Closing Government	View Ballot	Nir AminⒸ , Tejas Rajagopal
+Stanford 4	1st	Closing Opposition	View Ballot	Nir AminⒸ , Tejas Rajagopal
+Calgary 1	4th	Opening Government	View Ballot	Caitlin HodgeⒸ , Aadarsh S Adivishnu
+Hart House 2	2nd	Opening Opposition	View Ballot	Caitlin HodgeⒸ , Aadarsh S Adivishnu
+McGill 3	3rd	Closing Government	View Ballot	Caitlin HodgeⒸ , Aadarsh S Adivishnu
+Yale 4	1st	Closing Opposition	View Ballot	Caitlin HodgeⒸ , Aadarsh S Adivishnu
+Berkeley 1	2nd	Opening Government	View Ballot	Alexander BeaumontⒸ , Julia Van Damme , Kiera ToussaintⓉ
+Hart House 9	3rd	Opening Opposition	View Ballot	Alexander BeaumontⒸ , Julia Van Damme , Kiera ToussaintⓉ
+Northwestern 1	1st	Closing Government	View Ballot	Alexander BeaumontⒸ , Julia Van Damme , Kiera ToussaintⓉ
+Princeton 5	4th	Closing Opposition	View Ballot	Alexander BeaumontⒸ , Julia Van Damme , Kiera ToussaintⓉ
+Stanford 5	2nd	Opening Government	View Ballot	John Washburn 🇰🇵Ⓒ , Jack Zhu
+Berkeley 3	3rd	Opening Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Jack Zhu
+Calgary 5	4th	Closing Government	View Ballot	John Washburn 🇰🇵Ⓒ , Jack Zhu
+UCLA 1	1st	Closing Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Jack Zhu
+Princeton 7	3rd	Opening Government	View Ballot	Rhys NickersonⒸ , George Macauley , Rafael AguilarⓉ
+Calgary 4	4th	Opening Opposition	View Ballot	Rhys NickersonⒸ , George Macauley , Rafael AguilarⓉ
+Cornell 2	1st	Closing Government	View Ballot	Rhys NickersonⒸ , George Macauley , Rafael AguilarⓉ
+Columbia 2	2nd	Closing Opposition	View Ballot	Rhys NickersonⒸ , George Macauley , Rafael AguilarⓉ
+Chicago 1	4th	Opening Government	View Ballot	Nicholas AbernethyⒸ , Isabelle Feng , Aaron ZengⓉ
+HWS 3	2nd	Opening Opposition	View Ballot	Nicholas AbernethyⒸ , Isabelle Feng , Aaron ZengⓉ
+Alberta 7	1st	Closing Government	View Ballot	Nicholas AbernethyⒸ , Isabelle Feng , Aaron ZengⓉ
+Alberta 1	3rd	Closing Opposition	View Ballot	Nicholas AbernethyⒸ , Isabelle Feng , Aaron ZengⓉ
+Alberta 2	4th	Opening Government	View Ballot	Tanay PatriⒸ , Guo Chen , Rojella Santos
+Calgary 2	2nd	Opening Opposition	View Ballot	Tanay PatriⒸ , Guo Chen , Rojella Santos
+Hart House 11	3rd	Closing Government	View Ballot	Tanay PatriⒸ , Guo Chen , Rojella Santos
+USC 1	1st	Closing Opposition	View Ballot	Tanay PatriⒸ , Guo Chen , Rojella Santos
+Queen&#x27;s 5	3rd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Gin Nguyen , Myles NicholsⓉ
+Princeton 3	1st	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Gin Nguyen , Myles NicholsⓉ
+EDS 2	4th	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Gin Nguyen , Myles NicholsⓉ
+Queen&#x27;s 1	2nd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Gin Nguyen , Myles NicholsⓉ
+Stanford 1	2nd	Opening Government	View Ballot	Raymond QiuⒸ , Barron Junteng Ren 🐷 , Xiao-ke Lu🦭
+Hart House 1	1st	Opening Opposition	View Ballot	Raymond QiuⒸ , Barron Junteng Ren 🐷 , Xiao-ke Lu🦭
+Columbia 1	3rd	Closing Government	View Ballot	Raymond QiuⒸ , Barron Junteng Ren 🐷 , Xiao-ke Lu🦭
+JHU 1	4th	Closing Opposition	View Ballot	Raymond QiuⒸ , Barron Junteng Ren 🐷 , Xiao-ke Lu🦭
+Western 5	4th	Opening Government	View Ballot	Hamza AzizⒸ , Mauricio Jarufe Caballero
+McGill 4	1st	Opening Opposition	View Ballot	Hamza AzizⒸ , Mauricio Jarufe Caballero
+Princeton 6	2nd	Closing Government	View Ballot	Hamza AzizⒸ , Mauricio Jarufe Caballero
+Swarthmore 2	3rd	Closing Opposition	View Ballot	Hamza AzizⒸ , Mauricio Jarufe Caballero
+Dartmouth 2	2nd	Opening Government	View Ballot	Audrey MelodyⒸ , Sarenna McKellar , Arnav GandhiⓉ
+Hart House 8	3rd	Opening Opposition	View Ballot	Audrey MelodyⒸ , Sarenna McKellar , Arnav GandhiⓉ
+Queen&#x27;s 6	4th	Closing Government	View Ballot	Audrey MelodyⒸ , Sarenna McKellar , Arnav GandhiⓉ
+Harvard 1	1st	Closing Opposition	View Ballot	Audrey MelodyⒸ , Sarenna McKellar , Arnav GandhiⓉ
+USC 2	3rd	Opening Government	View Ballot	Devan TatlowⒸ , Mic Lewis , Josh BahkⓉ
+Alberta 3	1st	Opening Opposition	View Ballot	Devan TatlowⒸ , Mic Lewis , Josh BahkⓉ
+Hart House 7	4th	Closing Government	View Ballot	Devan TatlowⒸ , Mic Lewis , Josh BahkⓉ
+UCLA 2	2nd	Closing Opposition	View Ballot	Devan TatlowⒸ , Mic Lewis , Josh BahkⓉ
+Harvard 3	2nd	Opening Government	View Ballot	Ryan LaffertyⒸ , Aubrey Nan , Kenn JiangⓉ
+Princeton 2	3rd	Opening Opposition	View Ballot	Ryan LaffertyⒸ , Aubrey Nan , Kenn JiangⓉ
+Hart House 4	4th	Closing Government	View Ballot	Ryan LaffertyⒸ , Aubrey Nan , Kenn JiangⓉ
+Harvard 4	1st	Closing Opposition	View Ballot	Ryan LaffertyⒸ , Aubrey Nan , Kenn JiangⓉ
+
+
+team	result	side	ballot	adjudicators
+Queen&#x27;s 6	3rd	Opening Government	View Ballot	Kayla PowersⒸ , Kira Waldhalm
+Cornell 1	4th	Opening Opposition	View Ballot	Kayla PowersⒸ , Kira Waldhalm
+Queen&#x27;s 3	2nd	Closing Government	View Ballot	Kayla PowersⒸ , Kira Waldhalm
+Hart House 8	1st	Closing Opposition	View Ballot	Kayla PowersⒸ , Kira Waldhalm
+Dartmouth 1	2nd	Opening Government	View Ballot	Daniel SvirskyⒸ , Brenden Han
+Alberta 7	3rd	Opening Opposition	View Ballot	Daniel SvirskyⒸ , Brenden Han
+Yale 1	1st	Closing Government	View Ballot	Daniel SvirskyⒸ , Brenden Han
+Princeton 7	4th	Closing Opposition	View Ballot	Daniel SvirskyⒸ , Brenden Han
+Middlebury 2	2nd	Opening Government	View Ballot	Nicholas AbernethyⒸ , Ashley Shea
+Hart House 5	4th	Opening Opposition	View Ballot	Nicholas AbernethyⒸ , Ashley Shea
+Stanford 5	1st	Closing Government	View Ballot	Nicholas AbernethyⒸ , Ashley Shea
+McGill 3	3rd	Closing Opposition	View Ballot	Nicholas AbernethyⒸ , Ashley Shea
+USC 1	4th	Opening Government	View Ballot	Emma JonesⒸ , Kenn Jiang , Aaron ZengⓉ
+Berkeley 1	1st	Opening Opposition	View Ballot	Emma JonesⒸ , Kenn Jiang , Aaron ZengⓉ
+UCLA 2	3rd	Closing Government	View Ballot	Emma JonesⒸ , Kenn Jiang , Aaron ZengⓉ
+McGill 4	2nd	Closing Opposition	View Ballot	Emma JonesⒸ , Kenn Jiang , Aaron ZengⓉ
+HWS 3	4th	Opening Government	View Ballot	Guo ChenⒸ , Hargun Rekhi
+Berkeley 4	3rd	Opening Opposition	View Ballot	Guo ChenⒸ , Hargun Rekhi
+Calgary 1	2nd	Closing Government	View Ballot	Guo ChenⒸ , Hargun Rekhi
+Western 4	1st	Closing Opposition	View Ballot	Guo ChenⒸ , Hargun Rekhi
+Cornell 2	3rd	Opening Government	View Ballot	Allie McGowanⒸ , George Macauley , Xiao-ke Lu🦭
+Northwestern 1	4th	Opening Opposition	View Ballot	Allie McGowanⒸ , George Macauley , Xiao-ke Lu🦭
+Harvard 1	2nd	Closing Government	View Ballot	Allie McGowanⒸ , George Macauley , Xiao-ke Lu🦭
+Rochester 1	1st	Closing Opposition	View Ballot	Allie McGowanⒸ , George Macauley , Xiao-ke Lu🦭
+Swarthmore 1	2nd	Opening Government	View Ballot	Caitlin MahⒸ , Mary Larkin , Myles Nichols
+Carleton 2	1st	Opening Opposition	View Ballot	Caitlin MahⒸ , Mary Larkin , Myles Nichols
+Dartmouth 3	4th	Closing Government	View Ballot	Caitlin MahⒸ , Mary Larkin , Myles Nichols
+Stanford 3	3rd	Closing Opposition	View Ballot	Caitlin MahⒸ , Mary Larkin , Myles Nichols
+Carleton 1	3rd	Opening Government	View Ballot	John Washburn 🇰🇵Ⓒ , Raymond Qiu
+TEC CEM 1	2nd	Opening Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Raymond Qiu
+Colby 1	4th	Closing Government	View Ballot	John Washburn 🇰🇵Ⓒ , Raymond Qiu
+Brown 1	1st	Closing Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Raymond Qiu
+Harvard 4	1st	Opening Government	View Ballot	Jason FuⒸ , Mauricio Jarufe Caballero , Thomas Bowes
+Stanford 6	2nd	Opening Opposition	View Ballot	Jason FuⒸ , Mauricio Jarufe Caballero , Thomas Bowes
+Harvard 2	3rd	Closing Government	View Ballot	Jason FuⒸ , Mauricio Jarufe Caballero , Thomas Bowes
+Stanford 2	4th	Closing Opposition	View Ballot	Jason FuⒸ , Mauricio Jarufe Caballero , Thomas Bowes
+UBC 3	4th	Opening Government	View Ballot	Gwen StearnsⒸ , Josh Bahk , Teddy SchwartzⓉ
+Columbia 1	1st	Opening Opposition	View Ballot	Gwen StearnsⒸ , Josh Bahk , Teddy SchwartzⓉ
+Hart House 2	3rd	Closing Government	View Ballot	Gwen StearnsⒸ , Josh Bahk , Teddy SchwartzⓉ
+USC 2	2nd	Closing Opposition	View Ballot	Gwen StearnsⒸ , Josh Bahk , Teddy SchwartzⓉ
+Alberta 3	3rd	Opening Government	View Ballot	Rhys NickersonⒸ , Tejas Rajagopal , Aryanna RamⓉ
+Harvard 3	1st	Opening Opposition	View Ballot	Rhys NickersonⒸ , Tejas Rajagopal , Aryanna RamⓉ
+Queen&#x27;s 1	4th	Closing Government	View Ballot	Rhys NickersonⒸ , Tejas Rajagopal , Aryanna RamⓉ
+Waterloo 1	2nd	Closing Opposition	View Ballot	Rhys NickersonⒸ , Tejas Rajagopal , Aryanna RamⓉ
+Hart House 11	4th	Opening Government	View Ballot	Ayal MorⒸ , Emma Listgarten , Kiera ToussaintⓉ
+UBC 2	3rd	Opening Opposition	View Ballot	Ayal MorⒸ , Emma Listgarten , Kiera ToussaintⓉ
+McGill 6	2nd	Closing Government	View Ballot	Ayal MorⒸ , Emma Listgarten , Kiera ToussaintⓉ
+Hart House 7	1st	Closing Opposition	View Ballot	Ayal MorⒸ , Emma Listgarten , Kiera ToussaintⓉ
+Waterloo 2	1st	Opening Government	View Ballot	Caitlin HodgeⒸ , Tanay Patri , William Zhang
+UCLA 1	3rd	Opening Opposition	View Ballot	Caitlin HodgeⒸ , Tanay Patri , William Zhang
+Stanford 4	4th	Closing Government	View Ballot	Caitlin HodgeⒸ , Tanay Patri , William Zhang
+Cornell 3	2nd	Closing Opposition	View Ballot	Caitlin HodgeⒸ , Tanay Patri , William Zhang
+HWS 5	3rd	Opening Government	View Ballot	Hamza AzizⒸ , Carter Schmitt
+Alberta 5	4th	Opening Opposition	View Ballot	Hamza AzizⒸ , Carter Schmitt
+Pennsylvania 1	2nd	Closing Government	View Ballot	Hamza AzizⒸ , Carter Schmitt
+Chicago 1	1st	Closing Opposition	View Ballot	Hamza AzizⒸ , Carter Schmitt
+Princeton 2	3rd	Opening Government	View Ballot	Humam AzizⒸ , Gin Nguyen
+Yale 2	2nd	Opening Opposition	View Ballot	Humam AzizⒸ , Gin Nguyen
+UBC 1	1st	Closing Government	View Ballot	Humam AzizⒸ , Gin Nguyen
+Dartmouth 2	4th	Closing Opposition	View Ballot	Humam AzizⒸ , Gin Nguyen
+Hart House 4	2nd	Opening Government	View Ballot	Maria XuⒸ , Addison Baker , Milla Chavez
+Western 3	3rd	Opening Opposition	View Ballot	Maria XuⒸ , Addison Baker , Milla Chavez
+USC 3	4th	Closing Government	View Ballot	Maria XuⒸ , Addison Baker , Milla Chavez
+Queen&#x27;s 5	1st	Closing Opposition	View Ballot	Maria XuⒸ , Addison Baker , Milla Chavez
+Queen&#x27;s 2	1st	Opening Government	View Ballot	Aubrey NanⒸ , Isabelle Feng
+Alberta 1	3rd	Opening Opposition	View Ballot	Aubrey NanⒸ , Isabelle Feng
+Northwestern 2	2nd	Closing Government	View Ballot	Aubrey NanⒸ , Isabelle Feng
+Columbia 3	4th	Closing Opposition	View Ballot	Aubrey NanⒸ , Isabelle Feng
+Yale 4	2nd	Opening Government	View Ballot	Anette XiaⒸ , Arnav Gandhi , Julia Van Damme
+Middlebury 3	4th	Opening Opposition	View Ballot	Anette XiaⒸ , Arnav Gandhi , Julia Van Damme
+McGill 1	1st	Closing Government	View Ballot	Anette XiaⒸ , Arnav Gandhi , Julia Van Damme
+Calgary 2	3rd	Closing Opposition	View Ballot	Anette XiaⒸ , Arnav Gandhi , Julia Van Damme
+Rochester 2	2nd	Opening Government	View Ballot	Audrey MelodyⒸ , Greg Kwok , Rojella Santos
+HWS 6	4th	Opening Opposition	View Ballot	Audrey MelodyⒸ , Greg Kwok , Rojella Santos
+HWS 2	1st	Closing Government	View Ballot	Audrey MelodyⒸ , Greg Kwok , Rojella Santos
+Carleton 3	3rd	Closing Opposition	View Ballot	Audrey MelodyⒸ , Greg Kwok , Rojella Santos
+Columbia 2	2nd	Opening Government	View Ballot	Arjun RamanⒸ , Mic Lewis , Divit ChopraⓉ
+Hart House 3	3rd	Opening Opposition	View Ballot	Arjun RamanⒸ , Mic Lewis , Divit ChopraⓉ
+EDS 1	1st	Closing Government	View Ballot	Arjun RamanⒸ , Mic Lewis , Divit ChopraⓉ
+Princeton 6	4th	Closing Opposition	View Ballot	Arjun RamanⒸ , Mic Lewis , Divit ChopraⓉ
+Alberta 6	2nd	Opening Government	View Ballot	Barron Junteng Ren 🐷Ⓒ , Kelly Huang , Victoria Moldovan
+Calgary 5	3rd	Opening Opposition	View Ballot	Barron Junteng Ren 🐷Ⓒ , Kelly Huang , Victoria Moldovan
+McGill 5	1st	Closing Government	View Ballot	Barron Junteng Ren 🐷Ⓒ , Kelly Huang , Victoria Moldovan
+HWS 1	4th	Closing Opposition	View Ballot	Barron Junteng Ren 🐷Ⓒ , Kelly Huang , Victoria Moldovan
+Waterloo 3	1st	Opening Government	View Ballot	Devan TatlowⒸ , Aadarsh S Adivishnu
+Western 1	3rd	Opening Opposition	View Ballot	Devan TatlowⒸ , Aadarsh S Adivishnu
+UBC 4	4th	Closing Government	View Ballot	Devan TatlowⒸ , Aadarsh S Adivishnu
+Hart House 9	2nd	Closing Opposition	View Ballot	Devan TatlowⒸ , Aadarsh S Adivishnu
+Western 2	2nd	Opening Government	View Ballot	Nir AminⒸ , Emma Nolan
+Alberta 2	3rd	Opening Opposition	View Ballot	Nir AminⒸ , Emma Nolan
+Western 5	1st	Closing Government	View Ballot	Nir AminⒸ , Emma Nolan
+Western 6	4th	Closing Opposition	View Ballot	Nir AminⒸ , Emma Nolan
+Middlebury 1	3rd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Rafael Aguilar
+EDS 3	2nd	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Rafael Aguilar
+Swing 1	1st	Closing Government	View Ballot	Tanvir ShahriarⒸ , Rafael Aguilar
+Calgary 6	4th	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Rafael Aguilar
+Princeton 3	1st	Opening Government	View Ballot	Ryan LaffertyⒸ , Aarian Bhakoo , Annika RoseⓉ
+Stanford 1	2nd	Opening Opposition	View Ballot	Ryan LaffertyⒸ , Aarian Bhakoo , Annika RoseⓉ
+McGill 2	3rd	Closing Government	View Ballot	Ryan LaffertyⒸ , Aarian Bhakoo , Annika RoseⓉ
+Hart House 1	4th	Closing Opposition	View Ballot	Ryan LaffertyⒸ , Aarian Bhakoo , Annika RoseⓉ
+Yale 3	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Jack Zhu , Oskar Lieberman
+Chicago 2	2nd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Jack Zhu , Oskar Lieberman
+Calgary 4	3rd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Jack Zhu , Oskar Lieberman
+HWS 4	4th	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Jack Zhu , Oskar Lieberman
+Berkeley 3	1st	Opening Government	View Ballot	Patrick Cowley🐍Ⓒ , Luis Gontes
+Berkeley 2	4th	Opening Opposition	View Ballot	Patrick Cowley🐍Ⓒ , Luis Gontes
+Princeton 5	2nd	Closing Government	View Ballot	Patrick Cowley🐍Ⓒ , Luis Gontes
+Calgary 3	3rd	Closing Opposition	View Ballot	Patrick Cowley🐍Ⓒ , Luis Gontes
+Queen&#x27;s 4	2nd	Opening Government	View Ballot	Alexander BeaumontⒸ , Ashlyn Lu
+Swarthmore 2	3rd	Opening Opposition	View Ballot	Alexander BeaumontⒸ , Ashlyn Lu
+JHU 1	4th	Closing Government	View Ballot	Alexander BeaumontⒸ , Ashlyn Lu
+EDS 2	1st	Closing Opposition	View Ballot	Alexander BeaumontⒸ , Ashlyn Lu
+
+
+team	result	side	ballot	adjudicators
+UCLA 2	3rd	Opening Government	View Ballot	Rhys NickersonⒸ , Tejas Rajagopal
+Columbia 2	2nd	Opening Opposition	View Ballot	Rhys NickersonⒸ , Tejas Rajagopal
+Alberta 3	4th	Closing Government	View Ballot	Rhys NickersonⒸ , Tejas Rajagopal
+Hart House 1	1st	Closing Opposition	View Ballot	Rhys NickersonⒸ , Tejas Rajagopal
+UCLA 1	2nd	Opening Government	View Ballot	Allie McGowanⒸ , Greg Kwok
+Dartmouth 1	3rd	Opening Opposition	View Ballot	Allie McGowanⒸ , Greg Kwok
+Yale 3	1st	Closing Government	View Ballot	Allie McGowanⒸ , Greg Kwok
+Middlebury 2	4th	Closing Opposition	View Ballot	Allie McGowanⒸ , Greg Kwok
+Calgary 3	2nd	Opening Government	View Ballot	Audrey MelodyⒸ , Jack Zhu
+Stanford 4	1st	Opening Opposition	View Ballot	Audrey MelodyⒸ , Jack Zhu
+Alberta 6	4th	Closing Government	View Ballot	Audrey MelodyⒸ , Jack Zhu
+Calgary 5	3rd	Closing Opposition	View Ballot	Audrey MelodyⒸ , Jack Zhu
+Princeton 5	2nd	Opening Government	View Ballot	Varun LodayaⒸ , Myles Nichols , Oskar Lieberman
+Western 2	3rd	Opening Opposition	View Ballot	Varun LodayaⒸ , Myles Nichols , Oskar Lieberman
+Swarthmore 2	4th	Closing Government	View Ballot	Varun LodayaⒸ , Myles Nichols , Oskar Lieberman
+Western 1	1st	Closing Opposition	View Ballot	Varun LodayaⒸ , Myles Nichols , Oskar Lieberman
+Pennsylvania 1	1st	Opening Government	View Ballot	Aubrey NanⒸ , Victoria Moldovan
+Western 6	4th	Opening Opposition	View Ballot	Aubrey NanⒸ , Victoria Moldovan
+Alberta 1	3rd	Closing Government	View Ballot	Aubrey NanⒸ , Victoria Moldovan
+Rochester 2	2nd	Closing Opposition	View Ballot	Aubrey NanⒸ , Victoria Moldovan
+Harvard 1	1st	Opening Government	View Ballot	Ryan LaffertyⒸ , Anette Xia , Annika RoseⓉ
+Waterloo 1	4th	Opening Opposition	View Ballot	Ryan LaffertyⒸ , Anette Xia , Annika RoseⓉ
+Queen&#x27;s 5	3rd	Closing Government	View Ballot	Ryan LaffertyⒸ , Anette Xia , Annika RoseⓉ
+EDS 1	2nd	Closing Opposition	View Ballot	Ryan LaffertyⒸ , Anette Xia , Annika RoseⓉ
+Harvard 4	2nd	Opening Government	View Ballot	Daniel SvirskyⒸ , Kiera Toussaint , Sarenna McKellar
+Rochester 1	1st	Opening Opposition	View Ballot	Daniel SvirskyⒸ , Kiera Toussaint , Sarenna McKellar
+Princeton 3	3rd	Closing Government	View Ballot	Daniel SvirskyⒸ , Kiera Toussaint , Sarenna McKellar
+Harvard 3	4th	Closing Opposition	View Ballot	Daniel SvirskyⒸ , Kiera Toussaint , Sarenna McKellar
+Carleton 2	1st	Opening Government	View Ballot	Tanvir ShahriarⒸ , Aadarsh S Adivishnu
+Western 5	3rd	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Aadarsh S Adivishnu
+Berkeley 3	2nd	Closing Government	View Ballot	Tanvir ShahriarⒸ , Aadarsh S Adivishnu
+Queen&#x27;s 4	4th	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Aadarsh S Adivishnu
+Berkeley 2	1st	Opening Government	View Ballot	George MacauleyⒸ , Devan Tatlow
+Carleton 1	4th	Opening Opposition	View Ballot	George MacauleyⒸ , Devan Tatlow
+HWS 4	2nd	Closing Government	View Ballot	George MacauleyⒸ , Devan Tatlow
+HWS 3	3rd	Closing Opposition	View Ballot	George MacauleyⒸ , Devan Tatlow
+Hart House 7	4th	Opening Government	View Ballot	Maria XuⒸ , Thomas Bowes , Xiao-ke Lu🦭
+Stanford 5	1st	Opening Opposition	View Ballot	Maria XuⒸ , Thomas Bowes , Xiao-ke Lu🦭
+Stanford 2	2nd	Closing Government	View Ballot	Maria XuⒸ , Thomas Bowes , Xiao-ke Lu🦭
+Hart House 4	3rd	Closing Opposition	View Ballot	Maria XuⒸ , Thomas Bowes , Xiao-ke Lu🦭
+HWS 6	3rd	Opening Government	View Ballot	Raymond QiuⒸ , Mary Larkin
+HWS 5	1st	Opening Opposition	View Ballot	Raymond QiuⒸ , Mary Larkin
+HWS 1	2nd	Closing Government	View Ballot	Raymond QiuⒸ , Mary Larkin
+Alberta 5	4th	Closing Opposition	View Ballot	Raymond QiuⒸ , Mary Larkin
+Hart House 3	2nd	Opening Government	View Ballot	Arjun RamanⒸ , Luis Gontes , Kenn JiangⓉ
+McGill 3	1st	Opening Opposition	View Ballot	Arjun RamanⒸ , Luis Gontes , Kenn JiangⓉ
+UBC 3	4th	Closing Government	View Ballot	Arjun RamanⒸ , Luis Gontes , Kenn JiangⓉ
+Chicago 2	3rd	Closing Opposition	View Ballot	Arjun RamanⒸ , Luis Gontes , Kenn JiangⓉ
+Cornell 1	1st	Opening Government	View Ballot	Humam AzizⒸ , Ashley Shea , William Zhang
+HWS 2	3rd	Opening Opposition	View Ballot	Humam AzizⒸ , Ashley Shea , William Zhang
+Swarthmore 1	4th	Closing Government	View Ballot	Humam AzizⒸ , Ashley Shea , William Zhang
+Alberta 2	2nd	Closing Opposition	View Ballot	Humam AzizⒸ , Ashley Shea , William Zhang
+Harvard 2	2nd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Arnav Gandhi , Emma Listgarten
+UBC 1	4th	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Arnav Gandhi , Emma Listgarten
+Stanford 1	3rd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Arnav Gandhi , Emma Listgarten
+McGill 2	1st	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Arnav Gandhi , Emma Listgarten
+Western 4	2nd	Opening Government	View Ballot	Patrick Cowley🐍Ⓒ , Kira Waldhalm , Aaron ZengⓉ
+Yale 1	4th	Opening Opposition	View Ballot	Patrick Cowley🐍Ⓒ , Kira Waldhalm , Aaron ZengⓉ
+Yale 2	3rd	Closing Government	View Ballot	Patrick Cowley🐍Ⓒ , Kira Waldhalm , Aaron ZengⓉ
+Cornell 2	1st	Closing Opposition	View Ballot	Patrick Cowley🐍Ⓒ , Kira Waldhalm , Aaron ZengⓉ
+Northwestern 1	1st	Opening Government	View Ballot	Nicholas AbernethyⒸ , Hargun Rekhi
+Queen&#x27;s 3	3rd	Opening Opposition	View Ballot	Nicholas AbernethyⒸ , Hargun Rekhi
+Calgary 2	2nd	Closing Government	View Ballot	Nicholas AbernethyⒸ , Hargun Rekhi
+Princeton 2	4th	Closing Opposition	View Ballot	Nicholas AbernethyⒸ , Hargun Rekhi
+UBC 4	3rd	Opening Government	View Ballot	Guo ChenⒸ , Aarian Bhakoo
+JHU 1	1st	Opening Opposition	View Ballot	Guo ChenⒸ , Aarian Bhakoo
+Queen&#x27;s 6	4th	Closing Government	View Ballot	Guo ChenⒸ , Aarian Bhakoo
+Hart House 11	2nd	Closing Opposition	View Ballot	Guo ChenⒸ , Aarian Bhakoo
+EDS 2	4th	Opening Government	View Ballot	Kayla PowersⒸ , Mauricio Jarufe Caballero , Teddy SchwartzⓉ
+McGill 1	1st	Opening Opposition	View Ballot	Kayla PowersⒸ , Mauricio Jarufe Caballero , Teddy SchwartzⓉ
+Yale 4	2nd	Closing Government	View Ballot	Kayla PowersⒸ , Mauricio Jarufe Caballero , Teddy SchwartzⓉ
+Berkeley 1	3rd	Closing Opposition	View Ballot	Kayla PowersⒸ , Mauricio Jarufe Caballero , Teddy SchwartzⓉ
+Cornell 3	4th	Opening Government	View Ballot	Nir AminⒸ , Aryanna Ram , Mic Lewis
+Hart House 8	1st	Opening Opposition	View Ballot	Nir AminⒸ , Aryanna Ram , Mic Lewis
+USC 2	2nd	Closing Government	View Ballot	Nir AminⒸ , Aryanna Ram , Mic Lewis
+Waterloo 3	3rd	Closing Opposition	View Ballot	Nir AminⒸ , Aryanna Ram , Mic Lewis
+Queen&#x27;s 1	2nd	Opening Government	View Ballot	Emma JonesⒸ , Emma Nolan
+McGill 6	3rd	Opening Opposition	View Ballot	Emma JonesⒸ , Emma Nolan
+USC 1	4th	Closing Government	View Ballot	Emma JonesⒸ , Emma Nolan
+Western 3	1st	Closing Opposition	View Ballot	Emma JonesⒸ , Emma Nolan
+Northwestern 2	3rd	Opening Government	View Ballot	Julia Van DammeⒸ , Josh Bahk , Kelly Huang
+Princeton 7	4th	Opening Opposition	View Ballot	Julia Van DammeⒸ , Josh Bahk , Kelly Huang
+TEC CEM 1	1st	Closing Government	View Ballot	Julia Van DammeⒸ , Josh Bahk , Kelly Huang
+Hart House 5	2nd	Closing Opposition	View Ballot	Julia Van DammeⒸ , Josh Bahk , Kelly Huang
+EDS 3	4th	Opening Government	View Ballot	Barron Junteng Ren 🐷Ⓒ , Ashlyn Lu , Milla Chavez
+Stanford 3	3rd	Opening Opposition	View Ballot	Barron Junteng Ren 🐷Ⓒ , Ashlyn Lu , Milla Chavez
+Queen&#x27;s 2	1st	Closing Government	View Ballot	Barron Junteng Ren 🐷Ⓒ , Ashlyn Lu , Milla Chavez
+USC 3	2nd	Closing Opposition	View Ballot	Barron Junteng Ren 🐷Ⓒ , Ashlyn Lu , Milla Chavez
+Calgary 4	3rd	Opening Government	View Ballot	Gwen StearnsⒸ , Addison Baker
+Dartmouth 3	4th	Opening Opposition	View Ballot	Gwen StearnsⒸ , Addison Baker
+Chicago 1	1st	Closing Government	View Ballot	Gwen StearnsⒸ , Addison Baker
+Middlebury 1	2nd	Closing Opposition	View Ballot	Gwen StearnsⒸ , Addison Baker
+McGill 4	4th	Opening Government	View Ballot	Caitlin MahⒸ , Divit Chopra , Tanay Patri
+Stanford 6	1st	Opening Opposition	View Ballot	Caitlin MahⒸ , Divit Chopra , Tanay Patri
+Waterloo 2	2nd	Closing Government	View Ballot	Caitlin MahⒸ , Divit Chopra , Tanay Patri
+Columbia 1	3rd	Closing Opposition	View Ballot	Caitlin MahⒸ , Divit Chopra , Tanay Patri
+UBC 2	1st	Opening Government	View Ballot	Ayal MorⒸ , Gin Nguyen , Rafael AguilarⓉ
+Dartmouth 2	3rd	Opening Opposition	View Ballot	Ayal MorⒸ , Gin Nguyen , Rafael AguilarⓉ
+Middlebury 3	2nd	Closing Government	View Ballot	Ayal MorⒸ , Gin Nguyen , Rafael AguilarⓉ
+Alberta 7	4th	Closing Opposition	View Ballot	Ayal MorⒸ , Gin Nguyen , Rafael AguilarⓉ
+Brown 1	2nd	Opening Government	View Ballot	John Washburn 🇰🇵Ⓒ , Carter Schmitt , Isabelle Feng
+Princeton 6	4th	Opening Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Carter Schmitt , Isabelle Feng
+Berkeley 4	3rd	Closing Government	View Ballot	John Washburn 🇰🇵Ⓒ , Carter Schmitt , Isabelle Feng
+Calgary 1	1st	Closing Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Carter Schmitt , Isabelle Feng
+Swing 1	4th	Opening Government	View Ballot	Caitlin HodgeⒸ , Evan Vega
+McGill 5	3rd	Opening Opposition	View Ballot	Caitlin HodgeⒸ , Evan Vega
+Hart House 9	2nd	Closing Government	View Ballot	Caitlin HodgeⒸ , Evan Vega
+Hart House 2	1st	Closing Opposition	View Ballot	Caitlin HodgeⒸ , Evan Vega
+Calgary 6	2nd	Opening Government	View Ballot	Hamza AzizⒸ , Rojella Santos
+Colby 1	3rd	Opening Opposition	View Ballot	Hamza AzizⒸ , Rojella Santos
+Columbia 3	4th	Closing Government	View Ballot	Hamza AzizⒸ , Rojella Santos
+Carleton 3	1st	Closing Opposition	View Ballot	Hamza AzizⒸ , Rojella Santos
+
+
+team	result	side	ballot	adjudicators
+Alberta 7	1st	Opening Government	View Ballot	Allie McGowanⒸ , Ashlyn Lu , Kira Waldhalm
+Carleton 3	3rd	Opening Opposition	View Ballot	Allie McGowanⒸ , Ashlyn Lu , Kira Waldhalm
+HWS 4	2nd	Closing Government	View Ballot	Allie McGowanⒸ , Ashlyn Lu , Kira Waldhalm
+Calgary 4	4th	Closing Opposition	View Ballot	Allie McGowanⒸ , Ashlyn Lu , Kira Waldhalm
+UBC 2	3rd	Opening Government	View Ballot	Caitlin MahⒸ , Ashley Shea , Teddy Schwartz
+Berkeley 1	1st	Opening Opposition	View Ballot	Caitlin MahⒸ , Ashley Shea , Teddy Schwartz
+Yale 3	2nd	Closing Government	View Ballot	Caitlin MahⒸ , Ashley Shea , Teddy Schwartz
+USC 2	4th	Closing Opposition	View Ballot	Caitlin MahⒸ , Ashley Shea , Teddy Schwartz
+Dartmouth 1	1st	Opening Government	View Ballot	John Washburn 🇰🇵Ⓒ , Mauricio Jarufe Caballero , Rojella Santos
+USC 3	2nd	Opening Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Mauricio Jarufe Caballero , Rojella Santos
+TEC CEM 1	4th	Closing Government	View Ballot	John Washburn 🇰🇵Ⓒ , Mauricio Jarufe Caballero , Rojella Santos
+Cornell 1	3rd	Closing Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Mauricio Jarufe Caballero , Rojella Santos
+Hart House 1	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Raymond Qiu , Annika RoseⓉ
+Waterloo 2	2nd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Raymond Qiu , Annika RoseⓉ
+Columbia 2	3rd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Raymond Qiu , Annika RoseⓉ
+Stanford 5	4th	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Raymond Qiu , Annika RoseⓉ
+Waterloo 3	3rd	Opening Government	View Ballot	Aubrey NanⒸ , Kenn Jiang
+Chicago 1	2nd	Opening Opposition	View Ballot	Aubrey NanⒸ , Kenn Jiang
+Hart House 9	1st	Closing Government	View Ballot	Aubrey NanⒸ , Kenn Jiang
+Berkeley 3	4th	Closing Opposition	View Ballot	Aubrey NanⒸ , Kenn Jiang
+McGill 2	1st	Opening Government	View Ballot	Nicholas AbernethyⒸ , Gin Nguyen , Tanay Patri
+Harvard 2	4th	Opening Opposition	View Ballot	Nicholas AbernethyⒸ , Gin Nguyen , Tanay Patri
+Harvard 1	3rd	Closing Government	View Ballot	Nicholas AbernethyⒸ , Gin Nguyen , Tanay Patri
+McGill 1	2nd	Closing Opposition	View Ballot	Nicholas AbernethyⒸ , Gin Nguyen , Tanay Patri
+Alberta 2	4th	Opening Government	View Ballot	Maria XuⒸ , Jack Zhu
+Pennsylvania 1	1st	Opening Opposition	View Ballot	Maria XuⒸ , Jack Zhu
+Princeton 6	2nd	Closing Government	View Ballot	Maria XuⒸ , Jack Zhu
+Northwestern 2	3rd	Closing Opposition	View Ballot	Maria XuⒸ , Jack Zhu
+Hart House 5	2nd	Opening Government	View Ballot	Alexander BeaumontⒸ , Aaron Zeng
+Calgary 3	3rd	Opening Opposition	View Ballot	Alexander BeaumontⒸ , Aaron Zeng
+Hart House 11	1st	Closing Government	View Ballot	Alexander BeaumontⒸ , Aaron Zeng
+Berkeley 2	4th	Closing Opposition	View Ballot	Alexander BeaumontⒸ , Aaron Zeng
+Stanford 4	1st	Opening Government	View Ballot	Daniel SvirskyⒸ , Luis Gontes
+McGill 5	2nd	Opening Opposition	View Ballot	Daniel SvirskyⒸ , Luis Gontes
+Queen&#x27;s 3	3rd	Closing Government	View Ballot	Daniel SvirskyⒸ , Luis Gontes
+Princeton 5	4th	Closing Opposition	View Ballot	Daniel SvirskyⒸ , Luis Gontes
+McGill 3	3rd	Opening Government	View Ballot	Ryan LaffertyⒸ , Arnav Gandhi , Rafael Aguilar
+Yale 1	1st	Opening Opposition	View Ballot	Ryan LaffertyⒸ , Arnav Gandhi , Rafael Aguilar
+UCLA 2	4th	Closing Government	View Ballot	Ryan LaffertyⒸ , Arnav Gandhi , Rafael Aguilar
+UBC 1	2nd	Closing Opposition	View Ballot	Ryan LaffertyⒸ , Arnav Gandhi , Rafael Aguilar
+UBC 3	3rd	Opening Government	View Ballot	Caitlin HodgeⒸ , Divit Chopra , Kiera Toussaint
+Queen&#x27;s 6	4th	Opening Opposition	View Ballot	Caitlin HodgeⒸ , Divit Chopra , Kiera Toussaint
+UBC 4	2nd	Closing Government	View Ballot	Caitlin HodgeⒸ , Divit Chopra , Kiera Toussaint
+EDS 3	1st	Closing Opposition	View Ballot	Caitlin HodgeⒸ , Divit Chopra , Kiera Toussaint
+Columbia 1	2nd	Opening Government	View Ballot	Greg KwokⒸ , Aarian Bhakoo
+Northwestern 1	3rd	Opening Opposition	View Ballot	Greg KwokⒸ , Aarian Bhakoo
+Carleton 2	4th	Closing Government	View Ballot	Greg KwokⒸ , Aarian Bhakoo
+Hart House 2	1st	Closing Opposition	View Ballot	Greg KwokⒸ , Aarian Bhakoo
+Yale 4	3rd	Opening Government	View Ballot	Gwen StearnsⒸ , George Macauley , Sarenna McKellar
+Queen&#x27;s 2	4th	Opening Opposition	View Ballot	Gwen StearnsⒸ , George Macauley , Sarenna McKellar
+Waterloo 1	2nd	Closing Government	View Ballot	Gwen StearnsⒸ , George Macauley , Sarenna McKellar
+Stanford 2	1st	Closing Opposition	View Ballot	Gwen StearnsⒸ , George Macauley , Sarenna McKellar
+Middlebury 2	4th	Opening Government	View Ballot	Emma JonesⒸ , William Zhang
+Dartmouth 2	2nd	Opening Opposition	View Ballot	Emma JonesⒸ , William Zhang
+Chicago 2	1st	Closing Government	View Ballot	Emma JonesⒸ , William Zhang
+Princeton 2	3rd	Closing Opposition	View Ballot	Emma JonesⒸ , William Zhang
+Queen&#x27;s 4	4th	Opening Government	View Ballot	Xiao-ke Lu🦭Ⓒ , Anette Xia , Mary Larkin
+Middlebury 1	3rd	Opening Opposition	View Ballot	Xiao-ke Lu🦭Ⓒ , Anette Xia , Mary Larkin
+USC 1	2nd	Closing Government	View Ballot	Xiao-ke Lu🦭Ⓒ , Anette Xia , Mary Larkin
+Swing 1	1st	Closing Opposition	View Ballot	Xiao-ke Lu🦭Ⓒ , Anette Xia , Mary Larkin
+JHU 1	2nd	Opening Government	View Ballot	Audrey MelodyⒸ , Thomas Bowes
+EDS 2	4th	Opening Opposition	View Ballot	Audrey MelodyⒸ , Thomas Bowes
+Middlebury 3	3rd	Closing Government	View Ballot	Audrey MelodyⒸ , Thomas Bowes
+Berkeley 4	1st	Closing Opposition	View Ballot	Audrey MelodyⒸ , Thomas Bowes
+McGill 4	3rd	Opening Government	View Ballot	Nir AminⒸ , Carter Schmitt , Hargun Rekhi
+Brown 1	2nd	Opening Opposition	View Ballot	Nir AminⒸ , Carter Schmitt , Hargun Rekhi
+Western 1	4th	Closing Government	View Ballot	Nir AminⒸ , Carter Schmitt , Hargun Rekhi
+Queen&#x27;s 1	1st	Closing Opposition	View Ballot	Nir AminⒸ , Carter Schmitt , Hargun Rekhi
+Alberta 5	2nd	Opening Government	View Ballot	Hamza AzizⒸ , Tejas Rajagopal
+Columbia 3	4th	Opening Opposition	View Ballot	Hamza AzizⒸ , Tejas Rajagopal
+HWS 6	3rd	Closing Government	View Ballot	Hamza AzizⒸ , Tejas Rajagopal
+Swing 2	1st	Closing Opposition	View Ballot	Hamza AzizⒸ , Tejas Rajagopal
+Stanford 1	2nd	Opening Government	View Ballot	Ayal MorⒸ , Aryanna Ram
+Cornell 2	4th	Opening Opposition	View Ballot	Ayal MorⒸ , Aryanna Ram
+Hart House 8	3rd	Closing Government	View Ballot	Ayal MorⒸ , Aryanna Ram
+EDS 1	1st	Closing Opposition	View Ballot	Ayal MorⒸ , Aryanna Ram
+Rochester 2	3rd	Opening Government	View Ballot	Devan TatlowⒸ , Kelly Huang
+HWS 5	1st	Opening Opposition	View Ballot	Devan TatlowⒸ , Kelly Huang
+Swarthmore 2	2nd	Closing Government	View Ballot	Devan TatlowⒸ , Kelly Huang
+HWS 2	4th	Closing Opposition	View Ballot	Devan TatlowⒸ , Kelly Huang
+Princeton 3	3rd	Opening Government	View Ballot	Rhys NickersonⒸ , Isabelle Feng , Milla Chavez
+Harvard 4	2nd	Opening Opposition	View Ballot	Rhys NickersonⒸ , Isabelle Feng , Milla Chavez
+Rochester 1	4th	Closing Government	View Ballot	Rhys NickersonⒸ , Isabelle Feng , Milla Chavez
+Stanford 6	1st	Closing Opposition	View Ballot	Rhys NickersonⒸ , Isabelle Feng , Milla Chavez
+Alberta 3	3rd	Opening Government	View Ballot	Barron Junteng Ren 🐷Ⓒ , Myles Nichols
+Hart House 3	2nd	Opening Opposition	View Ballot	Barron Junteng Ren 🐷Ⓒ , Myles Nichols
+Hart House 7	4th	Closing Government	View Ballot	Barron Junteng Ren 🐷Ⓒ , Myles Nichols
+McGill 6	1st	Closing Opposition	View Ballot	Barron Junteng Ren 🐷Ⓒ , Myles Nichols
+Calgary 1	2nd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Emma Nolan , Mic Lewis
+Yale 2	3rd	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Emma Nolan , Mic Lewis
+UCLA 1	1st	Closing Government	View Ballot	Tanvir ShahriarⒸ , Emma Nolan , Mic Lewis
+Calgary 2	4th	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Emma Nolan , Mic Lewis
+Western 5	2nd	Opening Government	View Ballot	Max RosenⒸ , Emma Listgarten
+Western 2	3rd	Opening Opposition	View Ballot	Max RosenⒸ , Emma Listgarten
+Hart House 4	1st	Closing Government	View Ballot	Max RosenⒸ , Emma Listgarten
+Cornell 3	4th	Closing Opposition	View Ballot	Max RosenⒸ , Emma Listgarten
+Alberta 6	2nd	Opening Government	View Ballot	Kayla PowersⒸ , Addison Baker , Guo Chen
+Princeton 7	1st	Opening Opposition	View Ballot	Kayla PowersⒸ , Addison Baker , Guo Chen
+Swarthmore 1	3rd	Closing Government	View Ballot	Kayla PowersⒸ , Addison Baker , Guo Chen
+Calgary 5	4th	Closing Opposition	View Ballot	Kayla PowersⒸ , Addison Baker , Guo Chen
+Colby 1	3rd	Opening Government	View Ballot	Varun LodayaⒸ , Evan Vega
+Dartmouth 3	2nd	Opening Opposition	View Ballot	Varun LodayaⒸ , Evan Vega
+Western 6	1st	Closing Government	View Ballot	Varun LodayaⒸ , Evan Vega
+Carleton 1	4th	Closing Opposition	View Ballot	Varun LodayaⒸ , Evan Vega
+Alberta 1	2nd	Opening Government	View Ballot	Julia Van DammeⒸ , Oskar Lieberman
+Calgary 6	3rd	Opening Opposition	View Ballot	Julia Van DammeⒸ , Oskar Lieberman
+HWS 1	4th	Closing Government	View Ballot	Julia Van DammeⒸ , Oskar Lieberman
+HWS 3	1st	Closing Opposition	View Ballot	Julia Van DammeⒸ , Oskar Lieberman
+Queen&#x27;s 5	2nd	Opening Government	View Ballot	Arjun RamanⒸ , Aadarsh S Adivishnu , Victoria Moldovan
+Harvard 3	1st	Opening Opposition	View Ballot	Arjun RamanⒸ , Aadarsh S Adivishnu , Victoria Moldovan
+Western 4	4th	Closing Government	View Ballot	Arjun RamanⒸ , Aadarsh S Adivishnu , Victoria Moldovan
+Western 3	3rd	Closing Opposition	View Ballot	Arjun RamanⒸ , Aadarsh S Adivishnu , Victoria Moldovan
+
+
+team	result	side	ballot	adjudicators
+UCLA 1	2nd	Opening Government	View Ballot	Ayal MorⒸ , Mic Lewis , Tejas Rajagopal
+Waterloo 1	4th	Opening Opposition	View Ballot	Ayal MorⒸ , Mic Lewis , Tejas Rajagopal
+Queen&#x27;s 1	3rd	Closing Government	View Ballot	Ayal MorⒸ , Mic Lewis , Tejas Rajagopal
+Stanford 1	1st	Closing Opposition	View Ballot	Ayal MorⒸ , Mic Lewis , Tejas Rajagopal
+McGill 5	4th	Opening Government	View Ballot	Daniel SvirskyⒸ , Carter Schmitt , Raymond Qiu
+Hart House 5	3rd	Opening Opposition	View Ballot	Daniel SvirskyⒸ , Carter Schmitt , Raymond Qiu
+Alberta 3	2nd	Closing Government	View Ballot	Daniel SvirskyⒸ , Carter Schmitt , Raymond Qiu
+HWS 5	1st	Closing Opposition	View Ballot	Daniel SvirskyⒸ , Carter Schmitt , Raymond Qiu
+Hart House 3	1st	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Aadarsh S Adivishnu , Humam Aziz
+Columbia 2	3rd	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Aadarsh S Adivishnu , Humam Aziz
+Harvard 2	2nd	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Aadarsh S Adivishnu , Humam Aziz
+Calgary 1	4th	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Aadarsh S Adivishnu , Humam Aziz
+Western 4	3rd	Opening Government	View Ballot	Caitlin MahⒸ , Hamza Aziz
+McGill 4	2nd	Opening Opposition	View Ballot	Caitlin MahⒸ , Hamza Aziz
+McGill 3	1st	Closing Government	View Ballot	Caitlin MahⒸ , Hamza Aziz
+Carleton 2	4th	Closing Opposition	View Ballot	Caitlin MahⒸ , Hamza Aziz
+Western 3	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Aaron Zeng , Sarenna McKellar
+Hart House 4	3rd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Aaron Zeng , Sarenna McKellar
+Yale 1	2nd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Aaron Zeng , Sarenna McKellar
+Hart House 11	4th	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Aaron Zeng , Sarenna McKellar
+Rochester 1	1st	Opening Government	View Ballot	Patrick Cowley🐍Ⓒ , Kayla Powers
+Stanford 2	2nd	Opening Opposition	View Ballot	Patrick Cowley🐍Ⓒ , Kayla Powers
+Harvard 3	3rd	Closing Government	View Ballot	Patrick Cowley🐍Ⓒ , Kayla Powers
+Waterloo 2	4th	Closing Opposition	View Ballot	Patrick Cowley🐍Ⓒ , Kayla Powers
+Calgary 6	1st	Opening Government	View Ballot	Devan TatlowⒸ , Mary Larkin
+HWS 2	4th	Opening Opposition	View Ballot	Devan TatlowⒸ , Mary Larkin
+Calgary 4	3rd	Closing Government	View Ballot	Devan TatlowⒸ , Mary Larkin
+Queen&#x27;s 6	2nd	Closing Opposition	View Ballot	Devan TatlowⒸ , Mary Larkin
+McGill 6	1st	Opening Government	View Ballot	Nicholas AbernethyⒸ , Caitlin Hodge
+Columbia 1	2nd	Opening Opposition	View Ballot	Nicholas AbernethyⒸ , Caitlin Hodge
+Hart House 8	3rd	Closing Government	View Ballot	Nicholas AbernethyⒸ , Caitlin Hodge
+Hart House 9	4th	Closing Opposition	View Ballot	Nicholas AbernethyⒸ , Caitlin Hodge
+Western 1	3rd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Victoria Moldovan
+EDS 3	1st	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Victoria Moldovan
+Cornell 1	4th	Closing Government	View Ballot	Tanvir ShahriarⒸ , Victoria Moldovan
+Queen&#x27;s 2	2nd	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Victoria Moldovan
+Columbia 3	3rd	Opening Government	View Ballot	Evan VegaⒸ , Oskar Lieberman
+Carleton 1	1st	Opening Opposition	View Ballot	Evan VegaⒸ , Oskar Lieberman
+HWS 6	4th	Closing Government	View Ballot	Evan VegaⒸ , Oskar Lieberman
+Alberta 5	2nd	Closing Opposition	View Ballot	Evan VegaⒸ , Oskar Lieberman
+Swing 2	1st	Opening Government	View Ballot	Guo ChenⒸ , Kelly Huang , Rojella Santos
+Calgary 5	3rd	Opening Opposition	View Ballot	Guo ChenⒸ , Kelly Huang , Rojella Santos
+Colby 1	2nd	Closing Government	View Ballot	Guo ChenⒸ , Kelly Huang , Rojella Santos
+HWS 1	4th	Closing Opposition	View Ballot	Guo ChenⒸ , Kelly Huang , Rojella Santos
+Stanford 6	1st	Opening Government	View Ballot	Emma JonesⒸ , Barron Junteng Ren 🐷 , Tanay Patri
+Hart House 1	3rd	Opening Opposition	View Ballot	Emma JonesⒸ , Barron Junteng Ren 🐷 , Tanay Patri
+Harvard 4	4th	Closing Government	View Ballot	Emma JonesⒸ , Barron Junteng Ren 🐷 , Tanay Patri
+McGill 2	2nd	Closing Opposition	View Ballot	Emma JonesⒸ , Barron Junteng Ren 🐷 , Tanay Patri
+USC 3	1st	Opening Government	View Ballot	Allie McGowanⒸ , Audrey Melody
+USC 2	2nd	Opening Opposition	View Ballot	Allie McGowanⒸ , Audrey Melody
+Chicago 2	3rd	Closing Government	View Ballot	Allie McGowanⒸ , Audrey Melody
+Waterloo 3	4th	Closing Opposition	View Ballot	Allie McGowanⒸ , Audrey Melody
+UBC 1	2nd	Opening Government	View Ballot	Rhys NickersonⒸ , Emma Listgarten
+Western 5	4th	Opening Opposition	View Ballot	Rhys NickersonⒸ , Emma Listgarten
+Cornell 2	1st	Closing Government	View Ballot	Rhys NickersonⒸ , Emma Listgarten
+Northwestern 1	3rd	Closing Opposition	View Ballot	Rhys NickersonⒸ , Emma Listgarten
+Berkeley 1	3rd	Opening Government	View Ballot	Alexander BeaumontⒸ , Ashlyn Lu , Xiao-ke Lu🦭
+Harvard 1	1st	Opening Opposition	View Ballot	Alexander BeaumontⒸ , Ashlyn Lu , Xiao-ke Lu🦭
+Queen&#x27;s 5	2nd	Closing Government	View Ballot	Alexander BeaumontⒸ , Ashlyn Lu , Xiao-ke Lu🦭
+Yale 3	4th	Closing Opposition	View Ballot	Alexander BeaumontⒸ , Ashlyn Lu , Xiao-ke Lu🦭
+Pennsylvania 1	1st	Opening Government	View Ballot	Gwen StearnsⒸ , Hargun Rekhi
+Swing 1	3rd	Opening Opposition	View Ballot	Gwen StearnsⒸ , Hargun Rekhi
+Brown 1	4th	Closing Government	View Ballot	Gwen StearnsⒸ , Hargun Rekhi
+JHU 1	2nd	Closing Opposition	View Ballot	Gwen StearnsⒸ , Hargun Rekhi
+Princeton 5	1st	Opening Government	View Ballot	Greg KwokⒸ , Gin Nguyen , Rafael AguilarⓉ
+Middlebury 1	3rd	Opening Opposition	View Ballot	Greg KwokⒸ , Gin Nguyen , Rafael AguilarⓉ
+Western 2	2nd	Closing Government	View Ballot	Greg KwokⒸ , Gin Nguyen , Rafael AguilarⓉ
+TEC CEM 1	4th	Closing Opposition	View Ballot	Greg KwokⒸ , Gin Nguyen , Rafael AguilarⓉ
+EDS 1	2nd	Opening Government	View Ballot	Ryan LaffertyⒸ , Maria Xu
+Hart House 2	4th	Opening Opposition	View Ballot	Ryan LaffertyⒸ , Maria Xu
+McGill 1	1st	Closing Government	View Ballot	Ryan LaffertyⒸ , Maria Xu
+Princeton 3	3rd	Closing Opposition	View Ballot	Ryan LaffertyⒸ , Maria Xu
+Stanford 5	1st	Opening Government	View Ballot	Max RosenⒸ , Kenn Jiang , Kira Waldhalm
+Stanford 4	3rd	Opening Opposition	View Ballot	Max RosenⒸ , Kenn Jiang , Kira Waldhalm
+Dartmouth 1	4th	Closing Government	View Ballot	Max RosenⒸ , Kenn Jiang , Kira Waldhalm
+Yale 4	2nd	Closing Opposition	View Ballot	Max RosenⒸ , Kenn Jiang , Kira Waldhalm
+Berkeley 4	3rd	Opening Government	View Ballot	Arjun RamanⒸ , Aubrey Nan
+UBC 2	4th	Opening Opposition	View Ballot	Arjun RamanⒸ , Aubrey Nan
+Chicago 1	1st	Closing Government	View Ballot	Arjun RamanⒸ , Aubrey Nan
+Yale 2	2nd	Closing Opposition	View Ballot	Arjun RamanⒸ , Aubrey Nan
+Queen&#x27;s 3	2nd	Opening Government	View Ballot	Brenden HanⒸ , Myles Nichols
+UCLA 2	3rd	Opening Opposition	View Ballot	Brenden HanⒸ , Myles Nichols
+Dartmouth 2	1st	Closing Government	View Ballot	Brenden HanⒸ , Myles Nichols
+USC 1	4th	Closing Opposition	View Ballot	Brenden HanⒸ , Myles Nichols
+Alberta 1	3rd	Opening Government	View Ballot	William ZhangⒸ , Divit Chopra , Luis Gontes
+Carleton 3	4th	Opening Opposition	View Ballot	William ZhangⒸ , Divit Chopra , Luis Gontes
+UBC 3	2nd	Closing Government	View Ballot	William ZhangⒸ , Divit Chopra , Luis Gontes
+Western 6	1st	Closing Opposition	View Ballot	William ZhangⒸ , Divit Chopra , Luis Gontes
+Swarthmore 1	2nd	Opening Government	View Ballot	Jack ZhuⒸ , Annika Rose , Kiera Toussaint
+Berkeley 2	3rd	Opening Opposition	View Ballot	Jack ZhuⒸ , Annika Rose , Kiera Toussaint
+Queen&#x27;s 4	1st	Closing Government	View Ballot	Jack ZhuⒸ , Annika Rose , Kiera Toussaint
+Rochester 2	4th	Closing Opposition	View Ballot	Jack ZhuⒸ , Annika Rose , Kiera Toussaint
+Northwestern 2	2nd	Opening Government	View Ballot	Julia Van DammeⒸ , Aarian Bhakoo , Milla Chavez
+Alberta 6	3rd	Opening Opposition	View Ballot	Julia Van DammeⒸ , Aarian Bhakoo , Milla Chavez
+Dartmouth 3	1st	Closing Government	View Ballot	Julia Van DammeⒸ , Aarian Bhakoo , Milla Chavez
+Middlebury 2	4th	Closing Opposition	View Ballot	Julia Van DammeⒸ , Aarian Bhakoo , Milla Chavez
+Princeton 2	2nd	Opening Government	View Ballot	Thomas BowesⒸ , Addison Baker , Arnav Gandhi
+HWS 3	3rd	Opening Opposition	View Ballot	Thomas BowesⒸ , Addison Baker , Arnav Gandhi
+EDS 2	1st	Closing Government	View Ballot	Thomas BowesⒸ , Addison Baker , Arnav Gandhi
+Swarthmore 2	4th	Closing Opposition	View Ballot	Thomas BowesⒸ , Addison Baker , Arnav Gandhi
+Berkeley 3	2nd	Opening Government	View Ballot	John Washburn 🇰🇵Ⓒ , Isabelle Feng
+Alberta 7	1st	Opening Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Isabelle Feng
+Calgary 2	4th	Closing Government	View Ballot	John Washburn 🇰🇵Ⓒ , Isabelle Feng
+Middlebury 3	3rd	Closing Opposition	View Ballot	John Washburn 🇰🇵Ⓒ , Isabelle Feng
+HWS 4	2nd	Opening Government	View Ballot	George MacauleyⒸ , Aryanna Ram , Ashley Shea
+UBC 4	4th	Opening Opposition	View Ballot	George MacauleyⒸ , Aryanna Ram , Ashley Shea
+Cornell 3	1st	Closing Government	View Ballot	George MacauleyⒸ , Aryanna Ram , Ashley Shea
+Alberta 2	3rd	Closing Opposition	View Ballot	George MacauleyⒸ , Aryanna Ram , Ashley Shea
+Calgary 3	4th	Opening Government	View Ballot	Nir AminⒸ , Emma Nolan
+Princeton 6	3rd	Opening Opposition	View Ballot	Nir AminⒸ , Emma Nolan
+Princeton 7	1st	Closing Government	View Ballot	Nir AminⒸ , Emma Nolan
+Hart House 7	2nd	Closing Opposition	View Ballot	Nir AminⒸ , Emma Nolan
+
+
+team	result	side	ballot	adjudicators
+Dartmouth 2	2nd	Opening Government	View Ballot	Arjun RamanⒸ , Audrey Melody , Mary Larkin
+Queen&#x27;s 3	3rd	Opening Opposition	View Ballot	Arjun RamanⒸ , Audrey Melody , Mary Larkin
+Northwestern 1	1st	Closing Government	View Ballot	Arjun RamanⒸ , Audrey Melody , Mary Larkin
+Hart House 4	4th	Closing Opposition	View Ballot	Arjun RamanⒸ , Audrey Melody , Mary Larkin
+HWS 2	2nd	Opening Government	View Ballot	Hargun RekhiⒸ , Divit Chopra
+Calgary 4	3rd	Opening Opposition	View Ballot	Hargun RekhiⒸ , Divit Chopra
+Rochester 2	4th	Closing Government	View Ballot	Hargun RekhiⒸ , Divit Chopra
+Carleton 1	1st	Closing Opposition	View Ballot	Hargun RekhiⒸ , Divit Chopra
+Dartmouth 3	3rd	Opening Government	View Ballot	Thomas BowesⒸ , Carter Schmitt
+Calgary 2	2nd	Opening Opposition	View Ballot	Thomas BowesⒸ , Carter Schmitt
+Middlebury 1	1st	Closing Government	View Ballot	Thomas BowesⒸ , Carter Schmitt
+UBC 4	4th	Closing Opposition	View Ballot	Thomas BowesⒸ , Carter Schmitt
+Yale 1	2nd	Opening Government	View Ballot	Nir AminⒸ , John Washburn 🇰🇵 , Tanay Patri
+Queen&#x27;s 1	4th	Opening Opposition	View Ballot	Nir AminⒸ , John Washburn 🇰🇵 , Tanay Patri
+Hart House 2	3rd	Closing Government	View Ballot	Nir AminⒸ , John Washburn 🇰🇵 , Tanay Patri
+Stanford 4	1st	Closing Opposition	View Ballot	Nir AminⒸ , John Washburn 🇰🇵 , Tanay Patri
+Hart House 7	3rd	Opening Government	View Ballot	Gwen StearnsⒸ , Oskar Lieberman , Victoria Moldovan
+Western 1	1st	Opening Opposition	View Ballot	Gwen StearnsⒸ , Oskar Lieberman , Victoria Moldovan
+Calgary 6	4th	Closing Government	View Ballot	Gwen StearnsⒸ , Oskar Lieberman , Victoria Moldovan
+Queen&#x27;s 4	2nd	Closing Opposition	View Ballot	Gwen StearnsⒸ , Oskar Lieberman , Victoria Moldovan
+Princeton 7	1st	Opening Government	View Ballot	Varun LodayaⒸ , Aryanna Ram , Devan Tatlow
+Berkeley 3	3rd	Opening Opposition	View Ballot	Varun LodayaⒸ , Aryanna Ram , Devan Tatlow
+Berkeley 4	2nd	Closing Government	View Ballot	Varun LodayaⒸ , Aryanna Ram , Devan Tatlow
+Chicago 2	4th	Closing Opposition	View Ballot	Varun LodayaⒸ , Aryanna Ram , Devan Tatlow
+Middlebury 3	1st	Opening Government	View Ballot	Caitlin MahⒸ , Milla Chavez
+HWS 4	4th	Opening Opposition	View Ballot	Caitlin MahⒸ , Milla Chavez
+Waterloo 3	3rd	Closing Government	View Ballot	Caitlin MahⒸ , Milla Chavez
+Brown 1	2nd	Closing Opposition	View Ballot	Caitlin MahⒸ , Milla Chavez
+Berkeley 2	1st	Opening Government	View Ballot	William ZhangⒸ , Guo Chen
+Cornell 1	3rd	Opening Opposition	View Ballot	William ZhangⒸ , Guo Chen
+HWS 3	4th	Closing Government	View Ballot	William ZhangⒸ , Guo Chen
+McGill 5	2nd	Closing Opposition	View Ballot	William ZhangⒸ , Guo Chen
+Cornell 2	3rd	Opening Government	View Ballot	Humam AzizⒸ , Aubrey Nan , Xiao-ke Lu🦭
+Queen&#x27;s 5	4th	Opening Opposition	View Ballot	Humam AzizⒸ , Aubrey Nan , Xiao-ke Lu🦭
+Stanford 5	2nd	Closing Government	View Ballot	Humam AzizⒸ , Aubrey Nan , Xiao-ke Lu🦭
+Columbia 1	1st	Closing Opposition	View Ballot	Humam AzizⒸ , Aubrey Nan , Xiao-ke Lu🦭
+Cornell 3	4th	Opening Government	View Ballot	Tanvir ShahriarⒸ , Annika Rose , Luis Gontes
+Western 4	3rd	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Annika Rose , Luis Gontes
+Calgary 1	1st	Closing Government	View Ballot	Tanvir ShahriarⒸ , Annika Rose , Luis Gontes
+Waterloo 1	2nd	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Annika Rose , Luis Gontes
+Yale 2	2nd	Opening Government	View Ballot	Patrick Cowley🐍Ⓒ , Aarian Bhakoo , Sarenna McKellar
+Yale 4	4th	Opening Opposition	View Ballot	Patrick Cowley🐍Ⓒ , Aarian Bhakoo , Sarenna McKellar
+UBC 1	3rd	Closing Government	View Ballot	Patrick Cowley🐍Ⓒ , Aarian Bhakoo , Sarenna McKellar
+Chicago 1	1st	Closing Opposition	View Ballot	Patrick Cowley🐍Ⓒ , Aarian Bhakoo , Sarenna McKellar
+Calgary 5	3rd	Opening Government	View Ballot	Greg KwokⒸ , Rafael Aguilar
+Queen&#x27;s 6	1st	Opening Opposition	View Ballot	Greg KwokⒸ , Rafael Aguilar
+Middlebury 2	2nd	Closing Government	View Ballot	Greg KwokⒸ , Rafael Aguilar
+Colby 1	4th	Closing Opposition	View Ballot	Greg KwokⒸ , Rafael Aguilar
+EDS 2	2nd	Opening Government	View Ballot	Max RosenⒸ , Anette Xia , Evan Vega
+Princeton 5	3rd	Opening Opposition	View Ballot	Max RosenⒸ , Anette Xia , Evan Vega
+Princeton 2	4th	Closing Government	View Ballot	Max RosenⒸ , Anette Xia , Evan Vega
+Alberta 3	1st	Closing Opposition	View Ballot	Max RosenⒸ , Anette Xia , Evan Vega
+Waterloo 2	4th	Opening Government	View Ballot	Emma JonesⒸ , Alexander Beaumont , Maria Xu
+JHU 1	1st	Opening Opposition	View Ballot	Emma JonesⒸ , Alexander Beaumont , Maria Xu
+Hart House 3	2nd	Closing Government	View Ballot	Emma JonesⒸ , Alexander Beaumont , Maria Xu
+Hart House 8	3rd	Closing Opposition	View Ballot	Emma JonesⒸ , Alexander Beaumont , Maria Xu
+Western 6	4th	Opening Government	View Ballot	Hamza AzizⒸ , Aadarsh S Adivishnu
+Hart House 11	3rd	Opening Opposition	View Ballot	Hamza AzizⒸ , Aadarsh S Adivishnu
+UBC 2	2nd	Closing Government	View Ballot	Hamza AzizⒸ , Aadarsh S Adivishnu
+Hart House 5	1st	Closing Opposition	View Ballot	Hamza AzizⒸ , Aadarsh S Adivishnu
+Hart House 1	2nd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Daniel Svirsky
+UCLA 1	1st	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Daniel Svirsky
+McGill 6	4th	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Daniel Svirsky
+Harvard 4	3rd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Daniel Svirsky
+Queen&#x27;s 2	2nd	Opening Government	View Ballot	Caitlin HodgeⒸ , Gin Nguyen , Myles Nichols
+Dartmouth 1	3rd	Opening Opposition	View Ballot	Caitlin HodgeⒸ , Gin Nguyen , Myles Nichols
+Western 5	4th	Closing Government	View Ballot	Caitlin HodgeⒸ , Gin Nguyen , Myles Nichols
+Swing 1	1st	Closing Opposition	View Ballot	Caitlin HodgeⒸ , Gin Nguyen , Myles Nichols
+Stanford 2	3rd	Opening Government	View Ballot	Ayal MorⒸ , Allie McGowan , Emma Listgarten
+EDS 1	2nd	Opening Opposition	View Ballot	Ayal MorⒸ , Allie McGowan , Emma Listgarten
+Stanford 1	1st	Closing Government	View Ballot	Ayal MorⒸ , Allie McGowan , Emma Listgarten
+Harvard 1	4th	Closing Opposition	View Ballot	Ayal MorⒸ , Allie McGowan , Emma Listgarten
+HWS 1	3rd	Opening Government	View Ballot	Emma NolanⒸ , Ashlyn Lu
+HWS 6	4th	Opening Opposition	View Ballot	Emma NolanⒸ , Ashlyn Lu
+Alberta 5	1st	Closing Government	View Ballot	Emma NolanⒸ , Ashlyn Lu
+Columbia 3	2nd	Closing Opposition	View Ballot	Emma NolanⒸ , Ashlyn Lu
+TEC CEM 1	1st	Opening Government	View Ballot	Julia Van DammeⒸ , Addison Baker
+Swing 2	2nd	Opening Opposition	View Ballot	Julia Van DammeⒸ , Addison Baker
+Carleton 3	4th	Closing Government	View Ballot	Julia Van DammeⒸ , Addison Baker
+Swarthmore 1	3rd	Closing Opposition	View Ballot	Julia Van DammeⒸ , Addison Baker
+Swarthmore 2	2nd	Opening Government	View Ballot	Kira WaldhalmⒸ , Rojella Santos
+Alberta 2	1st	Opening Opposition	View Ballot	Kira WaldhalmⒸ , Rojella Santos
+Calgary 3	3rd	Closing Government	View Ballot	Kira WaldhalmⒸ , Rojella Santos
+Alberta 1	4th	Closing Opposition	View Ballot	Kira WaldhalmⒸ , Rojella Santos
+Princeton 6	3rd	Opening Government	View Ballot	George MacauleyⒸ , Kelly Huang
+USC 1	2nd	Opening Opposition	View Ballot	George MacauleyⒸ , Kelly Huang
+Alberta 6	4th	Closing Government	View Ballot	George MacauleyⒸ , Kelly Huang
+UBC 3	1st	Closing Opposition	View Ballot	George MacauleyⒸ , Kelly Huang
+USC 2	3rd	Opening Government	View Ballot	Mic LewisⒸ , Arnav Gandhi , Ashley Shea
+Hart House 9	1st	Opening Opposition	View Ballot	Mic LewisⒸ , Arnav Gandhi , Ashley Shea
+HWS 5	2nd	Closing Government	View Ballot	Mic LewisⒸ , Arnav Gandhi , Ashley Shea
+Alberta 7	4th	Closing Opposition	View Ballot	Mic LewisⒸ , Arnav Gandhi , Ashley Shea
+Columbia 2	2nd	Opening Government	View Ballot	Ryan LaffertyⒸ , Brenden Han , Kiera Toussaint
+Yale 3	4th	Opening Opposition	View Ballot	Ryan LaffertyⒸ , Brenden Han , Kiera Toussaint
+EDS 3	3rd	Closing Government	View Ballot	Ryan LaffertyⒸ , Brenden Han , Kiera Toussaint
+McGill 4	1st	Closing Opposition	View Ballot	Ryan LaffertyⒸ , Brenden Han , Kiera Toussaint
+Harvard 2	2nd	Opening Government	View Ballot	Nicholas AbernethyⒸ , Kenn Jiang , Tejas Rajagopal
+McGill 3	4th	Opening Opposition	View Ballot	Nicholas AbernethyⒸ , Kenn Jiang , Tejas Rajagopal
+USC 3	3rd	Closing Government	View Ballot	Nicholas AbernethyⒸ , Kenn Jiang , Tejas Rajagopal
+Pennsylvania 1	1st	Closing Opposition	View Ballot	Nicholas AbernethyⒸ , Kenn Jiang , Tejas Rajagopal
+McGill 1	3rd	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Isabelle Feng , Jack Zhu
+McGill 2	2nd	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Isabelle Feng , Jack Zhu
+Rochester 1	4th	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Isabelle Feng , Jack Zhu
+Stanford 6	1st	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Isabelle Feng , Jack Zhu
+Harvard 3	1st	Opening Government	View Ballot	Rhys NickersonⒸ , Barron Junteng Ren 🐷
+Princeton 3	3rd	Opening Opposition	View Ballot	Rhys NickersonⒸ , Barron Junteng Ren 🐷
+Western 3	4th	Closing Government	View Ballot	Rhys NickersonⒸ , Barron Junteng Ren 🐷
+Berkeley 1	2nd	Closing Opposition	View Ballot	Rhys NickersonⒸ , Barron Junteng Ren 🐷
+Western 2	3rd	Opening Government	View Ballot	Raymond QiuⒸ , Aaron Zeng
+Carleton 2	1st	Opening Opposition	View Ballot	Raymond QiuⒸ , Aaron Zeng
+Northwestern 2	2nd	Closing Government	View Ballot	Raymond QiuⒸ , Aaron Zeng
+UCLA 2	4th	Closing Opposition	View Ballot	Raymond QiuⒸ , Aaron Zeng
+
+
+team	result	side	adjudicators
+McGill 1	advancing	Opening Government	Ayal MorⒸ , Caitlin Hodge , Kayla Powers
+Stanford 2	eliminated	Opening Opposition	Ayal MorⒸ , Caitlin Hodge , Kayla Powers
+Stanford 5	eliminated	Closing Government	Ayal MorⒸ , Caitlin Hodge , Kayla Powers
+EDS 1	advancing	Closing Opposition	Ayal MorⒸ , Caitlin Hodge , Kayla Powers
+Harvard 3	eliminated	Opening Government	Emma JonesⒸ , Guo Chen , Tanay Patri
+Harvard 1	advancing	Opening Opposition	Emma JonesⒸ , Guo Chen , Tanay Patri
+Berkeley 1	eliminated	Closing Government	Emma JonesⒸ , Guo Chen , Tanay Patri
+McGill 2	advancing	Closing Opposition	Emma JonesⒸ , Guo Chen , Tanay Patri
+UCLA 1	advancing	Opening Government	Max RosenⒸ , Anette Xia , Mic Lewis
+Stanford 6	advancing	Opening Opposition	Max RosenⒸ , Anette Xia , Mic Lewis
+Pennsylvania 1	eliminated	Closing Government	Max RosenⒸ , Anette Xia , Mic Lewis
+Columbia 1	eliminated	Closing Opposition	Max RosenⒸ , Anette Xia , Mic Lewis
+Harvard 4	eliminated	Opening Government	Nicholas AbernethyⒸ , Audrey Melody , Rhys Nickerson
+Rochester 1	advancing	Opening Opposition	Nicholas AbernethyⒸ , Audrey Melody , Rhys Nickerson
+Stanford 1	advancing	Closing Government	Nicholas AbernethyⒸ , Audrey Melody , Rhys Nickerson
+Hart House 1	eliminated	Closing Opposition	Nicholas AbernethyⒸ , Audrey Melody , Rhys Nickerson
+
+
+team	result	side	adjudicators
+Stanford 1	advancing	Opening Government	Martha McKinney-PerryⒸ , Barron Junteng Ren 🐷 , Emma Jones , Mauricio Jarufe Caballero , Varun Lodaya
+Rochester 1	advancing	Opening Opposition	Martha McKinney-PerryⒸ , Barron Junteng Ren 🐷 , Emma Jones , Mauricio Jarufe Caballero , Varun Lodaya
+Harvard 1	eliminated	Closing Government	Martha McKinney-PerryⒸ , Barron Junteng Ren 🐷 , Emma Jones , Mauricio Jarufe Caballero , Varun Lodaya
+McGill 2	eliminated	Closing Opposition	Martha McKinney-PerryⒸ , Barron Junteng Ren 🐷 , Emma Jones , Mauricio Jarufe Caballero , Varun Lodaya
+EDS 1	eliminated	Opening Government	Patrick Cowley🐍Ⓒ , Anette Xia , Arjun Raman , Caitlin Mah , Tanay Patri
+McGill 1	advancing	Opening Opposition	Patrick Cowley🐍Ⓒ , Anette Xia , Arjun Raman , Caitlin Mah , Tanay Patri
+UCLA 1	eliminated	Closing Government	Patrick Cowley🐍Ⓒ , Anette Xia , Arjun Raman , Caitlin Mah , Tanay Patri
+Stanford 6	advancing	Closing Opposition	Patrick Cowley🐍Ⓒ , Anette Xia , Arjun Raman , Caitlin Mah , Tanay Patri
+
+
+team	result	side	adjudicators
+Stanford 1	advancing	Opening Government	Nicholas AbernethyⒸ , Anette Xia , Arjun Raman , Daniel Svirsky , Guo Chen
+Rochester 1	eliminated	Opening Opposition	Nicholas AbernethyⒸ , Anette Xia , Arjun Raman , Daniel Svirsky , Guo Chen
+Stanford 6	eliminated	Closing Government	Nicholas AbernethyⒸ , Anette Xia , Arjun Raman , Daniel Svirsky , Guo Chen
+McGill 1	eliminated	Closing Opposition	Nicholas AbernethyⒸ , Anette Xia , Arjun Raman , Daniel Svirsky , Guo Chen
+
+
+team	result	side	adjudicators
+Hart House 8	eliminated	Opening Government	Alexander BeaumontⒸ , Aubrey Nan , Nir Amin
+USC 2	advancing	Opening Opposition	Alexander BeaumontⒸ , Aubrey Nan , Nir Amin
+Stanford 4	eliminated	Closing Government	Alexander BeaumontⒸ , Aubrey Nan , Nir Amin
+Princeton 7	advancing	Closing Opposition	Alexander BeaumontⒸ , Aubrey Nan , Nir Amin
+EDS 3	eliminated	Opening Government	Daniel SvirskyⒸ , Maria Xu , Tanvir Shahriar
+Dartmouth 2	advancing	Opening Opposition	Daniel SvirskyⒸ , Maria Xu , Tanvir Shahriar
+McGill 6	advancing	Closing Government	Daniel SvirskyⒸ , Maria Xu , Tanvir Shahriar
+Cornell 2	eliminated	Closing Opposition	Daniel SvirskyⒸ , Maria Xu , Tanvir Shahriar
+
+
+team	result	side	adjudicators
+USC 2	eliminated	Opening Government	Caitlin MahⒸ , Audrey Melody , Ayal Mor , Hargun Rekhi , Varun Lodaya
+Dartmouth 2	advancing	Opening Opposition	Caitlin MahⒸ , Audrey Melody , Ayal Mor , Hargun Rekhi , Varun Lodaya
+Princeton 7	eliminated	Closing Government	Caitlin MahⒸ , Audrey Melody , Ayal Mor , Hargun Rekhi , Varun Lodaya
+McGill 6	eliminated	Closing Opposition	Caitlin MahⒸ , Audrey Melody , Ayal Mor , Hargun Rekhi , Varun Lodaya
+

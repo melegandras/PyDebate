@@ -1,0 +1,840 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds	SSD	DS	DSS
+1	Ateneo Unemployed and Out-of-School		1st	1st	1st	3rd	1st	13	810	4	0	3.79	150	11855.00
+2	Ur Mom		1st	1st	2nd	1st	2nd	13	805	3	2	2.28	151	11580.00
+3	Zagreb A		1st	2nd	2nd	2nd	1st	12	815	2	3	0.89	143	11816.00
+4	Ateneo You have to Realize That Kil		1st	1st	1st	2nd	3rd	12	814	3	1	1.72	154	11857.00
+5	Matt and “the Lady”		1st	1st	4th	1st	1st	12	800	4	0	2.61	128	11707.00
+6	Allies Across Borders		1st	2nd	2nd	2nd	1st	12	800	2	3	2.28	140	11507.00
+7	ANU BP		2nd	1st	2nd	3rd	1st	11	798	2	2	3.26	137	11722.00
+8	BOM		2nd	3rd	1st	1st	2nd	11	795	2	2	3.03	131	11687.00
+9	Master of my Domain		1st	2nd	1st	1st	4th	11	793	3	1	2.58	147	11420.00
+10	Dwi eisiau bod y gorau fel na fu ne		2nd	1st	3rd	1st	2nd	11	791	2	2	2.99	139	11350.00
+11	Doon &amp; Soon		1st	3rd	2nd	2nd	1st	11	790	2	2	2.45	134	11711.00
+12	NTU		2nd	3rd	1st	1st	2nd	11	783	2	2	2.24	123	11578.00
+13	This Ain&#x27;t No Regular Degular		1st	3rd	1st	2nd	3rd	10	800	2	1	2.83	140	11478.00
+14	are ya winning, son?		1st	1st	3rd	1st	4th	10	795	3	0	4.38	142	11551.00
+15	Shippai		1st	2nd	3rd	3rd	1st	10	794	2	1	2.04	128	11663.00
+16	Do you even Water Polo		1st	2nd	1st	4th	2nd	10	792	2	2	3.38	139	11500.00
+17	Nobody partnered with me		1st	1st	4th	2nd	2nd	10	791	2	2	3.31	128	11691.00
+18	Economics: steal manhole cover, sel		4th	1st	1st	1st	3rd	10	790	3	0	3.63	113	11306.00
+19	Piggies		3rd	2nd	1st	3rd	1st	10	789	2	1	1.17	117	11146.00
+20	The Way of the Just		3rd	3rd	2nd	1st	1st	10	778	2	1	2.06	101	10347.00
+21	UTY	Novice	3rd	4th	1st	1st	1st	10	772	3	0	5.46	104	10729.00
+22	Slumdog and McGillionaire		2nd	2nd	4th	2nd	1st	9	796	1	3	2.48	114	11626.00
+23	UCL Rick &amp; Tan		1st	2nd	1st	3rd	4th	9	787	2	1	3.44	128	11722.00
+24	Kochamaru A		1st	3rd	2nd	2nd	3rd	9	787	1	2	3.14	125	11673.00
+25	HH Beyblades		2nd	2nd	1st	3rd	3rd	9	786	1	2	2.04	137	11771.00
+26	Tokyo H&amp;M		1st	3rd	1st	4th	2nd	9	783	2	1	2.42	126	11693.00
+27	dreamers and memers	Novice	3rd	1st	1st	4th	2nd	9	780	2	1	4.20	128	11631.00
+28	candy jar		3rd	2nd	3rd	2nd	1st	9	773	1	2	3.67	102	11214.00
+29	BFSU idk		3rd	2nd	2nd	1st	3rd	9	772	1	2	3.14	105	11234.00
+30	Hyunmindore’s army		2nd	3rd	4th	1st	1st	9	768	2	1	1.02	103	11466.00
+31	6PAX	Novice	1st	4th	3rd	1st	2nd	9	763	2	1	1.36	105	11087.00
+32	GUU But I need the Internet. I can&#x27;		2nd	1st	4th	3rd	2nd	8	781	1	2	3.06	113	11297.00
+33=	WSDC Team Japan	Novice	2nd	2nd	3rd	1st	4th	8	779	1	2	3.54	122	11320.00
+33=	13 Hour LDR	Novice	3rd	1st	2nd	4th	2nd	8	779	1	2	2.32	126	11263.00
+35	Western		1st	3rd	4th	3rd	1st	8	777	2	0	4.03	106	11538.00
+36	Comody Iida		2nd	3rd	1st	2nd	4th	8	773	1	2	2.33	121	11316.00
+37	Cambridge A		2nd	4th	1st	1st	4th	8	770	2	1	3.90	119	11655.00
+38	Katsu Don	Novice	2nd	2nd	2nd	3rd	3rd	8	770	0	3	1.79	125	11662.00
+39	Keio TS		3rd	2nd	2nd	2nd	3rd	8	769	0	3	1.72	109	11479.00
+40	Ateneo Fly Like G7	Novice	1st	4th	3rd	3rd	1st	8	766	2	0	8.28	121	11569.00
+41	My partner missed Nagoya		2nd	1st	4th	2nd	3rd	8	766	1	2	2.99	112	11544.00
+42	HH Airstrike		3rd	1st	4th	3rd	1st	8	764	2	0	2.48	108	11084.00
+43	Gaslighters	Novice	4th	1st	2nd	3rd	2nd	8	760	1	2	2.28	99	11159.00
+44	Kyushu B		2nd	2nd	4th	2nd	2nd	8	760	0	4	1.10	106	11502.00
+45	Republicans in denial		4th	1st	3rd	1st	4th	7	773	2	0	3.26	115	11558.00
+46	Extending into your girl&#x27;s DMs	Novice	1st	4th	2nd	2nd	4th	7	773	1	2	2.94	127	11656.00
+47	HH Non-eepers	Novice	3rd	1st	2nd	4th	3rd	7	772	1	1	2.58	112	11279.00
+48	Divorced&amp;ADHD but still xôi thịt		2nd	3rd	4th	2nd	2nd	7	769	0	3	0.75	117	11572.00
+49	Rossi&#x27;s Grey Hair		3rd	1st	3rd	3rd	3rd	7	768	1	0	2.58	121	11639.00
+50	Boo! Lisa&#x27;s Coming of Age Day		4th	2nd	2nd	1st	4th	7	767	1	2	2.24	105	11433.00
+51	Where&#x27;s Ayaka&#x27;s Date (WAD)?		2nd	3rd	3rd	4th	1st	7	765	1	1	2.61	97	10968.00
+52	Solomon Islands A	Novice	3rd	3rd	3rd	2nd	2nd	7	764	0	2	1.47	99	11377.00
+53	laohu goes to tokyo	Novice	4th	3rd	2nd	2nd	2nd	7	763	0	3	2.58	90	10963.00
+54	Hope to escape IVth		2nd	3rd	2nd	3rd	3rd	7	761	0	2	1.60	117	11552.00
+55	MUST Teeeeed		3rd	2nd	4th	3rd	1st	7	759	1	1	2.32	103	11413.00
+56	Bumblebee	Novice	4th	1st	3rd	4th	1st	7	736	2	0	12.46	111	11068.00
+57	Ho Team		2nd	1st	3rd	4th	4th	6	778	1	1	3.67	129	11681.00
+58	Beluga	Novice	1st	4th	4th	2nd	3rd	6	770	1	1	2.10	115	11616.00
+59	rawr	Novice	2nd	4th	2nd	3rd	3rd	6	765	0	2	1.67	106	11518.00
+60=	Majestic flying spaghetti monster		1st	4th	2nd	4th	3rd	6	763	1	1	2.33	114	11588.00
+60=	Swing A		4th	2nd	1st	4th	3rd	6	763	1	1	3.01	103	11225.00
+62	iPad Babies		3rd	3rd	4th	2nd	2nd	6	763	0	2	4.32	95	10991.00
+63=	Atlantis A		2nd	1st	3rd	4th	4th	6	762	1	1	2.42	114	11570.00
+63=	NYU/Tokyo: Rashomon Case Shifting T		4th	2nd	4th	3rd	1st	6	762	1	1	1.62	96	11470.00
+65	You&#x27;re so hot, you denture my shizz	Novice	3rd	3rd	3rd	1st	4th	6	761	1	0	3.54	103	10789.00
+66	WAD 1		4th	4th	3rd	1st	2nd	6	760	1	1	1.10	68	11030.00
+67	biulingbiuling		3rd	4th	2nd	1st	4th	6	757	1	1	2.06	100	11156.00
+68	Kyushu S		4th	1st	4th	3rd	2nd	6	754	1	1	2.93	79	10712.00
+69	Ossian A		4th	4th	2nd	1st	3rd	6	753	1	1	2.94	89	11358.00
+70	Hair Dye and Korean Girl		2nd	4th	3rd	4th	1st	6	750	1	1	2.68	90	11089.00
+71	Stonecurlers	Novice	3rd	1st	3rd	4th	4th	5	767	1	0	2.06	111	11295.00
+72	Noted	Novice	3rd	4th	1st	3rd	4th	5	756	1	0	2.56	102	11444.00
+73	Iliketurtles	Novice	2nd	4th	1st	4th	4th	5	752	1	1	3.14	108	11482.00
+74	SISU ZY		4th	2nd	3rd	2nd	4th	5	751	0	2	2.04	99	11428.00
+75	Bagel and Donut		3rd	4th	3rd	2nd	3rd	5	749	0	1	3.43	85	11366.00
+76	I’m good with any name		2nd	4th	4th	3rd	2nd	5	748	0	2	3.38	87	10982.00
+77	Swing B		—	2nd	1st	—	—	5	313	1	1	1.50	32	4241.00
+78	Swing C		—	—	2nd	1st	—	5	307	1	1	4.50	31	4265.00
+79	Goat and Toad	Novice	3rd	4th	4th	4th	1st	4	761	1	0	5.15	81	9776.00
+80	Koreans strikes back		4th	3rd	1st	4th	4th	4	755	1	0	2.19	102	11445.00
+81=	Pale blue dot	Novice	4th	4th	1st	4th	3rd	4	753	1	0	3.01	78	11373.00
+81=	aruaq	Novice	4th	3rd	1st	4th	4th	4	753	1	0	2.33	103	11460.00
+83=	error		4th	2nd	4th	3rd	3rd	4	749	0	1	2.86	94	11388.00
+83=	Happy Hour		3rd	4th	3rd	4th	2nd	4	749	0	1	2.79	71	10912.00
+85	Xuebao Bizui	Novice	4th	2nd	4th	4th	2nd	4	746	0	2	2.04	84	11342.00
+86	Hina fan club		4th	3rd	4th	2nd	3rd	4	742	0	1	2.73	73	11026.00
+87	Eli &amp; Meg dupe		1st	4th	3rd	—	—	4	457	1	0	1.25	78	6969.00
+88	Tsukukoma B		4th	4th	2nd	4th	4th	2	739	0	1	3.37	77	10854.00
+89	Kyushu C	Novice	4th	3rd	4th	3rd	4th	2	730	0	0	1.79	67	11285.00
+90	ICUP		4th	3rd	3rd	—	—	2	460	0	0	1.70	66	6499.00
+91	William Smith fun club		3rd	3rd	4th	—	—	2	457	0	0	1.25	63	6463.00
+92	Glorious	Novice	4th	—	—	—	3rd	1	303	0	0	2.50	38	4604.00
+93	SDS A		3rd	4th	—	—	—	1	296	0	0	1.00	46	4613.00
+94	ICU		4th	4th	4th	4th	4th	0	746	0	0	2.79	74	10406.00
+95=	Tired girls who still db8		—	—	—	—	—	—	—	0	0	—	0	0
+95=	Kellett School		—	—	—	—	—	—	—	0	0	—	0	0
+95=	BPQUING	Novice	—	—	—	—	—	—	—	0	0	—	0	0
+95=	Church boy and his heathen friend, 	Novice	—	—	—	—	—	—	—	0	0	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Stdev	Avg
+1	David Africa	Open	Ateneo You have to Realize That Kil	81	83	81	82	83	410	0.89	82.00
+2	Robert Raos	Open	Zagreb A	82	82	82	82	80	408	0.80	81.60
+3	Mikko Vitug	Open	Ateneo Unemployed and Out-of-School	78	83	83	81	83	408	1.96	81.60
+4	Paula Djaković	Open	Zagreb A	82	80	82	81	82	407	0.80	81.40
+5	Pranav Anand	Open	Ur Mom	82	81	80	79	83	405	1.41	81.00
+6	Rivaldo Aquino	Open	Ateneo You have to Realize That Kil	80	83	81	80	80	404	1.17	80.80
+7	Matt Mauriello	Open	Matt and “the Lady”	81	81	78	81	82	403	1.36	80.60
+8	Beatrice Cuizon	Open	Ateneo Unemployed and Out-of-School	77	81	82	80	82	402	1.85	80.40
+9	David Bloom	Open	This Ain&#x27;t No Regular Degular	81	79	83	78	80	401	1.72	80.20
+10	Muzamil Godil	Open	Ur Mom	81	80	79	79	81	400	0.89	80.00
+11	Max Williams	Open	Allies Across Borders	79	80	80	79	82	400	1.10	80.00
+12	Raymond Qiu	Open	Allies Across Borders	80	80	80	78	82	400	1.26	80.00
+13	Youngwoo Park	Open	Shippai	79	82	80	78	80	399	1.33	79.80
+14	Tengku Omar	Open	BOM	82	79	79	78	81	399	1.47	79.80
+15	Joseph Wu	Open	Slumdog and McGillionaire	79	79	79	79	82	398	1.20	79.60
+16	Shaurya Chandravanshi	Open	Slumdog and McGillionaire	80	78	79	79	82	398	1.36	79.60
+17	Rahul Kalavagunta	Open, Novice	Do you even Water Polo	79	82	81	79	77	398	1.74	79.60
+18	Niamh Brazil	Open	ANU BP	78	82	78	78	82	398	1.96	79.60
+19	Deon Kiew	Open	are ya winning, son?	79	81	78	83	77	398	2.15	79.60
+20	Ooi Hon Son	Open	Piggies	79	78	80	80	80	397	0.80	79.40
+21=	Katrina Hotaling	Open	Matt and “the Lady”	80	79	77	81	80	397	1.36	79.40
+21=	Matti Durán	Open	Master of my Domain	78	79	79	82	79	397	1.36	79.40
+23	Kaustubh Jain	Open	Nobody partnered with me	78	81	79	77	82	397	1.85	79.40
+24	Alexandr Sušić	Open	Economics: steal manhole cover, sel	76	79	79	82	81	397	2.06	79.40
+25	Ming Kai Yap	Open	are ya winning, son?	78	81	78	83	77	397	2.24	79.40
+26	Doon Nyugen	Open	Doon &amp; Soon	80	78	80	80	78	396	0.98	79.20
+27=	Craig McDonald	Open	Dwi eisiau bod y gorau fel na fu ne	77	79	79	81	80	396	1.33	79.20
+27=	Mauricio Jarufe Caballero	Open	Master of my Domain	77	79	80	81	79	396	1.33	79.20
+29=	Bobby Ongkojoyo	Open	BOM	80	79	76	79	82	396	1.94	79.20
+29=	Minami Matsushima	Open	Kochamaru A	80	81	81	78	76	396	1.94	79.20
+31	Haeseong Pyun	Open	Shippai	78	79	79	78	81	395	1.10	79.00
+32	Zach Godley-McAvoy	Open	Dwi eisiau bod y gorau fel na fu ne	76	79	79	81	80	395	1.67	79.00
+33	于 文喆	Open	HH Beyblades	80	80	77	78	79	394	1.17	78.80
+34	Rick Tan	Open	UCL Rick &amp; Tan	78	80	81	78	77	394	1.47	78.80
+35=	Omesh Dhar Dwivedi	Open	Do you even Water Polo	78	80	81	79	76	394	1.72	78.80
+35=	Soon Tissera	Open	Doon &amp; Soon	78	79	81	80	76	394	1.72	78.80
+37	Wayne Lim	Open	NTU	78	77	78	80	80	393	1.20	78.60
+38	Cian Delahunty	Open	Economics: steal manhole cover, sel	76	79	78	81	79	393	1.62	78.60
+39	Hamza Nouman	Open	UCL Rick &amp; Tan	79	80	81	78	75	393	2.06	78.60
+40	Chloe Loo	Open	Piggies	78	78	79	79	78	392	0.49	78.40
+41	Mahir Aziz	Open, Novice	HH Beyblades	80	79	78	77	78	392	1.02	78.40
+42	Haruka Sawazaki	Open	Tokyo H&amp;M	79	77	79	77	80	392	1.20	78.40
+43	Alyssa Mills	Open	GUU But I need the Internet. I can&#x27;	78	79	76	78	81	392	1.62	78.40
+44	Rohan Campion	Open, Novice	dreamers and memers	78	82	79	75	78	392	2.24	78.40
+45	Takeshi Matsuda	Open	Tokyo H&amp;M	78	78	79	76	80	391	1.33	78.20
+46	Yuta Yamagishi	Open	Kochamaru A	77	80	79	79	76	391	1.47	78.20
+47	Sonam Wangchuk	Open, Novice	13 Hour LDR	80	80	76	77	78	391	1.60	78.20
+48	Belle Ho	Open	Ho Team	77	81	79	78	76	391	1.72	78.20
+49	Justin Tay	Open	The Way of the Just	77	77	78	79	79	390	0.89	78.00
+50	Ha Duy Thanh	Open	NTU	76	77	79	79	79	390	1.26	78.00
+51	Natsuki Mogi	Open, Novice	WSDC Team Japan	78	78	75	81	78	390	1.90	78.00
+52	Rina Kajitani	Open	Comody Iida	79	77	78	79	76	389	1.17	77.80
+53	Isaac Gilbert	Open	GUU But I need the Internet. I can&#x27;	77	79	76	77	80	389	1.47	77.80
+54=	Justine Leung	Open	Republicans in denial	77	79	78	80	75	389	1.72	77.80
+54=	Seiji Kanegae	Open, Novice	WSDC Team Japan	78	77	76	81	77	389	1.72	77.80
+56	Sherry Shu	Open	Western	78	80	75	76	80	389	2.04	77.80
+57	Chi Nguyen	Open, Novice	13 Hour LDR	78	79	78	76	77	388	1.02	77.60
+58	Way De Neo	Open	The Way of the Just	76	77	77	79	79	388	1.20	77.60
+59	Emma Hardy	Open, Novice	Extending into your girl&#x27;s DMs	80	76	78	77	77	388	1.36	77.60
+60	Daniel Svirsky	Open	Western	78	79	74	77	80	388	2.06	77.60
+61	Kei Namba	Open	Rossi&#x27;s Grey Hair	76	78	77	77	79	387	1.02	77.40
+62	Joi Chen	Open	BFSU idk	75	77	79	77	79	387	1.50	77.40
+63	Redacted	Open	—	75	81	77	78	76	387	2.06	77.40
+64	Donovan Koh	Open, Novice	UTY	77	71	81	79	79	387	3.44	77.40
+65=	So Ushiroda	Open	Keio TS	77	78	78	76	77	386	0.75	77.20
+65=	Jin Yi Tan	Open, Novice	Katsu Don	76	77	77	78	78	386	0.75	77.20
+67=	Tetsushi Kajihara	Open	Hope to escape IVth	77	78	79	76	76	386	1.17	77.20
+67=	Hyunmin Lee	Open	Boo! Lisa&#x27;s Coming of Age Day	76	78	77	79	76	386	1.17	77.20
+67=	William Wang	Open, Novice	HH Non-eepers	77	79	78	76	76	386	1.17	77.20
+70	Silin Wei	Open, Novice	HH Non-eepers	78	79	78	76	75	386	1.47	77.20
+71	Eric Trinh	Open	Cambridge A	79	74	79	77	77	386	1.83	77.20
+72	Veer Juneja	Open	candy jar	75	80	75	78	78	386	1.94	77.20
+73=	Yuka Osawa	Open	Hyunmindore’s army	77	76	77	77	78	385	0.63	77.00
+73=	Sam Brady	Open	Divorced&amp;ADHD but still xôi thịt	76	78	77	77	77	385	0.63	77.00
+73=	David Hong	Open, Novice	Beluga	77	78	76	77	77	385	0.63	77.00
+76	Zhe-Hong Wu	Open, Novice	Stonecurlers	77	79	76	76	77	385	1.10	77.00
+77=	Yohei Horiguchi	Open	My partner missed Nagoya	78	77	74	79	77	385	1.67	77.00
+77=	Elle Tang	Open	BFSU idk	74	77	78	77	79	385	1.67	77.00
+77=	Mollie Mei	Open, Novice	Beluga	79	77	74	78	77	385	1.67	77.00
+77=	Sophie Land	Open, Novice	Extending into your girl&#x27;s DMs	79	74	78	77	77	385	1.67	77.00
+81	Ethan Loh	Open, Novice	UTY	78	73	79	77	78	385	2.10	77.00
+82	Linh Dang-Hoang	Open	Divorced&amp;ADHD but still xôi thịt	78	77	77	76	76	384	0.75	76.80
+83	Inez Chen	Open, Novice	Solomon Islands A	75	77	77	78	77	384	0.98	76.80
+84=	Yuki Saito	Open	Comody Iida	78	76	77	78	75	384	1.17	76.80
+84=	Lauren Tok	Open, Novice	Katsu Don	75	78	76	78	77	384	1.17	76.80
+86	Sarah Khan	Open	Republicans in denial	75	78	77	79	75	384	1.60	76.80
+87	Jeggo Angelo Regis	Open	Cambridge A	79	73	78	78	76	384	2.14	76.80
+88	Rogelio Largo	Open, Novice	Ateneo Fly Like G7	78	81	78	69	78	384	4.07	76.80
+89	Yuki Kato	Open, Novice	Hyunmindore’s army	76	76	77	77	77	383	0.49	76.60
+90=	Harvey Yang	Open	Majestic flying spaghetti monster	77	75	77	76	78	383	1.02	76.60
+90=	Taichi Fukami	Open	Keio TS	76	77	78	75	77	383	1.02	76.60
+90=	Reanne Foo	Open, Novice	rawr	77	77	78	75	76	383	1.02	76.60
+93	Brandon Zhang	Open, Novice	HH Airstrike	76	76	75	78	78	383	1.20	76.60
+94=	Ayaka Chigasaki	Open	Where&#x27;s Ayaka&#x27;s Date (WAD)?	74	76	78	77	78	383	1.50	76.60
+94=	Redacted	Open, Novice	—	75	77	75	77	79	383	1.50	76.60
+96	Speaker 2		Swing A	77	79	77	74	76	383	1.62	76.60
+97=	Fabian Lim	Open, Novice	6PAX	77	76	75	77	77	382	0.80	76.40
+97=	Gabrielle Ho	Open, Novice	rawr	77	77	77	76	75	382	0.80	76.40
+99=	Mia Ceoi	Open	Atlantis A	77	78	75	76	76	382	1.02	76.40
+99=	Jean Hu	Open, Novice	Stonecurlers	77	78	76	75	76	382	1.02	76.40
+101	Hikari Takeuchi	Open	Where&#x27;s Ayaka&#x27;s Date (WAD)?	75	75	77	77	78	382	1.20	76.40
+102	Qixuan (Austin)  Yao	Open	iPad Babies	76	80	76	73	77	382	2.24	76.40
+103	Vinzen Borja	Open, Novice	Ateneo Fly Like G7	78	79	77	68	80	382	4.32	76.40
+104	Kazuya Kiura	Open	Kyushu B	76	76	76	76	77	381	0.40	76.20
+105=	Ryunosuke Hashimoto	Open	NYU/Tokyo: Rashomon Case Shifting T	75	77	77	76	76	381	0.75	76.20
+105=	Joshua Ho	Open, Novice	6PAX	76	75	76	77	77	381	0.75	76.20
+107	Tomoya Mizutani	Open	NYU/Tokyo: Rashomon Case Shifting T	75	77	77	75	77	381	0.98	76.20
+108=	Ayuki Ichikawa	Open	Boo! Lisa&#x27;s Coming of Age Day	76	77	75	78	75	381	1.17	76.20
+108=	Faith Ong	Open, Novice	Gaslighters	75	77	76	75	78	381	1.17	76.20
+110=	Ryouta Ojima	Open	My partner missed Nagoya	77	76	74	78	76	381	1.33	76.20
+110=	Cam Miranda-Radbord	Open	HH Airstrike	76	76	74	77	78	381	1.33	76.20
+112	Yuriko Hirai	Open	Rossi&#x27;s Grey Hair	74	78	75	76	78	381	1.60	76.20
+113	Kimberly Co	Open, Novice	You&#x27;re so hot, you denture my shizz	78	75	77	78	73	381	1.94	76.20
+114	Julia Van Damme	Open	iPad Babies	76	79	75	73	78	381	2.14	76.20
+115	Ryotaro Makita	Open, Novice	Goat and Toad	76	79	76	72	78	381	2.40	76.20
+116=	Sakurako Kawaue	Open	WAD 1	75	76	77	76	76	380	0.63	76.00
+116=	Reki Ueda	Open	WAD 1	75	76	76	76	77	380	0.63	76.00
+116=	Keiji Lee	Open, Novice	Solomon Islands A	75	76	77	76	76	380	0.63	76.00
+119	Redacted	Open, Novice	—	75	76	75	76	78	380	1.10	76.00
+120	Alex Gao	Open	MUST Teeeeed	75	78	75	75	77	380	1.26	76.00
+121=	Aaron Wang	Open	Majestic flying spaghetti monster	78	74	76	75	77	380	1.41	76.00
+121=	Speaker 1		Swing A	77	78	76	74	75	380	1.41	76.00
+123	Zephyr Fan	Open	Atlantis A	75	79	75	75	76	380	1.55	76.00
+124	Nishant Rajah	Open, Novice	You&#x27;re so hot, you denture my shizz	78	76	76	77	73	380	1.67	76.00
+125	Shin Morimoto	Open, Novice	Goat and Toad	76	79	76	71	78	380	2.76	76.00
+126	Hina Namisaki	Open	Kyushu B	77	76	74	76	76	379	0.98	75.80
+127	Hasung Park	Open, Novice	Koreans strikes back	77	76	77	74	75	379	1.17	75.80
+128=	Chin Han Oh	Open, Novice	Noted	76	76	75	78	74	379	1.33	75.80
+128=	Miao Li	Open	biulingbiuling	76	76	75	78	74	379	1.33	75.80
+128=	Joshua Beh	Open, Novice	Gaslighters	74	78	76	75	76	379	1.33	75.80
+131	Emma Ying	Open	biulingbiuling	76	75	75	77	75	378	0.80	75.60
+132	Haruka Sato	Open	Kyushu S	75	77	74	76	76	378	1.02	75.60
+133	Ko He Suk	Open, Novice	Pale blue dot	75	74	78	76	75	378	1.36	75.60
+134=	Eyedi Wen	Open	Hair Dye and Korean Girl	76	74	74	76	77	377	1.20	75.40
+134=	Merey Balgabayeva	Open, Novice	aruaq	76	74	77	76	74	377	1.20	75.40
+136	Jewelyn Lee	Open, Novice	Noted	77	75	74	77	74	377	1.36	75.40
+137	Hideto Sakurai	Open	Ossian A	74	75	74	78	76	377	1.50	75.40
+138=	Miyu Narita	Open	Koreans strikes back	76	75	76	73	76	376	1.17	75.20
+138=	Nina Zeng	Open	SISU ZY	74	77	75	76	74	376	1.17	75.20
+138=	Happy Ng	Open	Happy Hour	76	74	75	74	77	376	1.17	75.20
+138=	Sultan Satybaldy	Open, Novice	aruaq	75	74	77	76	74	376	1.17	75.20
+142=	Takenori Hayashi	Open	Ossian A	74	75	74	78	75	376	1.47	75.20
+142=	Tan Wan Kim	Open, Novice	Iliketurtles	75	75	78	74	74	376	1.47	75.20
+144	Zhou Yuelin	Open, Novice	Iliketurtles	76	75	78	73	74	376	1.72	75.20
+145	Sora Nishimura	Open	Kyushu S	74	77	72	76	77	376	1.94	75.20
+146	Ziyu Yang	Open	SISU ZY	74	75	75	77	74	375	1.10	75.00
+147=	Yuichiro Hata	Open, Novice	error	74	75	73	77	76	375	1.41	75.00
+147=	Yuto Mogi	Open, Novice	Hope to escape IVth	77	76	73	74	75	375	1.41	75.00
+149=	Nagae Naoko	Open, Novice	Pale blue dot	74	73	78	75	75	375	1.67	75.00
+149=	Duc Nguyen	Open	I’m good with any name	77	74	74	73	77	375	1.67	75.00
+151	Millie Shao	Open	Bagel and Donut	76	73	73	78	75	375	1.90	75.00
+152=	Haotian Wang	Open	error	74	74	73	77	76	374	1.47	74.80
+152=	Redacted	Open	—	75	76	75	72	76	374	1.47	74.80
+154	Alexis Zhao	Open	Bagel and Donut	75	73	73	77	76	374	1.60	74.80
+155=	Weihang (Roger) Lu	Open, Novice	Xuebao Bizui	73	76	74	75	75	373	1.02	74.60
+155=	Chenglin (Christopher) Yu	Open, Novice	Xuebao Bizui	73	76	74	75	75	373	1.02	74.60
+157	Sophie Yuan	Open	Hair Dye and Korean Girl	75	73	73	75	77	373	1.50	74.60
+158=	Cici Liu	Open	Happy Hour	74	74	74	73	78	373	1.74	74.60
+158=	Saadat  Zulpukarova	Open, Novice	I’m good with any name	77	74	74	72	76	373	1.74	74.60
+160	Redacted	Open, Novice	—	74	75	75	72	76	372	1.36	74.40
+161	Takehiko Yasumitsu	Open	Hina fan club	76	74	72	74	75	371	1.33	74.20
+162	Reona Ishizuka	Open	Hina fan club	76	76	72	73	74	371	1.60	74.20
+163	Indigo Kaze Fasca	Open, Novice	Tsukukoma B	72	73	78	74	74	371	2.04	74.20
+164	Bharath Venkataramanan	Open, Novice	Bumblebee	74	78	75	62	79	368	6.09	73.60
+165	Abhiraj Saxena	Open, Novice	Bumblebee	75	78	76	61	78	368	6.41	73.60
+166	Atsushi Imada	Open	Kyushu C	72	74	74	73	72	365	0.89	73.00
+167	Hiroyuki Kurisu	Open	Kyushu C	73	75	73	72	72	365	1.10	73.00
+168	Ally Pitt	Open	ANU BP	79	81	80	—	82	322	1.12	80.50
+169	James Kim	Open	This Ain&#x27;t No Regular Degular	80	79	82	—	79	320	1.22	80.00
+170	Anna Liu	Open	candy jar	75	80	76	—	78	309	1.92	77.25
+171	Richelle Liu	Open	MUST Teeeeed	76	77	74	75	—	302	1.12	75.50
+172	Tomoyuki Suda	Open	Tsukukoma B	—	73	76	74	73	296	1.22	74.00
+173	Arik Karim	Open, Novice	dreamers and memers	—	81	78	—	77	236	1.70	78.67
+174	Su Let	Open	ICUP	76	77	78	—	—	231	0.82	77.00
+175=	Ryosei Kobayashi	Open	William Smith fun club	77	76	76	—	—	229	0.47	76.33
+175=	Gaveal Fan	Open	Eli &amp; Meg dupe	76	77	76	—	—	229	0.47	76.33
+177	Zi Yang	Open	ICUP	75	77	77	—	—	229	0.94	76.33
+178=	Redacted	Open	—	77	76	75	—	—	228	0.82	76.00
+178=	Mo Islam	Open	Eli &amp; Meg dupe	76	77	75	—	—	228	0.82	76.00
+180	Speaker 3		Swing B	—	78	79	—	—	157	0.50	78.50
+181	Speaker 4		Swing B	—	77	79	—	—	156	1.00	78.00
+182	Speaker 5		Swing C	—	—	79	75	—	154	2.00	77.00
+183	Speaker 6		Swing C	—	—	79	74	—	153	2.50	76.50
+184	Adam Shamgunov	Open, Novice	Glorious	75	—	—	—	77	152	1.00	76.00
+185	Ioana-Catalina Barbu	Open, Novice	Glorious	74	—	—	—	77	151	1.50	75.50
+186	Nathanaël Couvidat	Open	SDS A	74	75	—	—	—	149	0.50	74.50
+187	Chaewon Kim	Open	SDS A	73	74	—	—	—	147	0.50	73.50
+188=	Hadrian Lau	Open	Kellett School	—	—	—	—	—	—	—	—
+188=	Dylan Plumbley	Open	Kellett School	—	—	—	—	—	—	—	—
+188=	Musky Shen	Open, Novice	BPQUING	—	—	—	—	—	—	—	—
+188=	Chelsea  Zheng	Open, Novice	BPQUING	—	—	—	—	—	—	—	—
+188=	Barimah Adu-Amoako	Open, Novice	Church boy and his heathen friend, 	—	—	—	—	—	—	—	—
+188=	Alexander Egyin-Nyenku	Open, Novice	Church boy and his heathen friend, 	—	—	—	—	—	—	—	—
+188=	Aliya Fairuz	Open	Tired girls who still db8	—	—	—	—	—	—	—	—
+188=	Megha Rahman	Open	Tired girls who still db8	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+Comody Iida	2nd	Closing Government	View Ballot	Nikola MichaylovⒸ , Mahesh R , Michelle Andrea WidlyneⓉ
+Noted	3rd	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Mahesh R , Michelle Andrea WidlyneⓉ
+Extending into your girl&#x27;s DMs	1st	Opening Government	View Ballot	Nikola MichaylovⒸ , Mahesh R , Michelle Andrea WidlyneⓉ
+Economics: steal manhole cover, sel	4th	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Mahesh R , Michelle Andrea WidlyneⓉ
+Tokyo H&amp;M	1st	Closing Government	View Ballot	Opeyemi GideonⒸ , Alishba Irfan
+My partner missed Nagoya	2nd	Closing Opposition	View Ballot	Opeyemi GideonⒸ , Alishba Irfan
+Stonecurlers	3rd	Opening Government	View Ballot	Opeyemi GideonⒸ , Alishba Irfan
+aruaq	4th	Opening Opposition	View Ballot	Opeyemi GideonⒸ , Alishba Irfan
+Where&#x27;s Ayaka&#x27;s Date (WAD)?	2nd	Opening Government	View Ballot	Gabrielle PacañoⒸ , Bilal Najaf
+6PAX	1st	Opening Opposition	View Ballot	Gabrielle PacañoⒸ , Bilal Najaf
+SDS A	3rd	Closing Government	View Ballot	Gabrielle PacañoⒸ , Bilal Najaf
+Tsukukoma B	4th	Closing Opposition	View Ballot	Gabrielle PacañoⒸ , Bilal Najaf
+are ya winning, son?	1st	Closing Opposition	View Ballot	David MenciasⒸ , Sodiq Farhan
+WSDC Team Japan	2nd	Opening Opposition	View Ballot	David MenciasⒸ , Sodiq Farhan
+HH Non-eepers	3rd	Opening Government	View Ballot	David MenciasⒸ , Sodiq Farhan
+ICUP	4th	Closing Government	View Ballot	David MenciasⒸ , Sodiq Farhan
+William Smith fun club	3rd	Closing Opposition	View Ballot	Yuichi MasaokaⒸ , Hishah KhalishahⓉ
+Do you even Water Polo	1st	Opening Government	View Ballot	Yuichi MasaokaⒸ , Hishah KhalishahⓉ
+GUU But I need the Internet. I can&#x27;	2nd	Closing Government	View Ballot	Yuichi MasaokaⒸ , Hishah KhalishahⓉ
+Hina fan club	4th	Opening Opposition	View Ballot	Yuichi MasaokaⒸ , Hishah KhalishahⓉ
+Koreans strikes back	4th	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Emma Aripin
+Cambridge A	2nd	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Emma Aripin
+Allies Across Borders	1st	Opening Government	View Ballot	Ayafa TonyeⒸ , Emma Aripin
+Piggies	3rd	Closing Government	View Ballot	Ayafa TonyeⒸ , Emma Aripin
+error	4th	Closing Opposition	View Ballot	Emi NegitaⒸ , Dominic Stanley-Marcus
+Iliketurtles	2nd	Opening Government	View Ballot	Emi NegitaⒸ , Dominic Stanley-Marcus
+Solomon Islands A	3rd	Opening Opposition	View Ballot	Emi NegitaⒸ , Dominic Stanley-Marcus
+Nobody partnered with me	1st	Closing Government	View Ballot	Emi NegitaⒸ , Dominic Stanley-Marcus
+dreamers and memers	3rd	Opening Government	View Ballot	Ayodele SamuelⒸ , Maria Ikeda
+Bumblebee	4th	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Maria Ikeda
+ANU BP	2nd	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Maria Ikeda
+Doon &amp; Soon	1st	Closing Government	View Ballot	Ayodele SamuelⒸ , Maria Ikeda
+Hair Dye and Korean Girl	2nd	Opening Government	View Ballot	Jonathan TuliaoⒸ , Ahwar KhanⓉ
+Kyushu S	4th	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Ahwar KhanⓉ
+Eli &amp; Meg dupe	1st	Closing Government	View Ballot	Jonathan TuliaoⒸ , Ahwar KhanⓉ
+candy jar	3rd	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Ahwar KhanⓉ
+You&#x27;re so hot, you denture my shizz	3rd	Opening Opposition	View Ballot	Ritabrata MitraⒸ , Esther Olamide Olayinka , Saksham GoyalⓉ
+Slumdog and McGillionaire	2nd	Closing Opposition	View Ballot	Ritabrata MitraⒸ , Esther Olamide Olayinka , Saksham GoyalⓉ
+Ateneo You have to Realize That Kil	1st	Opening Government	View Ballot	Ritabrata MitraⒸ , Esther Olamide Olayinka , Saksham GoyalⓉ
+Swing A	4th	Closing Government	View Ballot	Ritabrata MitraⒸ , Esther Olamide Olayinka , Saksham GoyalⓉ
+Divorced&amp;ADHD but still xôi thịt	2nd	Opening Opposition	View Ballot	Namita PandeyⒸ , Daisuke FujikawaⓉ
+biulingbiuling	3rd	Closing Opposition	View Ballot	Namita PandeyⒸ , Daisuke FujikawaⓉ
+Kochamaru A	1st	Opening Government	View Ballot	Namita PandeyⒸ , Daisuke FujikawaⓉ
+Gaslighters	4th	Closing Government	View Ballot	Namita PandeyⒸ , Daisuke FujikawaⓉ
+BOM	2nd	Closing Government	View Ballot	Joy HadomeⒸ , Aymaan Sheikh
+Ur Mom	1st	Closing Opposition	View Ballot	Joy HadomeⒸ , Aymaan Sheikh
+UTY	3rd	Opening Opposition	View Ballot	Joy HadomeⒸ , Aymaan Sheikh
+Republicans in denial	4th	Opening Government	View Ballot	Joy HadomeⒸ , Aymaan Sheikh
+Hope to escape IVth	2nd	Closing Opposition	View Ballot	Banun SabriⒸ , Naysa ShahⓉ
+Boo! Lisa&#x27;s Coming of Age Day	4th	Closing Government	View Ballot	Banun SabriⒸ , Naysa ShahⓉ
+Keio TS	3rd	Opening Opposition	View Ballot	Banun SabriⒸ , Naysa ShahⓉ
+Ateneo Fly Like G7	1st	Opening Government	View Ballot	Banun SabriⒸ , Naysa ShahⓉ
+Rossi&#x27;s Grey Hair	3rd	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Yeonsue KimⓉ
+Ateneo Unemployed and Out-of-School	1st	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Yeonsue KimⓉ
+SISU ZY	4th	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Yeonsue KimⓉ
+Katsu Don	2nd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Yeonsue KimⓉ
+Dwi eisiau bod y gorau fel na fu ne	2nd	Closing Opposition	View Ballot	James CacholaⒸ , Jo Watanabe
+Master of my Domain	1st	Closing Government	View Ballot	James CacholaⒸ , Jo Watanabe
+Glorious	4th	Opening Government	View Ballot	James CacholaⒸ , Jo Watanabe
+HH Airstrike	3rd	Opening Opposition	View Ballot	James CacholaⒸ , Jo Watanabe
+The Way of the Just	3rd	Closing Opposition	View Ballot	Kotaro YoshidaⒸ
+NTU	2nd	Opening Government	View Ballot	Kotaro YoshidaⒸ
+This Ain&#x27;t No Regular Degular	1st	Opening Opposition	View Ballot	Kotaro YoshidaⒸ
+laohu goes to tokyo	4th	Closing Government	View Ballot	Kotaro YoshidaⒸ
+Matt and “the Lady”	1st	Opening Government	View Ballot	Gazi MahtabⒸ , Aakash AnilⓉ
+Bagel and Donut	3rd	Closing Government	View Ballot	Gazi MahtabⒸ , Aakash AnilⓉ
+ICU	4th	Closing Opposition	View Ballot	Gazi MahtabⒸ , Aakash AnilⓉ
+I’m good with any name	2nd	Opening Opposition	View Ballot	Gazi MahtabⒸ , Aakash AnilⓉ
+Ossian A	4th	Closing Government	View Ballot	Josef FlorendoⒸ , Mohanish TatiyaⓉ
+Hyunmindore’s army	2nd	Closing Opposition	View Ballot	Josef FlorendoⒸ , Mohanish TatiyaⓉ
+MUST Teeeeed	3rd	Opening Opposition	View Ballot	Josef FlorendoⒸ , Mohanish TatiyaⓉ
+Shippai	1st	Opening Government	View Ballot	Josef FlorendoⒸ , Mohanish TatiyaⓉ
+Ho Team	2nd	Opening Government	View Ballot	Alicia WangⒸ , Daniella Louise S. Barbacena
+Majestic flying spaghetti monster	1st	Closing Opposition	View Ballot	Alicia WangⒸ , Daniella Louise S. Barbacena
+BFSU idk	3rd	Opening Opposition	View Ballot	Alicia WangⒸ , Daniella Louise S. Barbacena
+Xuebao Bizui	4th	Closing Government	View Ballot	Alicia WangⒸ , Daniella Louise S. Barbacena
+NYU/Tokyo: Rashomon Case Shifting T	4th	Closing Government	View Ballot	Bea B. LegaspiⒸ , Henry Kofi
+Zagreb A	1st	Opening Opposition	View Ballot	Bea B. LegaspiⒸ , Henry Kofi
+13 Hour LDR	3rd	Opening Government	View Ballot	Bea B. LegaspiⒸ , Henry Kofi
+HH Beyblades	2nd	Closing Opposition	View Ballot	Bea B. LegaspiⒸ , Henry Kofi
+Atlantis A	2nd	Opening Government	View Ballot	Shudipto R. AhmedⒸ , Eli Ferrell , Yee Cheng Zu
+Kyushu C	4th	Closing Opposition	View Ballot	Shudipto R. AhmedⒸ , Eli Ferrell , Yee Cheng Zu
+Beluga	1st	Closing Government	View Ballot	Shudipto R. AhmedⒸ , Eli Ferrell , Yee Cheng Zu
+Happy Hour	3rd	Opening Opposition	View Ballot	Shudipto R. AhmedⒸ , Eli Ferrell , Yee Cheng Zu
+WAD 1	4th	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Wurdaan Kashif
+iPad Babies	3rd	Opening Government	View Ballot	Sunghyun ParkⒸ , Wurdaan Kashif
+Kyushu B	2nd	Closing Government	View Ballot	Sunghyun ParkⒸ , Wurdaan Kashif
+Western	1st	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Wurdaan Kashif
+UCL Rick &amp; Tan	1st	Opening Government	View Ballot	Anqi LiⒸ , Satoshi Inoue
+Pale blue dot	4th	Closing Government	View Ballot	Anqi LiⒸ , Satoshi Inoue
+rawr	2nd	Opening Opposition	View Ballot	Anqi LiⒸ , Satoshi Inoue
+Goat and Toad	3rd	Closing Opposition	View Ballot	Anqi LiⒸ , Satoshi Inoue
+
+
+team	result	side	ballot	adjudicators
+The Way of the Just	3rd	Opening Government	View Ballot	Sunghyun ParkⒸ , Mohanish TatiyaⓉ
+13 Hour LDR	1st	Closing Government	View Ballot	Sunghyun ParkⒸ , Mohanish TatiyaⓉ
+Piggies	2nd	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Mohanish TatiyaⓉ
+SDS A	4th	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Mohanish TatiyaⓉ
+Matt and “the Lady”	1st	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Satoshi Inoue
+Master of my Domain	2nd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Satoshi Inoue
+Beluga	4th	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Satoshi Inoue
+Doon &amp; Soon	3rd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Satoshi Inoue
+Pale blue dot	4th	Opening Opposition	View Ballot	Daniella Louise S. BarbacenaⒸ , Aakash AnilⓉ
+Hina fan club	3rd	Closing Opposition	View Ballot	Daniella Louise S. BarbacenaⒸ , Aakash AnilⓉ
+SISU ZY	2nd	Closing Government	View Ballot	Daniella Louise S. BarbacenaⒸ , Aakash AnilⓉ
+Gaslighters	1st	Opening Government	View Ballot	Daniella Louise S. BarbacenaⒸ , Aakash AnilⓉ
+error	2nd	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Emi Negita
+UTY	4th	Closing Government	View Ballot	Nikola MichaylovⒸ , Emi Negita
+HH Airstrike	1st	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Emi Negita
+aruaq	3rd	Opening Government	View Ballot	Nikola MichaylovⒸ , Emi Negita
+Where&#x27;s Ayaka&#x27;s Date (WAD)?	3rd	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Yee Cheng Zu
+My partner missed Nagoya	1st	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Yee Cheng Zu
+Iliketurtles	4th	Closing Government	View Ballot	Jonathan TuliaoⒸ , Yee Cheng Zu
+Kyushu B	2nd	Opening Government	View Ballot	Jonathan TuliaoⒸ , Yee Cheng Zu
+Tokyo H&amp;M	3rd	Opening Government	View Ballot	Namita PandeyⒸ , prisha jainⓉ
+are ya winning, son?	1st	Opening Opposition	View Ballot	Namita PandeyⒸ , prisha jainⓉ
+Shippai	2nd	Closing Government	View Ballot	Namita PandeyⒸ , prisha jainⓉ
+Extending into your girl&#x27;s DMs	4th	Closing Opposition	View Ballot	Namita PandeyⒸ , prisha jainⓉ
+dreamers and memers	1st	Closing Opposition	View Ballot	Henry KofiⒸ , Anqi Li
+iPad Babies	3rd	Opening Opposition	View Ballot	Henry KofiⒸ , Anqi Li
+Goat and Toad	4th	Opening Government	View Ballot	Henry KofiⒸ , Anqi Li
+candy jar	2nd	Closing Government	View Ballot	Henry KofiⒸ , Anqi Li
+Ho Team	1st	Opening Opposition	View Ballot	Bea B. LegaspiⒸ , Sodiq Farhan
+Hope to escape IVth	3rd	Opening Government	View Ballot	Bea B. LegaspiⒸ , Sodiq Farhan
+Slumdog and McGillionaire	2nd	Closing Government	View Ballot	Bea B. LegaspiⒸ , Sodiq Farhan
+Cambridge A	4th	Closing Opposition	View Ballot	Bea B. LegaspiⒸ , Sodiq Farhan
+BOM	3rd	Closing Opposition	View Ballot	Mahesh RⒸ , Alishba Irfan
+ANU BP	1st	Closing Government	View Ballot	Mahesh RⒸ , Alishba Irfan
+HH Beyblades	2nd	Opening Opposition	View Ballot	Mahesh RⒸ , Alishba Irfan
+rawr	4th	Opening Government	View Ballot	Mahesh RⒸ , Alishba Irfan
+Ur Mom	1st	Opening Government	View Ballot	Ritabrata MitraⒸ , Alicia Wang
+Allies Across Borders	2nd	Closing Opposition	View Ballot	Ritabrata MitraⒸ , Alicia Wang
+This Ain&#x27;t No Regular Degular	3rd	Closing Government	View Ballot	Ritabrata MitraⒸ , Alicia Wang
+Eli &amp; Meg dupe	4th	Opening Opposition	View Ballot	Ritabrata MitraⒸ , Alicia Wang
+Koreans strikes back	3rd	Opening Opposition	View Ballot	Gazi MahtabⒸ , Saksham GoyalⓉ
+Ossian A	4th	Closing Opposition	View Ballot	Gazi MahtabⒸ , Saksham GoyalⓉ
+NYU/Tokyo: Rashomon Case Shifting T	2nd	Opening Government	View Ballot	Gazi MahtabⒸ , Saksham GoyalⓉ
+Republicans in denial	1st	Closing Government	View Ballot	Gazi MahtabⒸ , Saksham GoyalⓉ
+NTU	3rd	Opening Opposition	View Ballot	Josef FlorendoⒸ , Eli Ferrell
+GUU But I need the Internet. I can&#x27;	1st	Opening Government	View Ballot	Josef FlorendoⒸ , Eli Ferrell
+Hair Dye and Korean Girl	4th	Closing Government	View Ballot	Josef FlorendoⒸ , Eli Ferrell
+Katsu Don	2nd	Closing Opposition	View Ballot	Josef FlorendoⒸ , Eli Ferrell
+Bagel and Donut	4th	Opening Government	View Ballot	Gabrielle PacañoⒸ , Esther Olamide Olayinka
+Rossi&#x27;s Grey Hair	1st	Opening Opposition	View Ballot	Gabrielle PacañoⒸ , Esther Olamide Olayinka
+Solomon Islands A	3rd	Closing Government	View Ballot	Gabrielle PacañoⒸ , Esther Olamide Olayinka
+Keio TS	2nd	Closing Opposition	View Ballot	Gabrielle PacañoⒸ , Esther Olamide Olayinka
+Noted	4th	Closing Opposition	View Ballot	Ayafa TonyeⒸ , James Cachola , Daisuke FujikawaⓉ
+Hyunmindore’s army	3rd	Opening Opposition	View Ballot	Ayafa TonyeⒸ , James Cachola , Daisuke FujikawaⓉ
+Atlantis A	1st	Closing Government	View Ballot	Ayafa TonyeⒸ , James Cachola , Daisuke FujikawaⓉ
+MUST Teeeeed	2nd	Opening Government	View Ballot	Ayafa TonyeⒸ , James Cachola , Daisuke FujikawaⓉ
+Divorced&amp;ADHD but still xôi thịt	3rd	Closing Government	View Ballot	Shudipto R. AhmedⒸ , Jo Watanabe
+Zagreb A	2nd	Opening Government	View Ballot	Shudipto R. AhmedⒸ , Jo Watanabe
+6PAX	4th	Closing Opposition	View Ballot	Shudipto R. AhmedⒸ , Jo Watanabe
+Ateneo You have to Realize That Kil	1st	Opening Opposition	View Ballot	Shudipto R. AhmedⒸ , Jo Watanabe
+Bumblebee	1st	Opening Opposition	View Ballot	Opeyemi GideonⒸ , Naysa ShahⓉ
+laohu goes to tokyo	3rd	Closing Opposition	View Ballot	Opeyemi GideonⒸ , Naysa ShahⓉ
+ICU	4th	Opening Government	View Ballot	Opeyemi GideonⒸ , Naysa ShahⓉ
+Swing B	2nd	Closing Government	View Ballot	Opeyemi GideonⒸ , Naysa ShahⓉ
+UCL Rick &amp; Tan	2nd	Closing Opposition	View Ballot	David MenciasⒸ , Bilal Najaf
+Majestic flying spaghetti monster	4th	Opening Government	View Ballot	David MenciasⒸ , Bilal Najaf
+Western	3rd	Closing Government	View Ballot	David MenciasⒸ , Bilal Najaf
+Nobody partnered with me	1st	Opening Opposition	View Ballot	David MenciasⒸ , Bilal Najaf
+Comody Iida	3rd	Opening Opposition	View Ballot	Banun SabriⒸ , Yeonsue Kim
+Dwi eisiau bod y gorau fel na fu ne	1st	Closing Government	View Ballot	Banun SabriⒸ , Yeonsue Kim
+WSDC Team Japan	2nd	Opening Government	View Ballot	Banun SabriⒸ , Yeonsue Kim
+I’m good with any name	4th	Closing Opposition	View Ballot	Banun SabriⒸ , Yeonsue Kim
+Do you even Water Polo	2nd	Closing Government	View Ballot	Kotaro YoshidaⒸ , Emma Aripin
+Ateneo Unemployed and Out-of-School	1st	Opening Government	View Ballot	Kotaro YoshidaⒸ , Emma Aripin
+Ateneo Fly Like G7	4th	Opening Opposition	View Ballot	Kotaro YoshidaⒸ , Emma Aripin
+Kochamaru A	3rd	Closing Opposition	View Ballot	Kotaro YoshidaⒸ , Emma Aripin
+Kyushu C	3rd	Opening Government	View Ballot	Dominic Stanley-MarcusⒸ , Aymaan Sheikh
+Kyushu S	1st	Closing Opposition	View Ballot	Dominic Stanley-MarcusⒸ , Aymaan Sheikh
+Xuebao Bizui	2nd	Opening Opposition	View Ballot	Dominic Stanley-MarcusⒸ , Aymaan Sheikh
+Tsukukoma B	4th	Closing Government	View Ballot	Dominic Stanley-MarcusⒸ , Aymaan Sheikh
+WAD 1	4th	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Hishah Khalishah
+ICUP	3rd	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Hishah Khalishah
+Economics: steal manhole cover, sel	1st	Closing Government	View Ballot	Ayodele SamuelⒸ , Hishah Khalishah
+Swing A	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ , Hishah Khalishah
+You&#x27;re so hot, you denture my shizz	3rd	Opening Government	View Ballot	Wurdaan KashifⒸ , Michelle Andrea WidlyneⓉ
+Boo! Lisa&#x27;s Coming of Age Day	2nd	Opening Opposition	View Ballot	Wurdaan KashifⒸ , Michelle Andrea WidlyneⓉ
+Happy Hour	4th	Closing Government	View Ballot	Wurdaan KashifⒸ , Michelle Andrea WidlyneⓉ
+HH Non-eepers	1st	Closing Opposition	View Ballot	Wurdaan KashifⒸ , Michelle Andrea WidlyneⓉ
+William Smith fun club	3rd	Opening Government	View Ballot	Joy HadomeⒸ , Ahwar KhanⓉ
+biulingbiuling	4th	Opening Opposition	View Ballot	Joy HadomeⒸ , Ahwar KhanⓉ
+BFSU idk	2nd	Closing Opposition	View Ballot	Joy HadomeⒸ , Ahwar KhanⓉ
+Stonecurlers	1st	Closing Government	View Ballot	Joy HadomeⒸ , Ahwar KhanⓉ
+
+
+team	result	side	ballot	adjudicators
+Bumblebee	3rd	Opening Government	View Ballot	Alicia WangⒸ , James Cachola
+Hope to escape IVth	2nd	Opening Opposition	View Ballot	Alicia WangⒸ , James Cachola
+NTU	1st	Closing Opposition	View Ballot	Alicia WangⒸ , James Cachola
+MUST Teeeeed	4th	Closing Government	View Ballot	Alicia WangⒸ , James Cachola
+Hyunmindore’s army	4th	Opening Government	View Ballot	Jonathan TuliaoⒸ , Dominic Stanley-Marcus
+Ateneo Fly Like G7	3rd	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Dominic Stanley-Marcus
+Extending into your girl&#x27;s DMs	2nd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Dominic Stanley-Marcus
+Economics: steal manhole cover, sel	1st	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Dominic Stanley-Marcus
+dreamers and memers	1st	Opening Opposition	View Ballot	Adhipatya SinghⒸ , Yeonsue Kim
+Rossi&#x27;s Grey Hair	3rd	Opening Government	View Ballot	Adhipatya SinghⒸ , Yeonsue Kim
+HH Non-eepers	2nd	Closing Government	View Ballot	Adhipatya SinghⒸ , Yeonsue Kim
+Western	4th	Closing Opposition	View Ballot	Adhipatya SinghⒸ , Yeonsue Kim
+WAD 1	3rd	Opening Government	View Ballot	Henry KofiⒸ , Mohanish TatiyaⓉ
+Pale blue dot	1st	Closing Opposition	View Ballot	Henry KofiⒸ , Mohanish TatiyaⓉ
+ICU	4th	Closing Government	View Ballot	Henry KofiⒸ , Mohanish TatiyaⓉ
+Tsukukoma B	2nd	Opening Opposition	View Ballot	Henry KofiⒸ , Mohanish TatiyaⓉ
+Tokyo H&amp;M	1st	Opening Opposition	View Ballot	Namita PandeyⒸ , Michelle Andrea Widlyne , Saksham GoyalⓉ
+13 Hour LDR	2nd	Closing Opposition	View Ballot	Namita PandeyⒸ , Michelle Andrea Widlyne , Saksham GoyalⓉ
+HH Airstrike	4th	Closing Government	View Ballot	Namita PandeyⒸ , Michelle Andrea Widlyne , Saksham GoyalⓉ
+candy jar	3rd	Opening Government	View Ballot	Namita PandeyⒸ , Michelle Andrea Widlyne , Saksham GoyalⓉ
+Comody Iida	1st	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Bilal Najaf
+Kyushu S	4th	Closing Government	View Ballot	Ayodele SamuelⒸ , Bilal Najaf
+Eli &amp; Meg dupe	3rd	Opening Government	View Ballot	Ayodele SamuelⒸ , Bilal Najaf
+Gaslighters	2nd	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Bilal Najaf
+You&#x27;re so hot, you denture my shizz	3rd	Closing Opposition	View Ballot	Gazi MahtabⒸ , Sodiq Farhan
+William Smith fun club	4th	Opening Opposition	View Ballot	Gazi MahtabⒸ , Sodiq Farhan
+The Way of the Just	2nd	Closing Government	View Ballot	Gazi MahtabⒸ , Sodiq Farhan
+Swing B	1st	Opening Government	View Ballot	Gazi MahtabⒸ , Sodiq Farhan
+Slumdog and McGillionaire	4th	Opening Government	View Ballot	Kanan IshizakaⒸ , Opeyemi Gideon
+Allies Across Borders	2nd	Closing Government	View Ballot	Kanan IshizakaⒸ , Opeyemi Gideon
+Do you even Water Polo	1st	Closing Opposition	View Ballot	Kanan IshizakaⒸ , Opeyemi Gideon
+Shippai	3rd	Opening Opposition	View Ballot	Kanan IshizakaⒸ , Opeyemi Gideon
+Koreans strikes back	1st	Closing Government	View Ballot	Daniella Louise S. BarbacenaⒸ , Ahwar Khan
+Kyushu C	4th	Opening Opposition	View Ballot	Daniella Louise S. BarbacenaⒸ , Ahwar Khan
+laohu goes to tokyo	2nd	Opening Government	View Ballot	Daniella Louise S. BarbacenaⒸ , Ahwar Khan
+Happy Hour	3rd	Closing Opposition	View Ballot	Daniella Louise S. BarbacenaⒸ , Ahwar Khan
+Cambridge A	1st	Closing Government	View Ballot	Anqi LiⒸ , Yee Cheng Zu
+NYU/Tokyo: Rashomon Case Shifting T	4th	Closing Opposition	View Ballot	Anqi LiⒸ , Yee Cheng Zu
+Keio TS	2nd	Opening Government	View Ballot	Anqi LiⒸ , Yee Cheng Zu
+Republicans in denial	3rd	Opening Opposition	View Ballot	Anqi LiⒸ , Yee Cheng Zu
+Noted	1st	Opening Government	View Ballot	Alishba IrfanⒸ , Wurdaan Kashif
+Ossian A	2nd	Opening Opposition	View Ballot	Alishba IrfanⒸ , Wurdaan Kashif
+Bagel and Donut	3rd	Closing Opposition	View Ballot	Alishba IrfanⒸ , Wurdaan Kashif
+Hina fan club	4th	Closing Government	View Ballot	Alishba IrfanⒸ , Wurdaan Kashif
+Kyushu B	4th	Opening Opposition	View Ballot	Kotaro YoshidaⒸ , Joy Hadome
+WSDC Team Japan	3rd	Closing Opposition	View Ballot	Kotaro YoshidaⒸ , Joy Hadome
+HH Beyblades	1st	Closing Government	View Ballot	Kotaro YoshidaⒸ , Joy Hadome
+Katsu Don	2nd	Opening Government	View Ballot	Kotaro YoshidaⒸ , Joy Hadome
+Boo! Lisa&#x27;s Coming of Age Day	2nd	Opening Government	View Ballot	Ritabrata MitraⒸ , Terkpertey Andrews
+SISU ZY	3rd	Opening Opposition	View Ballot	Ritabrata MitraⒸ , Terkpertey Andrews
+I’m good with any name	4th	Closing Government	View Ballot	Ritabrata MitraⒸ , Terkpertey Andrews
+aruaq	1st	Closing Opposition	View Ballot	Ritabrata MitraⒸ , Terkpertey Andrews
+error	4th	Closing Government	View Ballot	Gabrielle PacañoⒸ , Emi Negita
+Hair Dye and Korean Girl	3rd	Closing Opposition	View Ballot	Gabrielle PacañoⒸ , Emi Negita
+biulingbiuling	2nd	Opening Government	View Ballot	Gabrielle PacañoⒸ , Emi Negita
+Swing A	1st	Opening Opposition	View Ballot	Gabrielle PacañoⒸ , Emi Negita
+UTY	1st	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Aymaan Sheikh
+ICUP	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ , Aymaan Sheikh
+Goat and Toad	4th	Closing Government	View Ballot	Ayafa TonyeⒸ , Aymaan Sheikh
+Swing C	2nd	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Aymaan Sheikh
+UCL Rick &amp; Tan	1st	Opening Opposition	View Ballot	Bea B. LegaspiⒸ , Hishah Khalishah
+Atlantis A	3rd	Closing Opposition	View Ballot	Bea B. LegaspiⒸ , Hishah Khalishah
+My partner missed Nagoya	4th	Closing Government	View Ballot	Bea B. LegaspiⒸ , Hishah Khalishah
+Doon &amp; Soon	2nd	Opening Government	View Ballot	Bea B. LegaspiⒸ , Hishah Khalishah
+Kochamaru A	2nd	Closing Government	View Ballot	Nikola MichaylovⒸ , Eli Ferrell
+This Ain&#x27;t No Regular Degular	1st	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Eli Ferrell
+Beluga	4th	Opening Government	View Ballot	Nikola MichaylovⒸ , Eli Ferrell
+Stonecurlers	3rd	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Eli Ferrell
+Iliketurtles	1st	Opening Opposition	View Ballot	David MenciasⒸ , Naysa Shah
+iPad Babies	4th	Closing Government	View Ballot	David MenciasⒸ , Naysa Shah
+Solomon Islands A	3rd	Opening Government	View Ballot	David MenciasⒸ , Naysa Shah
+rawr	2nd	Closing Opposition	View Ballot	David MenciasⒸ , Naysa Shah
+Matt and “the Lady”	4th	Closing Opposition	View Ballot	Shudipto R. AhmedⒸ , Sunghyun Park
+are ya winning, son?	3rd	Opening Government	View Ballot	Shudipto R. AhmedⒸ , Sunghyun Park
+Zagreb A	2nd	Closing Government	View Ballot	Shudipto R. AhmedⒸ , Sunghyun Park
+Ateneo Unemployed and Out-of-School	1st	Opening Opposition	View Ballot	Shudipto R. AhmedⒸ , Sunghyun Park
+Ho Team	3rd	Closing Government	View Ballot	Matt CaitoⒸ , Satoshi Inoue
+GUU But I need the Internet. I can&#x27;	4th	Opening Opposition	View Ballot	Matt CaitoⒸ , Satoshi Inoue
+Master of my Domain	1st	Closing Opposition	View Ballot	Matt CaitoⒸ , Satoshi Inoue
+ANU BP	2nd	Opening Government	View Ballot	Matt CaitoⒸ , Satoshi Inoue
+Ur Mom	2nd	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Esther Olamide Olayinka
+Dwi eisiau bod y gorau fel na fu ne	3rd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Esther Olamide Olayinka
+Ateneo You have to Realize That Kil	1st	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Esther Olamide Olayinka
+Nobody partnered with me	4th	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Esther Olamide Olayinka
+BOM	1st	Opening Opposition	View Ballot	Josef FlorendoⒸ
+Majestic flying spaghetti monster	2nd	Closing Government	View Ballot	Josef FlorendoⒸ
+6PAX	3rd	Opening Government	View Ballot	Josef FlorendoⒸ
+Xuebao Bizui	4th	Closing Opposition	View Ballot	Josef FlorendoⒸ
+Where&#x27;s Ayaka&#x27;s Date (WAD)?	3rd	Opening Opposition	View Ballot	Emma AripinⒸ , Mahesh R
+Divorced&amp;ADHD but still xôi thịt	4th	Opening Government	View Ballot	Emma AripinⒸ , Mahesh R
+BFSU idk	2nd	Closing Government	View Ballot	Emma AripinⒸ , Mahesh R
+Piggies	1st	Closing Opposition	View Ballot	Emma AripinⒸ , Mahesh R
+
+
+team	result	side	ballot	adjudicators
+dreamers and memers	4th	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Terkpertey Andrews , Aakash AnilⓉ
+Dwi eisiau bod y gorau fel na fu ne	1st	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Terkpertey Andrews , Aakash AnilⓉ
+Allies Across Borders	2nd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Terkpertey Andrews , Aakash AnilⓉ
+ANU BP	3rd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Terkpertey Andrews , Aakash AnilⓉ
+Kochamaru A	2nd	Opening Opposition	View Ballot	Kotaro YoshidaⒸ , James Cachola
+Stonecurlers	4th	Closing Opposition	View Ballot	Kotaro YoshidaⒸ , James Cachola
+Katsu Don	3rd	Closing Government	View Ballot	Kotaro YoshidaⒸ , James Cachola
+Economics: steal manhole cover, sel	1st	Opening Government	View Ballot	Kotaro YoshidaⒸ , James Cachola
+Where&#x27;s Ayaka&#x27;s Date (WAD)?	4th	Closing Government	View Ballot	Emma AripinⒸ , Ayodele Samuel
+Boo! Lisa&#x27;s Coming of Age Day	1st	Closing Opposition	View Ballot	Emma AripinⒸ , Ayodele Samuel
+HH Airstrike	3rd	Opening Government	View Ballot	Emma AripinⒸ , Ayodele Samuel
+candy jar	2nd	Opening Opposition	View Ballot	Emma AripinⒸ , Ayodele Samuel
+Koreans strikes back	4th	Opening Government	View Ballot	Alishba IrfanⒸ , Yee Cheng Zu
+6PAX	1st	Opening Opposition	View Ballot	Alishba IrfanⒸ , Yee Cheng Zu
+Kyushu B	2nd	Closing Opposition	View Ballot	Alishba IrfanⒸ , Yee Cheng Zu
+rawr	3rd	Closing Government	View Ballot	Alishba IrfanⒸ , Yee Cheng Zu
+iPad Babies	2nd	Closing Opposition	View Ballot	Daniella Louise S. BarbacenaⒸ , Wurdaan Kashif
+I’m good with any name	3rd	Opening Government	View Ballot	Daniella Louise S. BarbacenaⒸ , Wurdaan Kashif
+Goat and Toad	4th	Opening Opposition	View Ballot	Daniella Louise S. BarbacenaⒸ , Wurdaan Kashif
+Swing C	1st	Closing Government	View Ballot	Daniella Louise S. BarbacenaⒸ , Wurdaan Kashif
+Hyunmindore’s army	1st	Closing Government	View Ballot	Sunghyun ParkⒸ , Dominic Stanley-Marcus
+MUST Teeeeed	3rd	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Dominic Stanley-Marcus
+laohu goes to tokyo	2nd	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Dominic Stanley-Marcus
+Tsukukoma B	4th	Opening Government	View Ballot	Sunghyun ParkⒸ , Dominic Stanley-Marcus
+Hope to escape IVth	3rd	Closing Government	View Ballot	Alicia WangⒸ , Sodiq Farhan
+Cambridge A	1st	Opening Government	View Ballot	Alicia WangⒸ , Sodiq Farhan
+Extending into your girl&#x27;s DMs	2nd	Opening Opposition	View Ballot	Alicia WangⒸ , Sodiq Farhan
+Swing A	4th	Closing Opposition	View Ballot	Alicia WangⒸ , Sodiq Farhan
+Comody Iida	2nd	Opening Government	View Ballot	David MenciasⒸ , Banun Sabri
+Atlantis A	4th	Opening Opposition	View Ballot	David MenciasⒸ , Banun Sabri
+NTU	1st	Closing Government	View Ballot	David MenciasⒸ , Banun Sabri
+Shippai	3rd	Closing Opposition	View Ballot	David MenciasⒸ , Banun Sabri
+Noted	3rd	Closing Government	View Ballot	Adhipatya SinghⒸ , Ahwar Khan
+Slumdog and McGillionaire	2nd	Opening Opposition	View Ballot	Adhipatya SinghⒸ , Ahwar Khan
+Pale blue dot	4th	Opening Government	View Ballot	Adhipatya SinghⒸ , Ahwar Khan
+Republicans in denial	1st	Closing Opposition	View Ballot	Adhipatya SinghⒸ , Ahwar Khan
+Iliketurtles	4th	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Satoshi Inoue
+Keio TS	2nd	Closing Government	View Ballot	Nikola MichaylovⒸ , Satoshi Inoue
+BFSU idk	1st	Opening Government	View Ballot	Nikola MichaylovⒸ , Satoshi Inoue
+Gaslighters	3rd	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Satoshi Inoue
+UCL Rick &amp; Tan	3rd	Closing Government	View Ballot	Shudipto R. AhmedⒸ , Ayafa Tonye
+Tokyo H&amp;M	4th	Closing Opposition	View Ballot	Shudipto R. AhmedⒸ , Ayafa Tonye
+Ur Mom	1st	Opening Opposition	View Ballot	Shudipto R. AhmedⒸ , Ayafa Tonye
+This Ain&#x27;t No Regular Degular	2nd	Opening Government	View Ballot	Shudipto R. AhmedⒸ , Ayafa Tonye
+BOM	1st	Opening Government	View Ballot	Josef FlorendoⒸ , Opeyemi Gideon
+Rossi&#x27;s Grey Hair	3rd	Closing Opposition	View Ballot	Josef FlorendoⒸ , Opeyemi Gideon
+HH Non-eepers	4th	Opening Opposition	View Ballot	Josef FlorendoⒸ , Opeyemi Gideon
+Nobody partnered with me	2nd	Closing Government	View Ballot	Josef FlorendoⒸ , Opeyemi Gideon
+Bumblebee	4th	Opening Opposition	View Ballot	UzairⒸ , Esther Olamide Olayinka
+UTY	1st	Opening Government	View Ballot	UzairⒸ , Esther Olamide Olayinka
+Solomon Islands A	2nd	Closing Opposition	View Ballot	UzairⒸ , Esther Olamide Olayinka
+Ateneo Fly Like G7	3rd	Closing Government	View Ballot	UzairⒸ , Esther Olamide Olayinka
+Ho Team	4th	Closing Opposition	View Ballot	Joy HadomeⒸ , Bea B. Legaspi
+Matt and “the Lady”	1st	Closing Government	View Ballot	Joy HadomeⒸ , Bea B. Legaspi
+Piggies	3rd	Opening Government	View Ballot	Joy HadomeⒸ , Bea B. Legaspi
+Doon &amp; Soon	2nd	Opening Opposition	View Ballot	Joy HadomeⒸ , Bea B. Legaspi
+are ya winning, son?	1st	Closing Government	View Ballot	Matt CaitoⒸ , Gazi Mahtab , Mahesh R
+Zagreb A	2nd	Closing Opposition	View Ballot	Matt CaitoⒸ , Gazi Mahtab , Mahesh R
+13 Hour LDR	4th	Opening Opposition	View Ballot	Matt CaitoⒸ , Gazi Mahtab , Mahesh R
+HH Beyblades	3rd	Opening Government	View Ballot	Matt CaitoⒸ , Gazi Mahtab , Mahesh R
+You&#x27;re so hot, you denture my shizz	1st	Closing Government	View Ballot	Henry KofiⒸ , Yeonsue Kim
+Divorced&amp;ADHD but still xôi thịt	2nd	Closing Opposition	View Ballot	Henry KofiⒸ , Yeonsue Kim
+NYU/Tokyo: Rashomon Case Shifting T	3rd	Opening Opposition	View Ballot	Henry KofiⒸ , Yeonsue Kim
+Happy Hour	4th	Opening Government	View Ballot	Henry KofiⒸ , Yeonsue Kim
+Do you even Water Polo	4th	Closing Opposition	View Ballot	Kanan IshizakaⒸ , Saksham GoyalⓉ
+Master of my Domain	1st	Opening Opposition	View Ballot	Kanan IshizakaⒸ , Saksham GoyalⓉ
+Ateneo You have to Realize That Kil	2nd	Opening Government	View Ballot	Kanan IshizakaⒸ , Saksham GoyalⓉ
+Ateneo Unemployed and Out-of-School	3rd	Closing Government	View Ballot	Kanan IshizakaⒸ , Saksham GoyalⓉ
+error	3rd	Closing Opposition	View Ballot	Ritabrata MitraⒸ , Emi Negita
+Ossian A	1st	Opening Government	View Ballot	Ritabrata MitraⒸ , Emi Negita
+Bagel and Donut	2nd	Opening Opposition	View Ballot	Ritabrata MitraⒸ , Emi Negita
+Xuebao Bizui	4th	Closing Government	View Ballot	Ritabrata MitraⒸ , Emi Negita
+Majestic flying spaghetti monster	4th	Opening Opposition	View Ballot	Gabrielle PacañoⒸ , Hishah Khalishah
+My partner missed Nagoya	2nd	Opening Government	View Ballot	Gabrielle PacañoⒸ , Hishah Khalishah
+GUU But I need the Internet. I can&#x27;	3rd	Closing Opposition	View Ballot	Gabrielle PacañoⒸ , Hishah Khalishah
+WSDC Team Japan	1st	Closing Government	View Ballot	Gabrielle PacañoⒸ , Hishah Khalishah
+WAD 1	1st	Closing Government	View Ballot	Eli FerrellⒸ , Naysa Shah
+Kyushu C	3rd	Closing Opposition	View Ballot	Eli FerrellⒸ , Naysa Shah
+Hina fan club	2nd	Opening Government	View Ballot	Eli FerrellⒸ , Naysa Shah
+ICU	4th	Opening Opposition	View Ballot	Eli FerrellⒸ , Naysa Shah
+The Way of the Just	1st	Opening Opposition	View Ballot	Namita PandeyⒸ
+Beluga	2nd	Closing Opposition	View Ballot	Namita PandeyⒸ
+aruaq	4th	Closing Government	View Ballot	Namita PandeyⒸ
+Western	3rd	Opening Government	View Ballot	Namita PandeyⒸ
+Hair Dye and Korean Girl	4th	Opening Opposition	View Ballot	Anqi LiⒸ , Mohanish Tatiya
+biulingbiuling	1st	Closing Government	View Ballot	Anqi LiⒸ , Mohanish Tatiya
+Kyushu S	3rd	Opening Government	View Ballot	Anqi LiⒸ , Mohanish Tatiya
+SISU ZY	2nd	Closing Opposition	View Ballot	Anqi LiⒸ , Mohanish Tatiya
+
+
+team	result	side	ballot	adjudicators
+Comody Iida	4th	Opening Government	View Ballot	David MenciasⒸ , Aymaan Sheikh
+Do you even Water Polo	2nd	Opening Opposition	View Ballot	David MenciasⒸ , Aymaan Sheikh
+Kochamaru A	3rd	Closing Opposition	View Ballot	David MenciasⒸ , Aymaan Sheikh
+Doon &amp; Soon	1st	Closing Government	View Ballot	David MenciasⒸ , Aymaan Sheikh
+Divorced&amp;ADHD but still xôi thịt	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ , Naysa Shah
+SISU ZY	4th	Closing Government	View Ballot	Ayodele SamuelⒸ , Naysa Shah
+HH Airstrike	1st	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Naysa Shah
+Swing A	3rd	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Naysa Shah
+BOM	2nd	Closing Government	View Ballot	Shudipto R. AhmedⒸ
+are ya winning, son?	4th	Opening Government	View Ballot	Shudipto R. AhmedⒸ
+Allies Across Borders	1st	Closing Opposition	View Ballot	Shudipto R. AhmedⒸ
+Economics: steal manhole cover, sel	3rd	Opening Opposition	View Ballot	Shudipto R. AhmedⒸ
+Koreans strikes back	4th	Closing Opposition	View Ballot	Emi NegitaⒸ , Ahwar Khan
+Where&#x27;s Ayaka&#x27;s Date (WAD)?	1st	Opening Opposition	View Ballot	Emi NegitaⒸ , Ahwar Khan
+error	3rd	Opening Government	View Ballot	Emi NegitaⒸ , Ahwar Khan
+Kyushu S	2nd	Closing Government	View Ballot	Emi NegitaⒸ , Ahwar Khan
+Majestic flying spaghetti monster	3rd	Opening Opposition	View Ballot	Ritabrata MitraⒸ , Daisuke Fujikawa
+Stonecurlers	4th	Opening Government	View Ballot	Ritabrata MitraⒸ , Daisuke Fujikawa
+laohu goes to tokyo	2nd	Closing Opposition	View Ballot	Ritabrata MitraⒸ , Daisuke Fujikawa
+Western	1st	Closing Government	View Ballot	Ritabrata MitraⒸ , Daisuke Fujikawa
+Slumdog and McGillionaire	1st	Closing Opposition	View Ballot	Gabrielle PacañoⒸ , Sodiq Farhan
+Atlantis A	4th	Opening Government	View Ballot	Gabrielle PacañoⒸ , Sodiq Farhan
+Rossi&#x27;s Grey Hair	3rd	Opening Opposition	View Ballot	Gabrielle PacañoⒸ , Sodiq Farhan
+GUU But I need the Internet. I can&#x27;	2nd	Closing Government	View Ballot	Gabrielle PacañoⒸ , Sodiq Farhan
+Iliketurtles	4th	Closing Opposition	View Ballot	Joy HadomeⒸ , Mohanish Tatiya
+iPad Babies	2nd	Closing Government	View Ballot	Joy HadomeⒸ , Mohanish Tatiya
+Ateneo Fly Like G7	1st	Opening Government	View Ballot	Joy HadomeⒸ , Mohanish Tatiya
+rawr	3rd	Opening Opposition	View Ballot	Joy HadomeⒸ , Mohanish Tatiya
+NYU/Tokyo: Rashomon Case Shifting T	1st	Opening Opposition	View Ballot	Eli FerrellⒸ , Gazi Mahtab
+Kyushu C	4th	Closing Government	View Ballot	Eli FerrellⒸ , Gazi Mahtab
+Hina fan club	3rd	Closing Opposition	View Ballot	Eli FerrellⒸ , Gazi Mahtab
+Xuebao Bizui	2nd	Opening Government	View Ballot	Eli FerrellⒸ , Gazi Mahtab
+Ur Mom	2nd	Opening Government	View Ballot	Sunghyun ParkⒸ , Kotaro Yoshida
+Master of my Domain	4th	Closing Opposition	View Ballot	Sunghyun ParkⒸ , Kotaro Yoshida
+Ateneo You have to Realize That Kil	3rd	Closing Government	View Ballot	Sunghyun ParkⒸ , Kotaro Yoshida
+Ateneo Unemployed and Out-of-School	1st	Opening Opposition	View Ballot	Sunghyun ParkⒸ , Kotaro Yoshida
+Noted	4th	Opening Government	View Ballot	Henry KofiⒸ , Jo Watanabe
+Bumblebee	1st	Closing Government	View Ballot	Henry KofiⒸ , Jo Watanabe
+Ossian A	3rd	Closing Opposition	View Ballot	Henry KofiⒸ , Jo Watanabe
+Solomon Islands A	2nd	Opening Opposition	View Ballot	Henry KofiⒸ , Jo Watanabe
+You&#x27;re so hot, you denture my shizz	4th	Opening Opposition	View Ballot	Alishba IrfanⒸ , Saksham Goyal
+Hyunmindore’s army	1st	Closing Government	View Ballot	Alishba IrfanⒸ , Saksham Goyal
+Kyushu B	2nd	Closing Opposition	View Ballot	Alishba IrfanⒸ , Saksham Goyal
+HH Non-eepers	3rd	Opening Government	View Ballot	Alishba IrfanⒸ , Saksham Goyal
+Hope to escape IVth	3rd	Closing Government	View Ballot	Ayafa TonyeⒸ , Banun Sabri
+Republicans in denial	4th	Opening Government	View Ballot	Ayafa TonyeⒸ , Banun Sabri
+Piggies	1st	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Banun Sabri
+Gaslighters	2nd	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Banun Sabri
+Glorious	3rd	Opening Opposition	View Ballot	Emma AripinⒸ , Opeyemi Gideon
+Happy Hour	2nd	Opening Government	View Ballot	Emma AripinⒸ , Opeyemi Gideon
+ICU	4th	Closing Government	View Ballot	Emma AripinⒸ , Opeyemi Gideon
+Goat and Toad	1st	Closing Opposition	View Ballot	Emma AripinⒸ , Opeyemi Gideon
+Boo! Lisa&#x27;s Coming of Age Day	4th	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Matt Caito
+UTY	1st	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Matt Caito
+My partner missed Nagoya	3rd	Opening Government	View Ballot	Jonathan TuliaoⒸ , Matt Caito
+6PAX	2nd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Matt Caito
+Pale blue dot	3rd	Opening Government	View Ballot	Hishah KhalishahⒸ , Michelle Andrea Widlyne
+Hair Dye and Korean Girl	1st	Opening Opposition	View Ballot	Hishah KhalishahⒸ , Michelle Andrea Widlyne
+I’m good with any name	2nd	Closing Opposition	View Ballot	Hishah KhalishahⒸ , Michelle Andrea Widlyne
+Tsukukoma B	4th	Closing Government	View Ballot	Hishah KhalishahⒸ , Michelle Andrea Widlyne
+Matt and “the Lady”	1st	Opening Opposition	View Ballot	Kanan IshizakaⒸ , Mahesh R
+NTU	2nd	Closing Government	View Ballot	Kanan IshizakaⒸ , Mahesh R
+BFSU idk	3rd	Closing Opposition	View Ballot	Kanan IshizakaⒸ , Mahesh R
+WSDC Team Japan	4th	Opening Government	View Ballot	Kanan IshizakaⒸ , Mahesh R
+Ho Team	4th	Closing Opposition	View Ballot	Alicia WangⒸ
+13 Hour LDR	2nd	Closing Government	View Ballot	Alicia WangⒸ
+Beluga	3rd	Opening Government	View Ballot	Alicia WangⒸ
+candy jar	1st	Opening Opposition	View Ballot	Alicia WangⒸ
+Cambridge A	4th	Closing Government	View Ballot	Anqi LiⒸ , Bea B. Legaspi
+ANU BP	1st	Opening Opposition	View Ballot	Anqi LiⒸ , Bea B. Legaspi
+HH Beyblades	3rd	Opening Government	View Ballot	Anqi LiⒸ , Bea B. Legaspi
+Nobody partnered with me	2nd	Closing Opposition	View Ballot	Anqi LiⒸ , Bea B. Legaspi
+dreamers and memers	2nd	Opening Government	View Ballot	Josef FlorendoⒸ , Yee Cheng Zu
+The Way of the Just	1st	Opening Opposition	View Ballot	Josef FlorendoⒸ , Yee Cheng Zu
+biulingbiuling	4th	Closing Government	View Ballot	Josef FlorendoⒸ , Yee Cheng Zu
+Keio TS	3rd	Closing Opposition	View Ballot	Josef FlorendoⒸ , Yee Cheng Zu
+WAD 1	2nd	Opening Opposition	View Ballot	James CacholaⒸ , Satoshi Inoue
+Bagel and Donut	3rd	Closing Government	View Ballot	James CacholaⒸ , Satoshi Inoue
+MUST Teeeeed	1st	Closing Opposition	View Ballot	James CacholaⒸ , Satoshi Inoue
+aruaq	4th	Opening Government	View Ballot	James CacholaⒸ , Satoshi Inoue
+UCL Rick &amp; Tan	4th	Closing Opposition	View Ballot	Tejas SubramaniamⒸ
+Dwi eisiau bod y gorau fel na fu ne	2nd	Closing Government	View Ballot	Tejas SubramaniamⒸ
+Zagreb A	1st	Opening Government	View Ballot	Tejas SubramaniamⒸ
+This Ain&#x27;t No Regular Degular	3rd	Opening Opposition	View Ballot	Tejas SubramaniamⒸ
+Tokyo H&amp;M	2nd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Wurdaan Kashif
+Shippai	1st	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Wurdaan Kashif
+Extending into your girl&#x27;s DMs	4th	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Wurdaan Kashif
+Katsu Don	3rd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Wurdaan Kashif
+
+
+team	result	side	adjudicators
+Dwi eisiau bod y gorau fel na fu ne	eliminated	Opening Government	Sunghyun ParkⒸ , Daisuke Fujikawa , Joy Hadome
+Kochamaru A	advancing	Closing Opposition	Sunghyun ParkⒸ , Daisuke Fujikawa , Joy Hadome
+Shippai	advancing	Closing Government	Sunghyun ParkⒸ , Daisuke Fujikawa , Joy Hadome
+Piggies	eliminated	Opening Opposition	Sunghyun ParkⒸ , Daisuke Fujikawa , Joy Hadome
+Slumdog and McGillionaire	advancing	Opening Opposition	Alishba IrfanⒸ , Alicia Wang , Jo Watanabe
+UTY	eliminated	Opening Government	Alishba IrfanⒸ , Alicia Wang , Jo Watanabe
+NTU	advancing	Closing Government	Alishba IrfanⒸ , Alicia Wang , Jo Watanabe
+This Ain&#x27;t No Regular Degular	eliminated	Closing Opposition	Alishba IrfanⒸ , Alicia Wang , Jo Watanabe
+Do you even Water Polo	eliminated	Opening Government	Gabrielle PacañoⒸ , Ayafa Tonye , Emma Aripin
+Master of my Domain	advancing	Opening Opposition	Gabrielle PacañoⒸ , Ayafa Tonye , Emma Aripin
+HH Beyblades	eliminated	Closing Opposition	Gabrielle PacañoⒸ , Ayafa Tonye , Emma Aripin
+Economics: steal manhole cover, sel	advancing	Closing Government	Gabrielle PacañoⒸ , Ayafa Tonye , Emma Aripin
+UCL Rick &amp; Tan	eliminated	Opening Opposition	Anqi LiⒸ , James Cachola , Ritabrata Mitra
+The Way of the Just	eliminated	Closing Government	Anqi LiⒸ , James Cachola , Ritabrata Mitra
+are ya winning, son?	advancing	Closing Opposition	Anqi LiⒸ , James Cachola , Ritabrata Mitra
+Doon &amp; Soon	advancing	Opening Government	Anqi LiⒸ , James Cachola , Ritabrata Mitra
+
+
+team	result	side	adjudicators
+are ya winning, son?	eliminated	Closing Government	Josef FlorendoⒸ , Bea B. Legaspi , Emi Negita
+Allies Across Borders	advancing	Opening Opposition	Josef FlorendoⒸ , Bea B. Legaspi , Emi Negita
+Zagreb A	eliminated	Opening Government	Josef FlorendoⒸ , Bea B. Legaspi , Emi Negita
+Doon &amp; Soon	advancing	Closing Opposition	Josef FlorendoⒸ , Bea B. Legaspi , Emi Negita
+Slumdog and McGillionaire	advancing	Closing Government	Jonathan TuliaoⒸ , Banun Sabri , Mahesh R
+Matt and “the Lady”	eliminated	Closing Opposition	Jonathan TuliaoⒸ , Banun Sabri , Mahesh R
+NTU	eliminated	Opening Government	Jonathan TuliaoⒸ , Banun Sabri , Mahesh R
+Ateneo You have to Realize That Kil	advancing	Opening Opposition	Jonathan TuliaoⒸ , Banun Sabri , Mahesh R
+BOM	advancing	Opening Opposition	Namita PandeyⒸ , Ayodele Samuel , Vladimira Šuflaj
+Master of my Domain	eliminated	Closing Opposition	Namita PandeyⒸ , Ayodele Samuel , Vladimira Šuflaj
+Ateneo Unemployed and Out-of-School	advancing	Opening Government	Namita PandeyⒸ , Ayodele Samuel , Vladimira Šuflaj
+Economics: steal manhole cover, sel	eliminated	Closing Government	Namita PandeyⒸ , Ayodele Samuel , Vladimira Šuflaj
+Ur Mom	eliminated	Opening Government	Alicia WangⒸ , Henry Kofi , Nikola Michaylov
+Kochamaru A	advancing	Closing Opposition	Alicia WangⒸ , Henry Kofi , Nikola Michaylov
+ANU BP	advancing	Opening Opposition	Alicia WangⒸ , Henry Kofi , Nikola Michaylov
+Shippai	eliminated	Closing Government	Alicia WangⒸ , Henry Kofi , Nikola Michaylov
+
+
+team	result	side	adjudicators
+BOM	advancing	Opening Opposition	Namita PandeyⒸ , Anqi Li , Gabrielle Pacaño , Kotaro Yoshida , Mahesh R
+Slumdog and McGillionaire	eliminated	Closing Government	Namita PandeyⒸ , Anqi Li , Gabrielle Pacaño , Kotaro Yoshida , Mahesh R
+Ateneo You have to Realize That Kil	eliminated	Closing Opposition	Namita PandeyⒸ , Anqi Li , Gabrielle Pacaño , Kotaro Yoshida , Mahesh R
+Ateneo Unemployed and Out-of-School	advancing	Opening Government	Namita PandeyⒸ , Anqi Li , Gabrielle Pacaño , Kotaro Yoshida , Mahesh R
+Allies Across Borders	advancing	Closing Opposition	Vladimira ŠuflajⒸ , Bea B. Legaspi , Daniella Louise S. Barbacena , David Mencias , Josef Florendo
+Kochamaru A	eliminated	Closing Government	Vladimira ŠuflajⒸ , Bea B. Legaspi , Daniella Louise S. Barbacena , David Mencias , Josef Florendo
+ANU BP	advancing	Opening Opposition	Vladimira ŠuflajⒸ , Bea B. Legaspi , Daniella Louise S. Barbacena , David Mencias , Josef Florendo
+Doon &amp; Soon	eliminated	Opening Government	Vladimira ŠuflajⒸ , Bea B. Legaspi , Daniella Louise S. Barbacena , David Mencias , Josef Florendo
+
+
+team	result	side	adjudicators
+BOM	eliminated	Closing Opposition	Shudipto R. AhmedⒸ , Alicia Wang , Jonathan Tuliao , Kotaro Yoshida , Matt Caito , Namita Pandey , Vladimira Šuflaj
+Allies Across Borders	eliminated	Closing Government	Shudipto R. AhmedⒸ , Alicia Wang , Jonathan Tuliao , Kotaro Yoshida , Matt Caito , Namita Pandey , Vladimira Šuflaj
+Ateneo Unemployed and Out-of-School	advancing	Opening Opposition	Shudipto R. AhmedⒸ , Alicia Wang , Jonathan Tuliao , Kotaro Yoshida , Matt Caito , Namita Pandey , Vladimira Šuflaj
+ANU BP	eliminated	Opening Government	Shudipto R. AhmedⒸ , Alicia Wang , Jonathan Tuliao , Kotaro Yoshida , Matt Caito , Namita Pandey , Vladimira Šuflaj
+
+
+team	result	side	adjudicators
+13 Hour LDR	advancing	Opening Opposition	Joy HadomeⒸ , Kotaro Yoshida , Wurdaan Kashif
+WSDC Team Japan	eliminated	Closing Government	Joy HadomeⒸ , Kotaro Yoshida , Wurdaan Kashif
+HH Non-eepers	advancing	Closing Opposition	Joy HadomeⒸ , Kotaro Yoshida , Wurdaan Kashif
+Gaslighters	eliminated	Opening Government	Joy HadomeⒸ , Kotaro Yoshida , Wurdaan Kashif
+6PAX	advancing	Closing Government	David MenciasⒸ , Dominic Stanley-Marcus , Emma Aripin
+Ateneo Fly Like G7	eliminated	Opening Opposition	David MenciasⒸ , Dominic Stanley-Marcus , Emma Aripin
+Extending into your girl&#x27;s DMs	advancing	Closing Opposition	David MenciasⒸ , Dominic Stanley-Marcus , Emma Aripin
+Katsu Don	eliminated	Opening Government	David MenciasⒸ , Dominic Stanley-Marcus , Emma Aripin
+
+
+team	result	side	adjudicators
+6PAX	advancing	Opening Opposition	James CacholaⒸ , Banun Sabri , Emi Negita , Hishah Khalishah , Wurdaan Kashif
+13 Hour LDR	eliminated	Closing Opposition	James CacholaⒸ , Banun Sabri , Emi Negita , Hishah Khalishah , Wurdaan Kashif
+HH Non-eepers	eliminated	Closing Government	James CacholaⒸ , Banun Sabri , Emi Negita , Hishah Khalishah , Wurdaan Kashif
+Extending into your girl&#x27;s DMs	eliminated	Opening Government	James CacholaⒸ , Banun Sabri , Emi Negita , Hishah Khalishah , Wurdaan Kashif
+

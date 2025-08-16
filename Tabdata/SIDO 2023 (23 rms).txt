@@ -1,0 +1,929 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	R6	Pts	Spk	1sts	2nds
+1	JANKY DANKY	Open	1st	1st	1st	1st	1st	1st	18	983	6	0
+2	Shead and Stephenson	Open	1st	3rd	1st	1st	1st	3rd	14	963	4	0
+3	OGres with Layers	Open	2nd	1st	1st	2nd	2nd	2nd	14	954	2	4
+4	CHRONIC PAIN GWORLIES	Open	1st	1st	3rd	1st	3rd	1st	14	951	4	0
+5	We cant think of a team name :)	Highschool	2nd	1st	2nd	2nd	2nd	1st	14	927	2	4
+6	CWSDC 7	Highschool	1st	2nd	2nd	2nd	2nd	2nd	13	954	1	5
+7	CWSDC 3	Highschool	1st	1st	1st	3rd	4th	1st	13	949	4	0
+8	CWSDC 6	Highschool	2nd	1st	2nd	2nd	3rd	1st	13	940	2	3
+9	CWSDC 11	Highschool	3rd	3rd	2nd	1st	1st	1st	13	920	3	1
+10	Ateneo LN	Open	1st	1st	3rd	3rd	2nd	2nd	12	949	2	2
+11	CWSDC 1	Highschool	1st	2nd	2nd	1st	4th	2nd	12	946	2	3
+12	CWSDC 5	Highschool	3rd	2nd	1st	1st	1st	4th	12	935	3	1
+13	CWSDC 9	Highschool	1st	1st	4th	1st	3rd	2nd	12	930	3	1
+14	CWSDC 14	Highschool	1st	3rd	1st	3rd	1st	3rd	12	928	3	0
+15	YISS Queens	Highschool	2nd	1st	4th	2nd	2nd	1st	12	923	2	3
+16	DAV Jägerbomb	Open	2nd	1st	3rd	1st	4th	2nd	11	936	2	2
+17	Burger King	Highschool	1st	1st	4th	4th	1st	2nd	11	930	3	1
+18	UM TH as Chimpanzees	Open	1st	3rd	1st	4th	1st	3rd	11	926	3	0
+19=	CWSDC 2	Highschool	1st	3rd	2nd	2nd	1st	4th	11	926	2	2
+19=	Nova Hangzhou Patrick Star	Open	1st	2nd	4th	1st	2nd	3rd	11	926	2	2
+19=	Unstoppable RAJA	Highschool	2nd	2nd	3rd	4th	1st	1st	11	926	2	2
+22	DKU A	Open	2nd	2nd	2nd	3rd	2nd	2nd	11	921	0	5
+23	help us	Highschool	2nd	3rd	3rd	1st	3rd	1st	11	919	2	1
+24=	CWSDC 15	Highschool	1st	4th	3rd	2nd	2nd	1st	11	917	2	2
+24=	Nova Hangzhou Westlake Fish with Po	Open	3rd	2nd	2nd	1st	1st	4th	11	917	2	2
+26	Karl Markets	Open	3rd	1st	1st	3rd	2nd	3rd	11	914	2	1
+27	Imperial Inquisitors	Open	3rd	3rd	4th	1st	1st	1st	11	913	3	0
+28	CWSDC 10	Highschool	3rd	1st	3rd	2nd	4th	1st	10	931	2	1
+29	CWSDC 4	Highschool	2nd	2nd	1st	4th	1st	4th	10	928	2	2
+30	CWSDC 8	Highschool	3rd	1st	2nd	3rd	1st	4th	10	928	2	1
+31	Master Debaters	Highschool	2nd	4th	1st	3rd	2nd	2nd	10	928	1	3
+32	Cheerful News Bad Commentary	Open	2nd	4th	4th	1st	1st	2nd	10	921	2	2
+33	belligerent badgers	Highschool	2nd	4th	1st	2nd	2nd	3rd	10	915	1	3
+34	Kate &amp; Eze	Open	1st	2nd	2nd	4th	4th	1st	10	914	2	2
+35	CWSDC 12	Highschool	1st	4th	1st	2nd	3rd	3rd	10	913	2	1
+36	Grass, a kind of plant	Highschool	3rd	2nd	2nd	3rd	1st	3rd	10	911	1	2
+37	Shanghai Emotionless PPT Machine	Open	2nd	2nd	3rd	1st	4th	2nd	10	909	1	3
+38	We&#x27;re cirisly slaying	Highschool	4th	2nd	3rd	1st	2nd	2nd	10	902	1	3
+39	Listen Up	Open	4th	1st	3rd	4th	1st	1st	10	893	3	0
+40	Rising from the Ashes	Open	4th	2nd	2nd	1st	4th	1st	10	889	2	2
+41	overrated	Highschool	1st	4th	2nd	1st	3rd	4th	9	931	2	1
+42	Unicorn	Highschool	3rd	1st	4th	1st	2nd	4th	9	923	2	1
+43	SUSJ	Open	2nd	3rd	1st	3rd	3rd	3rd	9	919	1	1
+44	Creed III	Open	1st	4th	1st	4th	1st	4th	9	916	3	0
+45	Nova Hangzhou Spicy Thai Hotpot	Open	2nd	2nd	2nd	4th	4th	1st	9	916	1	3
+46	Mars CJ	Highschool	3rd	1st	4th	1st	3rd	3rd	9	915	2	0
+47	go to K11 with us	Open	4th	1st	4th	2nd	2nd	2nd	9	907	1	3
+48	CWSDC 13	Highschool	1st	2nd	3rd	2nd	4th	3rd	9	907	1	2
+49	OOMPA LOOMPA🧌	Highschool	2nd	4th	1st	4th	3rd	1st	9	904	2	1
+50	Holy squishy eyeballs	Highschool	2nd	2nd	3rd	4th	1st	3rd	9	904	1	2
+51	Don&#x27;t let me name our team	Highschool	2nd	4th	1st	4th	3rd	1st	9	901	2	1
+52	Carry	Open	4th	1st	4th	1st	3rd	2nd	9	897	2	1
+53	some random thing	Highschool	2nd	3rd	4th	3rd	1st	2nd	9	877	1	2
+54	SISU A	Open	1st	4th	2nd	2nd	3rd	4th	8	923	1	2
+55	Buy me Friday	Open	1st	3rd	4th	3rd	4th	1st	8	911	2	0
+56	DoMynating	Open	3rd	4th	3rd	2nd	3rd	1st	8	905	1	1
+57	chestnut	Highschool	3rd	3rd	3rd	1st	3rd	3rd	8	904	1	0
+58	We Need A Break!	Highschool	2nd	3rd	3rd	2nd	2nd	4th	8	904	0	3
+59	UM Joker and Homeless	Open	3rd	4th	1st	3rd	2nd	3rd	8	897	1	1
+60	My little pony ROCKS	Highschool	1st	4th	4th	2nd	2nd	3rd	8	894	1	2
+61	Pearl Jezap Pudding River	Open	2nd	4th	3rd	4th	1st	2nd	8	889	1	2
+62	Undefined	Highschool	4th	2nd	1st	2nd	3rd	4th	8	888	1	2
+63	Super Team	Highschool	4th	3rd	1st	3rd	3rd	2nd	8	888	1	1
+64	Lifeless adults	Open	1st	3rd	1st	4th	4th	4th	7	918	2	0
+65	Shinzou Wo Sasageyo	Highschool	2nd	1st	3rd	3rd	4th	4th	7	912	1	1
+66=	Prone to Pneumonoultramicroscopicsi	Highschool	3rd	2nd	4th	3rd	2nd	3rd	7	905	0	2
+66=	Weight, I Got This Won	Highschool	3rd	2nd	2nd	3rd	3rd	4th	7	905	0	2
+68	Veggie nuts	Highschool	3rd	3rd	4th	2nd	3rd	2nd	7	904	0	2
+69	Elisa &amp; Sophia	Highschool	4th	2nd	2nd	4th	2nd	3rd	7	902	0	3
+70	Heehee	Highschool	3rd	3rd	4th	4th	1st	2nd	7	898	1	1
+71=	&quot;Is this a sign?&quot;	Highschool	2nd	3rd	1st	4th	3rd	4th	7	888	1	1
+71=	Wave Waver	Open	3rd	1st	4th	2nd	4th	3rd	7	888	1	1
+73	TEAM CHRIZZMAS TREE	Highschool	4th	3rd	3rd	3rd	2nd	2nd	7	882	0	2
+74	MK23	Highschool	4th	2nd	3rd	3rd	4th	1st	7	876	1	1
+75	Don Quixote	Highschool	4th	4th	2nd	3rd	1st	4th	6	896	1	1
+76	Vme50	Open	4th	1st	3rd	2nd	4th	4th	6	892	1	1
+77	Boston Celtics &amp; Miami Heat Fans	Highschool	4th	1st	3rd	3rd	4th	3rd	6	890	1	0
+78	Eric &amp; Jeffrey	Highschool	3rd	4th	2nd	3rd	3rd	3rd	6	882	0	1
+79	jocular beings	Highschool	4th	4th	3rd	2nd	3rd	2nd	6	879	0	2
+80	Peppa Pig Supremacy	Highschool	3rd	4th	1st	4th	2nd	4th	6	874	1	1
+81	HZCU A	Open	4th	3rd	2nd	4th	4th	1st	6	854	1	1
+82	Adela &amp; Johnny	Highschool	3rd	2nd	4th	2nd	4th	4th	5	896	0	2
+83	Nova Hangzhou Juicy Petro Painters	Highschool	3rd	3rd	4th	4th	2nd	3rd	5	885	0	1
+84	MaRuiculous	Open	4th	2nd	2nd	4th	4th	4th	4	885	0	2
+85	Richard &amp; Kuei	Highschool	4th	3rd	2nd	4th	4th	3rd	4	870	0	1
+86	Nova Hangzhou Budda Feminists	Highschool	4th	3rd	4th	1st	4th	4th	4	869	1	0
+87	Darren &amp; Shawn	Highschool	4th	4th	4th	4th	3rd	2nd	3	863	0	1
+88	JJCZ	Highschool	4th	3rd	4th	3rd	4th	4th	2	849	0	0
+89	Nova Hangzhou Shaemoor	Highschool	3rd	4th	—	—	—	—	1	289	0	0
+90	Swing 1	Open	4th	4th	—	—	—	—	0	287	0	0
+91	swing 3	Open	4th	4th	—	—	—	—	0	284	0	0
+92	Swing 2	Open	4th	4th	—	—	—	—	0	264	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	R6	Total	Stdev	Avg
+1	Ploopy		JANKY DANKY	80	82	84	82	83	81	492	1.29	82.00
+2	Naveen		JANKY DANKY	80	81	84	81	83	82	491	1.34	81.83
+3	Sophie Shead		Shead and Stephenson	80	79	83	80	83	78	483	1.89	80.50
+4	Calvin Horne		OGres with Layers	79	80	80	81	82	78	480	1.29	80.00
+5	Ellie Stephenson		Shead and Stephenson	79	80	83	79	82	77	480	2.00	80.00
+6	Brandon Park	Highschool	CWSDC 7	80	78	81	78	81	81	479	1.34	79.83
+7	Tengku Omar Azfar Haqqani		CHRONIC PAIN GWORLIES	82	79	76	77	80	85	479	3.02	79.83
+8	Rogelio Largo		Ateneo LN	82	80	82	74	77	83	478	3.20	79.67
+9	Clement Tsao	Highschool	CWSDC 3	79	82	79	79	78	79	476	1.25	79.33
+10	Hosei Kishida	Highschool	CWSDC 7	79	77	82	77	80	80	475	1.77	79.17
+11=	Alicia Chen	Highschool	CWSDC 6	78	78	79	79	81	79	474	1.00	79.00
+11=	Nina Tomas		OGres with Layers	79	77	79	80	80	79	474	1.00	79.00
+13=	Bo Xin Zhao	Highschool	CWSDC 1	79	81	78	79	78	78	473	1.07	78.83
+13=	Grace Chen	Highschool	CWSDC 1	80	80	78	79	77	79	473	1.07	78.83
+15	Barron Ren	Highschool	CWSDC 3	79	82	78	79	77	78	473	1.57	78.83
+16	Thea Madrilejo		CHRONIC PAIN GWORLIES	80	79	76	76	79	82	472	2.13	78.67
+17	Miranda Wu	Highschool	CWSDC 5	77	76	79	81	83	76	472	2.62	78.67
+18	Terena Ines Neri		Ateneo LN	80	80	79	74	77	81	471	2.36	78.50
+19	Ngô Minh Kiên Jack		DAV Jägerbomb	78	78	78	79	77	78	468	0.58	78.00
+20	Vũ Đức Hùng Allen		DAV Jägerbomb	78	78	78	80	77	77	468	1.00	78.00
+21	Donner Tang		UM TH as Chimpanzees	78	76	77	78	81	78	468	1.53	78.00
+22	Vincent Ying	Highschool	CWSDC 9	78	79	78	75	79	78	467	1.34	77.83
+23	Alex Wang	Highschool	overrated	80	77	79	79	76	76	467	1.57	77.83
+24=	Kai Tsai	Highschool	CWSDC 6	77	76	78	78	79	78	466	0.94	77.67
+24=	Jolene Ren	Highschool	CWSDC 10	78	79	78	77	76	78	466	0.94	77.67
+26	Robert Miles Chong	Highschool	CWSDC 2	79	77	75	78	78	79	466	1.37	77.67
+27=	Klaus Xiao		Nova Hangzhou Patrick Star	77	79	78	79	74	79	466	1.80	77.67
+27=	Arthur Qu	Highschool	CWSDC 8	77	76	81	76	79	77	466	1.80	77.67
+29	Nguyễn Hà Phương Jessica	Highschool	Burger King	77	82	75	77	79	76	466	2.29	77.67
+30	Teresa Chen	Highschool	CWSDC 10	78	78	77	78	76	78	465	0.76	77.50
+31	Mackenzie Zhu	Highschool	Master Debaters	75	75	80	78	79	78	465	1.89	77.50
+32	Ruisi He	Highschool	Unicorn	77	78	76	78	79	76	464	1.11	77.33
+33	Lilian Song	Highschool	overrated	78	77	80	77	76	76	464	1.37	77.33
+34=	Sophia Wu	Highschool	CWSDC 14	80	78	77	76	75	78	464	1.60	77.33
+34=	Myra Mehta	Highschool	Unstoppable RAJA	78	75	77	76	80	78	464	1.60	77.33
+34=	Vũ Minh Khang Kevin	Highschool	Burger King	78	80	75	77	78	76	464	1.60	77.33
+37	Pei Jin Zhou	Highschool	CWSDC 14	80	78	76	77	73	80	464	2.43	77.33
+38	Haesol Park	Highschool	We cant think of a team name :)	75	78	75	75	79	82	464	2.62	77.33
+39	Brandon Ma	Highschool	CWSDC 4	79	81	79	72	78	75	464	2.98	77.33
+40	Chris Cai	Highschool	CWSDC 4	80	81	79	72	77	75	464	3.09	77.33
+41	Lucy Du	Highschool	CWSDC 9	77	78	77	75	78	78	463	1.07	77.17
+42	Martin Huang	Highschool	CWSDC 5	76	75	78	78	80	76	463	1.67	77.17
+43	Benjamin Duan	Highschool	Master Debaters	75	75	80	77	79	77	463	1.86	77.17
+44	Brooke Lai	Highschool	YISS Queens	79	76	73	79	78	78	463	2.11	77.17
+45	Chingwei	Highschool	We cant think of a team name :)	76	79	75	74	79	80	463	2.27	77.17
+46=	Daniel Martins		SUSJ	77	76	79	77	78	75	462	1.29	77.00
+46=	Phan Thế Việt	Highschool	Creed III	78	79	77	76	77	75	462	1.29	77.00
+48	Janani Ayengar	Highschool	Unstoppable RAJA	77	75	76	76	79	79	462	1.53	77.00
+49	Martina Wu	Highschool	CWSDC 8	78	73	79	77	78	77	462	1.91	77.00
+50	Sompoom Sunperavong		Nova Hangzhou Spicy Thai Hotpot	76	76	77	76	75	82	462	2.31	77.00
+51	Ziyu Yang		SISU A	76	78	78	78	76	75	461	1.21	76.83
+52	Fatima Khan		DKU A	77	77	79	74	77	77	461	1.46	76.83
+53	Yutong Guo		Cheerful News Bad Commentary	79	75	76	79	77	75	461	1.67	76.83
+54	Francois Brits		Karl Markets	75	78	80	78	74	76	461	2.03	76.83
+55=	James Li	Highschool	help us	75	77	78	77	77	76	460	0.94	76.67
+55=	Mollie Mei	Highschool	belligerent badgers	77	76	75	78	77	77	460	0.94	76.67
+57	Ithuriel Shen		Nova Hangzhou Westlake Fish with Po	75	76	78	78	76	77	460	1.11	76.67
+58=	Hanjing Wang	Highschool	CWSDC 2	78	77	73	78	77	77	460	1.70	76.67
+58=	Eze Nwakuba		Kate &amp; Eze	78	79	77	77	75	74	460	1.70	76.67
+58=	Qiyang Huang		Cheerful News Bad Commentary	78	75	75	79	78	75	460	1.70	76.67
+58=	Minh-Khoi Dam		DKU A	78	77	77	73	77	78	460	1.70	76.67
+62	Claire Lee	Highschool	YISS Queens	78	76	73	78	77	78	460	1.80	76.67
+63	Patrick Xu		Nova Hangzhou Patrick Star	76	79	77	77	73	78	460	1.89	76.67
+64	Kevin Shi	Highschool	CWSDC 11	75	73	77	79	78	78	460	2.05	76.67
+65	Florence Choy		Lifeless adults	80	80	75	76	76	73	460	2.56	76.67
+66	Albert Zhang	Highschool	CWSDC 11	75	72	77	79	77	80	460	2.62	76.67
+67	Koki Kishida	Highschool	help us	76	76	77	77	77	76	459	0.50	76.50
+68	Angelina Li	Highschool	Unicorn	76	77	76	76	78	76	459	0.76	76.50
+69	Erica Li	Highschool	CWSDC 15	75	76	77	77	76	78	459	0.96	76.50
+70	Kystal Wang	Highschool	CWSDC 15	76	75	77	76	76	78	458	0.94	76.33
+71=	Carl Fang	Highschool	Mars CJ	77	77	77	77	76	74	458	1.11	76.33
+71=	Rachel Cheong		UM TH as Chimpanzees	77	74	76	77	77	77	458	1.11	76.33
+73	Becky Lam		Lifeless adults	80	78	75	76	76	73	458	2.21	76.33
+74	Daniel Yeung		Imperial Inquisitors	73	76	74	79	79	77	458	2.29	76.33
+75	Jaxon Xie	Highschool	Mars CJ	76	77	75	78	77	74	457	1.34	76.17
+76=	Leah Del Fierro	Highschool	CWSDC 12	77	74	78	78	73	77	457	1.95	76.17
+76=	Kelly Shen		SUSJ	77	74	78	78	77	73	457	1.95	76.17
+78	James Yin	Highschool	Shinzou Wo Sasageyo	76	76	74	77	77	76	456	1.00	76.00
+79=	Jeven Deng		Buy me Friday	78	76	74	75	76	77	456	1.29	76.00
+79=	Owen Wu	Highschool	Shinzou Wo Sasageyo	75	77	74	78	76	76	456	1.29	76.00
+81	Sophia Gong	Highschool	CWSDC 12	76	74	79	78	73	76	456	2.08	76.00
+82	Hannah Dai	Highschool	Grass, a kind of plant	73	74	77	77	80	75	456	2.31	76.00
+83	Rebecca Zhou		Shanghai Emotionless PPT Machine	77	77	75	80	70	77	456	3.06	76.00
+84=	Ceci Yilan Qin		go to K11 with us	74	76	75	75	77	78	455	1.34	75.83
+84=	David Hong	Highschool	belligerent badgers	76	73	76	77	77	76	455	1.34	75.83
+86	Iris Yip		Buy me Friday	78	77	73	75	76	76	455	1.57	75.83
+87=	Ida Joung	Highschool	CWSDC 13	78	76	78	74	72	77	455	2.19	75.83
+87=	Arianna Xie	Highschool	Grass, a kind of plant	72	75	77	77	79	75	455	2.19	75.83
+89	Gwen Jiang		Imperial Inquisitors	73	76	73	80	77	76	455	2.41	75.83
+90	Bill Cho	Highschool	Weight, I Got This Won	76	74	76	77	76	75	454	0.94	75.67
+91=	Fuqin Frank Lian	Highschool	Prone to Pneumonoultramicroscopicsi	77	77	76	75	76	73	454	1.37	75.67
+91=	Tạ Huy Hiếu		Creed III	77	77	76	75	76	73	454	1.37	75.67
+93	Ekaterina Bogma		Kate &amp; Eze	75	78	76	76	76	73	454	1.49	75.67
+94	Dasun de Silva		Nova Hangzhou Spicy Thai Hotpot	76	77	75	73	74	79	454	1.97	75.67
+95	Jamy Huang		DoMynating	77	75	71	78	75	78	454	2.43	75.67
+96=	Sophia Liu	Highschool	Elisa &amp; Sophia	75	75	78	74	76	75	453	1.26	75.50
+96=	Yueqian Jiang	Highschool	We Need A Break!	77	73	76	76	76	75	453	1.26	75.50
+98=	Lucas Chen	Highschool	Holy squishy eyeballs	74	76	73	77	77	76	453	1.50	75.50
+98=	Madelyn Li	Highschool	OOMPA LOOMPA🧌	77	74	77	73	76	76	453	1.50	75.50
+100	Eric Chen	Highschool	Karl Markets	74	77	78	76	73	75	453	1.71	75.50
+101	Yezi Zhou		Shanghai Emotionless PPT Machine	77	76	75	78	71	76	453	2.22	75.50
+102	Xizhe Yang	Highschool	chestnut	75	76	75	76	74	76	452	0.75	75.33
+103	Mimi Yao	Highschool	chestnut	75	76	75	77	74	75	452	0.94	75.33
+104	Cici Chen	Highschool	We&#x27;re cirisly slaying	74	77	75	75	77	74	452	1.25	75.33
+105	Stella Sihan Yao		go to K11 with us	74	74	74	76	77	77	452	1.37	75.33
+106	Daisy Wang	Highschool	Veggie nuts	74	76	75	78	73	76	452	1.60	75.33
+107	Cassie Zheng	Highschool	CWSDC 13	77	76	76	74	72	77	452	1.80	75.33
+108	Ariana Shen	Highschool	Veggie nuts	75	77	74	78	72	76	452	1.97	75.33
+109	Janelle Lin	Highschool	Heehee	71	74	74	77	79	77	452	2.62	75.33
+110=	Amy Lin	Highschool	Don&#x27;t let me name our team	75	74	76	75	76	75	451	0.69	75.17
+110=	Avy Lee	Highschool	Weight, I Got This Won	76	74	75	76	75	75	451	0.69	75.17
+112	Melanie Wu	Highschool	Holy squishy eyeballs	75	75	73	76	76	76	451	1.07	75.17
+113	Chenglin Christopher Yu	Highschool	Prone to Pneumonoultramicroscopicsi	76	77	75	75	75	73	451	1.21	75.17
+114=	Chloe Ma	Highschool	OOMPA LOOMPA🧌	76	74	76	73	75	77	451	1.34	75.17
+114=	Ava Tso	Highschool	We Need A Break!	76	73	74	77	76	75	451	1.34	75.17
+116	Baoqi Shen		Carry	75	72	77	76	75	76	451	1.57	75.17
+117	Doris Yang		DoMynating	77	75	72	77	73	77	451	2.03	75.17
+118=	Liris Zheng	Highschool	We&#x27;re cirisly slaying	73	77	74	75	76	75	450	1.29	75.00
+118=	Elsa Guo	Highschool	Don&#x27;t let me name our team	75	73	77	75	76	74	450	1.29	75.00
+120=	Avari Ying Tung		Listen Up	72	75	76	73	77	77	450	1.91	75.00
+120=	Kai Zhang		UM Joker and Homeless	76	71	75	75	76	77	450	1.91	75.00
+122	Elisa Zhang	Highschool	Elisa &amp; Sophia	75	74	77	74	74	75	449	1.07	74.83
+123	Leo Chen	Highschool	Don Quixote	75	72	73	77	78	74	449	2.11	74.83
+124	Adela Wang	Highschool	Adela &amp; Johnny	74	77	74	74	75	74	448	1.11	74.67
+125	Johnny Jiang	Highschool	Adela &amp; Johnny	74	77	74	73	76	74	448	1.37	74.67
+126	Caitlin Ma	Highschool	My little pony ROCKS	75	76	75	74	78	70	448	2.43	74.67
+127	Michael Sun		UM Joker and Homeless	75	72	74	74	76	76	447	1.38	74.50
+128	Zen Xia	Highschool	Don Quixote	76	71	74	76	76	74	447	1.80	74.50
+129	Jackson Wang	Highschool	Boston Celtics &amp; Miami Heat Fans	72	75	75	74	75	75	446	1.11	74.33
+130	Wu Yiliangmu	Highschool	Super Team	72	75	73	74	77	75	446	1.60	74.33
+131	Ruohan Zhuang		Vme50	74	76	76	75	75	70	446	2.05	74.33
+132	Yue Yao		Vme50	74	77	75	76	75	69	446	2.56	74.33
+133	Wolfgang Fung	Highschool	Heehee	70	73	74	75	79	75	446	2.69	74.33
+134	Shine Liu	Highschool	My little pony ROCKS	76	76	74	74	78	68	446	3.14	74.33
+135	Cara Li		Wave Waver	76	75	72	77	73	72	445	1.95	74.17
+136	Millie Shao		Pearl Jezap Pudding River	76	71	77	72	76	73	445	2.27	74.17
+137	Anika Kristin Cajigal	Highschool	&quot;Is this a sign?&quot;	76	74	78	72	76	69	445	2.97	74.17
+138	Meredith Wang		Rising from the Ashes	74	67	75	77	76	76	445	3.34	74.17
+139	Rachel Chen	Highschool	Undefined	68	75	79	78	72	73	445	3.72	74.17
+140	Paul Wu	Highschool	Boston Celtics &amp; Miami Heat Fans	71	75	75	73	75	75	444	1.53	74.00
+141	Serena Xie		Pearl Jezap Pudding River	78	71	76	72	75	72	444	2.52	74.00
+142	Zephyr Fan		Rising from the Ashes	73	67	75	76	76	77	444	3.37	74.00
+143	Yufei Cai		Listen Up	73	74	74	73	76	73	443	1.07	73.83
+144	Razeena Hsu		MaRuiculous	75	75	75	73	73	72	443	1.21	73.83
+145	William Xu	Highschool	Nova Hangzhou Juicy Petro Painters	74	76	71	73	76	73	443	1.77	73.83
+146	Yinyin Zhao		Wave Waver	76	75	70	76	74	72	443	2.19	73.83
+147	Benjamin Ye	Highschool	Undefined	68	76	77	77	72	73	443	3.24	73.83
+148	Jamie Carelle Antonio	Highschool	&quot;Is this a sign?&quot;	77	75	77	70	76	68	443	3.53	73.83
+149	Michelle Ma		MaRuiculous	75	74	75	73	73	72	442	1.11	73.67
+150=	Marco Qin	Highschool	Nova Hangzhou Juicy Petro Painters	75	76	70	73	76	72	442	2.21	73.67
+150=	Zeyi Zhang	Highschool	Super Team	70	74	74	75	77	72	442	2.21	73.67
+152=	Eric li	Highschool	Eric &amp; Jeffrey	72	75	72	73	74	75	441	1.26	73.50
+152=	Jeffrey Hong洪佳毅	Highschool	Eric &amp; Jeffrey	72	75	72	73	74	75	441	1.26	73.50
+154	Ryan Zhang	Highschool	some random thing	74	75	75	73	74	70	441	1.71	73.50
+155	Iris Tan	Highschool	TEAM CHRIZZMAS TREE	74	73	70	74	74	76	441	1.80	73.50
+156	Izzy Liang	Highschool	TEAM CHRIZZMAS TREE	74	72	70	74	75	76	441	1.98	73.50
+157	Macario Fang	Highschool	jocular beings	74	73	73	73	74	73	440	0.47	73.33
+158	Kingston Ye	Highschool	jocular beings	74	73	73	72	74	73	439	0.69	73.17
+159	Katy Lam	Highschool	MK23	70	75	72	74	74	74	439	1.67	73.17
+160	Theodore Wang	Highschool	Peppa Pig Supremacy	72	73	75	74	73	70	437	1.57	72.83
+161	Michelle Ngai	Highschool	MK23	70	73	72	74	75	73	437	1.57	72.83
+162	Matthew Ye	Highschool	Peppa Pig Supremacy	73	73	75	74	73	69	437	1.86	72.83
+163	Ashley Song	Highschool	Nova Hangzhou Budda Feminists	73	74	70	74	71	74	436	1.60	72.67
+164	Yatho Hsu	Highschool	some random thing	73	73	75	73	73	69	436	1.80	72.67
+165	Kuei Chen	Highschool	Richard &amp; Kuei	75	73	75	73	73	66	435	3.04	72.50
+166	Richard Wong	Highschool	Richard &amp; Kuei	74	73	76	72	74	66	435	3.15	72.50
+167	Yolanda Li	Highschool	Nova Hangzhou Budda Feminists	73	74	68	72	72	74	433	2.03	72.17
+168	Darren Xue	Highschool	Darren &amp; Shawn	72	75	72	70	75	69	433	2.27	72.17
+169	Lu Yongtong		HZCU A	74	68	74	73	73	70	432	2.24	72.00
+170	Shawn Li	Highschool	Darren &amp; Shawn	72	75	72	69	75	67	430	2.92	71.67
+171	Jerry Jiang	Highschool	JJCZ	75	74	68	71	74	66	428	3.35	71.33
+172	Jiang Yurou		HZCU A	72	65	74	73	70	68	422	3.09	70.33
+173	Clark Zhao	Highschool	JJCZ	74	73	66	69	74	65	421	3.72	70.17
+174	Ann Zhang		Nova Hangzhou Westlake Fish with Po	—	76	76	79	74	77	382	1.62	76.40
+175	Nina Zeng		SISU A	77	77	—	—	77	76	307	0.43	76.75
+176	Zhirui Li		Carry	75	—	—	—	75	76	226	0.47	75.33
+177	Oscar Zhang	Highschool	Nova Hangzhou Shaemoor	73	72	—	—	—	—	145	0.50	72.50
+178	Speaker 1		Swing 1	72	72	—	—	—	—	144	0.00	72.00
+179	Speaker 2		swing 3	71	71	—	—	—	—	142	0.00	71.00
+180	Speaker 1		Swing 2	69	64	—	—	—	—	133	2.50	66.50
+181	Speaker 2		Swing 1	—	72	—	—	—	—	72	0.00	72.00
+182	Speaker 1		swing 3	—	71	—	—	—	—	71	0.00	71.00
+183	Speaker 2		Swing 2	70	—	—	—	—	—	70	0.00	70.00
+184	Kenneth Huang	Highschool	Nova Hangzhou Shaemoor	—	—	—	—	—	—	—	—	—
+
+
+team	result	side	adjudicators
+CWSDC 12	1st	Closing Government	Jordyn GibsonⒸ
+Peppa Pig Supremacy	3rd	Opening Government	Jordyn GibsonⒸ
+Don&#x27;t let me name our team	2nd	Opening Opposition	Jordyn GibsonⒸ
+Super Team	4th	Closing Opposition	Jordyn GibsonⒸ
+HZCU A	4th	Closing Opposition	Maeca Czarina PansensoyⒸ
+DoMynating	3rd	Opening Government	Maeca Czarina PansensoyⒸ
+Buy me Friday	1st	Opening Opposition	Maeca Czarina PansensoyⒸ
+Unstoppable RAJA	2nd	Closing Government	Maeca Czarina PansensoyⒸ
+Nova Hangzhou Budda Feminists	4th	Closing Government	Kithmina HewageⒸ
+CWSDC 3	1st	Closing Opposition	Kithmina HewageⒸ
+Holy squishy eyeballs	2nd	Opening Opposition	Kithmina HewageⒸ
+Adela &amp; Johnny	3rd	Opening Government	Kithmina HewageⒸ
+CWSDC 13	1st	Opening Opposition	Jodi Aedrienne L. BengzonⒸ
+TEAM CHRIZZMAS TREE	4th	Closing Opposition	Jodi Aedrienne L. BengzonⒸ
+&quot;Is this a sign?&quot;	2nd	Opening Government	Jodi Aedrienne L. BengzonⒸ
+chestnut	3rd	Closing Government	Jodi Aedrienne L. BengzonⒸ
+CWSDC 15	1st	Closing Government	Daniella Louise Simbre BarbacenaⒸ
+some random thing	2nd	Opening Opposition	Daniella Louise Simbre BarbacenaⒸ
+Boston Celtics &amp; Miami Heat Fans	4th	Closing Opposition	Daniella Louise Simbre BarbacenaⒸ
+Grass, a kind of plant	3rd	Opening Government	Daniella Louise Simbre BarbacenaⒸ
+Nova Hangzhou Juicy Petro Painters	3rd	Closing Government	Srijan PoudelⒸ
+Vme50	4th	Opening Government	Srijan PoudelⒸ
+JANKY DANKY	1st	Opening Opposition	Srijan PoudelⒸ
+SUSJ	2nd	Closing Opposition	Srijan PoudelⒸ
+help us	2nd	Opening Government	Marco Giorgione DavaⒸ
+Eric &amp; Jeffrey	3rd	Opening Opposition	Marco Giorgione DavaⒸ
+Creed III	1st	Closing Government	Marco Giorgione DavaⒸ
+swing 3	4th	Closing Opposition	Marco Giorgione DavaⒸ
+CWSDC 4	2nd	Closing Opposition	Asif MehediⒸ
+CWSDC 8	3rd	Opening Opposition	Asif MehediⒸ
+Lifeless adults	1st	Closing Government	Asif MehediⒸ
+Swing 2	4th	Opening Government	Asif MehediⒸ
+Nova Hangzhou Spicy Thai Hotpot	2nd	Opening Government	Luis Rafael N. GarciaⒸ
+CWSDC 11	3rd	Closing Opposition	Luis Rafael N. GarciaⒸ
+We&#x27;re cirisly slaying	4th	Opening Opposition	Luis Rafael N. GarciaⒸ
+Kate &amp; Eze	1st	Closing Government	Luis Rafael N. GarciaⒸ
+My little pony ROCKS	1st	Opening Government	Ian QiuⒸ
+Darren &amp; Shawn	4th	Closing Government	Ian QiuⒸ
+Master Debaters	2nd	Closing Opposition	Ian QiuⒸ
+Karl Markets	3rd	Opening Opposition	Ian QiuⒸ
+Ateneo LN	1st	Opening Opposition	Huw Gwyn JonesⒸ
+CWSDC 5	3rd	Closing Government	Huw Gwyn JonesⒸ
+go to K11 with us	4th	Opening Government	Huw Gwyn JonesⒸ
+DKU A	2nd	Closing Opposition	Huw Gwyn JonesⒸ
+CWSDC 2	1st	Closing Opposition	Gabrielle PacañoⒸ
+CWSDC 6	2nd	Closing Government	Gabrielle PacañoⒸ
+Richard &amp; Kuei	4th	Opening Opposition	Gabrielle PacañoⒸ
+Unicorn	3rd	Opening Government	Gabrielle PacañoⒸ
+overrated	1st	Opening Opposition	Udai KamathⒸ
+MK23	4th	Closing Opposition	Udai KamathⒸ
+Imperial Inquisitors	3rd	Opening Government	Udai KamathⒸ
+DAV Jägerbomb	2nd	Closing Government	Udai KamathⒸ
+Heehee	3rd	Opening Government	Rushdoon AhmedⒸ
+Undefined	4th	Closing Government	Rushdoon AhmedⒸ
+We Need A Break!	2nd	Opening Opposition	Rushdoon AhmedⒸ
+Shead and Stephenson	1st	Closing Opposition	Rushdoon AhmedⒸ
+CWSDC 1	1st	Opening Opposition	Ahmad Tousif JamiⒸ
+CWSDC 10	3rd	Opening Government	Ahmad Tousif JamiⒸ
+Don Quixote	4th	Closing Opposition	Ahmad Tousif JamiⒸ
+OGres with Layers	2nd	Closing Government	Ahmad Tousif JamiⒸ
+Nova Hangzhou Westlake Fish with Po	3rd	Opening Government	Ralph LeeⒸ
+SISU A	1st	Closing Government	Ralph LeeⒸ
+Rising from the Ashes	4th	Closing Opposition	Ralph LeeⒸ
+Shinzou Wo Sasageyo	2nd	Opening Opposition	Ralph LeeⒸ
+Elisa &amp; Sophia	4th	Opening Government	Irene Teresa Galang Dela CruzⒸ
+Wave Waver	3rd	Closing Government	Irene Teresa Galang Dela CruzⒸ
+belligerent badgers	2nd	Closing Opposition	Irene Teresa Galang Dela CruzⒸ
+Burger King	1st	Opening Opposition	Irene Teresa Galang Dela CruzⒸ
+MaRuiculous	4th	Closing Government	Vinodhan KuppusamyⒸ
+Shanghai Emotionless PPT Machine	2nd	Opening Opposition	Vinodhan KuppusamyⒸ
+CWSDC 9	1st	Closing Opposition	Vinodhan KuppusamyⒸ
+Prone to Pneumonoultramicroscopicsi	3rd	Opening Government	Vinodhan KuppusamyⒸ
+OOMPA LOOMPA🧌	2nd	Opening Opposition	Christopher ChuaⒸ
+UM TH as Chimpanzees	1st	Opening Government	Christopher ChuaⒸ
+Carry	4th	Closing Government	Christopher ChuaⒸ
+Weight, I Got This Won	3rd	Closing Opposition	Christopher ChuaⒸ
+Nova Hangzhou Patrick Star	1st	Closing Opposition	Aliyah HerlihyⒸ
+Nova Hangzhou Shaemoor	3rd	Opening Government	Aliyah HerlihyⒸ
+We cant think of a team name :)	2nd	Closing Government	Aliyah HerlihyⒸ
+Swing 1	4th	Opening Opposition	Aliyah HerlihyⒸ
+CWSDC 14	1st	Opening Government	Luigi AlcañesesⒸ , Antonio Wei
+jocular beings	4th	Opening Opposition	Luigi AlcañesesⒸ , Antonio Wei
+Cheerful News Bad Commentary	2nd	Closing Opposition	Luigi AlcañesesⒸ , Antonio Wei
+UM Joker and Homeless	3rd	Closing Government	Luigi AlcañesesⒸ , Antonio Wei
+CWSDC 7	1st	Closing Opposition	Judy JIⒸ
+Mars CJ	3rd	Opening Government	Judy JIⒸ
+JJCZ	4th	Closing Government	Judy JIⒸ
+Pearl Jezap Pudding River	2nd	Opening Opposition	Judy JIⒸ
+CHRONIC PAIN GWORLIES	1st	Closing Government	PRANAV KAGALKARⒸ
+Listen Up	4th	Opening Opposition	PRANAV KAGALKARⒸ
+Veggie nuts	3rd	Opening Government	PRANAV KAGALKARⒸ
+YISS Queens	2nd	Closing Opposition	PRANAV KAGALKARⒸ
+
+
+team	result	side	adjudicators
+Ateneo LN	1st	Opening Government	PRANAV KAGALKARⒸ
+CWSDC 14	3rd	Opening Opposition	PRANAV KAGALKARⒸ
+overrated	4th	Closing Government	PRANAV KAGALKARⒸ
+Kate &amp; Eze	2nd	Closing Opposition	PRANAV KAGALKARⒸ
+CWSDC 12	4th	Opening Government	Kithmina HewageⒸ
+CWSDC 13	2nd	Closing Opposition	Kithmina HewageⒸ
+CHRONIC PAIN GWORLIES	1st	Opening Opposition	Kithmina HewageⒸ
+UM TH as Chimpanzees	3rd	Closing Government	Kithmina HewageⒸ
+Nova Hangzhou Spicy Thai Hotpot	2nd	Opening Opposition	Daniella Louise Simbre BarbacenaⒸ , Ian Qiu
+CWSDC 6	1st	Closing Opposition	Daniella Louise Simbre BarbacenaⒸ , Ian Qiu
+Pearl Jezap Pudding River	4th	Closing Government	Daniella Louise Simbre BarbacenaⒸ , Ian Qiu
+We Need A Break!	3rd	Opening Government	Daniella Louise Simbre BarbacenaⒸ , Ian Qiu
+Don Quixote	4th	Closing Government	Huw Gwyn JonesⒸ
+Richard &amp; Kuei	3rd	Opening Government	Huw Gwyn JonesⒸ
+Listen Up	1st	Closing Opposition	Huw Gwyn JonesⒸ
+MK23	2nd	Opening Opposition	Huw Gwyn JonesⒸ
+DoMynating	4th	Closing Opposition	Marco Giorgione DavaⒸ
+CWSDC 10	1st	Closing Government	Marco Giorgione DavaⒸ
+Prone to Pneumonoultramicroscopicsi	2nd	Opening Opposition	Marco Giorgione DavaⒸ
+chestnut	3rd	Opening Government	Marco Giorgione DavaⒸ
+Nova Hangzhou Budda Feminists	3rd	Closing Opposition	Gabrielle PacañoⒸ
+Boston Celtics &amp; Miami Heat Fans	1st	Opening Opposition	Gabrielle PacañoⒸ
+Elisa &amp; Sophia	2nd	Closing Government	Gabrielle PacañoⒸ
+swing 3	4th	Opening Government	Gabrielle PacañoⒸ
+some random thing	3rd	Closing Government	Srijan PoudelⒸ
+Don&#x27;t let me name our team	4th	Closing Opposition	Srijan PoudelⒸ
+YISS Queens	1st	Opening Government	Srijan PoudelⒸ
+Unstoppable RAJA	2nd	Opening Opposition	Srijan PoudelⒸ
+MaRuiculous	2nd	Closing Opposition	Jodi Aedrienne L. BengzonⒸ
+JJCZ	3rd	Opening Opposition	Jodi Aedrienne L. BengzonⒸ
+go to K11 with us	1st	Closing Government	Jodi Aedrienne L. BengzonⒸ
+Swing 1	4th	Opening Government	Jodi Aedrienne L. BengzonⒸ
+CWSDC 8	1st	Closing Opposition	Thepparith (TJ) SenamngernⒸ
+CWSDC 11	3rd	Opening Government	Thepparith (TJ) SenamngernⒸ
+Weight, I Got This Won	2nd	Closing Government	Thepparith (TJ) SenamngernⒸ
+UM Joker and Homeless	4th	Opening Opposition	Thepparith (TJ) SenamngernⒸ
+My little pony ROCKS	4th	Closing Opposition	Irene Teresa Galang Dela CruzⒸ
+CWSDC 2	3rd	Opening Opposition	Irene Teresa Galang Dela CruzⒸ
+CWSDC 7	2nd	Opening Government	Irene Teresa Galang Dela CruzⒸ
+CWSDC 9	1st	Closing Government	Irene Teresa Galang Dela CruzⒸ
+We&#x27;re cirisly slaying	2nd	Closing Government	Ahmad Tousif JamiⒸ
+Darren &amp; Shawn	4th	Opening Opposition	Ahmad Tousif JamiⒸ
+Veggie nuts	3rd	Closing Opposition	Ahmad Tousif JamiⒸ
+Karl Markets	1st	Opening Government	Ahmad Tousif JamiⒸ
+Nova Hangzhou Westlake Fish with Po	2nd	Closing Government	Luis Rafael N. GarciaⒸ
+Nova Hangzhou Shaemoor	4th	Closing Opposition	Luis Rafael N. GarciaⒸ
+Mars CJ	1st	Opening Opposition	Luis Rafael N. GarciaⒸ
+TEAM CHRIZZMAS TREE	3rd	Opening Government	Luis Rafael N. GarciaⒸ
+SISU A	4th	Opening Government	Vinodhan KuppusamyⒸ , Antonio Wei
+CWSDC 4	2nd	Opening Opposition	Vinodhan KuppusamyⒸ , Antonio Wei
+JANKY DANKY	1st	Closing Opposition	Vinodhan KuppusamyⒸ , Antonio Wei
+Shead and Stephenson	3rd	Closing Government	Vinodhan KuppusamyⒸ , Antonio Wei
+Nova Hangzhou Juicy Petro Painters	3rd	Opening Government	Christopher ChuaⒸ
+Eric &amp; Jeffrey	4th	Closing Government	Christopher ChuaⒸ
+Adela &amp; Johnny	2nd	Closing Opposition	Christopher ChuaⒸ
+Unicorn	1st	Opening Opposition	Christopher ChuaⒸ
+CWSDC 5	2nd	Opening Opposition	Udai KamathⒸ
+OGres with Layers	1st	Closing Opposition	Udai KamathⒸ
+SUSJ	3rd	Opening Government	Udai KamathⒸ
+belligerent badgers	4th	Closing Government	Udai KamathⒸ
+We cant think of a team name :)	1st	Opening Government	Jordyn GibsonⒸ
+help us	3rd	Closing Opposition	Jordyn GibsonⒸ
+DKU A	2nd	Opening Opposition	Jordyn GibsonⒸ
+Master Debaters	4th	Closing Government	Jordyn GibsonⒸ
+Shanghai Emotionless PPT Machine	2nd	Closing Government	Maeca Czarina PansensoyⒸ
+Cheerful News Bad Commentary	4th	Opening Government	Maeca Czarina PansensoyⒸ
+Imperial Inquisitors	3rd	Opening Opposition	Maeca Czarina PansensoyⒸ
+DAV Jägerbomb	1st	Closing Opposition	Maeca Czarina PansensoyⒸ
+Vme50	1st	Opening Opposition	Asif MehediⒸ
+jocular beings	4th	Opening Government	Asif MehediⒸ
+Undefined	2nd	Closing Opposition	Asif MehediⒸ
+Super Team	3rd	Closing Government	Asif MehediⒸ
+Holy squishy eyeballs	2nd	Opening Government	Judy JIⒸ
+OOMPA LOOMPA🧌	4th	Closing Government	Judy JIⒸ
+&quot;Is this a sign?&quot;	3rd	Opening Opposition	Judy JIⒸ
+Shinzou Wo Sasageyo	1st	Closing Opposition	Judy JIⒸ
+CWSDC 1	2nd	Closing Government	Brian WongⒸ
+CWSDC 3	1st	Opening Government	Brian WongⒸ
+Lifeless adults	3rd	Opening Opposition	Brian WongⒸ
+Creed III	4th	Closing Opposition	Brian WongⒸ
+HZCU A	3rd	Closing Government	Rushdoon AhmedⒸ
+Carry	1st	Closing Opposition	Rushdoon AhmedⒸ
+Rising from the Ashes	2nd	Opening Government	Rushdoon AhmedⒸ
+Swing 2	4th	Opening Opposition	Rushdoon AhmedⒸ
+Heehee	3rd	Opening Opposition	Aliyah HerlihyⒸ
+Peppa Pig Supremacy	4th	Closing Opposition	Aliyah HerlihyⒸ
+Grass, a kind of plant	2nd	Closing Government	Aliyah HerlihyⒸ
+Wave Waver	1st	Opening Government	Aliyah HerlihyⒸ
+Nova Hangzhou Patrick Star	2nd	Opening Opposition	Luigi AlcañesesⒸ , Ralph Lee
+CWSDC 15	4th	Closing Opposition	Luigi AlcañesesⒸ , Ralph Lee
+Buy me Friday	3rd	Closing Government	Luigi AlcañesesⒸ , Ralph Lee
+Burger King	1st	Opening Government	Luigi AlcañesesⒸ , Ralph Lee
+
+
+team	result	side	adjudicators
+CWSDC 2	2nd	Opening Government	Thepparith (TJ) SenamngernⒸ
+Holy squishy eyeballs	3rd	Closing Government	Thepparith (TJ) SenamngernⒸ
+Lifeless adults	1st	Closing Opposition	Thepparith (TJ) SenamngernⒸ
+Wave Waver	4th	Opening Opposition	Thepparith (TJ) SenamngernⒸ
+Heehee	4th	Closing Opposition	Marco Giorgione DavaⒸ
+Weight, I Got This Won	2nd	Opening Government	Marco Giorgione DavaⒸ
+We Need A Break!	3rd	Closing Government	Marco Giorgione DavaⒸ
+Creed III	1st	Opening Opposition	Marco Giorgione DavaⒸ
+CWSDC 4	1st	Closing Government	Vinodhan KuppusamyⒸ
+CWSDC 10	3rd	Opening Opposition	Vinodhan KuppusamyⒸ
+Mars CJ	4th	Closing Opposition	Vinodhan KuppusamyⒸ
+DKU A	2nd	Opening Government	Vinodhan KuppusamyⒸ
+Vme50	3rd	Closing Government	Jodi Aedrienne L. BengzonⒸ
+some random thing	4th	Opening Government	Jodi Aedrienne L. BengzonⒸ
+Grass, a kind of plant	2nd	Closing Opposition	Jodi Aedrienne L. BengzonⒸ
+SUSJ	1st	Opening Opposition	Jodi Aedrienne L. BengzonⒸ
+Nova Hangzhou Westlake Fish with Po	2nd	Closing Opposition	Srijan PoudelⒸ
+Boston Celtics &amp; Miami Heat Fans	3rd	Opening Government	Srijan PoudelⒸ
+go to K11 with us	4th	Opening Opposition	Srijan PoudelⒸ
+&quot;Is this a sign?&quot;	1st	Closing Government	Srijan PoudelⒸ
+CWSDC 1	2nd	Opening Government	Maeca Czarina PansensoyⒸ , Antonio Wei
+CWSDC 13	3rd	Closing Government	Maeca Czarina PansensoyⒸ , Antonio Wei
+OGres with Layers	1st	Opening Opposition	Maeca Czarina PansensoyⒸ , Antonio Wei
+Unicorn	4th	Closing Opposition	Maeca Czarina PansensoyⒸ , Antonio Wei
+SISU A	2nd	Closing Opposition	Huw Gwyn JonesⒸ
+CWSDC 12	1st	Opening Opposition	Huw Gwyn JonesⒸ
+CWSDC 15	3rd	Opening Government	Huw Gwyn JonesⒸ
+Prone to Pneumonoultramicroscopicsi	4th	Closing Government	Huw Gwyn JonesⒸ
+Nova Hangzhou Patrick Star	4th	Closing Government	David AfricaⒸ
+CWSDC 6	2nd	Opening Government	David AfricaⒸ
+DAV Jägerbomb	3rd	Opening Opposition	David AfricaⒸ
+Karl Markets	1st	Closing Opposition	David AfricaⒸ
+We cant think of a team name :)	2nd	Closing Opposition	Kithmina HewageⒸ , Christopher Chua
+UM TH as Chimpanzees	1st	Opening Opposition	Kithmina HewageⒸ , Christopher Chua
+Shinzou Wo Sasageyo	3rd	Opening Government	Kithmina HewageⒸ , Christopher Chua
+YISS Queens	4th	Closing Government	Kithmina HewageⒸ , Christopher Chua
+Nova Hangzhou Budda Feminists	4th	Opening Government	Jordyn GibsonⒸ
+DoMynating	3rd	Closing Government	Jordyn GibsonⒸ
+Don Quixote	2nd	Opening Opposition	Jordyn GibsonⒸ
+UM Joker and Homeless	1st	Closing Opposition	Jordyn GibsonⒸ
+Ateneo LN	3rd	Closing Opposition	Brian WongⒸ
+CWSDC 7	2nd	Opening Opposition	Brian WongⒸ
+CWSDC 9	4th	Opening Government	Brian WongⒸ
+JANKY DANKY	1st	Closing Government	Brian WongⒸ
+MaRuiculous	2nd	Opening Opposition	Aliyah HerlihyⒸ
+We&#x27;re cirisly slaying	3rd	Closing Opposition	Aliyah HerlihyⒸ
+Don&#x27;t let me name our team	1st	Opening Government	Aliyah HerlihyⒸ
+Imperial Inquisitors	4th	Closing Government	Aliyah HerlihyⒸ
+Nova Hangzhou Juicy Petro Painters	4th	Closing Opposition	Daniella Louise Simbre BarbacenaⒸ
+Rising from the Ashes	2nd	Closing Government	Daniella Louise Simbre BarbacenaⒸ
+belligerent badgers	1st	Opening Opposition	Daniella Louise Simbre BarbacenaⒸ
+MK23	3rd	Opening Government	Daniella Louise Simbre BarbacenaⒸ
+overrated	2nd	Closing Opposition	Gabrielle PacañoⒸ
+help us	3rd	Closing Government	Gabrielle PacañoⒸ
+Carry	4th	Opening Government	Gabrielle PacañoⒸ
+Master Debaters	1st	Opening Opposition	Gabrielle PacañoⒸ
+Undefined	1st	Opening Opposition	Ahmad Tousif JamiⒸ
+Elisa &amp; Sophia	2nd	Closing Opposition	Ahmad Tousif JamiⒸ
+Cheerful News Bad Commentary	4th	Closing Government	Ahmad Tousif JamiⒸ
+Pearl Jezap Pudding River	3rd	Opening Government	Ahmad Tousif JamiⒸ
+OOMPA LOOMPA🧌	1st	Opening Government	Irene Teresa Galang Dela CruzⒸ
+Richard &amp; Kuei	2nd	Closing Government	Irene Teresa Galang Dela CruzⒸ
+Veggie nuts	4th	Opening Opposition	Irene Teresa Galang Dela CruzⒸ
+chestnut	3rd	Closing Opposition	Irene Teresa Galang Dela CruzⒸ
+CWSDC 8	2nd	Closing Government	PRANAV KAGALKARⒸ , Ian Qiu
+Buy me Friday	4th	Opening Government	PRANAV KAGALKARⒸ , Ian Qiu
+Unstoppable RAJA	3rd	Closing Opposition	PRANAV KAGALKARⒸ , Ian Qiu
+Shead and Stephenson	1st	Opening Opposition	PRANAV KAGALKARⒸ , Ian Qiu
+HZCU A	2nd	Opening Opposition	Ralph LeeⒸ
+jocular beings	3rd	Closing Opposition	Ralph LeeⒸ
+Peppa Pig Supremacy	1st	Closing Government	Ralph LeeⒸ
+Darren &amp; Shawn	4th	Opening Government	Ralph LeeⒸ
+TEAM CHRIZZMAS TREE	3rd	Closing Government	Rushdoon AhmedⒸ
+JJCZ	4th	Closing Opposition	Rushdoon AhmedⒸ
+Eric &amp; Jeffrey	2nd	Opening Government	Rushdoon AhmedⒸ
+Super Team	1st	Opening Opposition	Rushdoon AhmedⒸ
+Nova Hangzhou Spicy Thai Hotpot	2nd	Closing Opposition	Asif MehediⒸ , Luis Rafael N. Garcia
+Shanghai Emotionless PPT Machine	3rd	Opening Government	Asif MehediⒸ , Luis Rafael N. Garcia
+CWSDC 14	1st	Closing Government	Asif MehediⒸ , Luis Rafael N. Garcia
+Adela &amp; Johnny	4th	Opening Opposition	Asif MehediⒸ , Luis Rafael N. Garcia
+My little pony ROCKS	4th	Opening Opposition	Judy JIⒸ
+CWSDC 5	1st	Closing Opposition	Judy JIⒸ
+CWSDC 11	2nd	Closing Government	Judy JIⒸ
+Listen Up	3rd	Opening Government	Judy JIⒸ
+CWSDC 3	1st	Closing Government	Udai KamathⒸ
+CHRONIC PAIN GWORLIES	3rd	Opening Government	Udai KamathⒸ
+Kate &amp; Eze	2nd	Opening Opposition	Udai KamathⒸ
+Burger King	4th	Closing Opposition	Udai KamathⒸ
+
+
+team	result	side	adjudicators
+SISU A	2nd	Opening Opposition	PRANAV KAGALKARⒸ
+Shinzou Wo Sasageyo	3rd	Closing Opposition	PRANAV KAGALKARⒸ
+Burger King	4th	Closing Government	PRANAV KAGALKARⒸ
+DAV Jägerbomb	1st	Opening Government	PRANAV KAGALKARⒸ
+Nova Hangzhou Patrick Star	1st	Opening Government	Gabrielle PacañoⒸ
+Holy squishy eyeballs	4th	Closing Opposition	Gabrielle PacañoⒸ
+Undefined	2nd	Closing Government	Gabrielle PacañoⒸ
+Grass, a kind of plant	3rd	Opening Opposition	Gabrielle PacañoⒸ
+MaRuiculous	4th	Opening Government	Christopher ChuaⒸ
+CWSDC 15	2nd	Closing Government	Christopher ChuaⒸ
+help us	1st	Opening Opposition	Christopher ChuaⒸ
+Buy me Friday	3rd	Closing Opposition	Christopher ChuaⒸ
+DoMynating	2nd	Opening Opposition	Ahmad Tousif JamiⒸ
+Heehee	4th	Closing Government	Ahmad Tousif JamiⒸ
+Don Quixote	3rd	Opening Government	Ahmad Tousif JamiⒸ
+Imperial Inquisitors	1st	Closing Opposition	Ahmad Tousif JamiⒸ
+CWSDC 7	2nd	Closing Government	Irene Teresa Galang Dela CruzⒸ
+CWSDC 14	3rd	Closing Opposition	Irene Teresa Galang Dela CruzⒸ
+Lifeless adults	4th	Opening Government	Irene Teresa Galang Dela CruzⒸ
+Shead and Stephenson	1st	Opening Opposition	Irene Teresa Galang Dela CruzⒸ
+CWSDC 10	2nd	Closing Opposition	Srijan PoudelⒸ
+overrated	1st	Closing Government	Srijan PoudelⒸ
+Weight, I Got This Won	3rd	Opening Opposition	Srijan PoudelⒸ
+Unstoppable RAJA	4th	Opening Government	Srijan PoudelⒸ
+Nova Hangzhou Spicy Thai Hotpot	4th	Closing Government	Luigi AlcañesesⒸ , Rushdoon Ahmed
+CWSDC 5	1st	Opening Opposition	Luigi AlcañesesⒸ , Rushdoon Ahmed
+CWSDC 8	3rd	Opening Government	Luigi AlcañesesⒸ , Rushdoon Ahmed
+CWSDC 12	2nd	Closing Opposition	Luigi AlcañesesⒸ , Rushdoon Ahmed
+CWSDC 3	3rd	Opening Opposition	David AfricaⒸ , Ian Qiu
+JANKY DANKY	1st	Opening Government	David AfricaⒸ , Ian Qiu
+OGres with Layers	2nd	Closing Government	David AfricaⒸ , Ian Qiu
+UM TH as Chimpanzees	4th	Closing Opposition	David AfricaⒸ , Ian Qiu
+Shanghai Emotionless PPT Machine	1st	Closing Opposition	Jodi Aedrienne L. BengzonⒸ
+Don&#x27;t let me name our team	4th	Closing Government	Jodi Aedrienne L. BengzonⒸ
+YISS Queens	2nd	Opening Opposition	Jodi Aedrienne L. BengzonⒸ
+Master Debaters	3rd	Opening Government	Jodi Aedrienne L. BengzonⒸ
+CWSDC 1	1st	Closing Opposition	Vinodhan KuppusamyⒸ
+CWSDC 6	2nd	Opening Opposition	Vinodhan KuppusamyⒸ
+Kate &amp; Eze	4th	Opening Government	Vinodhan KuppusamyⒸ
+Karl Markets	3rd	Closing Government	Vinodhan KuppusamyⒸ
+Elisa &amp; Sophia	4th	Opening Opposition	Huw Gwyn JonesⒸ
+We Need A Break!	2nd	Closing Opposition	Huw Gwyn JonesⒸ
+Super Team	3rd	Opening Government	Huw Gwyn JonesⒸ
+Unicorn	1st	Closing Government	Huw Gwyn JonesⒸ
+some random thing	3rd	Opening Government	Judy JIⒸ , Aliyah Herlihy
+Richard &amp; Kuei	4th	Closing Opposition	Judy JIⒸ , Aliyah Herlihy
+Adela &amp; Johnny	2nd	Closing Government	Judy JIⒸ , Aliyah Herlihy
+Carry	1st	Opening Opposition	Judy JIⒸ , Aliyah Herlihy
+Nova Hangzhou Budda Feminists	1st	Opening Opposition	Daniella Louise Simbre BarbacenaⒸ
+jocular beings	2nd	Closing Government	Daniella Louise Simbre BarbacenaⒸ
+JJCZ	3rd	Opening Government	Daniella Louise Simbre BarbacenaⒸ
+Darren &amp; Shawn	4th	Closing Opposition	Daniella Louise Simbre BarbacenaⒸ
+Nova Hangzhou Juicy Petro Painters	4th	Closing Opposition	Luis Rafael N. GarciaⒸ
+TEAM CHRIZZMAS TREE	3rd	Opening Government	Luis Rafael N. GarciaⒸ
+Cheerful News Bad Commentary	1st	Opening Opposition	Luis Rafael N. GarciaⒸ
+Veggie nuts	2nd	Closing Government	Luis Rafael N. GarciaⒸ
+My little pony ROCKS	2nd	Closing Government	Kithmina HewageⒸ
+We&#x27;re cirisly slaying	1st	Opening Government	Kithmina HewageⒸ
+Eric &amp; Jeffrey	3rd	Opening Opposition	Kithmina HewageⒸ
+Pearl Jezap Pudding River	4th	Closing Opposition	Kithmina HewageⒸ
+HZCU A	4th	Opening Government	Asif MehediⒸ
+go to K11 with us	2nd	Closing Opposition	Asif MehediⒸ
+MK23	3rd	Closing Government	Asif MehediⒸ
+chestnut	1st	Opening Opposition	Asif MehediⒸ
+Nova Hangzhou Westlake Fish with Po	1st	Opening Opposition	Maeca Czarina PansensoyⒸ
+CWSDC 2	2nd	Closing Opposition	Maeca Czarina PansensoyⒸ
+SUSJ	3rd	Closing Government	Maeca Czarina PansensoyⒸ
+Creed III	4th	Opening Government	Maeca Czarina PansensoyⒸ
+Mars CJ	1st	Closing Government	Antonio WeiⒸ
+Peppa Pig Supremacy	4th	Opening Opposition	Antonio WeiⒸ
+Prone to Pneumonoultramicroscopicsi	3rd	Closing Opposition	Antonio WeiⒸ
+Wave Waver	2nd	Opening Government	Antonio WeiⒸ
+Vme50	2nd	Closing Opposition	Marco Giorgione DavaⒸ , Ralph Lee
+Listen Up	4th	Closing Government	Marco Giorgione DavaⒸ , Ralph Lee
+Rising from the Ashes	1st	Opening Opposition	Marco Giorgione DavaⒸ , Ralph Lee
+UM Joker and Homeless	3rd	Opening Government	Marco Giorgione DavaⒸ , Ralph Lee
+Ateneo LN	3rd	Closing Government	Thepparith (TJ) SenamngernⒸ
+CWSDC 4	4th	Opening Government	Thepparith (TJ) SenamngernⒸ
+We cant think of a team name :)	2nd	Opening Opposition	Thepparith (TJ) SenamngernⒸ
+CHRONIC PAIN GWORLIES	1st	Closing Opposition	Thepparith (TJ) SenamngernⒸ
+CWSDC 9	1st	Opening Opposition	Udai KamathⒸ
+CWSDC 13	2nd	Opening Government	Udai KamathⒸ
+&quot;Is this a sign?&quot;	4th	Closing Opposition	Udai KamathⒸ
+DKU A	3rd	Closing Government	Udai KamathⒸ
+CWSDC 11	1st	Opening Opposition	Jordyn GibsonⒸ
+OOMPA LOOMPA🧌	4th	Closing Opposition	Jordyn GibsonⒸ
+Boston Celtics &amp; Miami Heat Fans	3rd	Closing Government	Jordyn GibsonⒸ
+belligerent badgers	2nd	Opening Government	Jordyn GibsonⒸ
+
+
+team	result	side	adjudicators
+Vme50	4th	Closing Government	Irene Teresa Galang Dela CruzⒸ
+Weight, I Got This Won	3rd	Closing Opposition	Irene Teresa Galang Dela CruzⒸ
+We Need A Break!	2nd	Opening Government	Irene Teresa Galang Dela CruzⒸ
+Creed III	1st	Opening Opposition	Irene Teresa Galang Dela CruzⒸ
+SISU A	3rd	Opening Opposition	Gabrielle PacañoⒸ
+CWSDC 11	1st	Closing Government	Gabrielle PacañoⒸ
+Rising from the Ashes	4th	Opening Government	Gabrielle PacañoⒸ
+belligerent badgers	2nd	Closing Opposition	Gabrielle PacañoⒸ
+Nova Hangzhou Westlake Fish with Po	1st	Closing Government	Thepparith (TJ) SenamngernⒸ
+CWSDC 12	3rd	Closing Opposition	Thepparith (TJ) SenamngernⒸ
+CWSDC 13	4th	Opening Government	Thepparith (TJ) SenamngernⒸ
+Karl Markets	2nd	Opening Opposition	Thepparith (TJ) SenamngernⒸ
+Nova Hangzhou Budda Feminists	4th	Opening Government	Ian QiuⒸ
+some random thing	1st	Closing Opposition	Ian QiuⒸ
+Peppa Pig Supremacy	2nd	Closing Government	Ian QiuⒸ
+Veggie nuts	3rd	Opening Opposition	Ian QiuⒸ
+CWSDC 4	1st	Opening Government	Christopher ChuaⒸ
+CWSDC 10	4th	Closing Opposition	Christopher ChuaⒸ
+Mars CJ	3rd	Opening Opposition	Christopher ChuaⒸ
+DKU A	2nd	Closing Government	Christopher ChuaⒸ
+HZCU A	4th	Closing Opposition	Aliyah HerlihyⒸ
+jocular beings	3rd	Closing Government	Aliyah HerlihyⒸ
+TEAM CHRIZZMAS TREE	2nd	Opening Opposition	Aliyah HerlihyⒸ
+Pearl Jezap Pudding River	1st	Opening Government	Aliyah HerlihyⒸ
+MaRuiculous	4th	Opening Opposition	Daniella Louise Simbre BarbacenaⒸ
+DoMynating	3rd	Closing Opposition	Daniella Louise Simbre BarbacenaⒸ
+Don Quixote	1st	Closing Government	Daniella Louise Simbre BarbacenaⒸ
+Elisa &amp; Sophia	2nd	Opening Government	Daniella Louise Simbre BarbacenaⒸ
+We&#x27;re cirisly slaying	2nd	Opening Government	PRANAV KAGALKARⒸ
+Wave Waver	4th	Closing Opposition	PRANAV KAGALKARⒸ
+chestnut	3rd	Closing Government	PRANAV KAGALKARⒸ
+Burger King	1st	Opening Opposition	PRANAV KAGALKARⒸ
+Don&#x27;t let me name our team	3rd	Opening Opposition	Asif MehediⒸ
+Boston Celtics &amp; Miami Heat Fans	4th	Closing Opposition	Asif MehediⒸ
+Cheerful News Bad Commentary	1st	Opening Government	Asif MehediⒸ
+go to K11 with us	2nd	Closing Government	Asif MehediⒸ
+Grass, a kind of plant	1st	Closing Government	Luis Rafael N. GarciaⒸ
+Adela &amp; Johnny	4th	Closing Opposition	Luis Rafael N. GarciaⒸ
+&quot;Is this a sign?&quot;	3rd	Opening Opposition	Luis Rafael N. GarciaⒸ
+Master Debaters	2nd	Opening Government	Luis Rafael N. GarciaⒸ
+CWSDC 1	4th	Closing Government	David AfricaⒸ , Rushdoon Ahmed
+CWSDC 9	3rd	Closing Opposition	David AfricaⒸ , Rushdoon Ahmed
+We cant think of a team name :)	2nd	Opening Opposition	David AfricaⒸ , Rushdoon Ahmed
+Shead and Stephenson	1st	Opening Government	David AfricaⒸ , Rushdoon Ahmed
+Ateneo LN	2nd	Closing Opposition	Kithmina HewageⒸ
+CWSDC 2	1st	Closing Government	Kithmina HewageⒸ
+overrated	3rd	Opening Government	Kithmina HewageⒸ
+Kate &amp; Eze	4th	Opening Opposition	Kithmina HewageⒸ
+UM TH as Chimpanzees	1st	Closing Opposition	Jordyn GibsonⒸ
+SUSJ	3rd	Opening Government	Jordyn GibsonⒸ
+Shinzou Wo Sasageyo	4th	Closing Government	Jordyn GibsonⒸ
+Unicorn	2nd	Opening Opposition	Jordyn GibsonⒸ
+Nova Hangzhou Spicy Thai Hotpot	4th	Closing Opposition	Marco Giorgione DavaⒸ
+CWSDC 15	2nd	Opening Opposition	Marco Giorgione DavaⒸ
+Holy squishy eyeballs	1st	Closing Government	Marco Giorgione DavaⒸ
+Carry	3rd	Opening Government	Marco Giorgione DavaⒸ
+CWSDC 3	4th	Closing Opposition	Huw Gwyn JonesⒸ , Judy JI
+JANKY DANKY	1st	Closing Government	Huw Gwyn JonesⒸ , Judy JI
+CHRONIC PAIN GWORLIES	3rd	Opening Opposition	Huw Gwyn JonesⒸ , Judy JI
+OGres with Layers	2nd	Opening Government	Huw Gwyn JonesⒸ , Judy JI
+Nova Hangzhou Patrick Star	2nd	Closing Opposition	Udai KamathⒸ
+Shanghai Emotionless PPT Machine	4th	Closing Government	Udai KamathⒸ
+CWSDC 14	1st	Opening Opposition	Udai KamathⒸ
+Undefined	3rd	Opening Government	Udai KamathⒸ
+CWSDC 5	1st	Opening Government	Luigi AlcañesesⒸ
+CWSDC 6	3rd	Closing Government	Luigi AlcañesesⒸ
+CWSDC 7	2nd	Closing Opposition	Luigi AlcañesesⒸ
+DAV Jägerbomb	4th	Opening Opposition	Luigi AlcañesesⒸ
+Nova Hangzhou Juicy Petro Painters	2nd	Opening Opposition	Ralph LeeⒸ
+Heehee	1st	Opening Government	Ralph LeeⒸ
+JJCZ	4th	Closing Opposition	Ralph LeeⒸ
+Darren &amp; Shawn	3rd	Closing Government	Ralph LeeⒸ
+CWSDC 8	1st	Opening Government	Maeca Czarina PansensoyⒸ
+help us	3rd	Closing Government	Maeca Czarina PansensoyⒸ
+Lifeless adults	4th	Opening Opposition	Maeca Czarina PansensoyⒸ
+YISS Queens	2nd	Closing Opposition	Maeca Czarina PansensoyⒸ
+OOMPA LOOMPA🧌	3rd	Closing Government	Jodi Aedrienne L. BengzonⒸ
+MK23	4th	Opening Opposition	Jodi Aedrienne L. BengzonⒸ
+UM Joker and Homeless	2nd	Opening Government	Jodi Aedrienne L. BengzonⒸ
+Imperial Inquisitors	1st	Closing Opposition	Jodi Aedrienne L. BengzonⒸ
+My little pony ROCKS	2nd	Closing Government	Ahmad Tousif JamiⒸ
+Buy me Friday	4th	Closing Opposition	Ahmad Tousif JamiⒸ
+Unstoppable RAJA	1st	Opening Opposition	Ahmad Tousif JamiⒸ
+Super Team	3rd	Opening Government	Ahmad Tousif JamiⒸ
+Eric &amp; Jeffrey	3rd	Closing Opposition	Srijan PoudelⒸ
+Richard &amp; Kuei	4th	Closing Government	Srijan PoudelⒸ
+Listen Up	1st	Opening Government	Srijan PoudelⒸ
+Prone to Pneumonoultramicroscopicsi	2nd	Opening Opposition	Srijan PoudelⒸ
+
+
+team	result	side	adjudicators
+CWSDC 1	2nd	Closing Opposition	Huw Gwyn JonesⒸ
+CWSDC 8	4th	Closing Government	Huw Gwyn JonesⒸ
+CWSDC 11	1st	Opening Opposition	Huw Gwyn JonesⒸ
+UM TH as Chimpanzees	3rd	Opening Government	Huw Gwyn JonesⒸ
+CWSDC 5	4th	Closing Government	Thepparith (TJ) SenamngernⒸ
+JANKY DANKY	1st	Closing Opposition	Thepparith (TJ) SenamngernⒸ
+OGres with Layers	2nd	Opening Opposition	Thepparith (TJ) SenamngernⒸ
+Shead and Stephenson	3rd	Opening Government	Thepparith (TJ) SenamngernⒸ
+Ateneo LN	2nd	Opening Opposition	Brian WongⒸ
+CWSDC 2	4th	Opening Government	Brian WongⒸ
+CWSDC 14	3rd	Closing Opposition	Brian WongⒸ
+CHRONIC PAIN GWORLIES	1st	Closing Government	Brian WongⒸ
+Don Quixote	4th	Closing Opposition	Christopher ChuaⒸ
+OOMPA LOOMPA🧌	1st	Opening Opposition	Christopher ChuaⒸ
+Elisa &amp; Sophia	3rd	Closing Government	Christopher ChuaⒸ
+Veggie nuts	2nd	Opening Government	Christopher ChuaⒸ
+DoMynating	1st	Opening Opposition	Ralph LeeⒸ
+TEAM CHRIZZMAS TREE	2nd	Closing Opposition	Ralph LeeⒸ
+Boston Celtics &amp; Miami Heat Fans	3rd	Opening Government	Ralph LeeⒸ
+Adela &amp; Johnny	4th	Closing Government	Ralph LeeⒸ
+Nova Hangzhou Budda Feminists	4th	Opening Opposition	Gabrielle PacañoⒸ
+Heehee	2nd	Closing Opposition	Gabrielle PacañoⒸ
+Eric &amp; Jeffrey	3rd	Opening Government	Gabrielle PacañoⒸ
+Buy me Friday	1st	Closing Government	Gabrielle PacañoⒸ
+CWSDC 12	3rd	Closing Government	David AfricaⒸ , Aliyah Herlihy
+YISS Queens	1st	Opening Opposition	David AfricaⒸ , Aliyah Herlihy
+DAV Jägerbomb	2nd	Opening Government	David AfricaⒸ , Aliyah Herlihy
+Unicorn	4th	Closing Opposition	David AfricaⒸ , Aliyah Herlihy
+CWSDC 13	3rd	Closing Government	Jodi Aedrienne L. BengzonⒸ , Ahmad Tousif Jami
+We Need A Break!	4th	Opening Opposition	Jodi Aedrienne L. BengzonⒸ , Ahmad Tousif Jami
+Unstoppable RAJA	1st	Opening Government	Jodi Aedrienne L. BengzonⒸ , Ahmad Tousif Jami
+Master Debaters	2nd	Closing Opposition	Jodi Aedrienne L. BengzonⒸ , Ahmad Tousif Jami
+CWSDC 4	4th	Closing Opposition	Asif MehediⒸ , Judy JI
+CWSDC 6	1st	Opening Opposition	Asif MehediⒸ , Judy JI
+DKU A	2nd	Opening Government	Asif MehediⒸ , Judy JI
+Karl Markets	3rd	Closing Government	Asif MehediⒸ , Judy JI
+SISU A	4th	Closing Government	Srijan PoudelⒸ
+Shanghai Emotionless PPT Machine	2nd	Closing Opposition	Srijan PoudelⒸ
+CWSDC 15	1st	Opening Opposition	Srijan PoudelⒸ
+Holy squishy eyeballs	3rd	Opening Government	Srijan PoudelⒸ
+Nova Hangzhou Spicy Thai Hotpot	1st	Opening Opposition	Jordyn GibsonⒸ
+Vme50	4th	Opening Government	Jordyn GibsonⒸ
+Prone to Pneumonoultramicroscopicsi	3rd	Closing Government	Jordyn GibsonⒸ
+Super Team	2nd	Closing Opposition	Jordyn GibsonⒸ
+My little pony ROCKS	3rd	Opening Government	Udai KamathⒸ
+some random thing	2nd	Opening Opposition	Udai KamathⒸ
+Kate &amp; Eze	1st	Closing Opposition	Udai KamathⒸ
+&quot;Is this a sign?&quot;	4th	Closing Government	Udai KamathⒸ
+We&#x27;re cirisly slaying	2nd	Opening Opposition	Daniella Louise Simbre BarbacenaⒸ
+Lifeless adults	4th	Opening Government	Daniella Louise Simbre BarbacenaⒸ
+Listen Up	1st	Closing Opposition	Daniella Louise Simbre BarbacenaⒸ
+SUSJ	3rd	Closing Government	Daniella Louise Simbre BarbacenaⒸ
+CWSDC 10	1st	Opening Opposition	Maeca Czarina PansensoyⒸ
+go to K11 with us	2nd	Closing Opposition	Maeca Czarina PansensoyⒸ
+Shinzou Wo Sasageyo	4th	Opening Government	Maeca Czarina PansensoyⒸ
+UM Joker and Homeless	3rd	Closing Government	Maeca Czarina PansensoyⒸ
+Nova Hangzhou Juicy Petro Painters	3rd	Closing Government	Luis Rafael N. GarciaⒸ
+MaRuiculous	4th	Closing Opposition	Luis Rafael N. GarciaⒸ
+jocular beings	2nd	Opening Opposition	Luis Rafael N. GarciaⒸ
+MK23	1st	Opening Government	Luis Rafael N. GarciaⒸ
+Peppa Pig Supremacy	4th	Closing Opposition	Rushdoon AhmedⒸ
+Don&#x27;t let me name our team	1st	Opening Government	Rushdoon AhmedⒸ
+Pearl Jezap Pudding River	2nd	Opening Opposition	Rushdoon AhmedⒸ
+Wave Waver	3rd	Closing Government	Rushdoon AhmedⒸ
+Grass, a kind of plant	3rd	Closing Opposition	Vinodhan KuppusamyⒸ , Luigi Alcañeses
+Imperial Inquisitors	1st	Opening Opposition	Vinodhan KuppusamyⒸ , Luigi Alcañeses
+Burger King	2nd	Closing Government	Vinodhan KuppusamyⒸ , Luigi Alcañeses
+Creed III	4th	Opening Government	Vinodhan KuppusamyⒸ , Luigi Alcañeses
+HZCU A	1st	Opening Government	Ian QiuⒸ
+JJCZ	4th	Closing Government	Ian QiuⒸ
+Richard &amp; Kuei	3rd	Closing Opposition	Ian QiuⒸ
+Darren &amp; Shawn	2nd	Opening Opposition	Ian QiuⒸ
+Carry	2nd	Closing Government	Marco Giorgione DavaⒸ
+Rising from the Ashes	1st	Opening Opposition	Marco Giorgione DavaⒸ
+Weight, I Got This Won	4th	Opening Government	Marco Giorgione DavaⒸ
+chestnut	3rd	Closing Opposition	Marco Giorgione DavaⒸ
+Nova Hangzhou Westlake Fish with Po	4th	Opening Government	PRANAV KAGALKARⒸ
+Nova Hangzhou Patrick Star	3rd	Opening Opposition	PRANAV KAGALKARⒸ
+CWSDC 7	2nd	Closing Government	PRANAV KAGALKARⒸ
+We cant think of a team name :)	1st	Closing Opposition	PRANAV KAGALKARⒸ
+Mars CJ	3rd	Closing Government	Kithmina HewageⒸ
+Undefined	4th	Opening Government	Kithmina HewageⒸ
+help us	1st	Opening Opposition	Kithmina HewageⒸ
+Cheerful News Bad Commentary	2nd	Closing Opposition	Kithmina HewageⒸ
+CWSDC 3	1st	Opening Opposition	Irene Teresa Galang Dela CruzⒸ
+CWSDC 9	2nd	Closing Government	Irene Teresa Galang Dela CruzⒸ
+overrated	4th	Closing Opposition	Irene Teresa Galang Dela CruzⒸ
+belligerent badgers	3rd	Opening Government	Irene Teresa Galang Dela CruzⒸ
+
+
+team	result	side	adjudicators
+CWSDC 8	eliminated	Closing Government	Christopher ChuaⒸ , Asif Mehedi , Jodi Aedrienne L. Bengzon
+CWSDC 15	advancing	Opening Opposition	Christopher ChuaⒸ , Asif Mehedi , Jodi Aedrienne L. Bengzon
+We&#x27;re cirisly slaying	eliminated	Closing Opposition	Christopher ChuaⒸ , Asif Mehedi , Jodi Aedrienne L. Bengzon
+YISS Queens	advancing	Opening Government	Christopher ChuaⒸ , Asif Mehedi , Jodi Aedrienne L. Bengzon
+help us	advancing	Opening Government	Aliyah HerlihyⒸ , Marco Giorgione Dava , Udai Kamath
+Grass, a kind of plant	eliminated	Closing Opposition	Aliyah HerlihyⒸ , Marco Giorgione Dava , Udai Kamath
+Master Debaters	eliminated	Closing Government	Aliyah HerlihyⒸ , Marco Giorgione Dava , Udai Kamath
+Burger King	advancing	Opening Opposition	Aliyah HerlihyⒸ , Marco Giorgione Dava , Udai Kamath
+CWSDC 2	advancing	Opening Government	Ahmad Tousif JamiⒸ , Jordyn Gibson , Srijan Poudel
+CWSDC 12	eliminated	Closing Opposition	Ahmad Tousif JamiⒸ , Jordyn Gibson , Srijan Poudel
+belligerent badgers	eliminated	Opening Opposition	Ahmad Tousif JamiⒸ , Jordyn Gibson , Srijan Poudel
+Unstoppable RAJA	advancing	Closing Government	Ahmad Tousif JamiⒸ , Jordyn Gibson , Srijan Poudel
+CWSDC 4	advancing	Opening Opposition	Rushdoon AhmedⒸ , Gabrielle Pacaño , Thepparith (TJ) Senamngern
+CWSDC 10	eliminated	Closing Government	Rushdoon AhmedⒸ , Gabrielle Pacaño , Thepparith (TJ) Senamngern
+CWSDC 14	advancing	Opening Government	Rushdoon AhmedⒸ , Gabrielle Pacaño , Thepparith (TJ) Senamngern
+overrated	eliminated	Closing Opposition	Rushdoon AhmedⒸ , Gabrielle Pacaño , Thepparith (TJ) Senamngern
+
+
+team	result	side	adjudicators
+Ateneo LN	advancing	Opening Opposition	Judy JIⒸ , Ian Qiu , PRANAV KAGALKAR
+CHRONIC PAIN GWORLIES	advancing	Closing Government	Judy JIⒸ , Ian Qiu , PRANAV KAGALKAR
+Cheerful News Bad Commentary	eliminated	Opening Government	Judy JIⒸ , Ian Qiu , PRANAV KAGALKAR
+Imperial Inquisitors	eliminated	Closing Opposition	Judy JIⒸ , Ian Qiu , PRANAV KAGALKAR
+Nova Hangzhou Westlake Fish with Po	eliminated	Opening Government	Ralph LeeⒸ , Irene Teresa Galang Dela Cruz , Kithmina Hewage
+Shanghai Emotionless PPT Machine	advancing	Closing Opposition	Ralph LeeⒸ , Irene Teresa Galang Dela Cruz , Kithmina Hewage
+UM TH as Chimpanzees	eliminated	Closing Government	Ralph LeeⒸ , Irene Teresa Galang Dela Cruz , Kithmina Hewage
+Shead and Stephenson	advancing	Opening Opposition	Ralph LeeⒸ , Irene Teresa Galang Dela Cruz , Kithmina Hewage
+Nova Hangzhou Patrick Star	advancing	Closing Government	Daniella Louise Simbre BarbacenaⒸ , Luis Rafael N. Garcia , Vinodhan Kuppusamy
+JANKY DANKY	advancing	Opening Opposition	Daniella Louise Simbre BarbacenaⒸ , Luis Rafael N. Garcia , Vinodhan Kuppusamy
+Listen Up	eliminated	Closing Opposition	Daniella Louise Simbre BarbacenaⒸ , Luis Rafael N. Garcia , Vinodhan Kuppusamy
+DKU A	eliminated	Opening Government	Daniella Louise Simbre BarbacenaⒸ , Luis Rafael N. Garcia , Vinodhan Kuppusamy
+OGres with Layers	advancing	Opening Opposition	Antonio WeiⒸ , Huw Gwyn Jones , Maeca Czarina Pansensoy
+Kate &amp; Eze	advancing	Opening Government	Antonio WeiⒸ , Huw Gwyn Jones , Maeca Czarina Pansensoy
+DAV Jägerbomb	eliminated	Closing Government	Antonio WeiⒸ , Huw Gwyn Jones , Maeca Czarina Pansensoy
+Karl Markets	eliminated	Closing Opposition	Antonio WeiⒸ , Huw Gwyn Jones , Maeca Czarina Pansensoy
+
+
+team	result	side	adjudicators
+Nova Hangzhou Patrick Star	eliminated	Opening Government	Kithmina HewageⒸ , Jordyn Gibson , PRANAV KAGALKAR , Srijan Poudel , Udai Kamath
+Ateneo LN	advancing	Closing Government	Kithmina HewageⒸ , Jordyn Gibson , PRANAV KAGALKAR , Srijan Poudel , Udai Kamath
+JANKY DANKY	advancing	Opening Opposition	Kithmina HewageⒸ , Jordyn Gibson , PRANAV KAGALKAR , Srijan Poudel , Udai Kamath
+CHRONIC PAIN GWORLIES	eliminated	Closing Opposition	Kithmina HewageⒸ , Jordyn Gibson , PRANAV KAGALKAR , Srijan Poudel , Udai Kamath
+Shanghai Emotionless PPT Machine	eliminated	Opening Government	Maeca Czarina PansensoyⒸ , Asif Mehedi , Huw Gwyn Jones , Irene Teresa Galang Dela Cruz , Thepparith (TJ) Senamngern
+OGres with Layers	advancing	Opening Opposition	Maeca Czarina PansensoyⒸ , Asif Mehedi , Huw Gwyn Jones , Irene Teresa Galang Dela Cruz , Thepparith (TJ) Senamngern
+Kate &amp; Eze	eliminated	Closing Opposition	Maeca Czarina PansensoyⒸ , Asif Mehedi , Huw Gwyn Jones , Irene Teresa Galang Dela Cruz , Thepparith (TJ) Senamngern
+Shead and Stephenson	advancing	Closing Government	Maeca Czarina PansensoyⒸ , Asif Mehedi , Huw Gwyn Jones , Irene Teresa Galang Dela Cruz , Thepparith (TJ) Senamngern
+
+
+team	result	side	adjudicators
+Ateneo LN	eliminated	Closing Opposition	PRANAV KAGALKARⒸ , Asif Mehedi , Brian Wong , Huw Gwyn Jones , Judy JI , Thepparith (TJ) Senamngern , Vinodhan Kuppusamy
+JANKY DANKY	eliminated	Opening Opposition	PRANAV KAGALKARⒸ , Asif Mehedi , Brian Wong , Huw Gwyn Jones , Judy JI , Thepparith (TJ) Senamngern , Vinodhan Kuppusamy
+OGres with Layers	eliminated	Opening Government	PRANAV KAGALKARⒸ , Asif Mehedi , Brian Wong , Huw Gwyn Jones , Judy JI , Thepparith (TJ) Senamngern , Vinodhan Kuppusamy
+Shead and Stephenson	advancing	Closing Government	PRANAV KAGALKARⒸ , Asif Mehedi , Brian Wong , Huw Gwyn Jones , Judy JI , Thepparith (TJ) Senamngern , Vinodhan Kuppusamy
+
+
+team	result	side	adjudicators
+CWSDC 1	advancing	Closing Opposition	Jodi Aedrienne L. BengzonⒸ , Daniella Louise Simbre Barbacena , Vinodhan Kuppusamy
+CWSDC 3	advancing	Opening Government	Jodi Aedrienne L. BengzonⒸ , Daniella Louise Simbre Barbacena , Vinodhan Kuppusamy
+help us	eliminated	Closing Government	Jodi Aedrienne L. BengzonⒸ , Daniella Louise Simbre Barbacena , Vinodhan Kuppusamy
+Burger King	eliminated	Opening Opposition	Jodi Aedrienne L. BengzonⒸ , Daniella Louise Simbre Barbacena , Vinodhan Kuppusamy
+CWSDC 5	eliminated	Opening Government	Gabrielle PacañoⒸ , Aliyah Herlihy , Rushdoon Ahmed
+CWSDC 7	advancing	Opening Opposition	Gabrielle PacañoⒸ , Aliyah Herlihy , Rushdoon Ahmed
+CWSDC 15	advancing	Closing Government	Gabrielle PacañoⒸ , Aliyah Herlihy , Rushdoon Ahmed
+YISS Queens	eliminated	Closing Opposition	Gabrielle PacañoⒸ , Aliyah Herlihy , Rushdoon Ahmed
+CWSDC 2	advancing	Opening Opposition	Judy JIⒸ , Ahmad Tousif Jami , Luis Rafael N. Garcia
+CWSDC 6	advancing	Closing Opposition	Judy JIⒸ , Ahmad Tousif Jami , Luis Rafael N. Garcia
+CWSDC 11	eliminated	Closing Government	Judy JIⒸ , Ahmad Tousif Jami , Luis Rafael N. Garcia
+Unstoppable RAJA	eliminated	Opening Government	Judy JIⒸ , Ahmad Tousif Jami , Luis Rafael N. Garcia
+CWSDC 4	eliminated	Opening Opposition	Marco Giorgione DavaⒸ , Antonio Wei , Christopher Chua
+CWSDC 9	advancing	Closing Government	Marco Giorgione DavaⒸ , Antonio Wei , Christopher Chua
+CWSDC 14	eliminated	Closing Opposition	Marco Giorgione DavaⒸ , Antonio Wei , Christopher Chua
+We cant think of a team name :)	advancing	Opening Government	Marco Giorgione DavaⒸ , Antonio Wei , Christopher Chua
+
+
+team	result	side	adjudicators
+CWSDC 2	eliminated	Opening Government	Gabrielle PacañoⒸ , Aliyah Herlihy , Daniella Louise Simbre Barbacena , Luigi Alcañeses , Udai Kamath
+CWSDC 6	advancing	Closing Opposition	Gabrielle PacañoⒸ , Aliyah Herlihy , Daniella Louise Simbre Barbacena , Luigi Alcañeses , Udai Kamath
+CWSDC 9	eliminated	Opening Opposition	Gabrielle PacañoⒸ , Aliyah Herlihy , Daniella Louise Simbre Barbacena , Luigi Alcañeses , Udai Kamath
+We cant think of a team name :)	advancing	Closing Government	Gabrielle PacañoⒸ , Aliyah Herlihy , Daniella Louise Simbre Barbacena , Luigi Alcañeses , Udai Kamath
+CWSDC 1	eliminated	Closing Government	Irene Teresa Galang Dela CruzⒸ , David Africa , Jodi Aedrienne L. Bengzon , Jordyn Gibson , Maeca Czarina Pansensoy
+CWSDC 3	advancing	Opening Opposition	Irene Teresa Galang Dela CruzⒸ , David Africa , Jodi Aedrienne L. Bengzon , Jordyn Gibson , Maeca Czarina Pansensoy
+CWSDC 7	eliminated	Opening Government	Irene Teresa Galang Dela CruzⒸ , David Africa , Jodi Aedrienne L. Bengzon , Jordyn Gibson , Maeca Czarina Pansensoy
+CWSDC 15	advancing	Closing Opposition	Irene Teresa Galang Dela CruzⒸ , David Africa , Jodi Aedrienne L. Bengzon , Jordyn Gibson , Maeca Czarina Pansensoy
+
+
+team	result	side	adjudicators
+CWSDC 3	eliminated	Opening Government	Udai KamathⒸ , David Africa , Huw Gwyn Jones , Irene Teresa Galang Dela Cruz , Jordyn Gibson , Maeca Czarina Pansensoy , PRANAV KAGALKAR
+CWSDC 6	advancing	Closing Government	Udai KamathⒸ , David Africa , Huw Gwyn Jones , Irene Teresa Galang Dela Cruz , Jordyn Gibson , Maeca Czarina Pansensoy , PRANAV KAGALKAR
+CWSDC 15	eliminated	Closing Opposition	Udai KamathⒸ , David Africa , Huw Gwyn Jones , Irene Teresa Galang Dela Cruz , Jordyn Gibson , Maeca Czarina Pansensoy , PRANAV KAGALKAR
+We cant think of a team name :)	eliminated	Opening Opposition	Udai KamathⒸ , David Africa , Huw Gwyn Jones , Irene Teresa Galang Dela Cruz , Jordyn Gibson , Maeca Czarina Pansensoy , PRANAV KAGALKAR
+

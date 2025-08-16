@@ -1,0 +1,1527 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	R6	Pts	Spk	1sts	2nds	DS
+1	Team Australia		1st	1st	1st	1st	2nd	1st	17	974	5	1	228
+2=	Shanghai Oreo		1st	1st	1st	3rd	1st	2nd	15	956	4	1	217
+2=	Team Africa		1st	1st	2nd	1st	1st	3rd	15	956	4	1	225
+4	We&#x27;re not invited		1st	1st	1st	2nd	3rd	1st	15	951	4	1	219
+5	CW KH	Over 16	2nd	1st	2nd	1st	2nd	2nd	14	949	2	4	226
+6	Mmmmm, K	Over 16	4th	1st	1st	1st	2nd	1st	14	935	4	1	187
+7	Smart is just an Adjective to descr		2nd	3rd	1st	1st	2nd	1st	14	933	3	2	194
+8	Mario flower	Over 16	2nd	1st	4th	1st	1st	1st	14	927	4	1	184
+9	Mchua A		2nd	2nd	1st	1st	1st	4th	13	951	3	2	216
+10	CW BV	Over 16	1st	2nd	1st	1st	4th	2nd	13	950	3	2	204
+11	CW AB	Over 16	1st	3rd	1st	2nd	3rd	1st	13	937	3	1	201
+12	Nova MT		1st	1st	2nd	2nd	3rd	2nd	13	936	2	3	222
+13	CW TG	Over 16	1st	1st	3rd	1st	4th	1st	13	934	4	0	192
+14	RSG Sapphire		2nd	1st	1st	3rd	1st	3rd	13	934	3	1	196
+15	Charli XCX? We are Careless XXX		1st	4th	2nd	1st	2nd	1st	13	927	3	2	186
+16	Capstone AJ	Over 16	2nd	1st	3rd	1st	1st	3rd	13	926	3	1	195
+17	SUFE A		2nd	2nd	1st	3rd	1st	2nd	13	926	2	3	188
+18	guava	Under 16	4th	1st	1st	3rd	1st	1st	13	921	4	0	176
+19	CW CK	Under 16	1st	2nd	2nd	1st	2nd	4th	12	940	2	3	194
+20	CW CS	Over 16	1st	3rd	1st	2nd	4th	1st	12	936	3	1	187
+21	Carelle		1st	1st	4th	2nd	1st	3rd	12	935	3	1	188
+22	CW AI	Over 16	1st	2nd	3rd	3rd	2nd	1st	12	935	2	2	182
+23	CW AE	Over 16	2nd	4th	1st	2nd	1st	2nd	12	933	2	3	170
+24	CW YM	Over 16	1st	1st	3rd	2nd	4th	1st	12	928	3	1	199
+25	Schrodingers arguments	Over 16	1st	2nd	4th	2nd	2nd	1st	12	919	2	3	195
+26	RSG Gold	Under 16	4th	1st	2nd	2nd	1st	2nd	12	914	2	3	174
+27	Xiao Bai		1st	3rd	2nd	2nd	2nd	3rd	11	946	1	3	191
+28	CW RC	Over 16	1st	4th	1st	2nd	4th	1st	11	936	3	1	167
+29	XxNoBossJustHacksxX	Over 16	3rd	1st	2nd	4th	1st	2nd	11	929	2	2	172
+30	CityUHK A		3rd	1st	3rd	1st	3rd	2nd	11	929	2	1	190
+31	Mr Hobo		2nd	1st	1st	4th	1st	4th	11	927	3	1	203
+32	LOZO JAYJAY	Over 16	2nd	2nd	3rd	1st	1st	4th	11	926	2	2	184
+33	Enemies to partners		1st	4th	2nd	2nd	2nd	2nd	11	925	1	4	182
+34	LOZO - Wait Please No	Under 16	3rd	2nd	2nd	2nd	3rd	1st	11	925	1	3	169
+35	XxNoHacksJustBossxX	Over 16	3rd	2nd	1st	4th	1st	2nd	11	924	2	2	174
+36	Madam Chair, the Global Poor	Over 16	4th	2nd	1st	1st	4th	1st	11	923	3	1	174
+37=	PLKC A	Over 16	2nd	2nd	1st	4th	3rd	1st	11	921	2	2	184
+37=	Everlasting Passion		1st	2nd	3rd	2nd	4th	1st	11	921	2	2	184
+39	CW JB	Under 16	1st	4th	2nd	2nd	1st	3rd	11	920	2	2	172
+40	Blue Sky Kindergarten	Over 16	3rd	4th	1st	1st	2nd	2nd	11	919	2	2	166
+41	This is a wug		2nd	3rd	1st	3rd	1st	3rd	11	917	2	1	162
+42	Chocolate taco	Under 16	2nd	2nd	1st	4th	2nd	2nd	11	917	1	4	167
+43	Oriental Alchemists		3rd	1st	4th	1st	1st	3rd	11	911	3	0	165
+44	DKU are you sober?		3rd	3rd	1st	4th	1st	1st	11	908	3	0	143
+45	CW LL	Over 16	1st	2nd	1st	4th	3rd	3rd	10	946	2	1	212
+46	CW JH	Over 16	1st	3rd	2nd	1st	3rd	4th	10	935	2	1	189
+47	We don’t have a 1st speaker	Over 16	4th	2nd	1st	3rd	1st	3rd	10	932	2	1	167
+48	CW JI	Under 16	1st	2nd	2nd	3rd	2nd	4th	10	932	1	3	198
+49	CW MG	Over 16	1st	1st	3rd	3rd	3rd	3rd	10	931	2	0	208
+50	strawberry	Under 16	1st	2nd	2nd	2nd	3rd	4th	10	930	1	3	187
+51=	CW AC	Over 16	3rd	1st	1st	3rd	2nd	4th	10	928	2	1	187
+51=	CW TP	Under 16	1st	2nd	4th	3rd	3rd	1st	10	928	2	1	164
+53	Name Pending（Please Hold）		2nd	1st	2nd	3rd	2nd	4th	10	927	1	3	180
+54	CW ME	Over 16	2nd	1st	3rd	3rd	3rd	2nd	10	927	1	2	178
+55	very mindful, very demure	Over 16	2nd	1st	2nd	4th	4th	1st	10	916	2	2	176
+56	Two unprofessional dancers		4th	3rd	2nd	3rd	1st	1st	10	914	2	1	137
+57	CW NK	Under 16	3rd	3rd	2nd	2nd	2nd	2nd	10	914	0	4	155
+58	VADP HDPA	Under 14	3rd	2nd	2nd	3rd	3rd	1st	10	913	1	2	140
+59=	DKU Chipakam		2nd	3rd	2nd	4th	1st	2nd	10	912	1	3	182
+59=	RSG Silver	Under 16	2nd	2nd	4th	1st	3rd	2nd	10	912	1	3	162
+61	Bluestone		2nd	2nd	4th	1st	2nd	3rd	10	911	1	3	165
+62	CW LJ	Under 16	3rd	3rd	1st	3rd	1st	3rd	10	910	2	0	174
+63	Jellycat lovers		2nd	3rd	3rd	1st	3rd	2nd	10	909	1	2	168
+64	Swing 250	Under 16	4th	2nd	2nd	3rd	2nd	1st	10	906	1	3	148
+65	Nova Basketboy		2nd	3rd	3rd	2nd	2nd	2nd	10	904	0	4	164
+66	Tung tung sahur	Under 16	3rd	2nd	1st	3rd	4th	1st	10	893	2	1	161
+67	CW SC	Over 16	2nd	2nd	3rd	2nd	4th	2nd	9	926	0	4	192
+68	Nova Composites 50% of this team	Over 16	3rd	1st	3rd	1st	3rd	4th	9	923	2	0	184
+69	Iphone SE	Under 16	4th	1st	1st	1st	4th	4th	9	921	3	0	167
+70	Tung-Oh Go Away!	Under 16	1st	3rd	2nd	4th	1st	4th	9	920	2	1	171
+71	GDP 1	Under 16	2nd	1st	4th	4th	2nd	2nd	9	913	1	3	170
+72	CW JR	Over 16	1st	4th	2nd	3rd	2nd	3rd	9	913	1	2	161
+73	Starberry	Over 16	1st	2nd	3rd	4th	2nd	3rd	9	912	1	2	169
+74	Exons	Over 16	2nd	4th	2nd	1st	4th	2nd	9	911	1	3	163
+75	Hallabong 2	Under 14	1st	3rd	2nd	2nd	4th	3rd	9	911	1	2	180
+76	VADP Double2Tam	Under 14	4th	2nd	2nd	4th	2nd	1st	9	908	1	3	132
+77	VADP LN	Under 16	2nd	4th	2nd	1st	3rd	3rd	9	908	1	2	157
+78=	CW EK	Under 16	4th	1st	1st	4th	2nd	3rd	9	907	2	1	163
+78=	CW MO	Over 16	1st	3rd	4th	2nd	1st	4th	9	907	2	1	166
+80	McFlurry	Under 16	4th	4th	1st	1st	4th	1st	9	906	3	0	142
+81	November Rain		3rd	4th	1st	3rd	2nd	2nd	9	906	1	2	152
+82=	SUFE C		2nd	3rd	4th	2nd	1st	3rd	9	902	1	2	161
+82=	JH	Under 16	4th	2nd	3rd	2nd	3rd	1st	9	902	1	2	148
+84	DKU Orbis linguam		3rd	2nd	2nd	4th	3rd	1st	9	900	1	2	148
+85	I Killed My Duolingo	Under 16	3rd	3rd	4th	1st	2nd	2nd	9	898	1	2	137
+86	PLKC B	Over 16	2nd	4th	3rd	4th	1st	1st	9	896	2	1	129
+87	One moment	Under 14	1st	1st	4th	4th	3rd	3rd	8	922	2	0	167
+88	MUST A		3rd	1st	1st	4th	3rd	4th	8	917	2	0	170
+89	Silver Fainted		2nd	3rd	2nd	1st	4th	4th	8	915	1	2	180
+90	RSG Red	Under 16	3rd	1st	3rd	3rd	4th	2nd	8	913	1	1	165
+91	LOZO - I’ll ask Charlotte	Over 16	1st	3rd	4th	2nd	3rd	3rd	8	910	1	1	179
+92	Time is ticking！！！	Under 16	3rd	3rd	2nd	2nd	3rd	3rd	8	910	0	2	145
+93	Motion Sickness	Under 16	3rd	1st	4th	2nd	2nd	4th	8	908	1	2	166
+94	Patina		1st	3rd	4th	3rd	1st	4th	8	907	2	0	171
+95	We Don&#x27;t Like Snares	Under 16	1st	4th	3rd	3rd	2nd	3rd	8	907	1	1	171
+96	Autumn Girls	Under 16	3rd	2nd	2nd	4th	2nd	3rd	8	907	0	3	152
+97	SUFE B		2nd	2nd	3rd	4th	1st	4th	8	906	1	2	155
+98	MUST B		4th	3rd	3rd	1st	4th	1st	8	903	2	0	131
+99	Nova Shrimp Tempura	Under 16	4th	2nd	3rd	1st	4th	2nd	8	901	1	2	145
+100	Better Up！！！		2nd	4th	3rd	2nd	1st	4th	8	900	1	2	153
+101	LOZO - Too busy to reply when Coach	Under 16	3rd	4th	4th	1st	3rd	1st	8	899	2	0	127
+102	Nova 4AM	Over 16	4th	1st	4th	2nd	3rd	2nd	8	897	1	2	137
+103	LOZO - Trying to remember what we l	Under 16	4th	4th	1st	3rd	3rd	1st	8	893	2	0	125
+104	Nova A Leg Splitting Frog	Under 14	4th	4th	3rd	1st	2nd	2nd	8	891	1	2	123
+105	Big babies	Under 14	3rd	1st	4th	3rd	3rd	2nd	8	888	1	1	152
+106	RSG Diamond	Under 14	4th	3rd	1st	3rd	3rd	2nd	8	883	1	1	126
+107	Cutsies Fruties		4th	2nd	—	2nd	3rd	1st	8	755	1	2	101
+108	Hallabong 1	Under 16	4th	1st	3rd	1st	4th	4th	7	912	2	0	170
+109	B&amp;I	Under 16	3rd	2nd	3rd	2nd	3rd	4th	7	909	0	2	161
+110	DKU Waiguo Girls		3rd	2nd	3rd	4th	1st	4th	7	907	1	1	149
+111	RSG Emerald	Under 14	2nd	4th	2nd	4th	1st	4th	7	905	1	2	168
+112	Tough Love		3rd	3rd	1st	4th	4th	2nd	7	903	1	1	154
+113	Whatever	Under 16	1st	4th	3rd	2nd	4th	3rd	7	900	1	1	152
+114	Ethan Gao	Under 16	3rd	1st	4th	4th	1st	4th	7	899	2	0	156
+115	CW LW	Under 16	3rd	3rd	4th	2nd	4th	1st	7	899	1	1	127
+116	Cocacola	Under 14	2nd	4th	4th	2nd	1st	4th	7	898	1	2	136
+117	ILoVetEamChina	Under 16	2nd	3rd	4th	3rd	2nd	3rd	7	895	0	2	157
+118	Nova Calamari	Under 14	1st	4th	3rd	4th	2nd	3rd	7	892	1	1	156
+119	Big Macs	Under 16	3rd	3rd	4th	3rd	1st	3rd	7	892	1	0	136
+120	Love and Kindness to Humanity	Under 16	2nd	3rd	4th	1st	4th	3rd	7	891	1	1	156
+121	Lex Ultima		4th	4th	4th	2nd	2nd	1st	7	890	1	2	108
+122	Lawful Troublemakers		3rd	4th	2nd	4th	2nd	2nd	7	890	0	3	133
+123	The Underdogs	Under 16	2nd	3rd	3rd	3rd	4th	2nd	7	890	0	2	149
+124	Mocha Chocolate	Under 16	4th	1st	3rd	4th	2nd	3rd	7	888	1	1	129
+125	CW EM	Over 16	3rd	4th	2nd	2nd	4th	2nd	7	888	0	3	157
+126	Talk That Sheet	Under 14	2nd	4th	3rd	3rd	4th	2nd	6	904	0	2	151
+127	Two Little Rizzlers	Under 16	4th	1st	4th	1st	4th	4th	6	900	2	0	147
+128	Call It	Under 16	1st	4th	4th	2nd	4th	3rd	6	895	1	1	153
+129	U 16	Under 16	3rd	4th	3rd	4th	1st	3rd	6	894	1	0	119
+130	LnR	Under 14	3rd	4th	1st	3rd	3rd	4th	6	892	1	0	133
+131	SUFE Encounter		4th	3rd	2nd	4th	3rd	2nd	6	892	0	2	125
+132	DKU Deep Fried Oreos		2nd	4th	4th	3rd	1st	4th	6	890	1	1	137
+133	FDU A		4th	2nd	1st	3rd	4th	4th	6	888	1	1	156
+134	Agile Minds	Under 14	3rd	4th	3rd	4th	3rd	1st	6	886	1	0	111
+135	MUST C		4th	3rd	4th	1st	3rd	3rd	6	882	1	0	130
+136	MUST D		3rd	2nd	4th	3rd	4th	3rd	5	898	0	1	135
+137	Eighteen		4th	4th	2nd	4th	4th	1st	5	893	1	1	104
+138=	shella	Under 14	4th	3rd	4th	3rd	1st	4th	5	891	1	0	144
+138=	DeepSick	Under 14	4th	3rd	1st	4th	3rd	4th	5	891	1	0	130
+140	Abnormal		2nd	4th	3rd	4th	3rd	3rd	5	891	0	1	123
+141	DKUAE		3rd	4th	3rd	3rd	2nd	4th	5	887	0	1	125
+142	GMUK C		4th	4th	2nd	2nd	4th	3rd	5	886	0	2	125
+143	GMUK A		4th	4th	2nd	1st	4th	4th	5	881	1	1	136
+144=	Gambetto		4th	3rd	4th	4th	2nd	2nd	5	879	0	2	119
+144=	Charlie Bucket	Under 14	4th	3rd	4th	2nd	2nd	4th	5	879	0	2	115
+146	GDP 2	Under 14	3rd	3rd	4th	3rd	3rd	4th	4	884	0	0	129
+147	Nova Cannot Eat Wine	Under 16	4th	3rd	4th	1st	4th	4th	4	883	1	0	127
+148	Titan	Under 14	3rd	2nd	4th	4th	4th	3rd	4	879	0	1	142
+149	GMUK B		4th	4th	3rd	3rd	4th	2nd	4	876	0	1	120
+150	LOZO IDK	Under 14	4th	2nd	3rd	4th	4th	4th	3	892	0	1	112
+151	Swing B		—	—	4th	4th	3rd	4th	1	565	0	0	69
+152	Swing A		—	—	4th	4th	4th	3rd	1	541	0	0	58
+153	Hdkwodndi		4th	4th	3rd	—	—	—	1	440	0	0	73
+154	Socratic Sparks		4th	4th	—	—	—	—	0	301	0	0	48
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	R6	Total	Stdev	Avg
+1	Conna Leslie-Keefe	Open	Team Australia	79	82	83	82	80	82	488	1.37	81.33
+2	Lachie Doyle	Open	Team Australia	79	82	83	81	80	81	486	1.29	81.00
+3	Eze Nwakuba	Open	Shanghai Oreo	78	80	80	80	80	82	480	1.15	80.00
+4	Andrews Terku	Open	Team Africa	79	79	81	80	81	79	479	0.90	79.83
+5	Ricky Jin	Open	We&#x27;re not invited	77	81	80	81	80	79	478	1.37	79.67
+6	Kyrstal Wang	Over 16	CW KH	80	82	79	81	79	77	478	1.60	79.67
+7	Erasmus Segbefia	Open	Team Africa	79	79	80	79	81	79	477	0.76	79.50
+8	Diggory Waddle	Open	Shanghai Oreo	78	78	79	80	81	80	476	1.11	79.33
+9	Anders Cairns Woodruff	Open	Mchua A	77	81	80	80	79	79	476	1.25	79.33
+10	Stellar Zhang	Open	Mchua A	78	80	79	81	79	78	475	1.07	79.17
+11	Vincent Ying	Over 16	CW BV	79	78	77	83	79	79	475	1.86	79.17
+12	Bo Xin Zhao	Over 16	CW BV	79	79	77	83	78	79	475	1.86	79.17
+13	Tobi	Open	Nova MT	78	76	79	80	79	82	474	1.83	79.00
+14	Junbeom Lee	Open	Xiao Bai	79	78	78	80	79	79	473	0.69	78.83
+15	Lilian Song	Over 16	CW LL	79	78	80	78	78	80	473	0.90	78.83
+16=	Jaedong Jeong	Open	Xiao Bai	79	77	79	80	78	80	473	1.07	78.83
+16=	Daisy Jin	Open	We&#x27;re not invited	77	80	79	80	79	78	473	1.07	78.83
+18	Leah Del Fierro	Over 16	CW LL	80	78	80	77	78	80	473	1.21	78.83
+19	Thiva	Open	RSG Sapphire	78	78	79	77	80	81	473	1.34	78.83
+20	Hosei Kishida	Over 16	CW KH	77	80	78	80	79	77	471	1.26	78.50
+21	Koki Kishida	Under 16	CW CK	77	79	77	81	78	79	471	1.38	78.50
+22	Ruisi He	Over 16	CW RC	78	78	79	79	77	79	470	0.75	78.33
+23	Carol Xu	Open	Carelle	78	77	76	78	82	79	470	1.89	78.33
+24	Brandon Ma	Over 16	CW AB	79	73	81	79	76	82	470	3.04	78.33
+25=	Sophia Xie Gong	Over 16	CW CS	79	77	78	79	78	78	469	0.69	78.17
+25=	Albert Zhang	Over 16	CW AE	78	78	77	79	79	78	469	0.69	78.17
+27	Caitlin Ma	Under 14	CW CK	76	78	77	80	78	80	469	1.46	78.17
+28	Arunwan Areeanchuleekorn（Ping)	Over 16	We don’t have a 1st speaker	77	78	78	76	81	79	469	1.57	78.17
+29	Jaxon Xie	Under 16	CW JH	78	76	80	81	77	77	469	1.77	78.17
+30	Tumen-Amgalan Tumentsogt	Open	CityUHK A	76	79	76	78	78	82	469	2.03	78.17
+31	Jasmine Gao	Under 16	CW JI	79	76	79	78	79	77	468	1.15	78.00
+32	Kit Pong Moses Lai	Over 16	Mmmmm, K	74	78	80	78	78	80	468	2.00	78.00
+33	Alex Wang	Over 16	CW AI	80	79	77	76	75	81	468	2.16	78.00
+34	Andrew Mao	Open	Mr Hobo	78	80	81	75	79	75	468	2.31	78.00
+35	Chingwei Zhou	Over 16	CW CS	78	78	78	78	78	77	467	0.37	77.83
+36	Jasmine Ziao Chen	Under 16	strawberry	78	77	77	79	78	78	467	0.69	77.83
+37	Teresa Chen	Over 16	CW TG	77	79	78	79	76	78	467	1.07	77.83
+38	Grace Chen	Over 16	CW TG	77	79	78	79	76	78	467	1.07	77.83
+39	Ida Joung	Over 16	CW AI	78	79	77	77	75	81	467	1.86	77.83
+40	Kaikai Wu	Over 16	Mmmmm, K	74	78	80	78	78	79	467	1.86	77.83
+41	Smart Lee	Open	Smart is just an Adjective to descr	74	79	79	78	76	81	467	2.27	77.83
+42	Arthur Qu	Over 16	CW AB	79	72	80	79	75	82	467	3.34	77.83
+43=	Gina Hu	Over 16	CW MG	78	78	78	79	76	77	466	0.94	77.67
+43=	Ethan Rana	Under 16	XxNoBossJustHacksxX	76	78	78	77	79	78	466	0.94	77.67
+45	Cici Chen	Under 16	CW RC	76	76	79	78	78	79	466	1.25	77.67
+46	Haesol Park	Over 16	CW JH	78	76	80	79	77	76	466	1.49	77.67
+47	Cong Cong	Under 16	CW AC	77	78	78	78	81	74	466	2.05	77.67
+48	Antonio Wei	Open	Smart is just an Adjective to descr	73	79	78	79	76	81	466	2.56	77.67
+49=	Martina Wu	Over 16	CW MG	78	79	77	78	76	77	465	0.96	77.50
+49=	Piers Ko	Under 16	CW TP	79	78	76	77	77	78	465	0.96	77.50
+49=	Daniel Qiyang Huang	Open	SUFE A	77	77	78	78	79	76	465	0.96	77.50
+52	JOHNNY JIANG	Over 16	LOZO JAYJAY	77	77	77	77	80	77	465	1.12	77.50
+53	Nina Diwen Zeng	Open	Name Pending（Please Hold）	77	77	79	79	78	75	465	1.38	77.50
+54	Yifu Xing	Over 16	CW YM	75	78	78	79	76	79	465	1.50	77.50
+55	Elle Tang	Open	Carelle	76	78	76	77	81	77	465	1.71	77.50
+56	Wendy Lian连佳怡	Open	Enemies to partners	77	75	78	77	77	81	465	1.80	77.50
+57	Ivy Youqi Yu	Open	Charli XCX? We are Careless XXX	79	71	77	79	80	79	465	3.04	77.50
+58	Eric Chen	Under 16	CW AE	77	77	78	77	78	77	464	0.47	77.33
+59=	Erica Li	Over 16	CW ME	78	78	76	78	76	78	464	0.94	77.33
+59=	Isabella Zhu	Under 14	CW JI	77	76	79	77	78	77	464	0.94	77.33
+61	Carl Fang	Over 16	CW SC	76	79	78	78	75	78	464	1.37	77.33
+62	Owen Wu	Over 16	XxNoHacksJustBossxX	77	78	75	76	78	80	464	1.60	77.33
+63	Kevin Sun	Under 16	Nova Composites 50% of this team	79	79	78	79	76	73	464	2.21	77.33
+64	Tony Shu	Over 16	Mario flower	75	80	75	79	80	75	464	2.36	77.33
+65	Cyrus Sze Long Leung	Under 16	strawberry	78	77	76	78	77	77	463	0.69	77.17
+66	Emi Ruijs	Under 16	guava	78	77	78	76	76	78	463	0.90	77.17
+67=	Alicia Rui Jia Zou	Over 16	Capstone AJ	79	77	76	78	77	76	463	1.07	77.17
+67=	Jeffrey Shen	Over 16	Capstone AJ	78	77	78	78	77	75	463	1.07	77.17
+67=	ELISA ZHANG	Under 16	LOZO - Wait Please No	77	77	78	75	78	78	463	1.07	77.17
+67=	Lindon Shen	Over 16	XxNoBossJustHacksxX	76	77	76	77	79	78	463	1.07	77.17
+71	Theodore Wang	Under 16	CW TP	79	78	75	77	78	76	463	1.34	77.17
+72	Phetkitt Chor. Akachai (Pippo)	Over 16	We don’t have a 1st speaker	75	78	78	75	78	79	463	1.57	77.17
+73	Vivian Wang	Open	Everlasting Passion	78	80	75	78	76	76	463	1.67	77.17
+74	Mimi Jiang	Over 16	CW YM	75	76	77	80	76	79	463	1.77	77.17
+75=	Marcus Lu	Over 16	CW ME	79	78	76	78	73	79	463	2.11	77.17
+75=	Adam Pei	Over 16	Mario flower	74	80	75	78	79	77	463	2.11	77.17
+77	Emma Song	Under 16	LOZO - Wait Please No	76	77	77	77	77	78	462	0.58	77.00
+78	Harith Danial	Open	Nova Basketboy	78	78	76	76	77	77	462	0.82	77.00
+79	Ta Huy Hieu	Open	Silver Fainted	77	76	77	79	77	76	462	1.00	77.00
+80	Bobby Zhi Liu	Over 16	Madam Chair, the Global Poor	75	76	78	78	77	78	462	1.15	77.00
+81=	Sophia Wu	Over 16	CW SC	76	79	78	77	75	77	462	1.29	77.00
+81=	Ziyu Yang	Open	Name Pending（Please Hold）	76	77	79	78	77	75	462	1.29	77.00
+83	Ithuriel Shen	Open	Nova MT	77	74	77	77	78	79	462	1.53	77.00
+84	Ariel Lu	Over 16	CW AC	76	79	77	78	78	74	462	1.63	77.00
+85	Donny Dongni Cao	Over 16	Madam Chair, the Global Poor	76	77	77	77	77	77	461	0.37	76.83
+86	Joey Yi Jiang	Under 16	CW JB	78	76	78	77	76	76	461	0.90	76.83
+87	Cynthia Yu	Under 14	One moment	78	77	77	77	75	77	461	0.90	76.83
+88=	Athena Wu	Under 14	One moment	78	77	78	76	75	77	461	1.07	76.83
+88=	Fuqin Lian	Over 16	Blue Sky Kindergarten	78	75	77	78	77	76	461	1.07	76.83
+88=	Zhong Jun Zhe	Over 16	PLKC A	77	77	78	76	75	78	461	1.07	76.83
+88=	Jerry Chen	Under 16	RSG Sapphire	76	76	76	77	77	79	461	1.07	76.83
+92	Philippa Yutong Guo	Open	SUFE A	77	76	78	79	77	74	461	1.57	76.83
+93	JOSIE ZHAO	Over 16	LOZO JAYJAY	78	76	75	78	79	75	461	1.57	76.83
+94	Yeonseo Kim	Under 16	Iphone SE	75	79	78	77	74	78	461	1.77	76.83
+95	Crystal Liao	Over 16	Schrodingers arguments	79	73	76	75	77	81	461	2.61	76.83
+96	Wong Kwan Yin Mendoza	Open	CityUHK A	76	76	76	77	77	78	460	0.75	76.67
+97	Ye Zixi	Open	This is a wug	75	76	77	77	77	78	460	0.94	76.67
+98	Liang Shuran	Over 16	PLKC A	76	76	78	77	75	78	460	1.11	76.67
+99=	Sakolphat Iamsamer	Under 16	Tung-Oh Go Away!	75	78	77	75	77	78	460	1.25	76.67
+99=	Bella Xinying Shen	Under 16	Chocolate taco	77	75	78	77	75	78	460	1.25	76.67
+101	Ashita Chandraprabha	Under 16	Tung-Oh Go Away!	75	78	77	75	76	79	460	1.49	76.67
+102	Mengjia Chen	Open	Two unprofessional dancers	75	78	76	75	79	77	460	1.49	76.67
+103	Jake Ip	Under 16	Iphone SE	75	78	78	78	74	77	460	1.60	76.67
+104=	Archie Wang Sizhe	Open	Enemies to partners	77	74	77	77	75	80	460	1.89	76.67
+104=	James Yin	Over 16	XxNoHacksJustBossxX	77	77	74	75	77	80	460	1.89	76.67
+106=	Nemo Cai	Under 16	CW NK	77	76	76	75	77	78	459	0.96	76.50
+106=	Ethel Yuxin Song	Open	MUST A	76	78	77	77	76	75	459	0.96	76.50
+106=	Eden Li	Over 16	very mindful, very demure	76	77	76	77	75	78	459	0.96	76.50
+109	Bonnie Lezhi Liu	Under 16	CW JB	77	76	79	76	75	76	459	1.26	76.50
+110	Lisa Tang	Over 16	Nova Composites 50% of this team	77	77	77	78	77	73	459	1.61	76.50
+111=	Muhammad Ibrahim Ali Shah	Open	DKU Chipakam	77	78	73	77	78	76	459	1.71	76.50
+111=	Chun Hei Li	Open	Mr Hobo	76	78	77	75	79	74	459	1.71	76.50
+113	Christa Zhu	Under 14	RSG Red	77	76	76	76	77	76	458	0.47	76.33
+114	Joy Xie	Under 16	GDP 1	75	77	76	77	77	76	458	0.75	76.33
+115	Lee Ming Zhou	Over 16	Exons	76	76	76	76	76	78	458	0.75	76.33
+116=	Emma Demopoulos	Under 16	guava	75	76	77	76	76	78	458	0.94	76.33
+116=	Wendy Zhang	Open	Everlasting Passion	76	78	75	77	76	76	458	0.94	76.33
+116=	Chenglin Yu	Over 16	Blue Sky Kindergarten	78	75	77	76	76	76	458	0.94	76.33
+119	Oliver Yang Zhou	Open	MUST A	75	77	78	77	76	75	458	1.11	76.33
+120=	Sara Saiprasad	Under 16	RSG Gold	71	78	76	78	78	77	458	2.49	76.33
+120=	Elsa Guo	Over 16	Schrodingers arguments	79	73	76	74	76	80	458	2.49	76.33
+122	Gisele Bao	Under 14	Time is ticking！！！	78	75	77	76	76	75	457	1.07	76.17
+123=	Swan Zhang	Over 16	very mindful, very demure	77	77	76	76	74	77	457	1.07	76.17
+123=	Zhang Luning	Open	This is a wug	76	74	76	77	77	77	457	1.07	76.17
+123=	Bella Lent	Under 16	RSG Silver	78	76	75	77	75	76	457	1.07	76.17
+126=	Phan Anh	Under 14	VADP HDPA	75	77	75	77	75	78	457	1.21	76.17
+126=	Jin Han	Under 14	Hallabong 2	77	75	77	77	74	77	457	1.21	76.17
+128=	Gem Gemin Liu	Open	Oriental Alchemists	76	77	75	78	77	74	457	1.34	76.17
+128=	Monica ziyue zhang	Under 16	Chocolate taco	77	75	77	76	74	78	457	1.34	76.17
+130	Ryan Zhang	Over 16	CW JR	76	77	75	74	79	76	457	1.57	76.17
+131	DAVID JIANG	Over 16	LOZO - I’ll ask Charlotte	78	76	73	78	77	75	457	1.77	76.17
+132=	Maciej Matuszczak	Open	DKU are you sober?	75	76	77	75	76	77	456	0.82	76.00
+132=	Milly	Open	Bluestone	75	76	75	77	76	77	456	0.82	76.00
+134	Emma Xinyi Ying	Open	Jellycat lovers	77	76	76	74	76	77	456	1.00	76.00
+135=	Matias Li	Over 16	CW MO	78	75	75	75	77	76	456	1.15	76.00
+135=	Bowen Brian Deng	Under 16	B&amp;I	76	78	74	76	76	76	456	1.15	76.00
+135=	Hoang Duong	Under 14	VADP HDPA	75	77	74	77	76	77	456	1.15	76.00
+135=	Devy Han Lecheng	Over 16	Starberry	76	76	76	74	78	76	456	1.15	76.00
+139=	James Li	Over 16	CW JR	76	76	77	74	78	75	456	1.29	76.00
+139=	Kaelyn Yu	Under 16	CW EK	76	74	78	75	76	77	456	1.29	76.00
+139=	Jackson Wang	Over 16	Starberry	77	76	75	74	78	76	456	1.29	76.00
+142	Eric Yiming Chen	Under 16	Motion Sickness	74	78	76	75	77	76	456	1.29	76.00
+143	Lewis Wu	Under 16	CW LJ	75	74	78	77	77	75	456	1.41	76.00
+144	Patricia Eileen	Open	Patina	78	76	77	74	77	74	456	1.53	76.00
+145	John Jae Mcilroy	Under 16	Hallabong 1	75	79	77	76	73	76	456	1.83	76.00
+146	Christina Zhang	Under 16	RSG Gold	71	77	76	77	78	77	456	2.31	76.00
+147=	Grace Mu	Under 16	RSG Silver	77	75	75	76	76	76	455	0.69	75.83
+147=	Cindy You	Under 16	RSG Red	76	75	76	76	75	77	455	0.69	75.83
+149	Jerry Hu	Under 16	GDP 1	74	77	76	76	76	76	455	0.90	75.83
+150=	Kevin Hu	Under 16	CW NK	75	75	75	76	77	77	455	0.90	75.83
+150=	Lauren Liu Yang Qian	Under 14	Talk That Sheet	77	76	76	76	74	76	455	0.90	75.83
+152=	Sarah Choi	Under 16	Autumn Girls	76	77	77	75	74	76	455	1.07	75.83
+152=	Vu Khai Nguyen	Under 14	VADP LN	76	74	77	77	75	76	455	1.07	75.83
+154=	Dora Wang	Under 16	Swing 250	76	76	76	74	75	78	455	1.21	75.83
+154=	Elsa Lu	Under 14	Bluestone	77	75	74	77	75	77	455	1.21	75.83
+156	Nguyen Thanh Tam (Alice)	Under 14	VADP Double2Tam	74	77	78	74	76	76	455	1.46	75.83
+157=	Iris Yip	Open	Oriental Alchemists	76	76	75	76	76	75	454	0.47	75.67
+157=	Abraham John Mo	Open	November Rain	76	75	76	75	76	76	454	0.47	75.67
+159=	Hana Bostikova	Open	DKU Waiguo Girls	74	77	76	75	76	76	454	0.94	75.67
+159=	Tony Kim	Under 14	Hallabong 2	76	75	76	77	74	76	454	0.94	75.67
+159=	Chen Xin Ru	Open	Two unprofessional dancers	76	76	75	74	77	76	454	0.94	75.67
+162	Richelle Xiaoyang Liu	Open	MUST B	77	75	74	76	75	77	454	1.11	75.67
+163	Jared Cao	Under 16	CW LJ	74	75	78	75	77	75	454	1.37	75.67
+164	Adrian Wong	Under 16	McFlurry	75	73	76	77	75	78	454	1.60	75.67
+165	Hanna Zhang	Under 16	We Don&#x27;t Like Snares	78	76	77	73	73	77	454	1.97	75.67
+166	Alex Xu	Under 14	RSG Emerald	79	74	77	72	78	74	454	2.49	75.67
+167=	Saw Wern Xin	Under 16	Exons	77	75	75	75	75	76	453	0.76	75.50
+167=	Coco Wang-Xinyue Zhang	Open	DKU Chipakam	76	76	74	76	76	75	453	0.76	75.50
+169	Valeriya Alexeykina	Open	DKU Waiguo Girls	74	77	75	75	77	75	453	1.12	75.50
+170=	Bui Phuong Linh	Under 16	VADP LN	76	75	76	77	73	76	453	1.26	75.50
+170=	Nguyen Hien Tam (Avery)	Under 14	VADP Double2Tam	76	76	77	73	75	76	453	1.26	75.50
+170=	Connie Junhan Zhang	Open	Jellycat lovers	75	76	75	74	75	78	453	1.26	75.50
+173=	Justin Yang	Under 16	JH	73	75	75	77	76	77	453	1.38	75.50
+173=	Kevin Sun	Open	SUFE B	75	78	76	74	76	74	453	1.38	75.50
+175=	Ziyun Iris Ma	Under 16	B&amp;I	75	78	77	75	75	73	453	1.61	75.50
+175=	Nguyen Thi Ha Linh	Over 16	Silver Fainted	78	75	75	77	73	75	453	1.61	75.50
+177	Celina Li	Under 16	Time is ticking！！！	76	72	78	76	76	75	453	1.80	75.50
+178=	Alice Wan	Under 14	We Don&#x27;t Like Snares	78	76	77	73	73	76	453	1.89	75.50
+178=	Li Miao	Open	Tough Love	76	75	78	75	72	77	453	1.89	75.50
+180	CHARLOTTE CHU	Over 16	LOZO - I’ll ask Charlotte	77	74	71	78	77	76	453	2.36	75.50
+181=	Eason Ziyi Wang	Under 16	Whatever	75	75	76	76	74	76	452	0.75	75.33
+181=	Anne Yiwen Chen	Open	November Rain	76	75	76	74	75	76	452	0.75	75.33
+183	Patrycja Ossowska	Open	DKU are you sober?	74	75	76	75	75	77	452	0.94	75.33
+184	Ethan Yishiang Chen	Under 16	Motion Sickness	74	77	75	74	76	76	452	1.11	75.33
+185	Angela QIAN	Under 16	Autumn Girls	75	74	77	75	74	77	452	1.25	75.33
+186	Valerie Shek	Under 16	McFlurry	73	74	76	76	76	77	452	1.37	75.33
+187	Iana Wang	Open	SUFE C	76	78	73	76	74	75	452	1.60	75.33
+188	Flora Wang	Under 14	I Killed My Duolingo	74	77	74	76	73	78	452	1.80	75.33
+189	Yehlii Jiayi Bao	Open	Better Up！！！	76	74	75	76	74	76	451	0.90	75.17
+190=	Oscar Lee	Over 16	CW MO	77	75	75	74	76	74	451	1.07	75.17
+190=	Elina Luo	Under 14	CW EK	75	73	76	75	76	76	451	1.07	75.17
+190=	Eric Liqian Yan	Under 16	Ethan Gao	75	76	75	74	74	77	451	1.07	75.17
+193=	Annie Peng	Under 16	Nova Shrimp Tempura	74	77	75	74	74	77	451	1.34	75.17
+193=	Christina Ye	Under 16	Swing 250	75	76	76	74	73	77	451	1.34	75.17
+195=	Wolfgang Fung	Under 16	CW LW	77	76	75	75	72	76	451	1.57	75.17
+195=	Ashley Song	Over 16	Nova 4AM	73	76	77	74	74	77	451	1.57	75.17
+197	Nathan Briane Nibbs	Open	Patina	78	73	76	74	76	74	451	1.67	75.17
+198	Loka Qiu	Under 14	RSG Emerald	77	75	77	72	76	74	451	1.77	75.17
+199	Annie Chen	Under 14	Cocacola	75	75	74	75	76	75	450	0.58	75.00
+200	Term	Under 14	Two Little Rizzlers	75	76	75	76	75	73	450	1.00	75.00
+201	RICHARD WONG	Under 16	LOZO - Too busy to reply when Coach	74	75	74	75	75	77	450	1.00	75.00
+202=	Lynn Liying Qian	Open	MUST D	76	76	75	76	74	73	450	1.15	75.00
+202=	Iris zhou	Under 16	Nova Shrimp Tempura	74	77	75	74	74	76	450	1.15	75.00
+204=	Alina Peilin Shi	Under 16	Call It	76	75	75	75	72	77	450	1.53	75.00
+204=	Wali Ahmed	Open	DKU Orbis linguam	75	76	77	72	75	75	450	1.53	75.00
+204=	Tung Oh	Under 16	Two Little Rizzlers	75	76	75	77	75	72	450	1.53	75.00
+207	Huang Boyuan	Open	DKU Orbis linguam	75	74	78	72	75	76	450	1.83	75.00
+208	Meredith Wang	Open	Tough Love	76	73	78	75	72	76	450	2.00	75.00
+209	Caroline Wang	Open	SUFE C	75	78	71	77	74	75	450	2.24	75.00
+210=	Luke Zonghan Wu	Open	MUST B	76	75	73	74	75	76	449	1.07	74.83
+210=	Olivia Jia	Under 14	Talk That Sheet	77	75	74	74	74	75	449	1.07	74.83
+210=	BRIAN XIAO	Under 16	LOZO - Too busy to reply when Coach	74	75	74	75	74	77	449	1.07	74.83
+213	Huatao Xue	Under 16	JH	74	73	75	75	75	77	449	1.21	74.83
+214	Tiger Xu	Under 16	Big Macs	74	76	74	75	77	73	449	1.34	74.83
+215	Azalea Yurou Jiang	Open	Better Up！！！	76	74	75	76	72	76	449	1.46	74.83
+216	Cindy Wu	Under 14	Cocacola	74	75	74	74	76	75	448	0.75	74.67
+217=	James Jiayue Chen	Under 16	Ethan Gao	75	76	75	73	74	75	448	0.94	74.67
+217=	Anna Xisha Wang	Open	MUST D	75	76	75	75	74	73	448	0.94	74.67
+217=	Leo Liao Junjie	Open	SUFE Encounter	75	73	75	74	75	76	448	0.94	74.67
+220	Tim Tianwen Yu	Under 16	Whatever	75	73	74	76	74	76	448	1.11	74.67
+221	Yuen Wing Yin	Over 16	PLKC B	76	74	75	72	76	75	448	1.37	74.67
+222	Louis Yin	Under 16	ILoVetEamChina	76	75	77	72	75	73	448	1.70	74.67
+223	Huang Xi Yuan	Over 16	PLKC B	77	74	75	71	75	76	448	1.89	74.67
+224	Kuei Chen	Under 16	LOZO - Trying to remember what we l	76	74	74	74	74	75	447	0.76	74.50
+225	Amanda Li	Under 16	U 16	75	72	75	75	75	75	447	1.12	74.50
+226=	Yingshi Gu	Under 16	ILoVetEamChina	75	75	76	72	75	74	447	1.26	74.50
+226=	Helene Shiqi He	Open	Eighteen	76	72	75	74	75	75	447	1.26	74.50
+228	Conan Chia Cheung Chak	Under 16	Love and Kindness to Humanity	75	75	73	76	72	76	447	1.50	74.50
+229	Orlando Yao	Open	Lawful Troublemakers	74	77	74	72	76	74	447	1.61	74.50
+230	Daniella Huang	Under 14	Nova A Leg Splitting Frog	73	77	72	75	74	76	447	1.71	74.50
+231	Zina Xiong	Under 16	U 16	77	71	75	74	75	75	447	1.80	74.50
+232	Jesse Rothman	Under 16	Tung tung sahur	70	74	76	75	74	78	447	2.43	74.50
+233	Chloe Shou	Under 16	The Underdogs	77	75	76	74	69	76	447	2.63	74.50
+234	Emina Ye	Over 16	CW EM	75	74	75	74	74	74	446	0.47	74.33
+235=	Garvey Wang	Open	Abnormal	76	73	75	74	73	75	446	1.11	74.33
+235=	Rosy Gao	Under 14	LnR	74	73	76	75	73	75	446	1.11	74.33
+237=	Nini Xinyi Lei	Under 14	Agile Minds	76	73	73	74	75	75	446	1.11	74.33
+237=	Roy Yuan	Under 14	LOZO IDK	74	75	76	75	73	73	446	1.11	74.33
+237=	Regina Min	Under 16	LOZO - Trying to remember what we l	76	74	73	73	75	75	446	1.11	74.33
+240=	Lisa Lingxuan Hu	Open	Eighteen	76	72	74	75	75	74	446	1.25	74.33
+240=	Selina Guo	Open	DKUAE	76	74	75	74	75	72	446	1.25	74.33
+240=	Lizzy Kong	Under 14	LnR	76	74	74	73	73	76	446	1.25	74.33
+243	Marco Qin	Over 16	Nova 4AM	72	75	76	74	73	76	446	1.49	74.33
+244	George Hu	Under 14	LOZO IDK	74	75	77	75	72	73	446	1.60	74.33
+245	Jessica Wu	Under 14	Nova Calamari	78	74	73	73	75	73	446	1.80	74.33
+246	Stella Li	Under 14	DeepSick	75	77	75	73	71	75	446	1.89	74.33
+247=	Bella Huang	Under 14	shella	71	75	76	73	77	74	446	1.97	74.33
+247=	Marilyn Jiang	Under 16	I Killed My Duolingo	73	77	74	75	71	76	446	1.97	74.33
+249	Jessy Yan	Under 14	Nova Calamari	78	74	72	73	76	73	446	2.05	74.33
+250	Lele Hu	Under 16	Tung tung sahur	71	73	76	74	74	78	446	2.21	74.33
+251=	Jessie Gui	Under 16	Call It	75	74	74	75	72	75	445	1.07	74.17
+251=	Julianna Zhuo	Open	Abnormal	76	73	74	74	73	75	445	1.07	74.17
+253	Fiona Ruxin Xia	Under 14	Mocha Chocolate	73	76	72	74	75	75	445	1.34	74.17
+254	Jia Luo	Open	Lex Ultima	73	74	72	74	76	76	445	1.46	74.17
+255	Lucas Jacob Chacko	Open	DKU Deep Fried Oreos	76	74	74	75	75	71	445	1.57	74.17
+256	Lauren Nicole Land	Open	DKU Deep Fried Oreos	77	73	74	75	74	72	445	1.57	74.17
+257	Honey Jia	Under 14	DeepSick	75	76	75	73	71	75	445	1.67	74.17
+258	Daegyu Lee	Open	GMUK C	75	74	76	75	70	75	445	1.95	74.17
+259	Laurence Yilin Liu	Open	FDU A	73	73	77	76	75	71	445	2.03	74.17
+260	Shelley Li	Under 14	shella	68	75	76	74	77	75	445	2.91	74.17
+261	Gene Jin	Under 14	Big babies	75	73	74	75	73	74	444	0.82	74.00
+262	Abbigail Lian	Under 14	Big babies	75	75	74	74	72	74	444	1.00	74.00
+263	Cathy Han Runtong	Open	SUFE Encounter	73	72	75	74	75	75	444	1.15	74.00
+264	William Xu	Under 14	Nova A Leg Splitting Frog	73	76	72	75	73	75	444	1.41	74.00
+265	Star Zhou Xichen	Under 16	Love and Kindness to Humanity	74	75	71	76	72	76	444	1.91	74.00
+266	Jason Chen	Under 14	RSG Diamond	74	74	77	76	69	74	444	2.52	74.00
+267=	Lily Chengxi Feng	Under 16	Mocha Chocolate	73	75	72	72	76	75	443	1.57	73.83
+267=	Libor Li	Under 16	Nova Cannot Eat Wine	73	75	71	76	74	74	443	1.57	73.83
+269	Anthea Jiaxin Wang	Open	FDU A	72	73	77	74	75	72	443	1.77	73.83
+270	Nathan Ng	Under 16	Big Macs	73	75	73	74	77	71	443	1.86	73.83
+271	Tina Xu	Under 16	The Underdogs	75	74	76	74	69	75	443	2.27	73.83
+272	Michelle Ngai	Over 16	CW EM	73	74	74	73	74	74	442	0.47	73.67
+273=	Robert Liu	Under 14	GDP 2	75	73	71	75	74	74	442	1.37	73.67
+273=	Evelsa Zhang	Under 14	GDP 2	75	73	71	75	74	74	442	1.37	73.67
+275	Jason Wang	Open	Nova Basketboy	75	76	69	71	75	76	442	2.69	73.67
+276	Kristen Yuxuan Qin	Open	MUST C	75	73	73	74	73	73	441	0.76	73.50
+277=	Lucy Wenxin Peng	Open	MUST C	76	73	74	73	72	73	441	1.26	73.50
+277=	Simon Wei	Open	DKUAE	75	73	74	74	74	71	441	1.26	73.50
+279	Jimin Choi	Open	GMUK A	72	73	73	76	72	75	441	1.50	73.50
+280	Sumin Song	Open	GMUK C	73	74	75	75	70	74	441	1.71	73.50
+281	Emily Sipei Zhang	Open	Gambetto	74	74	72	73	73	74	440	0.75	73.33
+282	Felipe Wu	Under 14	Charlie Bucket	73	74	75	72	74	72	440	1.11	73.33
+283	Yesong Oh	Open	GMUK A	73	73	72	76	72	74	440	1.37	73.33
+284	Alex Tang	Under 14	Titan	74	76	71	73	72	74	440	1.60	73.33
+285=	Lucas Cheng	Under 16	Nova Cannot Eat Wine	71	75	71	76	74	73	440	1.89	73.33
+285=	Tiger Zhihang Li	Under 14	Agile Minds	75	71	71	73	76	74	440	1.89	73.33
+287	Amy Tianying Hou	Open	Gambetto	74	74	72	73	72	74	439	0.90	73.17
+288	Liam Lent	Under 14	Charlie Bucket	73	75	74	71	73	73	439	1.21	73.17
+289	Thomas Chen	Under 14	Titan	74	76	71	73	72	73	439	1.57	73.17
+290	Vera Xu	Under 14	RSG Diamond	73	71	76	76	70	73	439	2.27	73.17
+291=	Seungjoo Lee	Open	GMUK B	74	72	75	70	74	73	438	1.63	73.00
+291=	Seunggu Park	Open	GMUK B	74	72	75	70	74	73	438	1.63	73.00
+293	Ray Yixiao Wang	Open	Charli XCX? We are Careless XXX	—	71	77	78	78	79	383	2.87	76.60
+294	Soohyuk Moon	Under 16	Hallabong 1	—	78	77	76	74	76	381	1.33	76.20
+295	Leo Lind	Open	Cutsies Fruties	75	76	—	76	75	77	379	0.75	75.80
+296	Renee Zhuang	Open	SUFE B	—	78	76	74	75	75	378	1.36	75.60
+297	Lucas Lu	Under 16	CW LW	76	75	—	76	72	76	375	1.55	75.00
+298	Jennifer	Open	Lex Ultima	72	74	—	74	77	76	373	1.74	74.60
+299	Zach Changhao Zhuang	Open	Lawful Troublemakers	72	76	—	72	75	76	371	1.83	74.20
+300	Lea Lind	Open	Cutsies Fruties	74	75	—	75	75	—	299	0.43	74.75
+301	Speaker 1		Swing A	—	—	70	67	63	71	271	3.11	67.75
+302	Olive Yao	Open	Hdkwodndi	75	72	74	—	—	—	221	1.25	73.67
+303	Speaker 2		Swing B	—	—	71	70	—	72	213	0.82	71.00
+304	Speaker 1		Swing B	—	—	70	—	72	70	212	0.94	70.67
+305	Speaker 2		Swing A	—	—	71	66	—	72	209	2.62	69.67
+306	Krysten Yuhan Yao	Open	Socratic Sparks	75	76	—	—	—	—	151	0.50	75.50
+307	Amber Xinyan Xu	Open	Socratic Sparks	74	76	—	—	—	—	150	1.00	75.00
+308	Lucy Xu	Open	Hdkwodndi	75	71	—	—	—	—	146	2.00	73.00
+
+
+team	result	side	adjudicators
+MUST B	4th	Opening Government	Xandy Sophia ArmamentoⒸ
+We Don&#x27;t Like Snares	1st	Opening Opposition	Xandy Sophia ArmamentoⒸ
+Time is ticking！！！	3rd	Closing Government	Xandy Sophia ArmamentoⒸ
+LOZO JAYJAY	2nd	Closing Opposition	Xandy Sophia ArmamentoⒸ
+Mario flower	2nd	Opening Government	NayantaraⒸ
+CW YM	1st	Opening Opposition	NayantaraⒸ
+RSG Gold	4th	Closing Government	NayantaraⒸ
+CW EM	3rd	Closing Opposition	NayantaraⒸ
+Capstone AJ	2nd	Opening Government	Sharun NikeshⒸ
+LOZO - Trying to remember what we l	4th	Opening Opposition	Sharun NikeshⒸ
+CW LL	1st	Closing Government	Sharun NikeshⒸ
+Nova Composites 50% of this team	3rd	Closing Opposition	Sharun NikeshⒸ
+CityUHK A	3rd	Opening Opposition	Park YoungwooⒸ , Vu Duc Hung Allen
+Team Australia	1st	Opening Government	Park YoungwooⒸ , Vu Duc Hung Allen
+Mchua A	2nd	Closing Government	Park YoungwooⒸ , Vu Duc Hung Allen
+JH	4th	Closing Opposition	Park YoungwooⒸ , Vu Duc Hung Allen
+DKU Orbis linguam	3rd	Opening Government	Maeca PansensoyⒸ
+ILoVetEamChina	2nd	Opening Opposition	Maeca PansensoyⒸ
+Nova Shrimp Tempura	4th	Closing Government	Maeca PansensoyⒸ
+Shanghai Oreo	1st	Closing Opposition	Maeca PansensoyⒸ
+Oriental Alchemists	3rd	Opening Government	Judy JIⒸ
+Everlasting Passion	1st	Opening Opposition	Judy JIⒸ
+Two Little Rizzlers	4th	Closing Government	Judy JIⒸ
+DKU Deep Fried Oreos	2nd	Closing Opposition	Judy JIⒸ
+I Killed My Duolingo	3rd	Opening Government	Miro FortunaⒸ
+Cocacola	2nd	Opening Opposition	Miro FortunaⒸ
+Whatever	1st	Closing Government	Miro FortunaⒸ
+Mocha Chocolate	4th	Closing Opposition	Miro FortunaⒸ
+CW LJ	3rd	Opening Government	Prashasti SaxenaⒸ , Ian Qiu
+We&#x27;re not invited	1st	Opening Opposition	Prashasti SaxenaⒸ , Ian Qiu
+Mmmmm, K	4th	Closing Government	Prashasti SaxenaⒸ , Ian Qiu
+CW SC	2nd	Closing Opposition	Prashasti SaxenaⒸ , Ian Qiu
+Abnormal	2nd	Opening Government	Christopher ChuaⒸ
+strawberry	1st	Opening Opposition	Christopher ChuaⒸ
+MUST D	3rd	Closing Government	Christopher ChuaⒸ
+LOZO IDK	4th	Closing Opposition	Christopher ChuaⒸ
+CW CK	1st	Opening Government	Kenji TateⒸ
+Better Up！！！	2nd	Opening Opposition	Kenji TateⒸ
+Cutsies Fruties	4th	Closing Government	Kenji TateⒸ
+Big babies	3rd	Closing Opposition	Kenji TateⒸ
+Madam Chair, the Global Poor	4th	Opening Government	Mezen LababidiⒸ
+Tough Love	3rd	Opening Opposition	Mezen LababidiⒸ
+Nova MT	1st	Closing Government	Mezen LababidiⒸ
+Nova Basketboy	2nd	Closing Opposition	Mezen LababidiⒸ
+GMUK C	4th	Opening Government	Adel Mostaque AhmedⒸ
+Starberry	1st	Opening Opposition	Adel Mostaque AhmedⒸ
+Bluestone	2nd	Closing Government	Adel Mostaque AhmedⒸ
+B&amp;I	3rd	Closing Opposition	Adel Mostaque AhmedⒸ
+Carelle	1st	Opening Government	Kyle Louis RamosⒸ
+GDP 1	2nd	Opening Opposition	Kyle Louis RamosⒸ
+Big Macs	3rd	Closing Government	Kyle Louis RamosⒸ
+GMUK A	4th	Closing Opposition	Kyle Louis RamosⒸ
+CW TG	1st	Opening Government	Asif Mehedi AdiⒸ
+Ethan Gao	3rd	Opening Opposition	Asif Mehedi AdiⒸ
+McFlurry	4th	Closing Government	Asif Mehedi AdiⒸ
+PLKC A	2nd	Closing Opposition	Asif Mehedi AdiⒸ
+Charli XCX? We are Careless XXX	1st	Opening Government	Klaudia MaciejewskaⒸ , Garrett Li
+XxNoBossJustHacksxX	3rd	Opening Opposition	Klaudia MaciejewskaⒸ , Garrett Li
+MUST C	4th	Closing Opposition	Klaudia MaciejewskaⒸ , Garrett Li
+Silver Fainted	2nd	Closing Government	Klaudia MaciejewskaⒸ , Garrett Li
+DKUAE	3rd	Opening Government	Jonathan TuliaoⒸ
+CW RC	1st	Opening Opposition	Jonathan TuliaoⒸ
+Jellycat lovers	2nd	Closing Government	Jonathan TuliaoⒸ
+DeepSick	4th	Closing Opposition	Jonathan TuliaoⒸ
+shella	4th	Opening Government	Jordyn GibsonⒸ
+Xiao Bai	1st	Opening Opposition	Jordyn GibsonⒸ
+Tung tung sahur	3rd	Closing Government	Jordyn GibsonⒸ
+Smart is just an Adjective to descr	2nd	Closing Opposition	Jordyn GibsonⒸ
+November Rain	3rd	Opening Government	Neackle MempinⒸ
+Enemies to partners	1st	Opening Opposition	Neackle MempinⒸ
+DKU Chipakam	2nd	Closing Government	Neackle MempinⒸ
+CW EK	4th	Closing Opposition	Neackle MempinⒸ
+XxNoHacksJustBossxX	3rd	Opening Government	Cj SalayoⒸ
+CW AB	1st	Opening Opposition	Cj SalayoⒸ
+Swing 250	4th	Closing Government	Cj SalayoⒸ
+RSG Emerald	2nd	Closing Opposition	Cj SalayoⒸ
+Tung-Oh Go Away!	1st	Opening Government	Aliyah HerlihyⒸ
+RSG Diamond	4th	Opening Opposition	Aliyah HerlihyⒸ
+Love and Kindness to Humanity	2nd	Closing Government	Aliyah HerlihyⒸ
+Titan	3rd	Closing Opposition	Aliyah HerlihyⒸ
+CW AC	3rd	Opening Government	Francis VendiolaⒸ
+LOZO - I’ll ask Charlotte	1st	Opening Opposition	Francis VendiolaⒸ
+Hallabong 1	4th	Closing Government	Francis VendiolaⒸ
+SUFE A	2nd	Closing Opposition	Francis VendiolaⒸ
+RSG Red	3rd	Opening Government	Kyle GoⒸ
+RSG Sapphire	2nd	Opening Opposition	Kyle GoⒸ
+We don’t have a 1st speaker	4th	Closing Government	Kyle GoⒸ
+CW JI	1st	Closing Opposition	Kyle GoⒸ
+CW NK	3rd	Opening Government	Gabrielle PacañoⒸ
+Mr Hobo	2nd	Opening Opposition	Gabrielle PacañoⒸ
+CW MG	1st	Closing Government	Gabrielle PacañoⒸ
+Two unprofessional dancers	4th	Closing Opposition	Gabrielle PacañoⒸ
+The Underdogs	2nd	Opening Opposition	Daniel Christopher HaducaⒸ
+Agile Minds	3rd	Closing Opposition	Daniel Christopher HaducaⒸ
+Nova Cannot Eat Wine	4th	Opening Government	Daniel Christopher HaducaⒸ
+CW TP	1st	Closing Government	Daniel Christopher HaducaⒸ
+CW JR	1st	Opening Government	Ben BensaliⒸ
+Socratic Sparks	4th	Opening Opposition	Ben BensaliⒸ
+This is a wug	2nd	Closing Government	Ben BensaliⒸ
+LnR	3rd	Closing Opposition	Ben BensaliⒸ
+Iphone SE	4th	Opening Government	Matcha CualⒸ
+Exons	2nd	Closing Opposition	Matcha CualⒸ
+MUST A	3rd	Closing Government	Matcha CualⒸ
+CW JH	1st	Opening Opposition	Matcha CualⒸ
+LOZO - Too busy to reply when Coach	3rd	Opening Government	Jing Yu MaⒸ
+Nova 4AM	4th	Closing Government	Jing Yu MaⒸ
+Name Pending（Please Hold）	2nd	Closing Opposition	Jing Yu MaⒸ
+CW MO	1st	Opening Opposition	Jing Yu MaⒸ
+GDP 2	3rd	Opening Government	KavisshnuⒸ
+PLKC B	2nd	Opening Opposition	KavisshnuⒸ
+Gambetto	4th	Closing Opposition	KavisshnuⒸ
+CW JB	1st	Closing Government	KavisshnuⒸ
+CW KH	2nd	Opening Government	Umar FazlanⒸ
+Blue Sky Kindergarten	3rd	Opening Opposition	Umar FazlanⒸ
+Team Africa	1st	Closing Government	Umar FazlanⒸ
+guava	4th	Closing Opposition	Umar FazlanⒸ
+Nova Calamari	1st	Opening Opposition	Ngô Minh Kiên JackⒸ
+DKU are you sober?	3rd	Opening Government	Ngô Minh Kiên JackⒸ
+RSG Silver	2nd	Closing Government	Ngô Minh Kiên JackⒸ
+GMUK B	4th	Closing Opposition	Ngô Minh Kiên JackⒸ
+Lawful Troublemakers	3rd	Opening Government	Liam OldreyⒸ
+very mindful, very demure	2nd	Closing Government	Liam OldreyⒸ
+FDU A	4th	Closing Opposition	Liam OldreyⒸ
+CW CS	1st	Opening Opposition	Liam OldreyⒸ
+Chocolate taco	2nd	Opening Government	Ken SingsonⒸ
+Eighteen	4th	Opening Opposition	Ken SingsonⒸ
+Patina	1st	Closing Government	Ken SingsonⒸ
+CW LW	3rd	Closing Opposition	Ken SingsonⒸ
+Lex Ultima	4th	Opening Government	Louise WeeⒸ
+Call It	1st	Opening Opposition	Louise WeeⒸ
+SUFE B	2nd	Closing Government	Louise WeeⒸ
+DKU Waiguo Girls	3rd	Closing Opposition	Louise WeeⒸ
+CW AE	2nd	Opening Opposition	Lia TanⒸ
+Hdkwodndi	4th	Opening Government	Lia TanⒸ
+One moment	1st	Closing Government	Lia TanⒸ
+Autumn Girls	3rd	Closing Opposition	Lia TanⒸ
+Charlie Bucket	4th	Opening Opposition	Bea LegaspiⒸ , Alikhan
+Motion Sickness	3rd	Closing Opposition	Bea LegaspiⒸ , Alikhan
+CW BV	1st	Closing Government	Bea LegaspiⒸ , Alikhan
+VADP LN	2nd	Opening Government	Bea LegaspiⒸ , Alikhan
+LOZO - Wait Please No	3rd	Opening Government	Jaed BengzonⒸ
+Schrodingers arguments	1st	Closing Opposition	Jaed BengzonⒸ
+Talk That Sheet	2nd	Opening Opposition	Jaed BengzonⒸ
+VADP Double2Tam	4th	Closing Government	Jaed BengzonⒸ
+SUFE C	2nd	Closing Government	Daniella BarbacenaⒸ
+Hallabong 2	1st	Opening Opposition	Daniella BarbacenaⒸ
+VADP HDPA	3rd	Opening Government	Daniella BarbacenaⒸ
+Nova A Leg Splitting Frog	4th	Closing Opposition	Daniella BarbacenaⒸ
+CW AI	1st	Opening Government	George ChenⒸ
+CW ME	2nd	Closing Government	George ChenⒸ
+U 16	3rd	Closing Opposition	George ChenⒸ
+SUFE Encounter	4th	Opening Opposition	George ChenⒸ
+
+
+team	result	side	adjudicators
+Titan	2nd	Opening Government	Cj SalayoⒸ
+DKU are you sober?	3rd	Opening Opposition	Cj SalayoⒸ
+Oriental Alchemists	1st	Closing Government	Cj SalayoⒸ
+DKUAE	4th	Closing Opposition	Cj SalayoⒸ
+B&amp;I	2nd	Opening Government	Neackle MempinⒸ
+I Killed My Duolingo	3rd	Opening Opposition	Neackle MempinⒸ
+CW AC	1st	Closing Government	Neackle MempinⒸ
+Lawful Troublemakers	4th	Closing Opposition	Neackle MempinⒸ
+CW JH	3rd	Opening Government	Kenji TateⒸ
+Carelle	1st	Opening Opposition	Kenji TateⒸ
+Call It	4th	Closing Government	Kenji TateⒸ
+strawberry	2nd	Closing Opposition	Kenji TateⒸ
+Big Macs	3rd	Opening Government	KavisshnuⒸ
+MUST D	2nd	Opening Opposition	KavisshnuⒸ
+LOZO - Too busy to reply when Coach	4th	Closing Government	KavisshnuⒸ
+MUST A	1st	Closing Opposition	KavisshnuⒸ
+Nova Composites 50% of this team	1st	Opening Government	Liam OldreyⒸ
+CW NK	3rd	Opening Opposition	Liam OldreyⒸ
+XxNoHacksJustBossxX	2nd	Closing Government	Liam OldreyⒸ
+November Rain	4th	Closing Opposition	Liam OldreyⒸ
+DKU Deep Fried Oreos	4th	Closing Government	Park YoungwooⒸ , Ian Qiu
+One moment	1st	Opening Opposition	Park YoungwooⒸ , Ian Qiu
+Starberry	2nd	Opening Government	Park YoungwooⒸ , Ian Qiu
+CW MO	3rd	Closing Opposition	Park YoungwooⒸ , Ian Qiu
+Team Africa	1st	Opening Government	Kyle GoⒸ
+Patina	3rd	Opening Opposition	Kyle GoⒸ
+Nova Calamari	4th	Closing Opposition	Kyle GoⒸ
+CW CK	2nd	Closing Government	Kyle GoⒸ
+CW AI	2nd	Closing Government	Umar FazlanⒸ
+Tung-Oh Go Away!	3rd	Opening Opposition	Umar FazlanⒸ
+CW JR	4th	Closing Opposition	Umar FazlanⒸ
+We&#x27;re not invited	1st	Opening Government	Umar FazlanⒸ
+Everlasting Passion	2nd	Opening Government	Asif Mehedi AdiⒸ
+DKU Chipakam	3rd	Opening Opposition	Asif Mehedi AdiⒸ
+Team Australia	1st	Closing Government	Asif Mehedi AdiⒸ
+CW JB	4th	Closing Opposition	Asif Mehedi AdiⒸ
+Ethan Gao	1st	Opening Government	Sharun NikeshⒸ
+Agile Minds	4th	Opening Opposition	Sharun NikeshⒸ
+Autumn Girls	2nd	Closing Government	Sharun NikeshⒸ
+Time is ticking！！！	3rd	Closing Opposition	Sharun NikeshⒸ
+Two unprofessional dancers	3rd	Opening Government	Ken SingsonⒸ
+We don’t have a 1st speaker	2nd	Opening Opposition	Ken SingsonⒸ
+Nova A Leg Splitting Frog	4th	Closing Government	Ken SingsonⒸ
+Hallabong 1	1st	Closing Opposition	Ken SingsonⒸ
+LOZO - I’ll ask Charlotte	3rd	Opening Government	Vinodhan KuppusamyⒸ , Daniella Barbacena
+CW TG	1st	Closing Government	Vinodhan KuppusamyⒸ , Daniella Barbacena
+Enemies to partners	4th	Closing Opposition	Vinodhan KuppusamyⒸ , Daniella Barbacena
+CW BV	2nd	Opening Opposition	Vinodhan KuppusamyⒸ , Daniella Barbacena
+VADP HDPA	2nd	Opening Opposition	Gabrielle PacañoⒸ
+shella	3rd	Closing Government	Gabrielle PacañoⒸ
+Lex Ultima	4th	Closing Opposition	Gabrielle PacañoⒸ
+Motion Sickness	1st	Opening Government	Gabrielle PacañoⒸ
+DKU Waiguo Girls	2nd	Opening Opposition	Adel Mostaque AhmedⒸ
+CW LW	3rd	Closing Government	Adel Mostaque AhmedⒸ
+CityUHK A	1st	Closing Opposition	Adel Mostaque AhmedⒸ
+Blue Sky Kindergarten	4th	Opening Government	Adel Mostaque AhmedⒸ
+CW EM	4th	Opening Government	Francis VendiolaⒸ
+CW LJ	3rd	Opening Opposition	Francis VendiolaⒸ
+LOZO - Wait Please No	2nd	Closing Government	Francis VendiolaⒸ
+XxNoBossJustHacksxX	1st	Closing Opposition	Francis VendiolaⒸ
+CW KH	1st	Opening Opposition	Jaed BengzonⒸ
+Mchua A	2nd	Opening Government	Jaed BengzonⒸ
+Smart is just an Adjective to descr	3rd	Closing Government	Jaed BengzonⒸ
+CW AE	4th	Closing Opposition	Jaed BengzonⒸ
+Tung tung sahur	2nd	Opening Government	NayantaraⒸ
+U 16	4th	Opening Opposition	NayantaraⒸ
+Big babies	1st	Closing Government	NayantaraⒸ
+GDP 2	3rd	Closing Opposition	NayantaraⒸ
+SUFE C	3rd	Opening Government	Daniel Christopher HaducaⒸ
+Mario flower	1st	Opening Opposition	Daniel Christopher HaducaⒸ
+CW SC	2nd	Closing Government	Daniel Christopher HaducaⒸ
+Talk That Sheet	4th	Closing Opposition	Daniel Christopher HaducaⒸ
+Nova MT	1st	Opening Government	Jordyn GibsonⒸ , Kyle Louis Ramos
+Schrodingers arguments	2nd	Opening Opposition	Jordyn GibsonⒸ , Kyle Louis Ramos
+CW AB	3rd	Closing Government	Jordyn GibsonⒸ , Kyle Louis Ramos
+Charli XCX? We are Careless XXX	4th	Closing Opposition	Jordyn GibsonⒸ , Kyle Louis Ramos
+GMUK C	4th	Opening Opposition	Garrett LiⒸ
+LOZO IDK	2nd	Closing Government	Garrett LiⒸ
+Nova 4AM	1st	Closing Opposition	Garrett LiⒸ
+Charlie Bucket	3rd	Opening Government	Garrett LiⒸ
+RSG Silver	2nd	Opening Government	Prashasti SaxenaⒸ
+very mindful, very demure	1st	Opening Opposition	Prashasti SaxenaⒸ
+ILoVetEamChina	3rd	Closing Government	Prashasti SaxenaⒸ
+PLKC B	4th	Closing Opposition	Prashasti SaxenaⒸ
+Silver Fainted	3rd	Opening Government	Jonathan TuliaoⒸ
+SUFE A	2nd	Opening Opposition	Jonathan TuliaoⒸ
+RSG Emerald	4th	Closing Government	Jonathan TuliaoⒸ
+Capstone AJ	1st	Closing Opposition	Jonathan TuliaoⒸ
+Socratic Sparks	4th	Opening Government	Xandy Sophia ArmamentoⒸ
+DeepSick	3rd	Opening Opposition	Xandy Sophia ArmamentoⒸ
+Iphone SE	1st	Closing Government	Xandy Sophia ArmamentoⒸ
+Nova Shrimp Tempura	2nd	Closing Opposition	Xandy Sophia ArmamentoⒸ
+PLKC A	2nd	Opening Government	Mezen LababidiⒸ
+Jellycat lovers	3rd	Opening Opposition	Mezen LababidiⒸ
+Exons	4th	Closing Government	Mezen LababidiⒸ
+CW ME	1st	Closing Opposition	Mezen LababidiⒸ
+CW JI	2nd	Opening Government	George ChenⒸ
+Whatever	4th	Opening Opposition	George ChenⒸ
+Hallabong 2	3rd	Closing Government	George ChenⒸ
+CW YM	1st	Closing Opposition	George ChenⒸ
+McFlurry	4th	Opening Government	Ngô Minh Kiên JackⒸ
+Madam Chair, the Global Poor	2nd	Opening Opposition	Ngô Minh Kiên JackⒸ
+Gambetto	3rd	Closing Government	Ngô Minh Kiên JackⒸ
+Mmmmm, K	1st	Closing Opposition	Ngô Minh Kiên JackⒸ
+Love and Kindness to Humanity	3rd	Opening Government	Christopher ChuaⒸ
+LOZO JAYJAY	2nd	Opening Opposition	Christopher ChuaⒸ
+RSG Sapphire	1st	Closing Government	Christopher ChuaⒸ
+Better Up！！！	4th	Closing Opposition	Christopher ChuaⒸ
+Name Pending（Please Hold）	1st	Opening Government	Ben BensaliⒸ
+Chocolate taco	2nd	Opening Opposition	Ben BensaliⒸ
+Abnormal	4th	Closing Government	Ben BensaliⒸ
+The Underdogs	3rd	Closing Opposition	Ben BensaliⒸ
+CW RC	4th	Opening Government	Bea LegaspiⒸ
+CW TP	2nd	Opening Opposition	Bea LegaspiⒸ
+CW MG	1st	Closing Opposition	Bea LegaspiⒸ
+Xiao Bai	3rd	Closing Government	Bea LegaspiⒸ
+Shanghai Oreo	1st	Opening Government	Judy JIⒸ , Vu Duc Hung Allen
+CW LL	2nd	Opening Opposition	Judy JIⒸ , Vu Duc Hung Allen
+We Don&#x27;t Like Snares	4th	Closing Government	Judy JIⒸ , Vu Duc Hung Allen
+CW CS	3rd	Closing Opposition	Judy JIⒸ , Vu Duc Hung Allen
+Tough Love	3rd	Opening Government	Jing Yu MaⒸ
+LnR	4th	Opening Opposition	Jing Yu MaⒸ
+RSG Red	1st	Closing Government	Jing Yu MaⒸ
+DKU Orbis linguam	2nd	Closing Opposition	Jing Yu MaⒸ
+RSG Diamond	3rd	Opening Government	AlikhanⒸ
+Mocha Chocolate	1st	Closing Government	AlikhanⒸ
+JH	2nd	Opening Opposition	AlikhanⒸ
+Hdkwodndi	4th	Closing Opposition	AlikhanⒸ
+Cocacola	4th	Opening Government	Maeca PansensoyⒸ
+SUFE B	2nd	Opening Opposition	Maeca PansensoyⒸ
+Nova Basketboy	3rd	Closing Government	Maeca PansensoyⒸ
+Mr Hobo	1st	Closing Opposition	Maeca PansensoyⒸ
+Cutsies Fruties	2nd	Opening Government	Lia TanⒸ
+Two Little Rizzlers	1st	Closing Opposition	Lia TanⒸ
+MUST B	3rd	Opening Opposition	Lia TanⒸ
+LOZO - Trying to remember what we l	4th	Closing Government	Lia TanⒸ
+CW EK	1st	Opening Government	Aliyah HerlihyⒸ
+FDU A	2nd	Opening Opposition	Aliyah HerlihyⒸ
+SUFE Encounter	3rd	Closing Government	Aliyah HerlihyⒸ
+Eighteen	4th	Closing Opposition	Aliyah HerlihyⒸ
+MUST C	3rd	Opening Government	Louise WeeⒸ
+GMUK B	4th	Opening Opposition	Louise WeeⒸ
+guava	1st	Closing Government	Louise WeeⒸ
+Swing 250	2nd	Closing Opposition	Louise WeeⒸ
+Bluestone	2nd	Opening Government	Matcha CualⒸ
+VADP LN	4th	Closing Opposition	Matcha CualⒸ
+This is a wug	3rd	Opening Opposition	Matcha CualⒸ
+GDP 1	1st	Closing Government	Matcha CualⒸ
+VADP Double2Tam	2nd	Closing Opposition	Miro FortunaⒸ
+GMUK A	4th	Opening Government	Miro FortunaⒸ
+RSG Gold	1st	Opening Opposition	Miro FortunaⒸ
+Nova Cannot Eat Wine	3rd	Closing Government	Miro FortunaⒸ
+
+
+team	result	side	adjudicators
+We Don&#x27;t Like Snares	3rd	Opening Government	KavisshnuⒸ
+Nova 4AM	4th	Opening Opposition	KavisshnuⒸ
+CW RC	1st	Closing Government	KavisshnuⒸ
+LOZO - Wait Please No	2nd	Closing Opposition	KavisshnuⒸ
+Patina	4th	Opening Government	Umar FazlanⒸ
+Mchua A	1st	Opening Opposition	Umar FazlanⒸ
+Nova Composites 50% of this team	3rd	Closing Government	Umar FazlanⒸ
+Xiao Bai	2nd	Closing Opposition	Umar FazlanⒸ
+Hallabong 2	2nd	Opening Government	Matcha CualⒸ
+PLKC A	1st	Opening Opposition	Matcha CualⒸ
+LOZO JAYJAY	3rd	Closing Government	Matcha CualⒸ
+Oriental Alchemists	4th	Closing Opposition	Matcha CualⒸ
+U 16	3rd	Opening Government	Francis VendiolaⒸ
+LOZO - Too busy to reply when Coach	4th	Opening Opposition	Francis VendiolaⒸ
+Blue Sky Kindergarten	1st	Closing Government	Francis VendiolaⒸ
+GMUK C	2nd	Closing Opposition	Francis VendiolaⒸ
+CW MG	3rd	Opening Government	Luigi AlcañesesⒸ
+Team Africa	2nd	Opening Opposition	Luigi AlcañesesⒸ
+Schrodingers arguments	4th	Closing Government	Luigi AlcañesesⒸ
+Team Australia	1st	Closing Opposition	Luigi AlcañesesⒸ
+DKU Chipakam	2nd	Opening Government	Jing Yu MaⒸ
+XxNoHacksJustBossxX	1st	Opening Opposition	Jing Yu MaⒸ
+Nova Calamari	3rd	Closing Government	Jing Yu MaⒸ
+SUFE C	4th	Closing Opposition	Jing Yu MaⒸ
+LOZO - Trying to remember what we l	1st	Opening Government	Aliyah HerlihyⒸ
+Nova A Leg Splitting Frog	3rd	Opening Opposition	Aliyah HerlihyⒸ
+GMUK A	2nd	Closing Government	Aliyah HerlihyⒸ
+Swing A	4th	Closing Opposition	Aliyah HerlihyⒸ
+Autumn Girls	2nd	Opening Opposition	Christopher ChuaⒸ
+SUFE B	3rd	Opening Government	Christopher ChuaⒸ
+Ethan Gao	4th	Closing Government	Christopher ChuaⒸ
+Chocolate taco	1st	Closing Opposition	Christopher ChuaⒸ
+We don’t have a 1st speaker	1st	Opening Government	Ngô Minh Kiên JackⒸ
+RSG Emerald	2nd	Opening Opposition	Ngô Minh Kiên JackⒸ
+PLKC B	3rd	Closing Government	Ngô Minh Kiên JackⒸ
+I Killed My Duolingo	4th	Closing Opposition	Ngô Minh Kiên JackⒸ
+CW AE	1st	Opening Government	Daniel Christopher HaducaⒸ
+CW NK	2nd	Closing Government	Daniel Christopher HaducaⒸ
+Abnormal	3rd	Opening Opposition	Daniel Christopher HaducaⒸ
+Swing B	4th	Closing Opposition	Daniel Christopher HaducaⒸ
+Eighteen	2nd	Opening Government	Kyle Louis RamosⒸ
+Lex Ultima	4th	Opening Opposition	Kyle Louis RamosⒸ
+Hdkwodndi	3rd	Closing Government	Kyle Louis RamosⒸ
+McFlurry	1st	Closing Opposition	Kyle Louis RamosⒸ
+CW CS	1st	Opening Government	Sharun NikeshⒸ
+B&amp;I	3rd	Opening Opposition	Sharun NikeshⒸ
+XxNoBossJustHacksxX	2nd	Closing Government	Sharun NikeshⒸ
+LOZO - I’ll ask Charlotte	4th	Closing Opposition	Sharun NikeshⒸ
+SUFE A	1st	Opening Government	Prashasti SaxenaⒸ , Vu Duc Hung Allen
+CW ME	3rd	Opening Opposition	Prashasti SaxenaⒸ , Vu Duc Hung Allen
+strawberry	2nd	Closing Government	Prashasti SaxenaⒸ , Vu Duc Hung Allen
+Mario flower	4th	Closing Opposition	Prashasti SaxenaⒸ , Vu Duc Hung Allen
+CW SC	3rd	Opening Government	Bea LegaspiⒸ
+RSG Silver	4th	Opening Opposition	Bea LegaspiⒸ
+CW JH	2nd	Closing Government	Bea LegaspiⒸ
+CW AB	1st	Closing Opposition	Bea LegaspiⒸ
+DKU Deep Fried Oreos	4th	Opening Government	Lia TanⒸ
+Better Up！！！	3rd	Closing Government	Lia TanⒸ
+Madam Chair, the Global Poor	1st	Closing Opposition	Lia TanⒸ
+Exons	2nd	Opening Opposition	Lia TanⒸ
+MUST D	4th	Opening Government	Maeca PansensoyⒸ
+Smart is just an Adjective to descr	1st	Opening Opposition	Maeca PansensoyⒸ
+Enemies to partners	2nd	Closing Government	Maeca PansensoyⒸ
+Jellycat lovers	3rd	Closing Opposition	Maeca PansensoyⒸ
+guava	1st	Opening Opposition	Jordyn GibsonⒸ
+Titan	4th	Closing Government	Jordyn GibsonⒸ
+RSG Gold	2nd	Closing Opposition	Jordyn GibsonⒸ
+Nova Basketboy	3rd	Opening Government	Jordyn GibsonⒸ
+One moment	4th	Opening Government	Kenji TateⒸ , Xandy Sophia Armamento
+CW TG	3rd	Opening Opposition	Kenji TateⒸ , Xandy Sophia Armamento
+CW JI	2nd	Closing Government	Kenji TateⒸ , Xandy Sophia Armamento
+We&#x27;re not invited	1st	Closing Opposition	Kenji TateⒸ , Xandy Sophia Armamento
+SUFE Encounter	2nd	Opening Government	Daniella BarbacenaⒸ
+DKUAE	3rd	Opening Opposition	Daniella BarbacenaⒸ
+MUST C	4th	Closing Government	Daniella BarbacenaⒸ
+RSG Diamond	1st	Closing Opposition	Daniella BarbacenaⒸ
+CityUHK A	3rd	Opening Government	Jaed BengzonⒸ
+Motion Sickness	4th	Opening Opposition	Jaed BengzonⒸ
+Charli XCX? We are Careless XXX	2nd	Closing Government	Jaed BengzonⒸ
+CW AC	1st	Closing Opposition	Jaed BengzonⒸ
+VADP HDPA	2nd	Closing Government	George ChenⒸ
+GDP 2	4th	Opening Opposition	George ChenⒸ
+Tung tung sahur	1st	Closing Opposition	George ChenⒸ
+Mocha Chocolate	3rd	Opening Government	George ChenⒸ
+Two Little Rizzlers	4th	Opening Government	Kyle GoⒸ
+Silver Fainted	2nd	Opening Opposition	Kyle GoⒸ
+DKU Waiguo Girls	3rd	Closing Government	Kyle GoⒸ
+This is a wug	1st	Closing Opposition	Kyle GoⒸ
+Cocacola	4th	Closing Opposition	Adel Mostaque AhmedⒸ
+JH	3rd	Opening Government	Adel Mostaque AhmedⒸ
+FDU A	1st	Closing Government	Adel Mostaque AhmedⒸ
+VADP LN	2nd	Opening Opposition	Adel Mostaque AhmedⒸ
+Tough Love	1st	Closing Opposition	NayantaraⒸ
+Talk That Sheet	3rd	Closing Government	NayantaraⒸ
+CW LW	4th	Opening Opposition	NayantaraⒸ
+Time is ticking！！！	2nd	Opening Government	NayantaraⒸ
+CW YM	3rd	Opening Government	Park YoungwooⒸ , Garrett Li
+Nova MT	2nd	Opening Opposition	Park YoungwooⒸ , Garrett Li
+Shanghai Oreo	1st	Closing Government	Park YoungwooⒸ , Garrett Li
+Carelle	4th	Closing Opposition	Park YoungwooⒸ , Garrett Li
+Whatever	3rd	Opening Government	Liam OldreyⒸ
+CW JR	2nd	Opening Opposition	Liam OldreyⒸ
+CW EK	1st	Closing Government	Liam OldreyⒸ
+Love and Kindness to Humanity	4th	Closing Opposition	Liam OldreyⒸ
+Swing 250	2nd	Opening Government	Miro FortunaⒸ
+DKU are you sober?	1st	Closing Government	Miro FortunaⒸ
+Big Macs	4th	Closing Opposition	Miro FortunaⒸ
+Nova Shrimp Tempura	3rd	Opening Opposition	Miro FortunaⒸ
+CW LL	1st	Opening Government	Asif Mehedi AdiⒸ
+Name Pending（Please Hold）	2nd	Opening Opposition	Asif Mehedi AdiⒸ
+Capstone AJ	3rd	Closing Government	Asif Mehedi AdiⒸ
+CW TP	4th	Closing Opposition	Asif Mehedi AdiⒸ
+Mr Hobo	1st	Opening Government	Judy JIⒸ , Ian Qiu
+CW AI	3rd	Opening Opposition	Judy JIⒸ , Ian Qiu
+CW KH	2nd	Closing Government	Judy JIⒸ , Ian Qiu
+GDP 1	4th	Closing Opposition	Judy JIⒸ , Ian Qiu
+GMUK B	3rd	Opening Government	Cj SalayoⒸ
+Two unprofessional dancers	2nd	Opening Opposition	Cj SalayoⒸ
+November Rain	1st	Closing Government	Cj SalayoⒸ
+Charlie Bucket	4th	Closing Opposition	Cj SalayoⒸ
+MUST A	1st	Opening Government	Ben BensaliⒸ
+Tung-Oh Go Away!	2nd	Closing Government	Ben BensaliⒸ
+RSG Red	3rd	Closing Opposition	Ben BensaliⒸ
+Bluestone	4th	Opening Opposition	Ben BensaliⒸ
+CW EM	2nd	Closing Government	Louise WeeⒸ
+MUST B	3rd	Closing Opposition	Louise WeeⒸ
+DeepSick	1st	Opening Government	Louise WeeⒸ
+Gambetto	4th	Opening Opposition	Louise WeeⒸ
+Agile Minds	3rd	Opening Government	AlikhanⒸ
+LnR	1st	Closing Government	AlikhanⒸ
+Nova Cannot Eat Wine	4th	Closing Opposition	AlikhanⒸ
+Lawful Troublemakers	2nd	Opening Opposition	AlikhanⒸ
+CW BV	1st	Opening Government	Jonathan TuliaoⒸ
+Everlasting Passion	3rd	Closing Government	Jonathan TuliaoⒸ
+very mindful, very demure	2nd	Closing Opposition	Jonathan TuliaoⒸ
+Big babies	4th	Opening Opposition	Jonathan TuliaoⒸ
+CW JB	2nd	Opening Government	Gabrielle PacañoⒸ
+Mmmmm, K	1st	Opening Opposition	Gabrielle PacañoⒸ
+Call It	4th	Closing Opposition	Gabrielle PacañoⒸ
+The Underdogs	3rd	Closing Government	Gabrielle PacañoⒸ
+ILoVetEamChina	4th	Opening Government	Neackle MempinⒸ
+Hallabong 1	3rd	Opening Opposition	Neackle MempinⒸ
+DKU Orbis linguam	2nd	Closing Government	Neackle MempinⒸ
+Iphone SE	1st	Closing Opposition	Neackle MempinⒸ
+CW MO	4th	Opening Government	Mezen LababidiⒸ
+CW CK	2nd	Opening Opposition	Mezen LababidiⒸ
+Starberry	3rd	Closing Government	Mezen LababidiⒸ
+RSG Sapphire	1st	Closing Opposition	Mezen LababidiⒸ
+shella	4th	Closing Opposition	Ken SingsonⒸ
+LOZO IDK	3rd	Opening Opposition	Ken SingsonⒸ
+VADP Double2Tam	2nd	Opening Government	Ken SingsonⒸ
+CW LJ	1st	Closing Government	Ken SingsonⒸ
+
+
+team	result	side	adjudicators
+Talk That Sheet	3rd	Opening Government	Gabrielle PacañoⒸ
+McFlurry	1st	Opening Opposition	Gabrielle PacañoⒸ
+JH	2nd	Closing Government	Gabrielle PacañoⒸ
+SUFE Encounter	4th	Closing Opposition	Gabrielle PacañoⒸ
+Call It	2nd	Opening Government	Mezen LababidiⒸ
+Love and Kindness to Humanity	1st	Opening Opposition	Mezen LababidiⒸ
+Two unprofessional dancers	3rd	Closing Government	Mezen LababidiⒸ
+Abnormal	4th	Closing Opposition	Mezen LababidiⒸ
+Xiao Bai	2nd	Opening Government	Vinodhan KuppusamyⒸ
+MUST A	4th	Opening Opposition	Vinodhan KuppusamyⒸ
+Name Pending（Please Hold）	3rd	Closing Government	Vinodhan KuppusamyⒸ
+Mchua A	1st	Closing Opposition	Vinodhan KuppusamyⒸ
+strawberry	2nd	Opening Government	Park YoungwooⒸ , Cj Salayo
+CW AC	3rd	Opening Opposition	Park YoungwooⒸ , Cj Salayo
+PLKC A	4th	Closing Government	Park YoungwooⒸ , Cj Salayo
+Team Africa	1st	Closing Opposition	Park YoungwooⒸ , Cj Salayo
+I Killed My Duolingo	1st	Opening Government	Lia TanⒸ
+Big Macs	3rd	Opening Opposition	Lia TanⒸ
+Agile Minds	4th	Closing Government	Lia TanⒸ
+GMUK C	2nd	Closing Opposition	Lia TanⒸ
+CW ME	3rd	Opening Government	Sharun NikeshⒸ
+CW RC	2nd	Opening Opposition	Sharun NikeshⒸ
+One moment	4th	Closing Government	Sharun NikeshⒸ
+CW JH	1st	Closing Opposition	Sharun NikeshⒸ
+Nova A Leg Splitting Frog	1st	Opening Government	Louise WeeⒸ
+Cocacola	2nd	Closing Government	Louise WeeⒸ
+DKUAE	3rd	Closing Opposition	Louise WeeⒸ
+Swing B	4th	Opening Opposition	Louise WeeⒸ
+Gambetto	4th	Opening Government	Aliyah HerlihyⒸ
+shella	3rd	Opening Opposition	Aliyah HerlihyⒸ
+Lex Ultima	2nd	Closing Government	Aliyah HerlihyⒸ
+LOZO - Too busy to reply when Coach	1st	Closing Opposition	Aliyah HerlihyⒸ
+Smart is just an Adjective to descr	1st	Opening Government	Matcha CualⒸ , Alikhan
+Tung tung sahur	3rd	Opening Opposition	Matcha CualⒸ , Alikhan
+Starberry	4th	Closing Government	Matcha CualⒸ , Alikhan
+Everlasting Passion	2nd	Closing Opposition	Matcha CualⒸ , Alikhan
+Nova 4AM	2nd	Opening Government	Miro FortunaⒸ
+Titan	4th	Opening Opposition	Miro FortunaⒸ
+MUST B	1st	Closing Government	Miro FortunaⒸ
+LOZO - Trying to remember what we l	3rd	Closing Opposition	Miro FortunaⒸ
+CW AB	2nd	Opening Government	Asif Mehedi AdiⒸ
+SUFE A	3rd	Opening Opposition	Asif Mehedi AdiⒸ
+Chocolate taco	4th	Closing Government	Asif Mehedi AdiⒸ
+CW KH	1st	Closing Opposition	Asif Mehedi AdiⒸ
+CW JR	3rd	Closing Government	Prashasti SaxenaⒸ
+Silver Fainted	1st	Closing Opposition	Prashasti SaxenaⒸ
+Schrodingers arguments	2nd	Opening Government	Prashasti SaxenaⒸ
+DKU Orbis linguam	4th	Opening Opposition	Prashasti SaxenaⒸ
+DKU Waiguo Girls	4th	Opening Government	Xandy Sophia ArmamentoⒸ
+SUFE C	2nd	Opening Opposition	Xandy Sophia ArmamentoⒸ
+RSG Diamond	3rd	Closing Government	Xandy Sophia ArmamentoⒸ
+Bluestone	1st	Closing Opposition	Xandy Sophia ArmamentoⒸ
+This is a wug	3rd	Opening Government	Umar FazlanⒸ , Vu Duc Hung Allen
+Capstone AJ	1st	Opening Opposition	Umar FazlanⒸ , Vu Duc Hung Allen
+Carelle	2nd	Closing Government	Umar FazlanⒸ , Vu Duc Hung Allen
+XxNoHacksJustBossxX	4th	Closing Opposition	Umar FazlanⒸ , Vu Duc Hung Allen
+guava	3rd	Opening Government	Jonathan TuliaoⒸ
+Iphone SE	1st	Opening Opposition	Jonathan TuliaoⒸ
+Tung-Oh Go Away!	4th	Closing Government	Jonathan TuliaoⒸ
+Hallabong 2	2nd	Closing Opposition	Jonathan TuliaoⒸ
+CW TP	3rd	Opening Government	KavisshnuⒸ
+CW SC	2nd	Opening Opposition	KavisshnuⒸ
+Mario flower	1st	Closing Government	KavisshnuⒸ
+DKU Chipakam	4th	Closing Opposition	KavisshnuⒸ
+very mindful, very demure	4th	Opening Government	Maeca PansensoyⒸ
+CW JI	3rd	Opening Opposition	Maeca PansensoyⒸ
+CW CS	2nd	Closing Government	Maeca PansensoyⒸ
+CW TG	1st	Closing Opposition	Maeca PansensoyⒸ
+CW LW	2nd	Opening Government	Ngô Minh Kiên JackⒸ
+GMUK A	1st	Opening Opposition	Ngô Minh Kiên JackⒸ
+U 16	4th	Closing Government	Ngô Minh Kiên JackⒸ
+DKU Deep Fried Oreos	3rd	Closing Opposition	Ngô Minh Kiên JackⒸ
+PLKC B	4th	Opening Government	Kyle Louis RamosⒸ
+CW EM	2nd	Opening Opposition	Kyle Louis RamosⒸ
+Nova Shrimp Tempura	1st	Closing Government	Kyle Louis RamosⒸ
+ILoVetEamChina	3rd	Closing Opposition	Kyle Louis RamosⒸ
+Autumn Girls	4th	Opening Government	Kyle GoⒸ
+CW AE	2nd	Closing Government	Kyle GoⒸ
+CW LJ	3rd	Closing Opposition	Kyle GoⒸ
+Charli XCX? We are Careless XXX	1st	Opening Opposition	Kyle GoⒸ
+Eighteen	4th	Opening Government	Garrett LiⒸ
+Nova Cannot Eat Wine	1st	Opening Opposition	Garrett LiⒸ
+GDP 2	3rd	Closing Government	Garrett LiⒸ
+Cutsies Fruties	2nd	Closing Opposition	Garrett LiⒸ
+November Rain	3rd	Opening Opposition	Daniella BarbacenaⒸ
+B&amp;I	2nd	Closing Government	Daniella BarbacenaⒸ
+RSG Silver	1st	Closing Opposition	Daniella BarbacenaⒸ
+Nova Calamari	4th	Opening Government	Daniella BarbacenaⒸ
+Mocha Chocolate	4th	Opening Opposition	Francis VendiolaⒸ
+VADP LN	1st	Closing Government	Francis VendiolaⒸ
+Whatever	2nd	Closing Opposition	Francis VendiolaⒸ
+LnR	3rd	Opening Government	Francis VendiolaⒸ
+LOZO JAYJAY	1st	Opening Government	Judy JIⒸ
+We don’t have a 1st speaker	3rd	Closing Opposition	Judy JIⒸ
+LOZO - Wait Please No	2nd	Opening Opposition	Judy JIⒸ
+Tough Love	4th	Closing Government	Judy JIⒸ
+The Underdogs	3rd	Opening Government	NayantaraⒸ , Ken Singson
+Oriental Alchemists	1st	Opening Opposition	NayantaraⒸ , Ken Singson
+Lawful Troublemakers	4th	Closing Government	NayantaraⒸ , Ken Singson
+CW NK	2nd	Closing Opposition	NayantaraⒸ , Ken Singson
+Jellycat lovers	1st	Opening Government	Jing Yu MaⒸ
+Nova Basketboy	2nd	Opening Opposition	Jing Yu MaⒸ
+We Don&#x27;t Like Snares	3rd	Closing Opposition	Jing Yu MaⒸ
+RSG Emerald	4th	Closing Government	Jing Yu MaⒸ
+Swing A	4th	Opening Government	Ian QiuⒸ
+MUST C	1st	Opening Opposition	Ian QiuⒸ
+Charlie Bucket	2nd	Closing Government	Ian QiuⒸ
+GMUK B	3rd	Closing Opposition	Ian QiuⒸ
+Team Australia	1st	Opening Government	Jaed BengzonⒸ
+Shanghai Oreo	3rd	Opening Opposition	Jaed BengzonⒸ
+We&#x27;re not invited	2nd	Closing Government	Jaed BengzonⒸ
+CW LL	4th	Closing Opposition	Jaed BengzonⒸ
+RSG Sapphire	3rd	Opening Government	Luigi AlcañesesⒸ
+CW BV	1st	Opening Opposition	Luigi AlcañesesⒸ
+Mr Hobo	4th	Closing Government	Luigi AlcañesesⒸ
+Nova MT	2nd	Closing Opposition	Luigi AlcañesesⒸ
+FDU A	3rd	Opening Government	George ChenⒸ
+CW JB	2nd	Opening Opposition	George ChenⒸ
+CityUHK A	1st	Closing Government	George ChenⒸ
+SUFE B	4th	Closing Opposition	George ChenⒸ
+Hallabong 1	1st	Opening Government	Adel Mostaque AhmedⒸ
+Swing 250	3rd	Opening Opposition	Adel Mostaque AhmedⒸ
+CW MO	2nd	Closing Government	Adel Mostaque AhmedⒸ
+Ethan Gao	4th	Closing Opposition	Adel Mostaque AhmedⒸ
+RSG Gold	2nd	Opening Government	Christopher ChuaⒸ
+CW EK	4th	Opening Opposition	Christopher ChuaⒸ
+Mmmmm, K	1st	Closing Government	Christopher ChuaⒸ
+CW AI	3rd	Closing Opposition	Christopher ChuaⒸ
+LOZO IDK	4th	Opening Government	Daniel Christopher HaducaⒸ
+Two Little Rizzlers	1st	Opening Opposition	Daniel Christopher HaducaⒸ
+Better Up！！！	2nd	Closing Government	Daniel Christopher HaducaⒸ
+MUST D	3rd	Closing Opposition	Daniel Christopher HaducaⒸ
+Enemies to partners	2nd	Opening Government	Kenji TateⒸ
+RSG Red	3rd	Opening Opposition	Kenji TateⒸ
+Madam Chair, the Global Poor	1st	Closing Government	Kenji TateⒸ
+DKU are you sober?	4th	Closing Opposition	Kenji TateⒸ
+XxNoBossJustHacksxX	4th	Opening Government	Jordyn GibsonⒸ
+CW MG	3rd	Opening Opposition	Jordyn GibsonⒸ
+CW YM	2nd	Closing Government	Jordyn GibsonⒸ
+CW CK	1st	Closing Opposition	Jordyn GibsonⒸ
+Exons	1st	Opening Government	Liam OldreyⒸ
+VADP Double2Tam	4th	Opening Opposition	Liam OldreyⒸ
+Motion Sickness	2nd	Closing Government	Liam OldreyⒸ
+Patina	3rd	Closing Opposition	Liam OldreyⒸ
+GDP 1	4th	Opening Government	Neackle MempinⒸ
+Nova Composites 50% of this team	1st	Opening Opposition	Neackle MempinⒸ
+VADP HDPA	3rd	Closing Opposition	Neackle MempinⒸ
+LOZO - I’ll ask Charlotte	2nd	Closing Government	Neackle MempinⒸ
+Big babies	3rd	Opening Government	Ben BensaliⒸ
+Time is ticking！！！	2nd	Opening Opposition	Ben BensaliⒸ
+DeepSick	4th	Closing Government	Ben BensaliⒸ
+Blue Sky Kindergarten	1st	Closing Opposition	Ben BensaliⒸ
+
+
+team	result	side	adjudicators
+Cutsies Fruties	3rd	Opening Opposition	Cj SalayoⒸ
+Nova Cannot Eat Wine	4th	Closing Opposition	Cj SalayoⒸ
+Cocacola	1st	Opening Government	Cj SalayoⒸ
+VADP Double2Tam	2nd	Closing Government	Cj SalayoⒸ
+Hallabong 1	4th	Opening Opposition	Jordyn GibsonⒸ
+CW ME	3rd	Closing Government	Jordyn GibsonⒸ
+CW AI	2nd	Closing Opposition	Jordyn GibsonⒸ
+CW JB	1st	Opening Government	Jordyn GibsonⒸ
+We&#x27;re not invited	3rd	Opening Government	Mezen LababidiⒸ
+Team Australia	2nd	Opening Opposition	Mezen LababidiⒸ
+Team Africa	1st	Closing Government	Mezen LababidiⒸ
+CW BV	4th	Closing Opposition	Mezen LababidiⒸ
+Swing B	3rd	Opening Government	Liam OldreyⒸ
+Swing A	4th	Opening Opposition	Liam OldreyⒸ
+U 16	1st	Closing Government	Liam OldreyⒸ
+Gambetto	2nd	Closing Opposition	Liam OldreyⒸ
+SUFE C	1st	Opening Government	Louise WeeⒸ
+We Don&#x27;t Like Snares	2nd	Opening Opposition	Louise WeeⒸ
+Big babies	3rd	Closing Government	Louise WeeⒸ
+Tough Love	4th	Closing Opposition	Louise WeeⒸ
+Madam Chair, the Global Poor	4th	Opening Government	Maeca PansensoyⒸ , Garrett Li
+Mario flower	1st	Opening Opposition	Maeca PansensoyⒸ , Garrett Li
+CityUHK A	3rd	Closing Government	Maeca PansensoyⒸ , Garrett Li
+Xiao Bai	2nd	Closing Opposition	Maeca PansensoyⒸ , Garrett Li
+Whatever	4th	Closing Government	Kyle GoⒸ
+Tung-Oh Go Away!	1st	Closing Opposition	Kyle GoⒸ
+CW EK	2nd	Opening Government	Kyle GoⒸ
+VADP HDPA	3rd	Opening Opposition	Kyle GoⒸ
+ILoVetEamChina	2nd	Opening Government	Ngô Minh Kiên JackⒸ
+Talk That Sheet	4th	Opening Opposition	Ngô Minh Kiên JackⒸ
+Two unprofessional dancers	1st	Closing Government	Ngô Minh Kiên JackⒸ
+LOZO - Too busy to reply when Coach	3rd	Closing Opposition	Ngô Minh Kiên JackⒸ
+CW AC	2nd	Opening Government	Luigi AlcañesesⒸ
+Nova Composites 50% of this team	3rd	Opening Opposition	Luigi AlcañesesⒸ
+Carelle	1st	Closing Government	Luigi AlcañesesⒸ
+Hallabong 2	4th	Closing Opposition	Luigi AlcañesesⒸ
+CW CS	4th	Opening Opposition	Ben BensaliⒸ
+Nova MT	3rd	Closing Government	Ben BensaliⒸ
+CW KH	2nd	Closing Opposition	Ben BensaliⒸ
+Shanghai Oreo	1st	Opening Government	Ben BensaliⒸ
+SUFE B	1st	Opening Government	NayantaraⒸ
+GMUK A	4th	Opening Opposition	NayantaraⒸ
+Swing 250	2nd	Closing Government	NayantaraⒸ
+Nova 4AM	3rd	Closing Opposition	NayantaraⒸ
+RSG Emerald	1st	Opening Government	Kyle Louis RamosⒸ
+Nova Calamari	2nd	Opening Opposition	Kyle Louis RamosⒸ
+GMUK C	4th	Closing Government	Kyle Louis RamosⒸ
+DeepSick	3rd	Closing Opposition	Kyle Louis RamosⒸ
+Oriental Alchemists	1st	Opening Government	Jonathan TuliaoⒸ
+Enemies to partners	2nd	Opening Opposition	Jonathan TuliaoⒸ
+RSG Silver	3rd	Closing Government	Jonathan TuliaoⒸ
+CW SC	4th	Closing Opposition	Jonathan TuliaoⒸ
+LOZO JAYJAY	1st	Opening Government	Park YoungwooⒸ
+Charli XCX? We are Careless XXX	2nd	Opening Opposition	Park YoungwooⒸ
+CW LL	3rd	Closing Government	Park YoungwooⒸ
+CW RC	4th	Closing Opposition	Park YoungwooⒸ
+November Rain	2nd	Opening Government	Miro FortunaⒸ
+CW EM	4th	Opening Opposition	Miro FortunaⒸ
+DKU Orbis linguam	3rd	Closing Government	Miro FortunaⒸ
+Patina	1st	Closing Opposition	Miro FortunaⒸ
+Mr Hobo	1st	Opening Government	Klaudia MaciejewskaⒸ , Vu Duc Hung Allen
+LOZO - Wait Please No	3rd	Opening Opposition	Klaudia MaciejewskaⒸ , Vu Duc Hung Allen
+CW JI	2nd	Closing Government	Klaudia MaciejewskaⒸ , Vu Duc Hung Allen
+Everlasting Passion	4th	Closing Opposition	Klaudia MaciejewskaⒸ , Vu Duc Hung Allen
+DKU Chipakam	1st	Opening Government	Prashasti SaxenaⒸ
+GDP 1	2nd	Opening Opposition	Prashasti SaxenaⒸ
+JH	3rd	Closing Government	Prashasti SaxenaⒸ
+MUST B	4th	Closing Opposition	Prashasti SaxenaⒸ
+PLKC B	1st	Opening Government	Lia TanⒸ
+Titan	4th	Opening Opposition	Lia TanⒸ
+DKUAE	2nd	Closing Government	Lia TanⒸ
+GDP 2	3rd	Closing Opposition	Lia TanⒸ
+Blue Sky Kindergarten	2nd	Opening Government	Asif Mehedi AdiⒸ
+MUST A	3rd	Opening Opposition	Asif Mehedi AdiⒸ
+Exons	4th	Closing Government	Asif Mehedi AdiⒸ
+This is a wug	1st	Closing Opposition	Asif Mehedi AdiⒸ
+Big Macs	1st	Opening Government	Adel Mostaque AhmedⒸ
+Lawful Troublemakers	2nd	Opening Opposition	Adel Mostaque AhmedⒸ
+GMUK B	4th	Closing Government	Adel Mostaque AhmedⒸ
+SUFE Encounter	3rd	Closing Opposition	Adel Mostaque AhmedⒸ
+Mmmmm, K	2nd	Opening Government	Judy JIⒸ
+CW YM	4th	Opening Opposition	Judy JIⒸ
+CW JH	3rd	Closing Government	Judy JIⒸ
+RSG Sapphire	1st	Closing Opposition	Judy JIⒸ
+Motion Sickness	2nd	Opening Government	KavisshnuⒸ
+McFlurry	4th	Opening Opposition	KavisshnuⒸ
+Time is ticking！！！	3rd	Closing Government	KavisshnuⒸ
+CW LJ	1st	Closing Opposition	KavisshnuⒸ
+CW AE	1st	Opening Government	Matcha CualⒸ
+Jellycat lovers	3rd	Opening Opposition	Matcha CualⒸ
+Schrodingers arguments	2nd	Closing Government	Matcha CualⒸ
+very mindful, very demure	4th	Closing Opposition	Matcha CualⒸ
+MUST D	4th	Opening Government	Ken SingsonⒸ
+Mocha Chocolate	2nd	Opening Opposition	Ken SingsonⒸ
+DKU Waiguo Girls	1st	Closing Government	Ken SingsonⒸ
+LOZO - Trying to remember what we l	3rd	Closing Opposition	Ken SingsonⒸ
+DKU Deep Fried Oreos	1st	Opening Opposition	Aliyah HerlihyⒸ
+Abnormal	3rd	Closing Government	Aliyah HerlihyⒸ
+Charlie Bucket	2nd	Closing Opposition	Aliyah HerlihyⒸ
+LOZO IDK	4th	Opening Government	Aliyah HerlihyⒸ
+Better Up！！！	1st	Opening Government	Jing Yu MaⒸ
+RSG Diamond	3rd	Opening Opposition	Jing Yu MaⒸ
+I Killed My Duolingo	2nd	Closing Government	Jing Yu MaⒸ
+The Underdogs	4th	Closing Opposition	Jing Yu MaⒸ
+guava	1st	Opening Government	Jaed BengzonⒸ
+Bluestone	2nd	Opening Opposition	Jaed BengzonⒸ
+Tung tung sahur	4th	Closing Government	Jaed BengzonⒸ
+PLKC A	3rd	Closing Opposition	Jaed BengzonⒸ
+XxNoBossJustHacksxX	1st	Opening Government	Daniel Christopher HaducaⒸ
+LOZO - I’ll ask Charlotte	3rd	Opening Opposition	Daniel Christopher HaducaⒸ
+RSG Red	4th	Closing Government	Daniel Christopher HaducaⒸ
+CW JR	2nd	Closing Opposition	Daniel Christopher HaducaⒸ
+B&amp;I	3rd	Opening Government	Kenji TateⒸ
+CW NK	2nd	Opening Opposition	Kenji TateⒸ
+FDU A	4th	Closing Government	Kenji TateⒸ
+XxNoHacksJustBossxX	1st	Closing Opposition	Kenji TateⒸ
+CW AB	3rd	Opening Government	Sharun NikeshⒸ
+Iphone SE	4th	Opening Opposition	Sharun NikeshⒸ
+Smart is just an Adjective to descr	2nd	Closing Government	Sharun NikeshⒸ
+Capstone AJ	1st	Closing Opposition	Sharun NikeshⒸ
+We don’t have a 1st speaker	1st	Opening Opposition	Gabrielle PacañoⒸ
+Two Little Rizzlers	4th	Closing Government	Gabrielle PacañoⒸ
+Starberry	2nd	Closing Opposition	Gabrielle PacañoⒸ
+CW TP	3rd	Opening Government	Gabrielle PacañoⒸ
+Ethan Gao	1st	Opening Government	Francis VendiolaⒸ
+CW LW	4th	Closing Government	Francis VendiolaⒸ
+MUST C	3rd	Opening Opposition	Francis VendiolaⒸ
+Nova A Leg Splitting Frog	2nd	Closing Opposition	Francis VendiolaⒸ
+CW MG	3rd	Opening Government	George ChenⒸ , Alikhan
+Silver Fainted	4th	Opening Opposition	George ChenⒸ , Alikhan
+SUFE A	1st	Closing Government	George ChenⒸ , Alikhan
+Name Pending（Please Hold）	2nd	Closing Opposition	George ChenⒸ , Alikhan
+Mchua A	1st	Opening Opposition	Neackle MempinⒸ , Ian Qiu
+strawberry	3rd	Closing Government	Neackle MempinⒸ , Ian Qiu
+CW CK	2nd	Closing Opposition	Neackle MempinⒸ , Ian Qiu
+CW TG	4th	Opening Government	Neackle MempinⒸ , Ian Qiu
+Nova Shrimp Tempura	4th	Opening Government	Christopher ChuaⒸ
+Nova Basketboy	2nd	Opening Opposition	Christopher ChuaⒸ
+CW MO	1st	Closing Government	Christopher ChuaⒸ
+One moment	3rd	Closing Opposition	Christopher ChuaⒸ
+Lex Ultima	2nd	Opening Government	Xandy Sophia ArmamentoⒸ
+shella	1st	Opening Opposition	Xandy Sophia ArmamentoⒸ
+Eighteen	4th	Closing Government	Xandy Sophia ArmamentoⒸ
+Agile Minds	3rd	Closing Opposition	Xandy Sophia ArmamentoⒸ
+DKU are you sober?	1st	Opening Government	Daniella BarbacenaⒸ
+LnR	3rd	Opening Opposition	Daniella BarbacenaⒸ
+Call It	4th	Closing Government	Daniella BarbacenaⒸ
+Autumn Girls	2nd	Closing Opposition	Daniella BarbacenaⒸ
+VADP LN	3rd	Opening Opposition	Umar FazlanⒸ
+RSG Gold	1st	Closing Government	Umar FazlanⒸ
+Chocolate taco	2nd	Opening Government	Umar FazlanⒸ
+Love and Kindness to Humanity	4th	Closing Opposition	Umar FazlanⒸ
+
+
+team	result	side	adjudicators
+GDP 2	4th	Opening Government	Ngô Minh Kiên JackⒸ
+Abnormal	3rd	Opening Opposition	Ngô Minh Kiên JackⒸ
+SUFE Encounter	2nd	Closing Government	Ngô Minh Kiên JackⒸ
+Lex Ultima	1st	Closing Opposition	Ngô Minh Kiên JackⒸ
+CW JH	4th	Opening Government	Mezen LababidiⒸ
+CW AE	2nd	Opening Opposition	Mezen LababidiⒸ
+guava	1st	Closing Government	Mezen LababidiⒸ
+CW MG	3rd	Closing Opposition	Mezen LababidiⒸ
+CW MO	4th	Opening Government	Jonathan TuliaoⒸ
+XxNoBossJustHacksxX	2nd	Opening Opposition	Jonathan TuliaoⒸ
+CW YM	1st	Closing Government	Jonathan TuliaoⒸ
+Bluestone	3rd	Closing Opposition	Jonathan TuliaoⒸ
+RSG Diamond	2nd	Opening Government	Liam OldreyⒸ
+PLKC B	1st	Opening Opposition	Liam OldreyⒸ
+Big Macs	3rd	Closing Government	Liam OldreyⒸ
+FDU A	4th	Closing Opposition	Liam OldreyⒸ
+Silver Fainted	4th	Opening Government	Christopher ChuaⒸ
+PLKC A	1st	Opening Opposition	Christopher ChuaⒸ
+CW NK	2nd	Closing Government	Christopher ChuaⒸ
+Starberry	3rd	Closing Opposition	Christopher ChuaⒸ
+shella	4th	Opening Government	KavisshnuⒸ
+VADP Double2Tam	1st	Opening Opposition	KavisshnuⒸ
+Nova A Leg Splitting Frog	2nd	Closing Government	KavisshnuⒸ
+Mocha Chocolate	3rd	Closing Opposition	KavisshnuⒸ
+Mmmmm, K	1st	Opening Government	Maeca PansensoyⒸ
+Carelle	3rd	Opening Opposition	Maeca PansensoyⒸ
+CW BV	2nd	Closing Government	Maeca PansensoyⒸ
+LOZO JAYJAY	4th	Closing Opposition	Maeca PansensoyⒸ
+strawberry	4th	Opening Government	Jordyn GibsonⒸ
+CW AB	1st	Opening Opposition	Jordyn GibsonⒸ
+Xiao Bai	3rd	Closing Government	Jordyn GibsonⒸ
+CityUHK A	2nd	Closing Opposition	Jordyn GibsonⒸ
+Ethan Gao	4th	Opening Opposition	Gabrielle PacañoⒸ
+CW SC	2nd	Closing Government	Gabrielle PacañoⒸ
+One moment	3rd	Opening Government	Gabrielle PacañoⒸ
+Tung tung sahur	1st	Closing Opposition	Gabrielle PacañoⒸ
+The Underdogs	2nd	Opening Government	Lia TanⒸ
+U 16	3rd	Opening Opposition	Lia TanⒸ
+Cutsies Fruties	1st	Closing Government	Lia TanⒸ
+GMUK A	4th	Closing Opposition	Lia TanⒸ
+MUST A	4th	Opening Government	Bea LegaspiⒸ
+RSG Silver	2nd	Opening Opposition	Bea LegaspiⒸ
+CW JR	3rd	Closing Government	Bea LegaspiⒸ
+Madam Chair, the Global Poor	1st	Closing Opposition	Bea LegaspiⒸ
+GMUK B	2nd	Opening Government	Francis VendiolaⒸ
+Swing B	4th	Opening Opposition	Francis VendiolaⒸ
+Swing A	3rd	Closing Government	Francis VendiolaⒸ
+Eighteen	1st	Closing Opposition	Francis VendiolaⒸ
+Iphone SE	4th	Opening Government	Daniel Christopher HaducaⒸ
+CW LL	3rd	Opening Opposition	Daniel Christopher HaducaⒸ
+CW AI	1st	Closing Government	Daniel Christopher HaducaⒸ
+Enemies to partners	2nd	Closing Opposition	Daniel Christopher HaducaⒸ
+very mindful, very demure	1st	Opening Opposition	Cj SalayoⒸ
+We Don&#x27;t Like Snares	3rd	Opening Government	Cj SalayoⒸ
+Hallabong 1	4th	Closing Government	Cj SalayoⒸ
+Exons	2nd	Closing Opposition	Cj SalayoⒸ
+CW CK	4th	Opening Government	Umar FazlanⒸ
+Smart is just an Adjective to descr	1st	Opening Opposition	Umar FazlanⒸ
+RSG Sapphire	3rd	Closing Government	Umar FazlanⒸ
+Nova MT	2nd	Closing Opposition	Umar FazlanⒸ
+DKU Deep Fried Oreos	4th	Opening Government	NayantaraⒸ
+DKU Orbis linguam	1st	Opening Opposition	NayantaraⒸ
+Nova Calamari	3rd	Closing Government	NayantaraⒸ
+Big babies	2nd	Closing Opposition	NayantaraⒸ
+Gambetto	2nd	Opening Government	Adel Mostaque AhmedⒸ
+Agile Minds	1st	Opening Opposition	Adel Mostaque AhmedⒸ
+Titan	3rd	Closing Government	Adel Mostaque AhmedⒸ
+LOZO IDK	4th	Closing Opposition	Adel Mostaque AhmedⒸ
+Better Up！！！	4th	Opening Government	Kenji TateⒸ
+Hallabong 2	3rd	Opening Opposition	Kenji TateⒸ
+LOZO - Wait Please No	1st	Closing Government	Kenji TateⒸ
+Jellycat lovers	2nd	Closing Opposition	Kenji TateⒸ
+LOZO - Too busy to reply when Coach	1st	Opening Government	Miro FortunaⒸ
+Tough Love	2nd	Opening Opposition	Miro FortunaⒸ
+DeepSick	4th	Closing Government	Miro FortunaⒸ
+Call It	3rd	Closing Opposition	Miro FortunaⒸ
+GDP 1	2nd	Opening Government	Kyle GoⒸ
+CW TP	1st	Closing Government	Kyle GoⒸ
+B&amp;I	4th	Closing Opposition	Kyle GoⒸ
+Time is ticking！！！	3rd	Opening Opposition	Kyle GoⒸ
+Team Africa	3rd	Opening Government	Asif Mehedi AdiⒸ
+Shanghai Oreo	2nd	Opening Opposition	Asif Mehedi AdiⒸ
+Mchua A	4th	Closing Government	Asif Mehedi AdiⒸ
+Team Australia	1st	Closing Opposition	Asif Mehedi AdiⒸ
+DKUAE	4th	Opening Government	Kyle Louis RamosⒸ
+MUST D	3rd	Opening Opposition	Kyle Louis RamosⒸ
+MUST B	1st	Closing Government	Kyle Louis RamosⒸ
+Lawful Troublemakers	2nd	Closing Opposition	Kyle Louis RamosⒸ
+CW LJ	3rd	Opening Government	George ChenⒸ , Ian Qiu
+Blue Sky Kindergarten	2nd	Opening Opposition	George ChenⒸ , Ian Qiu
+Nova Composites 50% of this team	4th	Closing Government	George ChenⒸ , Ian Qiu
+CW CS	1st	Closing Opposition	George ChenⒸ , Ian Qiu
+RSG Emerald	4th	Opening Government	Jaed BengzonⒸ
+Two unprofessional dancers	1st	Opening Opposition	Jaed BengzonⒸ
+November Rain	2nd	Closing Government	Jaed BengzonⒸ
+LOZO - I’ll ask Charlotte	3rd	Closing Opposition	Jaed BengzonⒸ
+CW EM	2nd	Opening Government	Louise WeeⒸ
+LOZO - Trying to remember what we l	1st	Opening Opposition	Louise WeeⒸ
+Charlie Bucket	4th	Closing Government	Louise WeeⒸ
+MUST C	3rd	Closing Opposition	Louise WeeⒸ
+Swing 250	1st	Opening Government	Prashasti SaxenaⒸ
+DKU Waiguo Girls	4th	Opening Opposition	Prashasti SaxenaⒸ
+Autumn Girls	3rd	Closing Government	Prashasti SaxenaⒸ
+I Killed My Duolingo	2nd	Closing Opposition	Prashasti SaxenaⒸ
+Mario flower	1st	Opening Government	Sharun NikeshⒸ
+CW AC	4th	Opening Opposition	Sharun NikeshⒸ
+Oriental Alchemists	3rd	Closing Government	Sharun NikeshⒸ
+SUFE A	2nd	Closing Opposition	Sharun NikeshⒸ
+LnR	4th	Opening Government	Ken SingsonⒸ
+Whatever	3rd	Opening Opposition	Ken SingsonⒸ
+McFlurry	1st	Closing Government	Ken SingsonⒸ
+Nova Shrimp Tempura	2nd	Closing Opposition	Ken SingsonⒸ
+Patina	4th	Opening Government	Matcha CualⒸ , Vu Duc Hung Allen
+DKU Chipakam	2nd	Opening Opposition	Matcha CualⒸ , Vu Duc Hung Allen
+Everlasting Passion	1st	Closing Government	Matcha CualⒸ , Vu Duc Hung Allen
+SUFE C	3rd	Closing Opposition	Matcha CualⒸ , Vu Duc Hung Allen
+Love and Kindness to Humanity	3rd	Opening Opposition	Daniella BarbacenaⒸ
+Nova 4AM	2nd	Closing Government	Daniella BarbacenaⒸ
+VADP HDPA	1st	Opening Government	Daniella BarbacenaⒸ
+Cocacola	4th	Closing Opposition	Daniella BarbacenaⒸ
+CW ME	2nd	Opening Government	Neackle MempinⒸ , Alikhan
+Motion Sickness	4th	Opening Opposition	Neackle MempinⒸ , Alikhan
+CW EK	3rd	Closing Government	Neackle MempinⒸ , Alikhan
+CW RC	1st	Closing Opposition	Neackle MempinⒸ , Alikhan
+Capstone AJ	3rd	Opening Government	Park YoungwooⒸ
+CW KH	2nd	Opening Opposition	Park YoungwooⒸ
+Mr Hobo	4th	Closing Government	Park YoungwooⒸ
+We&#x27;re not invited	1st	Closing Opposition	Park YoungwooⒸ
+This is a wug	3rd	Opening Government	Vinodhan KuppusamyⒸ
+Chocolate taco	2nd	Opening Opposition	Vinodhan KuppusamyⒸ
+Charli XCX? We are Careless XXX	1st	Closing Government	Vinodhan KuppusamyⒸ
+CW JI	4th	Closing Opposition	Vinodhan KuppusamyⒸ
+XxNoHacksJustBossxX	2nd	Opening Government	Klaudia MaciejewskaⒸ
+Schrodingers arguments	1st	Opening Opposition	Klaudia MaciejewskaⒸ
+We don’t have a 1st speaker	3rd	Closing Government	Klaudia MaciejewskaⒸ
+Tung-Oh Go Away!	4th	Closing Opposition	Klaudia MaciejewskaⒸ
+GMUK C	3rd	Opening Government	Aliyah HerlihyⒸ
+CW LW	1st	Opening Opposition	Aliyah HerlihyⒸ
+Nova Cannot Eat Wine	4th	Closing Government	Aliyah HerlihyⒸ
+Talk That Sheet	2nd	Closing Opposition	Aliyah HerlihyⒸ
+JH	1st	Opening Government	Jing Yu MaⒸ
+Two Little Rizzlers	4th	Opening Opposition	Jing Yu MaⒸ
+ILoVetEamChina	3rd	Closing Government	Jing Yu MaⒸ
+RSG Red	2nd	Closing Opposition	Jing Yu MaⒸ
+Nova Basketboy	2nd	Closing Government	Ben BensaliⒸ , Garrett Li
+VADP LN	3rd	Opening Government	Ben BensaliⒸ , Garrett Li
+SUFE B	4th	Opening Opposition	Ben BensaliⒸ , Garrett Li
+DKU are you sober?	1st	Closing Opposition	Ben BensaliⒸ , Garrett Li
+Name Pending（Please Hold）	4th	Opening Government	Judy JIⒸ , Xandy Sophia Armamento
+CW TG	1st	Opening Opposition	Judy JIⒸ , Xandy Sophia Armamento
+CW JB	3rd	Closing Government	Judy JIⒸ , Xandy Sophia Armamento
+RSG Gold	2nd	Closing Opposition	Judy JIⒸ , Xandy Sophia Armamento
+
+
+team	result	side	adjudicators
+CW KH	advancing	Opening Government	Kyle GoⒸ , Maeca Pansensoy , Park Youngwoo , Prashasti Saxena , Xandy Sophia Armamento
+Carelle	eliminated	Opening Opposition	Kyle GoⒸ , Maeca Pansensoy , Park Youngwoo , Prashasti Saxena , Xandy Sophia Armamento
+We&#x27;re not invited	advancing	Closing Government	Kyle GoⒸ , Maeca Pansensoy , Park Youngwoo , Prashasti Saxena , Xandy Sophia Armamento
+SUFE A	eliminated	Closing Opposition	Kyle GoⒸ , Maeca Pansensoy , Park Youngwoo , Prashasti Saxena , Xandy Sophia Armamento
+Mr Hobo	eliminated	Opening Government	Kenji TateⒸ , Daniella Barbacena , Lia Tan , Vinodhan Kuppusamy , Vu Duc Hung Allen
+Nova MT	eliminated	Opening Opposition	Kenji TateⒸ , Daniella Barbacena , Lia Tan , Vinodhan Kuppusamy , Vu Duc Hung Allen
+Team Australia	advancing	Closing Government	Kenji TateⒸ , Daniella Barbacena , Lia Tan , Vinodhan Kuppusamy , Vu Duc Hung Allen
+CW BV	advancing	Closing Opposition	Kenji TateⒸ , Daniella Barbacena , Lia Tan , Vinodhan Kuppusamy , Vu Duc Hung Allen
+Team Africa	eliminated	Opening Government	Asif Mehedi AdiⒸ , Francis Vendiola , Luigi Alcañeses , Matcha Cual , Mezen Lababidi
+Smart is just an Adjective to descr	eliminated	Opening Opposition	Asif Mehedi AdiⒸ , Francis Vendiola , Luigi Alcañeses , Matcha Cual , Mezen Lababidi
+Charli XCX? We are Careless XXX	advancing	Closing Government	Asif Mehedi AdiⒸ , Francis Vendiola , Luigi Alcañeses , Matcha Cual , Mezen Lababidi
+Xiao Bai	advancing	Closing Opposition	Asif Mehedi AdiⒸ , Francis Vendiola , Luigi Alcañeses , Matcha Cual , Mezen Lababidi
+RSG Sapphire	eliminated	Opening Government	Judy JIⒸ , George Chen , Ian Qiu , Ken Singson , Louise Wee
+CityUHK A	eliminated	Opening Opposition	Judy JIⒸ , George Chen , Ian Qiu , Ken Singson , Louise Wee
+Shanghai Oreo	advancing	Closing Government	Judy JIⒸ , George Chen , Ian Qiu , Ken Singson , Louise Wee
+Mchua A	advancing	Closing Opposition	Judy JIⒸ , George Chen , Ian Qiu , Ken Singson , Louise Wee
+
+
+team	result	side	adjudicators
+CW BV	advancing	Opening Government	Park YoungwooⒸ , Luigi Alcañeses , Maeca Pansensoy , Miro Fortuna , Nayantara
+Team Australia	advancing	Opening Opposition	Park YoungwooⒸ , Luigi Alcañeses , Maeca Pansensoy , Miro Fortuna , Nayantara
+We&#x27;re not invited	eliminated	Closing Government	Park YoungwooⒸ , Luigi Alcañeses , Maeca Pansensoy , Miro Fortuna , Nayantara
+CW KH	eliminated	Closing Opposition	Park YoungwooⒸ , Luigi Alcañeses , Maeca Pansensoy , Miro Fortuna , Nayantara
+Shanghai Oreo	advancing	Closing Opposition	Jordyn GibsonⒸ , Kavisshnu , Liam Oldrey , Sharun Nikesh , Xandy Sophia Armamento
+Charli XCX? We are Careless XXX	eliminated	Opening Government	Jordyn GibsonⒸ , Kavisshnu , Liam Oldrey , Sharun Nikesh , Xandy Sophia Armamento
+Xiao Bai	advancing	Opening Opposition	Jordyn GibsonⒸ , Kavisshnu , Liam Oldrey , Sharun Nikesh , Xandy Sophia Armamento
+Mchua A	eliminated	Closing Government	Jordyn GibsonⒸ , Kavisshnu , Liam Oldrey , Sharun Nikesh , Xandy Sophia Armamento
+
+
+team	result	side	adjudicators
+Team Australia	advancing	Opening Opposition	Mezen LababidiⒸ , Klaudia Maciejewska , Matcha Cual , Neackle Mempin , Park Youngwoo , Umar Fazlan , Vinodhan Kuppusamy
+Xiao Bai	eliminated	Closing Government	Mezen LababidiⒸ , Klaudia Maciejewska , Matcha Cual , Neackle Mempin , Park Youngwoo , Umar Fazlan , Vinodhan Kuppusamy
+CW BV	eliminated	Closing Opposition	Mezen LababidiⒸ , Klaudia Maciejewska , Matcha Cual , Neackle Mempin , Park Youngwoo , Umar Fazlan , Vinodhan Kuppusamy
+Shanghai Oreo	eliminated	Opening Government	Mezen LababidiⒸ , Klaudia Maciejewska , Matcha Cual , Neackle Mempin , Park Youngwoo , Umar Fazlan , Vinodhan Kuppusamy
+
+
+team	result	side	adjudicators
+CW AI	advancing	Opening Government	Ben BensaliⒸ , Aliyah Herlihy , Jing Yu Ma
+Schrodingers arguments	eliminated	Opening Opposition	Ben BensaliⒸ , Aliyah Herlihy , Jing Yu Ma
+Madam Chair, the Global Poor	eliminated	Closing Government	Ben BensaliⒸ , Aliyah Herlihy , Jing Yu Ma
+Mario flower	advancing	Closing Opposition	Ben BensaliⒸ , Aliyah Herlihy , Jing Yu Ma
+XxNoBossJustHacksxX	eliminated	Opening Government	Cj SalayoⒸ , Adel Mostaque Ahmed , Gabrielle Pacaño
+CW TG	advancing	Opening Opposition	Cj SalayoⒸ , Adel Mostaque Ahmed , Gabrielle Pacaño
+Capstone AJ	eliminated	Closing Government	Cj SalayoⒸ , Adel Mostaque Ahmed , Gabrielle Pacaño
+LOZO JAYJAY	advancing	Closing Opposition	Cj SalayoⒸ , Adel Mostaque Ahmed , Gabrielle Pacaño
+CW AB	eliminated	Opening Government	Jaed BengzonⒸ , Kyle Louis Ramos , Ngô Minh Kiên Jack
+CW CS	advancing	Opening Opposition	Jaed BengzonⒸ , Kyle Louis Ramos , Ngô Minh Kiên Jack
+CW RC	advancing	Closing Government	Jaed BengzonⒸ , Kyle Louis Ramos , Ngô Minh Kiên Jack
+XxNoHacksJustBossxX	eliminated	Closing Opposition	Jaed BengzonⒸ , Kyle Louis Ramos , Ngô Minh Kiên Jack
+Mmmmm, K	advancing	Opening Government	Sharun NikeshⒸ , Garrett Li , Klaudia Maciejewska
+CW AE	advancing	Opening Opposition	Sharun NikeshⒸ , Garrett Li , Klaudia Maciejewska
+CW YM	eliminated	Closing Government	Sharun NikeshⒸ , Garrett Li , Klaudia Maciejewska
+PLKC A	eliminated	Closing Opposition	Sharun NikeshⒸ , Garrett Li , Klaudia Maciejewska
+
+
+team	result	side	adjudicators
+CW TG	advancing	Opening Government	Umar FazlanⒸ , Christopher Chua , Kyle Go , Louise Wee , Vinodhan Kuppusamy
+LOZO JAYJAY	eliminated	Opening Opposition	Umar FazlanⒸ , Christopher Chua , Kyle Go , Louise Wee , Vinodhan Kuppusamy
+CW AE	eliminated	Closing Government	Umar FazlanⒸ , Christopher Chua , Kyle Go , Louise Wee , Vinodhan Kuppusamy
+Mmmmm, K	advancing	Closing Opposition	Umar FazlanⒸ , Christopher Chua , Kyle Go , Louise Wee , Vinodhan Kuppusamy
+Mario flower	advancing	Closing Opposition	Neackle MempinⒸ , Alikhan , Asif Mehedi Adi , Daniel Christopher Haduca , Lia Tan
+CW RC	eliminated	Opening Government	Neackle MempinⒸ , Alikhan , Asif Mehedi Adi , Daniel Christopher Haduca , Lia Tan
+CW AI	advancing	Opening Opposition	Neackle MempinⒸ , Alikhan , Asif Mehedi Adi , Daniel Christopher Haduca , Lia Tan
+CW CS	eliminated	Closing Government	Neackle MempinⒸ , Alikhan , Asif Mehedi Adi , Daniel Christopher Haduca , Lia Tan
+
+
+team	result	side	adjudicators
+CW TG	eliminated	Opening Opposition	Maeca PansensoyⒸ , Asif Mehedi Adi , George Chen , Judy JI , Kenji Tate , Luigi Alcañeses , Prashasti Saxena
+CW AI	advancing	Closing Government	Maeca PansensoyⒸ , Asif Mehedi Adi , George Chen , Judy JI , Kenji Tate , Luigi Alcañeses , Prashasti Saxena
+Mmmmm, K	eliminated	Closing Opposition	Maeca PansensoyⒸ , Asif Mehedi Adi , George Chen , Judy JI , Kenji Tate , Luigi Alcañeses , Prashasti Saxena
+Mario flower	eliminated	Opening Government	Maeca PansensoyⒸ , Asif Mehedi Adi , George Chen , Judy JI , Kenji Tate , Luigi Alcañeses , Prashasti Saxena
+
+
+team	result	side	adjudicators
+Chocolate taco	eliminated	Opening Government	Jonathan TuliaoⒸ , Alikhan , Jordyn Gibson
+Tung tung sahur	advancing	Opening Opposition	Jonathan TuliaoⒸ , Alikhan , Jordyn Gibson
+RSG Gold	eliminated	Closing Government	Jonathan TuliaoⒸ , Alikhan , Jordyn Gibson
+RSG Silver	advancing	Closing Opposition	Jonathan TuliaoⒸ , Alikhan , Jordyn Gibson
+Swing 250	advancing	Opening Government	Miro FortunaⒸ , Liam Oldrey , Umar Fazlan
+CW JB	advancing	Opening Opposition	Miro FortunaⒸ , Liam Oldrey , Umar Fazlan
+LOZO - Wait Please No	eliminated	Closing Government	Miro FortunaⒸ , Liam Oldrey , Umar Fazlan
+CW LJ	eliminated	Closing Opposition	Miro FortunaⒸ , Liam Oldrey , Umar Fazlan
+strawberry	advancing	Opening Government	KavisshnuⒸ , Christopher Chua , Neackle Mempin
+guava	eliminated	Opening Opposition	KavisshnuⒸ , Christopher Chua , Neackle Mempin
+CW TP	eliminated	Closing Government	KavisshnuⒸ , Christopher Chua , Neackle Mempin
+Tung-Oh Go Away!	advancing	Closing Opposition	KavisshnuⒸ , Christopher Chua , Neackle Mempin
+CW CK	advancing	Opening Government	Daniel Christopher HaducaⒸ , Bea Legaspi , Nayantara
+CW JI	advancing	Opening Opposition	Daniel Christopher HaducaⒸ , Bea Legaspi , Nayantara
+CW NK	eliminated	Closing Government	Daniel Christopher HaducaⒸ , Bea Legaspi , Nayantara
+Iphone SE	eliminated	Closing Opposition	Daniel Christopher HaducaⒸ , Bea Legaspi , Nayantara
+
+
+team	result	side	adjudicators
+CW JI	eliminated	Opening Government	Daniella BarbacenaⒸ , Adel Mostaque Ahmed , Ben Bensali , Garrett Li , Kyle Louis Ramos
+RSG Silver	advancing	Opening Opposition	Daniella BarbacenaⒸ , Adel Mostaque Ahmed , Ben Bensali , Garrett Li , Kyle Louis Ramos
+Tung tung sahur	eliminated	Closing Government	Daniella BarbacenaⒸ , Adel Mostaque Ahmed , Ben Bensali , Garrett Li , Kyle Louis Ramos
+CW CK	advancing	Closing Opposition	Daniella BarbacenaⒸ , Adel Mostaque Ahmed , Ben Bensali , Garrett Li , Kyle Louis Ramos
+CW JB	advancing	Opening Government	Ngô Minh Kiên JackⒸ , Gabrielle Pacaño , Jaed Bengzon , Matcha Cual , Prashasti Saxena
+strawberry	advancing	Opening Opposition	Ngô Minh Kiên JackⒸ , Gabrielle Pacaño , Jaed Bengzon , Matcha Cual , Prashasti Saxena
+Swing 250	eliminated	Closing Government	Ngô Minh Kiên JackⒸ , Gabrielle Pacaño , Jaed Bengzon , Matcha Cual , Prashasti Saxena
+Tung-Oh Go Away!	eliminated	Closing Opposition	Ngô Minh Kiên JackⒸ , Gabrielle Pacaño , Jaed Bengzon , Matcha Cual , Prashasti Saxena
+
+
+team	result	side	adjudicators
+strawberry	advancing	Opening Government	Matcha CualⒸ , Aliyah Herlihy , Bea Legaspi , Christopher Chua , Daniella Barbacena , Jordyn Gibson , Ngô Minh Kiên Jack
+CW JB	eliminated	Opening Opposition	Matcha CualⒸ , Aliyah Herlihy , Bea Legaspi , Christopher Chua , Daniella Barbacena , Jordyn Gibson , Ngô Minh Kiên Jack
+RSG Silver	eliminated	Closing Government	Matcha CualⒸ , Aliyah Herlihy , Bea Legaspi , Christopher Chua , Daniella Barbacena , Jordyn Gibson , Ngô Minh Kiên Jack
+CW CK	eliminated	Closing Opposition	Matcha CualⒸ , Aliyah Herlihy , Bea Legaspi , Christopher Chua , Daniella Barbacena , Jordyn Gibson , Ngô Minh Kiên Jack
+
+
+team	result	side	adjudicators
+Big babies	advancing	Opening Opposition	Ken SingsonⒸ , Bea Legaspi , Cj Salayo , Francis Vendiola , Kenji Tate
+Hallabong 2	advancing	Closing Opposition	Ken SingsonⒸ , Bea Legaspi , Cj Salayo , Francis Vendiola , Kenji Tate
+RSG Diamond	eliminated	Opening Government	Ken SingsonⒸ , Bea Legaspi , Cj Salayo , Francis Vendiola , Kenji Tate
+VADP Double2Tam	eliminated	Closing Government	Ken SingsonⒸ , Bea Legaspi , Cj Salayo , Francis Vendiola , Kenji Tate
+Nova A Leg Splitting Frog	eliminated	Closing Opposition	Aliyah HerlihyⒸ , George Chen , Jing Yu Ma , Jonathan Tuliao , Judy JI
+VADP HDPA	eliminated	Opening Opposition	Aliyah HerlihyⒸ , George Chen , Jing Yu Ma , Jonathan Tuliao , Judy JI
+RSG Emerald	advancing	Closing Government	Aliyah HerlihyⒸ , George Chen , Jing Yu Ma , Jonathan Tuliao , Judy JI
+One moment	advancing	Opening Government	Aliyah HerlihyⒸ , George Chen , Jing Yu Ma , Jonathan Tuliao , Judy JI
+
+
+team	result	side	adjudicators
+Big babies	eliminated	Opening Opposition	Gabrielle PacañoⒸ , Jaed Bengzon , Ken Singson , Klaudia Maciejewska , Liam Oldrey , Mezen Lababidi , Sharun Nikesh
+One moment	eliminated	Closing Government	Gabrielle PacañoⒸ , Jaed Bengzon , Ken Singson , Klaudia Maciejewska , Liam Oldrey , Mezen Lababidi , Sharun Nikesh
+Hallabong 2	eliminated	Closing Opposition	Gabrielle PacañoⒸ , Jaed Bengzon , Ken Singson , Klaudia Maciejewska , Liam Oldrey , Mezen Lababidi , Sharun Nikesh
+RSG Emerald	advancing	Opening Government	Gabrielle PacañoⒸ , Jaed Bengzon , Ken Singson , Klaudia Maciejewska , Liam Oldrey , Mezen Lababidi , Sharun Nikesh
+

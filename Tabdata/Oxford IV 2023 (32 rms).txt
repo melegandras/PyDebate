@@ -1,0 +1,1103 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds	Irons
+1	LSE A		1st	1st	1st	1st	2nd	14	807	4	1	0
+2	Bucharest A	ESL	1st	1st	3rd	1st	1st	13	807	4	0	0
+3	Zagreb A	ESL	2nd	1st	2nd	1st	1st	13	807	3	2	0
+4	LSE B	ESL	1st	3rd	1st	2nd	1st	12	810	3	1	0
+5	MDU RY		1st	1st	1st	4th	1st	12	800	4	0	0
+6	TCD Phil BM		2nd	1st	1st	1st	3rd	12	783	3	1	1
+7	Yale A		1st	1st	2nd	3rd	2nd	11	809	2	2	0
+8	Harvard AM		1st	2nd	1st	2nd	3rd	11	802	2	2	0
+9	KCL AK		4th	1st	1st	1st	2nd	11	800	3	1	0
+10	UoL A		1st	2nd	1st	3rd	2nd	11	800	2	2	0
+11	Bates MB		2nd	2nd	2nd	2nd	1st	11	799	1	4	0
+12	Cambridge MS		2nd	1st	4th	1st	1st	11	792	3	1	0
+13	Stanford BL		1st	3rd	2nd	2nd	1st	11	791	2	2	0
+14	Stanford QF		2nd	1st	2nd	2nd	2nd	11	786	1	4	0
+15	Hart House B		1st	3rd	1st	3rd	1st	11	783	3	0	0
+16	Aber A		1st	4th	1st	2nd	1st	11	778	3	1	0
+17	Stanford HS		1st	1st	2nd	2nd	4th	10	800	2	2	0
+18	UCD L&amp;H A		1st	1st	4th	3rd	1st	10	797	3	0	0
+19	Cambridge AM		1st	2nd	1st	4th	2nd	10	796	2	2	0
+20	LSE C	ESL	1st	2nd	3rd	1st	3rd	10	796	2	1	0
+21	TCD Phil BP		3rd	1st	1st	4th	1st	10	793	3	0	0
+22	Imperial 2		2nd	4th	1st	2nd	1st	10	792	2	2	0
+23	EUDU CS		1st	1st	3rd	1st	4th	10	790	3	0	0
+24	Stanford DL		2nd	1st	3rd	1st	3rd	10	788	2	1	0
+25	Stanford AB		3rd	2nd	1st	2nd	2nd	10	788	1	3	0
+26	Warsaw AM	ESL	2nd	1st	4th	2nd	1st	10	785	2	2	0
+27	Bucharest B	ESL	2nd	4th	1st	1st	2nd	10	784	2	2	0
+28	Exeter B		3rd	3rd	1st	2nd	1st	10	767	2	1	0
+29	KCL MS		1st	2nd	4th	2nd	2nd	9	810	1	3	0
+30	TCD Hist CF		3rd	1st	3rd	1st	3rd	9	789	2	0	0
+31	Harvard D	Novice	2nd	3rd	1st	3rd	2nd	9	783	1	2	0
+32	Cornell OP		1st	1st	4th	4th	1st	9	782	3	0	0
+33	TCD Hist AH		2nd	2nd	3rd	1st	3rd	9	780	1	2	0
+34	NU S	ESL	1st	3rd	2nd	3rd	2nd	9	779	1	2	0
+35	UT MARA A	ESL	2nd	2nd	1st	2nd	4th	9	778	1	3	0
+36=	DK Wien BE	ESL	1st	4th	1st	1st	4th	9	777	3	0	0
+36=	GUU A		4th	1st	1st	1st	4th	9	777	3	0	0
+38	Athabasca A		3rd	1st	4th	1st	2nd	9	775	2	1	0
+39	UT MARA B	ESL	3rd	2nd	2nd	3rd	1st	9	774	1	2	0
+40	Princeton IC		2nd	3rd	2nd	1st	3rd	9	772	1	2	0
+41	UCD L&amp;H B		3rd	2nd	4th	1st	1st	9	769	2	1	0
+42	LSE D		2nd	1st	2nd	3rd	3rd	9	767	1	2	0
+43	St Andrews A		4th	2nd	2nd	2nd	1st	9	764	1	3	0
+44	UBB B	ESL, Novice	3rd	3rd	2nd	1st	2nd	9	752	1	2	0
+45	Hart House C		1st	2nd	3rd	4th	2nd	8	787	1	2	0
+46	Harvard GS		2nd	2nd	3rd	3rd	2nd	8	782	0	3	0
+47	Princeton FJ		3rd	1st	2nd	4th	2nd	8	779	1	2	0
+48	UCL TM		1st	2nd	3rd	3rd	3rd	8	779	1	1	0
+49	TCD Phil A		4th	1st	2nd	4th	1st	8	778	2	1	0
+50	Hart House A		1st	3rd	2nd	3rd	3rd	8	776	1	1	0
+51	Cambridge IJ		2nd	2nd	4th	3rd	1st	8	774	1	2	0
+52	Sciences Po B	ESL	2nd	3rd	2nd	2nd	3rd	8	773	0	3	0
+53	UT MARA C	ESL	1st	4th	3rd	1st	3rd	8	772	2	0	0
+54	ASDV Bonaparte	ESL	3rd	1st	2nd	2nd	4th	8	772	1	2	0
+55	Bucharest C	ESL, Novice	2nd	3rd	4th	2nd	1st	8	771	1	2	0
+56	Princeton JW		2nd	4th	1st	3rd	2nd	8	770	1	2	0
+57	Cambridge DD		2nd	3rd	2nd	2nd	3rd	8	767	0	3	0
+58=	Imperial 1		1st	3rd	3rd	1st	4th	8	764	2	0	0
+58=	LSE E	Novice	3rd	1st	1st	3rd	4th	8	764	2	0	0
+60	Imperial 3		4th	1st	3rd	1st	3rd	8	761	2	0	0
+61	Girton MM		3rd	1st	4th	2nd	2nd	8	757	1	2	0
+62	Manchester WA	Novice	2nd	4th	3rd	2nd	1st	8	727	1	2	0
+63	Middlebury 2		3rd	4th	1st	3rd	1st	8	712	2	0	1
+64	Harvard HW		4th	1st	2nd	3rd	3rd	7	782	1	1	0
+65	UBC WY		3rd	2nd	1st	4th	3rd	7	774	1	1	0
+66	UoL JR		3rd	2nd	2nd	3rd	3rd	7	774	0	2	0
+67	Princeton AH		1st	4th	3rd	1st	4th	7	773	2	0	0
+68	EUDU KC	Novice	2nd	2nd	3rd	3rd	3rd	7	769	0	2	0
+69	UT MARA D	ESL	4th	2nd	1st	4th	2nd	7	768	1	2	0
+70	Cambridge TM		2nd	3rd	3rd	3rd	2nd	7	768	0	2	0
+71=	UCL ZZ		3rd	1st	4th	4th	1st	7	755	2	0	0
+71=	Exeter A		1st	3rd	1st	4th	4th	7	755	2	0	0
+73	Sciences Po A		1st	2nd	2nd	4th	4th	7	755	1	2	0
+74	UCD L&amp;H C		1st	4th	3rd	3rd	2nd	7	754	1	1	0
+75	Manchester AZ	Novice	3rd	3rd	3rd	3rd	1st	7	745	1	0	0
+76	KCL HA	ESL	4th	4th	1st	1st	3rd	7	744	2	0	0
+77	DK Wien DD		1st	4th	4th	3rd	1st	7	743	2	0	0
+78	ELTE A	ESL, Novice	1st	4th	3rd	1st	4th	7	742	2	0	0
+79	St Andrews GG	Novice	4th	3rd	2nd	2nd	2nd	7	741	0	3	0
+80	HPU CS	Novice	4th	1st	3rd	4th	1st	7	736	2	0	0
+81	Colgate AK		4th	2nd	1st	4th	2nd	7	718	1	2	0
+82	KCL AF	Novice	2nd	3rd	4th	1st	4th	6	768	1	1	0
+83	UCL DD		3rd	2nd	2nd	4th	3rd	6	765	0	2	0
+84	Bates KR	ESL	2nd	1st	4th	4th	3rd	6	764	1	1	0
+85	Cambridge CL		2nd	4th	2nd	2nd	4th	6	762	0	3	0
+86	UCD LawSoc 2		3rd	2nd	4th	3rd	2nd	6	762	0	2	0
+87	Warwick YI		2nd	2nd	4th	4th	2nd	6	761	0	3	0
+88	UBC CV		2nd	4th	4th	3rd	1st	6	760	1	1	0
+89	UCL CZ	Novice	4th	3rd	1st	2nd	4th	6	756	1	1	0
+90	Bates NC		2nd	4th	3rd	2nd	3rd	6	754	0	2	0
+91	Sciences Po C		3rd	2nd	3rd	2nd	4th	6	752	0	2	0
+92	GUU B	Novice	4th	1st	4th	1st	4th	6	749	2	0	0
+93	Colgate BD		3rd	3rd	2nd	2nd	4th	6	747	0	2	0
+94	RHUL C		2nd	4th	4th	1st	3rd	6	742	1	1	0
+95	TCD Phil BF	Novice	3rd	3rd	3rd	4th	1st	6	738	1	0	0
+96	UBC VL	Novice	3rd	3rd	4th	1st	3rd	6	737	1	0	0
+97	Sciences Po D	ESL	4th	3rd	4th	1st	2nd	6	730	1	1	0
+98	Colgate RL		4th	2nd	4th	2nd	2nd	6	718	0	3	0
+99	Swing C		4th	2nd	3rd	1st	—	6	618	1	1	4
+100	Swing B		2nd	3rd	1st	4th	—	6	613	1	1	4
+101	Stanford BC		1st	3rd	4th	3rd	4th	5	762	1	0	0
+102	Princeton PK		2nd	2nd	3rd	4th	4th	5	757	0	2	0
+103	EUDU FS		1st	4th	4th	4th	2nd	5	751	1	1	0
+104	NU A	ESL	4th	1st	4th	4th	2nd	5	747	1	1	0
+105	ETHZ A	ESL, Novice	4th	2nd	2nd	4th	3rd	5	745	0	2	0
+106	Corvinus C	ESL	3rd	4th	1st	4th	3rd	5	741	1	0	0
+107	Middlebury 3	ESL, Novice	3rd	4th	2nd	2nd	4th	5	741	0	2	0
+108	Stuttgart A	ESL	3rd	4th	4th	3rd	1st	5	735	1	0	0
+109	Sciences Po E	ESL, Novice	3rd	3rd	3rd	3rd	3rd	5	733	0	0	0
+110	QMU A	ESL	4th	3rd	2nd	4th	2nd	5	729	0	2	0
+111	Reading C	Novice	4th	2nd	4th	1st	4th	5	723	1	1	0
+112	Corvinus A	ESL	3rd	4th	1st	3rd	4th	5	721	1	0	0
+113	Warwick CK		4th	4th	2nd	2nd	4th	4	731	0	2	0
+114	Redacted		4th	3rd	4th	4th	1st	4	728	1	0	0
+115	Corvinus B	ESL	3rd	4th	4th	2nd	3rd	4	726	0	1	0
+116	Sheffield AC	Novice	4th	4th	3rd	1st	4th	4	722	1	0	0
+117	RHUL B		3rd	4th	2nd	3rd	4th	4	721	0	1	0
+118	LDU AJ	ESL, Novice	3rd	3rd	4th	3rd	3rd	4	705	0	0	0
+119	HPU B	Novice	4th	4th	2nd	2nd	—	4	569	0	2	0
+120	Swing A		4th	2nd	2nd	4th	—	4	564	0	2	3
+121	Imperial 4		4th	4th	3rd	2nd	4th	3	739	0	1	0
+122	UBB A	ESL, Novice	4th	4th	1st	4th	4th	3	729	1	0	0
+123	Reading A		4th	3rd	3rd	4th	3rd	3	720	0	0	0
+124	Sheffield GB		3rd	4th	3rd	4th	3rd	3	719	0	0	0
+125	UCD LawSoc 1	Novice	4th	3rd	3rd	3rd	4th	3	714	0	0	0
+126	Middlebury 1	Novice	4th	3rd	3rd	4th	4th	2	733	0	0	0
+127	Reading B		4th	4th	4th	4th	2nd	2	716	0	1	0
+128	RHUL A		4th	4th	4th	3rd	4th	1	705	0	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Matt Song		Yale A	82	84	82	79	80	407	81.40	1.74
+2=	Tanae Rao		LSE A	80	82	83	81	80	406	81.20	1.17
+2=	Paula Djaković	ESL	Zagreb A	79	81	83	83	80	406	81.20	1.60
+2=	Sachin Tissera	ESL	LSE B	82	79	83	80	82	406	81.20	1.47
+5=	Tejas Subramaniam		Stanford HS	82	82	84	80	77	405	81.00	2.37
+5=	Wajeeh Maaz		KCL MS	83	81	79	82	80	405	81.00	1.41
+5=	Jack Stanley		KCL MS	82	80	79	82	82	405	81.00	1.26
+5=	Valeriu Carasel	ESL	Bucharest A	82	82	80	81	80	405	81.00	0.89
+9	Stefan Milicescu	ESL	LSE B	81	78	83	80	82	404	80.80	1.72
+10=	Max Rosen		MDU RY	83	78	83	78	80	402	80.40	2.24
+10=	David Bloom		Yale A	83	83	79	77	80	402	80.40	2.33
+10=	Ted Chang		UoL A	82	79	84	78	79	402	80.40	2.24
+10=	Ana Coman	ESL	Bucharest A	80	81	79	81	81	402	80.40	0.80
+14=	Kamila Kawczak		KCL AK	76	82	83	81	79	401	80.20	2.48
+14=	Robert Raos	ESL	Zagreb A	79	80	82	81	79	401	80.20	1.17
+14=	Matt Mauriello		Harvard AM	81	79	81	80	80	401	80.20	0.75
+14=	Jack Palmer		TCD Phil BP	79	83	81	77	81	401	80.20	2.04
+14=	Deon Kiew		LSE A	79	81	83	80	78	401	80.20	1.72
+14=	Annushka Agarwal	Novice	Harvard AM	80	80	82	80	79	401	80.20	0.98
+20	Andrew Monteith		Bates MB	81	79	80	79	81	400	80.00	0.89
+21=	Shane Tully		UCD L&amp;H A	79	80	78	80	82	399	79.80	1.33
+21=	Arjun Raman		KCL AK	76	82	82	81	78	399	79.80	2.40
+21=	Manuel Machorro	ESL	LSE C	84	77	79	81	78	399	79.80	2.48
+21=	Perry Beckett		Bates MB	80	80	78	81	80	399	79.80	0.98
+21=	Luke Ashworth		Cambridge AM	81	80	81	77	80	399	79.80	1.47
+26=	Reana Yan		MDU RY	83	77	83	77	78	398	79.60	2.80
+26=	Rob Fitzpatrick		UCD L&amp;H A	78	80	79	79	82	398	79.60	1.36
+26=	Umar Buckus		UoL A	80	78	82	79	79	398	79.60	1.36
+26=	Isabelle Sim Yun Yi		Cambridge MS	79	82	78	79	80	398	79.60	1.36
+30=	Emma Heijnen	ESL	LSE C	82	78	79	80	78	397	79.40	1.50
+30=	Molly Carroll		TCD Hist CF	75	83	77	84	78	397	79.40	3.50
+30=	Amitai Ben Porat	ESL	Stanford BL	81	78	77	78	83	397	79.40	2.24
+30=	Laura Hallmark		Imperial 2	82	76	81	78	80	397	79.40	2.15
+30=	Fraser McConachie		Cambridge AM	80	80	80	77	80	397	79.40	1.20
+30=	Alexandr Susic		EUDU CS	78	81	79	81	78	397	79.40	1.36
+36	Muhammad Dhafer		Stanford DL	78	81	80	79	78	396	79.20	1.17
+37=	Max Williams		Hart House B	75	81	82	80	77	395	79.00	2.61
+37=	Eli Pallrand		Cornell OP	79	81	80	75	80	395	79.00	2.10
+37=	Daanish Sohail Sonawala		Imperial 2	82	74	82	78	79	395	79.00	2.97
+37=	Jubayer Ibn Hamid		Stanford HS	79	79	81	79	77	395	79.00	1.26
+41=	Eamon Roach		Hart House C	81	79	79	77	78	394	78.80	1.33
+41=	Aarit Bhattacharya	Novice	Imperial 1	79	79	78	80	78	394	78.80	0.75
+41=	Elizabeth Li	Novice	Stanford BL	80	78	78	76	82	394	78.80	2.04
+41=	Emma Blemaster		Stanford AB	79	81	78	77	79	394	78.80	1.33
+41=	Tori Qiu		Stanford QF	76	81	82	77	78	394	78.80	2.32
+41=	Seamus Allen		Stanford AB	79	80	78	78	79	394	78.80	0.75
+41=	Taran Molloy		Cambridge MS	78	82	76	80	78	394	78.80	2.04
+48=	Miles Wang		Harvard HW	79	81	77	80	76	393	78.60	1.85
+48=	James Alexandr Carr		EUDU CS	77	79	79	80	78	393	78.60	1.02
+48=	Alicja Filbier	ESL	Warsaw AM	78	80	76	80	79	393	78.60	1.50
+48=	Emily Shi		Hart House C	80	79	77	79	78	393	78.60	1.02
+52=	Dragos Sassu	ESL	Bucharest B	81	78	77	80	76	392	78.40	1.85
+52=	Oisín Browne		TCD Phil BP	79	81	78	77	77	392	78.40	1.50
+52=	Mateusz Wójtowicz	ESL	Warsaw AM	79	79	75	80	79	392	78.40	1.74
+52=	Tom Francis		TCD Hist CF	74	82	77	82	77	392	78.40	3.14
+52=	Sajid Farook		Stanford QF	77	80	80	76	79	392	78.40	1.62
+52=	Jennifer Lin		Stanford DL	77	79	80	79	77	392	78.40	1.20
+52=	Ambika Grover	Novice	Harvard D	80	78	79	77	78	392	78.40	1.02
+52=	Theo Simion	ESL	Bucharest B	82	77	77	79	77	392	78.40	1.96
+52=	Alexandra McCreadie		Aber A	78	78	79	77	80	392	78.40	1.02
+61=	Ziyad Anwer		TCD Hist AH	80	78	79	76	78	391	78.20	1.33
+61=	Harvey Olden		GUU A	78	79	80	78	76	391	78.20	1.33
+61=	Humaid Saleem		Harvard GS	78	81	79	75	78	391	78.20	1.94
+61=	Ananya Ganesh		Harvard GS	80	79	79	74	79	391	78.20	2.14
+61=	Afzal Hussein		Princeton AH	80	78	77	81	75	391	78.20	2.14
+61=	Stephanie Chen	Novice	Harvard D	79	77	80	77	78	391	78.20	1.17
+67=	Hilary Vanni		TCD Phil A	76	80	78	77	79	390	78.00	1.41
+67=	Arpi Yang		Hart House A	81	76	81	76	76	390	78.00	2.45
+67=	Sheryar Fazal		Princeton FJ	77	80	81	75	77	390	78.00	2.19
+67=	Speaker		UBC WY	77	80	85	74	74	390	78.00	4.15
+67=	Aaryam Marthur		UCL TM	80	81	76	76	77	390	78.00	2.10
+67=	Scott Lockie		Exeter B	74	76	79	81	80	390	78.00	2.61
+67=	Altynay Zamanbekova	ESL	NU S	78	78	81	75	78	390	78.00	1.90
+67=	Rohan Subagaran	ESL	UoL JR	78	77	79	79	77	390	78.00	0.89
+67=	Victor Bervoets	ESL	DK Wien BE	76	79	79	83	73	390	78.00	3.35
+76=	Kaustubh Jain		Princeton FJ	77	79	81	74	78	389	77.80	2.32
+76=	Rick Tan		UCL TM	82	78	78	74	77	389	77.80	2.56
+76=	Azim Nadzari	ESL	UT MARA A	75	80	79	78	77	389	77.80	1.72
+76=	Rehan Haneef		TCD Hist AH	79	78	79	76	77	389	77.80	1.17
+76=	Jenna Hong		Harvard HW	78	80	78	78	75	389	77.80	1.60
+76=	Aigerim Aibassova	ESL	NU S	79	77	79	76	78	389	77.80	1.17
+76=	Emma Jones		Athabasca A	78	78	75	79	79	389	77.80	1.47
+76=	Amirul Syakir	ESL	UT MARA A	76	80	80	76	77	389	77.80	1.83
+84=	Adrianne Ward		UCD L&amp;H B	78	79	73	79	79	388	77.60	2.33
+84=	Adam Banihani		Hart House B	75	76	81	79	77	388	77.60	2.15
+84=	Henrietta Vanni		TCD Phil A	75	79	79	76	79	388	77.60	1.74
+87=	Mira Eberdorfer	ESL	DK Wien BE	75	77	80	83	72	387	77.40	3.83
+87=	Aria Kim	Novice	EUDU KC	74	80	77	79	77	387	77.40	2.06
+87=	Aisyah	ESL	UT MARA B	79	76	76	78	78	387	77.40	1.20
+87=	Jack Jillings		St Andrews A	75	80	77	77	78	387	77.40	1.62
+87=	Alexander Zhang	Novice	Cornell OP	79	79	77	74	78	387	77.40	1.85
+87=	Dumitru Arina	ESL, Novice	Bucharest C	77	75	76	81	78	387	77.40	2.06
+87=	Adam Hafiz	ESL	UT MARA B	79	76	78	77	77	387	77.40	1.02
+87=	Sarah Aston	ESL	UT MARA C	80	76	80	78	73	387	77.40	2.65
+87=	Irina Chicus	ESL	ASDV Bonaparte	72	80	78	81	76	387	77.40	3.20
+87=	Genevieve Cox		Princeton IC	77	78	77	81	74	387	77.40	2.24
+87=	Joshua Low		Cambridge IJ	79	77	78	74	79	387	77.40	1.85
+87=	Isaac Mellis-Glynn		Cambridge IJ	77	78	78	74	80	387	77.40	1.96
+87=	Vaiva Zaleckaitė	ESL	Sciences Po B	79	76	79	79	74	387	77.40	2.06
+100=	Serena Yuan		Hart House A	81	77	80	73	75	386	77.20	2.99
+100=	Khadija Omer Rehman	ESL, Novice	LSE E	78	77	81	74	76	386	77.20	2.32
+100=	Žygimantas Lukša	ESL	Sciences Po B	79	76	79	79	73	386	77.20	2.40
+100=	Faustina Zhang	Novice	KCL AF	77	79	75	80	75	386	77.20	2.04
+100=	Dominic Ferris		Aber A	77	77	80	73	79	386	77.20	2.40
+100=	Janul De Silva		Princeton JW	79	76	78	76	77	386	77.20	1.17
+100=	Karel Brandenbarg		Athabasca A	78	77	75	78	78	386	77.20	1.17
+100=	Vikram Balasubramanian		TCD Phil BM	74	79	79	79	75	386	77.20	2.23
+100=	Alyssa Mills		GUU A	77	79	79	76	75	386	77.20	1.60
+100=	Toby Mayhew		Cambridge TM	79	77	77	78	75	386	77.20	1.33
+110=	Haikal Daniel	ESL	UT MARA C	80	75	77	76	77	385	77.00	1.67
+110=	Alysha Rendi	ESL	UT MARA D	77	77	80	75	76	385	77.00	1.67
+110=	Oana Nitu	ESL	ASDV Bonaparte	73	80	77	80	75	385	77.00	2.76
+110=	Mariana Icaza Diaz		Princeton IC	76	78	76	82	73	385	77.00	2.97
+110=	Dharani Shashidaran		Cambridge DD	77	76	79	77	76	385	77.00	1.10
+115=	Arjun Gunalan	ESL, Novice	LSE D	77	77	79	76	75	384	76.80	1.33
+115=	Speaker		UBC WY	75	79	81	74	75	384	76.80	2.71
+115=	Christian Da Silva		UCL DD	79	75	78	77	75	384	76.80	1.60
+115=	Mutuzac Alexandra	ESL, Novice	Bucharest C	77	75	75	80	77	384	76.80	1.83
+115=	Joshua Stone	Novice	UoL JR	76	76	79	77	76	384	76.80	1.17
+115=	Wee Ern Lau		Princeton JW	79	76	78	75	76	384	76.80	1.47
+121=	Ihsanuddin	ESL	UT MARA D	77	77	79	75	75	383	76.60	1.50
+121=	Priyansh Shah		LSE D	76	79	78	76	74	383	76.60	1.74
+121=	Sabeeh Khan	ESL	Bates KR	80	79	75	73	76	383	76.60	2.58
+124=	Yit Xiang		Warwick YI	79	78	75	72	78	382	76.40	2.58
+124=	Tik Sze		Imperial 3	75	76	77	74	80	382	76.40	2.06
+124=	Aurora Zhang	Novice	KCL AF	78	78	75	78	73	382	76.40	2.06
+124=	Michael White		UCD LawSoc 2	76	78	77	76	75	382	76.40	1.02
+124=	Fawaz Ahmad		Princeton AH	79	77	76	78	72	382	76.40	2.42
+124=	Claire Beamer		Stanford BC	82	78	78	75	69	382	76.40	4.32
+124=	Adam Černička	ESL, Novice	EUDU KC	73	78	79	77	75	382	76.40	2.15
+124=	Daniel Kam		Cambridge DD	77	76	79	74	76	382	76.40	1.62
+124=	Muhammad Zufar Farhan Zuhdi	ESL	Cambridge TM	77	77	78	76	74	382	76.40	1.36
+133=	Ayman Memon		UCD L&amp;H C	78	76	77	74	76	381	76.20	1.33
+133=	Brooke Reid Dwyer	Novice	UCD L&amp;H B	76	79	73	78	75	381	76.20	2.14
+133=	Manav Dhaliwal		UCL DD	79	74	78	76	74	381	76.20	2.04
+133=	Abdul Rafay	ESL	Bates KR	79	78	74	73	77	381	76.20	2.32
+133=	Rahul Kalavagunta		Princeton PK	77	79	76	75	74	381	76.20	1.72
+133=	Jemimah Lee	Novice	Cambridge CL	78	75	78	79	71	381	76.20	2.93
+133=	Vanessa Chen		Cambridge CL	78	75	79	79	70	381	76.20	3.43
+140=	Speaker	Novice	UBC CV	77	76	75	73	79	380	76.00	2.00
+140=	Nadia Chung		Stanford BC	80	80	77	74	69	380	76.00	4.15
+140=	Ellie Middleton		Exeter A	81	75	79	71	74	380	76.00	3.58
+140=	Speaker		UBC CV	76	76	75	74	79	380	76.00	1.67
+140=	Tosca Neumann	ESL	Bates NC	78	76	76	78	72	380	76.00	2.19
+140=	Aadir Mathur		Girton MM	79	80	67	76	78	380	76.00	4.69
+140=	Matthew O&#x27;Donnell	Novice	UCD LawSoc 2	77	76	76	76	75	380	76.00	0.63
+147=	Ieva Varanauskaitė		Warwick YI	77	77	75	72	78	379	75.80	2.14
+147=	Shalini Sellam	Novice	Imperial 3	75	76	75	76	77	379	75.80	0.75
+149=	Victor Tong		Sciences Po A	79	77	80	75	67	378	75.60	4.63
+149=	Roy Zhang		UCL ZZ	78	77	77	71	75	378	75.60	2.50
+149=	Eli Ferrell		EUDU FS	82	71	71	77	77	378	75.60	4.18
+149=	Mihika Chechi	Novice	LSE E	77	73	79	76	73	378	75.60	2.33
+149=	Zaakir Zulfikar	Novice	UCL CZ	73	76	78	77	74	378	75.60	1.85
+149=	Rohan Campion	Novice	UCL CZ	75	75	78	76	74	378	75.60	1.36
+155=	Randy Chang	Novice	Sciences Po A	80	77	79	75	66	377	75.40	5.00
+155=	Cordelia Thompson		Exeter B	73	74	77	76	77	377	75.40	1.62
+155=	Nora Zhu		Sciences Po C	77	77	72	75	76	377	75.40	1.85
+155=	Boen Beavers		Colgate BD	77	75	75	74	76	377	75.40	1.02
+155=	Salomie Alexandru-Teodor	ESL, Novice	UBB B	75	74	76	76	76	377	75.40	0.80
+155=	Olivia Ortlieb		St Andrews A	72	77	76	74	78	377	75.40	2.15
+155=	Riyaan Misra	Novice	Girton MM	77	80	68	76	76	377	75.40	3.98
+155=	Lisa Zhura		UCL ZZ	78	76	76	71	76	377	75.40	2.33
+163=	Mahathir mahmud	ESL, Novice	GUU B	77	81	73	72	73	376	75.20	3.37
+163=	Emily Paulin		Princeton PK	76	79	76	72	73	376	75.20	2.48
+165=	Ciocîrlan Darius Alexandru	ESL, Novice	UBB B	74	75	76	75	75	375	75.00	0.63
+165=	Alex Martin		Exeter A	80	74	82	65	74	375	75.00	5.93
+165=	Alice Xu	Novice	Sciences Po C	76	77	72	75	75	375	75.00	1.67
+165=	András Meleg	ESL	Corvinus C	70	79	75	73	78	375	75.00	3.29
+165=	Kuralay Khaidar	ESL	NU A	75	76	73	74	77	375	75.00	1.41
+165=	Carys Rees		RHUL C	77	74	75	76	73	375	75.00	1.41
+171=	Robert Cropp		Bates NC	77	74	76	75	72	374	74.80	1.72
+171=	Frederick Steinmann	ESL, Novice	ETHZ A	76	78	76	72	72	374	74.80	2.40
+173=	Zainab Sardar		EUDU FS	81	72	70	73	77	373	74.60	3.93
+173=	Aleksandra Durbazeva		DK Wien DD	78	63	73	81	78	373	74.60	6.34
+173=	Graham Heathcote	Novice	St Andrews GG	75	73	73	76	76	373	74.60	1.36
+173=	Donal O&#x27;Byrne	Novice	UCD L&amp;H C	77	75	74	72	75	373	74.60	1.62
+173=	Abdullah Atassi	Novice	Manchester AZ	73	76	75	74	75	373	74.60	1.02
+173=	Zoe McFadyen	Novice	GUU B	77	79	72	71	74	373	74.60	3.01
+179=	Himaya Perera	ESL	KCL HA	74	70	74	79	75	372	74.40	2.87
+179=	Anna Szlovacsek	ESL, Novice	ELTE A	75	73	77	77	70	372	74.40	2.65
+179=	anoushcka bhat	ESL, Novice	KCL HA	73	70	75	80	74	372	74.40	3.26
+179=	Zofia Robinska	Novice	Manchester AZ	75	75	74	74	74	372	74.40	0.49
+179=	Ainagul Amangeldina	ESL	NU A	72	76	73	73	78	372	74.40	2.24
+184=	Esther Lüscher	ESL, Novice	ETHZ A	75	77	75	72	72	371	74.20	1.94
+184=	Landon Chenault	Novice	HPU CS	72	76	76	70	77	371	74.20	2.71
+184=	Ralucca Bleier	ESL, Novice	TCD Phil BF	69	75	74	75	78	371	74.20	2.93
+184=	David Ye	Novice	Imperial 4	77	75	72	73	74	371	74.20	1.72
+184=	Aria Saines	ESL, Novice	Middlebury 3	75	74	75	76	71	371	74.20	1.72
+189=	Jaodun Muntasir	ESL, Novice	ELTE A	77	72	77	76	68	370	74.00	3.52
+189=	Josephine DeBono		Colgate BD	76	70	74	75	75	370	74.00	2.10
+189=	Matthew Hamer		Imperial 1	78	78	58	81	75	370	74.00	8.22
+189=	Theo Dorfner	ESL	DK Wien DD	77	64	72	78	79	370	74.00	5.55
+189=	Fenya Walter	ESL, Novice	Middlebury 3	73	73	76	77	71	370	74.00	2.19
+189=	Speaker	Novice	UBC VL	75	78	66	77	74	370	74.00	4.24
+195	Markus Gelfgren	ESL	Stuttgart A	77	75	66	72	79	369	73.80	4.53
+196=	Vija Turulyte	ESL, Novice	Sciences Po E	75	74	78	69	72	368	73.60	3.01
+196=	George Capell	Novice	St Andrews GG	74	72	71	76	75	368	73.60	1.85
+196=	Zuzanna Godzinska	ESL, Novice	Middlebury 1	75	75	72	73	73	368	73.60	1.20
+196=	Ahmer Hussain		Imperial 4	77	75	70	72	74	368	73.60	2.42
+200=	Speaker	Novice	UBC VL	74	77	66	75	75	367	73.40	3.83
+200=	Jess Hope		RHUL C	73	72	73	77	72	367	73.40	1.85
+200=	Yvonne Farrell	Novice	TCD Phil BF	66	74	75	75	77	367	73.40	3.83
+203=	Selma Lyhne	ESL, Novice	Sciences Po D	72	76	67	73	78	366	73.20	3.76
+203=	Ida Letic	ESL	Stuttgart A	78	74	65	72	77	366	73.20	4.62
+203=	William Li	Novice	Manchester WA	75	75	67	71	78	366	73.20	3.82
+203=	Modoi Iulia Irina	ESL, Novice	UBB A	64	72	76	79	75	366	73.20	5.11
+203=	Andok Júlia	ESL, Novice	Corvinus C	70	75	72	72	77	366	73.20	2.48
+203=	Benjamin Dokupil		Colgate AK	66	74	77	75	74	366	73.20	3.76
+203=	Caitlin Henry		Warwick CK	75	75	72	76	68	366	73.20	2.93
+210=	Maria Neagu	ESL, Novice	Sciences Po E	75	74	76	68	72	365	73.00	2.83
+210=	Krish Singh	Novice	Warwick CK	75	75	71	75	69	365	73.00	2.53
+210=	Speaker		Redacted	76	74	69	68	78	365	73.00	3.90
+210=	Ariana Troutman	Novice	Middlebury 1	75	73	71	74	72	365	73.00	1.41
+210=	Milena Bonarowska	ESL	QMU A	75	75	71	67	77	365	73.00	3.58
+210=	Katelyn Sims	Novice	HPU CS	71	75	73	71	75	365	73.00	1.79
+216=	Katrina Simanovska	ESL	Sciences Po D	70	77	68	72	77	364	72.80	3.66
+216=	Derwen Fay		RHUL B	78	73	67	76	70	364	72.80	3.97
+216=	Diána Pásztor	ESL	Corvinus A	76	70	75	68	75	364	72.80	3.19
+216=	Fausta Zykute	ESL	QMU A	73	76	72	67	76	364	72.80	3.31
+220=	Krisztián Filep	ESL	Corvinus B	75	70	71	71	76	363	72.60	2.42
+220=	Cherecheș Ștefania	ESL, Novice	UBB A	65	71	73	79	75	363	72.60	4.63
+220=	Speaker	Novice	Redacted	74	75	68	68	78	363	72.60	3.98
+220=	Kolos Ágoston Mohácsi	ESL	Corvinus B	76	70	71	71	75	363	72.60	2.42
+220=	Emmanuel Adeyeye	Novice	Reading C	74	74	66	78	71	363	72.60	3.98
+225=	Samuel Allen	Novice	Sheffield AC	73	73	70	74	72	362	72.40	1.36
+225=	AK Udofia		Reading B	70	75	69	72	76	362	72.40	2.73
+227=	Desiree Rigaud		Colgate RL	63	75	73	77	73	361	72.20	4.83
+227=	Rhys Bishop	Novice	Sheffield GB	74	73	70	68	76	361	72.20	2.86
+227=	Andy Yeung	ESL, Novice	Manchester WA	75	74	66	70	76	361	72.20	3.71
+227=	Roishe McGuinness		Reading A	73	71	71	72	74	361	72.20	1.17
+227=	Aidan Scible		Middlebury 2	73	62	74	75	77	361	72.20	5.27
+232=	Saffron Marshallsay	Novice	Reading C	73	74	66	75	72	360	72.00	3.16
+232=	Naomi Chillingworth	Novice	Sheffield AC	72	73	73	74	68	360	72.00	2.10
+234	Ion Klitorakis		Reading A	72	70	70	72	75	359	71.80	1.83
+235	Manmini Gunasekera	ESL	Sheffield GB	74	72	69	68	75	358	71.60	2.73
+236=	Pearse Woods	Novice	UCD LawSoc 1	74	72	66	74	71	357	71.40	2.94
+236=	Andrew Ludwin	Novice	Colgate RL	62	74	73	75	73	357	71.40	4.76
+236=	Emma Flanagan	Novice	UCD LawSoc 1	74	73	66	74	70	357	71.40	3.07
+236=	Kirsty Ama Meisima Nash		RHUL B	77	70	66	75	69	357	71.40	4.03
+236=	Jázmin Csillag Kiss	ESL, Novice	Corvinus A	73	68	74	67	75	357	71.40	3.26
+241	Aafke Moltzer	ESL, Novice	LDU AJ	71	63	73	76	73	356	71.20	4.40
+242	Diana Puri		Reading B	68	72	69	71	74	354	70.80	2.14
+243	Ella Hearn-Zhang		RHUL A	71	69	69	70	74	353	70.60	1.85
+244=	Milo Austin		Colgate AK	66	75	75	61	75	352	70.40	5.85
+244=	Makenzie Shilling	Novice	RHUL A	70	69	69	71	73	352	70.40	1.50
+246	Johannes Leppäkorpi	ESL, Novice	LDU AJ	67	62	74	72	74	349	69.80	4.66
+247	Dylan McCarthy		TCD Phil BM	—	81	81	81	80	323	80.75	0.43
+248	Speaker 1		Swing B	77	77	78	75	—	307	76.75	1.09
+249	Cora Raub	Novice	HPU B	69	68	74	75	—	286	71.50	3.04
+250	Adrielle Sloan	Novice	HPU B	68	68	72	75	—	283	70.75	2.95
+251	Speaker 1		Swing A	69	78	78	57	—	282	70.50	8.62
+252	Clay Rosser	Novice	Middlebury 2	71	62	70	72	—	275	68.75	3.96
+253	Speaker 1		Swing C	73	78	—	84	—	235	78.33	4.50
+254	Speaker 2		Swing A	69	—	—	—	—	69	69.00	0.00
+255=	Speaker 2		Swing B	—	—	—	—	—	—	—	—
+255=	Speaker 2		Swing C	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+GUU A	4th	Opening Government	View Ballot	Pjotr KosterⒸ , Brenna McConnell
+Warsaw AM	2nd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Brenna McConnell
+LSE A	1st	Closing Opposition	View Ballot	Pjotr KosterⒸ , Brenna McConnell
+UCL ZZ	3rd	Closing Government	View Ballot	Pjotr KosterⒸ , Brenna McConnell
+NU A	4th	Opening Government	View Ballot	Oskar SherryⒸ , Zachary Too
+Manchester AZ	3rd	Opening Opposition	View Ballot	Oskar SherryⒸ , Zachary Too
+Manchester WA	2nd	Closing Government	View Ballot	Oskar SherryⒸ , Zachary Too
+Stanford BL	1st	Closing Opposition	View Ballot	Oskar SherryⒸ , Zachary Too
+Warwick CK	4th	Opening Government	View Ballot	Gareth LimⒸ , Ella Rose Feeney
+Princeton JW	2nd	Closing Government	View Ballot	Gareth LimⒸ , Ella Rose Feeney
+Sciences Po A	1st	Closing Opposition	View Ballot	Gareth LimⒸ , Ella Rose Feeney
+UoL JR	3rd	Opening Opposition	View Ballot	Gareth LimⒸ , Ella Rose Feeney
+KCL AF	2nd	Opening Government	View Ballot	Amelia PotockaⒸ , Ciornea Cristian
+Colgate BD	3rd	Closing Opposition	View Ballot	Amelia PotockaⒸ , Ciornea Cristian
+Imperial 3	4th	Opening Opposition	View Ballot	Amelia PotockaⒸ , Ciornea Cristian
+Princeton AH	1st	Closing Government	View Ballot	Amelia PotockaⒸ , Ciornea Cristian
+TCD Phil BF	3rd	Opening Opposition	View Ballot	Tom KusonⒸ , Aleisha Martinez Sandoval
+Stanford HS	1st	Closing Opposition	View Ballot	Tom KusonⒸ , Aleisha Martinez Sandoval
+Princeton PK	2nd	Opening Government	View Ballot	Tom KusonⒸ , Aleisha Martinez Sandoval
+UBB A	4th	Closing Government	View Ballot	Tom KusonⒸ , Aleisha Martinez Sandoval
+RHUL B	3rd	Opening Opposition	View Ballot	Isabella FreelandⒸ , Joshua McGillivray
+Reading A	4th	Closing Opposition	View Ballot	Isabella FreelandⒸ , Joshua McGillivray
+Cambridge CL	2nd	Closing Government	View Ballot	Isabella FreelandⒸ , Joshua McGillivray
+UoL A	1st	Opening Government	View Ballot	Isabella FreelandⒸ , Joshua McGillivray
+Sheffield GB	3rd	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Jack Boag
+HPU B	4th	Closing Government	View Ballot	Nikola MichaylovⒸ , Jack Boag
+Cambridge AM	1st	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Jack Boag
+Bates NC	2nd	Opening Government	View Ballot	Nikola MichaylovⒸ , Jack Boag
+KCL MS	1st	Closing Government	View Ballot	Naomi PanovkaⒸ , David Kelly
+Cambridge MS	2nd	Opening Opposition	View Ballot	Naomi PanovkaⒸ , David Kelly
+Colgate RL	4th	Closing Opposition	View Ballot	Naomi PanovkaⒸ , David Kelly
+Girton MM	3rd	Opening Government	View Ballot	Naomi PanovkaⒸ , David Kelly
+GUU B	4th	Closing Government	View Ballot	Mark RotheryⒸ , Ananya Krishna
+NU S	1st	Closing Opposition	View Ballot	Mark RotheryⒸ , Ananya Krishna
+Cambridge TM	2nd	Opening Opposition	View Ballot	Mark RotheryⒸ , Ananya Krishna
+Stuttgart A	3rd	Opening Government	View Ballot	Mark RotheryⒸ , Ananya Krishna
+Exeter B	3rd	Opening Government	View Ballot	Klaudia MaciejewskaⒸ , Brianna Wright
+Stanford DL	2nd	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ , Brianna Wright
+Hart House A	1st	Closing Government	View Ballot	Klaudia MaciejewskaⒸ , Brianna Wright
+Swing C	4th	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ , Brianna Wright
+ASDV Bonaparte	3rd	Closing Government	View Ballot	Lucy MurphyⒸ , Ibrahim Ejaz , Iona Spence
+Bucharest C	2nd	Opening Government	View Ballot	Lucy MurphyⒸ , Ibrahim Ejaz , Iona Spence
+LSE C	1st	Opening Opposition	View Ballot	Lucy MurphyⒸ , Ibrahim Ejaz , Iona Spence
+Sciences Po D	4th	Closing Opposition	View Ballot	Lucy MurphyⒸ , Ibrahim Ejaz , Iona Spence
+UT MARA B	3rd	Opening Government	View Ballot	Freddy Simonnet-LefevreⒸ , Wyatt Weekes
+UT MARA D	4th	Opening Opposition	View Ballot	Freddy Simonnet-LefevreⒸ , Wyatt Weekes
+LSE B	1st	Closing Opposition	View Ballot	Freddy Simonnet-LefevreⒸ , Wyatt Weekes
+Bates MB	2nd	Closing Government	View Ballot	Freddy Simonnet-LefevreⒸ , Wyatt Weekes
+St Andrews GG	4th	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Emma Decker
+Harvard D	2nd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Emma Decker
+UCL TM	1st	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Emma Decker
+UCL DD	3rd	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Emma Decker
+Athabasca A	3rd	Opening Opposition	View Ballot	Ricky HuangⒸ , Ange Qin
+QMU A	4th	Opening Government	View Ballot	Ricky HuangⒸ , Ange Qin
+Harvard GS	2nd	Closing Government	View Ballot	Ricky HuangⒸ , Ange Qin
+EUDU FS	1st	Closing Opposition	View Ballot	Ricky HuangⒸ , Ange Qin
+TCD Phil BP	3rd	Closing Government	View Ballot	Shaurya ChandravanshiⒸ , Sisi Batsaikhan
+Bucharest A	1st	Opening Opposition	View Ballot	Shaurya ChandravanshiⒸ , Sisi Batsaikhan
+Imperial 4	4th	Closing Opposition	View Ballot	Shaurya ChandravanshiⒸ , Sisi Batsaikhan
+Bates KR	2nd	Opening Government	View Ballot	Shaurya ChandravanshiⒸ , Sisi Batsaikhan
+UT MARA C	1st	Closing Government	View Ballot	Lucy McManusⒸ , Santiago Jiminez Rowe
+Warwick YI	2nd	Opening Government	View Ballot	Lucy McManusⒸ , Santiago Jiminez Rowe
+St Andrews A	4th	Closing Opposition	View Ballot	Lucy McManusⒸ , Santiago Jiminez Rowe
+Corvinus A	3rd	Opening Opposition	View Ballot	Lucy McManusⒸ , Santiago Jiminez Rowe
+Bucharest B	2nd	Opening Opposition	View Ballot	Lara DragojevićⒸ , Tanvir Thamid
+Stanford AB	3rd	Closing Government	View Ballot	Lara DragojevićⒸ , Tanvir Thamid
+Harvard HW	4th	Closing Opposition	View Ballot	Lara DragojevićⒸ , Tanvir Thamid
+MDU RY	1st	Opening Government	View Ballot	Lara DragojevićⒸ , Tanvir Thamid
+Stanford BC	1st	Closing Opposition	View Ballot	Andrew ChenⒸ , Maisha Nuvah
+Corvinus B	3rd	Opening Opposition	View Ballot	Andrew ChenⒸ , Maisha Nuvah
+UBC CV	2nd	Closing Government	View Ballot	Andrew ChenⒸ , Maisha Nuvah
+Redacted	4th	Opening Government	View Ballot	Andrew ChenⒸ , Maisha Nuvah
+UCD L&amp;H C	1st	Opening Government	View Ballot	Zarina Bell-GamⒸ , Umar Fazlan
+Cambridge DD	2nd	Closing Government	View Ballot	Zarina Bell-GamⒸ , Umar Fazlan
+RHUL A	4th	Closing Opposition	View Ballot	Zarina Bell-GamⒸ , Umar Fazlan
+UBC VL	3rd	Opening Opposition	View Ballot	Zarina Bell-GamⒸ , Umar Fazlan
+Reading C	4th	Opening Government	View Ballot	Alicia WangⒸ , Leauren S. Ji
+UCD L&amp;H A	1st	Opening Opposition	View Ballot	Alicia WangⒸ , Leauren S. Ji
+Princeton IC	2nd	Closing Opposition	View Ballot	Alicia WangⒸ , Leauren S. Ji
+UBC WY	3rd	Closing Government	View Ballot	Alicia WangⒸ , Leauren S. Ji
+Hart House B	1st	Closing Opposition	View Ballot	Lucie SlamovaⒸ , Guyberli van Thuijl
+EUDU KC	2nd	Opening Opposition	View Ballot	Lucie SlamovaⒸ , Guyberli van Thuijl
+Corvinus C	3rd	Closing Government	View Ballot	Lucie SlamovaⒸ , Guyberli van Thuijl
+Swing A	4th	Opening Government	View Ballot	Lucie SlamovaⒸ , Guyberli van Thuijl
+Reading B	4th	Opening Opposition	View Ballot	Olivia WhyteⒸ , Bert Jim Chang
+TCD Phil BM	2nd	Closing Opposition	View Ballot	Olivia WhyteⒸ , Bert Jim Chang
+DK Wien BE	1st	Closing Government	View Ballot	Olivia WhyteⒸ , Bert Jim Chang
+Middlebury 2	3rd	Opening Government	View Ballot	Olivia WhyteⒸ , Bert Jim Chang
+TCD Hist AH	2nd	Closing Government	View Ballot	Matt CaitoⒸ , Emilie Chau , Tin Yan Mok
+Hart House C	1st	Opening Government	View Ballot	Matt CaitoⒸ , Emilie Chau , Tin Yan Mok
+UCD LawSoc 1	4th	Closing Opposition	View Ballot	Matt CaitoⒸ , Emilie Chau , Tin Yan Mok
+UCD LawSoc 2	3rd	Opening Opposition	View Ballot	Matt CaitoⒸ , Emilie Chau , Tin Yan Mok
+Colgate AK	4th	Closing Opposition	View Ballot	Geneva RoyⒸ , Abram Chan
+Stanford QF	2nd	Closing Government	View Ballot	Geneva RoyⒸ , Abram Chan
+EUDU CS	1st	Opening Government	View Ballot	Geneva RoyⒸ , Abram Chan
+LDU AJ	3rd	Opening Opposition	View Ballot	Geneva RoyⒸ , Abram Chan
+Exeter A	1st	Opening Opposition	View Ballot	Emma WalkerⒸ , ShuRui Lai
+LSE E	3rd	Closing Opposition	View Ballot	Emma WalkerⒸ , ShuRui Lai
+Middlebury 1	4th	Closing Government	View Ballot	Emma WalkerⒸ , ShuRui Lai
+Sciences Po B	2nd	Opening Government	View Ballot	Emma WalkerⒸ , ShuRui Lai
+TCD Phil A	4th	Closing Opposition	View Ballot	Đorđe RadosavljevićⒸ , Neva Ensminger-Holland
+Zagreb A	2nd	Closing Government	View Ballot	Đorđe RadosavljevićⒸ , Neva Ensminger-Holland
+Harvard AM	1st	Opening Government	View Ballot	Đorđe RadosavljevićⒸ , Neva Ensminger-Holland
+Princeton FJ	3rd	Opening Opposition	View Ballot	Đorđe RadosavljevićⒸ , Neva Ensminger-Holland
+LSE D	2nd	Opening Government	View Ballot	Ilija IvaniševićⒸ , Karl Eichholz
+Cornell OP	1st	Closing Government	View Ballot	Ilija IvaniševićⒸ , Karl Eichholz
+Sciences Po E	3rd	Opening Opposition	View Ballot	Ilija IvaniševićⒸ , Karl Eichholz
+UCL CZ	4th	Closing Opposition	View Ballot	Ilija IvaniševićⒸ , Karl Eichholz
+UCD L&amp;H B	3rd	Closing Government	View Ballot	Ananya VenkatesanⒸ , Seshiran Govender
+Yale A	1st	Closing Opposition	View Ballot	Ananya VenkatesanⒸ , Seshiran Govender
+Imperial 2	2nd	Opening Government	View Ballot	Ananya VenkatesanⒸ , Seshiran Govender
+ETHZ A	4th	Opening Opposition	View Ballot	Ananya VenkatesanⒸ , Seshiran Govender
+UT MARA A	2nd	Opening Opposition	View Ballot	Brian KamⒸ , Katie Kiely
+HPU CS	4th	Opening Government	View Ballot	Brian KamⒸ , Katie Kiely
+DK Wien DD	1st	Closing Government	View Ballot	Brian KamⒸ , Katie Kiely
+TCD Hist CF	3rd	Closing Opposition	View Ballot	Brian KamⒸ , Katie Kiely
+KCL AK	4th	Closing Opposition	View Ballot	Bharath AnanthamⒸ , Michaela-Georgia Vachou-Peirantakou
+Sciences Po C	3rd	Closing Government	View Ballot	Bharath AnanthamⒸ , Michaela-Georgia Vachou-Peirantakou
+Aber A	1st	Opening Opposition	View Ballot	Bharath AnanthamⒸ , Michaela-Georgia Vachou-Peirantakou
+Swing B	2nd	Opening Government	View Ballot	Bharath AnanthamⒸ , Michaela-Georgia Vachou-Peirantakou
+Sheffield AC	4th	Closing Opposition	View Ballot	Sarenna McKellarⒸ , Henry Clement-Jones
+RHUL C	2nd	Opening Government	View Ballot	Sarenna McKellarⒸ , Henry Clement-Jones
+ELTE A	1st	Closing Government	View Ballot	Sarenna McKellarⒸ , Henry Clement-Jones
+UBB B	3rd	Opening Opposition	View Ballot	Sarenna McKellarⒸ , Henry Clement-Jones
+KCL HA	4th	Opening Opposition	View Ballot	Dhruv LeekhaⒸ , Mary McCarthy
+Cambridge IJ	2nd	Closing Government	View Ballot	Dhruv LeekhaⒸ , Mary McCarthy
+Imperial 1	1st	Closing Opposition	View Ballot	Dhruv LeekhaⒸ , Mary McCarthy
+Middlebury 3	3rd	Opening Government	View Ballot	Dhruv LeekhaⒸ , Mary McCarthy
+
+
+team	result	side	ballot	adjudicators
+ASDV Bonaparte	1st	Closing Opposition	View Ballot	Ricky HuangⒸ , Emma Decker
+Stuttgart A	4th	Opening Opposition	View Ballot	Ricky HuangⒸ , Emma Decker
+Manchester AZ	3rd	Opening Government	View Ballot	Ricky HuangⒸ , Emma Decker
+UCD LawSoc 2	2nd	Closing Government	View Ballot	Ricky HuangⒸ , Emma Decker
+Cambridge IJ	2nd	Opening Government	View Ballot	Olivia WhyteⒸ , David Kelly
+Bucharest C	3rd	Closing Opposition	View Ballot	Olivia WhyteⒸ , David Kelly
+Manchester WA	4th	Opening Opposition	View Ballot	Olivia WhyteⒸ , David Kelly
+LSE D	1st	Closing Government	View Ballot	Olivia WhyteⒸ , David Kelly
+Yale A	1st	Opening Opposition	View Ballot	Andrew ChenⒸ , Ananya Krishna , Neva Ensminger-Holland
+Imperial 1	3rd	Closing Government	View Ballot	Andrew ChenⒸ , Ananya Krishna , Neva Ensminger-Holland
+Hart House C	2nd	Closing Opposition	View Ballot	Andrew ChenⒸ , Ananya Krishna , Neva Ensminger-Holland
+Princeton AH	4th	Opening Government	View Ballot	Andrew ChenⒸ , Ananya Krishna , Neva Ensminger-Holland
+GUU A	1st	Closing Opposition	View Ballot	Brian KamⒸ , Sisi Batsaikhan
+Warwick CK	4th	Closing Government	View Ballot	Brian KamⒸ , Sisi Batsaikhan
+UCL CZ	3rd	Opening Opposition	View Ballot	Brian KamⒸ , Sisi Batsaikhan
+Swing C	2nd	Opening Government	View Ballot	Brian KamⒸ , Sisi Batsaikhan
+KCL MS	2nd	Opening Opposition	View Ballot	Isabella FreelandⒸ , Henry Clement-Jones
+DK Wien BE	4th	Closing Opposition	View Ballot	Isabella FreelandⒸ , Henry Clement-Jones
+Bucharest A	1st	Closing Government	View Ballot	Isabella FreelandⒸ , Henry Clement-Jones
+Stanford BC	3rd	Opening Government	View Ballot	Isabella FreelandⒸ , Henry Clement-Jones
+Warsaw AM	1st	Closing Government	View Ballot	Oskar SherryⒸ , Freddy Simonnet-Lefevre
+Cambridge CL	4th	Closing Opposition	View Ballot	Oskar SherryⒸ , Freddy Simonnet-Lefevre
+Cambridge DD	3rd	Opening Opposition	View Ballot	Oskar SherryⒸ , Freddy Simonnet-Lefevre
+EUDU KC	2nd	Opening Government	View Ballot	Oskar SherryⒸ , Freddy Simonnet-Lefevre
+KCL HA	4th	Closing Opposition	View Ballot	Ananya VenkatesanⒸ , Bert Jim Chang
+HPU CS	1st	Opening Opposition	View Ballot	Ananya VenkatesanⒸ , Bert Jim Chang
+Colgate AK	2nd	Opening Government	View Ballot	Ananya VenkatesanⒸ , Bert Jim Chang
+St Andrews GG	3rd	Closing Government	View Ballot	Ananya VenkatesanⒸ , Bert Jim Chang
+GUU B	1st	Closing Opposition	View Ballot	Gareth LimⒸ , Mary McCarthy
+Imperial 4	4th	Closing Government	View Ballot	Gareth LimⒸ , Mary McCarthy
+QMU A	3rd	Opening Opposition	View Ballot	Gareth LimⒸ , Mary McCarthy
+St Andrews A	2nd	Opening Government	View Ballot	Gareth LimⒸ , Mary McCarthy
+Stanford BL	3rd	Opening Opposition	View Ballot	Mark RotheryⒸ , Maisha Nuvah
+Cornell OP	1st	Opening Government	View Ballot	Mark RotheryⒸ , Maisha Nuvah
+Aber A	4th	Closing Opposition	View Ballot	Mark RotheryⒸ , Maisha Nuvah
+UoL A	2nd	Closing Government	View Ballot	Mark RotheryⒸ , Maisha Nuvah
+Sheffield AC	4th	Closing Government	View Ballot	Lucy McManusⒸ , Karl Eichholz
+KCL AK	1st	Opening Opposition	View Ballot	Lucy McManusⒸ , Karl Eichholz
+ETHZ A	2nd	Opening Government	View Ballot	Lucy McManusⒸ , Karl Eichholz
+Redacted	3rd	Closing Opposition	View Ballot	Lucy McManusⒸ , Karl Eichholz
+TCD Phil A	1st	Opening Opposition	View Ballot	Ibrahim EjazⒸ , Michaela-Georgia Vachou-Peirantakou
+Middlebury 1	3rd	Closing Opposition	View Ballot	Ibrahim EjazⒸ , Michaela-Georgia Vachou-Peirantakou
+UBB A	4th	Opening Government	View Ballot	Ibrahim EjazⒸ , Michaela-Georgia Vachou-Peirantakou
+Swing A	2nd	Closing Government	View Ballot	Ibrahim EjazⒸ , Michaela-Georgia Vachou-Peirantakou
+Reading C	2nd	Opening Opposition	View Ballot	Guyberli van ThuijlⒸ , Ella Rose Feeney
+Reading A	3rd	Opening Government	View Ballot	Guyberli van ThuijlⒸ , Ella Rose Feeney
+HPU B	4th	Closing Opposition	View Ballot	Guyberli van ThuijlⒸ , Ella Rose Feeney
+NU A	1st	Closing Government	View Ballot	Guyberli van ThuijlⒸ , Ella Rose Feeney
+Reading B	4th	Closing Opposition	View Ballot	Leauren S. JiⒸ , Emilie Chau
+UT MARA D	2nd	Opening Government	View Ballot	Leauren S. JiⒸ , Emilie Chau
+Harvard HW	1st	Opening Opposition	View Ballot	Leauren S. JiⒸ , Emilie Chau
+Sciences Po D	3rd	Closing Government	View Ballot	Leauren S. JiⒸ , Emilie Chau
+TCD Phil BM	1st	Closing Government	View Ballot	Matt CaitoⒸ , Lukas Joosten
+Cambridge TM	3rd	Opening Government	View Ballot	Matt CaitoⒸ , Lukas Joosten
+Bates MB	2nd	Opening Opposition	View Ballot	Matt CaitoⒸ , Lukas Joosten
+Princeton JW	4th	Closing Opposition	View Ballot	Matt CaitoⒸ , Lukas Joosten
+Cambridge MS	1st	Opening Government	View Ballot	Shaurya ChandravanshiⒸ , Joshua McGillivray
+Warwick YI	2nd	Closing Government	View Ballot	Shaurya ChandravanshiⒸ , Joshua McGillivray
+UBC CV	4th	Opening Opposition	View Ballot	Shaurya ChandravanshiⒸ , Joshua McGillivray
+Swing B	3rd	Closing Opposition	View Ballot	Shaurya ChandravanshiⒸ , Joshua McGillivray
+UCD L&amp;H B	2nd	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Iona Spence
+TCD Phil BF	3rd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Iona Spence
+TCD Phil BP	1st	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Iona Spence
+Corvinus A	4th	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Iona Spence
+UCD L&amp;H C	4th	Opening Opposition	View Ballot	Alicia WangⒸ , Đorđe Radosavljević
+Cambridge AM	2nd	Closing Opposition	View Ballot	Alicia WangⒸ , Đorđe Radosavljević
+LSE A	1st	Opening Government	View Ballot	Alicia WangⒸ , Đorđe Radosavljević
+LSE B	3rd	Closing Government	View Ballot	Alicia WangⒸ , Đorđe Radosavljević
+Sheffield GB	4th	Opening Opposition	View Ballot	Pjotr KosterⒸ , Umar Fazlan
+Exeter B	3rd	Closing Government	View Ballot	Pjotr KosterⒸ , Umar Fazlan
+Princeton FJ	1st	Opening Government	View Ballot	Pjotr KosterⒸ , Umar Fazlan
+UoL JR	2nd	Closing Opposition	View Ballot	Pjotr KosterⒸ , Umar Fazlan
+KCL AF	3rd	Closing Government	View Ballot	Aniket ChakravortyⒸ , Santiago Jiminez Rowe
+UT MARA A	2nd	Opening Government	View Ballot	Aniket ChakravortyⒸ , Santiago Jiminez Rowe
+Zagreb A	1st	Closing Opposition	View Ballot	Aniket ChakravortyⒸ , Santiago Jiminez Rowe
+Imperial 2	4th	Opening Opposition	View Ballot	Aniket ChakravortyⒸ , Santiago Jiminez Rowe
+NU S	3rd	Closing Government	View Ballot	Sarenna McKellarⒸ , Lucie Slamova
+Stanford HS	1st	Opening Government	View Ballot	Sarenna McKellarⒸ , Lucie Slamova
+Harvard AM	2nd	Closing Opposition	View Ballot	Sarenna McKellarⒸ , Lucie Slamova
+EUDU FS	4th	Opening Opposition	View Ballot	Sarenna McKellarⒸ , Lucie Slamova
+Corvinus B	4th	Closing Government	View Ballot	Lara DragojevićⒸ , Ange Qin
+UBB B	3rd	Closing Opposition	View Ballot	Lara DragojevićⒸ , Ange Qin
+UBC WY	2nd	Opening Government	View Ballot	Lara DragojevićⒸ , Ange Qin
+Girton MM	1st	Opening Opposition	View Ballot	Lara DragojevićⒸ , Ange Qin
+DK Wien DD	4th	Opening Opposition	View Ballot	Geneva RoyⒸ , Ciornea Cristian , Zachary Too
+Exeter A	3rd	Opening Government	View Ballot	Geneva RoyⒸ , Ciornea Cristian , Zachary Too
+Sciences Po A	2nd	Closing Government	View Ballot	Geneva RoyⒸ , Ciornea Cristian , Zachary Too
+MDU RY	1st	Closing Opposition	View Ballot	Geneva RoyⒸ , Ciornea Cristian , Zachary Too
+UCD L&amp;H A	1st	Opening Government	View Ballot	Ilija IvaniševićⒸ , ShuRui Lai
+LSE C	2nd	Closing Government	View Ballot	Ilija IvaniševićⒸ , ShuRui Lai
+Hart House A	3rd	Opening Opposition	View Ballot	Ilija IvaniševićⒸ , ShuRui Lai
+ELTE A	4th	Closing Opposition	View Ballot	Ilija IvaniševićⒸ , ShuRui Lai
+LSE E	1st	Opening Government	View Ballot	Tom KusonⒸ , Brenna McConnell
+Middlebury 2	4th	Closing Opposition	View Ballot	Tom KusonⒸ , Brenna McConnell
+UCL DD	2nd	Opening Opposition	View Ballot	Tom KusonⒸ , Brenna McConnell
+LDU AJ	3rd	Closing Government	View Ballot	Tom KusonⒸ , Brenna McConnell
+TCD Hist AH	2nd	Opening Government	View Ballot	Klaudia MaciejewskaⒸ , Jack Boag
+Bates NC	4th	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ , Jack Boag
+Bates KR	1st	Closing Government	View Ballot	Klaudia MaciejewskaⒸ , Jack Boag
+Sciences Po B	3rd	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ , Jack Boag
+RHUL C	4th	Opening Opposition	View Ballot	Lucy MurphyⒸ , Abram Chan
+Stanford DL	1st	Opening Government	View Ballot	Lucy MurphyⒸ , Abram Chan
+Harvard D	3rd	Closing Opposition	View Ballot	Lucy MurphyⒸ , Abram Chan
+Princeton PK	2nd	Closing Government	View Ballot	Lucy MurphyⒸ , Abram Chan
+UT MARA C	4th	Opening Government	View Ballot	Bharath AnanthamⒸ , Naomi Panovka
+Hart House B	3rd	Closing Government	View Ballot	Bharath AnanthamⒸ , Naomi Panovka
+EUDU CS	1st	Closing Opposition	View Ballot	Bharath AnanthamⒸ , Naomi Panovka
+UCL TM	2nd	Opening Opposition	View Ballot	Bharath AnanthamⒸ , Naomi Panovka
+RHUL B	4th	Closing Government	View Ballot	Amelia PotockaⒸ , Tanvir Thamid
+Colgate BD	3rd	Opening Opposition	View Ballot	Amelia PotockaⒸ , Tanvir Thamid
+Athabasca A	1st	Opening Government	View Ballot	Amelia PotockaⒸ , Tanvir Thamid
+Sciences Po C	2nd	Closing Opposition	View Ballot	Amelia PotockaⒸ , Tanvir Thamid
+Bucharest B	4th	Closing Opposition	View Ballot	Zarina Bell-GamⒸ , Aleisha Martinez Sandoval
+Stanford QF	1st	Opening Government	View Ballot	Zarina Bell-GamⒸ , Aleisha Martinez Sandoval
+Harvard GS	2nd	Opening Opposition	View Ballot	Zarina Bell-GamⒸ , Aleisha Martinez Sandoval
+Princeton IC	3rd	Closing Government	View Ballot	Zarina Bell-GamⒸ , Aleisha Martinez Sandoval
+Colgate RL	2nd	Opening Opposition	View Ballot	Seshiran GovenderⒸ , Katie Kiely
+RHUL A	4th	Closing Government	View Ballot	Seshiran GovenderⒸ , Katie Kiely
+Imperial 3	1st	Closing Opposition	View Ballot	Seshiran GovenderⒸ , Katie Kiely
+UCD LawSoc 1	3rd	Opening Government	View Ballot	Seshiran GovenderⒸ , Katie Kiely
+UT MARA B	2nd	Opening Opposition	View Ballot	Emma WalkerⒸ , Tin Yan Mok
+Middlebury 3	4th	Closing Opposition	View Ballot	Emma WalkerⒸ , Tin Yan Mok
+Sciences Po E	3rd	Closing Government	View Ballot	Emma WalkerⒸ , Tin Yan Mok
+UCL ZZ	1st	Opening Government	View Ballot	Emma WalkerⒸ , Tin Yan Mok
+TCD Hist CF	1st	Closing Government	View Ballot	Nikola MichaylovⒸ , Brianna Wright
+Stanford AB	2nd	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Brianna Wright
+Corvinus C	4th	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Brianna Wright
+UBC VL	3rd	Opening Government	View Ballot	Nikola MichaylovⒸ , Brianna Wright
+
+
+team	result	side	ballot	adjudicators
+KCL MS	4th	Opening Government	View Ballot	Oskar SherryⒸ , Mark Rothery
+Stanford QF	2nd	Closing Opposition	View Ballot	Oskar SherryⒸ , Mark Rothery
+Stanford DL	3rd	Opening Opposition	View Ballot	Oskar SherryⒸ , Mark Rothery
+Harvard AM	1st	Closing Government	View Ballot	Oskar SherryⒸ , Mark Rothery
+UT MARA A	1st	Closing Opposition	View Ballot	Naomi PanovkaⒸ , Olivia Whyte
+Warwick YI	4th	Opening Opposition	View Ballot	Naomi PanovkaⒸ , Olivia Whyte
+Bates MB	2nd	Opening Government	View Ballot	Naomi PanovkaⒸ , Olivia Whyte
+EUDU KC	3rd	Closing Government	View Ballot	Naomi PanovkaⒸ , Olivia Whyte
+UCD L&amp;H B	4th	Opening Government	View Ballot	Pjotr KosterⒸ , Sisi Batsaikhan
+Sciences Po B	2nd	Closing Government	View Ballot	Pjotr KosterⒸ , Sisi Batsaikhan
+ELTE A	3rd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Sisi Batsaikhan
+UBC WY	1st	Closing Opposition	View Ballot	Pjotr KosterⒸ , Sisi Batsaikhan
+TCD Phil BF	3rd	Closing Opposition	View Ballot	Leauren S. JiⒸ , Ella Rose Feeney
+Colgate AK	1st	Opening Opposition	View Ballot	Leauren S. JiⒸ , Ella Rose Feeney
+ETHZ A	2nd	Closing Government	View Ballot	Leauren S. JiⒸ , Ella Rose Feeney
+LDU AJ	4th	Opening Government	View Ballot	Leauren S. JiⒸ , Ella Rose Feeney
+Bucharest B	1st	Opening Government	View Ballot	Sarenna McKellarⒸ , Ciornea Cristian , Emilie Chau
+St Andrews A	2nd	Opening Opposition	View Ballot	Sarenna McKellarⒸ , Ciornea Cristian , Emilie Chau
+Bates NC	3rd	Closing Government	View Ballot	Sarenna McKellarⒸ , Ciornea Cristian , Emilie Chau
+UBC CV	4th	Closing Opposition	View Ballot	Sarenna McKellarⒸ , Ciornea Cristian , Emilie Chau
+Exeter B	1st	Opening Opposition	View Ballot	Shaurya ChandravanshiⒸ , Katie Kiely
+Colgate BD	2nd	Opening Government	View Ballot	Shaurya ChandravanshiⒸ , Katie Kiely
+Manchester WA	3rd	Closing Opposition	View Ballot	Shaurya ChandravanshiⒸ , Katie Kiely
+UBC VL	4th	Closing Government	View Ballot	Shaurya ChandravanshiⒸ , Katie Kiely
+Reading B	4th	Closing Government	View Ballot	Ananya KrishnaⒸ , Bharath Anantham
+Sheffield AC	3rd	Opening Government	View Ballot	Ananya KrishnaⒸ , Bharath Anantham
+HPU B	2nd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Bharath Anantham
+UBB A	1st	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Bharath Anantham
+GUU A	1st	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Brianna Wright , David Kelly
+UCD L&amp;H C	3rd	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Brianna Wright , David Kelly
+DK Wien DD	4th	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Brianna Wright , David Kelly
+Princeton IC	2nd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Brianna Wright , David Kelly
+Cambridge CL	2nd	Opening Opposition	View Ballot	Ibrahim EjazⒸ , Tin Yan Mok
+Colgate RL	4th	Opening Government	View Ballot	Ibrahim EjazⒸ , Tin Yan Mok
+Imperial 2	1st	Closing Opposition	View Ballot	Ibrahim EjazⒸ , Tin Yan Mok
+Swing C	3rd	Closing Government	View Ballot	Ibrahim EjazⒸ , Tin Yan Mok
+RHUL B	2nd	Closing Opposition	View Ballot	Freddy Simonnet-LefevreⒸ , Michaela-Georgia Vachou-Peirantakou
+Stuttgart A	4th	Closing Government	View Ballot	Freddy Simonnet-LefevreⒸ , Michaela-Georgia Vachou-Peirantakou
+UCD LawSoc 1	3rd	Opening Opposition	View Ballot	Freddy Simonnet-LefevreⒸ , Michaela-Georgia Vachou-Peirantakou
+Corvinus A	1st	Opening Government	View Ballot	Freddy Simonnet-LefevreⒸ , Michaela-Georgia Vachou-Peirantakou
+Middlebury 3	2nd	Closing Government	View Ballot	Alicia WangⒸ , Karl Eichholz
+Middlebury 1	3rd	Opening Opposition	View Ballot	Alicia WangⒸ , Karl Eichholz
+UCL CZ	1st	Opening Government	View Ballot	Alicia WangⒸ , Karl Eichholz
+Corvinus B	4th	Closing Opposition	View Ballot	Alicia WangⒸ , Karl Eichholz
+Reading C	4th	Closing Opposition	View Ballot	Seshiran GovenderⒸ , Ange Qin
+UT MARA D	1st	Closing Government	View Ballot	Seshiran GovenderⒸ , Ange Qin
+Sciences Po E	3rd	Opening Government	View Ballot	Seshiran GovenderⒸ , Ange Qin
+Swing A	2nd	Opening Opposition	View Ballot	Seshiran GovenderⒸ , Ange Qin
+KCL HA	1st	Closing Government	View Ballot	Henry Clement-JonesⒸ , Neva Ensminger-Holland
+RHUL A	4th	Opening Opposition	View Ballot	Henry Clement-JonesⒸ , Neva Ensminger-Holland
+Imperial 4	3rd	Opening Government	View Ballot	Henry Clement-JonesⒸ , Neva Ensminger-Holland
+Warwick CK	2nd	Closing Opposition	View Ballot	Henry Clement-JonesⒸ , Neva Ensminger-Holland
+RHUL C	4th	Closing Opposition	View Ballot	Brian KamⒸ , Jack Boag
+Manchester AZ	3rd	Closing Government	View Ballot	Brian KamⒸ , Jack Boag
+Princeton JW	1st	Opening Opposition	View Ballot	Brian KamⒸ , Jack Boag
+UBB B	2nd	Opening Government	View Ballot	Brian KamⒸ , Jack Boag
+Cambridge TM	3rd	Closing Opposition	View Ballot	Ananya VenkatesanⒸ , Ahmed Hussain
+Bucharest C	4th	Opening Opposition	View Ballot	Ananya VenkatesanⒸ , Ahmed Hussain
+UCL DD	2nd	Opening Government	View Ballot	Ananya VenkatesanⒸ , Ahmed Hussain
+Aber A	1st	Closing Government	View Ballot	Ananya VenkatesanⒸ , Ahmed Hussain
+GUU B	4th	Opening Government	View Ballot	Dhruv LeekhaⒸ , Aleisha Martinez Sandoval
+UT MARA B	2nd	Closing Government	View Ballot	Dhruv LeekhaⒸ , Aleisha Martinez Sandoval
+Princeton AH	3rd	Closing Opposition	View Ballot	Dhruv LeekhaⒸ , Aleisha Martinez Sandoval
+Swing B	1st	Opening Opposition	View Ballot	Dhruv LeekhaⒸ , Aleisha Martinez Sandoval
+TCD Phil BM	1st	Opening Opposition	View Ballot	Aniket ChakravortyⒸ , Đorđe Radosavljević
+Warsaw AM	4th	Opening Government	View Ballot	Aniket ChakravortyⒸ , Đorđe Radosavljević
+LSE D	2nd	Closing Opposition	View Ballot	Aniket ChakravortyⒸ , Đorđe Radosavljević
+Hart House C	3rd	Closing Government	View Ballot	Aniket ChakravortyⒸ , Đorđe Radosavljević
+NU S	2nd	Opening Opposition	View Ballot	Gareth LimⒸ , Matt Caito
+Exeter A	1st	Closing Government	View Ballot	Gareth LimⒸ , Matt Caito
+TCD Hist CF	3rd	Opening Government	View Ballot	Gareth LimⒸ , Matt Caito
+UCL ZZ	4th	Closing Opposition	View Ballot	Gareth LimⒸ , Matt Caito
+KCL AF	4th	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ , Umar Fazlan
+TCD Phil A	2nd	Opening Government	View Ballot	Klaudia MaciejewskaⒸ , Umar Fazlan
+DK Wien BE	1st	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ , Umar Fazlan
+Imperial 3	3rd	Closing Government	View Ballot	Klaudia MaciejewskaⒸ , Umar Fazlan
+HPU CS	3rd	Closing Government	View Ballot	Emma WalkerⒸ , Lukas Joosten
+NU A	4th	Closing Opposition	View Ballot	Emma WalkerⒸ , Lukas Joosten
+Cambridge DD	2nd	Opening Government	View Ballot	Emma WalkerⒸ , Lukas Joosten
+Harvard D	1st	Opening Opposition	View Ballot	Emma WalkerⒸ , Lukas Joosten
+Cambridge IJ	4th	Closing Opposition	View Ballot	Amelia PotockaⒸ , Bert Jim Chang
+TCD Hist AH	3rd	Opening Opposition	View Ballot	Amelia PotockaⒸ , Bert Jim Chang
+Hart House B	1st	Opening Government	View Ballot	Amelia PotockaⒸ , Bert Jim Chang
+Princeton FJ	2nd	Closing Government	View Ballot	Amelia PotockaⒸ , Bert Jim Chang
+UCD L&amp;H A	4th	Closing Opposition	View Ballot	Rachel O NunainⒸ , Guyberli van Thuijl
+Yale A	2nd	Opening Government	View Ballot	Rachel O NunainⒸ , Guyberli van Thuijl
+EUDU CS	3rd	Closing Government	View Ballot	Rachel O NunainⒸ , Guyberli van Thuijl
+MDU RY	1st	Opening Opposition	View Ballot	Rachel O NunainⒸ , Guyberli van Thuijl
+KCL AK	1st	Closing Government	View Ballot	Nikola MichaylovⒸ , Joshua McGillivray , Mary McCarthy
+UT MARA C	3rd	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Joshua McGillivray , Mary McCarthy
+UCD LawSoc 2	4th	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Joshua McGillivray , Mary McCarthy
+UoL JR	2nd	Opening Government	View Ballot	Nikola MichaylovⒸ , Joshua McGillivray , Mary McCarthy
+ASDV Bonaparte	2nd	Opening Opposition	View Ballot	Ilija IvaniševićⒸ , Brenna McConnell
+TCD Phil BP	1st	Opening Government	View Ballot	Ilija IvaniševićⒸ , Brenna McConnell
+Athabasca A	4th	Closing Government	View Ballot	Ilija IvaniševićⒸ , Brenna McConnell
+Princeton PK	3rd	Closing Opposition	View Ballot	Ilija IvaniševićⒸ , Brenna McConnell
+Stanford BC	4th	Closing Government	View Ballot	Lucy MurphyⒸ , Tanvir Thamid
+LSE B	1st	Opening Opposition	View Ballot	Lucy MurphyⒸ , Tanvir Thamid
+Harvard GS	3rd	Opening Government	View Ballot	Lucy MurphyⒸ , Tanvir Thamid
+Hart House A	2nd	Closing Opposition	View Ballot	Lucy MurphyⒸ , Tanvir Thamid
+Stanford AB	1st	Closing Opposition	View Ballot	Tom KusonⒸ , Maisha Nuvah
+Harvard HW	2nd	Closing Government	View Ballot	Tom KusonⒸ , Maisha Nuvah
+EUDU FS	4th	Opening Government	View Ballot	Tom KusonⒸ , Maisha Nuvah
+Sciences Po C	3rd	Opening Opposition	View Ballot	Tom KusonⒸ , Maisha Nuvah
+Bucharest A	3rd	Opening Government	View Ballot	Harish NatarajanⒸ , Santiago Jiminez Rowe
+Stanford HS	2nd	Closing Government	View Ballot	Harish NatarajanⒸ , Santiago Jiminez Rowe
+LSE A	1st	Opening Opposition	View Ballot	Harish NatarajanⒸ , Santiago Jiminez Rowe
+Cornell OP	4th	Closing Opposition	View Ballot	Harish NatarajanⒸ , Santiago Jiminez Rowe
+Zagreb A	2nd	Opening Government	View Ballot	Isabella FreelandⒸ , ShuRui Lai
+Bates KR	4th	Closing Opposition	View Ballot	Isabella FreelandⒸ , ShuRui Lai
+UCL TM	3rd	Closing Government	View Ballot	Isabella FreelandⒸ , ShuRui Lai
+UoL A	1st	Opening Opposition	View Ballot	Isabella FreelandⒸ , ShuRui Lai
+Cambridge MS	4th	Closing Government	View Ballot	Andrew ChenⒸ , Emma Decker
+Cambridge AM	1st	Opening Government	View Ballot	Andrew ChenⒸ , Emma Decker
+LSE C	3rd	Closing Opposition	View Ballot	Andrew ChenⒸ , Emma Decker
+Sciences Po A	2nd	Opening Opposition	View Ballot	Andrew ChenⒸ , Emma Decker
+Reading A	3rd	Opening Opposition	View Ballot	Lucy McManusⒸ , Abram Chan
+Middlebury 2	1st	Closing Government	View Ballot	Lucy McManusⒸ , Abram Chan
+QMU A	2nd	Closing Opposition	View Ballot	Lucy McManusⒸ , Abram Chan
+Sciences Po D	4th	Opening Government	View Ballot	Lucy McManusⒸ , Abram Chan
+Sheffield GB	3rd	Opening Government	View Ballot	Zachary TooⒸ , Iona Spence
+St Andrews GG	2nd	Closing Opposition	View Ballot	Zachary TooⒸ , Iona Spence
+Corvinus C	1st	Opening Opposition	View Ballot	Zachary TooⒸ , Iona Spence
+Redacted	4th	Closing Government	View Ballot	Zachary TooⒸ , Iona Spence
+Imperial 1	3rd	Opening Opposition	View Ballot	Ricky HuangⒸ , Lucie Slamova
+Stanford BL	2nd	Opening Government	View Ballot	Ricky HuangⒸ , Lucie Slamova
+LSE E	1st	Closing Government	View Ballot	Ricky HuangⒸ , Lucie Slamova
+Girton MM	4th	Closing Opposition	View Ballot	Ricky HuangⒸ , Lucie Slamova
+
+
+team	result	side	ballot	adjudicators
+UT MARA A	2nd	Closing Government	View Ballot	Lucy MurphyⒸ , Henry Clement-Jones , Mark Rothery
+LSE D	3rd	Opening Opposition	View Ballot	Lucy MurphyⒸ , Henry Clement-Jones , Mark Rothery
+EUDU CS	1st	Closing Opposition	View Ballot	Lucy MurphyⒸ , Henry Clement-Jones , Mark Rothery
+Sciences Po A	4th	Opening Government	View Ballot	Lucy MurphyⒸ , Henry Clement-Jones , Mark Rothery
+Reading B	4th	Opening Government	View Ballot	Alicia WangⒸ , Joshua McGillivray
+Sheffield AC	1st	Closing Government	View Ballot	Alicia WangⒸ , Joshua McGillivray
+Stuttgart A	3rd	Closing Opposition	View Ballot	Alicia WangⒸ , Joshua McGillivray
+Imperial 4	2nd	Opening Opposition	View Ballot	Alicia WangⒸ , Joshua McGillivray
+LSE A	1st	Opening Government	View Ballot	Ilija IvaniševićⒸ , Katie Kiely
+Harvard AM	2nd	Opening Opposition	View Ballot	Ilija IvaniševićⒸ , Katie Kiely
+MDU RY	4th	Closing Government	View Ballot	Ilija IvaniševićⒸ , Katie Kiely
+UoL A	3rd	Closing Opposition	View Ballot	Ilija IvaniševićⒸ , Katie Kiely
+TCD Phil A	4th	Closing Government	View Ballot	Shaurya ChandravanshiⒸ , Bert Jim Chang
+UT MARA B	3rd	Opening Opposition	View Ballot	Shaurya ChandravanshiⒸ , Bert Jim Chang
+Warsaw AM	2nd	Closing Opposition	View Ballot	Shaurya ChandravanshiⒸ , Bert Jim Chang
+Imperial 1	1st	Opening Government	View Ballot	Shaurya ChandravanshiⒸ , Bert Jim Chang
+UCD L&amp;H B	1st	Closing Opposition	View Ballot	Freddy Simonnet-LefevreⒸ , Sisi Batsaikhan
+TCD Phil BF	4th	Closing Government	View Ballot	Freddy Simonnet-LefevreⒸ , Sisi Batsaikhan
+Middlebury 3	2nd	Opening Opposition	View Ballot	Freddy Simonnet-LefevreⒸ , Sisi Batsaikhan
+UCD LawSoc 2	3rd	Opening Government	View Ballot	Freddy Simonnet-LefevreⒸ , Sisi Batsaikhan
+Colgate BD	2nd	Closing Government	View Ballot	Tom KusonⒸ , Emilie Chau
+Imperial 3	1st	Opening Government	View Ballot	Tom KusonⒸ , Emilie Chau
+Corvinus A	3rd	Closing Opposition	View Ballot	Tom KusonⒸ , Emilie Chau
+Swing A	4th	Opening Opposition	View Ballot	Tom KusonⒸ , Emilie Chau
+UCD L&amp;H C	3rd	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ , Ahmed Hussain
+Sciences Po C	2nd	Opening Government	View Ballot	Klaudia MaciejewskaⒸ , Ahmed Hussain
+UCL ZZ	4th	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ , Ahmed Hussain
+UBB B	1st	Closing Government	View Ballot	Klaudia MaciejewskaⒸ , Ahmed Hussain
+UCD L&amp;H A	3rd	Closing Government	View Ballot	Amelia PotockaⒸ , Jack Boag
+DK Wien BE	1st	Opening Government	View Ballot	Amelia PotockaⒸ , Jack Boag
+Bates MB	2nd	Closing Opposition	View Ballot	Amelia PotockaⒸ , Jack Boag
+Hart House C	4th	Opening Opposition	View Ballot	Amelia PotockaⒸ , Jack Boag
+KCL HA	1st	Closing Government	View Ballot	Seshiran GovenderⒸ , Maisha Nuvah
+NU A	4th	Opening Opposition	View Ballot	Seshiran GovenderⒸ , Maisha Nuvah
+Manchester AZ	3rd	Closing Opposition	View Ballot	Seshiran GovenderⒸ , Maisha Nuvah
+St Andrews GG	2nd	Opening Government	View Ballot	Seshiran GovenderⒸ , Maisha Nuvah
+Exeter B	2nd	Opening Government	View Ballot	Gareth LimⒸ , Michaela-Georgia Vachou-Peirantakou
+Princeton IC	1st	Opening Opposition	View Ballot	Gareth LimⒸ , Michaela-Georgia Vachou-Peirantakou
+UCL DD	4th	Closing Opposition	View Ballot	Gareth LimⒸ , Michaela-Georgia Vachou-Peirantakou
+UoL JR	3rd	Closing Government	View Ballot	Gareth LimⒸ , Michaela-Georgia Vachou-Peirantakou
+DK Wien DD	3rd	Opening Government	View Ballot	Nikola MichaylovⒸ , Ella Rose Feeney
+Bucharest C	2nd	Closing Government	View Ballot	Nikola MichaylovⒸ , Ella Rose Feeney
+UBB A	4th	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Ella Rose Feeney
+Swing C	1st	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Ella Rose Feeney
+KCL MS	2nd	Closing Opposition	View Ballot	Pjotr KosterⒸ , Aleisha Martinez Sandoval
+Colgate AK	4th	Closing Government	View Ballot	Pjotr KosterⒸ , Aleisha Martinez Sandoval
+TCD Hist CF	1st	Opening Opposition	View Ballot	Pjotr KosterⒸ , Aleisha Martinez Sandoval
+Harvard HW	3rd	Opening Government	View Ballot	Pjotr KosterⒸ , Aleisha Martinez Sandoval
+GUU A	1st	Closing Government	View Ballot	Dhruv LeekhaⒸ , Naomi Panovka
+Hart House A	3rd	Opening Government	View Ballot	Dhruv LeekhaⒸ , Naomi Panovka
+Aber A	2nd	Closing Opposition	View Ballot	Dhruv LeekhaⒸ , Naomi Panovka
+UBC WY	4th	Opening Opposition	View Ballot	Dhruv LeekhaⒸ , Naomi Panovka
+NU S	3rd	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Đorđe Radosavljević
+Stanford BL	2nd	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Đorđe Radosavljević
+LSE C	1st	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Đorđe Radosavljević
+Swing B	4th	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Đorđe Radosavljević
+RHUL A	3rd	Opening Government	View Ballot	Guyberli van ThuijlⒸ
+Sciences Po D	1st	Closing Opposition	View Ballot	Guyberli van ThuijlⒸ
+Corvinus B	2nd	Closing Government	View Ballot	Guyberli van ThuijlⒸ
+Redacted	4th	Opening Opposition	View Ballot	Guyberli van ThuijlⒸ
+Zagreb A	1st	Closing Government	View Ballot	Ananya VenkatesanⒸ , Lucie Slamova
+Exeter A	4th	Closing Opposition	View Ballot	Ananya VenkatesanⒸ , Lucie Slamova
+Stanford QF	2nd	Opening Opposition	View Ballot	Ananya VenkatesanⒸ , Lucie Slamova
+LSE E	3rd	Opening Government	View Ballot	Ananya VenkatesanⒸ , Lucie Slamova
+Cambridge IJ	3rd	Opening Opposition	View Ballot	Emma WalkerⒸ , Brian Kam
+ELTE A	1st	Opening Government	View Ballot	Emma WalkerⒸ , Brian Kam
+ETHZ A	4th	Closing Opposition	View Ballot	Emma WalkerⒸ , Brian Kam
+Girton MM	2nd	Closing Government	View Ballot	Emma WalkerⒸ , Brian Kam
+GUU B	1st	Opening Opposition	View Ballot	ShuRui LaiⒸ , Emma Decker
+Manchester WA	2nd	Opening Government	View Ballot	ShuRui LaiⒸ , Emma Decker
+QMU A	4th	Closing Government	View Ballot	ShuRui LaiⒸ , Emma Decker
+Sciences Po E	3rd	Closing Opposition	View Ballot	ShuRui LaiⒸ , Emma Decker
+Reading C	1st	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Santiago Jiminez Rowe
+Colgate RL	2nd	Closing Government	View Ballot	Ananya KrishnaⒸ , Santiago Jiminez Rowe
+Middlebury 1	4th	Opening Government	View Ballot	Ananya KrishnaⒸ , Santiago Jiminez Rowe
+LDU AJ	3rd	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Santiago Jiminez Rowe
+UT MARA D	4th	Closing Opposition	View Ballot	Olivia WhyteⒸ , Tanvir Thamid
+Bucharest B	1st	Closing Government	View Ballot	Olivia WhyteⒸ , Tanvir Thamid
+EUDU KC	3rd	Opening Government	View Ballot	Olivia WhyteⒸ , Tanvir Thamid
+Sciences Po B	2nd	Opening Opposition	View Ballot	Olivia WhyteⒸ , Tanvir Thamid
+Sheffield GB	4th	Closing Government	View Ballot	Leauren S. JiⒸ
+Warwick CK	2nd	Opening Opposition	View Ballot	Leauren S. JiⒸ
+UBC CV	3rd	Opening Government	View Ballot	Leauren S. JiⒸ
+UBC VL	1st	Closing Opposition	View Ballot	Leauren S. JiⒸ
+Stanford DL	1st	Closing Government	View Ballot	Geneva RoyⒸ , David Kelly
+Stanford AB	2nd	Opening Government	View Ballot	Geneva RoyⒸ , David Kelly
+Cornell OP	4th	Opening Opposition	View Ballot	Geneva RoyⒸ , David Kelly
+UCL TM	3rd	Closing Opposition	View Ballot	Geneva RoyⒸ , David Kelly
+Cambridge DD	2nd	Opening Government	View Ballot	Aniket ChakravortyⒸ , Brenna McConnell
+TCD Hist AH	1st	Closing Opposition	View Ballot	Aniket ChakravortyⒸ , Brenna McConnell
+Harvard GS	3rd	Closing Government	View Ballot	Aniket ChakravortyⒸ , Brenna McConnell
+Bates KR	4th	Opening Opposition	View Ballot	Aniket ChakravortyⒸ , Brenna McConnell
+UT MARA C	1st	Opening Government	View Ballot	Ricky HuangⒸ , Neva Ensminger-Holland
+HPU CS	4th	Closing Opposition	View Ballot	Ricky HuangⒸ , Neva Ensminger-Holland
+Stanford BC	3rd	Opening Opposition	View Ballot	Ricky HuangⒸ , Neva Ensminger-Holland
+UCL CZ	2nd	Closing Government	View Ballot	Ricky HuangⒸ , Neva Ensminger-Holland
+TCD Phil BP	4th	Opening Opposition	View Ballot	Andrew ChenⒸ , Lucy McManus
+Bucharest A	1st	Closing Opposition	View Ballot	Andrew ChenⒸ , Lucy McManus
+LSE B	2nd	Opening Government	View Ballot	Andrew ChenⒸ , Lucy McManus
+Hart House B	3rd	Closing Government	View Ballot	Andrew ChenⒸ , Lucy McManus
+Athabasca A	1st	Closing Opposition	View Ballot	Lara DragojevićⒸ , Karl Eichholz
+Middlebury 2	3rd	Opening Opposition	View Ballot	Lara DragojevićⒸ , Karl Eichholz
+St Andrews A	2nd	Closing Government	View Ballot	Lara DragojevićⒸ , Karl Eichholz
+Corvinus C	4th	Opening Government	View Ballot	Lara DragojevićⒸ , Karl Eichholz
+ASDV Bonaparte	2nd	Opening Opposition	View Ballot	Ibrahim EjazⒸ , Matt Caito
+KCL AK	1st	Opening Government	View Ballot	Ibrahim EjazⒸ , Matt Caito
+Harvard D	3rd	Closing Government	View Ballot	Ibrahim EjazⒸ , Matt Caito
+Princeton FJ	4th	Closing Opposition	View Ballot	Ibrahim EjazⒸ , Matt Caito
+RHUL B	3rd	Opening Government	View Ballot	Zachary TooⒸ , Mary McCarthy
+KCL AF	1st	Opening Opposition	View Ballot	Zachary TooⒸ , Mary McCarthy
+Bates NC	2nd	Closing Opposition	View Ballot	Zachary TooⒸ , Mary McCarthy
+EUDU FS	4th	Closing Government	View Ballot	Zachary TooⒸ , Mary McCarthy
+TCD Phil BM	1st	Opening Government	View Ballot	Isabella FreelandⒸ , Umar Fazlan
+Cambridge AM	4th	Closing Opposition	View Ballot	Isabella FreelandⒸ , Umar Fazlan
+Yale A	3rd	Closing Government	View Ballot	Isabella FreelandⒸ , Umar Fazlan
+Stanford HS	2nd	Opening Opposition	View Ballot	Isabella FreelandⒸ , Umar Fazlan
+Cambridge MS	1st	Closing Opposition	View Ballot	Rachel O NunainⒸ , Brianna Wright
+Imperial 2	2nd	Closing Government	View Ballot	Rachel O NunainⒸ , Brianna Wright
+Princeton PK	4th	Opening Opposition	View Ballot	Rachel O NunainⒸ , Brianna Wright
+Princeton JW	3rd	Opening Government	View Ballot	Rachel O NunainⒸ , Brianna Wright
+Cambridge TM	3rd	Closing Government	View Ballot	Sarenna McKellarⒸ
+Cambridge CL	2nd	Opening Government	View Ballot	Sarenna McKellarⒸ
+Warwick YI	4th	Closing Opposition	View Ballot	Sarenna McKellarⒸ
+Princeton AH	1st	Opening Opposition	View Ballot	Sarenna McKellarⒸ
+Reading A	4th	Closing Opposition	View Ballot	Ange QinⒸ , Ciornea Cristian
+HPU B	2nd	Opening Government	View Ballot	Ange QinⒸ , Ciornea Cristian
+RHUL C	1st	Closing Government	View Ballot	Ange QinⒸ , Ciornea Cristian
+UCD LawSoc 1	3rd	Opening Opposition	View Ballot	Ange QinⒸ , Ciornea Cristian
+
+
+team	result	side	ballot	adjudicators
+ASDV Bonaparte	4th	Opening Government	View Ballot	Shaurya ChandravanshiⒸ , Ananya Krishna , Oskar Sherry
+TCD Hist CF	3rd	Closing Opposition	View Ballot	Shaurya ChandravanshiⒸ , Ananya Krishna , Oskar Sherry
+Athabasca A	2nd	Opening Opposition	View Ballot	Shaurya ChandravanshiⒸ , Ananya Krishna , Oskar Sherry
+Stanford BL	1st	Closing Government	View Ballot	Shaurya ChandravanshiⒸ , Ananya Krishna , Oskar Sherry
+Bucharest B	2nd	Opening Government	View Ballot	Zarina Bell-GamⒸ , Guyberli van Thuijl
+LSE D	3rd	Closing Government	View Ballot	Zarina Bell-GamⒸ , Guyberli van Thuijl
+Hart House B	1st	Opening Opposition	View Ballot	Zarina Bell-GamⒸ , Guyberli van Thuijl
+ELTE A	4th	Closing Opposition	View Ballot	Zarina Bell-GamⒸ , Guyberli van Thuijl
+Cambridge IJ	1st	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Maisha Nuvah
+Cambridge CL	4th	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Maisha Nuvah
+Hart House C	2nd	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Maisha Nuvah
+UoL JR	3rd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Maisha Nuvah
+KCL AK	2nd	Opening Government	View Ballot	Geneva RoyⒸ , Bert Jim Chang , Tin Yan Mok
+DK Wien BE	4th	Opening Opposition	View Ballot	Geneva RoyⒸ , Bert Jim Chang , Tin Yan Mok
+Princeton IC	3rd	Closing Government	View Ballot	Geneva RoyⒸ , Bert Jim Chang , Tin Yan Mok
+MDU RY	1st	Closing Opposition	View Ballot	Geneva RoyⒸ , Bert Jim Chang , Tin Yan Mok
+DK Wien DD	1st	Closing Opposition	View Ballot	Neva Ensminger-HollandⒸ , Ahmed Hussain
+Warwick CK	4th	Closing Government	View Ballot	Neva Ensminger-HollandⒸ , Ahmed Hussain
+Warwick YI	2nd	Opening Government	View Ballot	Neva Ensminger-HollandⒸ , Ahmed Hussain
+Corvinus C	3rd	Opening Opposition	View Ballot	Neva Ensminger-HollandⒸ , Ahmed Hussain
+UT MARA A	4th	Closing Government	View Ballot	Aniket ChakravortyⒸ , David Kelly , Ella Rose Feeney
+Cambridge MS	1st	Closing Opposition	View Ballot	Aniket ChakravortyⒸ , David Kelly , Ella Rose Feeney
+Stanford QF	2nd	Opening Opposition	View Ballot	Aniket ChakravortyⒸ , David Kelly , Ella Rose Feeney
+Stanford DL	3rd	Opening Government	View Ballot	Aniket ChakravortyⒸ , David Kelly , Ella Rose Feeney
+Imperial 2	1st	Opening Opposition	View Ballot	Lucy MurphyⒸ , Michaela-Georgia Vachou-Peirantakou , Đorđe Radosavljević
+Harvard D	2nd	Closing Opposition	View Ballot	Lucy MurphyⒸ , Michaela-Georgia Vachou-Peirantakou , Đorđe Radosavljević
+UCL CZ	4th	Closing Government	View Ballot	Lucy MurphyⒸ , Michaela-Georgia Vachou-Peirantakou , Đorđe Radosavljević
+UCL TM	3rd	Opening Government	View Ballot	Lucy MurphyⒸ , Michaela-Georgia Vachou-Peirantakou , Đorđe Radosavljević
+Bucharest A	1st	Opening Government	View Ballot	Amelia PotockaⒸ , Ange Qin , Matt Caito
+Yale A	2nd	Closing Opposition	View Ballot	Amelia PotockaⒸ , Ange Qin , Matt Caito
+Harvard AM	3rd	Closing Government	View Ballot	Amelia PotockaⒸ , Ange Qin , Matt Caito
+EUDU CS	4th	Opening Opposition	View Ballot	Amelia PotockaⒸ , Ange Qin , Matt Caito
+GUU A	4th	Opening Opposition	View Ballot	Chris MentisⒸ , Emilie Chau , Olivia Whyte
+LSE C	3rd	Closing Government	View Ballot	Chris MentisⒸ , Emilie Chau , Olivia Whyte
+LSE B	1st	Closing Opposition	View Ballot	Chris MentisⒸ , Emilie Chau , Olivia Whyte
+UoL A	2nd	Opening Government	View Ballot	Chris MentisⒸ , Emilie Chau , Olivia Whyte
+GUU B	4th	Closing Government	View Ballot	Tom KusonⒸ , Sisi Batsaikhan
+Cornell OP	1st	Opening Opposition	View Ballot	Tom KusonⒸ , Sisi Batsaikhan
+Harvard GS	2nd	Closing Opposition	View Ballot	Tom KusonⒸ , Sisi Batsaikhan
+Harvard HW	3rd	Opening Government	View Ballot	Tom KusonⒸ , Sisi Batsaikhan
+TCD Phil BF	1st	Closing Opposition	View Ballot	Henry Clement-JonesⒸ
+EUDU FS	2nd	Opening Opposition	View Ballot	Henry Clement-JonesⒸ
+Corvinus B	3rd	Opening Government	View Ballot	Henry Clement-JonesⒸ
+UBB A	4th	Closing Government	View Ballot	Henry Clement-JonesⒸ
+NU S	2nd	Opening Government	View Ballot	Rachel O NunainⒸ , Tanvir Thamid
+Exeter B	1st	Closing Opposition	View Ballot	Rachel O NunainⒸ , Tanvir Thamid
+Hart House A	3rd	Closing Government	View Ballot	Rachel O NunainⒸ , Tanvir Thamid
+Princeton AH	4th	Opening Opposition	View Ballot	Rachel O NunainⒸ , Tanvir Thamid
+TCD Phil BP	1st	Opening Government	View Ballot	Ilija IvaniševićⒸ , Brenna McConnell
+UT MARA C	3rd	Closing Opposition	View Ballot	Ilija IvaniševićⒸ , Brenna McConnell
+Exeter A	4th	Closing Government	View Ballot	Ilija IvaniševićⒸ , Brenna McConnell
+UBB B	2nd	Opening Opposition	View Ballot	Ilija IvaniševićⒸ , Brenna McConnell
+Cambridge DD	3rd	Closing Opposition	View Ballot	Andrew ChenⒸ , Leauren S. Ji
+Cambridge AM	2nd	Closing Government	View Ballot	Andrew ChenⒸ , Leauren S. Ji
+LSE E	4th	Opening Opposition	View Ballot	Andrew ChenⒸ , Leauren S. Ji
+Bates MB	1st	Opening Government	View Ballot	Andrew ChenⒸ , Leauren S. Ji
+St Andrews A	1st	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Mary McCarthy
+EUDU KC	3rd	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Mary McCarthy
+Sciences Po C	4th	Opening Government	View Ballot	Nikola MichaylovⒸ , Mary McCarthy
+Girton MM	2nd	Closing Government	View Ballot	Nikola MichaylovⒸ , Mary McCarthy
+Cambridge TM	2nd	Closing Opposition	View Ballot	Lara DragojevićⒸ , Emma Decker
+RHUL C	3rd	Closing Government	View Ballot	Lara DragojevićⒸ , Emma Decker
+Middlebury 3	4th	Opening Government	View Ballot	Lara DragojevićⒸ , Emma Decker
+Middlebury 2	1st	Opening Opposition	View Ballot	Lara DragojevićⒸ , Emma Decker
+TCD Phil A	1st	Closing Opposition	View Ballot	Emma WalkerⒸ , Seshiran Govender
+Bates KR	3rd	Opening Government	View Ballot	Emma WalkerⒸ , Seshiran Govender
+Sciences Po D	2nd	Opening Opposition	View Ballot	Emma WalkerⒸ , Seshiran Govender
+Corvinus A	4th	Closing Government	View Ballot	Emma WalkerⒸ , Seshiran Govender
+Colgate AK	2nd	Opening Government	View Ballot	Ananya VenkatesanⒸ , Ciornea Cristian
+Stanford BC	4th	Opening Opposition	View Ballot	Ananya VenkatesanⒸ , Ciornea Cristian
+Bates NC	3rd	Closing Government	View Ballot	Ananya VenkatesanⒸ , Ciornea Cristian
+UCL ZZ	1st	Closing Opposition	View Ballot	Ananya VenkatesanⒸ , Ciornea Cristian
+Reading C	4th	Closing Government	View Ballot	Ibrahim EjazⒸ , Santiago Jiminez Rowe
+UT MARA B	1st	Closing Opposition	View Ballot	Ibrahim EjazⒸ , Santiago Jiminez Rowe
+St Andrews GG	2nd	Opening Opposition	View Ballot	Ibrahim EjazⒸ , Santiago Jiminez Rowe
+UBC WY	3rd	Opening Government	View Ballot	Ibrahim EjazⒸ , Santiago Jiminez Rowe
+Warsaw AM	1st	Closing Government	View Ballot	Pjotr KosterⒸ , Katie Kiely , Lucie Slamova
+Princeton FJ	2nd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Katie Kiely , Lucie Slamova
+Sciences Po A	4th	Closing Opposition	View Ballot	Pjotr KosterⒸ , Katie Kiely , Lucie Slamova
+Sciences Po B	3rd	Opening Government	View Ballot	Pjotr KosterⒸ , Katie Kiely , Lucie Slamova
+TCD Phil BM	3rd	Opening Government	View Ballot	Klaudia MaciejewskaⒸ , Brian Kam , Naomi Panovka
+Zagreb A	1st	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ , Brian Kam , Naomi Panovka
+Stanford HS	4th	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ , Brian Kam , Naomi Panovka
+LSE A	2nd	Closing Government	View Ballot	Klaudia MaciejewskaⒸ , Brian Kam , Naomi Panovka
+UCD L&amp;H B	1st	Closing Opposition	View Ballot	Ricky HuangⒸ , Lukas Joosten
+KCL HA	3rd	Opening Government	View Ballot	Ricky HuangⒸ , Lukas Joosten
+KCL AF	4th	Opening Opposition	View Ballot	Ricky HuangⒸ , Lukas Joosten
+Princeton JW	2nd	Closing Government	View Ballot	Ricky HuangⒸ , Lukas Joosten
+TCD Hist AH	3rd	Closing Opposition	View Ballot	Isabella FreelandⒸ , Sarenna McKellar
+Imperial 1	4th	Closing Government	View Ballot	Isabella FreelandⒸ , Sarenna McKellar
+Stanford AB	2nd	Opening Opposition	View Ballot	Isabella FreelandⒸ , Sarenna McKellar
+Aber A	1st	Opening Government	View Ballot	Isabella FreelandⒸ , Sarenna McKellar
+UCD L&amp;H C	2nd	Closing Opposition	View Ballot	Alicia WangⒸ
+Bucharest C	1st	Opening Opposition	View Ballot	Alicia WangⒸ
+Princeton PK	4th	Closing Government	View Ballot	Alicia WangⒸ
+UCL DD	3rd	Opening Government	View Ballot	Alicia WangⒸ
+UCD L&amp;H A	1st	Opening Opposition	View Ballot	Gareth LimⒸ , Mark Rothery
+KCL MS	2nd	Closing Government	View Ballot	Gareth LimⒸ , Mark Rothery
+Colgate BD	4th	Opening Government	View Ballot	Gareth LimⒸ , Mark Rothery
+Imperial 3	3rd	Closing Opposition	View Ballot	Gareth LimⒸ , Mark Rothery
+HPU CS	1st	Closing Opposition	View Ballot	Freddy Simonnet-LefevreⒸ
+UCD LawSoc 1	4th	Closing Government	View Ballot	Freddy Simonnet-LefevreⒸ
+UCD LawSoc 2	2nd	Opening Opposition	View Ballot	Freddy Simonnet-LefevreⒸ
+ETHZ A	3rd	Opening Government	View Ballot	Freddy Simonnet-LefevreⒸ
+Sheffield GB	3rd	Opening Government	View Ballot	Brianna WrightⒸ
+NU A	2nd	Closing Opposition	View Ballot	Brianna WrightⒸ
+Imperial 4	4th	Closing Government	View Ballot	Brianna WrightⒸ
+UBC CV	1st	Opening Opposition	View Ballot	Brianna WrightⒸ
+Reading B	2nd	Closing Opposition	View Ballot	Umar FazlanⒸ
+Reading A	3rd	Closing Government	View Ballot	Umar FazlanⒸ
+RHUL A	4th	Opening Government	View Ballot	Umar FazlanⒸ
+Redacted	1st	Opening Opposition	View Ballot	Umar FazlanⒸ
+RHUL B	4th	Opening Government	View Ballot	Zachary TooⒸ , Jack Boag
+UT MARA D	2nd	Closing Opposition	View Ballot	Zachary TooⒸ , Jack Boag
+Manchester WA	1st	Opening Opposition	View Ballot	Zachary TooⒸ , Jack Boag
+UBC VL	3rd	Closing Government	View Ballot	Zachary TooⒸ , Jack Boag
+Sheffield AC	4th	Opening Opposition	View Ballot	Bharath AnanthamⒸ
+Colgate RL	2nd	Opening Government	View Ballot	Bharath AnanthamⒸ
+Manchester AZ	1st	Closing Opposition	View Ballot	Bharath AnanthamⒸ
+Sciences Po E	3rd	Closing Government	View Ballot	Bharath AnanthamⒸ
+Stuttgart A	1st	Closing Opposition	View Ballot	Aleisha Martinez SandovalⒸ
+Middlebury 1	4th	Opening Government	View Ballot	Aleisha Martinez SandovalⒸ
+QMU A	2nd	Opening Opposition	View Ballot	Aleisha Martinez SandovalⒸ
+LDU AJ	3rd	Closing Government	View Ballot	Aleisha Martinez SandovalⒸ
+
+
+team	result	side	adjudicators
+Bucharest C	eliminated	Closing Opposition	Lucy MurphyⒸ , Brian Kam , Emma Walker , Nikola Michaylov , Zachary Too
+Manchester WA	eliminated	Closing Government	Lucy MurphyⒸ , Brian Kam , Emma Walker , Nikola Michaylov , Zachary Too
+LSE E	eliminated	Opening Opposition	Lucy MurphyⒸ , Brian Kam , Emma Walker , Nikola Michaylov , Zachary Too
+Harvard D	advancing	Opening Government	Lucy MurphyⒸ , Brian Kam , Emma Walker , Nikola Michaylov , Zachary Too
+
+
+team	result	side	adjudicators
+UT MARA A	advancing	Closing Government	Pjotr KosterⒸ , Klaudia Maciejewska , Mark Rothery
+NU S	eliminated	Opening Government	Pjotr KosterⒸ , Klaudia Maciejewska , Mark Rothery
+LSE C	advancing	Closing Opposition	Pjotr KosterⒸ , Klaudia Maciejewska , Mark Rothery
+UBB B	eliminated	Opening Opposition	Pjotr KosterⒸ , Klaudia Maciejewska , Mark Rothery
+UT MARA B	advancing	Closing Opposition	Gareth LimⒸ , Ibrahim Ejaz , Isabella Freeland
+Warsaw AM	eliminated	Closing Government	Gareth LimⒸ , Ibrahim Ejaz , Isabella Freeland
+DK Wien BE	advancing	Opening Government	Gareth LimⒸ , Ibrahim Ejaz , Isabella Freeland
+Bucharest B	eliminated	Opening Opposition	Gareth LimⒸ , Ibrahim Ejaz , Isabella Freeland
+
+
+team	result	side	adjudicators
+Cambridge MS	advancing	Opening Government	Ilija IvaniševićⒸ , Alicia Wang , Ananya Krishna
+Stanford BL	eliminated	Closing Government	Ilija IvaniševićⒸ , Alicia Wang , Ananya Krishna
+LSE B	advancing	Opening Opposition	Ilija IvaniševićⒸ , Alicia Wang , Ananya Krishna
+MDU RY	eliminated	Closing Opposition	Ilija IvaniševićⒸ , Alicia Wang , Ananya Krishna
+Bucharest A	advancing	Closing Government	Aniket ChakravortyⒸ , Lucie Slamova , Michaela-Georgia Vachou-Peirantakou
+Yale A	eliminated	Opening Opposition	Aniket ChakravortyⒸ , Lucie Slamova , Michaela-Georgia Vachou-Peirantakou
+Hart House B	eliminated	Closing Opposition	Aniket ChakravortyⒸ , Lucie Slamova , Michaela-Georgia Vachou-Peirantakou
+UoL A	advancing	Opening Government	Aniket ChakravortyⒸ , Lucie Slamova , Michaela-Georgia Vachou-Peirantakou
+KCL AK	eliminated	Closing Government	Geneva RoyⒸ , Ange Qin , Guyberli van Thuijl
+LSE A	advancing	Opening Opposition	Geneva RoyⒸ , Ange Qin , Guyberli van Thuijl
+Harvard AM	advancing	Opening Government	Geneva RoyⒸ , Ange Qin , Guyberli van Thuijl
+Aber A	eliminated	Closing Opposition	Geneva RoyⒸ , Ange Qin , Guyberli van Thuijl
+TCD Phil BM	advancing	Opening Government	Amelia PotockaⒸ , Seshiran Govender , Đorđe Radosavljević
+Zagreb A	advancing	Opening Opposition	Amelia PotockaⒸ , Seshiran Govender , Đorđe Radosavljević
+Stanford QF	eliminated	Closing Opposition	Amelia PotockaⒸ , Seshiran Govender , Đorđe Radosavljević
+Bates MB	eliminated	Closing Government	Amelia PotockaⒸ , Seshiran Govender , Đorđe Radosavljević
+
+
+team	result	side	adjudicators
+UT MARA A	eliminated	Opening Opposition	Andrew ChenⒸ , Lara Dragojević , Leauren S. Ji , Sarenna McKellar , Zach Godley-McAvoy
+UT MARA B	eliminated	Opening Government	Andrew ChenⒸ , Lara Dragojević , Leauren S. Ji , Sarenna McKellar , Zach Godley-McAvoy
+DK Wien BE	advancing	Closing Government	Andrew ChenⒸ , Lara Dragojević , Leauren S. Ji , Sarenna McKellar , Zach Godley-McAvoy
+LSE C	eliminated	Closing Opposition	Andrew ChenⒸ , Lara Dragojević , Leauren S. Ji , Sarenna McKellar , Zach Godley-McAvoy
+
+
+team	result	side	adjudicators
+TCD Phil BM	eliminated	Closing Government	Isabella FreelandⒸ , Ananya Venkatesan , Dhruv Leekha , Ilija Ivanišević , Ricky Huang
+Zagreb A	advancing	Opening Government	Isabella FreelandⒸ , Ananya Venkatesan , Dhruv Leekha , Ilija Ivanišević , Ricky Huang
+Bucharest A	advancing	Closing Opposition	Isabella FreelandⒸ , Ananya Venkatesan , Dhruv Leekha , Ilija Ivanišević , Ricky Huang
+UoL A	eliminated	Opening Opposition	Isabella FreelandⒸ , Ananya Venkatesan , Dhruv Leekha , Ilija Ivanišević , Ricky Huang
+Cambridge MS	advancing	Opening Opposition	Lucy MurphyⒸ , Gareth Lim , Naomi Panovka , Olivia Whyte , Tom Kuson
+LSE A	advancing	Opening Government	Lucy MurphyⒸ , Gareth Lim , Naomi Panovka , Olivia Whyte , Tom Kuson
+LSE B	eliminated	Closing Opposition	Lucy MurphyⒸ , Gareth Lim , Naomi Panovka , Olivia Whyte , Tom Kuson
+Harvard AM	eliminated	Closing Government	Lucy MurphyⒸ , Gareth Lim , Naomi Panovka , Olivia Whyte , Tom Kuson
+
+
+team	result	side	adjudicators
+Zagreb A	advancing	Opening Opposition	Klaudia MaciejewskaⒸ , Ananya Venkatesan , Ibrahim Ejaz , Ilija Ivanišević , Isabella Freeland , Olivia Whyte , Zach Godley-McAvoy
+Cambridge MS	eliminated	Closing Opposition	Klaudia MaciejewskaⒸ , Ananya Venkatesan , Ibrahim Ejaz , Ilija Ivanišević , Isabella Freeland , Olivia Whyte , Zach Godley-McAvoy
+Bucharest A	eliminated	Closing Government	Klaudia MaciejewskaⒸ , Ananya Venkatesan , Ibrahim Ejaz , Ilija Ivanišević , Isabella Freeland , Olivia Whyte , Zach Godley-McAvoy
+LSE A	eliminated	Opening Government	Klaudia MaciejewskaⒸ , Ananya Venkatesan , Ibrahim Ejaz , Ilija Ivanišević , Isabella Freeland , Olivia Whyte , Zach Godley-McAvoy
+

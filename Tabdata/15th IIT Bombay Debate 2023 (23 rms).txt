@@ -1,0 +1,814 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Mohmaya Chessboard by the ocean		1st	1st	2nd	1st	1st	14	799	4	1
+2	Kalesh		1st	1st	2nd	1st	2nd	13	807	3	2
+3	Everything Everywhere All At Once		1st	1st	3rd	1st	1st	13	763	4	0
+4	Acharya went from runner to runners		1st	1st	1st	2nd	3rd	12	805	3	1
+5	The suburban debaters		2nd	1st	1st	3rd	1st	12	791	3	1
+6	weed brownie camel rides		1st	1st	1st	4th	1st	12	779	4	0
+7	Wubbalubbadubdub		2nd	1st	4th	1st	1st	11	781	3	1
+8	Take Us At Our Best Case		2nd	2nd	1st	3rd	1st	11	764	2	2
+9	Purple Butter		1st	2nd	1st	3rd	2nd	11	755	2	2
+10	Breaking TVs		1st	4th	1st	1st	2nd	11	753	3	1
+11	Shravan is @ Peenya		1st	1st	4th	3rd	1st	10	773	3	0
+12=	Dumb and Dumber		1st	3rd	3rd	2nd	1st	10	772	2	1
+12=	Our Case is an Act of God		1st	2nd	3rd	1st	3rd	10	772	2	1
+14	Why did we miss break night?		2nd	2nd	2nd	2nd	2nd	10	764	0	5
+15	My brain is buffering		1st	3rd	2nd	3rd	1st	10	762	2	1
+16	Dholakpur		2nd	1st	2nd	1st	4th	10	761	2	2
+17	Would&#x27;ve Could&#x27;ve Should&#x27;ve Taken T		2nd	3rd	1st	2nd	2nd	10	761	1	3
+18	OB and Not To Be		2nd	1st	3rd	1st	3rd	10	747	2	1
+19	bt in lgbt		1st	2nd	2nd	4th	2nd	9	772	1	3
+20=	Nothing, Nowhere, Never		1st	3rd	1st	2nd	4th	9	761	2	1
+20=	crisp failure	Novice	2nd	1st	4th	3rd	1st	9	761	2	1
+22	Pan Galactic Gargle Blasters		2nd	3rd	1st	2nd	3rd	9	761	1	2
+23	Bombay Vikings		3rd	3rd	1st	1st	3rd	9	757	2	0
+24	Legally Brunette	Novice	4th	2nd	1st	3rd	1st	9	756	2	1
+25	Allied biscuits		2nd	2nd	1st	2nd	4th	9	755	1	3
+26	Jasushi		1st	3rd	3rd	2nd	2nd	9	750	1	2
+27	Two People in Debsoc		2nd	1st	1st	4th	3rd	9	748	2	1
+28	Neurotic Milk In My Socks	Novice	3rd	1st	3rd	2nd	2nd	9	745	1	2
+29	BY2 Coffee	Novice	2nd	3rd	2nd	3rd	1st	9	740	1	2
+30	Team UFM	Novice	3rd	4th	1st	1st	2nd	9	737	2	1
+31	Agree to Disagree!	Novice	3rd	3rd	2nd	2nd	1st	9	736	1	2
+32	Swing 1		1st	2nd	2nd	2nd	—	9	627	1	3
+33	Sam, KK and 19 others		1st	4th	2nd	1st	4th	8	764	2	1
+34	Aryennh&#x27;s Indecision	Novice	4th	2nd	1st	1st	4th	8	755	2	1
+35	FQ	Novice	3rd	3rd	2nd	3rd	1st	8	750	1	1
+36	shreya and mean girls	Novice	1st	4th	1st	3rd	3rd	8	746	2	0
+37	Team Kant		2nd	4th	1st	3rd	2nd	8	745	1	2
+38	We Beg to Differ		2nd	2nd	1st	4th	3rd	8	744	1	2
+39	Red pillers		3rd	2nd	2nd	4th	1st	8	742	1	2
+40	Wenimetuindasummer	Novice	3rd	2nd	3rd	2nd	2nd	8	741	0	3
+41	Discussin&#x27;, not dissin&#x27;/cussin&#x27;	Novice	3rd	2nd	2nd	2nd	3rd	8	739	0	3
+42	Blue Lemonade	Novice	4th	1st	3rd	2nd	2nd	8	736	1	2
+43	Dialectical kids	Novice	4th	2nd	1st	1st	4th	8	733	2	1
+44	Comrades11	Novice	4th	3rd	2nd	1st	2nd	8	731	1	2
+45	I&#x27;d rather lose you than the argume	Novice	4th	1st	4th	2nd	1st	8	723	2	1
+46	Aye aye tee bee	Novice	1st	2nd	4th	3rd	3rd	7	751	1	1
+47	Vada Pav Dosa	Novice	1st	4th	3rd	1st	4th	7	750	2	0
+48	Team Titans	Novice	2nd	2nd	4th	4th	1st	7	748	1	2
+49=	This is theoretically a team name	Novice	3rd	2nd	1st	4th	3rd	7	744	1	1
+49=	cutting wada pav	Novice	3rd	3rd	2nd	4th	1st	7	744	1	1
+51	Distinct apples	Novice	1st	4th	4th	2nd	2nd	7	741	1	2
+52	2 States	Novice	4th	1st	2nd	2nd	4th	7	736	1	2
+53	Moood	Novice	2nd	3rd	2nd	4th	2nd	7	736	0	3
+54	Take de bait - PES	Novice	3rd	1st	3rd	4th	2nd	7	730	1	1
+55	Team Athena	Novice	3rd	4th	3rd	2nd	1st	7	725	1	1
+56	It’s giving liver failure	Novice	4th	4th	1st	1st	3rd	7	718	2	0
+57	Swing 3		3rd	1st	4th	1st	—	7	607	2	0
+58	Anything		2nd	4th	3rd	2nd	3rd	6	744	0	2
+59	sunshine radiators	Novice	2nd	4th	3rd	1st	4th	6	736	1	1
+60	Bebatebots	Novice	2nd	3rd	4th	3rd	2nd	6	734	0	2
+61=	bicker pickers		4th	3rd	2nd	1st	4th	6	733	1	1
+61=	Damn, Peggy	Novice	4th	1st	3rd	4th	2nd	6	733	1	1
+61=	Team Red	Novice	1st	3rd	2nd	4th	4th	6	733	1	1
+64	Fuggit	Novice	3rd	1st	3rd	4th	3rd	6	733	1	0
+65=	Hum rebuttal de chuke sanam	Novice	4th	1st	3rd	2nd	4th	6	725	1	1
+65=	Misfits	Novice	2nd	4th	4th	1st	3rd	6	725	1	1
+67	The Shoplifters	Novice	3rd	3rd	4th	3rd	1st	6	725	1	0
+68	Sptm debaters	Novice	4th	1st	3rd	3rd	3rd	6	719	1	0
+69	Swing 2		2nd	2nd	4th	2nd	—	6	595	0	3
+70	Cold Coffee	Novice	1st	4th	4th	4th	2nd	5	742	1	1
+71	Mercury	Novice	3rd	1st	4th	3rd	4th	5	734	1	0
+72	Skyler White Yo	Novice	3rd	2nd	4th	4th	2nd	5	734	0	2
+73	Peaky	Novice	2nd	4th	4th	1st	4th	5	728	1	1
+74	Cool	Novice	4th	3rd	1st	4th	3rd	5	728	1	0
+75	Saudi oil tycoons	Novice	4th	2nd	3rd	3rd	3rd	5	726	0	1
+76	Smarticles	Novice	3rd	2nd	3rd	3rd	4th	5	718	0	1
+77	PG&amp;MK	Novice	4th	2nd	4th	3rd	2nd	5	714	0	2
+78	Iron woman	Novice	3rd	3rd	2nd	3rd	4th	5	713	0	1
+79	Arya and Kiran	Novice	3rd	4th	4th	3rd	1st	5	706	1	0
+80	Bad Decisions At Midnight	Novice	1st	3rd	4th	4th	4th	4	731	1	0
+81	Suck My Narrative	Novice	2nd	4th	2nd	4th	4th	4	730	0	2
+82	The Big Suns.	Novice	4th	2nd	3rd	3rd	4th	4	718	0	1
+83	Opinionaters	Novice	4th	4th	2nd	4th	2nd	4	708	0	2
+84	The Pontificators	Novice	4th	3rd	2nd	4th	3rd	4	698	0	1
+85	Listen Up!	Novice	4th	4th	3rd	2nd	3rd	4	692	0	1
+86	Here to Party	Novice	4th	3rd	1st	—	—	4	434	1	0
+87	Team Athena2	Novice	3rd	4th	3rd	4th	3rd	3	712	0	0
+88	Krishna.	Novice	3rd	3rd	4th	3rd	4th	3	706	0	0
+89	Blooms		4th	4th	4th	—	1st	3	553	1	0
+90	Swing 4		—	—	—	1st	—	3	152	1	0
+91	Swing 5		—	—	—	1st	—	3	150	1	0
+92	gilmoregirls	Novice	4th	4th	4th	2nd	4th	2	716	0	1
+93	Convince Us	Novice	3rd	4th	3rd	4th	4th	2	710	0	0
+94	THE OPINIONATER	Novice	4th	4th	4th	4th	3rd	1	717	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1=	V Sayiram		Kalesh	78	78	84	80	83	403	80.60	2.50
+1=	Abhishek Acharya		Acharya went from runner to runners	78	78	84	80	83	403	80.60	2.50
+3	Rohan Grover		Acharya went from runner to runners	77	78	84	80	83	402	80.40	2.73
+4	Angad Singh Chawla		Mohmaya Chessboard by the ocean	79	79	78	81	84	401	80.20	2.14
+5	Ritabrata Mitra		Mohmaya Chessboard by the ocean	78	78	78	80	84	398	79.60	2.33
+6	Surabhi Chavan		The suburban debaters	78	76	83	80	80	397	79.40	2.33
+7	Soumitri Debroy		The suburban debaters	78	77	83	77	79	394	78.80	2.23
+8	Kaustubh Jain		weed brownie camel rides	77	79	81	76	79	392	78.40	1.74
+9	Srijit Talukdar		Wubbalubbadubdub	76	79	80	77	79	391	78.20	1.47
+10=	Shraddha Kulkarni		Shravan is @ Peenya	78	78	77	77	80	390	78.00	1.10
+10=	Garv Chawla		Wubbalubbadubdub	76	79	80	77	78	390	78.00	1.41
+12	Harsh Singh		Dumb and Dumber	77	76	82	76	77	388	77.60	2.24
+13=	Rammanohar Gupta		bt in lgbt	79	78	77	76	77	387	77.40	1.02
+13=	Sneha Verma		Our Case is an Act of God	79	77	76	78	77	387	77.40	1.02
+13=	Harshvardhan Ray		weed brownie camel rides	76	79	79	75	78	387	77.40	1.62
+16=	Shwet Pandit		bt in lgbt	78	78	77	76	76	385	77.00	0.89
+16=	Ishan Daga		Everything Everywhere All At Once	76	78	80	76	75	385	77.00	1.79
+16=	Afreen Khan		Our Case is an Act of God	78	76	77	77	77	385	77.00	0.63
+19=	Manan Uppadhyay		Dumb and Dumber	76	75	81	76	76	384	76.80	2.14
+19=	Tarasha Gupta		Take Us At Our Best Case	73	77	78	77	79	384	76.80	2.04
+21=	Vagarth Dvivedi		Pan Galactic Gargle Blasters	75	76	78	77	77	383	76.60	1.02
+21=	Ashley Placid		Would&#x27;ve Could&#x27;ve Should&#x27;ve Taken T	76	76	78	75	78	383	76.60	1.20
+21=	Jyothika Raju		Shravan is @ Peenya	77	76	75	76	79	383	76.60	1.36
+24=	Meher Shah	Novice	My brain is buffering	77	76	76	76	77	382	76.40	0.49
+24=	Aryaman Neelakantan	Novice	crisp failure	75	78	77	76	76	382	76.40	1.02
+24=	Shravan Shenoy		Why did we miss break night?	73	77	77	77	78	382	76.40	1.74
+24=	Tejas Goyal		Why did we miss break night?	73	77	78	77	77	382	76.40	1.74
+24=	Kritadnya Kaling		Sam, KK and 19 others	76	76	77	77	76	382	76.40	0.49
+24=	Sameer Shaik		Sam, KK and 19 others	75	75	78	77	77	382	76.40	1.20
+30=	Anurag Kumar		Nothing, Nowhere, Never	74	75	78	77	77	381	76.20	1.47
+30=	Rishabhraj Maiti		Dholakpur	73	77	75	78	78	381	76.20	1.94
+32=	Tarushi Sharma		Breaking TVs	77	69	79	77	78	380	76.00	3.58
+32=	Diya Sarkar		Nothing, Nowhere, Never	73	76	78	77	76	380	76.00	1.67
+32=	Aumkaar Pranav Shukla		Bombay Vikings	75	75	78	76	76	380	76.00	1.10
+32=	Marushka Kenia	Novice	My brain is buffering	76	76	75	76	77	380	76.00	0.63
+32=	Jianna Bajaj		Take Us At Our Best Case	73	76	77	76	78	380	76.00	1.67
+32=	Ashly Thomas		Purple Butter	76	75	78	77	74	380	76.00	1.41
+32=	Vishal Hugar	Novice	Aryennh&#x27;s Indecision	75	76	75	79	75	380	76.00	1.55
+32=	Akshaj Gyaneshwar		Dholakpur	74	76	74	78	78	380	76.00	1.79
+40	Sanchit Dhingra	Novice	crisp failure	74	76	78	76	75	379	75.80	1.33
+41=	Shantanu Deshmukh		Pan Galactic Gargle Blasters	73	75	77	76	77	378	75.60	1.50
+41=	Lavanya Shankar	Novice	Legally Brunette	75	76	77	73	77	378	75.60	1.50
+41=	Ananya Prakash	Novice	Legally Brunette	75	77	77	72	77	378	75.60	1.96
+41=	Anushka Aashvi	Novice	Would&#x27;ve Could&#x27;ve Should&#x27;ve Taken T	75	75	76	75	77	378	75.60	0.80
+41=	Nimisha Gupta		Everything Everywhere All At Once	75	77	77	75	74	378	75.60	1.20
+41=	Kruti Joshi		Allied biscuits	77	77	78	79	67	378	75.60	4.36
+47=	Aarushi Wadiwala		Jasushi	74	75	76	77	75	377	75.40	1.02
+47=	Sugandh Sinha		Bombay Vikings	74	74	77	76	76	377	75.40	1.20
+47=	Stubh Laal		Allied biscuits	76	77	79	78	67	377	75.40	4.32
+47=	Gahan M R	Novice	Aye aye tee bee	77	77	74	74	75	377	75.40	1.36
+47=	SURE SAI PRANAVI	Novice	Team Titans	76	77	74	74	76	377	75.40	1.20
+52=	Aumita Mishra	Novice	FQ	73	75	76	76	76	376	75.20	1.17
+52=	Arjun Balaji	Novice	Vada Pav Dosa	75	75	74	77	75	376	75.20	0.98
+54=	Yohan Kapri	Novice	Neurotic Milk In My Socks	74	76	74	73	78	375	75.00	1.79
+54=	Roktim Borah		Red pillers	74	71	77	75	78	375	75.00	2.45
+54=	Sanjana Rudra		OB and Not To Be	78	78	74	78	67	375	75.00	4.29
+54=	Guru Dutt S		Two People in Debsoc	75	75	75	73	77	375	75.00	1.26
+54=	Parakh Agrawal	Novice	Aryennh&#x27;s Indecision	73	75	74	78	75	375	75.00	1.67
+54=	Aabhran Singh	Novice	shreya and mean girls	74	74	78	73	76	375	75.00	1.79
+60=	Anagha Rajesh		Team Kant	75	74	77	73	75	374	74.80	1.33
+60=	Anushka Kanabar	Novice	FQ	73	74	76	75	76	374	74.80	1.17
+60=	Aditya Joshi	Novice	Vada Pav Dosa	74	74	75	77	74	374	74.80	1.17
+60=	Spoorthi V	Novice	Aye aye tee bee	77	75	73	74	75	374	74.80	1.33
+64=	Vaibudha Brighu	Novice	Breaking TVs	75	70	76	75	77	373	74.60	2.42
+64=	Reva Warudi	Novice	This is theoretically a team name	75	75	77	71	75	373	74.60	1.96
+64=	Divyanshi Kaushal	Novice	Cold Coffee	77	75	74	72	75	373	74.60	1.62
+64=	Jasmine Kaushik		Jasushi	73	75	75	76	74	373	74.60	1.02
+64=	Madhavakrishna B		Anything	76	74	75	75	73	373	74.60	1.02
+64=	Harshitha S		Two People in Debsoc	75	74	75	73	76	373	74.60	1.02
+64=	Pavan Bharadwaj A R	Novice	BY2 Coffee	76	71	77	75	74	373	74.60	2.06
+71=	Karan Kakarania	Novice	Distinct apples	76	74	72	75	75	372	74.40	1.36
+71=	Harshal Badge	Novice	cutting wada pav	74	71	75	75	77	372	74.40	1.96
+71=	Harshul Surana	Novice	cutting wada pav	74	72	75	74	77	372	74.40	1.62
+71=	Yash Yadunath Alva		OB and Not To Be	77	77	73	77	68	372	74.40	3.56
+71=	Aditya Sunil		We Beg to Differ	77	72	76	72	75	372	74.40	2.06
+71=	Rohan Mathew Therattil		We Beg to Differ	76	72	76	73	75	372	74.40	1.62
+77=	Abu Zar Talib		Team Kant	75	73	76	72	75	371	74.20	1.47
+77=	Anshul Karkera	Novice	This is theoretically a team name	75	75	76	71	74	371	74.20	1.72
+77=	Sumit Kumar		Anything	76	74	73	75	73	371	74.20	1.17
+77=	SHAZIA YOUSUF	Novice	Team Titans	75	75	73	73	75	371	74.20	0.98
+77=	Sneha Sinha	Novice	Wenimetuindasummer	73	72	74	76	76	371	74.20	1.60
+77=	Shreya Panda	Novice	shreya and mean girls	72	73	77	73	76	371	74.20	1.94
+83=	Juhi Agarwal	Novice	Neurotic Milk In My Socks	74	75	72	73	76	370	74.00	1.41
+83=	Yash Bhisikar	Novice	Blue Lemonade	74	77	74	72	73	370	74.00	1.67
+83=	Ronit R	Novice	bicker pickers	74	75	76	70	75	370	74.00	2.10
+83=	Jayaditya Agrawal	Novice	Team UFM	72	74	74	73	77	370	74.00	1.67
+83=	Neha Kamath	Novice	Discussin&#x27;, not dissin&#x27;/cussin&#x27;	72	73	75	76	74	370	74.00	1.41
+83=	Yash Rekhari	Novice	Wenimetuindasummer	72	73	73	76	76	370	74.00	1.67
+89=	Krishna Pamnani	Novice	Distinct apples	75	73	70	76	75	369	73.80	2.14
+89=	Aryan Anand Gurav	Novice	Bebatebots	73	75	73	72	76	369	73.80	1.47
+89=	Devi Menon	Novice	Cold Coffee	76	74	74	70	75	369	73.80	2.04
+89=	Umang Gulati	Novice	sunshine radiators	75	74	69	78	73	369	73.80	2.93
+89=	Pavan Karnam	Novice	Discussin&#x27;, not dissin&#x27;/cussin&#x27;	74	72	76	74	73	369	73.80	1.33
+89=	Vanshika Jha	Novice	2 States	69	76	75	74	75	369	73.80	2.48
+95=	Fatima Henna	Novice	Fuggit	74	72	75	75	72	368	73.60	1.36
+95=	Rithvik Saketh	Novice	Skyler White Yo	74	76	74	69	75	368	73.60	2.42
+95=	Aditya Lahiri	Novice	Damn, Peggy	74	76	76	72	70	368	73.60	2.33
+95=	Anish S	Novice	Agree to Disagree!	70	74	72	77	75	368	73.60	2.42
+95=	Greekshith Mahesh Babu	Novice	Agree to Disagree!	71	75	72	76	74	368	73.60	1.85
+95=	Vardhan Suthar	Novice	Saudi oil tycoons	72	74	74	73	75	368	73.60	1.02
+95=	Anisha Chakrabarti	Novice	Moood	72	75	74	74	73	368	73.60	1.02
+95=	Tanya Janaswamy	Novice	Moood	70	75	75	74	74	368	73.60	1.85
+103=	Saksham Goyal	Novice	Suck My Narrative	75	71	77	72	72	367	73.40	2.24
+103=	Tashi Takhtani	Novice	Mercury	76	74	71	75	71	367	73.40	2.06
+103=	Ananya Dewan	Novice	Mercury	76	73	72	75	71	367	73.40	1.85
+103=	Khushi Sheoran	Novice	sunshine radiators	75	73	69	77	73	367	73.40	2.65
+103=	Suryaa Aryan		Red pillers	70	69	77	75	76	367	73.40	3.26
+103=	Dayaan Owaisy	Novice	Team UFM	73	73	73	72	76	367	73.40	1.36
+103=	Pranav K Madhyastha	Novice	BY2 Coffee	74	71	75	74	73	367	73.40	1.36
+103=	Nanjappa MC	Novice	2 States	68	74	76	74	75	367	73.40	2.80
+103=	Aatish Dhawan	Novice	Team Red	74	71	73	76	73	367	73.40	1.62
+112=	Parshav Jain	Novice	Blue Lemonade	73	77	73	71	72	366	73.20	2.04
+112=	Hitanshi Mehta	Novice	Bad Decisions At Midnight	76	76	72	68	74	366	73.20	2.99
+112=	Sankarshanaa S Sagaram	Novice	Skyler White Yo	73	75	74	70	74	366	73.20	1.72
+112=	Harsha Manchella	Novice	Comrades11	70	74	72	77	73	366	73.20	2.32
+112=	Aavish Gilbert J	Novice	Take de bait - PES	73	77	74	70	72	366	73.20	2.32
+112=	Hrishikesh Ashtaputre	Novice	Team Red	75	69	75	74	73	366	73.20	2.23
+112=	Abraham Johann Oommen	Novice	Dialectical kids	69	75	73	75	74	366	73.20	2.23
+119=	Tejas	Novice	Peaky	72	74	73	74	72	365	73.00	0.89
+119=	Arushi Singh	Novice	Bebatebots	71	75	72	72	75	365	73.00	1.67
+119=	Himangi Raswant	Novice	Bad Decisions At Midnight	75	76	71	69	74	365	73.00	2.61
+119=	Ranjan Bassi	Novice	Fuggit	76	69	76	74	70	365	73.00	2.97
+119=	Kshetragna Pinnamaraju	Novice	Comrades11	70	74	72	77	72	365	73.00	2.37
+119=	Ishaan Dutta	Novice	Damn, Peggy	74	75	76	71	69	365	73.00	2.61
+119=	Siya Sharma	Novice	Cool	72	73	76	72	72	365	73.00	1.55
+126=	Aashman Sheera	Novice	The Shoplifters	74	70	73	71	76	364	72.80	2.14
+126=	Gnanadharshini	Novice	Misfits	75	74	68	73	74	364	72.80	2.48
+126=	Karthika Reddy	Novice	Team Athena	71	74	73	73	73	364	72.80	0.98
+126=	Pranav V Kumar	Novice	Take de bait - PES	72	76	74	69	73	364	72.80	2.32
+130=	Anavi Panjwani	Novice	Suck My Narrative	74	70	76	72	71	363	72.60	2.15
+130=	Aaron Mathew	Novice	Peaky	71	73	73	73	73	363	72.60	0.80
+130=	Vicky Kumar		bicker pickers	74	74	72	70	73	363	72.60	1.50
+130=	Kyra Mathur	Novice	Hum rebuttal de chuke sanam	72	76	75	74	66	363	72.60	3.56
+130=	Anmol Tripathi	Novice	Cool	73	73	74	71	72	363	72.60	1.02
+135=	ADITYA JHA	Novice	Smarticles	71	75	76	71	69	362	72.40	2.65
+135=	Tanjore Agarwal	Novice	Hum rebuttal de chuke sanam	72	76	75	73	66	362	72.40	3.50
+135=	Darshana Bhaiya	Novice	gilmoregirls	71	74	71	75	71	362	72.40	1.74
+135=	Megan Sequeira	Novice	I&#x27;d rather lose you than the argume	70	74	75	68	75	362	72.40	2.87
+135=	Anurag Ganguly	Novice	Sptm debaters	71	76	73	72	70	362	72.40	2.06
+140=	Aditi Shimpi	Novice	The Shoplifters	72	69	73	72	75	361	72.20	1.94
+140=	Janhvi Sanjayrao Chandne	Novice	Misfits	74	73	68	73	73	361	72.20	2.14
+140=	Thejalakshmi Anil	Novice	I&#x27;d rather lose you than the argume	69	74	74	70	74	361	72.20	2.23
+140=	Bharati Mishra	Novice	Team Athena	71	74	72	72	72	361	72.20	0.98
+144=	Naysa Shah	Novice	It’s giving liver failure	70	73	70	77	70	360	72.00	2.76
+144=	Smit Nimesh Ajmera	Novice	THE OPINIONATER	73	72	71	73	71	360	72.00	0.89
+146=	Sunayana S Moro	Novice	The Big Suns.	73	74	72	75	65	359	71.80	3.54
+146=	Vishal Thangeda	Novice	The Big Suns.	74	75	71	74	65	359	71.80	3.66
+146=	Priya Gokhale	Novice	PG&amp;MK	74	75	70	71	69	359	71.80	2.32
+149=	Anjali Singh	Novice	It’s giving liver failure	70	73	71	75	69	358	71.60	2.15
+149=	Bratati Lahiri	Novice	Team Athena2	76	74	72	70	66	358	71.60	3.44
+149=	Rishika Kinger	Novice	Iron woman	71	71	74	72	70	358	71.60	1.36
+149=	Shreya tapase	Novice	Saudi oil tycoons	65	73	73	73	74	358	71.60	3.32
+153	Aashka Thakur	Novice	Sptm debaters	70	73	72	72	70	357	71.40	1.20
+154=	ABHINAV BASERA	Novice	Smarticles	70	75	75	67	69	356	71.20	3.25
+154=	Arya Tiwari	Novice	Arya and Kiran	72	68	70	74	72	356	71.20	2.04
+156=	ANKUR PANDEY	Novice	Opinionaters	73	67	70	73	72	355	71.00	2.28
+156=	KSHITIJ DUTTA	Novice	Convince Us	74	70	72	69	70	355	71.00	1.79
+156=	TAKSHIL AGGARWAL	Novice	Convince Us	73	71	72	69	70	355	71.00	1.41
+156=	Mehar Kalra	Novice	PG&amp;MK	71	74	71	71	68	355	71.00	1.90
+156=	Harsha R	Novice	Iron woman	71	72	73	71	68	355	71.00	1.67
+161=	Rijusmita Sarma	Novice	gilmoregirls	71	73	63	75	72	354	70.80	4.12
+161=	Anjali Singh	Novice	Team Athena2	75	73	71	69	66	354	70.80	3.12
+163=	ADITYA KUMAR	Novice	Opinionaters	72	67	70	72	72	353	70.60	1.96
+163=	Jophy Emson	Novice	Krishna.	74	74	74	66	65	353	70.60	4.18
+163=	Amogh Kulkarni	Novice	Krishna.	73	75	73	66	66	353	70.60	3.83
+166	Kiran Nilawar	Novice	Arya and Kiran	69	66	71	73	71	350	70.00	2.37
+167=	Shivani Choudhary	Novice	The Pontificators	66	74	72	65	72	349	69.80	3.60
+167=	Advika Agrawal	Novice	The Pontificators	66	73	73	64	73	349	69.80	3.97
+169	HARSH KUMAR PRIYANSHU	Novice	Listen Up!	70	71	68	72	66	347	69.40	2.15
+170	SHRUTI SINGH	Novice	Listen Up!	69	71	67	73	65	345	69.00	2.83
+171	Vansh Chadha		Kalesh	—	78	83	81	84	326	81.50	2.29
+172	Speaker 1		Swing 1	80	77	82	75	—	314	78.50	2.69
+173	Speaker 5		Swing 3	75	78	75	77	—	305	76.25	1.30
+174	Speaker 3		Swing 2	76	76	72	74	—	298	74.50	1.66
+175	Kiran Palathingal	Novice	Dialectical kids	70	—	74	74	75	293	73.25	1.92
+176	Hitansh Jalan		Blooms	66	71	69	—	72	278	69.50	2.29
+177	Shivam tandon		Blooms	64	70	68	—	73	275	68.75	3.27
+178	Speaker 4		Swing 2	76	76	71	—	—	223	74.33	2.36
+179	Akshaj Sharma	Novice	Here to Party	71	73	74	—	—	218	72.67	1.25
+180	Rewant Singh	Novice	Here to Party	69	74	73	—	—	216	72.00	2.16
+181	Speaker 2		Swing 1	80	—	82	—	—	162	81.00	1.00
+182	Speaker 8		Swing 4	—	—	—	76	—	76	76.00	0.00
+183=	Speaker 9		Swing 5	—	—	—	75	—	75	75.00	0.00
+183=	Speaker 10		Swing 5	—	—	—	75	—	75	75.00	0.00
+185	Sikha Ashok Mohapatra	Novice	THE OPINIONATER	72	—	—	—	—	72	72.00	0.00
+186=	Aman Chandra		Purple Butter	—	—	—	—	—	—	—	—
+186=	Speaker 7		Swing 4	—	—	—	—	—	—	—	—
+186=	Speaker 6		Swing 3	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+Dholakpur	2nd	Closing Opposition	View Ballot	Chinmaya MohanⒸ , Sreenidhi Konnur , Mehek MahajanⓉ , Taniska SinghⓉ
+Purple Butter	1st	Closing Government	View Ballot	Chinmaya MohanⒸ , Sreenidhi Konnur , Mehek MahajanⓉ , Taniska SinghⓉ
+FQ	3rd	Opening Opposition	View Ballot	Chinmaya MohanⒸ , Sreenidhi Konnur , Mehek MahajanⓉ , Taniska SinghⓉ
+Blooms	4th	Opening Government	View Ballot	Chinmaya MohanⒸ , Sreenidhi Konnur , Mehek MahajanⓉ , Taniska SinghⓉ
+Distinct apples	1st	Closing Opposition	View Ballot	RedactedⒸ , Parth Shah , Sushovit NandaⓉ , Vidhee MoreⓉ
+Wenimetuindasummer	3rd	Closing Government	View Ballot	RedactedⒸ , Parth Shah , Sushovit NandaⓉ , Vidhee MoreⓉ
+crisp failure	2nd	Opening Opposition	View Ballot	RedactedⒸ , Parth Shah , Sushovit NandaⓉ , Vidhee MoreⓉ
+Comrades11	4th	Opening Government	View Ballot	RedactedⒸ , Parth Shah , Sushovit NandaⓉ , Vidhee MoreⓉ
+Bad Decisions At Midnight	1st	Closing Opposition	View Ballot	HOSAMATH SHARANⒸ , Rahul R , Varsha Venkat , Sarthak MehtaⓉ
+Misfits	2nd	Closing Government	View Ballot	HOSAMATH SHARANⒸ , Rahul R , Varsha Venkat , Sarthak MehtaⓉ
+Convince Us	3rd	Opening Opposition	View Ballot	HOSAMATH SHARANⒸ , Rahul R , Varsha Venkat , Sarthak MehtaⓉ
+Opinionaters	4th	Opening Government	View Ballot	HOSAMATH SHARANⒸ , Rahul R , Varsha Venkat , Sarthak MehtaⓉ
+Two People in Debsoc	2nd	Closing Opposition	View Ballot	Shruti DebⒸ , Arjun Nag , Dhanashree DalviⓉ
+Saudi oil tycoons	4th	Closing Government	View Ballot	Shruti DebⒸ , Arjun Nag , Dhanashree DalviⓉ
+Skyler White Yo	3rd	Opening Opposition	View Ballot	Shruti DebⒸ , Arjun Nag , Dhanashree DalviⓉ
+My brain is buffering	1st	Opening Government	View Ballot	Shruti DebⒸ , Arjun Nag , Dhanashree DalviⓉ
+Peaky	2nd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Yash Vasdev , Anushka ShreeⓉ , Yash PhadkeⓉ
+Team Athena	3rd	Closing Government	View Ballot	Rushdoon AhmedⒸ , Yash Vasdev , Anushka ShreeⓉ , Yash PhadkeⓉ
+The Pontificators	4th	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Yash Vasdev , Anushka ShreeⓉ , Yash PhadkeⓉ
+shreya and mean girls	1st	Opening Government	View Ballot	Rushdoon AhmedⒸ , Yash Vasdev , Anushka ShreeⓉ , Yash PhadkeⓉ
+The suburban debaters	2nd	Closing Opposition	View Ballot	Aditya SunkaraⒸ , Jenil Savaliya , Aditya PandeⓉ , Kaushik MⓉ
+Legally Brunette	4th	Closing Government	View Ballot	Aditya SunkaraⒸ , Jenil Savaliya , Aditya PandeⓉ , Kaushik MⓉ
+Our Case is an Act of God	1st	Opening Opposition	View Ballot	Aditya SunkaraⒸ , Jenil Savaliya , Aditya PandeⓉ , Kaushik MⓉ
+Mercury	3rd	Opening Government	View Ballot	Aditya SunkaraⒸ , Jenil Savaliya , Aditya PandeⓉ , Kaushik MⓉ
+The Shoplifters	3rd	Closing Opposition	View Ballot	HarsithⒸ , Samuel Thomas , Akshada SinhaⓉ
+Hum rebuttal de chuke sanam	4th	Closing Government	View Ballot	HarsithⒸ , Samuel Thomas , Akshada SinhaⓉ
+Shravan is @ Peenya	1st	Opening Opposition	View Ballot	HarsithⒸ , Samuel Thomas , Akshada SinhaⓉ
+Anything	2nd	Opening Government	View Ballot	HarsithⒸ , Samuel Thomas , Akshada SinhaⓉ
+Smarticles	3rd	Closing Opposition	View Ballot	Shivani VermaⒸ , Khushi Sharma , Raghav DagarⓉ , Yash BishnoiⓉ
+Here to Party	4th	Closing Government	View Ballot	Shivani VermaⒸ , Khushi Sharma , Raghav DagarⓉ , Yash BishnoiⓉ
+Team Red	1st	Opening Opposition	View Ballot	Shivani VermaⒸ , Khushi Sharma , Raghav DagarⓉ , Yash BishnoiⓉ
+Bebatebots	2nd	Opening Government	View Ballot	Shivani VermaⒸ , Khushi Sharma , Raghav DagarⓉ , Yash BishnoiⓉ
+Would&#x27;ve Could&#x27;ve Should&#x27;ve Taken T	2nd	Closing Opposition	View Ballot	Shubhneet SoniⒸ , Prikshit , Disha JainⓉ
+Mohmaya Chessboard by the ocean	1st	Closing Government	View Ballot	Shubhneet SoniⒸ , Prikshit , Disha JainⓉ
+Damn, Peggy	4th	Opening Opposition	View Ballot	Shubhneet SoniⒸ , Prikshit , Disha JainⓉ
+Fuggit	3rd	Opening Government	View Ballot	Shubhneet SoniⒸ , Prikshit , Disha JainⓉ
+Krishna.	3rd	Closing Opposition	View Ballot	Shuvam MitraⒸ , Suhani Daruka , Subiksha VeluⓉ , Vidhi JainⓉ
+Allied biscuits	2nd	Closing Government	View Ballot	Shuvam MitraⒸ , Suhani Daruka , Subiksha VeluⓉ , Vidhi JainⓉ
+Listen Up!	4th	Opening Opposition	View Ballot	Shuvam MitraⒸ , Suhani Daruka , Subiksha VeluⓉ , Vidhi JainⓉ
+Kalesh	1st	Opening Government	View Ballot	Shuvam MitraⒸ , Suhani Daruka , Subiksha VeluⓉ , Vidhi JainⓉ
+I&#x27;d rather lose you than the argume	4th	Closing Opposition	View Ballot	Pranav KagalkarⒸ , Anuj Pradhan , Shubham RayⓉ
+Take Us At Our Best Case	2nd	Closing Government	View Ballot	Pranav KagalkarⒸ , Anuj Pradhan , Shubham RayⓉ
+Agree to Disagree!	3rd	Opening Opposition	View Ballot	Pranav KagalkarⒸ , Anuj Pradhan , Shubham RayⓉ
+Jasushi	1st	Opening Government	View Ballot	Pranav KagalkarⒸ , Anuj Pradhan , Shubham RayⓉ
+weed brownie camel rides	1st	Closing Opposition	View Ballot	Maitreyi ArwariⒸ , Mayukha Marla , Sushant Shekhar
+Aryennh&#x27;s Indecision	4th	Closing Government	View Ballot	Maitreyi ArwariⒸ , Mayukha Marla , Sushant Shekhar
+Swing 3	3rd	Opening Opposition	View Ballot	Maitreyi ArwariⒸ , Mayukha Marla , Sushant Shekhar
+Team Kant	2nd	Opening Government	View Ballot	Maitreyi ArwariⒸ , Mayukha Marla , Sushant Shekhar
+bt in lgbt	1st	Closing Opposition	View Ballot	Gowtham KrishnaⒸ , Kanan Raghuwanshi , Khushi PatelⓉ
+OB and Not To Be	2nd	Closing Government	View Ballot	Gowtham KrishnaⒸ , Kanan Raghuwanshi , Khushi PatelⓉ
+cutting wada pav	3rd	Opening Opposition	View Ballot	Gowtham KrishnaⒸ , Kanan Raghuwanshi , Khushi PatelⓉ
+THE OPINIONATER	4th	Opening Government	View Ballot	Gowtham KrishnaⒸ , Kanan Raghuwanshi , Khushi PatelⓉ
+gilmoregirls	4th	Closing Opposition	View Ballot	Antara RanjanⒸ , Redacted , KirtiⓉ , Y Aditya BharathⓉ
+Aye aye tee bee	1st	Closing Government	View Ballot	Antara RanjanⒸ , Redacted , KirtiⓉ , Y Aditya BharathⓉ
+Team UFM	3rd	Opening Opposition	View Ballot	Antara RanjanⒸ , Redacted , KirtiⓉ , Y Aditya BharathⓉ
+Team Titans	2nd	Opening Government	View Ballot	Antara RanjanⒸ , Redacted , KirtiⓉ , Y Aditya BharathⓉ
+Blue Lemonade	4th	Closing Opposition	View Ballot	Anushikha PokhriyalⒸ , Shristi Singh , Adrija Sinha SarkarⓉ , Shruti DudhaneⓉ
+sunshine radiators	2nd	Closing Government	View Ballot	Anushikha PokhriyalⒸ , Shristi Singh , Adrija Sinha SarkarⓉ , Shruti DudhaneⓉ
+Dumb and Dumber	1st	Opening Opposition	View Ballot	Anushikha PokhriyalⒸ , Shristi Singh , Adrija Sinha SarkarⓉ , Shruti DudhaneⓉ
+Bombay Vikings	3rd	Opening Government	View Ballot	Anushikha PokhriyalⒸ , Shristi Singh , Adrija Sinha SarkarⓉ , Shruti DudhaneⓉ
+Discussin&#x27;, not dissin&#x27;/cussin&#x27;	3rd	Closing Opposition	View Ballot	Aayana Rai BhojaniⒸ , Deeksha Rao , Divyansh NautiyalⓉ
+Breaking TVs	1st	Closing Government	View Ballot	Aayana Rai BhojaniⒸ , Deeksha Rao , Divyansh NautiyalⓉ
+Cool	4th	Opening Opposition	View Ballot	Aayana Rai BhojaniⒸ , Deeksha Rao , Divyansh NautiyalⓉ
+Suck My Narrative	2nd	Opening Government	View Ballot	Aayana Rai BhojaniⒸ , Deeksha Rao , Divyansh NautiyalⓉ
+Cold Coffee	1st	Closing Opposition	View Ballot	Arjun BharadwajⒸ , Nihaal Kuchangi , RedactedⓉ , Vidhan VyasⓉ
+Team Athena2	3rd	Closing Government	View Ballot	Arjun BharadwajⒸ , Nihaal Kuchangi , RedactedⓉ , Vidhan VyasⓉ
+Swing 2	2nd	Opening Opposition	View Ballot	Arjun BharadwajⒸ , Nihaal Kuchangi , RedactedⓉ , Vidhan VyasⓉ
+bicker pickers	4th	Opening Government	View Ballot	Arjun BharadwajⒸ , Nihaal Kuchangi , RedactedⓉ , Vidhan VyasⓉ
+Swing 1	1st	Closing Opposition	View Ballot	Himanshi WadhwaⒸ , Nirali Mahajan , Eshika RoyⓉ , Sharanya ShettyⓉ
+PG&amp;MK	4th	Closing Government	View Ballot	Himanshi WadhwaⒸ , Nirali Mahajan , Eshika RoyⓉ , Sharanya ShettyⓉ
+We Beg to Differ	2nd	Opening Opposition	View Ballot	Himanshi WadhwaⒸ , Nirali Mahajan , Eshika RoyⓉ , Sharanya ShettyⓉ
+This is theoretically a team name	3rd	Opening Government	View Ballot	Himanshi WadhwaⒸ , Nirali Mahajan , Eshika RoyⓉ , Sharanya ShettyⓉ
+The Big Suns.	4th	Closing Opposition	View Ballot	Sneha DashⒸ , Eishan Deshwal , Sana Soneja
+Acharya went from runner to runners	1st	Closing Government	View Ballot	Sneha DashⒸ , Eishan Deshwal , Sana Soneja
+Wubbalubbadubdub	2nd	Opening Opposition	View Ballot	Sneha DashⒸ , Eishan Deshwal , Sana Soneja
+Neurotic Milk In My Socks	3rd	Opening Government	View Ballot	Sneha DashⒸ , Eishan Deshwal , Sana Soneja
+Iron woman	3rd	Closing Opposition	View Ballot	Soham ChawdaⒸ , Amitava Dutta , Arnav GuptaⓉ , Kunal BasumatariⓉ
+Why did we miss break night?	2nd	Closing Government	View Ballot	Soham ChawdaⒸ , Amitava Dutta , Arnav GuptaⓉ , Kunal BasumatariⓉ
+2 States	4th	Opening Opposition	View Ballot	Soham ChawdaⒸ , Amitava Dutta , Arnav GuptaⓉ , Kunal BasumatariⓉ
+Vada Pav Dosa	1st	Opening Government	View Ballot	Soham ChawdaⒸ , Amitava Dutta , Arnav GuptaⓉ , Kunal BasumatariⓉ
+Moood	2nd	Closing Opposition	View Ballot	Parshva ShahⒸ , Jahnavi Rishikesh , Vikrant PandeyⓉ
+It’s giving liver failure	4th	Closing Government	View Ballot	Parshva ShahⒸ , Jahnavi Rishikesh , Vikrant PandeyⓉ
+Arya and Kiran	3rd	Opening Opposition	View Ballot	Parshva ShahⒸ , Jahnavi Rishikesh , Vikrant PandeyⓉ
+Nothing, Nowhere, Never	1st	Opening Government	View Ballot	Parshva ShahⒸ , Jahnavi Rishikesh , Vikrant PandeyⓉ
+Pan Galactic Gargle Blasters	2nd	Closing Opposition	View Ballot	Hadar GoldbergⒸ , Snega Umapathi , Acharaj Kaur TutejaⓉ
+Everything Everywhere All At Once	1st	Closing Government	View Ballot	Hadar GoldbergⒸ , Snega Umapathi , Acharaj Kaur TutejaⓉ
+Red pillers	3rd	Opening Opposition	View Ballot	Hadar GoldbergⒸ , Snega Umapathi , Acharaj Kaur TutejaⓉ
+Dialectical kids	4th	Opening Government	View Ballot	Hadar GoldbergⒸ , Snega Umapathi , Acharaj Kaur TutejaⓉ
+Take de bait - PES	3rd	Closing Opposition	View Ballot	Meghna PondaⒸ , Ashlesha h , Mohanish TatiyaⓉ , Rohit RajⓉ
+BY2 Coffee	2nd	Closing Government	View Ballot	Meghna PondaⒸ , Ashlesha h , Mohanish TatiyaⓉ , Rohit RajⓉ
+Sptm debaters	4th	Opening Opposition	View Ballot	Meghna PondaⒸ , Ashlesha h , Mohanish TatiyaⓉ , Rohit RajⓉ
+Sam, KK and 19 others	1st	Opening Government	View Ballot	Meghna PondaⒸ , Ashlesha h , Mohanish TatiyaⓉ , Rohit RajⓉ
+
+
+team	result	side	ballot	adjudicators
+sunshine radiators	4th	Closing Opposition	View Ballot	Shivani VermaⒸ , Jahnavi Rishikesh , Shruti DudhaneⓉ , Siddharth KapoorⓉ
+Dholakpur	1st	Closing Government	View Ballot	Shivani VermaⒸ , Jahnavi Rishikesh , Shruti DudhaneⓉ , Siddharth KapoorⓉ
+Moood	3rd	Opening Opposition	View Ballot	Shivani VermaⒸ , Jahnavi Rishikesh , Shruti DudhaneⓉ , Siddharth KapoorⓉ
+Skyler White Yo	2nd	Opening Government	View Ballot	Shivani VermaⒸ , Jahnavi Rishikesh , Shruti DudhaneⓉ , Siddharth KapoorⓉ
+Anything	4th	Closing Opposition	View Ballot	RedactedⒸ , Acharaj Kaur Tuteja , Nirali Mahajan , Dhanashree DalviⓉ
+The suburban debaters	1st	Closing Government	View Ballot	RedactedⒸ , Acharaj Kaur Tuteja , Nirali Mahajan , Dhanashree DalviⓉ
+Pan Galactic Gargle Blasters	3rd	Opening Opposition	View Ballot	RedactedⒸ , Acharaj Kaur Tuteja , Nirali Mahajan , Dhanashree DalviⓉ
+Swing 2	2nd	Opening Government	View Ballot	RedactedⒸ , Acharaj Kaur Tuteja , Nirali Mahajan , Dhanashree DalviⓉ
+PG&amp;MK	2nd	Closing Opposition	View Ballot	Mayukha MarlaⒸ , Varsha Venkat , Arjun NagⓉ , Shubham RayⓉ
+Blooms	4th	Closing Government	View Ballot	Mayukha MarlaⒸ , Varsha Venkat , Arjun NagⓉ , Shubham RayⓉ
+Hum rebuttal de chuke sanam	1st	Opening Opposition	View Ballot	Mayukha MarlaⒸ , Varsha Venkat , Arjun NagⓉ , Shubham RayⓉ
+The Pontificators	3rd	Opening Government	View Ballot	Mayukha MarlaⒸ , Varsha Venkat , Arjun NagⓉ , Shubham RayⓉ
+Wenimetuindasummer	2nd	Closing Opposition	View Ballot	Abhishek GoreⒸ , Prikshit , Shristi Singh , Sharanya ShettyⓉ
+cutting wada pav	3rd	Closing Government	View Ballot	Abhishek GoreⒸ , Prikshit , Shristi Singh , Sharanya ShettyⓉ
+Mercury	1st	Opening Opposition	View Ballot	Abhishek GoreⒸ , Prikshit , Shristi Singh , Sharanya ShettyⓉ
+Convince Us	4th	Opening Government	View Ballot	Abhishek GoreⒸ , Prikshit , Shristi Singh , Sharanya ShettyⓉ
+Wubbalubbadubdub	1st	Closing Opposition	View Ballot	Himanshi WadhwaⒸ , Parth Shah , Subiksha VeluⓉ , Y Aditya BharathⓉ
+Team Kant	4th	Closing Government	View Ballot	Himanshi WadhwaⒸ , Parth Shah , Subiksha VeluⓉ , Y Aditya BharathⓉ
+Allied biscuits	2nd	Opening Opposition	View Ballot	Himanshi WadhwaⒸ , Parth Shah , Subiksha VeluⓉ , Y Aditya BharathⓉ
+Would&#x27;ve Could&#x27;ve Should&#x27;ve Taken T	3rd	Opening Government	View Ballot	Himanshi WadhwaⒸ , Parth Shah , Subiksha VeluⓉ , Y Aditya BharathⓉ
+My brain is buffering	3rd	Closing Opposition	View Ballot	Aayana Rai BhojaniⒸ , Jenil Savaliya , Arnav GuptaⓉ , KirtiⓉ
+shreya and mean girls	4th	Closing Government	View Ballot	Aayana Rai BhojaniⒸ , Jenil Savaliya , Arnav GuptaⓉ , KirtiⓉ
+bt in lgbt	2nd	Opening Opposition	View Ballot	Aayana Rai BhojaniⒸ , Jenil Savaliya , Arnav GuptaⓉ , KirtiⓉ
+weed brownie camel rides	1st	Opening Government	View Ballot	Aayana Rai BhojaniⒸ , Jenil Savaliya , Arnav GuptaⓉ , KirtiⓉ
+THE OPINIONATER	4th	Closing Opposition	View Ballot	Shubhneet SoniⒸ , Mohanish Tatiya , Yash Bishnoi
+Comrades11	3rd	Closing Government	View Ballot	Shubhneet SoniⒸ , Mohanish Tatiya , Yash Bishnoi
+The Big Suns.	2nd	Opening Opposition	View Ballot	Shubhneet SoniⒸ , Mohanish Tatiya , Yash Bishnoi
+Damn, Peggy	1st	Opening Government	View Ballot	Shubhneet SoniⒸ , Mohanish Tatiya , Yash Bishnoi
+Our Case is an Act of God	2nd	Closing Opposition	View Ballot	Pranav KagalkarⒸ , Khushi Patel , Disha JainⓉ , Raghav DagarⓉ
+Vada Pav Dosa	4th	Closing Government	View Ballot	Pranav KagalkarⒸ , Khushi Patel , Disha JainⓉ , Raghav DagarⓉ
+Nothing, Nowhere, Never	3rd	Opening Opposition	View Ballot	Pranav KagalkarⒸ , Khushi Patel , Disha JainⓉ , Raghav DagarⓉ
+Shravan is @ Peenya	1st	Opening Government	View Ballot	Pranav KagalkarⒸ , Khushi Patel , Disha JainⓉ , Raghav DagarⓉ
+Swing 3	1st	Closing Opposition	View Ballot	Antara RanjanⒸ , Nihaal Kuchangi
+Krishna.	3rd	Closing Government	View Ballot	Antara RanjanⒸ , Nihaal Kuchangi
+Team Athena	4th	Opening Opposition	View Ballot	Antara RanjanⒸ , Nihaal Kuchangi
+Aryennh&#x27;s Indecision	2nd	Opening Government	View Ballot	Antara RanjanⒸ , Nihaal Kuchangi
+Sam, KK and 19 others	4th	Closing Opposition	View Ballot	Parshva ShahⒸ , Redacted , Anushka ShreeⓉ , Snega UmapathiⓉ
+Swing 1	2nd	Closing Government	View Ballot	Parshva ShahⒸ , Redacted , Anushka ShreeⓉ , Snega UmapathiⓉ
+Bad Decisions At Midnight	3rd	Opening Opposition	View Ballot	Parshva ShahⒸ , Redacted , Anushka ShreeⓉ , Snega UmapathiⓉ
+Everything Everywhere All At Once	1st	Opening Government	View Ballot	Parshva ShahⒸ , Redacted , Anushka ShreeⓉ , Snega UmapathiⓉ
+Neurotic Milk In My Socks	1st	Closing Opposition	View Ballot	Arjun BharadwajⒸ , Sushant Shekhar , Kunal BasumatariⓉ
+This is theoretically a team name	2nd	Closing Government	View Ballot	Arjun BharadwajⒸ , Sushant Shekhar , Kunal BasumatariⓉ
+Team Athena2	4th	Opening Opposition	View Ballot	Arjun BharadwajⒸ , Sushant Shekhar , Kunal BasumatariⓉ
+FQ	3rd	Opening Government	View Ballot	Arjun BharadwajⒸ , Sushant Shekhar , Kunal BasumatariⓉ
+Agree to Disagree!	3rd	Closing Opposition	View Ballot	Anushikha PokhriyalⒸ , Ashlesha h , Vikrant Pandey
+Smarticles	2nd	Closing Government	View Ballot	Anushikha PokhriyalⒸ , Ashlesha h , Vikrant Pandey
+Take de bait - PES	1st	Opening Opposition	View Ballot	Anushikha PokhriyalⒸ , Ashlesha h , Vikrant Pandey
+Team UFM	4th	Opening Government	View Ballot	Anushikha PokhriyalⒸ , Ashlesha h , Vikrant Pandey
+Why did we miss break night?	2nd	Closing Opposition	View Ballot	Gowtham KrishnaⒸ , Sushovit Nanda , Vidhee More , Akshada SinhaⓉ
+Bebatebots	3rd	Closing Government	View Ballot	Gowtham KrishnaⒸ , Sushovit Nanda , Vidhee More , Akshada SinhaⓉ
+Peaky	4th	Opening Opposition	View Ballot	Gowtham KrishnaⒸ , Sushovit Nanda , Vidhee More , Akshada SinhaⓉ
+OB and Not To Be	1st	Opening Government	View Ballot	Gowtham KrishnaⒸ , Sushovit Nanda , Vidhee More , Akshada SinhaⓉ
+Opinionaters	4th	Closing Opposition	View Ballot	Soham ChawdaⒸ , Amitava Dutta , Sneha Dash
+Iron woman	3rd	Closing Government	View Ballot	Soham ChawdaⒸ , Amitava Dutta , Sneha Dash
+I&#x27;d rather lose you than the argume	1st	Opening Opposition	View Ballot	Soham ChawdaⒸ , Amitava Dutta , Sneha Dash
+Discussin&#x27;, not dissin&#x27;/cussin&#x27;	2nd	Opening Government	View Ballot	Soham ChawdaⒸ , Amitava Dutta , Sneha Dash
+bicker pickers	3rd	Closing Opposition	View Ballot	Rahul RⒸ , Sreenidhi Konnur , Vidhan Vyas
+gilmoregirls	4th	Closing Government	View Ballot	Rahul RⒸ , Sreenidhi Konnur , Vidhan Vyas
+Blue Lemonade	1st	Opening Opposition	View Ballot	Rahul RⒸ , Sreenidhi Konnur , Vidhan Vyas
+Legally Brunette	2nd	Opening Government	View Ballot	Rahul RⒸ , Sreenidhi Konnur , Vidhan Vyas
+Aye aye tee bee	2nd	Closing Opposition	View Ballot	Chinmaya MohanⒸ , Samuel Thomas , Yash Phadke , Taniska SinghⓉ
+Jasushi	3rd	Closing Government	View Ballot	Chinmaya MohanⒸ , Samuel Thomas , Yash Phadke , Taniska SinghⓉ
+Distinct apples	4th	Opening Opposition	View Ballot	Chinmaya MohanⒸ , Samuel Thomas , Yash Phadke , Taniska SinghⓉ
+Mohmaya Chessboard by the ocean	1st	Opening Government	View Ballot	Chinmaya MohanⒸ , Samuel Thomas , Yash Phadke , Taniska SinghⓉ
+2 States	1st	Closing Opposition	View Ballot	Meghna PondaⒸ , Eishan Deshwal , Aditya PandeⓉ
+Dialectical kids	2nd	Closing Government	View Ballot	Meghna PondaⒸ , Eishan Deshwal , Aditya PandeⓉ
+Here to Party	3rd	Opening Opposition	View Ballot	Meghna PondaⒸ , Eishan Deshwal , Aditya PandeⓉ
+It’s giving liver failure	4th	Opening Government	View Ballot	Meghna PondaⒸ , Eishan Deshwal , Aditya PandeⓉ
+Sptm debaters	1st	Closing Opposition	View Ballot	HOSAMATH SHARANⒸ , Deeksha Rao , UrjaⓉ
+Listen Up!	4th	Closing Government	View Ballot	HOSAMATH SHARANⒸ , Deeksha Rao , UrjaⓉ
+Saudi oil tycoons	2nd	Opening Opposition	View Ballot	HOSAMATH SHARANⒸ , Deeksha Rao , UrjaⓉ
+Cool	3rd	Opening Government	View Ballot	HOSAMATH SHARANⒸ , Deeksha Rao , UrjaⓉ
+Breaking TVs	4th	Closing Opposition	View Ballot	Hadar GoldbergⒸ , Yash Vasdev , Eshika RoyⓉ , Vidhi JainⓉ
+Team Red	3rd	Closing Government	View Ballot	Hadar GoldbergⒸ , Yash Vasdev , Eshika RoyⓉ , Vidhi JainⓉ
+Acharya went from runner to runners	1st	Opening Opposition	View Ballot	Hadar GoldbergⒸ , Yash Vasdev , Eshika RoyⓉ , Vidhi JainⓉ
+Purple Butter	2nd	Opening Government	View Ballot	Hadar GoldbergⒸ , Yash Vasdev , Eshika RoyⓉ , Vidhi JainⓉ
+Red pillers	2nd	Closing Opposition	View Ballot	Ananga RanaⒸ , Kanan Raghuwanshi , Kaushik MⓉ , Rohit RajⓉ
+Fuggit	1st	Closing Government	View Ballot	Ananga RanaⒸ , Kanan Raghuwanshi , Kaushik MⓉ , Rohit RajⓉ
+The Shoplifters	3rd	Opening Opposition	View Ballot	Ananga RanaⒸ , Kanan Raghuwanshi , Kaushik MⓉ , Rohit RajⓉ
+Arya and Kiran	4th	Opening Government	View Ballot	Ananga RanaⒸ , Kanan Raghuwanshi , Kaushik MⓉ , Rohit RajⓉ
+Suck My Narrative	4th	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Anuj Pradhan , Redacted , Mehek MahajanⓉ
+Two People in Debsoc	1st	Closing Government	View Ballot	Rushdoon AhmedⒸ , Anuj Pradhan , Redacted , Mehek MahajanⓉ
+BY2 Coffee	3rd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Anuj Pradhan , Redacted , Mehek MahajanⓉ
+We Beg to Differ	2nd	Opening Government	View Ballot	Rushdoon AhmedⒸ , Anuj Pradhan , Redacted , Mehek MahajanⓉ
+crisp failure	1st	Closing Opposition	View Ballot	Vedika WaliaⒸ , Sana Soneja , Suhani Daruka , Divyansh NautiyalⓉ
+Bombay Vikings	3rd	Closing Government	View Ballot	Vedika WaliaⒸ , Sana Soneja , Suhani Daruka , Divyansh NautiyalⓉ
+Team Titans	2nd	Opening Opposition	View Ballot	Vedika WaliaⒸ , Sana Soneja , Suhani Daruka , Divyansh NautiyalⓉ
+Misfits	4th	Opening Government	View Ballot	Vedika WaliaⒸ , Sana Soneja , Suhani Daruka , Divyansh NautiyalⓉ
+Kalesh	1st	Closing Opposition	View Ballot	Shuvam MitraⒸ , Adrija Sinha Sarkar , Khushi Sharma , Sarthak MehtaⓉ
+Dumb and Dumber	3rd	Closing Government	View Ballot	Shuvam MitraⒸ , Adrija Sinha Sarkar , Khushi Sharma , Sarthak MehtaⓉ
+Cold Coffee	4th	Opening Opposition	View Ballot	Shuvam MitraⒸ , Adrija Sinha Sarkar , Khushi Sharma , Sarthak MehtaⓉ
+Take Us At Our Best Case	2nd	Opening Government	View Ballot	Shuvam MitraⒸ , Adrija Sinha Sarkar , Khushi Sharma , Sarthak MehtaⓉ
+
+
+team	result	side	ballot	adjudicators
+Team Titans	4th	Closing Opposition	View Ballot	Gowtham KrishnaⒸ , Kanan Raghuwanshi , Sana Soneja , Khushi PatelⓉ
+Take de bait - PES	3rd	Closing Government	View Ballot	Gowtham KrishnaⒸ , Kanan Raghuwanshi , Sana Soneja , Khushi PatelⓉ
+Sam, KK and 19 others	2nd	Opening Opposition	View Ballot	Gowtham KrishnaⒸ , Kanan Raghuwanshi , Sana Soneja , Khushi PatelⓉ
+Allied biscuits	1st	Opening Government	View Ballot	Gowtham KrishnaⒸ , Kanan Raghuwanshi , Sana Soneja , Khushi PatelⓉ
+FQ	2nd	Closing Opposition	View Ballot	Antara RanjanⒸ , Rohit Raj
+Anything	3rd	Closing Government	View Ballot	Antara RanjanⒸ , Rohit Raj
+Legally Brunette	1st	Opening Opposition	View Ballot	Antara RanjanⒸ , Rohit Raj
+Peaky	4th	Opening Government	View Ballot	Antara RanjanⒸ , Rohit Raj
+Damn, Peggy	3rd	Closing Opposition	View Ballot	Arjun BharadwajⒸ , Akshada Sinha , Mayukha Marla , Mohanish Tatiya
+Red pillers	2nd	Closing Government	View Ballot	Arjun BharadwajⒸ , Akshada Sinha , Mayukha Marla , Mohanish Tatiya
+shreya and mean girls	1st	Opening Opposition	View Ballot	Arjun BharadwajⒸ , Akshada Sinha , Mayukha Marla , Mohanish Tatiya
+I&#x27;d rather lose you than the argume	4th	Opening Government	View Ballot	Arjun BharadwajⒸ , Akshada Sinha , Mayukha Marla , Mohanish Tatiya
+Skyler White Yo	4th	Closing Opposition	View Ballot	Himanshi WadhwaⒸ , Amitava Dutta , Vikrant Pandey
+Pan Galactic Gargle Blasters	1st	Closing Government	View Ballot	Himanshi WadhwaⒸ , Amitava Dutta , Vikrant Pandey
+Suck My Narrative	2nd	Opening Opposition	View Ballot	Himanshi WadhwaⒸ , Amitava Dutta , Vikrant Pandey
+Smarticles	3rd	Opening Government	View Ballot	Himanshi WadhwaⒸ , Amitava Dutta , Vikrant Pandey
+Dumb and Dumber	3rd	Closing Opposition	View Ballot	Shruti DebⒸ , Nihaal Kuchangi , Suhani Daruka , KirtiⓉ
+Wubbalubbadubdub	4th	Closing Government	View Ballot	Shruti DebⒸ , Nihaal Kuchangi , Suhani Daruka , KirtiⓉ
+Swing 1	2nd	Opening Opposition	View Ballot	Shruti DebⒸ , Nihaal Kuchangi , Suhani Daruka , KirtiⓉ
+The suburban debaters	1st	Opening Government	View Ballot	Shruti DebⒸ , Nihaal Kuchangi , Suhani Daruka , KirtiⓉ
+Convince Us	3rd	Closing Opposition	View Ballot	Rahul RⒸ , Anushka Shree , Sreenidhi Konnur , Eshika RoyⓉ
+The Pontificators	2nd	Closing Government	View Ballot	Rahul RⒸ , Anushka Shree , Sreenidhi Konnur , Eshika RoyⓉ
+THE OPINIONATER	4th	Opening Opposition	View Ballot	Rahul RⒸ , Anushka Shree , Sreenidhi Konnur , Eshika RoyⓉ
+Here to Party	1st	Opening Government	View Ballot	Rahul RⒸ , Anushka Shree , Sreenidhi Konnur , Eshika RoyⓉ
+Nothing, Nowhere, Never	1st	Closing Opposition	View Ballot	Aditya SunkaraⒸ , Acharaj Kaur Tuteja , Yash Vasdev , Snega UmapathiⓉ
+Swing 3	4th	Closing Government	View Ballot	Aditya SunkaraⒸ , Acharaj Kaur Tuteja , Yash Vasdev , Snega UmapathiⓉ
+Fuggit	3rd	Opening Opposition	View Ballot	Aditya SunkaraⒸ , Acharaj Kaur Tuteja , Yash Vasdev , Snega UmapathiⓉ
+Why did we miss break night?	2nd	Opening Government	View Ballot	Aditya SunkaraⒸ , Acharaj Kaur Tuteja , Yash Vasdev , Snega UmapathiⓉ
+This is theoretically a team name	1st	Closing Opposition	View Ballot	HarsithⒸ , Shristi Singh , Yash Phadke
+2 States	2nd	Closing Government	View Ballot	HarsithⒸ , Shristi Singh , Yash Phadke
+Vada Pav Dosa	3rd	Opening Opposition	View Ballot	HarsithⒸ , Shristi Singh , Yash Phadke
+Krishna.	4th	Opening Government	View Ballot	HarsithⒸ , Shristi Singh , Yash Phadke
+Blooms	4th	Closing Opposition	View Ballot	Ananga RanaⒸ , Khushi Sharma , Vidhan Vyas , PrikshitⓉ
+Cool	1st	Closing Government	View Ballot	Ananga RanaⒸ , Khushi Sharma , Vidhan Vyas , PrikshitⓉ
+bicker pickers	2nd	Opening Opposition	View Ballot	Ananga RanaⒸ , Khushi Sharma , Vidhan Vyas , PrikshitⓉ
+Team Athena	3rd	Opening Government	View Ballot	Ananga RanaⒸ , Khushi Sharma , Vidhan Vyas , PrikshitⓉ
+Team Red	2nd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Ashlesha h , Taniska Singh , Y Aditya BharathⓉ
+Neurotic Milk In My Socks	3rd	Closing Government	View Ballot	Rushdoon AhmedⒸ , Ashlesha h , Taniska Singh , Y Aditya BharathⓉ
+Take Us At Our Best Case	1st	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Ashlesha h , Taniska Singh , Y Aditya BharathⓉ
+Bad Decisions At Midnight	4th	Opening Government	View Ballot	Rushdoon AhmedⒸ , Ashlesha h , Taniska Singh , Y Aditya BharathⓉ
+Arya and Kiran	4th	Closing Opposition	View Ballot	VatsalⒸ , Deeksha Rao , Sharanya Shetty , Siddharth KapoorⓉ
+Team UFM	1st	Closing Government	View Ballot	VatsalⒸ , Deeksha Rao , Sharanya Shetty , Siddharth KapoorⓉ
+Comrades11	2nd	Opening Opposition	View Ballot	VatsalⒸ , Deeksha Rao , Sharanya Shetty , Siddharth KapoorⓉ
+Team Athena2	3rd	Opening Government	View Ballot	VatsalⒸ , Deeksha Rao , Sharanya Shetty , Siddharth KapoorⓉ
+Hum rebuttal de chuke sanam	3rd	Closing Opposition	View Ballot	Abhishek GoreⒸ , Aditya Pande , Divyansh NautiyalⓉ , Kunal BasumatariⓉ
+Would&#x27;ve Could&#x27;ve Should&#x27;ve Taken T	1st	Closing Government	View Ballot	Abhishek GoreⒸ , Aditya Pande , Divyansh NautiyalⓉ , Kunal BasumatariⓉ
+Discussin&#x27;, not dissin&#x27;/cussin&#x27;	2nd	Opening Opposition	View Ballot	Abhishek GoreⒸ , Aditya Pande , Divyansh NautiyalⓉ , Kunal BasumatariⓉ
+Cold Coffee	4th	Opening Government	View Ballot	Abhishek GoreⒸ , Aditya Pande , Divyansh NautiyalⓉ , Kunal BasumatariⓉ
+Mohmaya Chessboard by the ocean	2nd	Closing Opposition	View Ballot	Varsha VenkatⒸ , Aayana Rai Bhojani , Raghav Dagar
+Shravan is @ Peenya	4th	Closing Government	View Ballot	Varsha VenkatⒸ , Aayana Rai Bhojani , Raghav Dagar
+weed brownie camel rides	1st	Opening Opposition	View Ballot	Varsha VenkatⒸ , Aayana Rai Bhojani , Raghav Dagar
+Our Case is an Act of God	3rd	Opening Government	View Ballot	Varsha VenkatⒸ , Aayana Rai Bhojani , Raghav Dagar
+Purple Butter	1st	Closing Opposition	View Ballot	Chinmaya MohanⒸ , Redacted , Nirali Mahajan , Kaushik MⓉ
+bt in lgbt	2nd	Closing Government	View Ballot	Chinmaya MohanⒸ , Redacted , Nirali Mahajan , Kaushik MⓉ
+Jasushi	3rd	Opening Opposition	View Ballot	Chinmaya MohanⒸ , Redacted , Nirali Mahajan , Kaushik MⓉ
+Aye aye tee bee	4th	Opening Government	View Ballot	Chinmaya MohanⒸ , Redacted , Nirali Mahajan , Kaushik MⓉ
+Aryennh&#x27;s Indecision	1st	Closing Opposition	View Ballot	Anushikha PokhriyalⒸ , HOSAMATH SHARAN , Sushovit Nanda
+The Big Suns.	3rd	Closing Government	View Ballot	Anushikha PokhriyalⒸ , HOSAMATH SHARAN , Sushovit Nanda
+Iron woman	2nd	Opening Opposition	View Ballot	Anushikha PokhriyalⒸ , HOSAMATH SHARAN , Sushovit Nanda
+PG&amp;MK	4th	Opening Government	View Ballot	Anushikha PokhriyalⒸ , HOSAMATH SHARAN , Sushovit Nanda
+Bebatebots	4th	Closing Opposition	View Ballot	Vedika WaliaⒸ , Adrija Sinha Sarkar , Parth Shah , Shubham RayⓉ
+Blue Lemonade	3rd	Closing Government	View Ballot	Vedika WaliaⒸ , Adrija Sinha Sarkar , Parth Shah , Shubham RayⓉ
+Breaking TVs	1st	Opening Opposition	View Ballot	Vedika WaliaⒸ , Adrija Sinha Sarkar , Parth Shah , Shubham RayⓉ
+BY2 Coffee	2nd	Opening Government	View Ballot	Vedika WaliaⒸ , Adrija Sinha Sarkar , Parth Shah , Shubham RayⓉ
+Bombay Vikings	1st	Closing Opposition	View Ballot	RedactedⒸ , Jahnavi Rishikesh , Samuel Thomas , Shruti DudhaneⓉ
+Moood	2nd	Closing Government	View Ballot	RedactedⒸ , Jahnavi Rishikesh , Samuel Thomas , Shruti DudhaneⓉ
+Wenimetuindasummer	3rd	Opening Opposition	View Ballot	RedactedⒸ , Jahnavi Rishikesh , Samuel Thomas , Shruti DudhaneⓉ
+Distinct apples	4th	Opening Government	View Ballot	RedactedⒸ , Jahnavi Rishikesh , Samuel Thomas , Shruti DudhaneⓉ
+Everything Everywhere All At Once	3rd	Closing Opposition	View Ballot	Hadar GoldbergⒸ , Jenil Savaliya , Sarthak Mehta , Arjun NagⓉ
+crisp failure	4th	Closing Government	View Ballot	Hadar GoldbergⒸ , Jenil Savaliya , Sarthak Mehta , Arjun NagⓉ
+Kalesh	2nd	Opening Opposition	View Ballot	Hadar GoldbergⒸ , Jenil Savaliya , Sarthak Mehta , Arjun NagⓉ
+Acharya went from runner to runners	1st	Opening Government	View Ballot	Hadar GoldbergⒸ , Jenil Savaliya , Sarthak Mehta , Arjun NagⓉ
+Misfits	4th	Closing Opposition	View Ballot	Soham ChawdaⒸ , Subiksha Velu , Sushant Shekhar , Dhanashree DalviⓉ
+Agree to Disagree!	2nd	Closing Government	View Ballot	Soham ChawdaⒸ , Subiksha Velu , Sushant Shekhar , Dhanashree DalviⓉ
+Dialectical kids	1st	Opening Opposition	View Ballot	Soham ChawdaⒸ , Subiksha Velu , Sushant Shekhar , Dhanashree DalviⓉ
+sunshine radiators	3rd	Opening Government	View Ballot	Soham ChawdaⒸ , Subiksha Velu , Sushant Shekhar , Dhanashree DalviⓉ
+OB and Not To Be	3rd	Closing Opposition	View Ballot	Maitreyi ArwariⒸ , Mehek Mahajan , Parshva Shah
+Mercury	4th	Closing Government	View Ballot	Maitreyi ArwariⒸ , Mehek Mahajan , Parshva Shah
+Two People in Debsoc	1st	Opening Opposition	View Ballot	Maitreyi ArwariⒸ , Mehek Mahajan , Parshva Shah
+Dholakpur	2nd	Opening Government	View Ballot	Maitreyi ArwariⒸ , Mehek Mahajan , Parshva Shah
+We Beg to Differ	1st	Closing Opposition	View Ballot	Shuvam MitraⒸ , Urja , Redacted , Anuj PradhanⓉ
+Swing 2	4th	Closing Government	View Ballot	Shuvam MitraⒸ , Urja , Redacted , Anuj PradhanⓉ
+My brain is buffering	2nd	Opening Opposition	View Ballot	Shuvam MitraⒸ , Urja , Redacted , Anuj PradhanⓉ
+Sptm debaters	3rd	Opening Government	View Ballot	Shuvam MitraⒸ , Urja , Redacted , Anuj PradhanⓉ
+Saudi oil tycoons	3rd	Closing Opposition	View Ballot	Shivani VermaⒸ , Sneha Dash , Yash Bishnoi , Vidhi JainⓉ
+The Shoplifters	4th	Closing Government	View Ballot	Shivani VermaⒸ , Sneha Dash , Yash Bishnoi , Vidhi JainⓉ
+Team Kant	1st	Opening Opposition	View Ballot	Shivani VermaⒸ , Sneha Dash , Yash Bishnoi , Vidhi JainⓉ
+cutting wada pav	2nd	Opening Government	View Ballot	Shivani VermaⒸ , Sneha Dash , Yash Bishnoi , Vidhi JainⓉ
+Listen Up!	3rd	Closing Opposition	View Ballot	Eishan DeshwalⒸ , Arnav Gupta , Vidhee More , Disha JainⓉ
+Opinionaters	2nd	Closing Government	View Ballot	Eishan DeshwalⒸ , Arnav Gupta , Vidhee More , Disha JainⓉ
+It’s giving liver failure	1st	Opening Opposition	View Ballot	Eishan DeshwalⒸ , Arnav Gupta , Vidhee More , Disha JainⓉ
+gilmoregirls	4th	Opening Government	View Ballot	Eishan DeshwalⒸ , Arnav Gupta , Vidhee More , Disha JainⓉ
+
+
+team	result	side	ballot	adjudicators
+Arya and Kiran	3rd	Closing Opposition	View Ballot	Sneha DashⒸ , Anuj Pradhan , Khushi Sharma , Raghav DagarⓉ
+THE OPINIONATER	4th	Closing Government	View Ballot	Sneha DashⒸ , Anuj Pradhan , Khushi Sharma , Raghav DagarⓉ
+gilmoregirls	2nd	Opening Opposition	View Ballot	Sneha DashⒸ , Anuj Pradhan , Khushi Sharma , Raghav DagarⓉ
+Swing 4	1st	Opening Government	View Ballot	Sneha DashⒸ , Anuj Pradhan , Khushi Sharma , Raghav DagarⓉ
+Shravan is @ Peenya	3rd	Closing Opposition	View Ballot	Chinmaya MohanⒸ , Ashlesha h , Nirali Mahajan , Arjun NagⓉ
+Our Case is an Act of God	1st	Closing Government	View Ballot	Chinmaya MohanⒸ , Ashlesha h , Nirali Mahajan , Arjun NagⓉ
+Why did we miss break night?	2nd	Opening Opposition	View Ballot	Chinmaya MohanⒸ , Ashlesha h , Nirali Mahajan , Arjun NagⓉ
+Team Red	4th	Opening Government	View Ballot	Chinmaya MohanⒸ , Ashlesha h , Nirali Mahajan , Arjun NagⓉ
+Jasushi	2nd	Closing Opposition	View Ballot	Gowtham KrishnaⒸ , Maitreyi Arwari , Suhani Daruka , Anushka ShreeⓉ
+Sam, KK and 19 others	1st	Closing Government	View Ballot	Gowtham KrishnaⒸ , Maitreyi Arwari , Suhani Daruka , Anushka ShreeⓉ
+Red pillers	4th	Opening Opposition	View Ballot	Gowtham KrishnaⒸ , Maitreyi Arwari , Suhani Daruka , Anushka ShreeⓉ
+crisp failure	3rd	Opening Government	View Ballot	Gowtham KrishnaⒸ , Maitreyi Arwari , Suhani Daruka , Anushka ShreeⓉ
+Team Athena2	4th	Closing Opposition	View Ballot	HOSAMATH SHARANⒸ , Akshada Sinha , Yash Phadke , RedactedⓉ
+Peaky	1st	Closing Government	View Ballot	HOSAMATH SHARANⒸ , Akshada Sinha , Yash Phadke , RedactedⓉ
+PG&amp;MK	3rd	Opening Opposition	View Ballot	HOSAMATH SHARANⒸ , Akshada Sinha , Yash Phadke , RedactedⓉ
+Listen Up!	2nd	Opening Government	View Ballot	HOSAMATH SHARANⒸ , Akshada Sinha , Yash Phadke , RedactedⓉ
+Swing 2	2nd	Closing Opposition	View Ballot	Soham ChawdaⒸ , Aditya Pande , Vatsal , Khushi PatelⓉ
+Skyler White Yo	4th	Closing Government	View Ballot	Soham ChawdaⒸ , Aditya Pande , Vatsal , Khushi PatelⓉ
+Swing 3	1st	Opening Opposition	View Ballot	Soham ChawdaⒸ , Aditya Pande , Vatsal , Khushi PatelⓉ
+Iron woman	3rd	Opening Government	View Ballot	Soham ChawdaⒸ , Aditya Pande , Vatsal , Khushi PatelⓉ
+Team UFM	1st	Closing Opposition	View Ballot	HarsithⒸ , Samuel Thomas , Sreenidhi Konnur , Sarthak MehtaⓉ
+Bad Decisions At Midnight	4th	Closing Government	View Ballot	HarsithⒸ , Samuel Thomas , Sreenidhi Konnur , Sarthak MehtaⓉ
+Smarticles	3rd	Opening Opposition	View Ballot	HarsithⒸ , Samuel Thomas , Sreenidhi Konnur , Sarthak MehtaⓉ
+Blue Lemonade	2nd	Opening Government	View Ballot	HarsithⒸ , Samuel Thomas , Sreenidhi Konnur , Sarthak MehtaⓉ
+The Pontificators	4th	Closing Opposition	View Ballot	Nihaal KuchangiⒸ , Eshika Roy , Mohanish Tatiya , Rohit RajⓉ
+I&#x27;d rather lose you than the argume	2nd	Closing Government	View Ballot	Nihaal KuchangiⒸ , Eshika Roy , Mohanish Tatiya , Rohit RajⓉ
+Krishna.	3rd	Opening Opposition	View Ballot	Nihaal KuchangiⒸ , Eshika Roy , Mohanish Tatiya , Rohit RajⓉ
+bicker pickers	1st	Opening Government	View Ballot	Nihaal KuchangiⒸ , Eshika Roy , Mohanish Tatiya , Rohit RajⓉ
+Take Us At Our Best Case	3rd	Closing Opposition	View Ballot	Himanshi WadhwaⒸ , Parshva Shah , Disha JainⓉ
+Nothing, Nowhere, Never	2nd	Closing Government	View Ballot	Himanshi WadhwaⒸ , Parshva Shah , Disha JainⓉ
+Dholakpur	1st	Opening Opposition	View Ballot	Himanshi WadhwaⒸ , Parshva Shah , Disha JainⓉ
+bt in lgbt	4th	Opening Government	View Ballot	Himanshi WadhwaⒸ , Parshva Shah , Disha JainⓉ
+It’s giving liver failure	1st	Closing Opposition	View Ballot	Vidhee MoreⒸ , Arnav Gupta , Mehek Mahajan , Sana SonejaⓉ
+Cold Coffee	4th	Closing Government	View Ballot	Vidhee MoreⒸ , Arnav Gupta , Mehek Mahajan , Sana SonejaⓉ
+Anything	2nd	Opening Opposition	View Ballot	Vidhee MoreⒸ , Arnav Gupta , Mehek Mahajan , Sana SonejaⓉ
+Saudi oil tycoons	3rd	Opening Government	View Ballot	Vidhee MoreⒸ , Arnav Gupta , Mehek Mahajan , Sana SonejaⓉ
+shreya and mean girls	3rd	Closing Opposition	View Ballot	Anushikha PokhriyalⒸ , Pranav Kagalkar , Kaushik MⓉ
+We Beg to Differ	4th	Closing Government	View Ballot	Anushikha PokhriyalⒸ , Pranav Kagalkar , Kaushik MⓉ
+Everything Everywhere All At Once	1st	Opening Opposition	View Ballot	Anushikha PokhriyalⒸ , Pranav Kagalkar , Kaushik MⓉ
+Swing 1	2nd	Opening Government	View Ballot	Anushikha PokhriyalⒸ , Pranav Kagalkar , Kaushik MⓉ
+Fuggit	4th	Closing Opposition	View Ballot	Arjun BharadwajⒸ , Aayana Rai Bhojani , Meghna Ponda , Kunal BasumatariⓉ
+My brain is buffering	3rd	Closing Government	View Ballot	Arjun BharadwajⒸ , Aayana Rai Bhojani , Meghna Ponda , Kunal BasumatariⓉ
+OB and Not To Be	1st	Opening Opposition	View Ballot	Arjun BharadwajⒸ , Aayana Rai Bhojani , Meghna Ponda , Kunal BasumatariⓉ
+Pan Galactic Gargle Blasters	2nd	Opening Government	View Ballot	Arjun BharadwajⒸ , Aayana Rai Bhojani , Meghna Ponda , Kunal BasumatariⓉ
+Dialectical kids	1st	Closing Opposition	View Ballot	RedactedⒸ , Deeksha Rao , Redacted , UrjaⓉ
+Sptm debaters	3rd	Closing Government	View Ballot	RedactedⒸ , Deeksha Rao , Redacted , UrjaⓉ
+Neurotic Milk In My Socks	2nd	Opening Opposition	View Ballot	RedactedⒸ , Deeksha Rao , Redacted , UrjaⓉ
+Take de bait - PES	4th	Opening Government	View Ballot	RedactedⒸ , Deeksha Rao , Redacted , UrjaⓉ
+cutting wada pav	4th	Closing Opposition	View Ballot	Shivani VermaⒸ , Amitava Dutta , Mayukha Marla , Shruti DudhaneⓉ
+FQ	3rd	Closing Government	View Ballot	Shivani VermaⒸ , Amitava Dutta , Mayukha Marla , Shruti DudhaneⓉ
+Vada Pav Dosa	1st	Opening Opposition	View Ballot	Shivani VermaⒸ , Amitava Dutta , Mayukha Marla , Shruti DudhaneⓉ
+Wenimetuindasummer	2nd	Opening Government	View Ballot	Shivani VermaⒸ , Amitava Dutta , Mayukha Marla , Shruti DudhaneⓉ
+Team Kant	3rd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Antara Ranjan , Sushant Shekhar , Sharanya ShettyⓉ
+Suck My Narrative	4th	Closing Government	View Ballot	Rushdoon AhmedⒸ , Antara Ranjan , Sushant Shekhar , Sharanya ShettyⓉ
+Bombay Vikings	1st	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Antara Ranjan , Sushant Shekhar , Sharanya ShettyⓉ
+2 States	2nd	Opening Government	View Ballot	Rushdoon AhmedⒸ , Antara Ranjan , Sushant Shekhar , Sharanya ShettyⓉ
+Swing 5	1st	Closing Opposition	View Ballot	Jenil SavaliyaⒸ , Jahnavi Rishikesh , Subiksha Velu
+Damn, Peggy	4th	Closing Government	View Ballot	Jenil SavaliyaⒸ , Jahnavi Rishikesh , Subiksha Velu
+Bebatebots	3rd	Opening Opposition	View Ballot	Jenil SavaliyaⒸ , Jahnavi Rishikesh , Subiksha Velu
+Hum rebuttal de chuke sanam	2nd	Opening Government	View Ballot	Jenil SavaliyaⒸ , Jahnavi Rishikesh , Subiksha Velu
+Cool	4th	Closing Opposition	View Ballot	Abhishek GoreⒸ , Rahul R , Shristi Singh , Vidhi JainⓉ
+Dumb and Dumber	2nd	Closing Government	View Ballot	Abhishek GoreⒸ , Rahul R , Shristi Singh , Vidhi JainⓉ
+Aye aye tee bee	3rd	Opening Opposition	View Ballot	Abhishek GoreⒸ , Rahul R , Shristi Singh , Vidhi JainⓉ
+Wubbalubbadubdub	1st	Opening Government	View Ballot	Abhishek GoreⒸ , Rahul R , Shristi Singh , Vidhi JainⓉ
+Team Athena	2nd	Closing Opposition	View Ballot	Yash VasdevⒸ , Vikrant Pandey , Yash Bishnoi
+Convince Us	4th	Closing Government	View Ballot	Yash VasdevⒸ , Vikrant Pandey , Yash Bishnoi
+Misfits	1st	Opening Opposition	View Ballot	Yash VasdevⒸ , Vikrant Pandey , Yash Bishnoi
+The Shoplifters	3rd	Opening Government	View Ballot	Yash VasdevⒸ , Vikrant Pandey , Yash Bishnoi
+Legally Brunette	3rd	Closing Opposition	View Ballot	Shuvam MitraⒸ , Kanan Raghuwanshi , Varsha Venkat , Snega UmapathiⓉ
+This is theoretically a team name	4th	Closing Government	View Ballot	Shuvam MitraⒸ , Kanan Raghuwanshi , Varsha Venkat , Snega UmapathiⓉ
+Would&#x27;ve Could&#x27;ve Should&#x27;ve Taken T	2nd	Opening Opposition	View Ballot	Shuvam MitraⒸ , Kanan Raghuwanshi , Varsha Venkat , Snega UmapathiⓉ
+Breaking TVs	1st	Opening Government	View Ballot	Shuvam MitraⒸ , Kanan Raghuwanshi , Varsha Venkat , Snega UmapathiⓉ
+Comrades11	1st	Closing Opposition	View Ballot	PrikshitⒸ , Acharaj Kaur Tuteja , Dhanashree Dalvi , Y Aditya BharathⓉ
+Distinct apples	2nd	Closing Government	View Ballot	PrikshitⒸ , Acharaj Kaur Tuteja , Dhanashree Dalvi , Y Aditya BharathⓉ
+Opinionaters	4th	Opening Opposition	View Ballot	PrikshitⒸ , Acharaj Kaur Tuteja , Dhanashree Dalvi , Y Aditya BharathⓉ
+The Big Suns.	3rd	Opening Government	View Ballot	PrikshitⒸ , Acharaj Kaur Tuteja , Dhanashree Dalvi , Y Aditya BharathⓉ
+Acharya went from runner to runners	2nd	Closing Opposition	View Ballot	Aditya SunkaraⒸ , Hadar Goldberg , KirtiⓉ
+weed brownie camel rides	4th	Closing Government	View Ballot	Aditya SunkaraⒸ , Hadar Goldberg , KirtiⓉ
+The suburban debaters	3rd	Opening Opposition	View Ballot	Aditya SunkaraⒸ , Hadar Goldberg , KirtiⓉ
+Mohmaya Chessboard by the ocean	1st	Opening Government	View Ballot	Aditya SunkaraⒸ , Hadar Goldberg , KirtiⓉ
+Allied biscuits	2nd	Closing Opposition	View Ballot	Shubhneet SoniⒸ , Eishan Deshwal , Shruti Deb
+Kalesh	1st	Closing Government	View Ballot	Shubhneet SoniⒸ , Eishan Deshwal , Shruti Deb
+Purple Butter	3rd	Opening Opposition	View Ballot	Shubhneet SoniⒸ , Eishan Deshwal , Shruti Deb
+Two People in Debsoc	4th	Opening Government	View Ballot	Shubhneet SoniⒸ , Eishan Deshwal , Shruti Deb
+BY2 Coffee	3rd	Closing Opposition	View Ballot	Vedika WaliaⒸ , Vidhan Vyas , Taniska SinghⓉ
+Discussin&#x27;, not dissin&#x27;/cussin&#x27;	2nd	Closing Government	View Ballot	Vedika WaliaⒸ , Vidhan Vyas , Taniska SinghⓉ
+Aryennh&#x27;s Indecision	1st	Opening Opposition	View Ballot	Vedika WaliaⒸ , Vidhan Vyas , Taniska SinghⓉ
+Moood	4th	Opening Government	View Ballot	Vedika WaliaⒸ , Vidhan Vyas , Taniska SinghⓉ
+Mercury	3rd	Closing Opposition	View Ballot	Parth ShahⒸ , Adrija Sinha Sarkar , Sushovit Nanda , Shubham RayⓉ
+Team Titans	4th	Closing Government	View Ballot	Parth ShahⒸ , Adrija Sinha Sarkar , Sushovit Nanda , Shubham RayⓉ
+sunshine radiators	1st	Opening Opposition	View Ballot	Parth ShahⒸ , Adrija Sinha Sarkar , Sushovit Nanda , Shubham RayⓉ
+Agree to Disagree!	2nd	Opening Government	View Ballot	Parth ShahⒸ , Adrija Sinha Sarkar , Sushovit Nanda , Shubham RayⓉ
+
+
+team	result	side	ballot	adjudicators
+gilmoregirls	4th	Closing Opposition	View Ballot	Sreenidhi KonnurⒸ , Dhanashree Dalvi , Mayukha Marla , KirtiⓉ
+The Pontificators	3rd	Closing Government	View Ballot	Sreenidhi KonnurⒸ , Dhanashree Dalvi , Mayukha Marla , KirtiⓉ
+Skyler White Yo	2nd	Opening Opposition	View Ballot	Sreenidhi KonnurⒸ , Dhanashree Dalvi , Mayukha Marla , KirtiⓉ
+The Shoplifters	1st	Opening Government	View Ballot	Sreenidhi KonnurⒸ , Dhanashree Dalvi , Mayukha Marla , KirtiⓉ
+Aye aye tee bee	3rd	Closing Opposition	View Ballot	Abhishek GoreⒸ , Maitreyi Arwari , Varsha Venkat , Y Aditya BharathⓉ
+bicker pickers	4th	Closing Government	View Ballot	Abhishek GoreⒸ , Maitreyi Arwari , Varsha Venkat , Y Aditya BharathⓉ
+Wenimetuindasummer	2nd	Opening Opposition	View Ballot	Abhishek GoreⒸ , Maitreyi Arwari , Varsha Venkat , Y Aditya BharathⓉ
+Legally Brunette	1st	Opening Government	View Ballot	Abhishek GoreⒸ , Maitreyi Arwari , Varsha Venkat , Y Aditya BharathⓉ
+Hum rebuttal de chuke sanam	4th	Closing Opposition	View Ballot	Himanshi WadhwaⒸ , Harsith , Nihaal Kuchangi , Divyansh NautiyalⓉ
+It’s giving liver failure	3rd	Closing Government	View Ballot	Himanshi WadhwaⒸ , Harsith , Nihaal Kuchangi , Divyansh NautiyalⓉ
+Agree to Disagree!	1st	Opening Opposition	View Ballot	Himanshi WadhwaⒸ , Harsith , Nihaal Kuchangi , Divyansh NautiyalⓉ
+Blue Lemonade	2nd	Opening Government	View Ballot	Himanshi WadhwaⒸ , Harsith , Nihaal Kuchangi , Divyansh NautiyalⓉ
+Allied biscuits	4th	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Hadar Goldberg , Khushi PatelⓉ
+Purple Butter	2nd	Closing Government	View Ballot	Rushdoon AhmedⒸ , Hadar Goldberg , Khushi PatelⓉ
+OB and Not To Be	3rd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Hadar Goldberg , Khushi PatelⓉ
+Everything Everywhere All At Once	1st	Opening Government	View Ballot	Rushdoon AhmedⒸ , Hadar Goldberg , Khushi PatelⓉ
+FQ	1st	Closing Opposition	View Ballot	Sushant ShekharⒸ , Acharaj Kaur Tuteja , Sana Soneja , Shruti DudhaneⓉ
+Peaky	4th	Closing Government	View Ballot	Sushant ShekharⒸ , Acharaj Kaur Tuteja , Sana Soneja , Shruti DudhaneⓉ
+Anything	3rd	Opening Opposition	View Ballot	Sushant ShekharⒸ , Acharaj Kaur Tuteja , Sana Soneja , Shruti DudhaneⓉ
+Moood	2nd	Opening Government	View Ballot	Sushant ShekharⒸ , Acharaj Kaur Tuteja , Sana Soneja , Shruti DudhaneⓉ
+Krishna.	4th	Closing Opposition	View Ballot	Samuel ThomasⒸ , Eishan Deshwal , Shristi Singh , Kunal BasumatariⓉ
+Arya and Kiran	1st	Closing Government	View Ballot	Samuel ThomasⒸ , Eishan Deshwal , Shristi Singh , Kunal BasumatariⓉ
+Team Athena2	3rd	Opening Opposition	View Ballot	Samuel ThomasⒸ , Eishan Deshwal , Shristi Singh , Kunal BasumatariⓉ
+PG&amp;MK	2nd	Opening Government	View Ballot	Samuel ThomasⒸ , Eishan Deshwal , Shristi Singh , Kunal BasumatariⓉ
+Team Red	4th	Closing Opposition	View Ballot	Arjun BharadwajⒸ , Kanan Raghuwanshi , Sneha Dash , Taniska SinghⓉ
+crisp failure	1st	Closing Government	View Ballot	Arjun BharadwajⒸ , Kanan Raghuwanshi , Sneha Dash , Taniska SinghⓉ
+This is theoretically a team name	3rd	Opening Opposition	View Ballot	Arjun BharadwajⒸ , Kanan Raghuwanshi , Sneha Dash , Taniska SinghⓉ
+Team Kant	2nd	Opening Government	View Ballot	Arjun BharadwajⒸ , Kanan Raghuwanshi , Sneha Dash , Taniska SinghⓉ
+Dholakpur	4th	Closing Opposition	View Ballot	Gowtham KrishnaⒸ , Aayana Rai Bhojani , Raghav DagarⓉ
+Acharya went from runner to runners	3rd	Closing Government	View Ballot	Gowtham KrishnaⒸ , Aayana Rai Bhojani , Raghav DagarⓉ
+Mohmaya Chessboard by the ocean	1st	Opening Opposition	View Ballot	Gowtham KrishnaⒸ , Aayana Rai Bhojani , Raghav DagarⓉ
+Kalesh	2nd	Opening Government	View Ballot	Gowtham KrishnaⒸ , Aayana Rai Bhojani , Raghav DagarⓉ
+Vada Pav Dosa	4th	Closing Opposition	View Ballot	Shubhneet SoniⒸ , Soham Chawda , Sushovit Nanda
+We Beg to Differ	3rd	Closing Government	View Ballot	Shubhneet SoniⒸ , Soham Chawda , Sushovit Nanda
+My brain is buffering	1st	Opening Opposition	View Ballot	Shubhneet SoniⒸ , Soham Chawda , Sushovit Nanda
+Team UFM	2nd	Opening Government	View Ballot	Shubhneet SoniⒸ , Soham Chawda , Sushovit Nanda
+Suck My Narrative	4th	Closing Opposition	View Ballot	Aditya PandeⒸ , Adrija Sinha Sarkar , Jahnavi Rishikesh , Siddharth KapoorⓉ
+Team Titans	1st	Closing Government	View Ballot	Aditya PandeⒸ , Adrija Sinha Sarkar , Jahnavi Rishikesh , Siddharth KapoorⓉ
+Cold Coffee	2nd	Opening Opposition	View Ballot	Aditya PandeⒸ , Adrija Sinha Sarkar , Jahnavi Rishikesh , Siddharth KapoorⓉ
+Cool	3rd	Opening Government	View Ballot	Aditya PandeⒸ , Adrija Sinha Sarkar , Jahnavi Rishikesh , Siddharth KapoorⓉ
+Discussin&#x27;, not dissin&#x27;/cussin&#x27;	3rd	Closing Opposition	View Ballot	Anushikha PokhriyalⒸ , Parth Shah , Yash Vasdev , Sarthak MehtaⓉ , Sharanya ShettyⓉ
+Jasushi	2nd	Closing Government	View Ballot	Anushikha PokhriyalⒸ , Parth Shah , Yash Vasdev , Sarthak MehtaⓉ , Sharanya ShettyⓉ
+sunshine radiators	4th	Opening Opposition	View Ballot	Anushikha PokhriyalⒸ , Parth Shah , Yash Vasdev , Sarthak MehtaⓉ , Sharanya ShettyⓉ
+Dumb and Dumber	1st	Opening Government	View Ballot	Anushikha PokhriyalⒸ , Parth Shah , Yash Vasdev , Sarthak MehtaⓉ , Sharanya ShettyⓉ
+The Big Suns.	4th	Closing Opposition	View Ballot	Mohanish TatiyaⒸ , Ashlesha h , Vidhan Vyas , Vidhi JainⓉ
+Team Athena	1st	Closing Government	View Ballot	Mohanish TatiyaⒸ , Ashlesha h , Vidhan Vyas , Vidhi JainⓉ
+Damn, Peggy	2nd	Opening Opposition	View Ballot	Mohanish TatiyaⒸ , Ashlesha h , Vidhan Vyas , Vidhi JainⓉ
+Listen Up!	3rd	Opening Government	View Ballot	Mohanish TatiyaⒸ , Ashlesha h , Vidhan Vyas , Vidhi JainⓉ
+Fuggit	3rd	Closing Opposition	View Ballot	Suhani DarukaⒸ , Mehek Mahajan , Yash Phadke , Deeksha RaoⓉ
+Smarticles	4th	Closing Government	View Ballot	Suhani DarukaⒸ , Mehek Mahajan , Yash Phadke , Deeksha RaoⓉ
+Take de bait - PES	2nd	Opening Opposition	View Ballot	Suhani DarukaⒸ , Mehek Mahajan , Yash Phadke , Deeksha RaoⓉ
+I&#x27;d rather lose you than the argume	1st	Opening Government	View Ballot	Suhani DarukaⒸ , Mehek Mahajan , Yash Phadke , Deeksha RaoⓉ
+weed brownie camel rides	1st	Closing Opposition	View Ballot	Antara RanjanⒸ , Parshva Shah , Kaushik MⓉ , Rohit RajⓉ
+Nothing, Nowhere, Never	4th	Closing Government	View Ballot	Antara RanjanⒸ , Parshva Shah , Kaushik MⓉ , Rohit RajⓉ
+Our Case is an Act of God	3rd	Opening Opposition	View Ballot	Antara RanjanⒸ , Parshva Shah , Kaushik MⓉ , Rohit RajⓉ
+Would&#x27;ve Could&#x27;ve Should&#x27;ve Taken T	2nd	Opening Government	View Ballot	Antara RanjanⒸ , Parshva Shah , Kaushik MⓉ , Rohit RajⓉ
+Bombay Vikings	3rd	Closing Opposition	View Ballot	Shivani VermaⒸ , Pranav Kagalkar , Khushi SharmaⓉ
+The suburban debaters	1st	Closing Government	View Ballot	Shivani VermaⒸ , Pranav Kagalkar , Khushi SharmaⓉ
+Breaking TVs	2nd	Opening Opposition	View Ballot	Shivani VermaⒸ , Pranav Kagalkar , Khushi SharmaⓉ
+Aryennh&#x27;s Indecision	4th	Opening Government	View Ballot	Shivani VermaⒸ , Pranav Kagalkar , Khushi SharmaⓉ
+Dialectical kids	4th	Closing Opposition	View Ballot	Chinmaya MohanⒸ , Prikshit , Subiksha VeluⓉ
+Two People in Debsoc	3rd	Closing Government	View Ballot	Chinmaya MohanⒸ , Prikshit , Subiksha VeluⓉ
+Wubbalubbadubdub	1st	Opening Opposition	View Ballot	Chinmaya MohanⒸ , Prikshit , Subiksha VeluⓉ
+Neurotic Milk In My Socks	2nd	Opening Government	View Ballot	Chinmaya MohanⒸ , Prikshit , Subiksha VeluⓉ
+Why did we miss break night?	2nd	Closing Opposition	View Ballot	Vedika WaliaⒸ , HOSAMATH SHARAN , RedactedⓉ , Akshada SinhaⓉ
+Sam, KK and 19 others	4th	Closing Government	View Ballot	Vedika WaliaⒸ , HOSAMATH SHARAN , RedactedⓉ , Akshada SinhaⓉ
+Take Us At Our Best Case	1st	Opening Opposition	View Ballot	Vedika WaliaⒸ , HOSAMATH SHARAN , RedactedⓉ , Akshada SinhaⓉ
+Pan Galactic Gargle Blasters	3rd	Opening Government	View Ballot	Vedika WaliaⒸ , HOSAMATH SHARAN , RedactedⓉ , Akshada SinhaⓉ
+Convince Us	4th	Closing Opposition	View Ballot	RedactedⒸ , Jenil Savaliya , Vikrant Pandey , Arjun NagⓉ
+Opinionaters	2nd	Closing Government	View Ballot	RedactedⒸ , Jenil Savaliya , Vikrant Pandey , Arjun NagⓉ
+Blooms	1st	Opening Opposition	View Ballot	RedactedⒸ , Jenil Savaliya , Vikrant Pandey , Arjun NagⓉ
+THE OPINIONATER	3rd	Opening Government	View Ballot	RedactedⒸ , Jenil Savaliya , Vikrant Pandey , Arjun NagⓉ
+BY2 Coffee	1st	Closing Opposition	View Ballot	Aditya SunkaraⒸ , Arnav Gupta , Meghna Ponda , Anushka ShreeⓉ
+Comrades11	2nd	Closing Government	View Ballot	Aditya SunkaraⒸ , Arnav Gupta , Meghna Ponda , Anushka ShreeⓉ
+Iron woman	4th	Opening Opposition	View Ballot	Aditya SunkaraⒸ , Arnav Gupta , Meghna Ponda , Anushka ShreeⓉ
+Sptm debaters	3rd	Opening Government	View Ballot	Aditya SunkaraⒸ , Arnav Gupta , Meghna Ponda , Anushka ShreeⓉ
+Distinct apples	2nd	Closing Opposition	View Ballot	Vidhee MoreⒸ , Anuj Pradhan , Yash Bishnoi , Snega UmapathiⓉ
+Mercury	4th	Closing Government	View Ballot	Vidhee MoreⒸ , Anuj Pradhan , Yash Bishnoi , Snega UmapathiⓉ
+Misfits	3rd	Opening Opposition	View Ballot	Vidhee MoreⒸ , Anuj Pradhan , Yash Bishnoi , Snega UmapathiⓉ
+Red pillers	1st	Opening Government	View Ballot	Vidhee MoreⒸ , Anuj Pradhan , Yash Bishnoi , Snega UmapathiⓉ
+2 States	4th	Closing Opposition	View Ballot	Rahul RⒸ , Shruti Deb , Eshika RoyⓉ , Shubham RayⓉ
+shreya and mean girls	3rd	Closing Government	View Ballot	Rahul RⒸ , Shruti Deb , Eshika RoyⓉ , Shubham RayⓉ
+bt in lgbt	2nd	Opening Opposition	View Ballot	Rahul RⒸ , Shruti Deb , Eshika RoyⓉ , Shubham RayⓉ
+Shravan is @ Peenya	1st	Opening Government	View Ballot	Rahul RⒸ , Shruti Deb , Eshika RoyⓉ , Shubham RayⓉ
+Bebatebots	2nd	Closing Opposition	View Ballot	Nirali MahajanⒸ , Amitava Dutta , Urja , Disha JainⓉ
+Bad Decisions At Midnight	4th	Closing Government	View Ballot	Nirali MahajanⒸ , Amitava Dutta , Urja , Disha JainⓉ
+cutting wada pav	1st	Opening Opposition	View Ballot	Nirali MahajanⒸ , Amitava Dutta , Urja , Disha JainⓉ
+Saudi oil tycoons	3rd	Opening Government	View Ballot	Nirali MahajanⒸ , Amitava Dutta , Urja , Disha JainⓉ
+
+
+team	result	side	adjudicators
+Take Us At Our Best Case	eliminated	Closing Opposition	RedactedⒸ , Chinmaya Mohan , Varsha Venkat
+bt in lgbt	advancing	Closing Government	RedactedⒸ , Chinmaya Mohan , Varsha Venkat
+Mohmaya Chessboard by the ocean	advancing	Opening Opposition	RedactedⒸ , Chinmaya Mohan , Varsha Venkat
+Breaking TVs	eliminated	Opening Government	RedactedⒸ , Chinmaya Mohan , Varsha Venkat
+Would&#x27;ve Could&#x27;ve Should&#x27;ve Taken T	eliminated	Closing Opposition	Aditya SunkaraⒸ , Maitreyi Arwari , Parshva Shah
+Shravan is @ Peenya	eliminated	Closing Government	Aditya SunkaraⒸ , Maitreyi Arwari , Parshva Shah
+Kalesh	advancing	Opening Opposition	Aditya SunkaraⒸ , Maitreyi Arwari , Parshva Shah
+Wubbalubbadubdub	advancing	Opening Government	Aditya SunkaraⒸ , Maitreyi Arwari , Parshva Shah
+Everything Everywhere All At Once	eliminated	Closing Opposition	Arjun BharadwajⒸ , Aditya Pande , Shubhneet Soni
+Dholakpur	eliminated	Closing Government	Arjun BharadwajⒸ , Aditya Pande , Shubhneet Soni
+weed brownie camel rides	advancing	Opening Opposition	Arjun BharadwajⒸ , Aditya Pande , Shubhneet Soni
+Dumb and Dumber	advancing	Opening Government	Arjun BharadwajⒸ , Aditya Pande , Shubhneet Soni
+Acharya went from runner to runners	advancing	Closing Opposition	Antara RanjanⒸ , Gowtham Krishna , Sushant Shekhar
+Why did we miss break night?	eliminated	Closing Government	Antara RanjanⒸ , Gowtham Krishna , Sushant Shekhar
+The suburban debaters	eliminated	Opening Opposition	Antara RanjanⒸ , Gowtham Krishna , Sushant Shekhar
+My brain is buffering	advancing	Opening Government	Antara RanjanⒸ , Gowtham Krishna , Sushant Shekhar
+
+
+team	result	side	adjudicators
+Team UFM	eliminated	Closing Opposition	Pranav KagalkarⒸ , Prikshit , Soham Chawda , Suhani Daruka , Vidhee More
+BY2 Coffee	eliminated	Closing Government	Pranav KagalkarⒸ , Prikshit , Soham Chawda , Suhani Daruka , Vidhee More
+FQ	advancing	Opening Opposition	Pranav KagalkarⒸ , Prikshit , Soham Chawda , Suhani Daruka , Vidhee More
+crisp failure	advancing	Opening Government	Pranav KagalkarⒸ , Prikshit , Soham Chawda , Suhani Daruka , Vidhee More
+Agree to Disagree!	eliminated	Closing Opposition	Rushdoon AhmedⒸ , Eishan Deshwal , Hadar Goldberg , Rahul R
+Legally Brunette	eliminated	Closing Government	Rushdoon AhmedⒸ , Eishan Deshwal , Hadar Goldberg , Rahul R
+Neurotic Milk In My Socks	advancing	Opening Opposition	Rushdoon AhmedⒸ , Eishan Deshwal , Hadar Goldberg , Rahul R
+Aryennh&#x27;s Indecision	advancing	Opening Government	Rushdoon AhmedⒸ , Eishan Deshwal , Hadar Goldberg , Rahul R
+
+
+team	result	side	adjudicators
+Kalesh	advancing	Closing Opposition	Anushikha PokhriyalⒸ , Aayana Rai Bhojani , Redacted , Harsith , Shuvam Mitra
+Dumb and Dumber	eliminated	Closing Government	Anushikha PokhriyalⒸ , Aayana Rai Bhojani , Redacted , Harsith , Shuvam Mitra
+weed brownie camel rides	advancing	Opening Opposition	Anushikha PokhriyalⒸ , Aayana Rai Bhojani , Redacted , Harsith , Shuvam Mitra
+Wubbalubbadubdub	eliminated	Opening Government	Anushikha PokhriyalⒸ , Aayana Rai Bhojani , Redacted , Harsith , Shuvam Mitra
+bt in lgbt	eliminated	Closing Opposition	Gowtham KrishnaⒸ , Antara Ranjan , Hadar Goldberg , Parth Shah , Rushdoon Ahmed
+Mohmaya Chessboard by the ocean	advancing	Closing Government	Gowtham KrishnaⒸ , Antara Ranjan , Hadar Goldberg , Parth Shah , Rushdoon Ahmed
+Acharya went from runner to runners	advancing	Opening Opposition	Gowtham KrishnaⒸ , Antara Ranjan , Hadar Goldberg , Parth Shah , Rushdoon Ahmed
+My brain is buffering	eliminated	Opening Government	Gowtham KrishnaⒸ , Antara Ranjan , Hadar Goldberg , Parth Shah , Rushdoon Ahmed
+
+
+team	result	side	adjudicators
+Aryennh&#x27;s Indecision	eliminated	Closing Opposition	Chinmaya MohanⒸ , Himanshi Wadhwa , Parshva Shah , Rahul R , Shubhneet Soni
+FQ	advancing	Closing Government	Chinmaya MohanⒸ , Himanshi Wadhwa , Parshva Shah , Rahul R , Shubhneet Soni
+crisp failure	eliminated	Opening Opposition	Chinmaya MohanⒸ , Himanshi Wadhwa , Parshva Shah , Rahul R , Shubhneet Soni
+Neurotic Milk In My Socks	eliminated	Opening Government	Chinmaya MohanⒸ , Himanshi Wadhwa , Parshva Shah , Rahul R , Shubhneet Soni
+
+
+team	result	side	adjudicators
+Mohmaya Chessboard by the ocean	eliminated	Closing Opposition	Shuvam MitraⒸ , Anushikha Pokhriyal , Chinmaya Mohan , Gowtham Krishna , Hadar Goldberg , Himanshi Wadhwa , Rushdoon Ahmed
+Kalesh	eliminated	Closing Government	Shuvam MitraⒸ , Anushikha Pokhriyal , Chinmaya Mohan , Gowtham Krishna , Hadar Goldberg , Himanshi Wadhwa , Rushdoon Ahmed
+weed brownie camel rides	eliminated	Opening Opposition	Shuvam MitraⒸ , Anushikha Pokhriyal , Chinmaya Mohan , Gowtham Krishna , Hadar Goldberg , Himanshi Wadhwa , Rushdoon Ahmed
+Acharya went from runner to runners	advancing	Opening Government	Shuvam MitraⒸ , Anushikha Pokhriyal , Chinmaya Mohan , Gowtham Krishna , Hadar Goldberg , Himanshi Wadhwa , Rushdoon Ahmed
+

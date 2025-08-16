@@ -1,0 +1,796 @@
+
+Rk	team	categories	R1	R2	R3	R4	Pts	Spk	1sts	2nds	DS
+1	u won&#x27;t believe who was in sunway f		1st	1st	2nd	1st	11	646	3	1	95
+2	Mitsubishi Electric		1st	1st	1st	2nd	11	637	3	1	90
+3	Kavindra&#x27;s Asses		1st	2nd	1st	1st	11	633	3	1	92
+4	ADMU One of us is fatherless, the other 		1st	1st	1st	3rd	10	638	3	0	98
+5	Legendary Pokemons		1st	1st	3rd	1st	10	638	3	0	90
+6	UMAC A in parallel universe		1st	3rd	1st	1st	10	635	3	0	88
+7	Pls come to Asia WGM !! (spoiler: w		1st	1st	2nd	2nd	10	623	2	2	88
+8	Why waste time say lot word when fe		2nd	1st	2nd	2nd	9	632	1	3	80
+9	Reiya still owes us a summersault		1st	3rd	2nd	1st	9	629	2	1	84
+10	waffles		1st	1st	3rd	2nd	9	627	2	1	84
+11	✨️🎀 cinnakuromi girlie pops 🎀✨️		4th	1st	1st	1st	9	626	3	0	78
+12	Modo Foko		1st	2nd	3rd	1st	9	626	2	1	84
+13	i think modo modo likes u		4th	1st	1st	1st	9	617	3	0	63
+14	stop debating in military		1st	2nd	2nd	3rd	8	640	1	2	94
+15	MODO, She Wrote		1st	2nd	1st	4th	8	631	2	1	98
+16	ASCIIT	Novice	1st	1st	4th	2nd	8	627	2	1	82
+17	team rocket		3rd	1st	1st	3rd	8	627	2	0	81
+18	a bengali and a chinese walk into a		2nd	2nd	1st	3rd	8	627	1	2	88
+19	If we take a 4th blame Joel		2nd	1st	3rd	2nd	8	627	1	2	73
+20	Cedric “ceddie” Von Whitebottoms II		2nd	1st	4th	1st	8	626	2	1	91
+21	Cannon fodder	Novice	1st	3rd	3rd	1st	8	624	2	0	78
+22	yin and yang		2nd	2nd	3rd	1st	8	623	1	2	78
+23	Astaghfirullah	Novice	1st	2nd	1st	4th	8	622	2	1	81
+24	KFDI go big or go home (we&#x27;re going home	Novice	3rd	1st	3rd	1st	8	619	2	0	66
+25	drifloon’s children	Novice	1st	3rd	2nd	2nd	8	619	1	2	76
+26	Benteny OOI where r u?	Novice	3rd	1st	2nd	2nd	8	617	1	2	66
+27	IBA-DU B		4th	1st	2nd	1st	8	608	2	1	64
+28	This is Criminal Law 100, or as I p		2nd	1st	2nd	4th	7	629	1	2	79
+29	We Forgot Our Team Name		2nd	2nd	4th	1st	7	624	1	2	72
+30	KL Modorail	Novice	2nd	2nd	2nd	3rd	7	623	0	3	77
+31	MUST B		2nd	1st	4th	2nd	7	621	1	2	79
+32	the team she told you not to worry	Novice	2nd	2nd	1st	4th	7	620	1	2	73
+33	Claire &amp; Alex		2nd	3rd	1st	3rd	7	620	1	1	73
+34	action parties supporters	Novice	4th	1st	3rd	1st	7	616	2	0	67
+35	unpaid interns		1st	4th	2nd	2nd	7	615	1	2	73
+36	Moziris	Novice	3rd	2nd	1st	3rd	7	615	1	1	71
+37	A MUST		3rd	1st	2nd	3rd	7	615	1	1	68
+38	konfrontasi 2.0	Novice	3rd	1st	4th	1st	7	612	2	0	67
+39	3 functioning ankles	Novice	2nd	3rd	2nd	2nd	7	612	0	3	65
+40	RGCC	Novice	1st	2nd	3rd	4th	6	623	1	1	84
+41	arent our lives a joke		2nd	3rd	4th	1st	6	622	1	1	66
+42	I got hawk I got tuah what you fein	Novice	1st	2nd	4th	3rd	6	616	1	1	72
+43	How are we in TDU	Novice	2nd	3rd	3rd	2nd	6	614	0	2	71
+44	GE-ELITE	Novice	4th	4th	1st	1st	6	613	2	0	58
+45	Boon Lay Drive	Novice	2nd	4th	2nd	2nd	6	612	0	3	68
+46	CDU LL	Novice	1st	4th	1st	4th	6	611	2	0	84
+47	Phil Myas		4th	3rd	1st	2nd	6	611	1	1	64
+48	NYP B	Novice	1st	4th	2nd	3rd	6	610	1	1	76
+49	Song Huizong	Novice	1st	3rd	3rd	3rd	6	609	1	0	81
+50	Medinance		3rd	3rd	2nd	2nd	6	606	0	2	56
+51	The Joshua&#x27;s		4th	2nd	2nd	2nd	6	605	0	3	61
+52	Bihari Boys	Novice	1st	4th	4th	1st	6	604	2	0	68
+53	NTU B	Novice	4th	2nd	1st	3rd	6	602	1	1	72
+54	Swing 1		2nd	3rd	1st	—	6	466	1	1	47
+55	debate is capital-intensive	Novice	2nd	2nd	4th	3rd	5	615	0	2	83
+56	MUN Sucks	Novice	3rd	1st	4th	3rd	5	611	1	0	80
+57	Lake Baikal	Novice	3rd	3rd	1st	4th	5	611	1	0	75
+58	STAR A	Novice	3rd	3rd	3rd	2nd	5	611	0	1	53
+59	RGRJ		2nd	4th	1st	4th	5	607	1	1	70
+60	Honk-Shu mi mi mi mi mi	Novice	4th	3rd	2nd	2nd	5	606	0	2	52
+61	Kiki and Hedy	Novice	2nd	4th	1st	4th	5	604	1	1	63
+62	IBA-DU C	Novice	4th	3rd	1st	3rd	5	603	1	0	59
+63	Yao Kun Fanclub	Novice	3rd	1st	3rd	4th	5	602	1	0	72
+64	GYMBROS	Novice	4th	1st	2nd	4th	5	599	1	1	68
+65	A Neurologist and a Phrenologist	Novice	2nd	4th	1st	4th	5	597	1	1	81
+66	double tRouble	Novice	4th	4th	2nd	1st	5	597	1	1	47
+67	Wonton masala	Novice	2nd	3rd	3rd	3rd	5	597	0	1	73
+68	Discourse Divas	Novice	4th	3rd	3rd	1st	5	595	1	0	56
+69	The One	Novice	2nd	4th	3rd	2nd	5	595	0	2	54
+70	virgin shao ji fan vs chad roasted		1st	4th	2nd	4th	5	588	1	1	75
+71	Ramadhan Debaters	Novice	3rd	3rd	1st	—	5	452	1	0	47
+72	Chicken Owner &amp; Chicken Eater	Novice	2nd	4th	2nd	4th	4	605	0	2	72
+73	Team CLOUT	Novice	3rd	2nd	3rd	4th	4	600	0	1	73
+74	ＢＢＬ　ｄｒｉｚｚｙ	Novice	4th	2nd	3rd	3rd	4	600	0	1	58
+75	Kodaira Citizens		3rd	3rd	4th	2nd	4	600	0	1	52
+76	chaatmasala and charsiu	Novice	3rd	4th	2nd	3rd	4	599	0	1	56
+77	Kinetic Energy	Novice	4th	3rd	2nd	3rd	4	596	0	1	57
+78	Overloaded with Sports	Novice	4th	2nd	4th	2nd	4	594	0	2	63
+79	what is weighing	Novice	4th	2nd	2nd	4th	4	593	0	2	62
+80	first time	Novice	3rd	4th	4th	1st	4	587	1	0	56
+81	Crippling Alcoholic + Workaholic	Novice	3rd	4th	3rd	2nd	4	584	0	1	62
+82	wasian nation		1st	3rd	4th	—	4	465	1	0	74
+83	Team Bufu		3rd	2nd	3rd	—	4	461	0	1	50
+84	IBA-DU A		3rd	2nd	3rd	—	4	460	0	1	52
+85	RGAL	Novice	2nd	3rd	4th	4th	3	604	0	1	70
+86	i love NUS		3rd	4th	3rd	3rd	3	604	0	0	59
+87	Make the Australia Great Again	Novice	3rd	2nd	4th	4th	3	599	0	1	69
+88	yayaaya		3rd	3rd	4th	3rd	3	594	0	0	59
+89	STAR B	Novice	4th	2nd	4th	3rd	3	587	0	1	59
+90		Novice	4th	4th	4th	1st	3	567	1	0	56
+91	BIS A	Novice	4th	4th	3rd	2nd	3	563	0	1	41
+92	Jew &amp; Loiner		4th	1st	4th	—	3	462	1	0	61
+93	Swing 2		—	—	1st	—	3	155	1	0	8
+94	NE	Novice	2nd	4th	4th	4th	2	594	0	1	65
+95	Braincell 🧠	Novice	3rd	4th	3rd	4th	2	594	0	0	70
+96	Spark	Novice	3rd	4th	3rd	4th	2	591	0	0	58
+97	slayin but slavin yet savin tho say	Novice	3rd	3rd	4th	4th	2	583	0	0	57
+98	E&amp;O	Novice	4th	2nd	—	—	2	294	0	1	28
+99	BIS C	Novice	4th	4th	4th	3rd	1	553	0	0	56
+100	BIS B	Novice	4th	4th	4th	4th	0	555	0	0	56
+101	CDU Nerf This!	Novice	4th	4th	—	—	0	296	0	0	36
+102	Swing 3		—	—	4th	—	0	147	0	0	14
+103=	Sigma Notation	Novice	—	—	—	—	—	—	0	0	0
+103=	RGBG	Novice	—	—	—	—	—	—	0	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	Total	Avg	Stdev
+1=	Cavan Tay Jin Han		Mitsubishi Electric	82	80	81	81	324	81.00	0.71
+1=	Shireen Ali		u won&#x27;t believe who was in sunway f	82	81	79	82	324	81.00	1.22
+3=	Lit Wen		u won&#x27;t believe who was in sunway f	81	81	79	81	322	80.50	0.87
+3=	Sunghyun Park		stop debating in military	81	81	81	79	322	80.50	0.87
+5	Anshuman Mishra		Legendary Pokemons	79	80	78	84	321	80.25	2.28
+6=	Kiki Liew		UMAC A in parallel universe	79	79	81	81	320	80.00	1.00
+6=	Riva Fong		ADMU One of us is fatherless, the other 	79	81	80	80	320	80.00	0.71
+8	Justin Tay		Kavindra&#x27;s Asses	79	78	81	81	319	79.75	1.30
+9=	Seungjae Han		stop debating in military	79	80	80	79	318	79.50	0.50
+9=	Zen Tiangco		ADMU One of us is fatherless, the other 	79	81	79	79	318	79.50	0.87
+11=	redacted		team rocket	76	79	82	80	317	79.25	2.17
+11=	Raghav Dagar		Legendary Pokemons	78	79	77	83	317	79.25	2.28
+11=	Ibrahim Muhammad Ejaz		Why waste time say lot word when fe	76	80	80	81	317	79.25	1.92
+14=	Joel Law		If we take a 4th blame Joel	79	78	79	80	316	79.00	0.71
+14=	Arif Mior		MODO, She Wrote	79	80	80	77	316	79.00	1.22
+16=	Ern See		This is Criminal Law 100, or as I p	78	81	79	77	315	78.75	1.48
+16=	Reiya		Reiya still owes us a summersault	80	77	79	79	315	78.75	1.09
+16=	Archie Wang		UMAC A in parallel universe	78	78	79	80	315	78.75	0.83
+16=	Vigneshwaran		MODO, She Wrote	79	79	79	78	315	78.75	0.43
+16=	Arthur Ng		waffles	78	79	77	81	315	78.75	1.48
+16=	Celina Deng	Novice	Why waste time say lot word when fe	77	79	80	79	315	78.75	1.09
+22=	Praveen	Novice	KL Modorail	78	80	78	78	314	78.50	0.87
+22=	Yeo Zixuan		Kavindra&#x27;s Asses	77	77	81	79	314	78.50	1.66
+22=	Mika Bosano		✨️🎀 cinnakuromi girlie pops 🎀✨️	75	79	79	81	314	78.50	2.18
+22=	Kavi		This is Criminal Law 100, or as I p	79	80	79	76	314	78.50	1.50
+22=	Kavindra Senaratna		Reiya still owes us a summersault	80	77	79	78	314	78.50	1.12
+22=	Charles Wong		arent our lives a joke	81	78	76	79	314	78.50	1.80
+22=	Dayna Tan	Novice	ASCIIT	79	80	76	79	314	78.50	1.50
+22=	Tanish		Modo Foko	79	78	78	79	314	78.50	0.50
+22=	Raymond Qiu		Claire &amp; Alex	79	77	79	79	314	78.50	0.87
+31=	Thiha Htet Aung	Novice	Cannon fodder	77	80	78	78	313	78.25	1.09
+31=	Rayner		Cedric “ceddie” Von Whitebottoms II	79	79	77	78	313	78.25	0.83
+31=	Andrea Chow		Cedric “ceddie” Von Whitebottoms II	78	79	77	79	313	78.25	0.83
+31=	Raphel Tan You Chen		Mitsubishi Electric	80	76	78	79	313	78.25	1.48
+31=	Yuzhen Cici Lou	Novice	RGCC	80	78	79	76	313	78.25	1.48
+31=	Jovan Ow Ray Keat	Novice	ASCIIT	80	80	76	77	313	78.25	1.79
+37=	kwong yi	Novice	KFDI go big or go home (we&#x27;re going home	75	79	80	78	312	78.00	1.87
+37=	Emir	Novice	Astaghfirullah	78	76	81	77	312	78.00	1.87
+37=	Theo Trajano		✨️🎀 cinnakuromi girlie pops 🎀✨️	75	78	79	80	312	78.00	1.87
+37=	Malcolm Cheah		yin and yang	75	79	78	80	312	78.00	1.87
+37=	Oliver Zhou		MUST B	77	78	78	79	312	78.00	0.71
+37=	Mahir Aziz		a bengali and a chinese walk into a	78	77	79	78	312	78.00	0.71
+37=	Amber Yeung		waffles	77	78	76	81	312	78.00	1.87
+37=	Akasyah		Modo Foko	78	77	78	79	312	78.00	0.71
+37=	Angga Djovanka		We Forgot Our Team Name	80	78	75	79	312	78.00	1.87
+37=	Wendy Lian		Pls come to Asia WGM !! (spoiler: w	77	78	78	79	312	78.00	0.71
+47=	Koh Ming En Donovan	Novice	Cannon fodder	77	79	78	77	311	77.75	0.83
+47=	Durghashini		yin and yang	76	78	78	79	311	77.75	1.09
+47=	Zhang Zhihe		If we take a 4th blame Joel	78	77	77	79	311	77.75	0.83
+47=	Francis Revilla		Pls come to Asia WGM !! (spoiler: w	78	78	77	78	311	77.75	0.43
+51=	Shaanaav Daniel	Novice	the team she told you not to worry	75	78	78	79	310	77.50	1.50
+51=	Hamzah Ahmed	Novice	the team she told you not to worry	74	78	79	79	310	77.50	2.06
+51=	Wern	Novice	Astaghfirullah	77	76	80	77	310	77.50	1.50
+51=	Farhan		team rocket	76	77	78	79	310	77.50	1.12
+51=	Christina Zhang	Novice	RGCC	79	78	77	76	310	77.50	1.12
+51=	Cadence Lim Tong Xuan	Novice	drifloon’s children	76	77	79	78	310	77.50	1.12
+57=	Jungmin Woo	Novice	Moziris	78	77	76	78	309	77.25	0.83
+57=	Christine Ong	Novice	KL Modorail	77	78	77	77	309	77.25	0.43
+57=	Afiq Zairul	Novice	Benteny OOI where r u?	75	76	80	78	309	77.25	1.92
+57=	eitan		i think modo modo likes u	76	76	78	79	309	77.25	1.30
+57=	Ethel Song		MUST B	77	77	77	78	309	77.25	0.43
+57=	Austin Tan	Novice	drifloon’s children	77	77	78	77	309	77.25	0.43
+63=	Jerome &quot;Euclid&quot; then	Novice	NYP B	75	77	79	77	308	77.00	1.41
+63=	Lee Wei	Novice	Benteny OOI where r u?	75	76	78	79	308	77.00	1.58
+63=	Ashley		unpaid interns	77	77	77	77	308	77.00	0.00
+63=	Lee Cho Ying		arent our lives a joke	79	76	76	77	308	77.00	1.22
+63=	Yuechen Ni	Novice	GE-ELITE	76	76	78	78	308	77.00	1.00
+63=	Li Han	Novice	debate is capital-intensive	77	77	77	77	308	77.00	0.00
+63=	Jayden	Novice	I got hawk I got tuah what you fein	77	77	78	76	308	77.00	0.71
+63=	Owen Chong	Novice	I got hawk I got tuah what you fein	77	78	77	76	308	77.00	0.71
+63=	Jordan Tan Zi Xian	Novice	action parties supporters	76	78	76	78	308	77.00	1.00
+63=	Tan Reina	Novice	action parties supporters	77	78	76	77	308	77.00	0.71
+73=	micah	Novice	KFDI go big or go home (we&#x27;re going home	75	78	77	77	307	76.75	1.09
+73=	Reina	Novice	How are we in TDU	77	77	76	77	307	76.75	0.43
+73=	Yun-An Huang	Novice	How are we in TDU	76	78	77	76	307	76.75	0.83
+73=	Yu Qing		unpaid interns	77	77	76	77	307	76.75	0.43
+73=	Janson Lim	Novice	debate is capital-intensive	77	77	76	77	307	76.75	0.43
+73=	Wong Wei Ning	Novice	3 functioning ankles	76	77	77	77	307	76.75	0.43
+73=	Caydence Chu Xuan En	Novice	Boon Lay Drive	78	77	76	76	307	76.75	0.83
+80=	Yeojun Park	Novice	Moziris	77	76	76	77	306	76.50	0.50
+80=	Athena Wu	Novice	Lake Baikal	77	76	77	76	306	76.50	0.50
+80=	Siri Wang		A MUST	74	78	78	76	306	76.50	1.66
+80=	Kelvin Cahya Yap	Novice	konfrontasi 2.0	74	79	76	77	306	76.50	1.80
+80=	Ong Chen Xi	Novice	konfrontasi 2.0	74	80	76	76	306	76.50	2.18
+80=	Zazuan Daud		RGRJ	74	78	79	75	306	76.50	2.06
+80=	Park Hangyeol	Novice	CDU LL	77	73	78	78	306	76.50	2.06
+80=	Ashley Wee		virgin shao ji fan vs chad roasted	79	75	77	75	306	76.50	1.66
+80=	Qalif	Novice	STAR A	76	77	77	76	306	76.50	0.50
+80=	Ryo Loh	Novice	MUN Sucks	77	78	76	75	306	76.50	1.12
+80=	Ivan Guan		Claire &amp; Alex	77	74	76	79	306	76.50	1.80
+80=	Oscar Lee		Phil Myas	77	76	76	77	306	76.50	0.50
+92=	Cynthia Yu	Novice	Lake Baikal	77	76	77	75	305	76.25	0.83
+92=	Jianhong Zeng	Novice	GE-ELITE	75	75	77	78	305	76.25	1.30
+92=	Leia Frances Marie Capanas	Novice	CDU LL	75	75	77	78	305	76.25	1.30
+92=	Farhat Fatiha Chowdhury		IBA-DU B	74	76	77	78	305	76.25	1.48
+92=	Mark Ethan Chow	Novice	3 functioning ankles	75	78	76	76	305	76.25	1.09
+92=	Pollux	Novice	Song Huizong	77	75	77	76	305	76.25	0.83
+92=	Haiman	Novice	STAR A	77	76	77	75	305	76.25	0.83
+92=	Jessica Chen	Novice	MUN Sucks	77	77	76	75	305	76.25	0.83
+92=	Le Nguyen Quang Vinh	Novice	Boon Lay Drive	78	76	75	76	305	76.25	1.09
+92=	Matias Li		Phil Myas	76	75	77	77	305	76.25	0.83
+102=	Gillean Woo	Novice	NTU B	74	75	78	77	304	76.00	1.58
+102=	Enigo	Novice	Song Huizong	76	74	78	76	304	76.00	1.41
+104=	Jonah Goh	Novice	Yao Kun Fanclub	74	76	77	76	303	75.75	1.09
+104=	Joshua Aurelius Waluyo		The Joshua&#x27;s	77	75	75	76	303	75.75	0.83
+104=	Shaashita		Medinance	78	75	73	77	303	75.75	1.92
+104=	Makaay	Novice	Medinance	77	74	74	78	303	75.75	1.79
+104=	Naomi Mataragnon	Novice	Honk-Shu mi mi mi mi mi	74	76	77	76	303	75.75	1.09
+104=	Jul Cim	Novice	Honk-Shu mi mi mi mi mi	74	76	76	77	303	75.75	1.09
+104=	Audric Kwan	Novice	Chicken Owner &amp; Chicken Eater	76	75	78	74	303	75.75	1.48
+104=	Yameen Rakib	Novice	IBA-DU B	73	76	76	78	303	75.75	1.79
+112=	Kiki CHEN	Novice	Kiki and Hedy	75	75	76	76	302	75.50	0.50
+112=	Hedy DENG	Novice	Kiki and Hedy	76	75	76	75	302	75.50	0.50
+112=	Yow Jun Yuan &quot;yjydarren&quot; Darren	Novice	NYP B	73	77	77	75	302	75.50	1.66
+112=	Hinano Haraguchi		Kodaira Citizens	76	78	72	76	302	75.50	2.18
+112=	Joshua Lim		The Joshua&#x27;s	76	74	75	77	302	75.50	1.12
+112=	Edward Tang		i love NUS	76	77	75	74	302	75.50	1.12
+112=	Vanessa Lim	Novice	i love NUS	77	76	75	74	302	75.50	1.12
+112=	Alex Xu	Novice	RGAL	76	77	75	74	302	75.50	1.12
+112=	Loka Qiu	Novice	RGAL	76	76	75	75	302	75.50	0.50
+112=	Syeda Tanzeeha Sajida	Novice	IBA-DU C	75	76	75	76	302	75.50	0.50
+112=	Danya Bueno	Novice	Team CLOUT	76	75	75	76	302	75.50	0.50
+112=	Khor Xin	Novice	Wonton masala	76	75	74	77	302	75.50	1.12
+112=	Jillian Aiko Sow Jie Ni	Novice	Chicken Owner &amp; Chicken Eater	76	75	78	73	302	75.50	1.80
+112=	Anagha Ray Choudhury	Novice	Bihari Boys	78	74	74	76	302	75.50	1.66
+112=	Harris Khan	Novice	Bihari Boys	79	73	74	76	302	75.50	2.29
+127=	Ruilin Xu	Novice	RGRJ	73	76	78	74	301	75.25	1.92
+127=	Raiyan Nur	Novice	IBA-DU C	75	77	74	75	301	75.25	1.09
+129=	Kyle Wu	Novice	Make the Australia Great Again	76	76	73	75	300	75.00	1.22
+129=	Emily Liu	Novice	Kinetic Energy	76	74	75	75	300	75.00	0.71
+129=	Kate	Novice	ＢＢＬ　ｄｒｉｚｚｙ	75	78	72	75	300	75.00	2.12
+129=	Bernard	Novice	ＢＢＬ　ｄｒｉｚｚｙ	75	76	73	76	300	75.00	1.22
+129=	Lara Elize R. Dorado	Novice	GYMBROS	75	75	75	75	300	75.00	0.00
+129=	Yashica Vijayakumar	Novice	chaatmasala and charsiu	75	75	76	74	300	75.00	0.71
+135=	Ryaan	Novice	double tRouble	74	74	75	76	299	74.75	0.83
+135=	Danielle Chua	Novice	Yao Kun Fanclub	72	76	76	75	299	74.75	1.64
+135=	Austin Xu	Novice	Make the Australia Great Again	76	77	72	74	299	74.75	1.92
+135=	Sebastian Magnago	Novice	A Neurologist and a Phrenologist	75	75	74	75	299	74.75	0.43
+135=	Kaileena Pagador	Novice	GYMBROS	73	76	75	75	299	74.75	1.09
+135=	Harry Tam	Novice	chaatmasala and charsiu	74	74	76	75	299	74.75	0.83
+141=	Nicole Sun	Novice	The One	73	75	74	76	298	74.50	1.12
+141=	Ruban	Novice	double tRouble	73	73	75	77	298	74.50	1.66
+141=	Nina Cai	Novice	NE	77	74	72	75	298	74.50	1.80
+141=	Soumyajit Saha	Novice	A Neurologist and a Phrenologist	75	75	74	74	298	74.50	0.50
+141=	Haruki Ikeda		Kodaira Citizens	75	76	71	76	298	74.50	2.06
+141=	So Hau Yin		yayaaya	77	70	76	75	298	74.50	2.69
+141=	Caleb Thien	Novice	NTU B	71	75	76	76	298	74.50	2.06
+141=	Alex Bascug	Novice	Team CLOUT	75	75	74	74	298	74.50	0.50
+141=	Rohan	Novice	Overloaded with Sports	70	78	75	75	298	74.50	2.87
+150=	Henri Jiashuo Liang	Novice	The One	73	75	74	75	297	74.25	0.83
+150=	Chiu Jia Yi	Novice	what is weighing	75	74	75	73	297	74.25	0.83
+150=	Vinci Ng	Novice	Braincell 🧠	76	76	73	72	297	74.25	1.79
+150=	Nichole Wang	Novice	Braincell 🧠	76	76	73	72	297	74.25	1.79
+154=	Emma Gong	Novice	NE	76	75	71	74	296	74.00	1.87
+154=	Cheung Wing Chi	Novice	Spark	75	75	72	74	296	74.00	1.22
+154=	Li Yin Tung		yayaaya	76	70	75	75	296	74.00	2.35
+154=	Kevin Zhao	Novice	Kinetic Energy	75	73	73	75	296	74.00	1.00
+154=	Abhijith	Novice	Discourse Divas	75	71	75	75	296	74.00	1.73
+154=	Shreya	Novice	Overloaded with Sports	70	77	74	75	296	74.00	2.55
+154=	Karyn Lee	Novice	what is weighing	75	75	74	72	296	74.00	1.22
+161=	Tao Amy	Novice	Spark	75	75	72	73	295	73.75	1.30
+161=	Aaron Roshan Talalla	Novice	Wonton masala	75	75	73	72	295	73.75	1.30
+161=	Ali	Novice	STAR B	73	75	75	72	295	73.75	1.30
+161=	TAOTAO LIAN	Novice	first time	75	75	69	76	295	73.75	2.77
+165=	Fiona Wong	Novice	slayin but slavin yet savin tho say	72	76	72	72	292	73.00	1.73
+165=	Egbert Jefferson	Novice	Crippling Alcoholic + Workaholic	74	69	74	75	292	73.00	2.35
+165=	Allyssa Bianca Lim	Novice	Crippling Alcoholic + Workaholic	75	69	75	73	292	73.00	2.45
+165=	Ammar Zeidan	Novice	STAR B	72	75	73	72	292	73.00	1.22
+165=	FANG ZHE JIN	Novice	first time	74	73	69	76	292	73.00	2.55
+170	Francess Yaw	Novice	slayin but slavin yet savin tho say	73	76	72	70	291	72.75	2.17
+171	Mathea	Novice		77	74	72	67	290	72.50	3.64
+172	Ann	Novice	BIS B	74	73	74	62	283	70.75	5.07
+173	ZI4N4 Z4MRI	Novice	BIS A	74	75	75	58	282	70.50	7.23
+174	Ayra	Novice	BIS A	74	73	74	60	281	70.25	5.93
+175	hannah	Novice	BIS C	73	73	75	59	280	70.00	6.40
+176	Nario	Novice		75	74	70	58	277	69.25	6.76
+177	Ahmed	Novice	BIS C	70	72	74	57	273	68.25	6.65
+178	Kai	Novice	BIS B	73	73	74	52	272	68.00	9.25
+179	David Zu		a bengali and a chinese walk into a	—	79	80	78	237	79.00	0.82
+180	Vincent Chau		A MUST	—	79	80	77	236	78.67	1.25
+181=	Shuairong Zhu		Jew &amp; Loiner	77	78	78	—	233	77.67	0.47
+181=	Hanto Intan		We Forgot Our Team Name	81	76	76	—	233	77.67	2.36
+181=	Aria Saines		wasian nation	79	77	77	—	233	77.67	0.94
+181=	Speaker 1		Swing 1	79	74	80	—	233	77.67	2.62
+181=	Speaker 2		Swing 1	78	74	81	—	233	77.67	2.87
+186=	Hayley Lim		Team Bufu	78	78	76	—	232	77.33	0.94
+186=	Lee Wei Le		virgin shao ji fan vs chad roasted	79	76	77	—	232	77.33	1.25
+186=	Fenya Lyn Walter		wasian nation	78	76	78	—	232	77.33	0.94
+189=	kenji		i think modo modo likes u	74	77	—	80	231	77.00	2.45
+189=	Jawaadul Islam		IBA-DU A	77	78	76	—	231	77.00	0.82
+191=	Xinyi Fang		Team Bufu	75	77	77	—	229	76.33	0.94
+191=	Basmah Zora		IBA-DU A	77	77	75	—	229	76.33	0.94
+191=	Wang Hanyu		Jew &amp; Loiner	76	77	76	—	229	76.33	0.47
+194	Irfan Zulkifli	Novice	Ramadhan Debaters	76	75	77	—	228	76.00	0.82
+195	Ishita	Novice	Discourse Divas	76	74	75	—	225	75.00	0.82
+196	Willie	Novice	Ramadhan Debaters	77	74	73	—	224	74.67	1.70
+197	Athalia Ysczabel F. Dy	Novice	CDU Nerf This!	77	72	—	—	149	74.50	2.50
+198	Olivia	Novice	E&amp;O	71	77	—	—	148	74.00	3.00
+199	Je Anne Ingrid D. Yang	Novice	CDU Nerf This!	76	71	—	—	147	73.50	2.50
+200	Eric	Novice	E&amp;O	69	77	—	—	146	73.00	4.00
+201	Speaker 4		Swing 2	—	—	78	—	78	78.00	0.00
+202	Speaker 3		Swing 2	—	—	77	—	77	77.00	0.00
+203	Speaker 6		Swing 3	—	—	74	—	74	74.00	0.00
+204	Speaker 5		Swing 3	—	—	73	—	73	73.00	0.00
+205=	Bella Lent	Novice	RGBG	—	—	—	—	—	—	—
+205=	Grace Mu	Novice	RGBG	—	—	—	—	—	—	—
+205=	Lisa	Novice	Sigma Notation	—	—	—	—	—	—	—
+205=	Yuki	Novice	Sigma Notation	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+Swing 1	2nd	Opening Opposition	View Ballot	Ritabrata MitraⒸ , Ahnaf Jahid
+MODO, She Wrote	1st	Opening Government	View Ballot	Ritabrata MitraⒸ , Ahnaf Jahid
+Moziris	3rd	Closing Government	View Ballot	Ritabrata MitraⒸ , Ahnaf Jahid
+Phil Myas	4th	Closing Opposition	View Ballot	Ritabrata MitraⒸ , Ahnaf Jahid
+Kavindra&#x27;s Asses	1st	Opening Government	View Ballot	Raymond KimuraⒸ , Denzel Mathe
+✨️🎀 cinnakuromi girlie pops 🎀✨️	4th	Opening Opposition	View Ballot	Raymond KimuraⒸ , Denzel Mathe
+team rocket	3rd	Closing Government	View Ballot	Raymond KimuraⒸ , Denzel Mathe
+debate is capital-intensive	2nd	Closing Opposition	View Ballot	Raymond KimuraⒸ , Denzel Mathe
+Make the Australia Great Again	3rd	Opening Government	View Ballot	Angellia GiovanniⒸ , Ahmar Biswas
+Discourse Divas	4th	Opening Opposition	View Ballot	Angellia GiovanniⒸ , Ahmar Biswas
+Pls come to Asia WGM !! (spoiler: w	1st	Closing Government	View Ballot	Angellia GiovanniⒸ , Ahmar Biswas
+How are we in TDU	2nd	Closing Opposition	View Ballot	Angellia GiovanniⒸ , Ahmar Biswas
+stop debating in military	1st	Opening Government	View Ballot	Himan NayakⒸ , Salic Saud
+Chicken Owner &amp; Chicken Eater	2nd	Opening Opposition	View Ballot	Himan NayakⒸ , Salic Saud
+konfrontasi 2.0	3rd	Closing Government	View Ballot	Himan NayakⒸ , Salic Saud
+Overloaded with Sports	4th	Closing Opposition	View Ballot	Himan NayakⒸ , Salic Saud
+arent our lives a joke	2nd	Opening Government	View Ballot	NarayanⒸ
+Mitsubishi Electric	1st	Opening Opposition	View Ballot	NarayanⒸ
+Kinetic Energy	4th	Closing Government	View Ballot	NarayanⒸ
+Braincell 🧠	3rd	Closing Opposition	View Ballot	NarayanⒸ
+the team she told you not to worry	2nd	Opening Government	View Ballot	Pranjal ChakrabortyⒸ , Willian Souza
+A MUST	3rd	Opening Opposition	View Ballot	Pranjal ChakrabortyⒸ , Willian Souza
+unpaid interns	1st	Closing Government	View Ballot	Pranjal ChakrabortyⒸ , Willian Souza
+BIS C	4th	Closing Opposition	View Ballot	Pranjal ChakrabortyⒸ , Willian Souza
+Legendary Pokemons	1st	Opening Government	View Ballot	Haikal DanielⒸ , Vikrant
+Lake Baikal	3rd	Opening Opposition	View Ballot	Haikal DanielⒸ , Vikrant
+a bengali and a chinese walk into a	2nd	Closing Government	View Ballot	Haikal DanielⒸ , Vikrant
+Jew &amp; Loiner	4th	Closing Opposition	View Ballot	Haikal DanielⒸ , Vikrant
+Bihari Boys	1st	Opening Government	View Ballot	Rubaiyat SamadⒸ , Alex Wong
+Team Bufu	3rd	Opening Opposition	View Ballot	Rubaiyat SamadⒸ , Alex Wong
+Claire &amp; Alex	2nd	Closing Government	View Ballot	Rubaiyat SamadⒸ , Alex Wong
+IBA-DU C	4th	Closing Opposition	View Ballot	Rubaiyat SamadⒸ , Alex Wong
+CDU Nerf This!	4th	Opening Government	View Ballot	Jawad AhmadⒸ , ying xin
+If we take a 4th blame Joel	2nd	Opening Opposition	View Ballot	Jawad AhmadⒸ , ying xin
+virgin shao ji fan vs chad roasted	1st	Closing Government	View Ballot	Jawad AhmadⒸ , ying xin
+Medinance	3rd	Closing Opposition	View Ballot	Jawad AhmadⒸ , ying xin
+Boon Lay Drive	2nd	Opening Government	View Ballot	Ayafa TonyeⒸ , Acosta, Mikhaela Risabelle B.
+ＢＢＬ　ｄｒｉｚｚｙ	4th	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Acosta, Mikhaela Risabelle B.
+STAR A	3rd	Closing Government	View Ballot	Ayafa TonyeⒸ , Acosta, Mikhaela Risabelle B.
+RGCC	1st	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Acosta, Mikhaela Risabelle B.
+The Joshua&#x27;s	4th	Opening Government	View Ballot	Tamim AhmedⒸ , Tan Wei Yang
+IBA-DU A	3rd	Opening Opposition	View Ballot	Tamim AhmedⒸ , Tan Wei Yang
+Modo Foko	1st	Closing Government	View Ballot	Tamim AhmedⒸ , Tan Wei Yang
+KL Modorail	2nd	Closing Opposition	View Ballot	Tamim AhmedⒸ , Tan Wei Yang
+slayin but slavin yet savin tho say	3rd	Opening Government	View Ballot	Imran IlmamⒸ , Najifa Nawar
+The One	2nd	Opening Opposition	View Ballot	Imran IlmamⒸ , Najifa Nawar
+E&amp;O	4th	Closing Government	View Ballot	Imran IlmamⒸ , Najifa Nawar
+I got hawk I got tuah what you fein	1st	Closing Opposition	View Ballot	Imran IlmamⒸ , Najifa Nawar
+We Forgot Our Team Name	2nd	Opening Government	View Ballot	Mishaal SaidⒸ , Maxeen Delos Reyes
+i love NUS	3rd	Opening Opposition	View Ballot	Mishaal SaidⒸ , Maxeen Delos Reyes
+u won&#x27;t believe who was in sunway f	1st	Closing Government	View Ballot	Mishaal SaidⒸ , Maxeen Delos Reyes
+what is weighing	4th	Closing Opposition	View Ballot	Mishaal SaidⒸ , Maxeen Delos Reyes
+CDU LL	1st	Opening Government	View Ballot	ThivagarⒸ , Maya Elamaran
+NTU B	4th	Opening Opposition	View Ballot	ThivagarⒸ , Maya Elamaran
+KFDI go big or go home (we&#x27;re going home	3rd	Closing Government	View Ballot	ThivagarⒸ , Maya Elamaran
+yin and yang	2nd	Closing Opposition	View Ballot	ThivagarⒸ , Maya Elamaran
+Kiki and Hedy	2nd	Opening Government	View Ballot	Wesley PuⒸ , Amber Ivory V. Gellez
+Spark	3rd	Opening Opposition	View Ballot	Wesley PuⒸ , Amber Ivory V. Gellez
+BIS A	4th	Closing Government	View Ballot	Wesley PuⒸ , Amber Ivory V. Gellez
+Astaghfirullah	1st	Closing Opposition	View Ballot	Wesley PuⒸ , Amber Ivory V. Gellez
+This is Criminal Law 100, or as I p	2nd	Opening Government	View Ballot	Kashfia Binte HassanⒸ , Arinjoy Barua
+yayaaya	3rd	Opening Opposition	View Ballot	Kashfia Binte HassanⒸ , Arinjoy Barua
+ASCIIT	1st	Closing Government	View Ballot	Kashfia Binte HassanⒸ , Arinjoy Barua
+	4th	Closing Opposition	View Ballot	Kashfia Binte HassanⒸ , Arinjoy Barua
+Ramadhan Debaters	3rd	Opening Opposition	View Ballot	PavanⒸ , Jasmine Andrea Caday
+GE-ELITE	4th	Closing Government	View Ballot	PavanⒸ , Jasmine Andrea Caday
+UMAC A in parallel universe	1st	Closing Opposition	View Ballot	PavanⒸ , Jasmine Andrea Caday
+MUST B	2nd	Opening Government	View Ballot	PavanⒸ , Jasmine Andrea Caday
+NYP B	1st	Opening Government	View Ballot	James CacholaⒸ , Nasheen
+RGRJ	2nd	Opening Opposition	View Ballot	James CacholaⒸ , Nasheen
+STAR B	4th	Closing Government	View Ballot	James CacholaⒸ , Nasheen
+Yao Kun Fanclub	3rd	Closing Opposition	View Ballot	James CacholaⒸ , Nasheen
+A Neurologist and a Phrenologist	2nd	Opening Government	View Ballot	Chloe FuⒸ , Edmund Wong
+Crippling Alcoholic + Workaholic	3rd	Opening Opposition	View Ballot	Chloe FuⒸ , Edmund Wong
+ADMU One of us is fatherless, the other 	1st	Closing Government	View Ballot	Chloe FuⒸ , Edmund Wong
+IBA-DU B	4th	Closing Opposition	View Ballot	Chloe FuⒸ , Edmund Wong
+wasian nation	1st	Opening Government	View Ballot	Josef SingsonⒸ , Russell Choy
+Why waste time say lot word when fe	2nd	Opening Opposition	View Ballot	Josef SingsonⒸ , Russell Choy
+Team CLOUT	3rd	Closing Government	View Ballot	Josef SingsonⒸ , Russell Choy
+i think modo modo likes u	4th	Closing Opposition	View Ballot	Josef SingsonⒸ , Russell Choy
+action parties supporters	4th	Opening Government	View Ballot	Shudipto AhmedⒸ
+Reiya still owes us a summersault	1st	Opening Opposition	View Ballot	Shudipto AhmedⒸ
+MUN Sucks	3rd	Closing Government	View Ballot	Shudipto AhmedⒸ
+Cedric “ceddie” Von Whitebottoms II	2nd	Closing Opposition	View Ballot	Shudipto AhmedⒸ
+NE	2nd	Opening Government	View Ballot	Ayodele SamuelⒸ , Zi Liu M. Li
+waffles	1st	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Zi Liu M. Li
+double tRouble	4th	Closing Government	View Ballot	Ayodele SamuelⒸ , Zi Liu M. Li
+chaatmasala and charsiu	3rd	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Zi Liu M. Li
+Kodaira Citizens	3rd	Opening Government	View Ballot	Alysha RendiⒸ , Jeremy Foo
+Song Huizong	1st	Opening Opposition	View Ballot	Alysha RendiⒸ , Jeremy Foo
+RGAL	2nd	Closing Government	View Ballot	Alysha RendiⒸ , Jeremy Foo
+Honk-Shu mi mi mi mi mi	4th	Closing Opposition	View Ballot	Alysha RendiⒸ , Jeremy Foo
+first time	3rd	Opening Government	View Ballot	Rashrvin PillayⒸ , Falisha Jabbar
+3 functioning ankles	2nd	Opening Opposition	View Ballot	Rashrvin PillayⒸ , Falisha Jabbar
+GYMBROS	4th	Closing Government	View Ballot	Rashrvin PillayⒸ , Falisha Jabbar
+drifloon’s children	1st	Closing Opposition	View Ballot	Rashrvin PillayⒸ , Falisha Jabbar
+Cannon fodder	1st	Opening Government	View Ballot	Umar FazlanⒸ
+Benteny OOI where r u?	3rd	Opening Opposition	View Ballot	Umar FazlanⒸ
+BIS B	4th	Closing Government	View Ballot	Umar FazlanⒸ
+Wonton masala	2nd	Closing Opposition	View Ballot	Umar FazlanⒸ
+
+
+team	result	side	ballot	adjudicators
+UMAC A in parallel universe	3rd	Opening Government	View Ballot	Jawad AhmadⒸ
+MODO, She Wrote	2nd	Opening Opposition	View Ballot	Jawad AhmadⒸ
+NYP B	4th	Closing Government	View Ballot	Jawad AhmadⒸ
+ADMU One of us is fatherless, the other 	1st	Closing Opposition	View Ballot	Jawad AhmadⒸ
+KL Modorail	2nd	Opening Government	View Ballot	Angellia GiovanniⒸ , Edmund Wong
+Braincell 🧠	4th	Opening Opposition	View Ballot	Angellia GiovanniⒸ , Edmund Wong
+3 functioning ankles	3rd	Closing Government	View Ballot	Angellia GiovanniⒸ , Edmund Wong
+This is Criminal Law 100, or as I p	1st	Closing Opposition	View Ballot	Angellia GiovanniⒸ , Edmund Wong
+debate is capital-intensive	2nd	Opening Government	View Ballot	Haikal DanielⒸ , Maya Elamaran
+slayin but slavin yet savin tho say	3rd	Opening Opposition	View Ballot	Haikal DanielⒸ , Maya Elamaran
+Kiki and Hedy	4th	Closing Government	View Ballot	Haikal DanielⒸ , Maya Elamaran
+MUST B	1st	Closing Opposition	View Ballot	Haikal DanielⒸ , Maya Elamaran
+RGRJ	4th	Opening Government	View Ballot	Kashfia Binte HassanⒸ , Ahmar Biswas
+How are we in TDU	3rd	Opening Opposition	View Ballot	Kashfia Binte HassanⒸ , Ahmar Biswas
+yin and yang	2nd	Closing Government	View Ballot	Kashfia Binte HassanⒸ , Ahmar Biswas
+Why waste time say lot word when fe	1st	Closing Opposition	View Ballot	Kashfia Binte HassanⒸ , Ahmar Biswas
+Lake Baikal	3rd	Opening Government	View Ballot	Imran IlmamⒸ , Acosta, Mikhaela Risabelle B.
+MUN Sucks	1st	Opening Opposition	View Ballot	Imran IlmamⒸ , Acosta, Mikhaela Risabelle B.
+chaatmasala and charsiu	4th	Closing Government	View Ballot	Imran IlmamⒸ , Acosta, Mikhaela Risabelle B.
+Moziris	2nd	Closing Opposition	View Ballot	Imran IlmamⒸ , Acosta, Mikhaela Risabelle B.
+Ramadhan Debaters	3rd	Opening Government	View Ballot	ThivagarⒸ
+team rocket	1st	Opening Opposition	View Ballot	ThivagarⒸ
+first time	4th	Closing Government	View Ballot	ThivagarⒸ
+Make the Australia Great Again	2nd	Closing Opposition	View Ballot	ThivagarⒸ
+Astaghfirullah	2nd	Opening Government	View Ballot	AhsanⒸ , Salic Saud
+Pls come to Asia WGM !! (spoiler: w	1st	Opening Opposition	View Ballot	AhsanⒸ , Salic Saud
+Song Huizong	3rd	Closing Government	View Ballot	AhsanⒸ , Salic Saud
+Bihari Boys	4th	Closing Opposition	View Ballot	AhsanⒸ , Salic Saud
+Benteny OOI where r u?	1st	Opening Government	View Ballot	Himan NayakⒸ , Jeremy Foo
+Team CLOUT	2nd	Opening Opposition	View Ballot	Himan NayakⒸ , Jeremy Foo
+Crippling Alcoholic + Workaholic	4th	Closing Government	View Ballot	Himan NayakⒸ , Jeremy Foo
+yayaaya	3rd	Closing Opposition	View Ballot	Himan NayakⒸ , Jeremy Foo
+Team Bufu	2nd	Opening Government	View Ballot	NarayanⒸ , Zi Liu M. Li
+konfrontasi 2.0	1st	Opening Opposition	View Ballot	NarayanⒸ , Zi Liu M. Li
+Spark	4th	Closing Government	View Ballot	NarayanⒸ , Zi Liu M. Li
+STAR A	3rd	Closing Opposition	View Ballot	NarayanⒸ , Zi Liu M. Li
+Mitsubishi Electric	1st	Opening Government	View Ballot	Alysha RendiⒸ , Najifa Nawar
+Kavindra&#x27;s Asses	2nd	Opening Opposition	View Ballot	Alysha RendiⒸ , Najifa Nawar
+wasian nation	3rd	Closing Government	View Ballot	Alysha RendiⒸ , Najifa Nawar
+A Neurologist and a Phrenologist	4th	Closing Opposition	View Ballot	Alysha RendiⒸ , Najifa Nawar
+GYMBROS	1st	Opening Government	View Ballot	Mishaal SaidⒸ , Vikrant
+BIS B	4th	Opening Opposition	View Ballot	Mishaal SaidⒸ , Vikrant
+The Joshua&#x27;s	2nd	Closing Government	View Ballot	Mishaal SaidⒸ , Vikrant
+Swing 1	3rd	Closing Opposition	View Ballot	Mishaal SaidⒸ , Vikrant
+Phil Myas	3rd	Opening Government	View Ballot	Becky AleckⒸ , Amber Ivory V. Gellez
+Overloaded with Sports	2nd	Opening Opposition	View Ballot	Becky AleckⒸ , Amber Ivory V. Gellez
+	4th	Closing Government	View Ballot	Becky AleckⒸ , Amber Ivory V. Gellez
+✨️🎀 cinnakuromi girlie pops 🎀✨️	1st	Closing Opposition	View Ballot	Becky AleckⒸ , Amber Ivory V. Gellez
+drifloon’s children	3rd	Opening Government	View Ballot	Ayodele SamuelⒸ , Shudipto Ahmed
+I got hawk I got tuah what you fein	2nd	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Shudipto Ahmed
+Chicken Owner &amp; Chicken Eater	4th	Closing Government	View Ballot	Ayodele SamuelⒸ , Shudipto Ahmed
+ASCIIT	1st	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Shudipto Ahmed
+Wonton masala	3rd	Opening Government	View Ballot	YaoksⒸ , Willian Souza , Falisha JabbarⓉ
+Modo Foko	2nd	Opening Opposition	View Ballot	YaoksⒸ , Willian Souza , Falisha JabbarⓉ
+CDU LL	4th	Closing Government	View Ballot	YaoksⒸ , Willian Souza , Falisha JabbarⓉ
+Legendary Pokemons	1st	Closing Opposition	View Ballot	YaoksⒸ , Willian Souza , Falisha JabbarⓉ
+STAR B	2nd	Opening Government	View Ballot	Rubaiyat SamadⒸ
+i think modo modo likes u	1st	Opening Opposition	View Ballot	Rubaiyat SamadⒸ
+CDU Nerf This!	4th	Closing Government	View Ballot	Rubaiyat SamadⒸ
+Discourse Divas	3rd	Closing Opposition	View Ballot	Rubaiyat SamadⒸ
+Medinance	3rd	Opening Government	View Ballot	Chloe FuⒸ
+Yao Kun Fanclub	1st	Opening Opposition	View Ballot	Chloe FuⒸ
+NTU B	2nd	Closing Government	View Ballot	Chloe FuⒸ
+double tRouble	4th	Closing Opposition	View Ballot	Chloe FuⒸ
+Jew &amp; Loiner	1st	Opening Government	View Ballot	Tamim AhmedⒸ
+Honk-Shu mi mi mi mi mi	3rd	Opening Opposition	View Ballot	Tamim AhmedⒸ
+ＢＢＬ　ｄｒｉｚｚｙ	2nd	Closing Government	View Ballot	Tamim AhmedⒸ
+GE-ELITE	4th	Closing Opposition	View Ballot	Tamim AhmedⒸ
+Claire &amp; Alex	3rd	Opening Government	View Ballot	Raymond KimuraⒸ , Tan Wei Yang
+We Forgot Our Team Name	2nd	Opening Opposition	View Ballot	Raymond KimuraⒸ , Tan Wei Yang
+If we take a 4th blame Joel	1st	Closing Government	View Ballot	Raymond KimuraⒸ , Tan Wei Yang
+The One	4th	Closing Opposition	View Ballot	Raymond KimuraⒸ , Tan Wei Yang
+unpaid interns	4th	Opening Government	View Ballot	Pranjal ChakrabortyⒸ , Arinjoy Barua
+stop debating in military	2nd	Opening Opposition	View Ballot	Pranjal ChakrabortyⒸ , Arinjoy Barua
+Cannon fodder	3rd	Closing Government	View Ballot	Pranjal ChakrabortyⒸ , Arinjoy Barua
+u won&#x27;t believe who was in sunway f	1st	Closing Opposition	View Ballot	Pranjal ChakrabortyⒸ , Arinjoy Barua
+RGAL	3rd	Opening Government	View Ballot	Wesley PuⒸ , Alex Wong
+the team she told you not to worry	2nd	Opening Opposition	View Ballot	Wesley PuⒸ , Alex Wong
+NE	4th	Closing Government	View Ballot	Wesley PuⒸ , Alex Wong
+A MUST	1st	Closing Opposition	View Ballot	Wesley PuⒸ , Alex Wong
+what is weighing	2nd	Opening Government	View Ballot	James CacholaⒸ
+IBA-DU B	1st	Opening Opposition	View Ballot	James CacholaⒸ
+BIS C	4th	Closing Government	View Ballot	James CacholaⒸ
+Kinetic Energy	3rd	Closing Opposition	View Ballot	James CacholaⒸ
+Cedric “ceddie” Von Whitebottoms II	1st	Opening Government	View Ballot	Josef SingsonⒸ , Maxeen Delos Reyes
+arent our lives a joke	3rd	Opening Opposition	View Ballot	Josef SingsonⒸ , Maxeen Delos Reyes
+Boon Lay Drive	4th	Closing Government	View Ballot	Josef SingsonⒸ , Maxeen Delos Reyes
+a bengali and a chinese walk into a	2nd	Closing Opposition	View Ballot	Josef SingsonⒸ , Maxeen Delos Reyes
+Reiya still owes us a summersault	3rd	Opening Government	View Ballot	Ayafa TonyeⒸ , Jasmine Andrea Caday
+virgin shao ji fan vs chad roasted	4th	Opening Opposition	View Ballot	Ayafa TonyeⒸ , Jasmine Andrea Caday
+RGCC	2nd	Closing Government	View Ballot	Ayafa TonyeⒸ , Jasmine Andrea Caday
+waffles	1st	Closing Opposition	View Ballot	Ayafa TonyeⒸ , Jasmine Andrea Caday
+E&amp;O	2nd	Opening Government	View Ballot	Ayushi NasaⒸ
+IBA-DU C	3rd	Opening Opposition	View Ballot	Ayushi NasaⒸ
+action parties supporters	1st	Closing Government	View Ballot	Ayushi NasaⒸ
+BIS A	4th	Closing Opposition	View Ballot	Ayushi NasaⒸ
+i love NUS	4th	Opening Government	View Ballot	PavanⒸ , ying xin
+KFDI go big or go home (we&#x27;re going home	1st	Opening Opposition	View Ballot	PavanⒸ , ying xin
+Kodaira Citizens	3rd	Closing Government	View Ballot	PavanⒸ , ying xin
+IBA-DU A	2nd	Closing Opposition	View Ballot	PavanⒸ , ying xin
+
+
+team	result	side	ballot	adjudicators
+ASCIIT	4th	Opening Government	View Ballot	Alysha RendiⒸ , Ahmar Biswas
+ADMU One of us is fatherless, the other 	1st	Opening Opposition	View Ballot	Alysha RendiⒸ , Ahmar Biswas
+waffles	3rd	Closing Government	View Ballot	Alysha RendiⒸ , Ahmar Biswas
+Pls come to Asia WGM !! (spoiler: w	2nd	Closing Opposition	View Ballot	Alysha RendiⒸ , Ahmar Biswas
+IBA-DU B	2nd	Opening Government	View Ballot	Rashrvin PillayⒸ , Maxeen Delos Reyes
+action parties supporters	3rd	Opening Opposition	View Ballot	Rashrvin PillayⒸ , Maxeen Delos Reyes
+i think modo modo likes u	1st	Closing Government	View Ballot	Rashrvin PillayⒸ , Maxeen Delos Reyes
+RGAL	4th	Closing Opposition	View Ballot	Rashrvin PillayⒸ , Maxeen Delos Reyes
+ＢＢＬ　ｄｒｉｚｚｙ	3rd	Opening Government	View Ballot	AhsanⒸ , Jeremy Foo
+Kiki and Hedy	1st	Opening Opposition	View Ballot	AhsanⒸ , Jeremy Foo
+slayin but slavin yet savin tho say	4th	Closing Government	View Ballot	AhsanⒸ , Jeremy Foo
+The Joshua&#x27;s	2nd	Closing Opposition	View Ballot	AhsanⒸ , Jeremy Foo
+✨️🎀 cinnakuromi girlie pops 🎀✨️	1st	Opening Government	View Ballot	PavanⒸ , Vikrant
+wasian nation	4th	Opening Opposition	View Ballot	PavanⒸ , Vikrant
+drifloon’s children	2nd	Closing Government	View Ballot	PavanⒸ , Vikrant
+Cannon fodder	3rd	Closing Opposition	View Ballot	PavanⒸ , Vikrant
+yayaaya	4th	Opening Government	View Ballot	Jawad AhmadⒸ , Falisha Jabbar
+STAR A	3rd	Opening Opposition	View Ballot	Jawad AhmadⒸ , Falisha Jabbar
+RGRJ	1st	Closing Government	View Ballot	Jawad AhmadⒸ , Falisha Jabbar
+Chicken Owner &amp; Chicken Eater	2nd	Closing Opposition	View Ballot	Jawad AhmadⒸ , Falisha Jabbar
+virgin shao ji fan vs chad roasted	2nd	Opening Government	View Ballot	James CacholaⒸ , Acosta, Mikhaela Risabelle B.
+Claire &amp; Alex	1st	Opening Opposition	View Ballot	James CacholaⒸ , Acosta, Mikhaela Risabelle B.
+arent our lives a joke	4th	Closing Government	View Ballot	James CacholaⒸ , Acosta, Mikhaela Risabelle B.
+Team Bufu	3rd	Closing Opposition	View Ballot	James CacholaⒸ , Acosta, Mikhaela Risabelle B.
+Why waste time say lot word when fe	2nd	Opening Government	View Ballot	Becky AleckⒸ
+RGCC	3rd	Opening Opposition	View Ballot	Becky AleckⒸ
+Astaghfirullah	1st	Closing Government	View Ballot	Becky AleckⒸ
+MUN Sucks	4th	Closing Opposition	View Ballot	Becky AleckⒸ
+u won&#x27;t believe who was in sunway f	2nd	Opening Government	View Ballot	Haikal DanielⒸ , Ayafa Tonye
+Legendary Pokemons	3rd	Opening Opposition	View Ballot	Haikal DanielⒸ , Ayafa Tonye
+Cedric “ceddie” Von Whitebottoms II	4th	Closing Government	View Ballot	Haikal DanielⒸ , Ayafa Tonye
+Mitsubishi Electric	1st	Closing Opposition	View Ballot	Haikal DanielⒸ , Ayafa Tonye
+I got hawk I got tuah what you fein	4th	Opening Government	View Ballot	Kashfia Binte HassanⒸ
+This is Criminal Law 100, or as I p	2nd	Opening Opposition	View Ballot	Kashfia Binte HassanⒸ
+MODO, She Wrote	1st	Closing Government	View Ballot	Kashfia Binte HassanⒸ
+If we take a 4th blame Joel	3rd	Closing Opposition	View Ballot	Kashfia Binte HassanⒸ
+Spark	3rd	Opening Government	View Ballot	Angellia GiovanniⒸ , Tan Wei Yang
+A Neurologist and a Phrenologist	1st	Opening Opposition	View Ballot	Angellia GiovanniⒸ , Tan Wei Yang
+Medinance	2nd	Closing Government	View Ballot	Angellia GiovanniⒸ , Tan Wei Yang
+Kodaira Citizens	4th	Closing Opposition	View Ballot	Angellia GiovanniⒸ , Tan Wei Yang
+Discourse Divas	3rd	Opening Government	View Ballot	Wayne OoiⒸ , Alex Wong
+Boon Lay Drive	2nd	Opening Opposition	View Ballot	Wayne OoiⒸ , Alex Wong
+Overloaded with Sports	4th	Closing Government	View Ballot	Wayne OoiⒸ , Alex Wong
+NTU B	1st	Closing Opposition	View Ballot	Wayne OoiⒸ , Alex Wong
+IBA-DU A	3rd	Opening Government	View Ballot	Himan NayakⒸ , Jasmine Andrea Caday
+unpaid interns	2nd	Opening Opposition	View Ballot	Himan NayakⒸ , Jasmine Andrea Caday
+Make the Australia Great Again	4th	Closing Government	View Ballot	Himan NayakⒸ , Jasmine Andrea Caday
+Lake Baikal	1st	Closing Opposition	View Ballot	Himan NayakⒸ , Jasmine Andrea Caday
+Modo Foko	3rd	Opening Government	View Ballot	Ritabrata MitraⒸ , Yaoks
+MUST B	4th	Opening Opposition	View Ballot	Ritabrata MitraⒸ , Yaoks
+stop debating in military	2nd	Closing Government	View Ballot	Ritabrata MitraⒸ , Yaoks
+Kavindra&#x27;s Asses	1st	Closing Opposition	View Ballot	Ritabrata MitraⒸ , Yaoks
+chaatmasala and charsiu	2nd	Opening Government	View Ballot	Chloe FuⒸ
+BIS C	4th	Opening Opposition	View Ballot	Chloe FuⒸ
+Phil Myas	1st	Closing Government	View Ballot	Chloe FuⒸ
+i love NUS	3rd	Closing Opposition	View Ballot	Chloe FuⒸ
+3 functioning ankles	2nd	Opening Government	View Ballot	Najifa NawarⒸ , Shudipto Ahmed
+CDU LL	1st	Opening Opposition	View Ballot	Najifa NawarⒸ , Shudipto Ahmed
+Wonton masala	3rd	Closing Government	View Ballot	Najifa NawarⒸ , Shudipto Ahmed
+NE	4th	Closing Opposition	View Ballot	Najifa NawarⒸ , Shudipto Ahmed
+Moziris	1st	Opening Government	View Ballot	Raymond KimuraⒸ , Arinjoy Barua
+GYMBROS	2nd	Opening Opposition	View Ballot	Raymond KimuraⒸ , Arinjoy Barua
+Bihari Boys	4th	Closing Government	View Ballot	Raymond KimuraⒸ , Arinjoy Barua
+Team CLOUT	3rd	Closing Opposition	View Ballot	Raymond KimuraⒸ , Arinjoy Barua
+Braincell 🧠	3rd	Opening Government	View Ballot	Pranjal ChakrabortyⒸ
+Kinetic Energy	2nd	Opening Opposition	View Ballot	Pranjal ChakrabortyⒸ
+IBA-DU C	1st	Closing Government	View Ballot	Pranjal ChakrabortyⒸ
+first time	4th	Closing Opposition	View Ballot	Pranjal ChakrabortyⒸ
+Song Huizong	3rd	Opening Government	View Ballot	Ayodele SamuelⒸ , Maya Elamaran
+UMAC A in parallel universe	1st	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Maya Elamaran
+Reiya still owes us a summersault	2nd	Closing Government	View Ballot	Ayodele SamuelⒸ , Maya Elamaran
+konfrontasi 2.0	4th	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Maya Elamaran
+yin and yang	3rd	Opening Government	View Ballot	Tamim AhmedⒸ , Willian Souza
+a bengali and a chinese walk into a	1st	Opening Opposition	View Ballot	Tamim AhmedⒸ , Willian Souza
+debate is capital-intensive	4th	Closing Government	View Ballot	Tamim AhmedⒸ , Willian Souza
+Benteny OOI where r u?	2nd	Closing Opposition	View Ballot	Tamim AhmedⒸ , Willian Souza
+KFDI go big or go home (we&#x27;re going home	3rd	Opening Government	View Ballot	Rubaiyat SamadⒸ , ying xin
+Jew &amp; Loiner	4th	Opening Opposition	View Ballot	Rubaiyat SamadⒸ , ying xin
+A MUST	2nd	Closing Government	View Ballot	Rubaiyat SamadⒸ , ying xin
+team rocket	1st	Closing Opposition	View Ballot	Rubaiyat SamadⒸ , ying xin
+BIS A	3rd	Opening Government	View Ballot	Edmund WongⒸ
+BIS B	4th	Closing Government	View Ballot	Edmund WongⒸ
+double tRouble	2nd	Opening Opposition	View Ballot	Edmund WongⒸ
+Swing 2	1st	Closing Opposition	View Ballot	Edmund WongⒸ
+Yao Kun Fanclub	3rd	Opening Government	View Ballot	Josef SingsonⒸ , Zi Liu M. Li
+KL Modorail	2nd	Opening Opposition	View Ballot	Josef SingsonⒸ , Zi Liu M. Li
+the team she told you not to worry	1st	Closing Government	View Ballot	Josef SingsonⒸ , Zi Liu M. Li
+We Forgot Our Team Name	4th	Closing Opposition	View Ballot	Josef SingsonⒸ , Zi Liu M. Li
+How are we in TDU	3rd	Opening Government	View Ballot	NarayanⒸ , Amber Ivory V. Gellez
+NYP B	2nd	Opening Opposition	View Ballot	NarayanⒸ , Amber Ivory V. Gellez
+Swing 1	1st	Closing Government	View Ballot	NarayanⒸ , Amber Ivory V. Gellez
+STAR B	4th	Closing Opposition	View Ballot	NarayanⒸ , Amber Ivory V. Gellez
+	4th	Opening Government	View Ballot	Salic SaudⒸ
+GE-ELITE	1st	Opening Opposition	View Ballot	Salic SaudⒸ
+Honk-Shu mi mi mi mi mi	2nd	Closing Government	View Ballot	Salic SaudⒸ
+Crippling Alcoholic + Workaholic	3rd	Closing Opposition	View Ballot	Salic SaudⒸ
+The One	3rd	Opening Government	View Ballot	Wesley PuⒸ , Ayushi Nasa
+what is weighing	2nd	Closing Government	View Ballot	Wesley PuⒸ , Ayushi Nasa
+Ramadhan Debaters	1st	Closing Opposition	View Ballot	Wesley PuⒸ , Ayushi Nasa
+Swing 3	4th	Opening Opposition	View Ballot	Wesley PuⒸ , Ayushi Nasa
+
+
+team	result	side	ballot	adjudicators
+konfrontasi 2.0	1st	Opening Government	View Ballot	Pranjal ChakrabortyⒸ , Maya Elamaran
+Wonton masala	3rd	Opening Opposition	View Ballot	Pranjal ChakrabortyⒸ , Maya Elamaran
+Chicken Owner &amp; Chicken Eater	4th	Closing Government	View Ballot	Pranjal ChakrabortyⒸ , Maya Elamaran
+Boon Lay Drive	2nd	Closing Opposition	View Ballot	Pranjal ChakrabortyⒸ , Maya Elamaran
+team rocket	3rd	Opening Government	View Ballot	PavanⒸ , Edmund Wong
+UMAC A in parallel universe	1st	Opening Opposition	View Ballot	PavanⒸ , Edmund Wong
+Why waste time say lot word when fe	2nd	Closing Government	View Ballot	PavanⒸ , Edmund Wong
+the team she told you not to worry	4th	Closing Opposition	View Ballot	PavanⒸ , Edmund Wong
+IBA-DU C	3rd	Opening Government	View Ballot	Shudipto AhmedⒸ , Kashfia Binte Hassan
+yin and yang	1st	Opening Opposition	View Ballot	Shudipto AhmedⒸ , Kashfia Binte Hassan
+MUST B	2nd	Closing Government	View Ballot	Shudipto AhmedⒸ , Kashfia Binte Hassan
+virgin shao ji fan vs chad roasted	4th	Closing Opposition	View Ballot	Shudipto AhmedⒸ , Kashfia Binte Hassan
+Team CLOUT	4th	Opening Government	View Ballot	Mishaal SaidⒸ , ying xin
+Medinance	2nd	Opening Opposition	View Ballot	Mishaal SaidⒸ , ying xin
+We Forgot Our Team Name	1st	Closing Government	View Ballot	Mishaal SaidⒸ , ying xin
+debate is capital-intensive	3rd	Closing Opposition	View Ballot	Mishaal SaidⒸ , ying xin
+double tRouble	1st	Opening Government	View Ballot	Ayushi NasaⒸ
+Kodaira Citizens	2nd	Opening Opposition	View Ballot	Ayushi NasaⒸ
+yayaaya	3rd	Closing Government	View Ballot	Ayushi NasaⒸ
+NE	4th	Closing Opposition	View Ballot	Ayushi NasaⒸ
+i think modo modo likes u	1st	Opening Government	View Ballot	Ayodele SamuelⒸ , Maxeen Delos Reyes
+Moziris	3rd	Opening Opposition	View Ballot	Ayodele SamuelⒸ , Maxeen Delos Reyes
+Benteny OOI where r u?	2nd	Closing Government	View Ballot	Ayodele SamuelⒸ , Maxeen Delos Reyes
+Kiki and Hedy	4th	Closing Opposition	View Ballot	Ayodele SamuelⒸ , Maxeen Delos Reyes
+MUN Sucks	3rd	Opening Government	View Ballot	Najifa NawarⒸ , Zi Liu M. Li
+what is weighing	4th	Opening Opposition	View Ballot	Najifa NawarⒸ , Zi Liu M. Li
+How are we in TDU	2nd	Closing Government	View Ballot	Najifa NawarⒸ , Zi Liu M. Li
+action parties supporters	1st	Closing Opposition	View Ballot	Najifa NawarⒸ , Zi Liu M. Li
+KFDI go big or go home (we&#x27;re going home	1st	Opening Government	View Ballot	Raymond KimuraⒸ , Jawad Ahmad
+The Joshua&#x27;s	2nd	Opening Opposition	View Ballot	Raymond KimuraⒸ , Jawad Ahmad
+Yao Kun Fanclub	4th	Closing Government	View Ballot	Raymond KimuraⒸ , Jawad Ahmad
+Song Huizong	3rd	Closing Opposition	View Ballot	Raymond KimuraⒸ , Jawad Ahmad
+STAR A	2nd	Opening Government	View Ballot	Rubaiyat SamadⒸ , Vikrant
+chaatmasala and charsiu	3rd	Opening Opposition	View Ballot	Rubaiyat SamadⒸ , Vikrant
+Braincell 🧠	4th	Closing Government	View Ballot	Rubaiyat SamadⒸ , Vikrant
+arent our lives a joke	1st	Closing Opposition	View Ballot	Rubaiyat SamadⒸ , Vikrant
+RGRJ	4th	Opening Government	View Ballot	NarayanⒸ , Ahmar Biswas
+Cedric “ceddie” Von Whitebottoms II	1st	Opening Opposition	View Ballot	NarayanⒸ , Ahmar Biswas
+I got hawk I got tuah what you fein	3rd	Closing Government	View Ballot	NarayanⒸ , Ahmar Biswas
+3 functioning ankles	2nd	Closing Opposition	View Ballot	NarayanⒸ , Ahmar Biswas
+ADMU One of us is fatherless, the other 	3rd	Opening Government	View Ballot	Himan NayakⒸ , James Cachola , Tamim Ahmed
+u won&#x27;t believe who was in sunway f	1st	Opening Opposition	View Ballot	Himan NayakⒸ , James Cachola , Tamim Ahmed
+Mitsubishi Electric	2nd	Closing Government	View Ballot	Himan NayakⒸ , James Cachola , Tamim Ahmed
+MODO, She Wrote	4th	Closing Opposition	View Ballot	Himan NayakⒸ , James Cachola , Tamim Ahmed
+NTU B	3rd	Opening Government	View Ballot	Alysha RendiⒸ , Jeremy Foo
+Phil Myas	2nd	Opening Opposition	View Ballot	Alysha RendiⒸ , Jeremy Foo
+IBA-DU B	1st	Closing Government	View Ballot	Alysha RendiⒸ , Jeremy Foo
+GYMBROS	4th	Closing Opposition	View Ballot	Alysha RendiⒸ , Jeremy Foo
+a bengali and a chinese walk into a	3rd	Opening Government	View Ballot	YaoksⒸ , Chloe Fu
+Astaghfirullah	4th	Opening Opposition	View Ballot	YaoksⒸ , Chloe Fu
+Kavindra&#x27;s Asses	1st	Closing Government	View Ballot	YaoksⒸ , Chloe Fu
+Pls come to Asia WGM !! (spoiler: w	2nd	Closing Opposition	View Ballot	YaoksⒸ , Chloe Fu
+BIS C	3rd	Opening Government	View Ballot	Jasmine Andrea CadayⒸ
+	1st	Opening Opposition	View Ballot	Jasmine Andrea CadayⒸ
+BIS A	2nd	Closing Government	View Ballot	Jasmine Andrea CadayⒸ
+BIS B	4th	Closing Opposition	View Ballot	Jasmine Andrea CadayⒸ
+Crippling Alcoholic + Workaholic	2nd	Opening Government	View Ballot	Willian SouzaⒸ , Acosta, Mikhaela Risabelle B.
+STAR B	3rd	Opening Opposition	View Ballot	Willian SouzaⒸ , Acosta, Mikhaela Risabelle B.
+Discourse Divas	1st	Closing Government	View Ballot	Willian SouzaⒸ , Acosta, Mikhaela Risabelle B.
+slayin but slavin yet savin tho say	4th	Closing Opposition	View Ballot	Willian SouzaⒸ , Acosta, Mikhaela Risabelle B.
+RGCC	4th	Opening Government	View Ballot	Alex WongⒸ
+ASCIIT	2nd	Opening Opposition	View Ballot	Alex WongⒸ
+KL Modorail	3rd	Closing Government	View Ballot	Alex WongⒸ
+Reiya still owes us a summersault	1st	Closing Opposition	View Ballot	Alex WongⒸ
+Overloaded with Sports	2nd	Opening Government	View Ballot	Ayafa TonyeⒸ
+first time	1st	Opening Opposition	View Ballot	Ayafa TonyeⒸ
+i love NUS	3rd	Closing Government	View Ballot	Ayafa TonyeⒸ
+Spark	4th	Closing Opposition	View Ballot	Ayafa TonyeⒸ
+NYP B	3rd	Opening Government	View Ballot	Rashrvin PillayⒸ , Amber Ivory V. Gellez
+Cannon fodder	1st	Opening Opposition	View Ballot	Rashrvin PillayⒸ , Amber Ivory V. Gellez
+A Neurologist and a Phrenologist	4th	Closing Government	View Ballot	Rashrvin PillayⒸ , Amber Ivory V. Gellez
+unpaid interns	2nd	Closing Opposition	View Ballot	Rashrvin PillayⒸ , Amber Ivory V. Gellez
+If we take a 4th blame Joel	2nd	Opening Government	View Ballot	Wesley PuⒸ , Salic Saud
+CDU LL	4th	Opening Opposition	View Ballot	Wesley PuⒸ , Salic Saud
+✨️🎀 cinnakuromi girlie pops 🎀✨️	1st	Closing Government	View Ballot	Wesley PuⒸ , Salic Saud
+Claire &amp; Alex	3rd	Closing Opposition	View Ballot	Wesley PuⒸ , Salic Saud
+GE-ELITE	1st	Opening Government	View Ballot	Ritabrata MitraⒸ , Falisha Jabbar
+Make the Australia Great Again	4th	Opening Opposition	View Ballot	Ritabrata MitraⒸ , Falisha Jabbar
+Honk-Shu mi mi mi mi mi	2nd	Closing Government	View Ballot	Ritabrata MitraⒸ , Falisha Jabbar
+ＢＢＬ　ｄｒｉｚｚｙ	3rd	Closing Opposition	View Ballot	Ritabrata MitraⒸ , Falisha Jabbar
+Kinetic Energy	3rd	Opening Government	View Ballot	Josef SingsonⒸ , Nasheen
+Bihari Boys	1st	Opening Opposition	View Ballot	Josef SingsonⒸ , Nasheen
+The One	2nd	Closing Government	View Ballot	Josef SingsonⒸ , Nasheen
+RGAL	4th	Closing Opposition	View Ballot	Josef SingsonⒸ , Nasheen
+waffles	2nd	Opening Government	View Ballot	Angellia GiovanniⒸ , Arinjoy Barua
+Legendary Pokemons	1st	Opening Opposition	View Ballot	Angellia GiovanniⒸ , Arinjoy Barua
+This is Criminal Law 100, or as I p	4th	Closing Government	View Ballot	Angellia GiovanniⒸ , Arinjoy Barua
+stop debating in military	3rd	Closing Opposition	View Ballot	Angellia GiovanniⒸ , Arinjoy Barua
+A MUST	3rd	Opening Government	View Ballot	Becky AleckⒸ , Tan Wei Yang
+drifloon’s children	2nd	Opening Opposition	View Ballot	Becky AleckⒸ , Tan Wei Yang
+Lake Baikal	4th	Closing Government	View Ballot	Becky AleckⒸ , Tan Wei Yang
+Modo Foko	1st	Closing Opposition	View Ballot	Becky AleckⒸ , Tan Wei Yang
+
+
+team	result	side	adjudicators
+team rocket	advancing	Opening Government	Raymond KimuraⒸ , Becky Aleck , Kashfia Binte Hassan
+Reiya still owes us a summersault	advancing	Opening Opposition	Raymond KimuraⒸ , Becky Aleck , Kashfia Binte Hassan
+ASCIIT	eliminated	Closing Government	Raymond KimuraⒸ , Becky Aleck , Kashfia Binte Hassan
+Benteny OOI where r u?	eliminated	Closing Opposition	Raymond KimuraⒸ , Becky Aleck , Kashfia Binte Hassan
+drifloon’s children	eliminated	Opening Opposition	Mishaal SaidⒸ , Angellia Giovanni , Rubaiyat Samad
+If we take a 4th blame Joel	eliminated	Closing Opposition	Mishaal SaidⒸ , Angellia Giovanni , Rubaiyat Samad
+waffles	advancing	Opening Government	Mishaal SaidⒸ , Angellia Giovanni , Rubaiyat Samad
+MODO, She Wrote	advancing	Closing Government	Mishaal SaidⒸ , Angellia Giovanni , Rubaiyat Samad
+Cannon fodder	eliminated	Opening Government	James CacholaⒸ , Ayafa Tonye , Narayan
+Modo Foko	advancing	Opening Opposition	James CacholaⒸ , Ayafa Tonye , Narayan
+i think modo modo likes u	eliminated	Closing Government	James CacholaⒸ , Ayafa Tonye , Narayan
+yin and yang	advancing	Closing Opposition	James CacholaⒸ , Ayafa Tonye , Narayan
+stop debating in military	advancing	Closing Government	Josef SingsonⒸ , Alysha Rendi , Pavan
+Astaghfirullah	eliminated	Opening Government	Josef SingsonⒸ , Alysha Rendi , Pavan
+✨️🎀 cinnakuromi girlie pops 🎀✨️	eliminated	Opening Opposition	Josef SingsonⒸ , Alysha Rendi , Pavan
+Cedric “ceddie” Von Whitebottoms II	advancing	Closing Opposition	Josef SingsonⒸ , Alysha Rendi , Pavan
+
+
+team	result	side	adjudicators
+Mitsubishi Electric	advancing	Opening Government	Becky AleckⒸ , Ritabrata Mitra , Salic Saud
+MODO, She Wrote	advancing	Opening Opposition	Becky AleckⒸ , Ritabrata Mitra , Salic Saud
+Pls come to Asia WGM !! (spoiler: w	eliminated	Closing Government	Becky AleckⒸ , Ritabrata Mitra , Salic Saud
+waffles	eliminated	Closing Opposition	Becky AleckⒸ , Ritabrata Mitra , Salic Saud
+Modo Foko	eliminated	Opening Government	Alysha RendiⒸ , Himan Nayak , Yaoks
+Legendary Pokemons	advancing	Opening Opposition	Alysha RendiⒸ , Himan Nayak , Yaoks
+yin and yang	eliminated	Closing Government	Alysha RendiⒸ , Himan Nayak , Yaoks
+ADMU One of us is fatherless, the other 	advancing	Closing Opposition	Alysha RendiⒸ , Himan Nayak , Yaoks
+Reiya still owes us a summersault	eliminated	Opening Government	PavanⒸ , Mishaal Said , Tamim Ahmed
+Why waste time say lot word when fe	eliminated	Opening Opposition	PavanⒸ , Mishaal Said , Tamim Ahmed
+u won&#x27;t believe who was in sunway f	advancing	Closing Government	PavanⒸ , Mishaal Said , Tamim Ahmed
+team rocket	advancing	Closing Opposition	PavanⒸ , Mishaal Said , Tamim Ahmed
+Kavindra&#x27;s Asses	eliminated	Opening Government	Angellia GiovanniⒸ , Ayodele Samuel , Josef Singson
+stop debating in military	advancing	Opening Opposition	Angellia GiovanniⒸ , Ayodele Samuel , Josef Singson
+Cedric “ceddie” Von Whitebottoms II	advancing	Closing Government	Angellia GiovanniⒸ , Ayodele Samuel , Josef Singson
+UMAC A in parallel universe	eliminated	Closing Opposition	Angellia GiovanniⒸ , Ayodele Samuel , Josef Singson
+
+
+team	result	side	adjudicators
+MODO, She Wrote	eliminated	Closing Government	Alysha RendiⒸ , Himan Nayak , Mishaal Said , Najifa Nawar , Salic Saud
+Cedric “ceddie” Von Whitebottoms II	eliminated	Closing Opposition	Alysha RendiⒸ , Himan Nayak , Mishaal Said , Najifa Nawar , Salic Saud
+stop debating in military	advancing	Opening Government	Alysha RendiⒸ , Himan Nayak , Mishaal Said , Najifa Nawar , Salic Saud
+Mitsubishi Electric	advancing	Opening Opposition	Alysha RendiⒸ , Himan Nayak , Mishaal Said , Najifa Nawar , Salic Saud
+Legendary Pokemons	advancing	Opening Government	Haikal DanielⒸ , Angellia Giovanni , Ayodele Samuel , Becky Aleck , Pavan
+u won&#x27;t believe who was in sunway f	eliminated	Opening Opposition	Haikal DanielⒸ , Angellia Giovanni , Ayodele Samuel , Becky Aleck , Pavan
+ADMU One of us is fatherless, the other 	advancing	Closing Government	Haikal DanielⒸ , Angellia Giovanni , Ayodele Samuel , Becky Aleck , Pavan
+team rocket	eliminated	Closing Opposition	Haikal DanielⒸ , Angellia Giovanni , Ayodele Samuel , Becky Aleck , Pavan
+
+
+team	result	side	adjudicators
+Legendary Pokemons	eliminated	Opening Government	Ayodele SamuelⒸ , Alysha Rendi , Angellia Giovanni , Mishaal Said , Najifa Nawar , Raymond Kimura , Salic Saud
+ADMU One of us is fatherless, the other 	advancing	Opening Opposition	Ayodele SamuelⒸ , Alysha Rendi , Angellia Giovanni , Mishaal Said , Najifa Nawar , Raymond Kimura , Salic Saud
+stop debating in military	eliminated	Closing Government	Ayodele SamuelⒸ , Alysha Rendi , Angellia Giovanni , Mishaal Said , Najifa Nawar , Raymond Kimura , Salic Saud
+Mitsubishi Electric	eliminated	Closing Opposition	Ayodele SamuelⒸ , Alysha Rendi , Angellia Giovanni , Mishaal Said , Najifa Nawar , Raymond Kimura , Salic Saud
+
+
+team	result	side	adjudicators
+3 functioning ankles	advancing	Opening Government	Najifa NawarⒸ , Rashrvin Pillay , Raymond Kimura
+action parties supporters	eliminated	Opening Opposition	Najifa NawarⒸ , Rashrvin Pillay , Raymond Kimura
+RGCC	advancing	Closing Government	Najifa NawarⒸ , Rashrvin Pillay , Raymond Kimura
+the team she told you not to worry	eliminated	Closing Opposition	Najifa NawarⒸ , Rashrvin Pillay , Raymond Kimura
+I got hawk I got tuah what you fein	eliminated	Opening Government	Haikal DanielⒸ , James Cachola , Jawad Ahmad
+Moziris	eliminated	Opening Opposition	Haikal DanielⒸ , James Cachola , Jawad Ahmad
+konfrontasi 2.0	advancing	Closing Government	Haikal DanielⒸ , James Cachola , Jawad Ahmad
+KL Modorail	advancing	Closing Opposition	Haikal DanielⒸ , James Cachola , Jawad Ahmad
+
+
+team	result	side	adjudicators
+KL Modorail	eliminated	Opening Government	Tamim AhmedⒸ , Ahmar Biswas , Jawad Ahmad , Kashfia Binte Hassan , Narayan
+RGCC	advancing	Opening Opposition	Tamim AhmedⒸ , Ahmar Biswas , Jawad Ahmad , Kashfia Binte Hassan , Narayan
+3 functioning ankles	eliminated	Closing Government	Tamim AhmedⒸ , Ahmar Biswas , Jawad Ahmad , Kashfia Binte Hassan , Narayan
+konfrontasi 2.0	eliminated	Closing Opposition	Tamim AhmedⒸ , Ahmar Biswas , Jawad Ahmad , Kashfia Binte Hassan , Narayan
+

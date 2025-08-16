@@ -1,0 +1,1036 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds	Irons
+1	LSE A		1st	1st	1st	1st	1st	15	820	5	0	0
+2	TCD Phil A		1st	1st	3rd	1st	1st	13	812	4	0	0
+3	Ateneo 1		1st	2nd	1st	1st	3rd	12	831	3	1	0
+4	Started from mail-order brides now		1st	3rd	1st	2nd	1st	12	817	3	1	0
+5	Sydney B		1st	4th	1st	1st	1st	12	809	4	0	0
+6	Sofia A	ESL	1st	3rd	1st	1st	2nd	12	808	3	1	0
+7	UNWE A(ustria let us in Schengen pls)	ESL	2nd	1st	2nd	2nd	2nd	11	817	1	4	0
+8	Dartmouth am i visible		2nd	1st	1st	3rd	2nd	11	816	2	2	0
+9	Mice In Our Walls		1st	1st	2nd	2nd	3rd	11	810	2	2	0
+10	Zagreb A	ESL	1st	1st	1st	4th	2nd	11	807	3	1	0
+11	St Andrews jasmine analysis: fragrant with a		2nd	2nd	3rd	1st	1st	11	807	2	2	0
+12	Sydney Druce &amp; Kuo		2nd	2nd	1st	3rd	1st	11	806	2	2	0
+13	Melbourne B		1st	3rd	2nd	2nd	1st	11	779	2	2	0
+14	Sofia B(	ESL	2nd	1st	3rd	3rd	1st	10	812	2	1	0
+15	UPD Garcia &amp; Legaspi		1st	2nd	2nd	1st	4th	10	800	2	2	0
+16	NUS LL		2nd	2nd	1st	3rd	2nd	10	796	1	3	0
+17	IUB Birdie Association	ESL	1st	3rd	4th	1st	1st	10	793	3	0	1
+18	Sydney Freeland and Bakker		3rd	2nd	1st	1st	3rd	10	782	2	1	0
+19	Imperial A		1st	2nd	3rd	3rd	1st	10	777	2	1	0
+20	Yale-NUS We&#x27;re Both Asian We Swear		3rd	3rd	2nd	1st	1st	10	768	2	1	0
+21	TAU Swing A	ESL	2nd	1st	1st	2nd	—	10	641	2	2	0
+22	Harvard CH		—	1st	2nd	1st	2nd	10	624	2	2	0
+23	Harvard LT		1st	2nd	1st	3rd	4th	9	814	2	1	0
+24	Chicago GK		1st	2nd	2nd	2nd	4th	9	802	1	3	0
+25	NUS Boy Bawang		2nd	1st	3rd	2nd	3rd	9	798	1	2	0
+26	Bucharest A(ustria&#x27;s immigration problem)	ESL	1st	2nd	4th	1st	3rd	9	797	2	1	0
+27	De La Salle AA	ESL	1st	4th	2nd	2nd	2nd	9	794	1	3	0
+28	HUJI It&#x27;s not new information it&#x27;s rest		2nd	1st	2nd	4th	2nd	9	792	1	3	0
+29	Oxford AP	Novice	2nd	2nd	3rd	2nd	2nd	9	789	0	4	0
+30	Melbourne Bye, Melbourne Mini!		1st	4th	2nd	1st	3rd	9	787	2	1	0
+31	Oxford DN	Novice	1st	4th	2nd	2nd	2nd	9	783	1	3	0
+32=	Cambridge Do You Know?		1st	2nd	3rd	2nd	3rd	9	783	1	2	0
+32=	LSE Finally prepping worlds with the r		2nd	3rd	3rd	2nd	1st	9	783	1	2	0
+34	UNSW B		4th	2nd	1st	2nd	2nd	9	782	1	3	0
+35	Bates MO	ESL	3rd	2nd	4th	1st	1st	9	781	2	1	0
+36	Cambridge HCI A	Novice	4th	3rd	1st	2nd	1st	9	775	2	1	0
+37	UCD L&amp;H A		3rd	3rd	1st	3rd	1st	9	767	2	0	1
+38	Harvard BB		3rd	1st	4th	2nd	1st	9	765	2	1	3
+39	Athens A	ESL	—	1st	1st	1st	4th	9	650	3	0	0
+40	Oxford KE	Novice	1st	1st	4th	2nd	4th	8	798	2	1	0
+41	Harvard no confidence in this case		1st	1st	2nd	4th	4th	8	789	2	1	0
+42	Chicago JR	Novice	1st	3rd	2nd	3rd	3rd	8	789	1	1	0
+43	Oxford Epistemic Authority		2nd	2nd	2nd	3rd	3rd	8	789	0	3	0
+44	Tokyo YT	ESL	1st	3rd	1st	3rd	4th	8	785	2	0	0
+45	Reichman A	ESL	1st	3rd	3rd	3rd	2nd	8	782	1	1	0
+46	DK Wien Vienna B	ESL	4th	1st	1st	4th	2nd	8	781	2	1	0
+47	NUS Rise too high must fall		3rd	1st	4th	1st	3rd	8	781	2	0	0
+48	Edinburgh Bunker vaping call that Enver Hoxh		4th	1st	2nd	3rd	2nd	8	776	1	2	0
+49	BINUS A	ESL	3rd	1st	3rd	4th	1st	8	771	2	0	0
+50	Oxford MF		3rd	1st	4th	3rd	1st	8	770	2	0	0
+51	Imperial B(ackstreet&#x27;s back ALRIGHT)		2nd	1st	4th	4th	1st	8	768	2	1	0
+52	qfin ppl	ESL	3rd	4th	1st	3rd	1st	8	765	2	0	0
+53	Cambridge we dont know		4th	2nd	2nd	1st	3rd	8	765	1	2	0
+54	UCLA am-am		2nd	3rd	1st	4th	2nd	8	764	1	2	0
+55	Yeonwoo and Salleh	ESL	2nd	2nd	4th	2nd	2nd	8	764	0	4	0
+56	Chicago RJ		1st	4th	3rd	3rd	1st	8	755	2	0	1
+57	BJ A	ESL	3rd	1st	2nd	4th	3rd	7	784	1	1	0
+58	Seoul Somaek		2nd	3rd	3rd	1st	4th	7	782	1	1	0
+59=	De La Salle Kuo Tiffany	ESL	2nd	3rd	3rd	4th	1st	7	778	1	1	0
+59=	Nottingham Melodifestivalen Fan Club		3rd	3rd	2nd	1st	4th	7	778	1	1	0
+61	Monash Mutually Assured Destruction B	Novice	4th	1st	3rd	1st	4th	7	768	2	0	0
+62	Technion not throwing the wolves to the wol	ESL	2nd	4th	1st	3rd	3rd	7	768	1	1	0
+63	PUCP A	ESL	3rd	3rd	2nd	3rd	2nd	7	767	0	2	0
+64	Cornell OM		4th	1st	1st	4th	3rd	7	765	2	0	0
+65	NTU HO		4th	2nd	1st	4th	2nd	7	762	1	2	0
+66	Zagreb LF	ESL	4th	2nd	3rd	1st	3rd	7	760	1	1	1
+67	KNUST Attakpah and Ametu	ESL	2nd	3rd	3rd	3rd	2nd	7	760	0	2	0
+68=	BUET No name cause our minds went blank	ESL	2nd	3rd	3rd	1st	4th	7	757	1	1	1
+68=	Tokyo Garden Dog	ESL	3rd	1st	4th	2nd	3rd	7	757	1	1	0
+70	Rosario A (Sloterdijk)	ESL	3rd	3rd	2nd	3rd	2nd	7	755	0	2	0
+71	Warsaw (XD)	ESL, Novice	4th	1st	4th	3rd	1st	7	750	2	0	0
+72	TCD Hist A		2nd	4th	4th	1st	2nd	7	748	1	2	1
+73	Swing A		4th	2nd	1st	2nd	—	7	621	1	2	1
+74	KNOBS A	ESL	3rd	2nd	3rd	2nd	4th	6	773	0	2	0
+75	NUS Pu Bor		1st	4th	2nd	4th	3rd	6	770	1	1	0
+76	TAU R&amp;O	ESL	3rd	4th	2nd	4th	1st	6	767	1	1	1
+77	Chicago HP		1st	1st	4th	4th	4th	6	764	2	0	1
+78	Ghana Team Avatar	ESL	3rd	4th	2nd	4th	1st	6	762	1	1	0
+79	HUJI Hujilicious	ESL	2nd	4th	3rd	3rd	2nd	6	762	0	2	0
+80	NTU SG		1st	4th	1st	4th	4th	6	758	2	0	0
+81	Chula A	ESL	4th	2nd	3rd	3rd	2nd	6	755	0	2	0
+82	Manthan you&#x27;re on your own kid		4th	1st	4th	2nd	3rd	6	753	1	1	4
+83	Sciences Po Wawaweewa	ESL, Novice	2nd	3rd	4th	2nd	3rd	6	752	0	2	0
+84	AUEB Voyager 1 &amp; 2	ESL	3rd	1st	3rd	3rd	4th	6	750	1	0	0
+85	Chicago MP	Novice	4th	4th	1st	1st	4th	6	749	2	0	3
+86	Chicago LW		4th	4th	4th	1st	1st	6	747	2	0	0
+87	Split Otrova u chay	ESL	2nd	4th	4th	2nd	2nd	6	746	0	3	1
+88	NTU NL		3rd	2nd	2nd	4th	4th	5	764	0	2	0
+89	SISU Manphia	ESL	2nd	4th	3rd	3rd	3rd	5	760	0	1	0
+90	Thammasat Fluffy Quokka	ESL	3rd	4th	3rd	4th	1st	5	755	1	0	0
+91	Berlin A	ESL	4th	3rd	1st	4th	3rd	5	747	1	0	0
+92	Palm	ESL	3rd	4th	3rd	1st	4th	5	746	1	0	0
+93	Chile Flo and Peralta Inc.	ESL	3rd	4th	2nd	2nd	4th	5	745	0	2	0
+94	Durham WE		4th	2nd	4th	1st	4th	5	742	1	1	0
+95	Munich Pēgasos		3rd	4th	3rd	2nd	3rd	5	742	0	1	0
+96	Bucharest B(ulgaria should be in Schengen)	ESL	—	4th	2nd	2nd	3rd	5	595	0	2	0
+97	Tokyo YY	ESL	4th	2nd	3rd	2nd	—	5	593	0	2	1
+98	Swing TAU Ayy		—	3rd	3rd	1st	—	5	462	1	0	0
+99	UL Team SL	ESL, Novice	2nd	2nd	4th	4th	4th	4	750	0	2	0
+100	BUET C	ESL	2nd	4th	4th	3rd	3rd	4	748	0	1	0
+101	Monash D	Novice	3rd	3rd	2nd	4th	4th	4	744	0	1	0
+102	HGHS no solvency	Novice	4th	3rd	1st	4th	4th	4	741	1	0	0
+103	UCLA Opinionators	ESL, Novice	3rd	3rd	4th	4th	2nd	4	739	0	1	0
+104	Seoul Chimaek	Novice	4th	4th	1st	4th	3rd	4	738	1	0	0
+105	Tokyo Climb up the debating ladder	ESL	4th	3rd	2nd	4th	3rd	4	737	0	1	0
+106	BGU DNS	ESL	4th	3rd	4th	3rd	2nd	4	733	0	1	0
+107	Skyrocket	ESL, Novice	4th	3rd	4th	1st	4th	4	726	1	0	0
+108	TCD Hist B		4th	—	4th	2nd	2nd	4	596	0	2	0
+109	Budapest A	ESL, Novice	2nd	4th	4th	3rd	4th	3	744	0	1	0
+110	Aalto Finnished		3rd	2nd	4th	4th	4th	3	739	0	1	0
+111	Harvard AS		3rd	2nd	—	—	—	3	306	0	1	2
+112	BGU strategic 4th	ESL	4th	4th	3rd	3rd	4th	2	732	0	0	0
+113	CEU	ESL, Novice	—	4th	4th	3rd	3rd	2	568	0	0	0
+114	BUET B	ESL	—	4th	2nd	4th	—	2	440	0	1	0
+115	TCD Phil B		4th	2nd	—	—	—	2	303	0	1	1
+116	Swing C		—	—	—	2nd	—	2	153	0	1	0
+117	Korea Fish bread with red beans		4th	4th	3rd	4th	—	1	591	0	0	2
+118	Ambedkar I can&#x27;t	Novice	4th	3rd	4th	—	—	1	436	0	0	0
+119	Cambridge SG		3rd	—	—	—	—	1	153	0	0	0
+120	Swing B		—	—	4th	4th	—	0	283	0	0	0
+121=	Manchester A		—	—	—	—	—	—	—	0	0	0
+121=	Comrade Legasov		—	—	—	—	—	—	—	0	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	David Africa		Ateneo 1	84	83	84	85	80	416	83.20	1.72
+2	Tobi Leung		Ateneo 1	83	83	84	85	80	415	83.00	1.67
+3	Madeleine Wu	Novice	Dartmouth am i visible	82	82	85	82	81	412	82.40	1.36
+4	Matt Caito		LSE A	82	82	82	83	82	411	82.20	0.40
+5=	Enting Lee		Harvard LT	83	81	86	81	79	410	82.00	2.37
+5=	Tejas Subramaniam		Started from mail-order brides now	83	82	82	80	83	410	82.00	1.10
+7=	Ahmed Elsammak		LSE A	81	82	81	83	82	409	81.80	0.75
+7=	Biser Angelov	ESL	UNWE A(ustria let us in Schengen pls)	81	82	82	83	81	409	81.80	0.75
+7=	Dylan McCarthy		TCD Phil A	83	82	79	83	82	409	81.80	1.47
+10	Maria Matcheva	ESL	UNWE A(ustria let us in Schengen pls)	81	83	82	82	80	408	81.60	1.02
+11=	Alek Selveliev	ESL	Sofia B(	80	84	80	80	83	407	81.40	1.74
+11=	Naomi Panovka		Started from mail-order brides now	81	82	81	80	83	407	81.40	1.02
+13=	Ellie Stephenson		Sydney B	82	81	83	78	82	406	81.20	1.72
+13=	Meg Kandarpa		Mice In Our Walls	80	81	82	83	80	406	81.20	1.17
+15	Velina Andonova	ESL	Sofia B(	80	83	80	80	82	405	81.00	1.26
+16=	Alastair Bowyer		St Andrews jasmine analysis: fragrant with a	80	81	82	79	82	404	80.80	1.17
+16=	Olja Bošnjak	ESL	Zagreb A	80	81	84	79	80	404	80.80	1.72
+16=	Matti Tan		Harvard LT	81	82	85	79	77	404	80.80	2.71
+16=	Sam Druce	Novice	Sydney Druce &amp; Kuo	81	82	81	79	81	404	80.80	0.98
+16=	Ryan Lafferty		Dartmouth am i visible	80	81	83	80	80	404	80.80	1.17
+16=	Niki Angelov	ESL	Sofia A	81	78	81	84	80	404	80.80	1.94
+16=	Rumen Marinov	ESL	Sofia A	81	77	81	84	81	404	80.80	2.23
+16=	Pranav Anand		Mice In Our Walls	80	80	81	83	80	404	80.80	1.17
+24=	Parth Pandya		St Andrews jasmine analysis: fragrant with a	79	82	82	78	82	403	80.60	1.74
+24=	Robert Raos	ESL	Zagreb A	79	80	83	79	82	403	80.60	1.62
+24=	Sophie Shead		Sydney B	82	80	82	77	82	403	80.60	1.96
+24=	Jack Palmer		TCD Phil A	81	80	79	82	81	403	80.60	1.02
+24=	Bea Legaspi	ESL	UPD Garcia &amp; Legaspi	80	81	82	81	79	403	80.60	1.02
+29=	Muzzi Godil		Chicago GK	81	80	82	81	78	402	80.40	1.36
+29=	Kat Kuo		Sydney Druce &amp; Kuo	80	82	82	79	79	402	80.40	1.36
+31	Shaun Lee		NUS LL	82	77	81	80	81	401	80.20	1.72
+32=	Matt Mauriello		Harvard no confidence in this case	80	80	82	83	75	400	80.00	2.76
+32=	Elena Radulescu	ESL, Novice	Oxford KE	83	81	77	82	77	400	80.00	2.53
+32=	Rohan Kapoor		Chicago GK	80	78	83	81	78	400	80.00	1.90
+32=	Valeriu Carasel	ESL	Bucharest A(ustria&#x27;s immigration problem)	80	79	81	81	79	400	80.00	0.89
+32=	Naomi Ang		NUS Boy Bawang	77	83	80	81	79	400	80.00	2.00
+37	Ken Alunan	ESL	De La Salle AA	83	78	78	81	79	399	79.80	1.94
+38=	Kitty Dallas	Novice	Oxford KE	81	82	78	80	77	398	79.60	1.85
+38=	Cavan Tay		NUS Boy Bawang	78	84	79	79	78	398	79.60	2.24
+40=	Rao Tanae		Oxford Epistemic Authority	78	83	82	76	78	397	79.40	2.65
+40=	Ana Coman	ESL	Bucharest A(ustria&#x27;s immigration problem)	78	78	81	81	79	397	79.40	1.36
+40=	Sadid Jubayer Murshed	ESL	IUB Birdie Association	78	78	76	80	85	397	79.40	3.07
+40=	Yishai Binnes		HUJI It&#x27;s not new information it&#x27;s rest	79	78	84	79	77	397	79.40	2.42
+40=	Luis Garcia		UPD Garcia &amp; Legaspi	80	79	80	80	78	397	79.40	0.80
+45=	Jill Aycardo	ESL	De La Salle AA	83	78	78	78	78	395	79.00	2.00
+45=	Pranav Baskar	Novice	Oxford AP	78	79	78	79	81	395	79.00	1.10
+45=	Ethan Jiang	Novice	Chicago JR	82	78	80	75	80	395	79.00	2.37
+45=	Amy Lee		NUS LL	80	76	80	79	80	395	79.00	1.55
+45=	Naomi Gillis		HUJI It&#x27;s not new information it&#x27;s rest	79	78	83	78	77	395	79.00	2.10
+50=	Isabelle Sim Yun Yi		Cambridge Do You Know?	79	79	83	78	75	394	78.80	2.56
+50=	Ahmed Hussain	Novice	Oxford AP	79	78	77	79	81	394	78.80	1.33
+50=	Harshvardhan Ray	Novice	Chicago JR	82	77	80	75	80	394	78.80	2.48
+50=	Jenny Li	ESL	Melbourne Bye, Melbourne Mini!	80	78	79	82	75	394	78.80	2.32
+54=	Manuel Machorro	ESL	Bates MO	77	79	78	82	77	393	78.60	1.85
+54=	Mikey Xu		UNSW B	76	79	78	78	82	393	78.60	1.96
+54=	Isabella Freeland		Sydney Freeland and Bakker	74	77	80	82	80	393	78.60	2.80
+54=	Nasa Tsuchiya	ESL	Tokyo YT	81	79	80	78	75	393	78.60	2.06
+54=	Guy Williams	Novice	Melbourne Bye, Melbourne Mini!	77	78	80	82	76	393	78.60	2.15
+54=	Rohan	ESL	BJ A	77	78	80	77	81	393	78.60	1.62
+60=	Emma Heijnen	ESL, Novice	LSE Finally prepping worlds with the r	78	77	76	78	83	392	78.40	2.42
+60=	Dhruv Leekha	Novice	Oxford DN	80	76	81	76	79	392	78.40	2.06
+60=	Ricky Huang	ESL	Oxford Epistemic Authority	78	80	79	77	78	392	78.40	1.02
+60=	Mira Eberdorfer	ESL	DK Wien Vienna B	76	81	80	74	81	392	78.40	2.87
+60=	Deon Kiew		NUS Rise too high must fall	77	77	80	80	78	392	78.40	1.36
+60=	Kotaro Yoshida	ESL	Tokyo YT	79	79	81	79	74	392	78.40	2.33
+66=	Dung Nguyen		LSE Finally prepping worlds with the r	79	76	75	77	84	391	78.20	3.19
+66=	Nicolas Rackow	Novice	Oxford DN	82	76	77	77	79	391	78.20	2.14
+66=	Omar Shalabby	ESL	Reichman A	79	79	78	78	77	391	78.20	0.75
+66=	Maya Tamir	ESL	Reichman A	80	78	78	77	78	391	78.20	0.98
+66=	Yoonchan Koo	ESL	Seoul Somaek	76	81	78	77	79	391	78.20	1.72
+66=	Dohyun Kim		Seoul Somaek	76	81	79	77	78	391	78.20	1.72
+66=	Hamza Nouman	ESL	Nottingham Melodifestivalen Fan Club	80	76	77	79	79	391	78.20	1.47
+66=	Ahsan	ESL	BJ A	78	79	81	77	76	391	78.20	1.72
+74=	Ian Dylan Chai		Yale-NUS We&#x27;re Both Asian We Swear	79	74	76	79	82	390	78.00	2.76
+74=	Sierra Turay		Melbourne B	78	78	78	77	79	390	78.00	0.63
+76=	Bernd Wong		Cambridge Do You Know?	78	79	80	77	75	389	77.80	1.72
+76=	Daniela Jacinto	ESL	De La Salle Kuo Tiffany	78	80	77	74	80	389	77.80	2.23
+76=	Ichiro Arbole	ESL	De La Salle Kuo Tiffany	79	81	75	75	79	389	77.80	2.40
+76=	Conna Leslie-Keefe		UNSW B	76	79	77	77	80	389	77.80	1.47
+76=	Rohan Battula	Novice	Harvard no confidence in this case	79	78	80	78	74	389	77.80	2.04
+76=	Matthew Hamer		Imperial A	79	79	75	76	80	389	77.80	1.94
+76=	Eugene Bakker		Sydney Freeland and Bakker	72	79	79	82	77	389	77.80	3.31
+76=	Adam Mallis		Edinburgh Bunker vaping call that Enver Hoxh	77	78	78	77	79	389	77.80	0.75
+76=	Victor Bervoets	ESL	DK Wien Vienna B	75	79	79	75	81	389	77.80	2.40
+76=	Kevin Ong	Novice	NUS Rise too high must fall	77	76	79	79	78	389	77.80	1.17
+76=	Rose Hensher		Melbourne B	78	79	77	77	78	389	77.80	0.75
+87=	Tan Tai Cheng	Novice	Cambridge HCI A	76	76	78	77	81	388	77.60	1.85
+87=	Oyuka Lyndon	ESL	Bates MO	76	78	78	80	76	388	77.60	1.50
+87=	Batara Mulya	ESL	BINUS A	78	80	76	75	79	388	77.60	1.85
+87=	Emmanuella Li		Imperial A	79	77	76	77	79	388	77.60	1.20
+91=	Lee Wei Kang	Novice	Cambridge HCI A	76	76	77	76	82	387	77.40	2.33
+91=	Dom Westwood		Edinburgh Bunker vaping call that Enver Hoxh	76	79	77	76	79	387	77.40	1.36
+91=	Cameron Docherty		Nottingham Melodifestivalen Fan Club	78	74	78	78	79	387	77.40	1.74
+91=	Kiran Bodasing		NUS Pu Bor	79	77	79	77	75	387	77.40	1.50
+91=	Terkpertey Andrews and	ESL	KNOBS A	78	75	80	79	75	387	77.40	2.06
+96=	Flora Prideaux	Novice	Oxford MF	78	81	74	76	77	386	77.20	2.32
+96=	Erasmus Mawuli Segbefia	ESL	KNOBS A	77	76	80	78	75	386	77.20	1.72
+98=	Mauricio Jarufe	ESL	PUCP A	80	78	76	75	76	385	77.00	1.79
+98=	Omer Abramovich	ESL	TAU R&amp;O	77	79	75	75	79	385	77.00	1.79
+98=	Guy Wolf	ESL	Technion not throwing the wolves to the wol	79	74	78	77	77	385	77.00	1.67
+98=	Britney Pham	Novice	Monash Mutually Assured Destruction B	75	78	77	79	76	385	77.00	1.41
+102=	Isabel Orlando		Cornell OM	75	80	79	74	76	384	76.80	2.32
+102=	Daanish Sohail Sonawal		Imperial B(ackstreet&#x27;s back ALRIGHT)	78	78	76	74	78	384	76.80	1.60
+102=	Laura Hallmark		Imperial B(ackstreet&#x27;s back ALRIGHT)	79	77	76	75	77	384	76.80	1.33
+102=	Mitchell Palmer		Oxford MF	77	80	75	75	77	384	76.80	1.83
+102=	Amitai Ben Porat	ESL, Novice, Schools	HUJI Hujilicious	79	77	75	76	77	384	76.80	1.33
+102=	Shane Tully		UCD L&amp;H A	75	77	78	75	79	384	76.80	1.60
+102=	Annika Wang	ESL	qfin ppl	77	77	77	76	77	384	76.80	0.40
+109=	Karen Chen		Cambridge we dont know	72	77	77	78	79	383	76.60	2.42
+109=	Bobby Ongkojoyo	ESL	BINUS A	77	78	76	74	78	383	76.60	1.50
+109=	Yael Wolff	ESL	Technion not throwing the wolves to the wol	78	74	76	77	78	383	76.60	1.50
+109=	Osel Pan		NUS Pu Bor	79	76	78	76	74	383	76.60	1.74
+109=	Thomas White	Novice	Monash Mutually Assured Destruction B	75	77	76	78	77	383	76.60	1.02
+109=	Yeonwoo	ESL, Novice, Schools	Yeonwoo and Salleh	76	79	77	77	74	383	76.60	1.62
+115=	Aadir Mathur	Novice	Cambridge we dont know	72	76	76	76	82	382	76.40	3.20
+115=	Belle Ho		UCLA am-am	75	77	79	74	77	382	76.40	1.74
+115=	Amber Chen		UCLA am-am	76	78	78	75	75	382	76.40	1.36
+115=	Jose Vergara	ESL	PUCP A	78	78	77	74	75	382	76.40	1.62
+115=	Redacted	ESL	—	78	76	77	74	77	382	76.40	1.36
+115=	Hana Bajrai		NTU HO	78	75	77	76	76	382	76.40	1.02
+115=	Neo Way De		NTU NL	75	80	79	76	72	382	76.40	2.87
+115=	Wayne Lim		NTU NL	75	80	78	77	72	382	76.40	2.73
+123=	Abigel Manaye		Cornell OM	75	78	78	74	76	381	76.20	1.60
+123=	Dohyun Park		Chicago HP	75	83	74	78	71	381	76.20	4.07
+123=	Prosper-Michael Ametu	ESL	KNUST Attakpah and Ametu	78	76	76	76	75	381	76.20	0.98
+123=	Mandy Luo	ESL	SISU Manphia	78	75	73	78	77	381	76.20	1.94
+123=	Salleh Nidzam	ESL	Yeonwoo and Salleh	74	79	79	76	73	381	76.20	2.48
+123=	Terry Zhang	ESL	qfin ppl	76	77	76	75	77	381	76.20	0.75
+129=	Tania Acsinte	ESL, Novice	Sciences Po Wawaweewa	78	78	71	79	74	380	76.00	3.03
+129=	Shirsha Songshoptak	ESL	BUET No name cause our minds went blank	77	74	77	78	74	380	76.00	1.67
+129=	Lovro Marušić	ESL	Zagreb LF	77	77	74	78	74	380	76.00	1.67
+129=	Redacted	ESL	—	78	76	77	73	76	380	76.00	1.67
+129=	Christine Ong		NTU HO	77	75	77	75	76	380	76.00	0.89
+129=	Soh Kay Boon		NTU SG	77	76	79	72	76	380	76.00	2.28
+135=	Samuel Johnson		Chicago RJ	78	77	72	76	76	379	75.80	2.04
+135=	Vincent Johnson-Attakpah	ESL	KNUST Attakpah and Ametu	79	75	76	75	74	379	75.80	1.72
+135=	Sophia Sheng	ESL	SISU Manphia	77	75	74	78	75	379	75.80	1.47
+135=	Sompoom Sunpaweravong	ESL	Chula A	76	76	75	76	76	379	75.80	0.40
+135=	Rina Kajitani	ESL	Tokyo Garden Dog	78	77	76	75	73	379	75.80	1.72
+140=	Ian Qiu		Yale-NUS We&#x27;re Both Asian We Swear	76	75	75	75	77	378	75.60	0.80
+140=	Andrés Revelo	ESL	Rosario A (Sloterdijk)	72	79	76	75	76	378	75.60	2.24
+140=	Supakorn Palawong	ESL	Thammasat Fluffy Quokka	77	76	75	72	78	378	75.60	2.06
+140=	Sharleen Goh		NTU SG	76	76	79	72	75	378	75.60	2.24
+140=	Michal Rubin	ESL	HUJI Hujilicious	78	75	73	76	76	378	75.60	1.62
+140=	Yuichi Masaoka	ESL	Tokyo Garden Dog	77	76	76	77	72	378	75.60	1.85
+146=	Jessica Zapata	ESL	Rosario A (Sloterdijk)	74	77	75	74	77	377	75.40	1.36
+146=	Sirikorn Indrayodha	ESL	Thammasat Fluffy Quokka	76	76	75	72	78	377	75.40	1.96
+146=	Ishan Khire	Schools	Manthan you&#x27;re on your own kid	75	77	75	75	75	377	75.40	0.80
+149=	Paweł Miłkowski	ESL, Novice	Warsaw (XD)	73	77	74	76	76	376	75.20	1.47
+149=	David Wang	Novice	Chicago LW	73	76	74	76	77	376	75.20	1.47
+149=	Bhoowit Lerttiendamrong	ESL	Chula A	74	76	75	75	76	376	75.20	0.75
+152=	Esala Rajapakse	ESL, Novice	UL Team SL	77	74	74	75	75	375	75.00	1.10
+152=	Sahlah Anees	ESL, Novice	UL Team SL	79	74	74	74	74	375	75.00	2.00
+152=	Olga Shevtsova	ESL	AUEB Voyager 1 &amp; 2	75	76	77	75	72	375	75.00	1.67
+152=	Maro Samara	ESL, Novice	AUEB Voyager 1 &amp; 2	77	76	76	75	71	375	75.00	2.10
+152=	Michael Kwak	Novice, Schools	HGHS no solvency	72	77	78	74	74	375	75.00	2.19
+152=	Felix Reischl	ESL	Berlin A	76	76	77	73	73	375	75.00	1.67
+158=	Ignacy Krzewski	ESL, Novice	Warsaw (XD)	71	77	74	75	77	374	74.80	2.23
+158=	A K M Anindya Alam	ESL	BUET C	77	78	72	72	75	374	74.80	2.48
+158=	Amanat Hossain Emon	ESL	BUET C	77	77	72	73	75	374	74.80	2.04
+161=	Ignacio Peralta	ESL	Chile Flo and Peralta Inc.	76	72	76	77	72	373	74.60	2.15
+161=	Sian McAllister	Novice	Chicago MP	76	75	72	76	74	373	74.60	1.50
+161=	Wilfred Wong	ESL	Durham WE	74	77	74	76	72	373	74.60	1.74
+161=	Anna Sawicka		TCD Hist A	77	76	71	74	75	373	74.60	2.06
+161=	Alexis Baraka Mcharo	Novice	Monash D	73	76	76	75	73	373	74.60	1.36
+161=	Takeshi Matsuda	ESL	Palm	76	73	74	76	74	373	74.60	1.20
+161=	Reki Ueda	ESL	Palm	76	73	75	76	73	373	74.60	1.36
+168=	Jola Schmidt		Munich Pēgasos	73	73	75	76	75	372	74.40	1.20
+168=	Bauke Post	ESL, Novice	Sciences Po Wawaweewa	77	76	69	78	72	372	74.40	3.38
+168=	Florencia Atria	ESL	Chile Flo and Peralta Inc.	75	74	77	76	70	372	74.40	2.42
+168=	Sara Burazer Turko	ESL	Split Otrova u chay	75	71	73	76	77	372	74.40	2.15
+168=	Martha Kliemt	ESL	Berlin A	75	75	76	73	73	372	74.40	1.20
+168=	Michael Criollo	ESL, Novice	Budapest A	75	75	74	74	74	372	74.40	0.49
+168=	Jaodun Muntasir	ESL, Novice	Budapest A	75	76	74	73	74	372	74.40	1.02
+175=	Michelle	ESL, Novice, Schools	UCLA Opinionators	74	77	72	72	76	371	74.20	2.04
+175=	Andrew Liang	Schools	Chicago LW	71	75	74	75	76	371	74.20	1.72
+175=	Chelsey Dong	Novice	Monash D	74	74	75	75	73	371	74.20	0.75
+175=	Satoshi Inoue	ESL, Novice	Tokyo Climb up the debating ladder	75	76	75	72	73	371	74.20	1.47
+179=	Haiying Lu	ESL	Aalto Finnished	75	76	73	75	71	370	74.00	1.79
+179=	Benjamin Speth	ESL	Munich Pēgasos	74	73	73	75	75	370	74.00	0.89
+181=	My Linh Nguyen		Aalto Finnished	74	75	73	76	71	369	73.80	1.72
+181=	Ji Han (Chris) Lim	Novice	Seoul Chimaek	75	74	74	72	74	369	73.80	0.98
+181=	Hyeonggeun Kim	ESL, Novice	Seoul Chimaek	75	74	73	72	75	369	73.80	1.17
+181=	Emma Zaoli		Durham WE	72	76	74	76	71	369	73.80	2.04
+185	Chanel	ESL, Novice, Schools	UCLA Opinionators	72	76	71	73	76	368	73.60	2.06
+186	Shay Milner	ESL	BGU DNS	71	71	73	75	77	367	73.40	2.33
+187=	Dor raz	ESL	BGU DNS	71	70	73	75	77	366	73.20	2.56
+187=	yael mor-haim	ESL	BGU strategic 4th	77	69	71	75	74	366	73.20	2.86
+187=	roey lavie sturm	ESL	BGU strategic 4th	76	70	70	76	74	366	73.20	2.71
+187=	Roy Makita	ESL, Novice, Schools	HGHS no solvency	70	75	76	73	72	366	73.20	2.14
+187=	Yuki Saito	ESL	Tokyo Climb up the debating ladder	73	76	75	70	72	366	73.20	2.14
+192	Elena Xu	ESL, Novice	Skyrocket	70	75	73	78	68	364	72.80	3.54
+193	Amanda Ma	ESL, Novice	Skyrocket	71	76	72	76	67	362	72.40	3.38
+194=	Gerge Aravosis	ESL	Athens A	—	81	84	81	79	325	81.25	1.79
+194=	Panagiotis Gkouvelis	ESL	Athens A	—	80	84	81	80	325	81.25	1.64
+196	Tamar Ben Meir	ESL	TAU Swing A	78	80	83	82	—	323	80.75	1.92
+197	Hadar Goldberg	ESL	TAU Swing A	76	79	82	81	—	318	79.50	2.29
+198	Jenna Hong		Harvard CH	—	79	78	80	77	314	78.50	1.12
+199=	Ahmad Howard		Chicago HP	76	84	74	78	—	312	78.00	3.74
+199=	Megha Rahman	ESL	IUB Birdie Association	77	80	76	79	—	312	78.00	1.58
+199=	Speaker A2		Swing A	76	79	77	80	—	312	78.00	1.58
+202=	Anh Cao		Harvard CH	—	77	77	79	77	310	77.50	0.87
+202=	Ishan Bhatt		Harvard BB	76	80	77	77	—	310	77.50	1.50
+204	Rob Fitzpatrick		UCD L&amp;H A	77	—	76	75	78	306	76.50	1.12
+205	Roi Cohen	ESL	TAU R&amp;O	77	76	75	76	—	304	76.00	0.71
+206	Franka Logarić	ESL	Zagreb LF	—	77	73	78	75	303	75.75	1.92
+207	Molly Carroll		TCD Hist A	76	76	73	76	—	301	75.25	1.30
+208=	Jumana Tanuja	ESL	BUET No name cause our minds went blank	77	73	77	—	73	300	75.00	2.00
+208=	Adi Ram		Chicago RJ	78	77	69	76	—	300	75.00	3.54
+208=	David Moscovici	ESL	Bucharest B(ulgaria should be in Schengen)	—	76	73	75	76	300	75.00	1.22
+211	Peter Jedro		TCD Hist B	74	—	75	74	76	299	74.75	0.83
+212	Katarina Maljković	ESL	Split Otrova u chay	76	72	75	75	—	298	74.50	1.50
+213	Rachel Chen		TCD Hist B	72	—	76	75	74	297	74.25	1.48
+214	Junghyun Min	ESL	Korea Fish bread with red beans	76	75	71	74	—	296	74.00	1.87
+215=	Teodora Simion	ESL	Bucharest B(ulgaria should be in Schengen)	—	75	72	73	75	295	73.75	1.30
+215=	Yuki Yamashita	ESL	Tokyo YY	72	76	72	75	—	295	73.75	1.79
+217	Xiyue Yang	ESL, Novice	CEU	—	69	67	74	76	286	71.50	3.64
+218	Juanita Ariza Guzman	ESL, Novice	CEU	—	68	66	73	75	282	70.50	3.64
+219	Speaker A1		Swing A	—	79	77	78	—	234	78.00	0.82
+220	Or Toledano		Swing TAU Ayy	—	79	76	77	—	232	77.33	1.25
+221	Aviv Bar-Or		Swing TAU Ayy	—	78	76	76	—	230	76.67	0.94
+222	Nir Amin		Harvard BB	—	—	75	77	75	227	75.67	0.94
+223	Yuriko Hirai	ESL	Tokyo YY	—	76	73	77	—	226	75.33	1.70
+224=	Ishmam Tasnim	ESL	BUET B	—	74	72	74	—	220	73.33	0.94
+224=	M Abrar Muhit	ESL	BUET B	—	75	71	74	—	220	73.33	1.70
+226=	Mehak	Novice	Ambedkar I can&#x27;t	73	74	71	—	—	218	72.67	1.25
+226=	Harsidak Chawla	Novice	Ambedkar I can&#x27;t	74	73	71	—	—	218	72.67	1.25
+228	Nir Amin		Harvard AS	76	78	—	—	—	154	77.00	1.00
+229	Roy Tiefer	Novice	Chicago MP	—	—	74	79	—	153	76.50	2.50
+230	Amy Cox		TCD Phil B	75	77	—	—	—	152	76.00	1.00
+231	Jaeoh Wi		Korea Fish bread with red beans	—	—	71	76	—	147	73.50	2.50
+232	Speaker B2		Swing B	—	—	68	74	—	142	71.00	3.00
+233	Speaker B1		Swing B	—	—	69	72	—	141	70.50	1.50
+234	Sriram		Manthan you&#x27;re on your own kid	—	—	—	78	—	78	78.00	0.00
+235=	Benjamin Goh		Cambridge SG	77	—	—	—	—	77	77.00	0.00
+235=	Speaker C2		Swing C	—	—	—	77	—	77	77.00	0.00
+237=	Samuel Soh		Cambridge SG	76	—	—	—	—	76	76.00	0.00
+237=	Speaker C1		Swing C	—	—	—	76	—	76	76.00	0.00
+239	Isabelle Healy		TCD Phil B	75	—	—	—	—	75	75.00	0.00
+240=	Siddharth Satish	Novice	Harvard AS	—	—	—	—	—	—	—	—
+240=	Alexandru-Cristian Calin	Novice	Manchester A	—	—	—	—	—	—	—	—
+240=	Arrietty de Xi	ESL	Manchester A	—	—	—	—	—	—	—	—
+240=	Brian Kam	ESL	Comrade Legasov	—	—	—	—	—	—	—	—
+240=	Zoe Wang	Novice	Comrade Legasov	—	—	—	—	—	—	—	—
+
+
+team	result	side	adjudicators
+Tokyo YT	1st	Closing Government	Wajeeh “look what the Kat dragged in” MaazⒸ , Joanna Rzempoluch
+Chicago MP	4th	Opening Opposition	Wajeeh “look what the Kat dragged in” MaazⒸ , Joanna Rzempoluch
+Oxford AP	2nd	Closing Opposition	Wajeeh “look what the Kat dragged in” MaazⒸ , Joanna Rzempoluch
+Yale-NUS We&#x27;re Both Asian We Swear	3rd	Opening Government	Wajeeh “look what the Kat dragged in” MaazⒸ , Joanna Rzempoluch
+Chicago LW	4th	Closing Government	Helena HeckeⒸ , Pratham Dikshit
+Oxford KE	1st	Opening Government	Helena HeckeⒸ , Pratham Dikshit
+Harvard BB	3rd	Opening Opposition	Helena HeckeⒸ , Pratham Dikshit
+UNWE A(ustria let us in Schengen pls)	2nd	Closing Opposition	Helena HeckeⒸ , Pratham Dikshit
+Yeonwoo and Salleh	2nd	Closing Government	William SmithⒸ
+Monash D	3rd	Opening Opposition	William SmithⒸ
+Chicago HP	1st	Opening Government	William SmithⒸ
+Cambridge we dont know	4th	Closing Opposition	William SmithⒸ
+NTU SG	1st	Opening Opposition	Maša PopeskovićⒸ , Katharina Jansen
+Sydney Freeland and Bakker	3rd	Closing Government	Maša PopeskovićⒸ , Katharina Jansen
+UCLA am-am	2nd	Closing Opposition	Maša PopeskovićⒸ , Katharina Jansen
+Warsaw (XD)	4th	Opening Government	Maša PopeskovićⒸ , Katharina Jansen
+Tokyo Garden Dog	3rd	Closing Government	Diego DuarteⒸ , Mahesh R
+Imperial A	1st	Closing Opposition	Diego DuarteⒸ , Mahesh R
+Zagreb LF	4th	Opening Opposition	Diego DuarteⒸ , Mahesh R
+LSE Finally prepping worlds with the r	2nd	Opening Government	Diego DuarteⒸ , Mahesh R
+Melbourne B	1st	Opening Government	Alex McCreadieⒸ , Owen Goodacre
+Tokyo YY	4th	Closing Opposition	Alex McCreadieⒸ , Owen Goodacre
+Seoul Somaek	2nd	Opening Opposition	Alex McCreadieⒸ , Owen Goodacre
+Munich Pēgasos	3rd	Closing Government	Alex McCreadieⒸ , Owen Goodacre
+HGHS no solvency	4th	Closing Opposition	Marina KojićⒸ
+SISU Manphia	2nd	Opening Opposition	Marina KojićⒸ
+UCLA Opinionators	3rd	Opening Government	Marina KojićⒸ
+Ateneo 1	1st	Closing Government	Marina KojićⒸ
+Sofia A	1st	Closing Government	Anna ShrederⒸ
+Nottingham Melodifestivalen Fan Club	3rd	Opening Government	Anna ShrederⒸ
+NTU HO	4th	Opening Opposition	Anna ShrederⒸ
+St Andrews jasmine analysis: fragrant with a	2nd	Closing Opposition	Anna ShrederⒸ
+UCD L&amp;H A	3rd	Opening Opposition	Joseph LewisⒸ
+TCD Phil A	1st	Opening Government	Joseph LewisⒸ
+NUS LL	2nd	Closing Opposition	Joseph LewisⒸ
+Cornell OM	4th	Closing Government	Joseph LewisⒸ
+BJ A	3rd	Closing Government	Lucy McManusⒸ , Daniel Walsh
+Started from mail-order brides now	1st	Closing Opposition	Lucy McManusⒸ , Daniel Walsh
+Swing A	4th	Opening Government	Lucy McManusⒸ , Daniel Walsh
+Technion not throwing the wolves to the wol	2nd	Opening Opposition	Lucy McManusⒸ , Daniel Walsh
+qfin ppl	3rd	Opening Opposition	Mukhtar TashkenbayevⒸ , Tommy Koh
+Harvard no confidence in this case	1st	Closing Government	Mukhtar TashkenbayevⒸ , Tommy Koh
+UNSW B	4th	Closing Opposition	Mukhtar TashkenbayevⒸ , Tommy Koh
+BUET No name cause our minds went blank	2nd	Opening Government	Mukhtar TashkenbayevⒸ , Tommy Koh
+Dartmouth am i visible	2nd	Closing Opposition	Dino WildiⒸ , Mezen Lababidi
+Edinburgh Bunker vaping call that Enver Hoxh	4th	Closing Government	Dino WildiⒸ , Mezen Lababidi
+Harvard LT	1st	Opening Opposition	Dino WildiⒸ , Mezen Lababidi
+BINUS A	3rd	Opening Government	Dino WildiⒸ , Mezen Lababidi
+Sofia B(	2nd	Closing Opposition	Amelia PotockaⒸ , Ryosei Kobayashi
+Chicago JR	1st	Opening Government	Amelia PotockaⒸ , Ryosei Kobayashi
+PUCP A	3rd	Opening Opposition	Amelia PotockaⒸ , Ryosei Kobayashi
+BGU strategic 4th	4th	Closing Government	Amelia PotockaⒸ , Ryosei Kobayashi
+NUS Pu Bor	1st	Opening Government	Liam UrbanⒸ , V Sayiram
+KNUST Attakpah and Ametu	2nd	Opening Opposition	Liam UrbanⒸ , V Sayiram
+Ghana Team Avatar	3rd	Closing Opposition	Liam UrbanⒸ , V Sayiram
+Ambedkar I can&#x27;t	4th	Closing Government	Liam UrbanⒸ , V Sayiram
+Melbourne Bye, Melbourne Mini!	1st	Closing Government	Pjotr KosterⒸ , Sam Penno
+NUS Boy Bawang	2nd	Opening Opposition	Pjotr KosterⒸ , Sam Penno
+Chula A	4th	Closing Opposition	Pjotr KosterⒸ , Sam Penno
+TAU R&amp;O	3rd	Opening Government	Pjotr KosterⒸ , Sam Penno
+Palm	3rd	Opening Government	Paolo TainoⒸ
+Oxford Epistemic Authority	2nd	Opening Opposition	Paolo TainoⒸ
+Korea Fish bread with red beans	4th	Closing Government	Paolo TainoⒸ
+Cambridge Do You Know?	1st	Closing Opposition	Paolo TainoⒸ
+DK Wien Vienna B	4th	Closing Opposition	Shireen AliⒸ , Andrew Chen
+Sydney B	1st	Opening Opposition	Shireen AliⒸ , Andrew Chen
+Sydney Druce &amp; Kuo	2nd	Opening Government	Shireen AliⒸ , Andrew Chen
+Cambridge SG	3rd	Closing Government	Shireen AliⒸ , Andrew Chen
+Skyrocket	4th	Closing Government	Leauren S. JiⒸ , Saleem Salisu
+TCD Hist A	2nd	Opening Government	Leauren S. JiⒸ , Saleem Salisu
+AUEB Voyager 1 &amp; 2	3rd	Closing Opposition	Leauren S. JiⒸ , Saleem Salisu
+Chicago GK	1st	Opening Opposition	Leauren S. JiⒸ , Saleem Salisu
+UPD Garcia &amp; Legaspi	1st	Closing Government	Oisín BrowneⒸ , Auguste McNally
+Durham WE	4th	Opening Government	Oisín BrowneⒸ , Auguste McNally
+Bates MO	3rd	Closing Opposition	Oisín BrowneⒸ , Auguste McNally
+Sciences Po Wawaweewa	2nd	Opening Opposition	Oisín BrowneⒸ , Auguste McNally
+Berlin A	4th	Opening Opposition	Chesta BⒸ , Choy Sum Yee Evelyn
+UL Team SL	2nd	Closing Government	Chesta BⒸ , Choy Sum Yee Evelyn
+Thammasat Fluffy Quokka	3rd	Opening Government	Chesta BⒸ , Choy Sum Yee Evelyn
+Oxford DN	1st	Closing Opposition	Chesta BⒸ , Choy Sum Yee Evelyn
+Monash Mutually Assured Destruction B	4th	Closing Government	Kevin LeeⒸ , Chu Duc An
+Chicago RJ	1st	Opening Government	Kevin LeeⒸ , Chu Duc An
+Harvard AS	3rd	Opening Opposition	Kevin LeeⒸ , Chu Duc An
+TAU Swing A	2nd	Closing Opposition	Kevin LeeⒸ , Chu Duc An
+Mice In Our Walls	1st	Opening Opposition	Lior SokolⒸ
+Imperial B(ackstreet&#x27;s back ALRIGHT)	2nd	Opening Government	Lior SokolⒸ
+Rosario A (Sloterdijk)	3rd	Closing Government	Lior SokolⒸ
+BGU DNS	4th	Closing Opposition	Lior SokolⒸ
+IUB Birdie Association	1st	Opening Government	Ethan CurryⒸ , Veda Nair
+Seoul Chimaek	4th	Closing Government	Ethan CurryⒸ , Veda Nair
+BUET C	2nd	Closing Opposition	Ethan CurryⒸ , Veda Nair
+Chile Flo and Peralta Inc.	3rd	Opening Opposition	Ethan CurryⒸ , Veda Nair
+Tokyo Climb up the debating ladder	4th	Opening Government	Zach Godley-McAvoyⒸ , Xinyu Hu
+NUS Rise too high must fall	3rd	Opening Opposition	Zach Godley-McAvoyⒸ , Xinyu Hu
+Reichman A	1st	Closing Opposition	Zach Godley-McAvoyⒸ , Xinyu Hu
+De La Salle Kuo Tiffany	2nd	Closing Government	Zach Godley-McAvoyⒸ , Xinyu Hu
+TCD Hist B	4th	Closing Government	Josef MoscoviciⒸ
+Budapest A	2nd	Opening Opposition	Josef MoscoviciⒸ
+De La Salle AA	1st	Opening Government	Josef MoscoviciⒸ
+Aalto Finnished	3rd	Closing Opposition	Josef MoscoviciⒸ
+Manthan you&#x27;re on your own kid	4th	Opening Government	Nathaniel YoonⒸ
+NTU NL	3rd	Closing Government	Nathaniel YoonⒸ
+Split Otrova u chay	2nd	Opening Opposition	Nathaniel YoonⒸ
+Zagreb A	1st	Closing Opposition	Nathaniel YoonⒸ
+TCD Phil B	4th	Closing Government	Theo DorfnerⒸ , Lucie Slamova
+KNOBS A	3rd	Opening Government	Theo DorfnerⒸ , Lucie Slamova
+HUJI It&#x27;s not new information it&#x27;s rest	2nd	Opening Opposition	Theo DorfnerⒸ , Lucie Slamova
+LSE A	1st	Closing Opposition	Theo DorfnerⒸ , Lucie Slamova
+HUJI Hujilicious	2nd	Opening Government	Youngwoo ParkⒸ , Tousif Tanvir Alam
+Bucharest A(ustria&#x27;s immigration problem)	1st	Closing Government	Youngwoo ParkⒸ , Tousif Tanvir Alam
+Oxford MF	3rd	Closing Opposition	Youngwoo ParkⒸ , Tousif Tanvir Alam
+Cambridge HCI A	4th	Opening Opposition	Youngwoo ParkⒸ , Tousif Tanvir Alam
+
+
+team	result	side	adjudicators
+Mice In Our Walls	1st	Opening Government	Youngwoo ParkⒸ , Andrew Chen
+Chicago GK	2nd	Closing Government	Youngwoo ParkⒸ , Andrew Chen
+Reichman A	3rd	Opening Opposition	Youngwoo ParkⒸ , Andrew Chen
+De La Salle AA	4th	Closing Opposition	Youngwoo ParkⒸ , Andrew Chen
+BJ A	1st	Opening Opposition	Ethan CurryⒸ , Joanna Rzempoluch
+UCD L&amp;H A	3rd	Closing Opposition	Ethan CurryⒸ , Joanna Rzempoluch
+Ghana Team Avatar	4th	Opening Government	Ethan CurryⒸ , Joanna Rzempoluch
+Harvard AS	2nd	Closing Government	Ethan CurryⒸ , Joanna Rzempoluch
+Tokyo YY	2nd	Closing Government	Anna ShrederⒸ , Mezen Lababidi
+NUS Rise too high must fall	1st	Opening Government	Anna ShrederⒸ , Mezen Lababidi
+Yale-NUS We&#x27;re Both Asian We Swear	3rd	Opening Opposition	Anna ShrederⒸ , Mezen Lababidi
+Munich Pēgasos	4th	Closing Opposition	Anna ShrederⒸ , Mezen Lababidi
+NUS Pu Bor	4th	Closing Government	Lior SokolⒸ , Saleem Salisu
+Chicago JR	3rd	Closing Opposition	Lior SokolⒸ , Saleem Salisu
+Imperial A	2nd	Opening Government	Lior SokolⒸ , Saleem Salisu
+Zagreb A	1st	Opening Opposition	Lior SokolⒸ , Saleem Salisu
+Palm	4th	Closing Government	William SmithⒸ , Tousif Tanvir Alam
+KNOBS A	2nd	Closing Opposition	William SmithⒸ , Tousif Tanvir Alam
+Nottingham Melodifestivalen Fan Club	3rd	Opening Opposition	William SmithⒸ , Tousif Tanvir Alam
+AUEB Voyager 1 &amp; 2	1st	Opening Government	William SmithⒸ , Tousif Tanvir Alam
+HUJI It&#x27;s not new information it&#x27;s rest	1st	Closing Government	Dino WildiⒸ , Veda Nair
+NUS LL	2nd	Opening Opposition	Dino WildiⒸ , Veda Nair
+Technion not throwing the wolves to the wol	4th	Closing Opposition	Dino WildiⒸ , Veda Nair
+KNUST Attakpah and Ametu	3rd	Opening Government	Dino WildiⒸ , Veda Nair
+Sofia A	3rd	Closing Opposition	Nathaniel YoonⒸ , Katharina Jansen
+Bucharest A(ustria&#x27;s immigration problem)	2nd	Opening Opposition	Nathaniel YoonⒸ , Katharina Jansen
+Oxford DN	4th	Closing Government	Nathaniel YoonⒸ , Katharina Jansen
+Harvard no confidence in this case	1st	Opening Government	Nathaniel YoonⒸ , Katharina Jansen
+Melbourne Bye, Melbourne Mini!	4th	Closing Opposition	Joseph LewisⒸ
+IUB Birdie Association	3rd	Closing Government	Joseph LewisⒸ
+Harvard LT	2nd	Opening Government	Joseph LewisⒸ
+LSE A	1st	Opening Opposition	Joseph LewisⒸ
+Melbourne B	3rd	Opening Opposition	Kevin LeeⒸ , Lucie Slamova
+NTU SG	4th	Closing Government	Kevin LeeⒸ , Lucie Slamova
+Oxford KE	1st	Closing Opposition	Kevin LeeⒸ , Lucie Slamova
+Cambridge Do You Know?	2nd	Opening Government	Kevin LeeⒸ , Lucie Slamova
+Tokyo Climb up the debating ladder	3rd	Closing Opposition	Theo DorfnerⒸ
+Durham WE	2nd	Opening Opposition	Theo DorfnerⒸ
+Bucharest B(ulgaria should be in Schengen)	4th	Closing Government	Theo DorfnerⒸ
+Cornell OM	1st	Opening Government	Theo DorfnerⒸ
+Sydney Freeland and Bakker	2nd	Closing Opposition	Mukhtar TashkenbayevⒸ , Daniel Walsh
+Thammasat Fluffy Quokka	4th	Closing Government	Mukhtar TashkenbayevⒸ , Daniel Walsh
+Harvard BB	1st	Opening Government	Mukhtar TashkenbayevⒸ , Daniel Walsh
+UCLA Opinionators	3rd	Opening Opposition	Mukhtar TashkenbayevⒸ , Daniel Walsh
+Started from mail-order brides now	3rd	Opening Government	Sher May NarⒸ , Tommy Koh
+Sydney B	4th	Closing Government	Sher May NarⒸ , Tommy Koh
+Chicago HP	1st	Opening Opposition	Sher May NarⒸ , Tommy Koh
+Ateneo 1	2nd	Closing Opposition	Sher May NarⒸ , Tommy Koh
+HUJI Hujilicious	4th	Closing Government	Shireen AliⒸ , Chu Duc An
+Dartmouth am i visible	1st	Opening Opposition	Shireen AliⒸ , Chu Duc An
+Oxford AP	2nd	Opening Government	Shireen AliⒸ , Chu Duc An
+Sciences Po Wawaweewa	3rd	Closing Opposition	Shireen AliⒸ , Chu Duc An
+DK Wien Vienna B	1st	Opening Government	Oisín BrowneⒸ
+Berlin A	3rd	Closing Government	Oisín BrowneⒸ
+UNSW B	2nd	Opening Opposition	Oisín BrowneⒸ
+Korea Fish bread with red beans	4th	Closing Opposition	Oisín BrowneⒸ
+Split Otrova u chay	4th	Closing Government	Leauren S. JiⒸ , Owen Goodacre
+UL Team SL	2nd	Opening Government	Leauren S. JiⒸ , Owen Goodacre
+Imperial B(ackstreet&#x27;s back ALRIGHT)	1st	Opening Opposition	Leauren S. JiⒸ , Owen Goodacre
+BUET No name cause our minds went blank	3rd	Closing Opposition	Leauren S. JiⒸ , Owen Goodacre
+Seoul Somaek	3rd	Closing Opposition	Diego DuarteⒸ , Maša Popesković
+BUET C	4th	Opening Opposition	Diego DuarteⒸ , Maša Popesković
+UNWE A(ustria let us in Schengen pls)	1st	Closing Government	Diego DuarteⒸ , Maša Popesković
+St Andrews jasmine analysis: fragrant with a	2nd	Opening Government	Diego DuarteⒸ , Maša Popesković
+qfin ppl	4th	Closing Opposition	Paolo TainoⒸ , Xinyu Hu
+PUCP A	3rd	Opening Government	Paolo TainoⒸ , Xinyu Hu
+BINUS A	1st	Closing Government	Paolo TainoⒸ , Xinyu Hu
+Bates MO	2nd	Opening Opposition	Paolo TainoⒸ , Xinyu Hu
+Sofia B(	1st	Opening Opposition	Helena HeckeⒸ , V Sayiram
+TCD Hist A	4th	Closing Opposition	Helena HeckeⒸ , V Sayiram
+Oxford Epistemic Authority	2nd	Closing Government	Helena HeckeⒸ , V Sayiram
+UCLA am-am	3rd	Opening Government	Helena HeckeⒸ , V Sayiram
+Harvard CH	1st	Opening Opposition	Zach Godley-McAvoyⒸ
+Zagreb LF	2nd	Closing Government	Zach Godley-McAvoyⒸ
+BGU strategic 4th	4th	Closing Opposition	Zach Godley-McAvoyⒸ
+BGU DNS	3rd	Opening Government	Zach Godley-McAvoyⒸ
+Skyrocket	3rd	Opening Opposition	Ryosei KobayashiⒸ
+Chula A	2nd	Closing Government	Ryosei KobayashiⒸ
+Seoul Chimaek	4th	Opening Government	Ryosei KobayashiⒸ
+Warsaw (XD)	1st	Closing Opposition	Ryosei KobayashiⒸ
+Monash Mutually Assured Destruction B	1st	Opening Opposition	Sam PennoⒸ
+BUET B	4th	Closing Government	Sam PennoⒸ
+Cambridge HCI A	3rd	Closing Opposition	Sam PennoⒸ
+Cambridge we dont know	2nd	Opening Government	Sam PennoⒸ
+CEU	4th	Closing Government	Anqi LiⒸ
+Manthan you&#x27;re on your own kid	1st	Opening Opposition	Anqi LiⒸ
+NTU HO	2nd	Opening Government	Anqi LiⒸ
+Ambedkar I can&#x27;t	3rd	Closing Opposition	Anqi LiⒸ
+NTU NL	2nd	Closing Opposition	Josef MoscoviciⒸ , Mahesh R
+Oxford MF	1st	Opening Opposition	Josef MoscoviciⒸ , Mahesh R
+TAU R&amp;O	4th	Closing Government	Josef MoscoviciⒸ , Mahesh R
+Rosario A (Sloterdijk)	3rd	Opening Government	Josef MoscoviciⒸ , Mahesh R
+Swing TAU Ayy	3rd	Closing Government	Amelia PotockaⒸ
+Swing A	2nd	Opening Opposition	Amelia PotockaⒸ
+Athens A	1st	Closing Opposition	Amelia PotockaⒸ
+Chicago LW	4th	Opening Government	Amelia PotockaⒸ
+TCD Phil B	2nd	Closing Opposition	Chesta BⒸ
+HGHS no solvency	3rd	Closing Government	Chesta BⒸ
+Edinburgh Bunker vaping call that Enver Hoxh	1st	Opening Opposition	Chesta BⒸ
+Chicago MP	4th	Opening Government	Chesta BⒸ
+Tokyo Garden Dog	1st	Opening Opposition	Alex McCreadieⒸ , Choy Sum Yee Evelyn
+Monash D	3rd	Closing Government	Alex McCreadieⒸ , Choy Sum Yee Evelyn
+Chile Flo and Peralta Inc.	4th	Closing Opposition	Alex McCreadieⒸ , Choy Sum Yee Evelyn
+Aalto Finnished	2nd	Opening Government	Alex McCreadieⒸ , Choy Sum Yee Evelyn
+UPD Garcia &amp; Legaspi	2nd	Opening Government	Lara DragojevicⒸ , Njuguna Macharia
+TCD Phil A	1st	Opening Opposition	Lara DragojevicⒸ , Njuguna Macharia
+Tokyo YT	3rd	Closing Opposition	Lara DragojevicⒸ , Njuguna Macharia
+Chicago RJ	4th	Closing Government	Lara DragojevicⒸ , Njuguna Macharia
+Yeonwoo and Salleh	2nd	Closing Opposition	Lucy McManusⒸ , Auguste McNally
+SISU Manphia	4th	Closing Government	Lucy McManusⒸ , Auguste McNally
+TAU Swing A	1st	Opening Government	Lucy McManusⒸ , Auguste McNally
+LSE Finally prepping worlds with the r	3rd	Opening Opposition	Lucy McManusⒸ , Auguste McNally
+NUS Boy Bawang	1st	Closing Government	Liam UrbanⒸ , Pratham Dikshit
+Budapest A	4th	Opening Government	Liam UrbanⒸ , Pratham Dikshit
+Sydney Druce &amp; Kuo	2nd	Opening Opposition	Liam UrbanⒸ , Pratham Dikshit
+De La Salle Kuo Tiffany	3rd	Closing Opposition	Liam UrbanⒸ , Pratham Dikshit
+
+
+team	result	side	adjudicators
+TCD Hist A	4th	Closing Government	Liam UrbanⒸ , Xinyu Hu
+Zagreb LF	3rd	Closing Opposition	Liam UrbanⒸ , Xinyu Hu
+UNSW B	1st	Opening Government	Liam UrbanⒸ , Xinyu Hu
+Cambridge we dont know	2nd	Opening Opposition	Liam UrbanⒸ , Xinyu Hu
+qfin ppl	1st	Opening Government	Lara DragojevicⒸ , Daniel Walsh
+TAU R&amp;O	2nd	Closing Opposition	Lara DragojevicⒸ , Daniel Walsh
+BGU DNS	4th	Closing Government	Lara DragojevicⒸ , Daniel Walsh
+Munich Pēgasos	3rd	Opening Opposition	Lara DragojevicⒸ , Daniel Walsh
+Sofia A	1st	Opening Government	Anna ShrederⒸ , Chu Duc An
+NUS Pu Bor	2nd	Closing Opposition	Anna ShrederⒸ , Chu Duc An
+Oxford MF	4th	Closing Government	Anna ShrederⒸ , Chu Duc An
+BINUS A	3rd	Opening Opposition	Anna ShrederⒸ , Chu Duc An
+Nottingham Melodifestivalen Fan Club	2nd	Closing Opposition	Juanita Hincapié RestrepoⒸ , Sam Penno
+Manthan you&#x27;re on your own kid	4th	Closing Government	Juanita Hincapié RestrepoⒸ , Sam Penno
+Sydney Freeland and Bakker	1st	Opening Opposition	Juanita Hincapié RestrepoⒸ , Sam Penno
+De La Salle Kuo Tiffany	3rd	Opening Government	Juanita Hincapié RestrepoⒸ , Sam Penno
+Melbourne B	2nd	Closing Government	Andrew ChenⒸ
+Tokyo Garden Dog	4th	Closing Opposition	Andrew ChenⒸ
+Tokyo YT	1st	Opening Government	Andrew ChenⒸ
+AUEB Voyager 1 &amp; 2	3rd	Opening Opposition	Andrew ChenⒸ
+Yeonwoo and Salleh	4th	Opening Opposition	Josef MoscoviciⒸ , Chesta B
+Dartmouth am i visible	1st	Opening Government	Josef MoscoviciⒸ , Chesta B
+Chicago GK	2nd	Closing Opposition	Josef MoscoviciⒸ , Chesta B
+Cambridge Do You Know?	3rd	Closing Government	Josef MoscoviciⒸ , Chesta B
+Swing TAU Ayy	3rd	Opening Opposition	Mahesh RⒸ
+TCD Hist B	4th	Closing Opposition	Mahesh RⒸ
+Ghana Team Avatar	2nd	Closing Government	Mahesh RⒸ
+Cambridge HCI A	1st	Opening Government	Mahesh RⒸ
+TCD Phil A	3rd	Closing Opposition	Jason XiaoⒸ
+Oxford KE	4th	Closing Government	Jason XiaoⒸ
+Harvard no confidence in this case	2nd	Opening Opposition	Jason XiaoⒸ
+LSE A	1st	Opening Government	Jason XiaoⒸ
+Melbourne Bye, Melbourne Mini!	2nd	Opening Opposition	Kevin LeeⒸ , Leauren S. Ji
+Seoul Somaek	3rd	Opening Government	Kevin LeeⒸ , Leauren S. Ji
+Sydney B	1st	Closing Opposition	Kevin LeeⒸ , Leauren S. Ji
+Bates MO	4th	Closing Government	Kevin LeeⒸ , Leauren S. Ji
+Athens A	1st	Opening Government	Marina KojićⒸ
+Chicago RJ	3rd	Closing Opposition	Marina KojićⒸ
+Oxford DN	2nd	Opening Opposition	Marina KojićⒸ
+Sciences Po Wawaweewa	4th	Closing Government	Marina KojićⒸ
+UPD Garcia &amp; Legaspi	2nd	Closing Opposition	Joseph LewisⒸ , Nathaniel Yoon
+Sofia B(	3rd	Opening Government	Joseph LewisⒸ , Nathaniel Yoon
+Imperial B(ackstreet&#x27;s back ALRIGHT)	4th	Closing Government	Joseph LewisⒸ , Nathaniel Yoon
+Ateneo 1	1st	Opening Opposition	Joseph LewisⒸ , Nathaniel Yoon
+Mice In Our Walls	2nd	Closing Opposition	William SmithⒸ , Ryosei Kobayashi
+Chicago HP	4th	Closing Government	William SmithⒸ , Ryosei Kobayashi
+Imperial A	3rd	Opening Opposition	William SmithⒸ , Ryosei Kobayashi
+Zagreb A	1st	Opening Government	William SmithⒸ , Ryosei Kobayashi
+Tokyo YY	3rd	Opening Opposition	Zach Godley-McAvoyⒸ , Tousif Tanvir Alam
+Technion not throwing the wolves to the wol	1st	Opening Government	Zach Godley-McAvoyⒸ , Tousif Tanvir Alam
+UCLA Opinionators	4th	Closing Government	Zach Godley-McAvoyⒸ , Tousif Tanvir Alam
+Yale-NUS We&#x27;re Both Asian We Swear	2nd	Closing Opposition	Zach Godley-McAvoyⒸ , Tousif Tanvir Alam
+Started from mail-order brides now	1st	Opening Opposition	Lior SokolⒸ , Katharina Jansen
+IUB Birdie Association	4th	Closing Opposition	Lior SokolⒸ , Katharina Jansen
+Reichman A	3rd	Closing Government	Lior SokolⒸ , Katharina Jansen
+Oxford Epistemic Authority	2nd	Opening Government	Lior SokolⒸ , Katharina Jansen
+UCD L&amp;H A	1st	Opening Government	Youngwoo ParkⒸ , Auguste McNally
+Chula A	3rd	Opening Opposition	Youngwoo ParkⒸ , Auguste McNally
+Split Otrova u chay	4th	Closing Opposition	Youngwoo ParkⒸ , Auguste McNally
+PUCP A	2nd	Closing Government	Youngwoo ParkⒸ , Auguste McNally
+CEU	4th	Opening Opposition	Owen GoodacreⒸ
+Bucharest B(ulgaria should be in Schengen)	2nd	Closing Opposition	Owen GoodacreⒸ
+Chicago MP	1st	Closing Government	Owen GoodacreⒸ
+BGU strategic 4th	3rd	Opening Government	Owen GoodacreⒸ
+BJ A	2nd	Opening Government	Paolo TainoⒸ , Anqi Li
+KNOBS A	3rd	Opening Opposition	Paolo TainoⒸ , Anqi Li
+NUS Rise too high must fall	4th	Closing Government	Paolo TainoⒸ , Anqi Li
+Sydney Druce &amp; Kuo	1st	Closing Opposition	Paolo TainoⒸ , Anqi Li
+HGHS no solvency	1st	Opening Government	Diego DuarteⒸ
+Chicago LW	4th	Opening Opposition	Diego DuarteⒸ
+Thammasat Fluffy Quokka	3rd	Closing Opposition	Diego DuarteⒸ
+Chile Flo and Peralta Inc.	2nd	Closing Government	Diego DuarteⒸ
+Budapest A	4th	Closing Opposition	Njuguna MachariaⒸ , Amelia Potocka
+NTU SG	1st	Opening Government	Njuguna MachariaⒸ , Amelia Potocka
+De La Salle AA	2nd	Closing Government	Njuguna MachariaⒸ , Amelia Potocka
+BUET No name cause our minds went blank	3rd	Opening Opposition	Njuguna MachariaⒸ , Amelia Potocka
+HUJI It&#x27;s not new information it&#x27;s rest	2nd	Opening Government	Sher May NarⒸ
+Bucharest A(ustria&#x27;s immigration problem)	4th	Closing Opposition	Sher May NarⒸ
+Harvard LT	1st	Closing Government	Sher May NarⒸ
+St Andrews jasmine analysis: fragrant with a	3rd	Opening Opposition	Sher May NarⒸ
+HUJI Hujilicious	3rd	Closing Opposition	Alex McCreadieⒸ , Mezen Lababidi
+NTU HO	1st	Closing Government	Alex McCreadieⒸ , Mezen Lababidi
+Rosario A (Sloterdijk)	2nd	Opening Opposition	Alex McCreadieⒸ , Mezen Lababidi
+BUET C	4th	Opening Government	Alex McCreadieⒸ , Mezen Lababidi
+Swing A	1st	Closing Government	Dino WildiⒸ , Joanna Rzempoluch
+Monash D	2nd	Closing Opposition	Dino WildiⒸ , Joanna Rzempoluch
+SISU Manphia	3rd	Opening Government	Dino WildiⒸ , Joanna Rzempoluch
+Ambedkar I can&#x27;t	4th	Opening Opposition	Dino WildiⒸ , Joanna Rzempoluch
+Skyrocket	4th	Closing Opposition	V SayiramⒸ , Pratham Dikshit
+Palm	3rd	Opening Opposition	V SayiramⒸ , Pratham Dikshit
+Tokyo Climb up the debating ladder	2nd	Closing Government	V SayiramⒸ , Pratham Dikshit
+Berlin A	1st	Opening Government	V SayiramⒸ , Pratham Dikshit
+NUS LL	1st	Opening Government	Lucie SlamovaⒸ
+Chicago JR	2nd	Closing Government	Lucie SlamovaⒸ
+Oxford AP	3rd	Opening Opposition	Lucie SlamovaⒸ
+Harvard BB	4th	Closing Opposition	Lucie SlamovaⒸ
+Monash Mutually Assured Destruction B	3rd	Closing Opposition	Narayan SharmaⒸ , Saleem Salisu
+DK Wien Vienna B	1st	Opening Opposition	Narayan SharmaⒸ , Saleem Salisu
+NTU NL	2nd	Opening Government	Narayan SharmaⒸ , Saleem Salisu
+Aalto Finnished	4th	Closing Government	Narayan SharmaⒸ , Saleem Salisu
+NUS Boy Bawang	3rd	Closing Opposition	Jessica MusulinⒸ , Oisín Browne
+UL Team SL	4th	Opening Opposition	Jessica MusulinⒸ , Oisín Browne
+TAU Swing A	1st	Closing Government	Jessica MusulinⒸ , Oisín Browne
+UNWE A(ustria let us in Schengen pls)	2nd	Opening Government	Jessica MusulinⒸ , Oisín Browne
+Harvard CH	2nd	Opening Government	Shireen AliⒸ , Choy Sum Yee Evelyn
+UCLA am-am	1st	Opening Opposition	Shireen AliⒸ , Choy Sum Yee Evelyn
+Warsaw (XD)	4th	Closing Government	Shireen AliⒸ , Choy Sum Yee Evelyn
+LSE Finally prepping worlds with the r	3rd	Closing Opposition	Shireen AliⒸ , Choy Sum Yee Evelyn
+Durham WE	4th	Closing Opposition	Mukhtar TashkenbayevⒸ , Veda Nair
+Edinburgh Bunker vaping call that Enver Hoxh	2nd	Opening Government	Mukhtar TashkenbayevⒸ , Veda Nair
+KNUST Attakpah and Ametu	3rd	Closing Government	Mukhtar TashkenbayevⒸ , Veda Nair
+Cornell OM	1st	Opening Opposition	Mukhtar TashkenbayevⒸ , Veda Nair
+Swing B	4th	Closing Government	Maša PopeskovićⒸ
+Seoul Chimaek	1st	Closing Opposition	Maša PopeskovićⒸ
+Korea Fish bread with red beans	3rd	Opening Opposition	Maša PopeskovićⒸ
+BUET B	2nd	Opening Government	Maša PopeskovićⒸ
+
+
+team	result	side	adjudicators
+BJ A	4th	Closing Opposition	Mukhtar TashkenbayevⒸ , Auguste McNally , Njuguna Macharia
+Started from mail-order brides now	2nd	Opening Government	Mukhtar TashkenbayevⒸ , Auguste McNally , Njuguna Macharia
+UPD Garcia &amp; Legaspi	1st	Opening Opposition	Mukhtar TashkenbayevⒸ , Auguste McNally , Njuguna Macharia
+Sydney Druce &amp; Kuo	3rd	Closing Government	Mukhtar TashkenbayevⒸ , Auguste McNally , Njuguna Macharia
+Swing TAU Ayy	1st	Closing Opposition	Oisín BrowneⒸ
+Tokyo YY	2nd	Closing Government	Oisín BrowneⒸ
+Chula A	3rd	Opening Government	Oisín BrowneⒸ
+Ghana Team Avatar	4th	Opening Opposition	Oisín BrowneⒸ
+Swing B	4th	Opening Opposition	Sam PennoⒸ
+TCD Hist B	2nd	Opening Government	Sam PennoⒸ
+CEU	3rd	Closing Opposition	Sam PennoⒸ
+Chicago LW	1st	Closing Government	Sam PennoⒸ
+NUS Pu Bor	4th	Opening Opposition	Paolo TainoⒸ , Saleem Salisu
+Reichman A	3rd	Opening Government	Paolo TainoⒸ , Saleem Salisu
+Oxford AP	2nd	Closing Government	Paolo TainoⒸ , Saleem Salisu
+Harvard CH	1st	Closing Opposition	Paolo TainoⒸ , Saleem Salisu
+Monash Mutually Assured Destruction B	1st	Opening Government	Lara DragojevicⒸ , Vija Turulytė
+KNUST Attakpah and Ametu	3rd	Closing Opposition	Lara DragojevicⒸ , Vija Turulytė
+De La Salle Kuo Tiffany	4th	Opening Opposition	Lara DragojevicⒸ , Vija Turulytė
+LSE Finally prepping worlds with the r	2nd	Closing Government	Lara DragojevicⒸ , Vija Turulytė
+Yeonwoo and Salleh	2nd	Opening Government	Youngwoo ParkⒸ , Mezen Lababidi
+Berlin A	4th	Closing Opposition	Youngwoo ParkⒸ , Mezen Lababidi
+Chicago RJ	3rd	Opening Opposition	Youngwoo ParkⒸ , Mezen Lababidi
+Cambridge we dont know	1st	Closing Government	Youngwoo ParkⒸ , Mezen Lababidi
+HGHS no solvency	4th	Opening Opposition	Theo DorfnerⒸ
+Seoul Somaek	1st	Closing Government	Theo DorfnerⒸ
+Rosario A (Sloterdijk)	3rd	Closing Opposition	Theo DorfnerⒸ
+Cambridge HCI A	2nd	Opening Government	Theo DorfnerⒸ
+Sofia A	1st	Opening Opposition	William SmithⒸ , Katharina Jansen , Pratham Dikshit
+HUJI It&#x27;s not new information it&#x27;s rest	4th	Closing Opposition	William SmithⒸ , Katharina Jansen , Pratham Dikshit
+NUS LL	3rd	Closing Government	William SmithⒸ , Katharina Jansen , Pratham Dikshit
+UNWE A(ustria let us in Schengen pls)	2nd	Opening Government	William SmithⒸ , Katharina Jansen , Pratham Dikshit
+Sofia B(	3rd	Closing Government	Jessica MusulinⒸ , Daniel Walsh
+Sydney Freeland and Bakker	1st	Opening Government	Jessica MusulinⒸ , Daniel Walsh
+Chicago HP	4th	Closing Opposition	Jessica MusulinⒸ , Daniel Walsh
+Oxford KE	2nd	Opening Opposition	Jessica MusulinⒸ , Daniel Walsh
+HUJI Hujilicious	3rd	Closing Government	Anqi LiⒸ
+Chicago MP	1st	Closing Opposition	Anqi LiⒸ
+TAU R&amp;O	4th	Opening Opposition	Anqi LiⒸ
+Chile Flo and Peralta Inc.	2nd	Opening Government	Anqi LiⒸ
+Nottingham Melodifestivalen Fan Club	1st	Closing Government	Kevin LeeⒸ
+UL Team SL	4th	Closing Opposition	Kevin LeeⒸ
+Oxford MF	3rd	Opening Government	Kevin LeeⒸ
+Harvard BB	2nd	Opening Opposition	Kevin LeeⒸ
+Skyrocket	1st	Opening Government	Choy Sum Yee EvelynⒸ
+Swing C	2nd	Closing Opposition	Choy Sum Yee EvelynⒸ
+Korea Fish bread with red beans	4th	Closing Government	Choy Sum Yee EvelynⒸ
+BGU strategic 4th	3rd	Opening Opposition	Choy Sum Yee EvelynⒸ
+NUS Boy Bawang	2nd	Opening Government	Dino WildiⒸ , Andrew Chen
+NTU SG	4th	Closing Opposition	Dino WildiⒸ , Andrew Chen
+Athens A	1st	Opening Opposition	Dino WildiⒸ , Andrew Chen
+Imperial A	3rd	Closing Government	Dino WildiⒸ , Andrew Chen
+Oxford Epistemic Authority	3rd	Closing Opposition	Joseph LewisⒸ , Xinyu Hu
+UCLA am-am	4th	Opening Government	Joseph LewisⒸ , Xinyu Hu
+Cambridge Do You Know?	2nd	Opening Opposition	Joseph LewisⒸ , Xinyu Hu
+St Andrews jasmine analysis: fragrant with a	1st	Closing Government	Joseph LewisⒸ , Xinyu Hu
+Melbourne Bye, Melbourne Mini!	1st	Opening Government	Wajeeh “look what the Kat dragged in” MaazⒸ , Joanna Rzempoluch
+AUEB Voyager 1 &amp; 2	3rd	Closing Government	Wajeeh “look what the Kat dragged in” MaazⒸ , Joanna Rzempoluch
+Imperial B(ackstreet&#x27;s back ALRIGHT)	4th	Closing Opposition	Wajeeh “look what the Kat dragged in” MaazⒸ , Joanna Rzempoluch
+De La Salle AA	2nd	Opening Opposition	Wajeeh “look what the Kat dragged in” MaazⒸ , Joanna Rzempoluch
+TCD Phil A	1st	Closing Government	Liam UrbanⒸ , Lucie Slamova
+Tokyo YT	3rd	Opening Opposition	Liam UrbanⒸ , Lucie Slamova
+Chicago GK	2nd	Opening Government	Liam UrbanⒸ , Lucie Slamova
+Cornell OM	4th	Closing Opposition	Liam UrbanⒸ , Lucie Slamova
+UCD L&amp;H A	3rd	Opening Opposition	Lior SokolⒸ , Veda Nair
+Oxford DN	2nd	Opening Government	Lior SokolⒸ , Veda Nair
+BINUS A	4th	Closing Opposition	Lior SokolⒸ , Veda Nair
+Yale-NUS We&#x27;re Both Asian We Swear	1st	Closing Government	Lior SokolⒸ , Veda Nair
+Palm	1st	Closing Opposition	Amelia PotockaⒸ
+Split Otrova u chay	2nd	Opening Government	Amelia PotockaⒸ
+Thammasat Fluffy Quokka	4th	Opening Opposition	Amelia PotockaⒸ
+BUET C	3rd	Closing Government	Amelia PotockaⒸ
+TCD Hist A	1st	Opening Opposition	Maša PopeskovićⒸ
+Budapest A	3rd	Closing Government	Maša PopeskovićⒸ
+Bucharest B(ulgaria should be in Schengen)	2nd	Opening Government	Maša PopeskovićⒸ
+UCLA Opinionators	4th	Closing Opposition	Maša PopeskovićⒸ
+Durham WE	1st	Closing Government	Mahesh RⒸ
+BGU DNS	3rd	Opening Opposition	Mahesh RⒸ
+BUET B	4th	Closing Opposition	Mahesh RⒸ
+Munich Pēgasos	2nd	Opening Government	Mahesh RⒸ
+SISU Manphia	3rd	Closing Opposition	V SayiramⒸ
+Bates MO	1st	Opening Government	V SayiramⒸ
+Sciences Po Wawaweewa	2nd	Closing Government	V SayiramⒸ
+Aalto Finnished	4th	Opening Opposition	V SayiramⒸ
+Mice In Our Walls	2nd	Closing Government	Marina KojićⒸ , Diego Duarte , Owen Goodacre
+Dartmouth am i visible	3rd	Opening Opposition	Marina KojićⒸ , Diego Duarte , Owen Goodacre
+Harvard no confidence in this case	4th	Closing Opposition	Marina KojićⒸ , Diego Duarte , Owen Goodacre
+Ateneo 1	1st	Opening Government	Marina KojićⒸ , Diego Duarte , Owen Goodacre
+Harvard LT	3rd	Closing Opposition	Shireen AliⒸ , Ryosei Kobayashi
+TAU Swing A	2nd	Opening Opposition	Shireen AliⒸ , Ryosei Kobayashi
+Zagreb A	4th	Opening Government	Shireen AliⒸ , Ryosei Kobayashi
+LSE A	1st	Closing Government	Shireen AliⒸ , Ryosei Kobayashi
+NTU HO	4th	Closing Opposition	Narayan SharmaⒸ , Chu Duc An
+IUB Birdie Association	1st	Opening Opposition	Narayan SharmaⒸ , Chu Duc An
+Edinburgh Bunker vaping call that Enver Hoxh	3rd	Opening Government	Narayan SharmaⒸ , Chu Duc An
+UNSW B	2nd	Closing Government	Narayan SharmaⒸ , Chu Duc An
+qfin ppl	3rd	Opening Opposition	Chesta BⒸ
+Monash D	4th	Opening Government	Chesta BⒸ
+KNOBS A	2nd	Closing Government	Chesta BⒸ
+NUS Rise too high must fall	1st	Closing Opposition	Chesta BⒸ
+Tokyo Climb up the debating ladder	4th	Opening Opposition	Leauren S. JiⒸ
+Manthan you&#x27;re on your own kid	2nd	Closing Opposition	Leauren S. JiⒸ
+Zagreb LF	1st	Opening Government	Leauren S. JiⒸ
+Warsaw (XD)	3rd	Closing Government	Leauren S. JiⒸ
+Melbourne B	2nd	Closing Opposition	Anna ShrederⒸ , Nathaniel Yoon
+DK Wien Vienna B	4th	Closing Government	Anna ShrederⒸ , Nathaniel Yoon
+Sydney B	1st	Opening Government	Anna ShrederⒸ , Nathaniel Yoon
+Chicago JR	3rd	Opening Opposition	Anna ShrederⒸ , Nathaniel Yoon
+Tokyo Garden Dog	2nd	Opening Government	Zach Godley-McAvoyⒸ
+Seoul Chimaek	4th	Opening Opposition	Zach Godley-McAvoyⒸ
+PUCP A	3rd	Closing Opposition	Zach Godley-McAvoyⒸ
+BUET No name cause our minds went blank	1st	Closing Government	Zach Godley-McAvoyⒸ
+Swing A	2nd	Closing Opposition	Juanita Hincapié RestrepoⒸ , Tousif Tanvir Alam
+Technion not throwing the wolves to the wol	3rd	Closing Government	Juanita Hincapié RestrepoⒸ , Tousif Tanvir Alam
+NTU NL	4th	Opening Opposition	Juanita Hincapié RestrepoⒸ , Tousif Tanvir Alam
+Bucharest A(ustria&#x27;s immigration problem)	1st	Opening Government	Juanita Hincapié RestrepoⒸ , Tousif Tanvir Alam
+
+
+team	result	side	adjudicators
+Technion not throwing the wolves to the wol	3rd	Opening Government	Ethan CurryⒸ , Chu Duc An
+Edinburgh Bunker vaping call that Enver Hoxh	2nd	Closing Opposition	Ethan CurryⒸ , Chu Duc An
+Chicago MP	4th	Opening Opposition	Ethan CurryⒸ , Chu Duc An
+Cambridge HCI A	1st	Closing Government	Ethan CurryⒸ , Chu Duc An
+Durham WE	4th	Closing Opposition	Leauren S. JiⒸ , Vija Turulytė
+Rosario A (Sloterdijk)	2nd	Opening Government	Leauren S. JiⒸ , Vija Turulytė
+BINUS A	1st	Closing Government	Leauren S. JiⒸ , Vija Turulytė
+Munich Pēgasos	3rd	Opening Opposition	Leauren S. JiⒸ , Vija Turulytė
+Sofia B(	1st	Opening Government	Sher May NarⒸ , Joanna Rzempoluch
+Seoul Somaek	4th	Opening Opposition	Sher May NarⒸ , Joanna Rzempoluch
+Chicago JR	3rd	Closing Government	Sher May NarⒸ , Joanna Rzempoluch
+Oxford AP	2nd	Closing Opposition	Sher May NarⒸ , Joanna Rzempoluch
+Palm	4th	Opening Government	Theo DorfnerⒸ
+Manthan you&#x27;re on your own kid	3rd	Opening Opposition	Theo DorfnerⒸ
+Chicago RJ	1st	Closing Government	Theo DorfnerⒸ
+PUCP A	2nd	Closing Opposition	Theo DorfnerⒸ
+Tokyo Climb up the debating ladder	3rd	Opening Government	Maša PopeskovićⒸ
+TCD Hist B	2nd	Opening Opposition	Maša PopeskovićⒸ
+Chicago LW	1st	Closing Opposition	Maša PopeskovićⒸ
+Aalto Finnished	4th	Closing Government	Maša PopeskovićⒸ
+Melbourne B	1st	Opening Government	Ryosei KobayashiⒸ , Helena Hecke , Katharina Jansen
+Harvard CH	2nd	Closing Government	Ryosei KobayashiⒸ , Helena Hecke , Katharina Jansen
+Harvard no confidence in this case	4th	Closing Opposition	Ryosei KobayashiⒸ , Helena Hecke , Katharina Jansen
+Cambridge Do You Know?	3rd	Opening Opposition	Ryosei KobayashiⒸ , Helena Hecke , Katharina Jansen
+Mice In Our Walls	3rd	Opening Opposition	Paolo TainoⒸ , V Sayiram
+TCD Phil A	1st	Closing Opposition	Paolo TainoⒸ , V Sayiram
+Athens A	4th	Opening Government	Paolo TainoⒸ , V Sayiram
+Zagreb A	2nd	Closing Government	Paolo TainoⒸ , V Sayiram
+Oxford Epistemic Authority	3rd	Opening Opposition	Hadar GoldbergⒸ , Daniel Walsh
+De La Salle AA	2nd	Opening Government	Hadar GoldbergⒸ , Daniel Walsh
+BUET No name cause our minds went blank	4th	Closing Opposition	Hadar GoldbergⒸ , Daniel Walsh
+Yale-NUS We&#x27;re Both Asian We Swear	1st	Closing Government	Hadar GoldbergⒸ , Daniel Walsh
+Skyrocket	4th	Closing Government	Amelia PotockaⒸ
+HUJI Hujilicious	2nd	Opening Opposition	Amelia PotockaⒸ
+SISU Manphia	3rd	Opening Government	Amelia PotockaⒸ
+TAU R&amp;O	1st	Closing Opposition	Amelia PotockaⒸ
+Split Otrova u chay	2nd	Closing Government	Chesta BⒸ
+UL Team SL	4th	Opening Government	Chesta BⒸ
+Bucharest B(ulgaria should be in Schengen)	3rd	Opening Opposition	Chesta BⒸ
+De La Salle Kuo Tiffany	1st	Closing Opposition	Chesta BⒸ
+Budapest A	4th	Closing Government	Xinyu HuⒸ
+Ghana Team Avatar	1st	Opening Government	Xinyu HuⒸ
+UCLA Opinionators	2nd	Opening Opposition	Xinyu HuⒸ
+BUET C	3rd	Closing Opposition	Xinyu HuⒸ
+BJ A	3rd	Opening Opposition	Pjotr KosterⒸ , Veda Nair
+DK Wien Vienna B	2nd	Closing Government	Pjotr KosterⒸ , Veda Nair
+NTU SG	4th	Closing Opposition	Pjotr KosterⒸ , Veda Nair
+LSE Finally prepping worlds with the r	1st	Opening Government	Pjotr KosterⒸ , Veda Nair
+Chula A	2nd	Opening Government	Tousif Tanvir AlamⒸ
+HGHS no solvency	4th	Closing Opposition	Tousif Tanvir AlamⒸ
+Seoul Chimaek	3rd	Closing Government	Tousif Tanvir AlamⒸ
+Warsaw (XD)	1st	Opening Opposition	Tousif Tanvir AlamⒸ
+CEU	3rd	Opening Government	Pratham DikshitⒸ
+Thammasat Fluffy Quokka	1st	Closing Government	Pratham DikshitⒸ
+BGU strategic 4th	4th	Closing Opposition	Pratham DikshitⒸ
+BGU DNS	2nd	Opening Opposition	Pratham DikshitⒸ
+UCD L&amp;H A	1st	Closing Government	Kevin LeeⒸ , Mezen Lababidi
+KNOBS A	4th	Opening Opposition	Kevin LeeⒸ , Mezen Lababidi
+Reichman A	2nd	Closing Opposition	Kevin LeeⒸ , Mezen Lababidi
+Cornell OM	3rd	Opening Government	Kevin LeeⒸ , Mezen Lababidi
+Monash Mutually Assured Destruction B	4th	Closing Opposition	Shireen AliⒸ , Saleem Salisu
+NUS Rise too high must fall	3rd	Opening Government	Shireen AliⒸ , Saleem Salisu
+Oxford DN	2nd	Closing Government	Shireen AliⒸ , Saleem Salisu
+Imperial A	1st	Opening Opposition	Shireen AliⒸ , Saleem Salisu
+Melbourne Bye, Melbourne Mini!	3rd	Closing Government	Narayan SharmaⒸ , Lucie Slamova , Owen Goodacre
+Tokyo YT	4th	Opening Government	Narayan SharmaⒸ , Lucie Slamova , Owen Goodacre
+HUJI It&#x27;s not new information it&#x27;s rest	2nd	Closing Opposition	Narayan SharmaⒸ , Lucie Slamova , Owen Goodacre
+Sydney Druce &amp; Kuo	1st	Opening Opposition	Narayan SharmaⒸ , Lucie Slamova , Owen Goodacre
+KNUST Attakpah and Ametu	2nd	Opening Opposition	Dino WildiⒸ
+Imperial B(ackstreet&#x27;s back ALRIGHT)	1st	Closing Government	Dino WildiⒸ
+Chile Flo and Peralta Inc.	4th	Closing Opposition	Dino WildiⒸ
+Sciences Po Wawaweewa	3rd	Opening Government	Dino WildiⒸ
+UPD Garcia &amp; Legaspi	4th	Closing Opposition	Joseph LewisⒸ , Anqi Li
+Sofia A	2nd	Opening Government	Joseph LewisⒸ , Anqi Li
+LSE A	1st	Opening Opposition	Joseph LewisⒸ , Anqi Li
+Ateneo 1	3rd	Closing Government	Joseph LewisⒸ , Anqi Li
+Yeonwoo and Salleh	2nd	Opening Opposition	Liam UrbanⒸ , Tommy Koh
+Tokyo Garden Dog	3rd	Opening Government	Liam UrbanⒸ , Tommy Koh
+Chicago HP	4th	Closing Opposition	Liam UrbanⒸ , Tommy Koh
+Harvard BB	1st	Closing Government	Liam UrbanⒸ , Tommy Koh
+Monash D	4th	Closing Government	Auguste McNallyⒸ
+NUS Pu Bor	3rd	Opening Opposition	Auguste McNallyⒸ
+NTU HO	2nd	Closing Opposition	Auguste McNallyⒸ
+Oxford MF	1st	Opening Government	Auguste McNallyⒸ
+Nottingham Melodifestivalen Fan Club	4th	Opening Government	Marina KojićⒸ , Sam Penno
+IUB Birdie Association	1st	Closing Government	Marina KojićⒸ , Sam Penno
+UNSW B	2nd	Opening Opposition	Marina KojićⒸ , Sam Penno
+Cambridge we dont know	3rd	Closing Opposition	Marina KojićⒸ , Sam Penno
+Started from mail-order brides now	1st	Closing Government	Mukhtar TashkenbayevⒸ , Youngwoo Park
+NUS Boy Bawang	3rd	Opening Government	Mukhtar TashkenbayevⒸ , Youngwoo Park
+Chicago GK	4th	Closing Opposition	Mukhtar TashkenbayevⒸ , Youngwoo Park
+UNWE A(ustria let us in Schengen pls)	2nd	Opening Opposition	Mukhtar TashkenbayevⒸ , Youngwoo Park
+qfin ppl	1st	Closing Government	Nathaniel YoonⒸ
+TCD Hist A	2nd	Opening Government	Nathaniel YoonⒸ
+Berlin A	3rd	Opening Opposition	Nathaniel YoonⒸ
+NTU NL	4th	Closing Opposition	Nathaniel YoonⒸ
+AUEB Voyager 1 &amp; 2	4th	Closing Opposition	William SmithⒸ , Choy Sum Yee Evelyn
+Zagreb LF	3rd	Opening Opposition	William SmithⒸ , Choy Sum Yee Evelyn
+UCLA am-am	2nd	Closing Government	William SmithⒸ , Choy Sum Yee Evelyn
+Bates MO	1st	Opening Government	William SmithⒸ , Choy Sum Yee Evelyn
+Dartmouth am i visible	2nd	Closing Government	Alex McCreadieⒸ , Andrew Chen , Mahesh R
+Sydney B	1st	Opening Opposition	Alex McCreadieⒸ , Andrew Chen , Mahesh R
+Sydney Freeland and Bakker	3rd	Opening Government	Alex McCreadieⒸ , Andrew Chen , Mahesh R
+Harvard LT	4th	Closing Opposition	Alex McCreadieⒸ , Andrew Chen , Mahesh R
+NUS LL	2nd	Closing Government	Zach Godley-McAvoyⒸ , Lucy McManus , Njuguna Macharia
+Bucharest A(ustria&#x27;s immigration problem)	3rd	Opening Government	Zach Godley-McAvoyⒸ , Lucy McManus , Njuguna Macharia
+Oxford KE	4th	Opening Opposition	Zach Godley-McAvoyⒸ , Lucy McManus , Njuguna Macharia
+St Andrews jasmine analysis: fragrant with a	1st	Closing Opposition	Zach Godley-McAvoyⒸ , Lucy McManus , Njuguna Macharia
+
+
+team	result	side	adjudicators
+Melbourne B	eliminated	Closing Opposition	Dino WildiⒸ , Lucie Slamova , Mahesh R
+Sydney Druce &amp; Kuo	advancing	Opening Opposition	Dino WildiⒸ , Lucie Slamova , Mahesh R
+Harvard CH	eliminated	Opening Government	Dino WildiⒸ , Lucie Slamova , Mahesh R
+Harvard LT	advancing	Closing Government	Dino WildiⒸ , Lucie Slamova , Mahesh R
+UPD Garcia &amp; Legaspi	eliminated	Closing Opposition	Leauren S. JiⒸ , Katharina Jansen , Owen Goodacre
+NUS Boy Bawang	eliminated	Opening Government	Leauren S. JiⒸ , Katharina Jansen , Owen Goodacre
+Imperial A	advancing	Closing Government	Leauren S. JiⒸ , Katharina Jansen , Owen Goodacre
+Zagreb A	advancing	Opening Opposition	Leauren S. JiⒸ , Katharina Jansen , Owen Goodacre
+Sofia B(	eliminated	Closing Opposition	Theo DorfnerⒸ , Anqi Li , Njuguna Macharia
+Chicago GK	advancing	Opening Government	Theo DorfnerⒸ , Anqi Li , Njuguna Macharia
+Yale-NUS We&#x27;re Both Asian We Swear	eliminated	Opening Opposition	Theo DorfnerⒸ , Anqi Li , Njuguna Macharia
+St Andrews jasmine analysis: fragrant with a	advancing	Closing Government	Theo DorfnerⒸ , Anqi Li , Njuguna Macharia
+Mice In Our Walls	advancing	Opening Government	Mukhtar TashkenbayevⒸ , Alex McCreadie , Oisín Browne
+NUS LL	eliminated	Opening Opposition	Mukhtar TashkenbayevⒸ , Alex McCreadie , Oisín Browne
+Sydney Freeland and Bakker	advancing	Closing Government	Mukhtar TashkenbayevⒸ , Alex McCreadie , Oisín Browne
+Bucharest A(ustria&#x27;s immigration problem)	eliminated	Closing Opposition	Mukhtar TashkenbayevⒸ , Alex McCreadie , Oisín Browne
+
+
+team	result	side	adjudicators
+Started from mail-order brides now	advancing	Closing Opposition	Alex McCreadieⒸ , Katharina Jansen , V Sayiram
+Sydney B	advancing	Closing Government	Alex McCreadieⒸ , Katharina Jansen , V Sayiram
+Sydney Druce &amp; Kuo	eliminated	Opening Opposition	Alex McCreadieⒸ , Katharina Jansen , V Sayiram
+Harvard LT	eliminated	Opening Government	Alex McCreadieⒸ , Katharina Jansen , V Sayiram
+TCD Phil A	advancing	Closing Opposition	Sher May NarⒸ , Lior Sokol , Ryosei Kobayashi
+Imperial A	eliminated	Opening Government	Sher May NarⒸ , Lior Sokol , Ryosei Kobayashi
+Zagreb A	advancing	Closing Government	Sher May NarⒸ , Lior Sokol , Ryosei Kobayashi
+UNWE A(ustria let us in Schengen pls)	eliminated	Opening Opposition	Sher May NarⒸ , Lior Sokol , Ryosei Kobayashi
+Sofia A	eliminated	Opening Government	Kevin LeeⒸ , Andrew Chen , Helena Hecke
+Chicago GK	eliminated	Closing Opposition	Kevin LeeⒸ , Andrew Chen , Helena Hecke
+St Andrews jasmine analysis: fragrant with a	advancing	Closing Government	Kevin LeeⒸ , Andrew Chen , Helena Hecke
+Ateneo 1	advancing	Opening Opposition	Kevin LeeⒸ , Andrew Chen , Helena Hecke
+Mice In Our Walls	eliminated	Closing Government	Paolo TainoⒸ , Chesta B , Joseph Lewis
+Dartmouth am i visible	eliminated	Opening Opposition	Paolo TainoⒸ , Chesta B , Joseph Lewis
+Sydney Freeland and Bakker	advancing	Opening Government	Paolo TainoⒸ , Chesta B , Joseph Lewis
+LSE A	advancing	Closing Opposition	Paolo TainoⒸ , Chesta B , Joseph Lewis
+
+
+team	result	side	adjudicators
+Started from mail-order brides now	eliminated	Closing Opposition	William SmithⒸ , Andrew Chen , Anqi Li , Leauren S. Ji , Theo Dorfner
+Sydney B	advancing	Opening Opposition	William SmithⒸ , Andrew Chen , Anqi Li , Leauren S. Ji , Theo Dorfner
+Sydney Freeland and Bakker	eliminated	Closing Government	William SmithⒸ , Andrew Chen , Anqi Li , Leauren S. Ji , Theo Dorfner
+LSE A	advancing	Opening Government	William SmithⒸ , Andrew Chen , Anqi Li , Leauren S. Ji , Theo Dorfner
+TCD Phil A	advancing	Closing Opposition	Marina KojićⒸ , Katharina Jansen , Mahesh R , Narayan Sharma , Youngwoo Park
+Zagreb A	eliminated	Opening Opposition	Marina KojićⒸ , Katharina Jansen , Mahesh R , Narayan Sharma , Youngwoo Park
+St Andrews jasmine analysis: fragrant with a	eliminated	Opening Government	Marina KojićⒸ , Katharina Jansen , Mahesh R , Narayan Sharma , Youngwoo Park
+Ateneo 1	advancing	Closing Government	Marina KojićⒸ , Katharina Jansen , Mahesh R , Narayan Sharma , Youngwoo Park
+
+
+team	result	side	adjudicators
+TCD Phil A	eliminated	Closing Government	Joseph LewisⒸ , Alex McCreadie , Marina Kojić , Njuguna Macharia , William Smith
+Sydney B	eliminated	Closing Opposition	Joseph LewisⒸ , Alex McCreadie , Marina Kojić , Njuguna Macharia , William Smith
+LSE A	advancing	Opening Opposition	Joseph LewisⒸ , Alex McCreadie , Marina Kojić , Njuguna Macharia , William Smith
+Ateneo 1	eliminated	Opening Government	Joseph LewisⒸ , Alex McCreadie , Marina Kojić , Njuguna Macharia , William Smith
+
+
+team	result	side	adjudicators
+qfin ppl	eliminated	Opening Government	Liam UrbanⒸ , Lucy McManus , Paolo Taino
+Tokyo YT	advancing	Closing Opposition	Liam UrbanⒸ , Lucy McManus , Paolo Taino
+Reichman A	eliminated	Closing Government	Liam UrbanⒸ , Lucy McManus , Paolo Taino
+De La Salle AA	advancing	Opening Opposition	Liam UrbanⒸ , Lucy McManus , Paolo Taino
+DK Wien Vienna B	advancing	Closing Opposition	Narayan SharmaⒸ , Helena Hecke , William Smith
+Athens A	eliminated	Closing Government	Narayan SharmaⒸ , Helena Hecke , William Smith
+BINUS A	eliminated	Opening Government	Narayan SharmaⒸ , Helena Hecke , William Smith
+Bates MO	advancing	Opening Opposition	Narayan SharmaⒸ , Helena Hecke , William Smith
+
+
+team	result	side	adjudicators
+Tokyo YT	eliminated	Closing Opposition	Shireen AliⒸ , Chesta B , Kevin Lee , Lior Sokol , Zach Godley-McAvoy
+DK Wien Vienna B	advancing	Opening Opposition	Shireen AliⒸ , Chesta B , Kevin Lee , Lior Sokol , Zach Godley-McAvoy
+Bates MO	eliminated	Closing Government	Shireen AliⒸ , Chesta B , Kevin Lee , Lior Sokol , Zach Godley-McAvoy
+De La Salle AA	eliminated	Opening Government	Shireen AliⒸ , Chesta B , Kevin Lee , Lior Sokol , Zach Godley-McAvoy
+
+
+team	result	side	adjudicators
+Monash Mutually Assured Destruction B	advancing	Opening Opposition	Zach Godley-McAvoyⒸ , Liam Urban , Lucy McManus , Marina Kojić , Youngwoo Park
+Oxford AP	eliminated	Closing Government	Zach Godley-McAvoyⒸ , Liam Urban , Lucy McManus , Marina Kojić , Youngwoo Park
+Oxford DN	eliminated	Closing Opposition	Zach Godley-McAvoyⒸ , Liam Urban , Lucy McManus , Marina Kojić , Youngwoo Park
+Cambridge HCI A	eliminated	Opening Government	Zach Godley-McAvoyⒸ , Liam Urban , Lucy McManus , Marina Kojić , Youngwoo Park
+

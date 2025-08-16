@@ -1,0 +1,679 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds	DSS	SSD
+1	Robbing rep for Rehan		3rd	1st	1st	1st	1st	13	792	4	0	10738.00	2.73
+2	sin cos tan tera soc mera fan		1st	1st	1st	1st	3rd	13	787	4	0	11624.00	1.85
+3	Swing 3		1st	1st	1st	1st	3rd	13	772	4	0	11215.00	2.15
+4	The couch	Novice	4th	1st	1st	1st	1st	12	790	4	0	11466.00	2.28
+5	Rohan resurrects another debater fr		1st	2nd	2nd	2nd	1st	12	786	2	3	11513.00	3.19
+6	Aman Mathur Fan Club		1st	1st	3rd	1st	2nd	12	778	3	1	11566.00	2.15
+7	Birthday Boys		1st	3rd	1st	2nd	2nd	11	778	2	2	10727.00	1.62
+8	IIUM pre 1971		1st	2nd	4th	1st	1st	11	777	3	1	11512.00	3.26
+9	Plod		1st	2nd	3rd	2nd	1st	11	772	2	2	10850.00	1.96
+10	first time team up		2nd	1st	2nd	3rd	2nd	10	782	1	3	11422.00	1.74
+11	MARA forgot to reg our team for ABP		1st	4th	1st	3rd	1st	10	777	3	0	10982.00	2.50
+12	IIUM 3		1st	1st	2nd	2nd	4th	10	777	2	2	11286.00	1.50
+13	Crispy chicken	Novice	1st	1st	4th	2nd	2nd	10	777	2	2	11208.00	3.26
+14	Shri Ram Pre-UPSC		2nd	1st	3rd	1st	3rd	10	777	2	1	11635.00	2.06
+15	Engineer got a DU hoe		2nd	3rd	2nd	2nd	1st	10	774	1	3	10499.00	2.32
+16	caffeinated n tired.	Novice	2nd	2nd	1st	4th	1st	10	760	2	2	10858.00	2.19
+17	daddy vipul blessed us today	Novice	1st	2nd	2nd	4th	2nd	9	777	1	3	11071.00	1.36
+18	We dont miss amal		2nd	3rd	2nd	3rd	1st	9	772	1	2	10816.00	2.06
+19	ray ray and jiay jiay		2nd	1st	1st	3rd	4th	9	771	2	1	11217.00	3.06
+20	Post apocalyptic 69 wing	Novice	2nd	2nd	3rd	1st	3rd	9	771	1	2	11052.00	1.60
+21	IITB Semester Exams after Semis		2nd	2nd	1st	4th	2nd	9	770	1	3	10861.00	0.89
+22	Kuchh bhi	Novice	1st	4th	2nd	1st	3rd	9	761	2	1	11515.00	3.12
+23	MARA Boys	Novice	2nd	2nd	2nd	4th	1st	9	761	1	3	11451.00	1.72
+24	Tsukuba HH		4th	3rd	1st	1st	2nd	9	757	2	1	10535.00	4.41
+25	Iron Person? More like Iron Deficie	Novice	2nd	4th	2nd	1st	2nd	9	754	1	3	10738.00	3.49
+26	Dragon Soup	Novice	3rd	4th	2nd	1st	1st	9	753	2	1	10468.00	4.32
+27	Justice for YoY Growth		1st	3rd	2nd	2nd	4th	8	774	1	2	11380.00	2.32
+28	I definitely know what’s happening 	Novice	2nd	2nd	3rd	3rd	2nd	8	769	0	3	10797.00	1.72
+29	Rina &amp; Yuki		3rd	1st	3rd	1st	4th	8	766	2	0	11001.00	4.07
+30	we wingmanned each other to each ot		3rd	2nd	1st	3rd	3rd	8	766	1	1	11121.00	2.23
+31	NSU A		2nd	3rd	2nd	2nd	3rd	8	766	0	3	10968.00	2.23
+32	GCC Ghilli Fanclub	Novice	2nd	1st	4th	4th	1st	8	765	2	1	11473.00	2.19
+33	Twin Pilots	Novice	2nd	3rd	3rd	1st	3rd	8	763	1	1	11274.00	1.62
+34	Bokachoda🦕	Novice	2nd	1st	3rd	3rd	3rd	8	763	1	1	10816.00	2.06
+35	Kya Karan Akshat break karenge	Novice	4th	2nd	1st	4th	1st	8	755	2	1	10109.00	3.29
+36	Teen Bhai Johnny Halwai	Novice	1st	4th	1st	4th	2nd	8	751	2	1	11107.00	4.31
+37	Intergalactic-Punjab Represent	Novice	4th	1st	3rd	2nd	2nd	8	750	1	2	10561.00	3.29
+38	Post Apocalyptic ki MKC	Novice	3rd	1st	4th	4th	1st	7	767	2	0	11092.00	3.14
+39	point taken	Novice	2nd	2nd	2nd	3rd	4th	7	767	0	3	11063.00	1.36
+40	Qubits	Novice	4th	2nd	2nd	2nd	3rd	7	762	0	3	11011.00	0.49
+41	NYP A	Novice	3rd	1st	3rd	4th	2nd	7	760	1	1	10753.00	3.10
+42	Not Like Us	Novice	1st	4th	2nd	3rd	3rd	7	758	1	1	10636.00	2.65
+43	POK Pookies	Novice	3rd	2nd	4th	2nd	2nd	7	755	0	3	11005.00	2.28
+44	hyderabad kolkata bhai bhai biriyan	Novice	4th	2nd	1st	2nd	4th	7	754	1	2	11389.00	2.04
+45	Argonauts	Novice	3rd	4th	1st	1st	4th	7	743	2	0	10879.00	2.24
+46	KFDI Raymond pls coach KFDI full ti	Novice	1st	3rd	4th	3rd	3rd	6	760	1	0	11430.00	2.10
+47	Ben10	Novice	4th	1st	3rd	2nd	4th	6	757	1	1	10943.00	2.24
+48	The Gene Pool Party	Novice	3rd	3rd	3rd	1st	4th	6	755	1	0	11134.00	1.67
+49	KFDI baby baby baby ohhh	Novice	3rd	2nd	3rd	2nd	4th	6	751	0	2	10734.00	2.56
+50	You Are A 10 On pH Scale	Novice	1st	4th	4th	3rd	2nd	6	745	1	1	11400.00	2.28
+51	Hum baat nahi, behes karte hai	Novice	4th	4th	2nd	1st	3rd	6	740	1	1	10393.00	3.63
+52	Ozymandias		4th	2nd	4th	3rd	1st	6	731	1	1	9712.00	5.60
+53	Tsukuba YY		1st	3rd	4th	3rd	4th	5	761	1	0	11082.00	2.93
+54	Tehelka omelette banaunga aaj	Novice	4th	1st	4th	2nd	4th	5	752	1	1	10095.00	4.03
+55	2 idiots	Novice	3rd	3rd	3rd	4th	2nd	5	749	0	1	10532.00	2.48
+56	yapington	Novice	4th	3rd	1st	4th	3rd	5	744	1	0	10881.00	2.32
+57	Dynamo	Novice	3rd	4th	4th	3rd	1st	5	744	1	0	10155.00	2.71
+58	bhAAi	Novice	3rd	3rd	2nd	3rd	4th	5	743	0	1	10986.00	2.87
+59	Thank you for the judge waiver		2nd	4th	1st	4th	—	5	606	1	1	9176.00	1.12
+60	Swing 1		3rd	3rd	3rd	2nd	—	5	602	0	1	8426.00	1.66
+61	Chihuhahahahahaha	Novice	3rd	3rd	3rd	4th	3rd	4	743	0	0	10031.00	1.02
+62	Macau Polytechnic University	Novice	3rd	4th	3rd	4th	2nd	4	737	0	1	10333.00	1.96
+63	Rookies	Novice	4th	4th	1st	3rd	—	4	587	1	0	8123.00	5.31
+64	I’m not responsible for what Atulya		1st	3rd	4th	—	—	4	455	1	0	6916.00	0.94
+65	Swing 2		2nd	4th	2nd	—	—	4	446	0	2	6464.00	3.30
+66	Debating Divas	Novice	4th	1st	4th	4th	4th	3	738	1	0	10989.00	3.14
+67	BREAKING B.S. (balance sheets)	Novice	4th	4th	3rd	2nd	4th	3	732	0	1	10043.00	4.22
+68	Chunnu Goli	Novice	4th	2nd	4th	3rd	—	3	593	0	1	8374.00	1.92
+69	Batman and Rohit	Novice	3rd	2nd	4th	—	—	3	445	0	1	6810.00	2.05
+70	Swing 5		—	—	1st	—	—	3	157	1	0	2228.00	0.00
+71	OinkyBoinky	Novice	4th	4th	2nd	4th	4th	2	728	0	1	10609.00	4.13
+72	Invincible	Novice	4th	3rd	4th	4th	3rd	2	726	0	0	10718.00	4.02
+73	Cogitation Collective	Novice	—	3rd	3rd	—	—	2	294	0	0	4018.00	1.00
+74	Symbiosis law school Hyderabad	Novice	2nd	—	—	—	—	2	149	0	1	2250.00	0.00
+75	Buri buri zaimon	Novice	3rd	4th	4th	—	—	1	442	0	0	6873.00	3.30
+76	Cheese and Crackers	Novice	3rd	4th	4th	—	—	1	436	0	0	6327.00	0.47
+77	Vaishnavi²		4th	3rd	—	—	—	1	280	0	0	4056.00	1.00
+78	Swing 4		—	4th	4th	—	—	0	296	0	0	3860.00	1.00
+79	Sarva	Novice	4th	—	—	—	—	0	147	0	0	2285.00	0.00
+80=	Swing 6		—	—	—	—	—	—	—	0	0	0	—
+80=	Beginnings and Breaks	Novice	—	—	—	—	—	—	—	0	0	0	—
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev	Num
+1	Max Papaioannides	Novice	The couch	78	79	80	82	78	397	79.40	1.50	5
+2	Jibran Ahmad Khan		sin cos tan tera soc mera fan	80	80	79	79	77	395	79.00	1.10	5
+3	Rehan Haneef		Robbing rep for Rehan	78	77	79	80	80	394	78.80	1.17	5
+4	Rohan campion		Rohan resurrects another debater fr	78	79	76	80	81	394	78.80	1.72	5
+5	Leo Marinopoulos	Novice	The couch	78	78	79	80	78	393	78.60	0.80	5
+6	Vani Bhardwaj		sin cos tan tera soc mera fan	80	79	77	78	78	392	78.40	1.02	5
+7	Sudiksha Chindula	Novice	first time team up	78	79	77	80	77	391	78.20	1.17	5
+8	Aaron Luke Reyes Nuqui		Birthday Boys	78	77	78	78	79	390	78.00	0.63	5
+9	Garvit Gosain		Aman Mathur Fan Club	77	79	77	79	78	390	78.00	0.89	5
+10	Mahesh R		Shri Ram Pre-UPSC	80	78	77	78	77	390	78.00	1.10	5
+11	Haikal Daniel		MARA forgot to reg our team for ABP	79	76	79	77	79	390	78.00	1.26	5
+12	Lauren Tse	Novice	Crispy chicken	79	77	76	82	76	390	78.00	2.28	5
+13	Hazim	Novice	IIUM 3	78	79	78	77	77	389	77.80	0.75	5
+14	Chinmay Hegde	Novice	daddy vipul blessed us today	78	79	78	78	76	389	77.80	0.98	5
+15	Subaita arwaa		IIUM pre 1971	78	77	75	79	80	389	77.80	1.72	5
+16=	Munirah		IIUM 3	78	79	77	77	77	388	77.60	0.80	5
+16=	Kinshuk vasan	Novice	Post apocalyptic 69 wing	77	78	77	79	77	388	77.60	0.80	5
+18	Aniq Jiwani	Novice	daddy vipul blessed us today	76	78	79	77	78	388	77.60	1.02	5
+19=	Tarun Adarsh		We dont miss amal	80	76	78	77	77	388	77.60	1.36	5
+19=	Shreya Raghuwanshi		Justice for YoY Growth	80	78	77	77	76	388	77.60	1.36	5
+21	Hanafie		IIUM pre 1971	79	78	75	76	80	388	77.60	1.85	5
+22=	Jun Nam	Novice	Crispy chicken	78	77	76	79	77	387	77.40	1.02	5
+22=	Aryan Khokher		Engineer got a DU hoe	77	76	79	77	78	387	77.40	1.02	5
+22=	Aditya Jha		Shri Ram Pre-UPSC	79	78	77	77	76	387	77.40	1.02	5
+25	Jiayi Lian		ray ray and jiay jiay	78	78	79	76	76	387	77.40	1.20	5
+26=	Izzah Rosli	Novice	MARA forgot to reg our team for ABP	77	76	79	76	79	387	77.40	1.36	5
+26=	Archit Lahiri		Engineer got a DU hoe	77	75	79	78	78	387	77.40	1.36	5
+26=	Dikshya Mohapatra		Swing 3	78	77	79	78	75	387	77.40	1.36	5
+29	Vishwa Raghav Raj		IITB Semester Exams after Semis	77	77	78	77	77	386	77.20	0.40	5
+30	Kunal		Plod	78	76	77	77	78	386	77.20	0.75	5
+31	Saksham Kaila		Justice for YoY Growth	79	76	78	77	76	386	77.20	1.17	5
+32	Snehal		Plod	79	75	78	77	77	386	77.20	1.33	5
+33	basim	Novice	point taken	76	77	78	78	76	385	77.00	0.89	5
+34	Sanchaita Das	Novice	I definitely know what’s happening 	78	77	75	77	78	385	77.00	1.10	5
+35	Ajay Joel	Novice	GCC Ghilli Fanclub	76	78	75	78	78	385	77.00	1.26	5
+36=	Drawin Mishra		We dont miss amal	78	76	77	77	76	384	76.80	0.75	5
+36=	Radhika Bajaj	Novice	I definitely know what’s happening 	77	76	76	77	78	384	76.80	0.75	5
+36=	Aspect		we wingmanned each other to each ot	76	77	78	77	76	384	76.80	0.75	5
+39	ZH Masud		NSU A	78	74	77	78	77	384	76.80	1.47	5
+40	Harsh Sharma	Novice	Post Apocalyptic ki MKC	78	79	74	76	77	384	76.80	1.72	5
+41	Atharva	Novice	Qubits	76	76	77	77	77	383	76.60	0.49	5
+42=	Arzyan(dark)mohanty	Novice	Post apocalyptic 69 wing	76	77	76	78	76	383	76.60	0.80	5
+42=	Shazil Hameed Shareef	Novice	Twin Pilots	76	76	77	78	76	383	76.60	0.80	5
+42=	Saksham &quot;hail kaila&quot; Maggo	Novice	Bokachoda🦕	77	77	75	77	77	383	76.60	0.80	5
+45	Aman Thakur	Novice	Post Apocalyptic ki MKC	79	77	74	77	76	383	76.60	1.62	5
+46=	Rina Kajitani		Rina &amp; Yuki	75	79	76	79	74	383	76.60	2.06	5
+46=	Yuki Saito		Rina &amp; Yuki	74	79	76	79	75	383	76.60	2.06	5
+48	mariam	Novice	point taken	76	76	77	77	76	382	76.40	0.49	5
+49	Airil Aiman	Novice	MARA Boys	77	76	77	75	77	382	76.40	0.80	5
+50	Wasit Zawad Ismam	Novice	NSU A	76	75	78	77	76	382	76.40	1.02	5
+51	Sejal	Novice	Kuchh bhi	79	75	76	75	76	381	76.20	1.47	5
+52=	Jack Chua	Novice	KFDI Raymond pls coach KFDI full ti	77	77	75	76	75	380	76.00	0.89	5
+52=	Aarib Anwar	Novice	Twin Pilots	76	75	77	77	75	380	76.00	0.89	5
+54	agniv &quot;caffeinated&quot; gupta.	Novice	caffeinated n tired.	75	76	76	75	78	380	76.00	1.10	5
+55=	Owen Chong	Novice	KFDI Raymond pls coach KFDI full ti	78	77	75	75	75	380	76.00	1.26	5
+55=	Anushka &quot;tired&quot; Das.	Novice	caffeinated n tired.	75	77	77	74	77	380	76.00	1.26	5
+55=	Benteny	Novice	Ben10	75	77	75	78	75	380	76.00	1.26	5
+58=	Kady Koh Kia Wen	Novice	NYP A	74	78	75	76	77	380	76.00	1.41	5
+58=	Yuichiro Hata	Novice	Tsukuba YY	78	75	74	77	76	380	76.00	1.41	5
+58=	Anvita Prakash	Novice	GCC Ghilli Fanclub	76	77	75	74	78	380	76.00	1.41	5
+61=	Komal	Novice	Kuchh bhi	79	74	76	75	76	380	76.00	1.67	5
+61=	Siddharth Priyatam	Novice	Not Like Us	76	77	76	73	78	380	76.00	1.67	5
+63	Manthika Sharma	Novice	NYP A	73	77	75	77	78	380	76.00	1.79	5
+64	Shriyanshi	Novice	Qubits	76	76	75	76	76	379	75.80	0.40	5
+65	Ikhwan	Novice	MARA Boys	75	75	76	75	78	379	75.80	1.17	5
+66	Kamal Nambiar	Novice	hyderabad kolkata bhai bhai biriyan	76	76	78	74	75	379	75.80	1.33	5
+67	Hinano Haraguchi		Tsukuba HH	72	75	77	77	78	379	75.80	2.14	5
+68=	Shreenath Nair	Novice	POK Pookies	76	77	74	76	75	378	75.60	1.02	5
+68=	Nayana Mathad	Novice	The Gene Pool Party	76	74	76	77	75	378	75.60	1.02	5
+70	Diksha	Novice	Tehelka omelette banaunga aaj	75	78	72	76	77	378	75.60	2.06	5
+71	Haruto Masumitsu	Novice	Tsukuba HH	71	76	77	77	77	378	75.60	2.33	5
+72	Meghana	Novice	The Gene Pool Party	75	75	75	77	75	377	75.40	0.80	5
+73	Hanif Nazri	Novice	Ben10	75	76	74	77	75	377	75.40	1.02	5
+74	Nitya Shah	Novice	POK Pookies	75	77	73	76	76	377	75.40	1.36	5
+75	Himanshu Thakur	Novice	Intergalactic-Punjab Represent	75	73	76	77	76	377	75.40	1.36	5
+76	Karan Kakarania	Novice	Kya Karan Akshat break karenge	75	75	78	73	76	377	75.40	1.62	5
+77=	Navya Ullas Rai	Novice	Iron Person? More like Iron Deficie	74	73	76	78	76	377	75.40	1.74	5
+77=	Rutuja Nayak	Novice	Iron Person? More like Iron Deficie	74	73	76	78	76	377	75.40	1.74	5
+79	Jiya Tandon	Novice	Dragon Soup	72	74	75	77	79	377	75.40	2.42	5
+80	Namish	Novice	2 idiots	77	75	74	74	76	376	75.20	1.17	5
+81	Glenys Wong	Novice	KFDI baby baby baby ohhh	77	75	75	73	76	376	75.20	1.33	5
+82	Adamya Sharma	Novice	Dragon Soup	72	75	75	76	78	376	75.20	1.94	5
+83	Pragyansh Nayak	Novice	Teen Bhai Johnny Halwai	74	75	78	72	77	376	75.20	2.14	5
+84	Abhinav S.N.	Novice	You Are A 10 On pH Scale	75	75	74	75	76	375	75.00	0.63	5
+85	Shinjini pal	Novice	hyderabad kolkata bhai bhai biriyan	74	76	76	74	75	375	75.00	0.89	5
+86	Kwong Yi	Novice	KFDI baby baby baby ohhh	77	73	75	74	76	375	75.00	1.41	5
+87	Sneha Mohanty	Novice	Teen Bhai Johnny Halwai	74	74	78	72	77	375	75.00	2.19	5
+88	Drishti Jain	Novice	Chihuhahahahahaha	75	74	76	74	75	374	74.80	0.75	5
+89	Anika	Novice	yapington	73	75	76	74	76	374	74.80	1.17	5
+90	Sayan Mitra	Novice	Dynamo	75	74	73	75	77	374	74.80	1.33	5
+91=	Nikhil	Novice	Tehelka omelette banaunga aaj	73	77	72	75	77	374	74.80	2.04	5
+91=	Vrudhi Jain	Novice	Hum baat nahi, behes karte hai	72	73	77	75	77	374	74.80	2.04	5
+93	Kanishka Mittal	Novice	Argonauts	73	75	75	76	74	373	74.60	1.02	5
+94	Aakash	Novice	2 idiots	77	74	74	73	75	373	74.60	1.36	5
+95	Swadhruth Reddy	Novice	bhAAi	76	74	76	72	75	373	74.60	1.50	5
+96	Swastik Pandey	Novice	Intergalactic-Punjab Represent	74	71	77	75	76	373	74.60	2.06	5
+97	Hezhiyu	Novice	Macau Polytechnic University	74	74	73	73	76	370	74.00	1.10	5
+98	Nandita Matolli	Novice	Argonauts	72	75	75	75	73	370	74.00	1.26	5
+99=	Dhruv Gupta	Novice	bhAAi	75	73	76	72	74	370	74.00	1.41	5
+99=	Purvi Agarwal	Novice	Dynamo	75	73	72	74	76	370	74.00	1.41	5
+99=	Aarshi	Novice	yapington	73	72	76	74	75	370	74.00	1.41	5
+102	Nila Mukund Varma	Novice	Debating Divas	74	76	75	71	74	370	74.00	1.67	5
+103	Sugam	Novice	You Are A 10 On pH Scale	74	76	73	71	76	370	74.00	1.90	5
+104	Nia Jain	Novice	Chihuhahahahahaha	74	74	74	73	74	369	73.80	0.40	5
+105	Saanvi Bhuva	Novice	Debating Divas	73	75	75	71	74	368	73.60	1.50	5
+106	Zhuchen Yihan	Novice	Macau Polytechnic University	73	73	74	72	75	367	73.40	1.02	5
+107	Yash Shinde	Novice	BREAKING B.S. (balance sheets)	70	73	75	76	73	367	73.40	2.06	5
+108	Rose Soares	Novice	Hum baat nahi, behes karte hai	70	73	74	74	75	366	73.20	1.72	5
+109	Aritro Ghosh		Ozymandias	69	71	74	75	77	366	73.20	2.86	5
+110	Risika Singh		Ozymandias	69	71	74	74	77	365	73.00	2.76	5
+111	Rumi Hinduja	Novice	OinkyBoinky	75	69	74	73	73	364	72.80	2.04	5
+112	Kharabela das	Novice	Invincible	71	70	75	73	74	363	72.60	1.85	5
+113	Robert Raos		Robbing rep for Rehan	—	79	79	81	82	321	80.25	1.30	4
+114	Tejas Goyal		first time team up	77	79	78	—	78	312	78.00	0.71	4
+115	Manasija Das		Aman Mathur Fan Club	—	78	76	79	79	312	78.00	1.22	4
+116	Ibrahim Dawoodjee	Novice	Birthday Boys	77	76	78	78	—	309	77.25	0.83	4
+117	Manan Mehta		IITB Semester Exams after Semis	77	—	77	76	78	308	77.00	0.71	4
+118	Yuki Kato		Tsukuba YY	79	75	75	77	—	306	76.50	1.66	4
+119	Raymond Qiu		ray ray and jiay jiay	—	76	80	75	75	306	76.50	2.06	4
+120	Taanish Arora	Novice	Bokachoda🦕	76	78	74	—	77	305	76.25	1.48	4
+121	Nero X		we wingmanned each other to each ot	75	76	79	—	75	305	76.25	1.64	4
+122	Akshat Jain	Novice	Kya Karan Akshat break karenge	—	76	77	73	78	304	76.00	1.87	4
+123	Alabhya		Thank you for the judge waiver	76	75	76	76	—	303	75.75	0.43	4
+124	Ayush Singh	Novice	Not Like Us	—	76	75	74	77	302	75.50	1.12	4
+125	Speaker 1		Swing 1	75	76	76	74	—	301	75.25	0.83	4
+126	Vikrant Kumar Mishra	Novice	Chunnu Goli	74	73	75	73	—	295	73.75	0.83	4
+127	Md Shakaib Shoaib	Novice	Rookies	73	70	77	75	—	295	73.75	2.59	4
+128	Shaurya Sawant	Novice	OinkyBoinky	75	69	74	—	74	292	73.00	2.35	4
+129	Vivan chakravarty	Novice	BREAKING B.S. (balance sheets)	69	73	75	75	—	292	73.00	2.45	4
+130	K Rohit Nayan Naidu	Novice	Rookies	72	69	76	75	—	292	73.00	2.74	4
+131=	Shreya Datta	Novice	Batman and Rohit	73	76	74	—	—	223	74.33	1.25	3
+131=	Rohitaswa Das	Novice	Batman and Rohit	73	75	74	—	—	222	74.00	0.82	3
+131=	Abdul Wassay		Rohan resurrects another debater fr	—	—	—	—	—	—	—	—	0
+131=	Redacted		—	—	75	77	76	—	228	76.00	0.82	3
+131=	Divyanshu Tibrewal	Novice	Invincible	72	69	—	—	—	141	70.50	1.50	2
+131=	Emmanuel Thomas	Novice	Sarva	74	—	—	—	—	74	74.00	0.00	1
+131=	Aditya Mitra	Novice	Sarva	—	—	—	—	—	—	—	—	0
+131=	Vaishnavi Srivastav	Novice	Buri buri zaimon	76	74	72	—	—	222	74.00	1.63	3
+131=	Manasvi Choudhary	Novice	Buri buri zaimon	75	74	71	—	—	220	73.33	1.70	3
+131=	Amitesh Ganesan	Novice	Chunnu Goli	75	74	76	—	—	225	75.00	0.82	3
+131=	Samridhi Upadhyay		I’m not responsible for what Atulya	76	77	76	—	—	229	76.33	0.47	3
+131=	Atulya Saurabh	Novice	I’m not responsible for what Atulya	75	76	75	—	—	226	75.33	0.47	3
+131=	Japnit Singh	Novice	Cheese and Crackers	73	73	73	—	—	219	73.00	0.00	3
+131=	Ishita Gupta	Novice	Cheese and Crackers	72	72	73	—	—	217	72.33	0.47	3
+131=	Speaker 2		Swing 1	75	—	76	—	—	151	75.50	0.50	2
+131=	Speaker 3		Swing 2	73	74	76	—	—	223	74.33	1.25	3
+131=	Speaker 4		Swing 2	72	—	77	—	—	149	74.50	2.50	2
+131=	Dikshya Mohapatra		Swing 3	—	—	—	—	—	—	—	—	0
+131=	Vaishnavi tyagi		Vaishnavi²	69	70	—	—	—	139	69.50	0.50	2
+131=	Vaishnavi Wane	Novice	Vaishnavi²	70	71	—	—	—	141	70.50	0.50	2
+131=	Jerry Jose	Novice	Beginnings and Breaks	—	—	—	—	—	—	—	—	0
+131=	Sera Jose	Novice	Beginnings and Breaks	—	—	—	—	—	—	—	—	0
+131=	Aaryanandha	Novice	Symbiosis law school Hyderabad	—	—	—	—	—	—	—	—	0
+131=	Gourikrishnan	Novice	Symbiosis law school Hyderabad	75	—	—	—	—	75	75.00	0.00	1
+131=	Anurag Nibedan	Novice	Cogitation Collective	—	74	—	—	—	74	74.00	0.00	1
+131=	Abhay Kumar	Novice	Cogitation Collective	—	74	73	—	—	147	73.50	0.50	2
+131=	Speaker 7		Swing 4	—	73	75	—	—	148	74.00	1.00	2
+131=	Speaker 8		Swing 4	—	74	74	—	—	148	74.00	0.00	2
+131=	Speaker 9		Swing 5	—	—	78	—	—	78	78.00	0.00	1
+131=	Speaker 10		Swing 5	—	—	—	—	—	—	—	—	0
+131=	Speaker 11		Swing 6	—	—	—	—	—	—	—	—	0
+131=	Speaker 12		Swing 6	—	—	—	—	—	—	—	—	0
+
+
+team	result	side	ballot	adjudicators
+Rookies	4th	Opening Opposition	View Ballot	UphieⒸ , Rudraksh Jain , Hongyun ZhangⓉ , Raghad Abdelazim Ali AwadelkarimⓉ
+Robbing rep for Rehan	3rd	Closing Opposition	View Ballot	UphieⒸ , Rudraksh Jain , Hongyun ZhangⓉ , Raghad Abdelazim Ali AwadelkarimⓉ
+We dont miss amal	2nd	Opening Government	View Ballot	UphieⒸ , Rudraksh Jain , Hongyun ZhangⓉ , Raghad Abdelazim Ali AwadelkarimⓉ
+Justice for YoY Growth	1st	Closing Government	View Ballot	UphieⒸ , Rudraksh Jain , Hongyun ZhangⓉ , Raghad Abdelazim Ali AwadelkarimⓉ
+Crispy chicken	1st	Opening Opposition	View Ballot	Robin AhujaⒸ , Chisato Kuwayama , Ipshita MukherjeeⓉ
+Buri buri zaimon	3rd	Opening Government	View Ballot	Robin AhujaⒸ , Chisato Kuwayama , Ipshita MukherjeeⓉ
+IITB Semester Exams after Semis	2nd	Closing Opposition	View Ballot	Robin AhujaⒸ , Chisato Kuwayama , Ipshita MukherjeeⓉ
+Ben10	4th	Closing Government	View Ballot	Robin AhujaⒸ , Chisato Kuwayama , Ipshita MukherjeeⓉ
+Rohan resurrects another debater fr	1st	Closing Government	View Ballot	Krish SinghⒸ , Tavish Joshi
+MARA Boys	2nd	Opening Government	View Ballot	Krish SinghⒸ , Tavish Joshi
+Macau Polytechnic University	3rd	Opening Opposition	View Ballot	Krish SinghⒸ , Tavish Joshi
+Hum baat nahi, behes karte hai	4th	Closing Opposition	View Ballot	Krish SinghⒸ , Tavish Joshi
+Sarva	4th	Closing Opposition	View Ballot	SudikshaⒸ , Srijan Mitra , Akhil JoshuaⓉ , Tamanna DagarⓉ
+Dynamo	3rd	Opening Opposition	View Ballot	SudikshaⒸ , Srijan Mitra , Akhil JoshuaⓉ , Tamanna DagarⓉ
+Plod	1st	Closing Government	View Ballot	SudikshaⒸ , Srijan Mitra , Akhil JoshuaⓉ , Tamanna DagarⓉ
+I definitely know what’s happening 	2nd	Opening Government	View Ballot	SudikshaⒸ , Srijan Mitra , Akhil JoshuaⓉ , Tamanna DagarⓉ
+NYP A	3rd	Closing Opposition	View Ballot	Pratham DikshitⒸ , Gopal Krishan , Mokshaa Sridhar , MishitaⓉ
+Not Like Us	1st	Opening Government	View Ballot	Pratham DikshitⒸ , Gopal Krishan , Mokshaa Sridhar , MishitaⓉ
+BREAKING B.S. (balance sheets)	4th	Closing Government	View Ballot	Pratham DikshitⒸ , Gopal Krishan , Mokshaa Sridhar , MishitaⓉ
+Symbiosis law school Hyderabad	2nd	Opening Opposition	View Ballot	Pratham DikshitⒸ , Gopal Krishan , Mokshaa Sridhar , MishitaⓉ
+You Are A 10 On pH Scale	1st	Opening Opposition	View Ballot	Lavanya PuriⒸ , Fransiska Hutabarat , Avril TohⓉ , Vidhi ChughⓉ
+Argonauts	3rd	Closing Government	View Ballot	Lavanya PuriⒸ , Fransiska Hutabarat , Avril TohⓉ , Vidhi ChughⓉ
+Tsukuba HH	4th	Opening Government	View Ballot	Lavanya PuriⒸ , Fransiska Hutabarat , Avril TohⓉ , Vidhi ChughⓉ
+Iron Person? More like Iron Deficie	2nd	Closing Opposition	View Ballot	Lavanya PuriⒸ , Fransiska Hutabarat , Avril TohⓉ , Vidhi ChughⓉ
+daddy vipul blessed us today	1st	Closing Opposition	View Ballot	Raymond KimuraⒸ , Sanis Kumar , TashaⓉ , Vanshika ChoudharyⓉ
+Post apocalyptic 69 wing	2nd	Opening Government	View Ballot	Raymond KimuraⒸ , Sanis Kumar , TashaⓉ , Vanshika ChoudharyⓉ
+Debating Divas	4th	Closing Government	View Ballot	Raymond KimuraⒸ , Sanis Kumar , TashaⓉ , Vanshika ChoudharyⓉ
+Swing 1	3rd	Opening Opposition	View Ballot	Raymond KimuraⒸ , Sanis Kumar , TashaⓉ , Vanshika ChoudharyⓉ
+KFDI Raymond pls coach KFDI full ti	1st	Opening Opposition	View Ballot	Devashish TrivediⒸ , Sanvi Agarwal , Rishant SharmaⓉ , Saikushal I SⓉ
+Intergalactic-Punjab Represent	4th	Closing Opposition	View Ballot	Devashish TrivediⒸ , Sanvi Agarwal , Rishant SharmaⓉ , Saikushal I SⓉ
+POK Pookies	3rd	Opening Government	View Ballot	Devashish TrivediⒸ , Sanvi Agarwal , Rishant SharmaⓉ , Saikushal I SⓉ
+point taken	2nd	Closing Government	View Ballot	Devashish TrivediⒸ , Sanvi Agarwal , Rishant SharmaⓉ , Saikushal I SⓉ
+Aman Mathur Fan Club	1st	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Rubaiyat Samad , Kallarakkal Shreya RejiⓉ , ShaynaⓉ
+OinkyBoinky	4th	Opening Government	View Ballot	Jonathan TuliaoⒸ , Rubaiyat Samad , Kallarakkal Shreya RejiⓉ , ShaynaⓉ
+GCC Ghilli Fanclub	2nd	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Rubaiyat Samad , Kallarakkal Shreya RejiⓉ , ShaynaⓉ
+we wingmanned each other to each ot	3rd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Rubaiyat Samad , Kallarakkal Shreya RejiⓉ , ShaynaⓉ
+I’m not responsible for what Atulya	1st	Opening Opposition	View Ballot	ZiyadⒸ , Jacen Ratnam , Aishah ZuferdiⓉ , Aneesh BhattacharjeeⓉ
+Chihuhahahahahaha	3rd	Closing Opposition	View Ballot	ZiyadⒸ , Jacen Ratnam , Aishah ZuferdiⓉ , Aneesh BhattacharjeeⓉ
+Tehelka omelette banaunga aaj	4th	Opening Government	View Ballot	ZiyadⒸ , Jacen Ratnam , Aishah ZuferdiⓉ , Aneesh BhattacharjeeⓉ
+caffeinated n tired.	2nd	Closing Government	View Ballot	ZiyadⒸ , Jacen Ratnam , Aishah ZuferdiⓉ , Aneesh BhattacharjeeⓉ
+Birthday Boys	1st	Opening Opposition	View Ballot	Aayuushi BoseⒸ , Angiraa Saikia , Aaryan ChaudharyⓉ
+Cheese and Crackers	3rd	Opening Government	View Ballot	Aayuushi BoseⒸ , Angiraa Saikia , Aaryan ChaudharyⓉ
+Engineer got a DU hoe	2nd	Closing Opposition	View Ballot	Aayuushi BoseⒸ , Angiraa Saikia , Aaryan ChaudharyⓉ
+Vaishnavi²	4th	Closing Government	View Ballot	Aayuushi BoseⒸ , Angiraa Saikia , Aaryan ChaudharyⓉ
+Thank you for the judge waiver	2nd	Opening Opposition	View Ballot	Henrietta VanniⒸ , Utkarsh Tomar , Ria SawantⓉ , SaamiyaⓉ , Sandeep Kaur sidhuⓉ
+Rina &amp; Yuki	3rd	Closing Opposition	View Ballot	Henrietta VanniⒸ , Utkarsh Tomar , Ria SawantⓉ , SaamiyaⓉ , Sandeep Kaur sidhuⓉ
+Swing 3	1st	Closing Government	View Ballot	Henrietta VanniⒸ , Utkarsh Tomar , Ria SawantⓉ , SaamiyaⓉ , Sandeep Kaur sidhuⓉ
+yapington	4th	Opening Government	View Ballot	Henrietta VanniⒸ , Utkarsh Tomar , Ria SawantⓉ , SaamiyaⓉ , Sandeep Kaur sidhuⓉ
+hyderabad kolkata bhai bhai biriyan	4th	Closing Opposition	View Ballot	Vinay TekaniⒸ , Kavisshnu Nadarajah , Kleetalin Mayman , Fatima AhmadⓉ
+IIUM pre 1971	1st	Closing Government	View Ballot	Vinay TekaniⒸ , Kavisshnu Nadarajah , Kleetalin Mayman , Fatima AhmadⓉ
+first time team up	2nd	Opening Government	View Ballot	Vinay TekaniⒸ , Kavisshnu Nadarajah , Kleetalin Mayman , Fatima AhmadⓉ
+KFDI baby baby baby ohhh	3rd	Opening Opposition	View Ballot	Vinay TekaniⒸ , Kavisshnu Nadarajah , Kleetalin Mayman , Fatima AhmadⓉ
+bhAAi	3rd	Closing Government	View Ballot	Ryan RaynerⒸ , Irin , Ansh Kumar AroraⓉ
+IIUM 3	1st	Opening Opposition	View Ballot	Ryan RaynerⒸ , Irin , Ansh Kumar AroraⓉ
+Kya Karan Akshat break karenge	4th	Opening Government	View Ballot	Ryan RaynerⒸ , Irin , Ansh Kumar AroraⓉ
+Twin Pilots	2nd	Closing Opposition	View Ballot	Ryan RaynerⒸ , Irin , Ansh Kumar AroraⓉ
+Invincible	4th	Closing Opposition	View Ballot	Pratha JamwalⒸ , Akarsh , Raihan Rahman
+Dragon Soup	3rd	Opening Government	View Ballot	Pratha JamwalⒸ , Akarsh , Raihan Rahman
+Swing 2	2nd	Closing Government	View Ballot	Pratha JamwalⒸ , Akarsh , Raihan Rahman
+Teen Bhai Johnny Halwai	1st	Opening Opposition	View Ballot	Pratha JamwalⒸ , Akarsh , Raihan Rahman
+Batman and Rohit	3rd	Opening Opposition	View Ballot	V SayiramⒸ , Ashish Srivastava , Samridhi MehraⓉ
+Tsukuba YY	1st	Opening Government	View Ballot	V SayiramⒸ , Ashish Srivastava , Samridhi MehraⓉ
+Ozymandias	4th	Closing Government	View Ballot	V SayiramⒸ , Ashish Srivastava , Samridhi MehraⓉ
+Bokachoda🦕	2nd	Closing Opposition	View Ballot	V SayiramⒸ , Ashish Srivastava , Samridhi MehraⓉ
+ray ray and jiay jiay	2nd	Closing Opposition	View Ballot	Saleem SalisuⒸ , Siddharth Misra , Anika BawejaⓉ , Shoibayon GangulyⓉ
+Kuchh bhi	1st	Opening Government	View Ballot	Saleem SalisuⒸ , Siddharth Misra , Anika BawejaⓉ , Shoibayon GangulyⓉ
+Qubits	4th	Opening Opposition	View Ballot	Saleem SalisuⒸ , Siddharth Misra , Anika BawejaⓉ , Shoibayon GangulyⓉ
+2 idiots	3rd	Closing Government	View Ballot	Saleem SalisuⒸ , Siddharth Misra , Anika BawejaⓉ , Shoibayon GangulyⓉ
+sin cos tan tera soc mera fan	1st	Closing Opposition	View Ballot	Emma AripinⒸ , Tirtha Mohite , Aditi KanadamⓉ , Ibrahim AlhabshiⓉ
+The couch	4th	Opening Government	View Ballot	Emma AripinⒸ , Tirtha Mohite , Aditi KanadamⓉ , Ibrahim AlhabshiⓉ
+Post Apocalyptic ki MKC	3rd	Opening Opposition	View Ballot	Emma AripinⒸ , Tirtha Mohite , Aditi KanadamⓉ , Ibrahim AlhabshiⓉ
+Shri Ram Pre-UPSC	2nd	Closing Government	View Ballot	Emma AripinⒸ , Tirtha Mohite , Aditi KanadamⓉ , Ibrahim AlhabshiⓉ
+Chunnu Goli	4th	Closing Opposition	View Ballot	Kiki LiewⒸ , M. Roga Bara , Pratyaksha Vijay , G VasudhaⓉ
+NSU A	2nd	Closing Government	View Ballot	Kiki LiewⒸ , M. Roga Bara , Pratyaksha Vijay , G VasudhaⓉ
+MARA forgot to reg our team for ABP	1st	Opening Government	View Ballot	Kiki LiewⒸ , M. Roga Bara , Pratyaksha Vijay , G VasudhaⓉ
+The Gene Pool Party	3rd	Opening Opposition	View Ballot	Kiki LiewⒸ , M. Roga Bara , Pratyaksha Vijay , G VasudhaⓉ
+
+
+team	result	side	ballot	adjudicators
+NSU A	3rd	Opening Government	View Ballot	Prosper Michael AmetuⒸ , Gopal Krishan , Ibrahim AlhabshiⓉ , Shoibayon GangulyⓉ
+MARA Boys	2nd	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ , Gopal Krishan , Ibrahim AlhabshiⓉ , Shoibayon GangulyⓉ
+Iron Person? More like Iron Deficie	4th	Closing Government	View Ballot	Prosper Michael AmetuⒸ , Gopal Krishan , Ibrahim AlhabshiⓉ , Shoibayon GangulyⓉ
+Swing 3	1st	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ , Gopal Krishan , Ibrahim AlhabshiⓉ , Shoibayon GangulyⓉ
+Aman Mathur Fan Club	1st	Closing Government	View Ballot	Krish SinghⒸ , Mokshaa Sridhar , ShaynaⓉ
+Post apocalyptic 69 wing	2nd	Opening Opposition	View Ballot	Krish SinghⒸ , Mokshaa Sridhar , ShaynaⓉ
+Kuchh bhi	4th	Closing Opposition	View Ballot	Krish SinghⒸ , Mokshaa Sridhar , ShaynaⓉ
+Justice for YoY Growth	3rd	Opening Government	View Ballot	Krish SinghⒸ , Mokshaa Sridhar , ShaynaⓉ
+IITB Semester Exams after Semis	2nd	Closing Government	View Ballot	ZiyadⒸ , Jacen Ratnam , Ria SawantⓉ , TashaⓉ
+Swing 2	4th	Closing Opposition	View Ballot	ZiyadⒸ , Jacen Ratnam , Ria SawantⓉ , TashaⓉ
+Bokachoda🦕	1st	Opening Government	View Ballot	ZiyadⒸ , Jacen Ratnam , Ria SawantⓉ , TashaⓉ
+2 idiots	3rd	Opening Opposition	View Ballot	ZiyadⒸ , Jacen Ratnam , Ria SawantⓉ , TashaⓉ
+hyderabad kolkata bhai bhai biriyan	2nd	Closing Government	View Ballot	Chisato KuwayamaⒸ , Ansh Kumar Arora , Akhil JoshuaⓉ
+The couch	1st	Closing Opposition	View Ballot	Chisato KuwayamaⒸ , Ansh Kumar Arora , Akhil JoshuaⓉ
+BREAKING B.S. (balance sheets)	4th	Opening Government	View Ballot	Chisato KuwayamaⒸ , Ansh Kumar Arora , Akhil JoshuaⓉ
+yapington	3rd	Opening Opposition	View Ballot	Chisato KuwayamaⒸ , Ansh Kumar Arora , Akhil JoshuaⓉ
+Rookies	4th	Closing Opposition	View Ballot	Raihan RahmanⒸ , Kleetalin Mayman , G VasudhaⓉ
+Intergalactic-Punjab Represent	1st	Closing Government	View Ballot	Raihan RahmanⒸ , Kleetalin Mayman , G VasudhaⓉ
+Ozymandias	2nd	Opening Opposition	View Ballot	Raihan RahmanⒸ , Kleetalin Mayman , G VasudhaⓉ
+Vaishnavi²	3rd	Opening Government	View Ballot	Raihan RahmanⒸ , Kleetalin Mayman , G VasudhaⓉ
+Tehelka omelette banaunga aaj	1st	Opening Opposition	View Ballot	Vinay TekaniⒸ , Cynne Paul Hayon , Ipshita MukherjeeⓉ
+Kya Karan Akshat break karenge	2nd	Closing Opposition	View Ballot	Vinay TekaniⒸ , Cynne Paul Hayon , Ipshita MukherjeeⓉ
+Cogitation Collective	3rd	Opening Government	View Ballot	Vinay TekaniⒸ , Cynne Paul Hayon , Ipshita MukherjeeⓉ
+Swing 4	4th	Closing Government	View Ballot	Vinay TekaniⒸ , Cynne Paul Hayon , Ipshita MukherjeeⓉ
+IIUM 3	1st	Opening Government	View Ballot	Pratham DikshitⒸ , Angiraa Saikia , Samridhi MehraⓉ , Shalomi NathⓉ
+I’m not responsible for what Atulya	3rd	Closing Opposition	View Ballot	Pratham DikshitⒸ , Angiraa Saikia , Samridhi MehraⓉ , Shalomi NathⓉ
+daddy vipul blessed us today	2nd	Closing Government	View Ballot	Pratham DikshitⒸ , Angiraa Saikia , Samridhi MehraⓉ , Shalomi NathⓉ
+MARA forgot to reg our team for ABP	4th	Opening Opposition	View Ballot	Pratham DikshitⒸ , Angiraa Saikia , Samridhi MehraⓉ , Shalomi NathⓉ
+Thank you for the judge waiver	4th	Closing Opposition	View Ballot	UphieⒸ , Kallarakkal Shreya Reji , Avril TohⓉ , Chetanye GulatiⓉ
+first time team up	1st	Opening Opposition	View Ballot	UphieⒸ , Kallarakkal Shreya Reji , Avril TohⓉ , Chetanye GulatiⓉ
+Twin Pilots	3rd	Closing Government	View Ballot	UphieⒸ , Kallarakkal Shreya Reji , Avril TohⓉ , Chetanye GulatiⓉ
+point taken	2nd	Opening Government	View Ballot	UphieⒸ , Kallarakkal Shreya Reji , Avril TohⓉ , Chetanye GulatiⓉ
+ray ray and jiay jiay	1st	Opening Government	View Ballot	Henrietta VanniⒸ , Ashish Srivastava , M. Roga Bara , Aditi KanadamⓉ
+Buri buri zaimon	4th	Closing Government	View Ballot	Henrietta VanniⒸ , Ashish Srivastava , M. Roga Bara , Aditi KanadamⓉ
+caffeinated n tired.	2nd	Closing Opposition	View Ballot	Henrietta VanniⒸ , Ashish Srivastava , M. Roga Bara , Aditi KanadamⓉ
+We dont miss amal	3rd	Opening Opposition	View Ballot	Henrietta VanniⒸ , Ashish Srivastava , M. Roga Bara , Aditi KanadamⓉ
+IIUM pre 1971	2nd	Opening Opposition	View Ballot	Devashish TrivediⒸ , Utkarsh Tomar , Sanvi AgarwalⓉ
+Birthday Boys	3rd	Closing Opposition	View Ballot	Devashish TrivediⒸ , Utkarsh Tomar , Sanvi AgarwalⓉ
+You Are A 10 On pH Scale	4th	Closing Government	View Ballot	Devashish TrivediⒸ , Utkarsh Tomar , Sanvi AgarwalⓉ
+Shri Ram Pre-UPSC	1st	Opening Government	View Ballot	Devashish TrivediⒸ , Utkarsh Tomar , Sanvi AgarwalⓉ
+Tsukuba HH	3rd	Opening Opposition	View Ballot	Raymond KimuraⒸ , Saamiya , Aneesh BhattacharjeeⓉ , So Jin JungⓉ
+Ben10	1st	Opening Government	View Ballot	Raymond KimuraⒸ , Saamiya , Aneesh BhattacharjeeⓉ , So Jin JungⓉ
+Hum baat nahi, behes karte hai	4th	Closing Government	View Ballot	Raymond KimuraⒸ , Saamiya , Aneesh BhattacharjeeⓉ , So Jin JungⓉ
+Qubits	2nd	Closing Opposition	View Ballot	Raymond KimuraⒸ , Saamiya , Aneesh BhattacharjeeⓉ , So Jin JungⓉ
+bhAAi	3rd	Opening Opposition	View Ballot	Rubaiyat SamadⒸ , Rudraksh Jain , Fatima AhmadⓉ , Hongyun ZhangⓉ
+KFDI baby baby baby ohhh	2nd	Closing Government	View Ballot	Rubaiyat SamadⒸ , Rudraksh Jain , Fatima AhmadⓉ , Hongyun ZhangⓉ
+Cheese and Crackers	4th	Closing Opposition	View Ballot	Rubaiyat SamadⒸ , Rudraksh Jain , Fatima AhmadⓉ , Hongyun ZhangⓉ
+Post Apocalyptic ki MKC	1st	Opening Government	View Ballot	Rubaiyat SamadⒸ , Rudraksh Jain , Fatima AhmadⓉ , Hongyun ZhangⓉ
+Argonauts	4th	Closing Opposition	View Ballot	Saleem SalisuⒸ , Tirtha Mohite , Aishah ZuferdiⓉ , MishitaⓉ
+GCC Ghilli Fanclub	1st	Opening Government	View Ballot	Saleem SalisuⒸ , Tirtha Mohite , Aishah ZuferdiⓉ , MishitaⓉ
+Engineer got a DU hoe	3rd	Opening Opposition	View Ballot	Saleem SalisuⒸ , Tirtha Mohite , Aishah ZuferdiⓉ , MishitaⓉ
+I definitely know what’s happening 	2nd	Closing Government	View Ballot	Saleem SalisuⒸ , Tirtha Mohite , Aishah ZuferdiⓉ , MishitaⓉ
+Crispy chicken	1st	Opening Government	View Ballot	Kojo O. AcheampongⒸ , Akarsh , Sandeep Kaur sidhuⓉ , Tamanna DagarⓉ
+Tsukuba YY	3rd	Closing Government	View Ballot	Kojo O. AcheampongⒸ , Akarsh , Sandeep Kaur sidhuⓉ , Tamanna DagarⓉ
+Plod	2nd	Opening Opposition	View Ballot	Kojo O. AcheampongⒸ , Akarsh , Sandeep Kaur sidhuⓉ , Tamanna DagarⓉ
+Teen Bhai Johnny Halwai	4th	Closing Opposition	View Ballot	Kojo O. AcheampongⒸ , Akarsh , Sandeep Kaur sidhuⓉ , Tamanna DagarⓉ
+NYP A	1st	Opening Government	View Ballot	Kiki LiewⒸ , Sanis Kumar , Raghad Abdelazim Ali AwadelkarimⓉ , Vidhi ChughⓉ
+The Gene Pool Party	3rd	Closing Opposition	View Ballot	Kiki LiewⒸ , Sanis Kumar , Raghad Abdelazim Ali AwadelkarimⓉ , Vidhi ChughⓉ
+Dynamo	4th	Closing Government	View Ballot	Kiki LiewⒸ , Sanis Kumar , Raghad Abdelazim Ali AwadelkarimⓉ , Vidhi ChughⓉ
+we wingmanned each other to each ot	2nd	Opening Opposition	View Ballot	Kiki LiewⒸ , Sanis Kumar , Raghad Abdelazim Ali AwadelkarimⓉ , Vidhi ChughⓉ
+Invincible	3rd	Opening Opposition	View Ballot	Pratha JamwalⒸ , Siddharth Misra , Aaryan ChaudharyⓉ
+Chunnu Goli	2nd	Closing Government	View Ballot	Pratha JamwalⒸ , Siddharth Misra , Aaryan ChaudharyⓉ
+OinkyBoinky	4th	Closing Opposition	View Ballot	Pratha JamwalⒸ , Siddharth Misra , Aaryan ChaudharyⓉ
+Debating Divas	1st	Opening Government	View Ballot	Pratha JamwalⒸ , Siddharth Misra , Aaryan ChaudharyⓉ
+POK Pookies	2nd	Closing Government	View Ballot	Ryan RaynerⒸ , Pratyaksha Vijay , Srijan Mitra , Riya AggarwalⓉ
+Rina &amp; Yuki	1st	Opening Government	View Ballot	Ryan RaynerⒸ , Pratyaksha Vijay , Srijan Mitra , Riya AggarwalⓉ
+Dragon Soup	4th	Opening Opposition	View Ballot	Ryan RaynerⒸ , Pratyaksha Vijay , Srijan Mitra , Riya AggarwalⓉ
+Swing 1	3rd	Closing Opposition	View Ballot	Ryan RaynerⒸ , Pratyaksha Vijay , Srijan Mitra , Riya AggarwalⓉ
+Rohan resurrects another debater fr	2nd	Closing Opposition	View Ballot	Kavisshnu NadarajahⒸ , Fransiska Hutabarat , Tavish Joshi
+sin cos tan tera soc mera fan	1st	Closing Government	View Ballot	Kavisshnu NadarajahⒸ , Fransiska Hutabarat , Tavish Joshi
+KFDI Raymond pls coach KFDI full ti	3rd	Opening Government	View Ballot	Kavisshnu NadarajahⒸ , Fransiska Hutabarat , Tavish Joshi
+Not Like Us	4th	Opening Opposition	View Ballot	Kavisshnu NadarajahⒸ , Fransiska Hutabarat , Tavish Joshi
+Batman and Rohit	2nd	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Rishant Sharma , AbhisekⓉ , Saikushal I SⓉ
+Chihuhahahahahaha	3rd	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Rishant Sharma , AbhisekⓉ , Saikushal I SⓉ
+Robbing rep for Rehan	1st	Opening Government	View Ballot	Jonathan TuliaoⒸ , Rishant Sharma , AbhisekⓉ , Saikushal I SⓉ
+Macau Polytechnic University	4th	Closing Government	View Ballot	Jonathan TuliaoⒸ , Rishant Sharma , AbhisekⓉ , Saikushal I SⓉ
+
+
+team	result	side	ballot	adjudicators
+I’m not responsible for what Atulya	4th	Opening Government	View Ballot	Devashish TrivediⒸ , Ashish Srivastava , AbhisekⓉ , Mokshaa SridharⓉ
+Post apocalyptic 69 wing	3rd	Closing Government	View Ballot	Devashish TrivediⒸ , Ashish Srivastava , AbhisekⓉ , Mokshaa SridharⓉ
+Robbing rep for Rehan	1st	Opening Opposition	View Ballot	Devashish TrivediⒸ , Ashish Srivastava , AbhisekⓉ , Mokshaa SridharⓉ
+point taken	2nd	Closing Opposition	View Ballot	Devashish TrivediⒸ , Ashish Srivastava , AbhisekⓉ , Mokshaa SridharⓉ
+hyderabad kolkata bhai bhai biriyan	1st	Opening Opposition	View Ballot	Ryan RaynerⒸ , Tavish Joshi
+bhAAi	2nd	Closing Opposition	View Ballot	Ryan RaynerⒸ , Tavish Joshi
+Invincible	4th	Opening Government	View Ballot	Ryan RaynerⒸ , Tavish Joshi
+The Gene Pool Party	3rd	Closing Government	View Ballot	Ryan RaynerⒸ , Tavish Joshi
+Buri buri zaimon	4th	Closing Opposition	View Ballot	Pratha JamwalⒸ , Ansh Kumar Arora , Jacen RatnamⓉ
+Kya Karan Akshat break karenge	1st	Opening Opposition	View Ballot	Pratha JamwalⒸ , Ansh Kumar Arora , Jacen RatnamⓉ
+Qubits	2nd	Closing Government	View Ballot	Pratha JamwalⒸ , Ansh Kumar Arora , Jacen RatnamⓉ
+2 idiots	3rd	Opening Government	View Ballot	Pratha JamwalⒸ , Ansh Kumar Arora , Jacen RatnamⓉ
+IIUM pre 1971	4th	Opening Government	View Ballot	Prosper Michael AmetuⒸ , Siddharth Misra , Claudia HarperⓉ , Srijan MitraⓉ
+Aman Mathur Fan Club	3rd	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ , Siddharth Misra , Claudia HarperⓉ , Srijan MitraⓉ
+first time team up	2nd	Closing Government	View Ballot	Prosper Michael AmetuⒸ , Siddharth Misra , Claudia HarperⓉ , Srijan MitraⓉ
+Swing 3	1st	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ , Siddharth Misra , Claudia HarperⓉ , Srijan MitraⓉ
+Batman and Rohit	4th	Closing Government	View Ballot	Henrietta VanniⒸ , Utkarsh Tomar , Sandeep Kaur sidhuⓉ , ShaynaⓉ
+NSU A	2nd	Opening Opposition	View Ballot	Henrietta VanniⒸ , Utkarsh Tomar , Sandeep Kaur sidhuⓉ , ShaynaⓉ
+KFDI baby baby baby ohhh	3rd	Closing Opposition	View Ballot	Henrietta VanniⒸ , Utkarsh Tomar , Sandeep Kaur sidhuⓉ , ShaynaⓉ
+we wingmanned each other to each ot	1st	Opening Government	View Ballot	Henrietta VanniⒸ , Utkarsh Tomar , Sandeep Kaur sidhuⓉ , ShaynaⓉ
+IITB Semester Exams after Semis	1st	Opening Government	View Ballot	Saleem SalisuⒸ , Rudraksh Jain , Saikushal I SⓉ
+Kuchh bhi	2nd	Closing Government	View Ballot	Saleem SalisuⒸ , Rudraksh Jain , Saikushal I SⓉ
+Tsukuba YY	4th	Opening Opposition	View Ballot	Saleem SalisuⒸ , Rudraksh Jain , Saikushal I SⓉ
+I definitely know what’s happening 	3rd	Closing Opposition	View Ballot	Saleem SalisuⒸ , Rudraksh Jain , Saikushal I SⓉ
+Crispy chicken	4th	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Aneesh Bhattacharjee , Aaryan ChaudharyⓉ , Hongyun ZhangⓉ
+sin cos tan tera soc mera fan	1st	Opening Government	View Ballot	Jonathan TuliaoⒸ , Aneesh Bhattacharjee , Aaryan ChaudharyⓉ , Hongyun ZhangⓉ
+IIUM 3	2nd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Aneesh Bhattacharjee , Aaryan ChaudharyⓉ , Hongyun ZhangⓉ
+Shri Ram Pre-UPSC	3rd	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Aneesh Bhattacharjee , Aaryan ChaudharyⓉ , Hongyun ZhangⓉ
+You Are A 10 On pH Scale	4th	Closing Opposition	View Ballot	ZiyadⒸ , Gopal KrishanⓉ , Ibrahim AlhabshiⓉ , Samridhi MehraⓉ
+The couch	1st	Opening Opposition	View Ballot	ZiyadⒸ , Gopal KrishanⓉ , Ibrahim AlhabshiⓉ , Samridhi MehraⓉ
+Twin Pilots	3rd	Opening Government	View Ballot	ZiyadⒸ , Gopal KrishanⓉ , Ibrahim AlhabshiⓉ , Samridhi MehraⓉ
+Engineer got a DU hoe	2nd	Closing Government	View Ballot	ZiyadⒸ , Gopal KrishanⓉ , Ibrahim AlhabshiⓉ , Samridhi MehraⓉ
+NYP A	3rd	Opening Opposition	View Ballot	V SayiramⒸ , Irin
+Tehelka omelette banaunga aaj	4th	Closing Government	View Ballot	V SayiramⒸ , Irin
+Justice for YoY Growth	2nd	Closing Opposition	View Ballot	V SayiramⒸ , Irin
+Teen Bhai Johnny Halwai	1st	Opening Government	View Ballot	V SayiramⒸ , Irin
+Chunnu Goli	4th	Opening Opposition	View Ballot	Emma AripinⒸ , Sanis Kumar , Shalomi NathⓉ
+Tsukuba HH	1st	Closing Opposition	View Ballot	Emma AripinⒸ , Sanis Kumar , Shalomi NathⓉ
+Swing 1	3rd	Closing Government	View Ballot	Emma AripinⒸ , Sanis Kumar , Shalomi NathⓉ
+Swing 2	2nd	Opening Government	View Ballot	Emma AripinⒸ , Sanis Kumar , Shalomi NathⓉ
+Thank you for the judge waiver	1st	Opening Government	View Ballot	Raihan RahmanⒸ , M. Roga Bara , Ria SawantⓉ
+POK Pookies	4th	Opening Opposition	View Ballot	Raihan RahmanⒸ , M. Roga Bara , Ria SawantⓉ
+Not Like Us	2nd	Closing Government	View Ballot	Raihan RahmanⒸ , M. Roga Bara , Ria SawantⓉ
+Ben10	3rd	Closing Opposition	View Ballot	Raihan RahmanⒸ , M. Roga Bara , Ria SawantⓉ
+Cheese and Crackers	4th	Opening Opposition	View Ballot	Priya ShuklaⒸ , Sanvi Agarwal , SaamiyaⓉ
+Dragon Soup	2nd	Closing Opposition	View Ballot	Priya ShuklaⒸ , Sanvi Agarwal , SaamiyaⓉ
+Macau Polytechnic University	3rd	Opening Government	View Ballot	Priya ShuklaⒸ , Sanvi Agarwal , SaamiyaⓉ
+yapington	1st	Closing Government	View Ballot	Priya ShuklaⒸ , Sanvi Agarwal , SaamiyaⓉ
+Rohan resurrects another debater fr	2nd	Opening Opposition	View Ballot	Kojo O. AcheampongⒸ , Rishant Sharma , Avril TohⓉ , Riya AggarwalⓉ
+Post Apocalyptic ki MKC	4th	Closing Opposition	View Ballot	Kojo O. AcheampongⒸ , Rishant Sharma , Avril TohⓉ , Riya AggarwalⓉ
+caffeinated n tired.	1st	Opening Government	View Ballot	Kojo O. AcheampongⒸ , Rishant Sharma , Avril TohⓉ , Riya AggarwalⓉ
+Bokachoda🦕	3rd	Closing Government	View Ballot	Kojo O. AcheampongⒸ , Rishant Sharma , Avril TohⓉ , Riya AggarwalⓉ
+Argonauts	1st	Opening Government	View Ballot	Pratyaksha VijayⒸ , Tirtha Mohite , Fatima AhmadⓉ
+OinkyBoinky	2nd	Closing Government	View Ballot	Pratyaksha VijayⒸ , Tirtha Mohite , Fatima AhmadⓉ
+Dynamo	4th	Closing Opposition	View Ballot	Pratyaksha VijayⒸ , Tirtha Mohite , Fatima AhmadⓉ
+Cogitation Collective	3rd	Opening Opposition	View Ballot	Pratyaksha VijayⒸ , Tirtha Mohite , Fatima AhmadⓉ
+ray ray and jiay jiay	1st	Opening Opposition	View Ballot	Vinay TekaniⒸ , Fransiska Hutabarat , Aishah ZuferdiⓉ
+daddy vipul blessed us today	2nd	Opening Government	View Ballot	Vinay TekaniⒸ , Fransiska Hutabarat , Aishah ZuferdiⓉ
+GCC Ghilli Fanclub	4th	Closing Government	View Ballot	Vinay TekaniⒸ , Fransiska Hutabarat , Aishah ZuferdiⓉ
+Plod	3rd	Closing Opposition	View Ballot	Vinay TekaniⒸ , Fransiska Hutabarat , Aishah ZuferdiⓉ
+Chihuhahahahahaha	3rd	Closing Government	View Ballot	Kavisshnu NadarajahⒸ , Angiraa Saikia , Kallarakkal Shreya RejiⓉ
+Iron Person? More like Iron Deficie	2nd	Opening Opposition	View Ballot	Kavisshnu NadarajahⒸ , Angiraa Saikia , Kallarakkal Shreya RejiⓉ
+Ozymandias	4th	Closing Opposition	View Ballot	Kavisshnu NadarajahⒸ , Angiraa Saikia , Kallarakkal Shreya RejiⓉ
+Swing 5	1st	Opening Government	View Ballot	Kavisshnu NadarajahⒸ , Angiraa Saikia , Kallarakkal Shreya RejiⓉ
+Intergalactic-Punjab Represent	3rd	Opening Government	View Ballot	Chisato KuwayamaⒸ , Akarsh , Chetanye GulatiⓉ
+Debating Divas	4th	Opening Opposition	View Ballot	Chisato KuwayamaⒸ , Akarsh , Chetanye GulatiⓉ
+MARA forgot to reg our team for ABP	1st	Closing Opposition	View Ballot	Chisato KuwayamaⒸ , Akarsh , Chetanye GulatiⓉ
+We dont miss amal	2nd	Closing Government	View Ballot	Chisato KuwayamaⒸ , Akarsh , Chetanye GulatiⓉ
+Birthday Boys	1st	Opening Government	View Ballot	Pratham DikshitⒸ , Cynne Paul Hayon , G VasudhaⓉ
+KFDI Raymond pls coach KFDI full ti	4th	Closing Opposition	View Ballot	Pratham DikshitⒸ , Cynne Paul Hayon , G VasudhaⓉ
+Rina &amp; Yuki	3rd	Opening Opposition	View Ballot	Pratham DikshitⒸ , Cynne Paul Hayon , G VasudhaⓉ
+MARA Boys	2nd	Closing Government	View Ballot	Pratham DikshitⒸ , Cynne Paul Hayon , G VasudhaⓉ
+Rookies	1st	Closing Government	View Ballot	Rubaiyat SamadⒸ , Raghad Abdelazim Ali Awadelkarim , Vanshika ChoudharyⓉ
+BREAKING B.S. (balance sheets)	3rd	Closing Opposition	View Ballot	Rubaiyat SamadⒸ , Raghad Abdelazim Ali Awadelkarim , Vanshika ChoudharyⓉ
+Hum baat nahi, behes karte hai	2nd	Opening Opposition	View Ballot	Rubaiyat SamadⒸ , Raghad Abdelazim Ali Awadelkarim , Vanshika ChoudharyⓉ
+Swing 4	4th	Opening Government	View Ballot	Rubaiyat SamadⒸ , Raghad Abdelazim Ali Awadelkarim , Vanshika ChoudharyⓉ
+
+
+team	result	side	ballot	adjudicators
+Post Apocalyptic ki MKC	4th	Closing Government	View Ballot	Emma AripinⒸ , Cynne Paul Hayon , Aditi KanadamⓉ , Ibrahim AlhabshiⓉ
+Tsukuba YY	3rd	Closing Opposition	View Ballot	Emma AripinⒸ , Cynne Paul Hayon , Aditi KanadamⓉ , Ibrahim AlhabshiⓉ
+Iron Person? More like Iron Deficie	1st	Opening Government	View Ballot	Emma AripinⒸ , Cynne Paul Hayon , Aditi KanadamⓉ , Ibrahim AlhabshiⓉ
+Ben10	2nd	Opening Opposition	View Ballot	Emma AripinⒸ , Cynne Paul Hayon , Aditi KanadamⓉ , Ibrahim AlhabshiⓉ
+IIUM pre 1971	1st	Closing Opposition	View Ballot	Krish SinghⒸ , Angiraa Saikia , V Sayiram
+Plod	2nd	Opening Government	View Ballot	Krish SinghⒸ , Angiraa Saikia , V Sayiram
+Teen Bhai Johnny Halwai	4th	Closing Government	View Ballot	Krish SinghⒸ , Angiraa Saikia , V Sayiram
+Bokachoda🦕	3rd	Opening Opposition	View Ballot	Krish SinghⒸ , Angiraa Saikia , V Sayiram
+Rookies	3rd	Opening Government	View Ballot	Henrietta VanniⒸ , Ryan Rayner , Aaryan ChaudharyⓉ , SaamiyaⓉ
+Intergalactic-Punjab Represent	2nd	Opening Opposition	View Ballot	Henrietta VanniⒸ , Ryan Rayner , Aaryan ChaudharyⓉ , SaamiyaⓉ
+Tsukuba HH	1st	Closing Government	View Ballot	Henrietta VanniⒸ , Ryan Rayner , Aaryan ChaudharyⓉ , SaamiyaⓉ
+2 idiots	4th	Closing Opposition	View Ballot	Henrietta VanniⒸ , Ryan Rayner , Aaryan ChaudharyⓉ , SaamiyaⓉ
+Birthday Boys	2nd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Fransiska Hutabarat , Sanis KumarⓉ , Tirtha MohiteⓉ
+Aman Mathur Fan Club	1st	Opening Government	View Ballot	Jonathan TuliaoⒸ , Fransiska Hutabarat , Sanis KumarⓉ , Tirtha MohiteⓉ
+IITB Semester Exams after Semis	4th	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Fransiska Hutabarat , Sanis KumarⓉ , Tirtha MohiteⓉ
+we wingmanned each other to each ot	3rd	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Fransiska Hutabarat , Sanis KumarⓉ , Tirtha MohiteⓉ
+Thank you for the judge waiver	4th	Closing Government	View Ballot	Devashish TrivediⒸ , Ashish Srivastava , Aneesh BhattacharjeeⓉ , ShaynaⓉ
+Rina &amp; Yuki	1st	Opening Opposition	View Ballot	Devashish TrivediⒸ , Ashish Srivastava , Aneesh BhattacharjeeⓉ , ShaynaⓉ
+We dont miss amal	3rd	Closing Opposition	View Ballot	Devashish TrivediⒸ , Ashish Srivastava , Aneesh BhattacharjeeⓉ , ShaynaⓉ
+Engineer got a DU hoe	2nd	Opening Government	View Ballot	Devashish TrivediⒸ , Ashish Srivastava , Aneesh BhattacharjeeⓉ , ShaynaⓉ
+Chihuhahahahahaha	4th	Opening Opposition	View Ballot	Priya ShuklaⒸ , Gopal KrishanⓉ , Saikushal I SⓉ
+Tehelka omelette banaunga aaj	2nd	Closing Opposition	View Ballot	Priya ShuklaⒸ , Gopal KrishanⓉ , Saikushal I SⓉ
+Dragon Soup	1st	Closing Government	View Ballot	Priya ShuklaⒸ , Gopal KrishanⓉ , Saikushal I SⓉ
+Ozymandias	3rd	Opening Government	View Ballot	Priya ShuklaⒸ , Gopal KrishanⓉ , Saikushal I SⓉ
+sin cos tan tera soc mera fan	1st	Opening Opposition	View Ballot	ZiyadⒸ , Irin , Pratyaksha Vijay , Jacen RatnamⓉ
+ray ray and jiay jiay	3rd	Closing Government	View Ballot	ZiyadⒸ , Irin , Pratyaksha Vijay , Jacen RatnamⓉ
+IIUM 3	2nd	Closing Opposition	View Ballot	ZiyadⒸ , Irin , Pratyaksha Vijay , Jacen RatnamⓉ
+caffeinated n tired.	4th	Opening Government	View Ballot	ZiyadⒸ , Irin , Pratyaksha Vijay , Jacen RatnamⓉ
+Crispy chicken	2nd	Closing Government	View Ballot	Pratha JamwalⒸ , Chisato Kuwayama , Uphie , Shalomi NathⓉ
+The couch	1st	Opening Government	View Ballot	Pratha JamwalⒸ , Chisato Kuwayama , Uphie , Shalomi NathⓉ
+GCC Ghilli Fanclub	4th	Closing Opposition	View Ballot	Pratha JamwalⒸ , Chisato Kuwayama , Uphie , Shalomi NathⓉ
+point taken	3rd	Opening Opposition	View Ballot	Pratha JamwalⒸ , Chisato Kuwayama , Uphie , Shalomi NathⓉ
+NYP A	4th	Closing Government	View Ballot	Prosper Michael AmetuⒸ , M. Roga Bara , Hongyun ZhangⓉ
+NSU A	2nd	Opening Government	View Ballot	Prosper Michael AmetuⒸ , M. Roga Bara , Hongyun ZhangⓉ
+Post apocalyptic 69 wing	1st	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ , M. Roga Bara , Hongyun ZhangⓉ
+I definitely know what’s happening 	3rd	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ , M. Roga Bara , Hongyun ZhangⓉ
+hyderabad kolkata bhai bhai biriyan	2nd	Opening Government	View Ballot	Kojo O. AcheampongⒸ , Utkarsh Tomar , Chetanye GulatiⓉ , Ria SawantⓉ
+Kuchh bhi	1st	Opening Opposition	View Ballot	Kojo O. AcheampongⒸ , Utkarsh Tomar , Chetanye GulatiⓉ , Ria SawantⓉ
+Kya Karan Akshat break karenge	4th	Closing Government	View Ballot	Kojo O. AcheampongⒸ , Utkarsh Tomar , Chetanye GulatiⓉ , Ria SawantⓉ
+Not Like Us	3rd	Closing Opposition	View Ballot	Kojo O. AcheampongⒸ , Utkarsh Tomar , Chetanye GulatiⓉ , Ria SawantⓉ
+You Are A 10 On pH Scale	3rd	Opening Government	View Ballot	Vinay TekaniⒸ , Rishant SharmaⓉ , Sandeep Kaur sidhuⓉ
+POK Pookies	2nd	Closing Opposition	View Ballot	Vinay TekaniⒸ , Rishant SharmaⓉ , Sandeep Kaur sidhuⓉ
+OinkyBoinky	4th	Opening Opposition	View Ballot	Vinay TekaniⒸ , Rishant SharmaⓉ , Sandeep Kaur sidhuⓉ
+The Gene Pool Party	1st	Closing Government	View Ballot	Vinay TekaniⒸ , Rishant SharmaⓉ , Sandeep Kaur sidhuⓉ
+Invincible	4th	Closing Government	View Ballot	Rubaiyat SamadⒸ , Kallarakkal Shreya RejiⓉ , Samridhi MehraⓉ
+Dynamo	3rd	Opening Government	View Ballot	Rubaiyat SamadⒸ , Kallarakkal Shreya RejiⓉ , Samridhi MehraⓉ
+Swing 3	1st	Closing Opposition	View Ballot	Rubaiyat SamadⒸ , Kallarakkal Shreya RejiⓉ , Samridhi MehraⓉ
+BREAKING B.S. (balance sheets)	2nd	Opening Opposition	View Ballot	Rubaiyat SamadⒸ , Kallarakkal Shreya RejiⓉ , Samridhi MehraⓉ
+Chunnu Goli	3rd	Opening Government	View Ballot	Raihan RahmanⒸ , Claudia HarperⓉ , G VasudhaⓉ
+Macau Polytechnic University	4th	Closing Opposition	View Ballot	Raihan RahmanⒸ , Claudia HarperⓉ , G VasudhaⓉ
+Swing 1	2nd	Closing Government	View Ballot	Raihan RahmanⒸ , Claudia HarperⓉ , G VasudhaⓉ
+Hum baat nahi, behes karte hai	1st	Opening Opposition	View Ballot	Raihan RahmanⒸ , Claudia HarperⓉ , G VasudhaⓉ
+Rohan resurrects another debater fr	2nd	Opening Government	View Ballot	Kiki LiewⒸ , Tavish Joshi , Raghad Abdelazim Ali AwadelkarimⓉ , Shoibayon GangulyⓉ
+daddy vipul blessed us today	4th	Opening Opposition	View Ballot	Kiki LiewⒸ , Tavish Joshi , Raghad Abdelazim Ali AwadelkarimⓉ , Shoibayon GangulyⓉ
+first time team up	3rd	Closing Opposition	View Ballot	Kiki LiewⒸ , Tavish Joshi , Raghad Abdelazim Ali AwadelkarimⓉ , Shoibayon GangulyⓉ
+Robbing rep for Rehan	1st	Closing Government	View Ballot	Kiki LiewⒸ , Tavish Joshi , Raghad Abdelazim Ali AwadelkarimⓉ , Shoibayon GangulyⓉ
+MARA forgot to reg our team for ABP	3rd	Closing Government	View Ballot	Raymond KimuraⒸ , Akarsh , MishitaⓉ , Riya AggarwalⓉ
+MARA Boys	4th	Opening Government	View Ballot	Raymond KimuraⒸ , Akarsh , MishitaⓉ , Riya AggarwalⓉ
+Justice for YoY Growth	2nd	Opening Opposition	View Ballot	Raymond KimuraⒸ , Akarsh , MishitaⓉ , Riya AggarwalⓉ
+Shri Ram Pre-UPSC	1st	Closing Opposition	View Ballot	Raymond KimuraⒸ , Akarsh , MishitaⓉ , Riya AggarwalⓉ
+KFDI Raymond pls coach KFDI full ti	3rd	Closing Government	View Ballot	Saleem SalisuⒸ , Siddharth Misra , Mokshaa SridharⓉ
+Twin Pilots	1st	Opening Opposition	View Ballot	Saleem SalisuⒸ , Siddharth Misra , Mokshaa SridharⓉ
+Qubits	2nd	Opening Government	View Ballot	Saleem SalisuⒸ , Siddharth Misra , Mokshaa SridharⓉ
+yapington	4th	Closing Opposition	View Ballot	Saleem SalisuⒸ , Siddharth Misra , Mokshaa SridharⓉ
+bhAAi	3rd	Closing Government	View Ballot	Pratham DikshitⒸ , Rudraksh Jain , Avril TohⓉ
+Argonauts	1st	Opening Opposition	View Ballot	Pratham DikshitⒸ , Rudraksh Jain , Avril TohⓉ
+KFDI baby baby baby ohhh	2nd	Opening Government	View Ballot	Pratham DikshitⒸ , Rudraksh Jain , Avril TohⓉ
+Debating Divas	4th	Closing Opposition	View Ballot	Pratham DikshitⒸ , Rudraksh Jain , Avril TohⓉ
+
+
+team	result	side	ballot	adjudicators
+hyderabad kolkata bhai bhai biriyan	4th	Opening Government	View Ballot	Prosper Michael AmetuⒸ , Utkarsh Tomar , V Sayiram , Sanis KumarⓉ
+Crispy chicken	2nd	Opening Opposition	View Ballot	Prosper Michael AmetuⒸ , Utkarsh Tomar , V Sayiram , Sanis KumarⓉ
+Plod	1st	Closing Opposition	View Ballot	Prosper Michael AmetuⒸ , Utkarsh Tomar , V Sayiram , Sanis KumarⓉ
+we wingmanned each other to each ot	3rd	Closing Government	View Ballot	Prosper Michael AmetuⒸ , Utkarsh Tomar , V Sayiram , Sanis KumarⓉ
+NYP A	2nd	Closing Government	View Ballot	Ryan RaynerⒸ , Aneesh Bhattacharjee , Kleetalin MaymanⓉ , Saikushal I SⓉ
+Tsukuba YY	4th	Opening Opposition	View Ballot	Ryan RaynerⒸ , Aneesh Bhattacharjee , Kleetalin MaymanⓉ , Saikushal I SⓉ
+GCC Ghilli Fanclub	1st	Closing Opposition	View Ballot	Ryan RaynerⒸ , Aneesh Bhattacharjee , Kleetalin MaymanⓉ , Saikushal I SⓉ
+Hum baat nahi, behes karte hai	3rd	Opening Government	View Ballot	Ryan RaynerⒸ , Aneesh Bhattacharjee , Kleetalin MaymanⓉ , Saikushal I SⓉ
+Tehelka omelette banaunga aaj	4th	Opening Opposition	View Ballot	Emma AripinⒸ , Ashish Srivastava , Rishant Sharma
+Dragon Soup	1st	Opening Government	View Ballot	Emma AripinⒸ , Ashish Srivastava , Rishant Sharma
+Not Like Us	3rd	Closing Government	View Ballot	Emma AripinⒸ , Ashish Srivastava , Rishant Sharma
+I definitely know what’s happening 	2nd	Closing Opposition	View Ballot	Emma AripinⒸ , Ashish Srivastava , Rishant Sharma
+You Are A 10 On pH Scale	2nd	Opening Government	View Ballot	Pratyaksha VijayⒸ , Raghad Abdelazim Ali Awadelkarim , Aishah ZuferdiⓉ , G VasudhaⓉ
+Post Apocalyptic ki MKC	1st	Closing Government	View Ballot	Pratyaksha VijayⒸ , Raghad Abdelazim Ali Awadelkarim , Aishah ZuferdiⓉ , G VasudhaⓉ
+Debating Divas	4th	Closing Opposition	View Ballot	Pratyaksha VijayⒸ , Raghad Abdelazim Ali Awadelkarim , Aishah ZuferdiⓉ , G VasudhaⓉ
+yapington	3rd	Opening Opposition	View Ballot	Pratyaksha VijayⒸ , Raghad Abdelazim Ali Awadelkarim , Aishah ZuferdiⓉ , G VasudhaⓉ
+bhAAi	4th	Opening Government	View Ballot	Rubaiyat SamadⒸ , Aditi Kanadam , Mokshaa Sridhar , Aaryan ChaudharyⓉ
+KFDI Raymond pls coach KFDI full ti	3rd	Closing Opposition	View Ballot	Rubaiyat SamadⒸ , Aditi Kanadam , Mokshaa Sridhar , Aaryan ChaudharyⓉ
+POK Pookies	2nd	Opening Opposition	View Ballot	Rubaiyat SamadⒸ , Aditi Kanadam , Mokshaa Sridhar , Aaryan ChaudharyⓉ
+Kya Karan Akshat break karenge	1st	Closing Government	View Ballot	Rubaiyat SamadⒸ , Aditi Kanadam , Mokshaa Sridhar , Aaryan ChaudharyⓉ
+Birthday Boys	2nd	Closing Government	View Ballot	Chisato KuwayamaⒸ , Priya Shukla , Siddharth Misra , Kallarakkal Shreya RejiⓉ
+Rohan resurrects another debater fr	1st	Opening Opposition	View Ballot	Chisato KuwayamaⒸ , Priya Shukla , Siddharth Misra , Kallarakkal Shreya RejiⓉ
+Justice for YoY Growth	4th	Closing Opposition	View Ballot	Chisato KuwayamaⒸ , Priya Shukla , Siddharth Misra , Kallarakkal Shreya RejiⓉ
+Shri Ram Pre-UPSC	3rd	Opening Government	View Ballot	Chisato KuwayamaⒸ , Priya Shukla , Siddharth Misra , Kallarakkal Shreya RejiⓉ
+caffeinated n tired.	1st	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Raihan Rahman , Saamiya , Tamanna DagarⓉ
+The Gene Pool Party	4th	Opening Government	View Ballot	Jonathan TuliaoⒸ , Raihan Rahman , Saamiya , Tamanna DagarⓉ
+Twin Pilots	3rd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Raihan Rahman , Saamiya , Tamanna DagarⓉ
+Iron Person? More like Iron Deficie	2nd	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Raihan Rahman , Saamiya , Tamanna DagarⓉ
+Intergalactic-Punjab Represent	2nd	Closing Opposition	View Ballot	Tavish JoshiⒸ , Irin , Shalomi NathⓉ
+We dont miss amal	1st	Opening Opposition	View Ballot	Tavish JoshiⒸ , Irin , Shalomi NathⓉ
+Swing 3	3rd	Opening Government	View Ballot	Tavish JoshiⒸ , Irin , Shalomi NathⓉ
+Ben10	4th	Closing Government	View Ballot	Tavish JoshiⒸ , Irin , Shalomi NathⓉ
+sin cos tan tera soc mera fan	3rd	Closing Opposition	View Ballot	Henrietta VanniⒸ , Kojo O. Acheampong , Vidhi ChughⓉ
+Aman Mathur Fan Club	2nd	Opening Government	View Ballot	Henrietta VanniⒸ , Kojo O. Acheampong , Vidhi ChughⓉ
+IIUM 3	4th	Closing Government	View Ballot	Henrietta VanniⒸ , Kojo O. Acheampong , Vidhi ChughⓉ
+Robbing rep for Rehan	1st	Opening Opposition	View Ballot	Henrietta VanniⒸ , Kojo O. Acheampong , Vidhi ChughⓉ
+ray ray and jiay jiay	4th	Opening Opposition	View Ballot	Devashish TrivediⒸ , Akarsh , Hongyun ZhangⓉ
+The couch	1st	Closing Government	View Ballot	Devashish TrivediⒸ , Akarsh , Hongyun ZhangⓉ
+first time team up	2nd	Closing Opposition	View Ballot	Devashish TrivediⒸ , Akarsh , Hongyun ZhangⓉ
+Kuchh bhi	3rd	Opening Government	View Ballot	Devashish TrivediⒸ , Akarsh , Hongyun ZhangⓉ
+Tsukuba HH	2nd	Closing Opposition	View Ballot	Vinay TekaniⒸ , Cynne Paul Hayon , Pratham Dikshit , Shoibayon GangulyⓉ
+MARA forgot to reg our team for ABP	1st	Opening Government	View Ballot	Vinay TekaniⒸ , Cynne Paul Hayon , Pratham Dikshit , Shoibayon GangulyⓉ
+point taken	4th	Opening Opposition	View Ballot	Vinay TekaniⒸ , Cynne Paul Hayon , Pratham Dikshit , Shoibayon GangulyⓉ
+Bokachoda🦕	3rd	Closing Government	View Ballot	Vinay TekaniⒸ , Cynne Paul Hayon , Pratham Dikshit , Shoibayon GangulyⓉ
+IIUM pre 1971	1st	Opening Government	View Ballot	Pratha JamwalⒸ , Raymond Kimura , Sanvi Agarwal , Samridhi MehraⓉ
+IITB Semester Exams after Semis	2nd	Closing Opposition	View Ballot	Pratha JamwalⒸ , Raymond Kimura , Sanvi Agarwal , Samridhi MehraⓉ
+Post apocalyptic 69 wing	3rd	Opening Opposition	View Ballot	Pratha JamwalⒸ , Raymond Kimura , Sanvi Agarwal , Samridhi MehraⓉ
+Rina &amp; Yuki	4th	Closing Government	View Ballot	Pratha JamwalⒸ , Raymond Kimura , Sanvi Agarwal , Samridhi MehraⓉ
+KFDI baby baby baby ohhh	4th	Closing Government	View Ballot	ZiyadⒸ , Fransiska Hutabarat , Angiraa SaikiaⓉ
+MARA Boys	1st	Opening Opposition	View Ballot	ZiyadⒸ , Fransiska Hutabarat , Angiraa SaikiaⓉ
+Teen Bhai Johnny Halwai	2nd	Opening Government	View Ballot	ZiyadⒸ , Fransiska Hutabarat , Angiraa SaikiaⓉ
+Qubits	3rd	Closing Opposition	View Ballot	ZiyadⒸ , Fransiska Hutabarat , Angiraa SaikiaⓉ
+Invincible	3rd	Closing Government	View Ballot	Saleem SalisuⒸ , Ibrahim Alhabshi , Ansh Kumar AroraⓉ , ShaynaⓉ
+OinkyBoinky	4th	Closing Opposition	View Ballot	Saleem SalisuⒸ , Ibrahim Alhabshi , Ansh Kumar AroraⓉ , ShaynaⓉ
+Dynamo	1st	Opening Opposition	View Ballot	Saleem SalisuⒸ , Ibrahim Alhabshi , Ansh Kumar AroraⓉ , ShaynaⓉ
+Macau Polytechnic University	2nd	Opening Government	View Ballot	Saleem SalisuⒸ , Ibrahim Alhabshi , Ansh Kumar AroraⓉ , ShaynaⓉ
+Chihuhahahahahaha	3rd	Opening Government	View Ballot	M. Roga BaraⒸ , Tirtha Mohite , TashaⓉ
+Ozymandias	1st	Closing Opposition	View Ballot	M. Roga BaraⒸ , Tirtha Mohite , TashaⓉ
+BREAKING B.S. (balance sheets)	4th	Closing Government	View Ballot	M. Roga BaraⒸ , Tirtha Mohite , TashaⓉ
+2 idiots	2nd	Opening Opposition	View Ballot	M. Roga BaraⒸ , Tirtha Mohite , TashaⓉ
+Argonauts	4th	Closing Government	View Ballot	Krish SinghⒸ , Kavisshnu Nadarajah , Sandeep Kaur sidhuⓉ , Vanshika ChoudharyⓉ
+NSU A	3rd	Closing Opposition	View Ballot	Krish SinghⒸ , Kavisshnu Nadarajah , Sandeep Kaur sidhuⓉ , Vanshika ChoudharyⓉ
+daddy vipul blessed us today	2nd	Opening Government	View Ballot	Krish SinghⒸ , Kavisshnu Nadarajah , Sandeep Kaur sidhuⓉ , Vanshika ChoudharyⓉ
+Engineer got a DU hoe	1st	Opening Opposition	View Ballot	Krish SinghⒸ , Kavisshnu Nadarajah , Sandeep Kaur sidhuⓉ , Vanshika ChoudharyⓉ
+
+
+team	result	side	adjudicators
+Kuchh bhi	eliminated	Opening Opposition	Tavish JoshiⒸ , Krish Singh , Raihan Rahman
+MARA Boys	advancing	Opening Government	Tavish JoshiⒸ , Krish Singh , Raihan Rahman
+GCC Ghilli Fanclub	eliminated	Closing Opposition	Tavish JoshiⒸ , Krish Singh , Raihan Rahman
+I definitely know what’s happening 	advancing	Closing Government	Tavish JoshiⒸ , Krish Singh , Raihan Rahman
+Post apocalyptic 69 wing	advancing	Opening Opposition	Henrietta VanniⒸ , M. Roga Bara
+Dragon Soup	eliminated	Opening Government	Henrietta VanniⒸ , M. Roga Bara
+Twin Pilots	eliminated	Closing Government	Henrietta VanniⒸ , M. Roga Bara
+Iron Person? More like Iron Deficie	advancing	Closing Opposition	Henrietta VanniⒸ , M. Roga Bara
+
+
+team	result	side	adjudicators
+IIUM pre 1971	advancing	Closing Government	Devashish TrivediⒸ , Emma Aripin , Rudraksh Jain
+Aman Mathur Fan Club	advancing	Closing Opposition	Devashish TrivediⒸ , Emma Aripin , Rudraksh Jain
+caffeinated n tired.	eliminated	Opening Government	Devashish TrivediⒸ , Emma Aripin , Rudraksh Jain
+Engineer got a DU hoe	eliminated	Opening Opposition	Devashish TrivediⒸ , Emma Aripin , Rudraksh Jain
+ray ray and jiay jiay	advancing	Opening Opposition	Jonathan TuliaoⒸ , Fransiska Hutabarat , V Sayiram
+IIUM 3	eliminated	Closing Opposition	Jonathan TuliaoⒸ , Fransiska Hutabarat , V Sayiram
+Robbing rep for Rehan	eliminated	Closing Government	Jonathan TuliaoⒸ , Fransiska Hutabarat , V Sayiram
+MARA forgot to reg our team for ABP	advancing	Opening Government	Jonathan TuliaoⒸ , Fransiska Hutabarat , V Sayiram
+daddy vipul blessed us today	advancing	Opening Opposition	Vinay TekaniⒸ , Kiki Liew , Pratyaksha Vijay
+The couch	advancing	Closing Government	Vinay TekaniⒸ , Kiki Liew , Pratyaksha Vijay
+Plod	eliminated	Closing Opposition	Vinay TekaniⒸ , Kiki Liew , Pratyaksha Vijay
+Shri Ram Pre-UPSC	eliminated	Opening Government	Vinay TekaniⒸ , Kiki Liew , Pratyaksha Vijay
+Crispy chicken	eliminated	Opening Opposition	Chisato KuwayamaⒸ , Uphie
+sin cos tan tera soc mera fan	advancing	Closing Opposition	Chisato KuwayamaⒸ , Uphie
+first time team up	advancing	Closing Government	Chisato KuwayamaⒸ , Uphie
+We dont miss amal	eliminated	Opening Government	Chisato KuwayamaⒸ , Uphie
+
+
+team	result	side	adjudicators
+Post apocalyptic 69 wing	advancing	Closing Opposition	ZiyadⒸ , Akarsh , Chisato Kuwayama , Ryan Rayner , Tavish Joshi
+MARA Boys	eliminated	Closing Government	ZiyadⒸ , Akarsh , Chisato Kuwayama , Ryan Rayner , Tavish Joshi
+Iron Person? More like Iron Deficie	eliminated	Opening Government	ZiyadⒸ , Akarsh , Chisato Kuwayama , Ryan Rayner , Tavish Joshi
+I definitely know what’s happening 	eliminated	Opening Opposition	ZiyadⒸ , Akarsh , Chisato Kuwayama , Ryan Rayner , Tavish Joshi
+
+
+team	result	side	adjudicators
+IIUM pre 1971	eliminated	Opening Opposition	Pratha JamwalⒸ , Kojo O. Acheampong , M. Roga Bara
+ray ray and jiay jiay	advancing	Closing Government	Pratha JamwalⒸ , Kojo O. Acheampong , M. Roga Bara
+Aman Mathur Fan Club	eliminated	Closing Opposition	Pratha JamwalⒸ , Kojo O. Acheampong , M. Roga Bara
+MARA forgot to reg our team for ABP	advancing	Opening Government	Pratha JamwalⒸ , Kojo O. Acheampong , M. Roga Bara
+sin cos tan tera soc mera fan	advancing	Opening Government	Devashish TrivediⒸ , Rudraksh Jain , V Sayiram
+daddy vipul blessed us today	eliminated	Opening Opposition	Devashish TrivediⒸ , Rudraksh Jain , V Sayiram
+The couch	advancing	Closing Government	Devashish TrivediⒸ , Rudraksh Jain , V Sayiram
+first time team up	eliminated	Closing Opposition	Devashish TrivediⒸ , Rudraksh Jain , V Sayiram
+
+
+team	result	side	adjudicators
+sin cos tan tera soc mera fan	eliminated	Closing Government	Krish SinghⒸ , Devashish Trivedi , Henrietta Vanni , Pratha Jamwal , Raymond Kimura
+ray ray and jiay jiay	eliminated	Closing Opposition	Krish SinghⒸ , Devashish Trivedi , Henrietta Vanni , Pratha Jamwal , Raymond Kimura
+The couch	advancing	Opening Government	Krish SinghⒸ , Devashish Trivedi , Henrietta Vanni , Pratha Jamwal , Raymond Kimura
+MARA forgot to reg our team for ABP	eliminated	Opening Opposition	Krish SinghⒸ , Devashish Trivedi , Henrietta Vanni , Pratha Jamwal , Raymond Kimura
+

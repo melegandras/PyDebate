@@ -1,0 +1,812 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds	ATSS	SSD
+1	Hybrid G		1st	2nd	1st	1st	1st	14	816	4	1	163.20	2.71
+2	Zagreb A	ESL	1st	1st	1st	2nd	2nd	13	810	3	2	162.00	1.67
+3	Hybrid H		2nd	1st	2nd	2nd	1st	12	797	2	3	159.40	4.72
+4	Leiden A		1st	3rd	1st	2nd	1st	12	785	3	1	157.00	4.90
+5	Hybrid Q		1st	1st	1st	3rd	3rd	11	817	3	0	163.40	3.20
+6	TCD Hist/Sofia A		2nd	1st	1st	1st	4th	11	808	3	1	161.60	1.85
+7	Cambridge A		3rd	2nd	1st	1st	2nd	11	808	2	2	161.60	3.61
+8	Independent G		1st	3rd	1st	2nd	2nd	11	806	2	2	161.20	2.71
+9	Queens A		1st	2nd	2nd	3rd	1st	11	799	2	2	159.80	3.66
+10	Independent F		3rd	1st	1st	1st	3rd	11	798	3	0	159.60	3.61
+11	Technion A		3rd	3rd	1st	1st	1st	11	776	3	0	155.20	3.19
+12	Hybrid L	ESL	4th	1st	1st	1st	3rd	10	800	3	0	160.00	3.79
+13	UADS A		1st	1st	2nd	4th	2nd	10	791	2	2	158.20	2.32
+14	Zagreb B	ESL	1st	2nd	4th	2nd	1st	10	785	2	2	157.00	4.15
+15	Independent A		2nd	3rd	2nd	1st	2nd	10	784	1	3	156.80	3.19
+16	Duke D		2nd	2nd	4th	1st	1st	10	775	2	2	155.00	3.16
+17	Williams A		2nd	1st	4th	2nd	1st	10	772	2	2	154.40	2.24
+18	Hybrid C	ESL	1st	2nd	4th	2nd	1st	10	769	2	2	153.80	3.97
+19	Hybrid N		2nd	2nd	2nd	2nd	2nd	10	766	0	5	153.20	3.43
+20	Hybrid B		1st	1st	4th	2nd	3rd	9	810	2	1	162.00	3.22
+21	Queens B		1st	1st	2nd	3rd	4th	9	795	2	1	159.00	5.62
+22	Victoria A		3rd	1st	1st	4th	2nd	9	786	2	1	157.20	4.12
+23	Middlebury A		2nd	3rd	1st	3rd	2nd	9	781	1	2	156.20	5.34
+24	HWS A		3rd	1st	2nd	3rd	2nd	9	780	1	2	156.00	2.10
+25	Reichman A	ESL	1st	2nd	3rd	1st	4th	9	776	2	1	155.20	6.52
+26	Ottawa A		1st	4th	1st	1st	4th	9	770	3	0	154.00	1.67
+27	JHU A	Novice	2nd	2nd	3rd	1st	3rd	9	770	1	2	154.00	5.62
+28	TEC CEM A	ESL	1st	4th	3rd	2nd	1st	9	767	2	1	153.40	2.33
+29	DDU B	ESL	3rd	1st	3rd	3rd	1st	9	767	2	0	153.40	4.22
+30	UCLA B		1st	4th	4th	1st	1st	9	759	3	0	151.80	5.46
+31	Swarthmore B		2nd	1st	3rd	2nd	3rd	9	753	1	2	150.60	1.85
+32	Sydney A	Novice	1st	1st	3rd	4th	3rd	8	793	2	0	158.60	2.42
+33	Hybrid K	ESL	3rd	3rd	3rd	1st	2nd	8	768	1	1	153.60	5.00
+34	UCDS A		2nd	3rd	3rd	3rd	1st	8	764	1	1	152.80	2.86
+35	Hybrid A	Novice	2nd	2nd	4th	3rd	1st	8	761	1	2	152.20	2.48
+36	McGill A	Novice	2nd	2nd	3rd	3rd	2nd	8	760	0	3	152.00	2.10
+37	Manoa A	Novice	4th	3rd	1st	2nd	2nd	8	758	1	2	151.60	2.15
+38	SODALES A		2nd	3rd	2nd	4th	1st	8	751	1	2	150.20	1.72
+39	Claremont A		2nd	4th	1st	1st	4th	8	745	2	1	149.00	5.02
+40	Swing 5		1st	1st	—	—	2nd	8	471	2	1	157.00	2.45
+41	UCLA C	ESL	2nd	1st	2nd	4th	4th	7	787	1	2	157.40	3.50
+42	KNUST B	ESL	3rd	2nd	2nd	3rd	3rd	7	774	0	2	154.80	4.87
+43	KNUST D	ESL	3rd	2nd	3rd	1st	4th	7	771	1	1	154.20	2.48
+44	KNUST C	ESL	3rd	1st	3rd	2nd	4th	7	768	1	1	153.60	5.24
+45	Chile A	ESL, Novice	2nd	3rd	4th	1st	3rd	7	765	1	1	153.00	3.41
+46	UCLA A	Novice	1st	4th	4th	3rd	1st	7	763	2	0	152.60	4.13
+47	ASDV A	ESL	3rd	4th	3rd	2nd	1st	7	762	1	1	152.40	4.50
+48	Independent J	ESL	4th	2nd	4th	1st	2nd	7	760	1	2	152.00	4.73
+49	Duke A	Novice	1st	3rd	4th	4th	1st	7	756	2	0	151.20	4.40
+50	Duke B		3rd	4th	1st	2nd	3rd	7	752	1	1	150.40	3.72
+51	Independent C	Novice	4th	3rd	2nd	2nd	2nd	7	751	0	3	150.20	2.64
+52	Swarthmore C		2nd	3rd	3rd	3rd	2nd	7	748	0	2	149.60	3.14
+53	Duke C	Novice	4th	1st	4th	1st	3rd	7	747	2	0	149.40	1.02
+54	Hybrid O	ESL	4th	1st	1st	4th	3rd	7	742	2	0	148.40	12.61
+55	Tsinghua A		1st	3rd	1st	—	—	7	470	2	0	156.67	2.87
+56	Swing 2		2nd	4th	1st	4th	3rd	6	757	1	1	151.40	3.44
+57	Loyola A		2nd	1st	4th	3rd	4th	6	756	1	1	151.20	3.37
+58	UWODS A	Novice	2nd	3rd	3rd	3rd	3rd	6	755	0	1	151.00	3.22
+59	UADS C		2nd	4th	2nd	4th	2nd	6	751	0	3	150.20	4.17
+60	Manchester A		4th	1st	2nd	3rd	4th	6	747	1	1	149.40	4.63
+61	Swing 1		4th	1st	4th	3rd	2nd	6	744	1	1	148.80	5.98
+62	Delhi A	ESL, Novice	4th	2nd	3rd	4th	1st	6	743	1	1	148.60	5.04
+63	Independent D	ESL	2nd	4th	2nd	2nd	4th	6	739	0	3	147.80	4.87
+64	MSU A	Novice	3rd	4th	2nd	2nd	3rd	6	739	0	2	147.80	2.79
+65	Swarthmore A		1st	3rd	2nd	4th	—	6	627	1	1	156.75	2.77
+66	Hybrid M		1st	2nd	3rd	—	—	6	469	1	1	156.33	2.05
+67	Carroll A		4th	3rd	4th	2nd	2nd	5	745	0	2	149.00	6.72
+68	HWS C		3rd	3rd	4th	1st	4th	5	741	1	0	148.20	5.78
+69	Independent E	Novice	3rd	2nd	2nd	4th	4th	5	740	0	2	148.00	3.29
+70	Waterloo A	Novice	4th	2nd	2nd	3rd	4th	5	739	0	2	147.80	3.87
+71	NLIU B	ESL, Novice	4th	2nd	1st	4th	4th	5	730	1	1	146.00	6.57
+72	UADS B	ESL, Novice	3rd	3rd	3rd	3rd	3rd	5	730	0	0	146.00	2.90
+73	SODALES B		3rd	2nd	3rd	4th	3rd	5	727	0	1	145.40	3.61
+74	Macau A	ESL	3rd	2nd	2nd	—	—	5	456	0	2	152.00	1.63
+75	Loyola B		2nd	4th	2nd	4th	4th	4	757	0	2	151.40	6.59
+76	HWS B	Novice	4th	3rd	4th	1st	4th	4	744	1	0	148.80	4.66
+77	Bangladesh A	ESL	3rd	3rd	3rd	4th	3rd	4	742	0	0	148.40	1.02
+78	Hybrid J	ESL	3rd	4th	4th	3rd	2nd	4	734	0	1	146.80	5.42
+79	HWS D	Novice	4th	4th	3rd	2nd	3rd	4	729	0	1	145.80	6.05
+80	SciencesPo A	ESL, Novice	3rd	4th	—	—	1st	4	455	1	0	151.67	3.40
+81	CUDS B	Novice	4th	4th	1st	4th	4th	3	729	1	0	145.80	3.06
+82	DDU A	ESL, Novice	1st	4th	4th	—	—	3	468	1	0	156.00	1.41
+83	NLIU A	ESL, Novice	4th	3rd	3rd	4th	4th	2	724	0	0	144.80	3.87
+84	Hasanuddin A	ESL, Novice	4th	4th	2nd	—	4th	2	588	0	1	147.00	1.22
+85	CUDS A		4th	4th	—	3rd	3rd	2	583	0	0	145.75	4.32
+86	Swing 4		4th	2nd	—	4th	—	2	449	0	1	149.67	0.47
+87	Hybrid F	ESL	—	2nd	4th	—	—	2	286	0	1	143.00	0.00
+88	NNU		3rd	4th	4th	—	—	1	433	0	0	144.33	1.25
+89	BUET A	ESL	4th	3rd	—	—	—	1	296	0	0	148.00	0.00
+90	Independent I	ESL	3rd	4th	—	—	—	1	281	0	0	140.50	10.50
+91	Swing 3		4th	4th	—	4th	—	0	443	0	0	147.67	2.05
+92=	PUCP A	ESL	—	4th	—	—	—	0	144	0	0	144.00	0.00
+92=	Victoria B		4th	—	—	—	—	0	144	0	0	144.00	0.00
+92=	Hybrid P	ESL	4th	—	—	—	—	0	144	0	0	144.00	0.00
+95=	Covenant A		—	—	—	—	—	—	—	0	0	—	—
+95=	Covenant B	ESL, Novice	—	—	—	—	—	—	—	0	0	—	—
+95=	Covenant C	ESL	—	—	—	—	—	—	—	0	0	—	—
+95=	Covenant D	ESL	—	—	—	—	—	—	—	0	0	—	—
+95=	Covenant E	ESL	—	—	—	—	—	—	—	0	0	—	—
+95=	Morocco A	ESL, Novice	—	—	—	—	—	—	—	0	0	—	—
+95=	Morocco B	ESL, Novice	—	—	—	—	—	—	—	0	0	—	—
+95=	Windsor A	Novice	—	—	—	—	—	—	—	0	0	—	—
+95=	Hybrid I		—	—	—	—	—	—	—	0	0	—	—
+95=	Independent H	ESL	—	—	—	—	—	—	—	0	0	—	—
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev	Trim
+1	Katharina Jansen		Hybrid G	83	81	80	84	83	411	82.20	1.47	82.33
+2	Tin Puljić	ESL	Zagreb A	83	81	81	83	82	410	82.00	0.89	82.00
+3	Naomi Panovka		Hybrid Q	82	81	85	81	81	410	82.00	1.55	81.33
+4	Gwen Stearns		Hybrid B	81	83	83	83	78	408	81.60	1.96	82.33
+5	Emery Taylor		Hybrid Q	83	80	84	80	80	407	81.40	1.74	81.00
+6	Isabelle Sim		Cambridge A	82	82	78	85	80	407	81.40	2.33	81.33
+7	Vladimira Šuflaj	ESL	Hybrid G	82	80	79	82	82	405	81.00	1.26	81.33
+8	Rumen Marinov	ESL	TCD Hist/Sofia A	80	81	81	82	80	404	80.80	0.75	80.67
+9	Martha McKinney-Perry		TCD Hist/Sofia A	80	81	80	83	80	404	80.80	1.17	80.33
+10	Alastair Bowyer		Independent G	80	78	81	84	81	404	80.80	1.94	80.67
+11	William Smith		Independent G	80	80	79	82	81	402	80.40	1.02	80.33
+12	Matt Aydin		Hybrid B	80	83	78	82	79	402	80.40	1.85	80.33
+13	Ayal Mor	ESL	Hybrid L	77	81	80	83	81	402	80.40	1.96	80.67
+14	Joshua Low		Cambridge A	80	81	78	82	80	401	80.20	1.33	80.33
+15	Diggory Waddle		Queens A	77	80	79	82	83	401	80.20	2.14	80.33
+16	Dylan McCarthy		Hybrid H	79	79	77	83	83	401	80.20	2.40	80.33
+17	Miriam Kalman		Independent F	83	83	77	80	78	401	80.20	2.48	80.33
+18	Rina Baljak	ESL	Zagreb A	81	79	79	80	81	400	80.00	0.89	80.00
+19	Claire Chen	Novice	Queens B	77	82	84	81	75	399	79.80	3.31	80.00
+20	Nicholas Abernethy		Queens A	78	78	79	83	80	398	79.60	1.85	79.00
+21	Asaf Uriel-Beeri	ESL	Hybrid L	78	80	77	83	80	398	79.60	2.06	79.33
+22	Lochlann Kerr		UADS A	79	79	80	78	81	397	79.40	1.02	79.33
+23	Oliver Chow	Novice	Sydney A	78	82	79	79	79	397	79.40	1.36	79.00
+24	William Smith	Novice	Sydney A	78	81	79	80	78	396	79.20	1.17	79.00
+25	Nimai Koneru		Queens B	77	81	82	80	76	396	79.20	2.32	79.33
+26	Terkpertey Andrews Terku	ESL	Hybrid H	78	77	77	81	83	396	79.20	2.40	78.67
+27	Robert Raos	ESL	Zagreb B	81	80	77	76	81	395	79.00	2.10	79.33
+28	Vivek Gala		UADS A	79	78	79	77	81	394	78.80	1.33	78.67
+29	Belle Ho	ESL	UCLA C	78	79	78	82	77	394	78.80	1.72	78.33
+30	Craig McDonald		Independent A	78	80	79	80	76	393	78.60	1.50	79.00
+31	Thej Mallu	Novice, ESL	UCLA C	76	78	79	82	78	393	78.60	1.96	78.33
+32=	Ben Sugars		Victoria A	78	80	81	75	79	393	78.60	2.06	79.00
+32=	Karel Brandenbarg		Victoria A	78	80	81	75	79	393	78.60	2.06	79.00
+34	Nikola Michaylov	ESL	Leiden A	78	74	81	79	81	393	78.60	2.58	79.33
+35	Peter Wu		Leiden A	77	75	80	78	82	392	78.40	2.42	78.33
+36	Matthew Hamer		Independent A	78	78	80	80	75	391	78.20	1.83	78.67
+37	Nam Nguyen	Novice	Middlebury A	76	76	80	82	77	391	78.20	2.40	77.67
+38	Omar Shalabby	ESL	Reichman A	77	80	83	78	73	391	78.20	3.31	78.33
+39	Anais Kneppers		Ottawa A	79	77	78	78	78	390	78.00	0.63	78.00
+40	Sreyan Kanungo		HWS A	78	77	79	77	79	390	78.00	0.89	78.00
+41	Lamia Nur Rahman	Novice, ESL	HWS A	77	77	79	77	80	390	78.00	1.26	77.67
+42	Millie Caughey		Duke D	79	79	75	77	80	390	78.00	1.79	78.33
+43	Mislav Mikota	ESL	Zagreb B	80	79	75	76	80	390	78.00	2.10	78.33
+44	Matt Goodman		Middlebury A	75	75	81	82	77	390	78.00	2.97	77.67
+45	Guy Wolf	ESL	Technion A	77	80	77	78	77	389	77.80	1.17	77.33
+46	Kojo Acheampong	ESL	KNUST D	77	77	80	77	76	387	77.40	1.36	77.00
+47	Rina Hendrie	Novice	Technion A	76	81	75	78	77	387	77.40	2.06	77.00
+48	Dorvlo Desmond	ESL	KNUST B	75	79	79	74	80	387	77.40	2.42	77.67
+49	Addo-Obeng Opoku-Agyeman	ESL	KNUST B	75	78	81	74	79	387	77.40	2.58	77.33
+50	Joseph Liang	Novice	McGill A	78	78	77	75	78	386	77.20	1.17	77.67
+51	Minami Matsushima	Novice	Hybrid N	75	79	78	77	77	386	77.20	1.33	77.33
+52	Prosper-Michael Ametu	ESL	KNUST C	76	82	75	78	75	386	77.20	2.64	76.33
+53	Terry Lee	Novice, ESL	Duke D	78	77	75	76	79	385	77.00	1.41	77.00
+54	Griffin Wong		UCDS A	77	77	80	74	77	385	77.00	1.90	77.00
+55	Simon Luo	ESL	Hybrid C	78	78	73	78	78	385	77.00	2.00	78.00
+56	Dylan Winward	Novice	UCLA A	80	75	75	76	79	385	77.00	2.10	76.67
+57	Rohan Ganesh	Novice	JHU A	81	76	77	78	73	385	77.00	2.61	77.00
+58	Justin Wu	Novice	JHU A	82	75	77	78	73	385	77.00	3.03	76.67
+59	Maya Tamir	ESL	Reichman A	76	78	82	77	72	385	77.00	3.22	77.00
+60	Tlali Olivarez	ESL	TEC CEM A	78	76	77	75	78	384	76.80	1.17	77.00
+61	Kelvin Kwabena Asamoah Damptey	ESL	KNUST D	76	77	79	76	76	384	76.80	1.17	76.33
+62	Angelo Saavedra	ESL	Hybrid C	79	77	73	77	78	384	76.80	2.04	77.33
+63	Neha Rajawat	Novice, ESL	DDU B	74	76	76	77	81	384	76.80	2.32	76.33
+64	Esteban Valle	ESL	TEC CEM A	78	76	76	75	78	383	76.60	1.20	76.67
+65	Florencia Atria	Novice, ESL	Chile A	77	79	74	78	75	383	76.60	1.85	76.67
+66	Krishaang Kohli	Novice, ESL	DDU B	74	77	76	76	80	383	76.60	1.96	76.33
+67	Jennifer He		Swarthmore B	76	78	76	76	76	382	76.40	0.80	76.00
+68	Ignacio Peralta Fierro	Novice, ESL	Chile A	77	77	75	79	74	382	76.40	1.74	76.33
+69	Oana-Andrada Nițu	ESL	ASDV A	78	73	77	75	79	382	76.40	2.15	76.67
+70	Vincent Johnson Attakpah	ESL	KNUST C	76	81	75	77	73	382	76.40	2.65	76.00
+71	Jack Thompson		UCLA B	80	74	73	76	79	382	76.40	2.73	76.33
+72	Amelia Potocka	Novice, ESL	Hybrid A	74	77	78	75	77	381	76.20	1.47	76.33
+73	Serg Mascot	ESL	Independent J	76	78	73	81	73	381	76.20	3.06	75.67
+74	Emma Brown		Loyola B	82	75	76	73	75	381	76.20	3.06	75.33
+75	Ciku Gitonga	Novice	Ottawa A	77	74	77	76	76	380	76.00	1.10	76.33
+76=	Daniel Arakawa	Novice	Manoa A	75	76	76	75	78	380	76.00	1.10	75.67
+76=	Alexandra Durbazeva	Novice	Hybrid A	75	76	78	75	76	380	76.00	1.10	75.67
+78	Andreea Murariu	Novice	UWODS A	78	77	76	75	74	380	76.00	1.41	76.00
+79	Ryosei Kobayashi	ESL	Hybrid N	73	79	77	77	74	380	76.00	2.19	76.00
+80	Irina Chicus	Novice, ESL	ASDV A	77	72	77	75	79	380	76.00	2.37	76.33
+81	Siddharth Chopra	ESL	UCDS A	76	76	77	74	76	379	75.80	0.98	76.00
+82	Sue Rieger		Loyola A	74	79	74	76	76	379	75.80	1.83	75.33
+83	Chigozie Chinaka	ESL	Independent J	77	76	72	78	76	379	75.80	2.04	76.33
+84	Karina Lu	Novice	Duke A	73	77	76	74	78	378	75.60	1.85	75.67
+85	Frank Wercinski	Novice	UCLA A	78	74	73	75	78	378	75.60	2.06	75.67
+86	Rowan Haffner	Novice	Duke A	72	78	75	74	79	378	75.60	2.58	75.67
+87	Daewon Hwang		Loyola A	75	78	74	77	73	377	75.40	1.85	75.33
+88	Tajvir Singh		UCLA B	79	73	72	75	78	377	75.40	2.73	75.33
+89	Daiyam Basharat	ESL	SODALES A	75	76	73	76	76	376	75.20	1.17	75.67
+90	Elizabeth Nicole Poon	Novice	Independent C	74	76	77	74	75	376	75.20	1.17	75.00
+91	Emily Yagoda		Duke B	74	76	78	75	73	376	75.20	1.72	75.00
+92	Jason Murray	Novice	Duke B	73	77	78	75	73	376	75.20	2.04	75.00
+93	Eamon Tan		UADS C	76	73	77	72	78	376	75.20	2.32	75.33
+94	Kennedy McDonald	Novice	Loyola B	82	73	75	72	74	376	75.20	3.54	74.00
+95=	John Pearce		SODALES A	75	76	74	75	75	375	75.00	0.63	75.00
+95=	Audrey Wang	Novice	Duke C	74	75	75	75	76	375	75.00	0.63	75.00
+97	Amir Daniel Bin Johan Munir	Novice	Independent C	74	73	78	74	76	375	75.00	1.79	74.67
+98	Allen Zhu	Novice	UWODS A	78	75	76	73	73	375	75.00	1.90	74.67
+99	Saiyara Islam	Novice, ESL	McGill A	75	75	75	73	76	374	74.80	0.98	75.00
+100	GianLuigi Zaninelli		Swarthmore C	77	73	73	76	75	374	74.80	1.60	74.67
+101	Crem		Manchester A	73	77	77	75	72	374	74.80	2.04	75.00
+102	Alaina Neuburger		Claremont A	77	74	75	77	71	374	74.80	2.23	75.33
+103	Dylan Raj Singh	Novice	Independent E	73	76	77	74	73	373	74.60	1.62	74.33
+104	Paulina Tejada	Novice	HWS B	75	72	76	78	72	373	74.60	2.33	74.33
+105	Hana Hany		Manchester A	72	78	76	76	71	373	74.60	2.65	74.67
+106	Vinny Gallardo		Carroll A	79	73	69	76	76	373	74.60	3.38	75.00
+107	Umang Dhingra	Novice, ESL	Duke C	74	75	74	74	75	372	74.40	0.49	74.33
+108	Ittesaf Rahmam	ESL	Bangladesh A	74	74	74	76	74	372	74.40	0.80	74.00
+109	Vibhor Vanvani	Novice, ESL	Delhi A	76	77	73	70	76	372	74.40	2.58	75.00
+110	Roisin ONeill		Carroll A	78	72	69	76	77	372	74.40	3.38	75.00
+111	Kai Williams		Swarthmore B	75	76	73	73	74	371	74.20	1.17	74.00
+112	Ted Ren	Novice	Waterloo A	75	77	74	74	71	371	74.20	1.94	74.33
+113=	Grace Wilson	Novice	HWS B	76	70	75	77	73	371	74.20	2.48	74.67
+113=	Banshaj Raj Bharadwaj	Novice, ESL	Delhi A	75	77	73	70	76	371	74.20	2.48	74.67
+115	Cameron Quijada		Claremont A	77	71	74	78	71	371	74.20	2.93	74.00
+116	Urmi Sheikh	Novice, ESL	Bangladesh A	74	75	73	74	74	370	74.00	0.63	74.00
+117	Tara	Novice	MSU A	74	73	72	77	74	370	74.00	1.67	73.67
+118	Simran Dhyani	ESL	Independent D	71	73	73	78	75	370	74.00	2.37	73.67
+119	Tim Cuddy	Novice	MSU A	73	73	73	76	74	369	73.80	1.17	73.33
+120	El Mehdi Idrissi Guenouni	ESL	Independent D	69	74	74	77	75	369	73.80	2.64	74.33
+121	Dhruv Kairon	Novice, ESL	UADS B	73	73	75	72	75	368	73.60	1.20	73.67
+122	Saharsh Suryadevara	Novice	Waterloo A	72	77	75	73	71	368	73.60	2.15	73.33
+123	David Zee	Novice	Independent E	72	74	76	74	71	367	73.40	1.74	73.33
+124	Ruolin Fang	ESL	Hybrid J	74	69	73	76	75	367	73.40	2.42	74.00
+125	Xiaohui Yu	ESL	Hybrid J	74	68	73	77	75	367	73.40	3.01	74.00
+126	Nathaniel Conti	Novice	HWS D	71	71	71	78	76	367	73.40	3.01	72.67
+127	Akshat Nigam	Novice, ESL	NLIU B	73	75	77	67	74	366	73.20	3.37	74.00
+128	Brayden Griffin	Novice	CUDS B	74	70	73	73	74	364	72.80	1.47	73.33
+129	Alfonso Abraham		SODALES B	74	72	70	72	76	364	72.80	2.04	72.67
+130	Yohann Titus Mathew	Novice, ESL	NLIU B	73	73	77	67	74	364	72.80	3.25	73.33
+131	Justin Hancock	Novice	SODALES B	73	73	70	72	75	363	72.60	1.62	72.67
+132	Piyush Gupta	Novice, ESL	NLIU A	72	76	73	71	71	363	72.60	1.85	72.00
+133	Saqlain Sajid	Novice, ESL	UADS B	71	71	74	71	75	362	72.40	1.74	72.00
+134	Tran Trang Linh	Novice, ESL	HWS D	69	71	70	77	75	362	72.40	3.07	72.00
+135	Rohit Kadian	Novice, ESL	NLIU A	72	76	72	70	71	361	72.20	2.04	71.67
+136	Ro&#x27;i Makov	Novice, ESL	Independent F	80	81	78	80	—	319	79.75	1.09	80.00
+137	Malcolm Davis		Swarthmore A	80	80	81	76	—	317	79.25	1.92	80.00
+138=	Eric Trinh		Swarthmore A	79	78	77	76	—	310	77.50	1.12	77.50
+138=	Hugo Ichioka	ESL	Williams A	78	79	76	—	77	310	77.50	1.12	77.50
+138=	Angus Li		Williams A	78	79	77	—	76	310	77.50	1.12	77.50
+141	Speaker 1		Swing 2	78	75	77	—	75	305	76.25	1.30	76.00
+142	Nana Yaw Ofosu-Ababio	ESL	Hybrid K	76	74	74	—	81	305	76.25	2.86	75.00
+143	Chinedum Chijioke	ESL	Hybrid K	76	74	75	—	79	304	76.00	1.87	75.50
+144	Mannat Saini	Novice	UADS C	75	—	76	73	78	302	75.50	1.80	75.50
+145	Speaker 1		Swing 1	76	76	69	—	78	299	74.75	3.42	76.00
+146	Alberto	Novice, ESL	Hasanuddin A	74	75	73	—	73	295	73.75	0.83	73.50
+147	Maya Ratner	ESL	HWS C	74	78	71	—	72	295	73.75	2.68	73.00
+148	Nur Afifah Ramadhani Musa	Novice, ESL	Hasanuddin A	73	74	73	—	73	293	73.25	0.43	73.00
+149	Andrew Barsky		HWS C	76	77	69	—	71	293	73.25	3.34	73.50
+150	Jamal Alli	Novice	CUDS B	73	70	74	—	75	292	73.00	1.87	73.50
+151	Tadesse Gessese		CUDS A	72	70	—	76	74	292	73.00	2.24	73.00
+152	Ritabrata Mitra	ESL	Hybrid O	63	75	77	—	77	292	73.00	5.83	76.00
+153	Rohan Kiska	Novice	CUDS A	70	71	—	75	75	291	72.75	2.28	73.00
+154	Vansh Chadha	ESL	Hybrid O	61	75	77	—	77	290	72.50	6.69	76.00
+155	Speaker 1		Swing 5	79	80	—	—	77	236	78.67	1.25	79.00
+156	Joshua Kemp		Tsinghua A	77	78	81	—	—	236	78.67	1.70	78.00
+157	Hans Gebauer		Hybrid M	78	79	78	—	—	235	78.33	0.47	78.00
+158	Speaker 2		Swing 5	78	80	—	—	77	235	78.33	1.25	78.00
+159=	Keshav Malik	Novice, ESL	DDU A	78	77	79	—	—	234	78.00	0.82	78.00
+159=	Ayush kanaujia	Novice, ESL	DDU A	79	77	78	—	—	234	78.00	0.82	78.00
+161	Lucy McManus		Tsinghua A	76	79	79	—	—	234	78.00	1.41	79.00
+162	Nicholas Aranda		Hybrid M	76	80	78	—	—	234	78.00	1.63	78.00
+163	Donner Tang	ESL	Macau A	75	76	78	—	—	229	76.33	1.25	76.00
+164	Katrina Simanovska	Novice, ESL	SciencesPo A	76	74	—	—	78	228	76.00	1.63	76.00
+165	Damien Lao Pak Fai	Novice, ESL	Macau A	75	76	76	—	—	227	75.67	0.47	76.00
+166	Doriana Gheorghe	Novice, ESL	SciencesPo A	77	73	—	—	77	227	75.67	1.89	77.00
+167	Elliot Jones	Novice	Manoa A	75	77	—	74	—	226	75.33	1.25	75.00
+168	Speaker 1		Swing 4	75	75	—	75	—	225	75.00	0.00	75.00
+169	Speaker 1		Swing 3	73	74	—	75	—	222	74.00	0.82	74.00
+170	Speaker 2		Swing 1	75	—	69	—	78	222	74.00	3.74	75.00
+171	Israa Hasan Falah Hasan		NNU	73	72	72	—	—	217	72.33	0.47	72.00
+172	Shehab		NNU	73	72	71	—	—	216	72.00	0.82	72.00
+173	Speaker 2		Swing 2	78	76	—	—	—	154	77.00	1.00	77.00
+174	Speaker 2		Swing 4	75	—	—	75	—	150	75.00	0.00	75.00
+175	GianLuigi Zaninelli		Swarthmore C	76	73	—	—	—	149	74.50	1.50	74.50
+176	Shirsha Songshoptak	ESL	BUET A	74	74	—	—	—	148	74.00	0.00	74.00
+177=	Speaker 2		Swing 3	72	74	—	—	—	146	73.00	1.00	73.00
+177=	Peter Chiamaka	ESL	Hybrid F	—	74	72	—	—	146	73.00	1.00	73.00
+179	Bernard Opoku Baah	ESL	Independent I	66	76	—	—	—	142	71.00	5.00	71.00
+180	Mercypraise Ninan	Novice, ESL	Hybrid F	—	69	71	—	—	140	70.00	1.00	70.00
+181	Belinda Nketiah	ESL	Independent I	64	75	—	—	—	139	69.50	5.50	69.50
+182	Jumana Tanuja	ESL	BUET A	—	74	—	—	—	74	74.00	0.00	74.00
+183=	Mauricio Jarufe Caballero	ESL	PUCP A	—	73	—	—	—	73	73.00	0.00	73.00
+183=	Noah Letourneau	Novice	Victoria B	73	—	—	—	—	73	73.00	0.00	73.00
+185=	Gladstone Clement	ESL	Hybrid P	72	—	—	—	—	72	72.00	0.00	72.00
+185=	Mercypraise Ninan	Novice, ESL	Hybrid P	72	—	—	—	—	72	72.00	0.00	72.00
+187	Alisha Lilak		Victoria B	71	—	—	—	—	71	71.00	0.00	71.00
+188=	DAVID OBA	Novice, ESL	Covenant B	—	—	—	—	—	—	—	—	—
+188=	Soyemi Oreoluwa	Novice, ESL	Covenant B	—	—	—	—	—	—	—	—	—
+188=	Daemi George	ESL	Covenant D	—	—	—	—	—	—	—	—	—
+188=	Jones Okam	ESL	Covenant D	—	—	—	—	—	—	—	—	—
+188=	Anyanwu Abundance	ESL	Covenant C	—	—	—	—	—	—	—	—	—
+188=	Jeremiah Nnemeka	ESL	Covenant C	—	—	—	—	—	—	—	—	—
+188=	Ezinne Okonkwo	ESL	Covenant E	—	—	—	—	—	—	—	—	—
+188=	Alexander udijh	ESL	Covenant E	—	—	—	—	—	—	—	—	—
+188=	Sule Oshoke Abdul-Malik		Covenant A	—	—	—	—	—	—	—	—	—
+188=	Victoria Arogundade		Covenant A	—	—	—	—	—	—	—	—	—
+188=	Asmae El Karma	Novice, ESL	Morocco A	—	—	—	—	—	—	—	—	—
+188=	Alae Belkhadir	Novice, ESL	Morocco A	—	—	—	—	—	—	—	—	—
+188=	Aya Ajbabdi	Novice, ESL	Morocco B	—	—	—	—	—	—	—	—	—
+188=	Hardoul Abdelouadoud	Novice, ESL	Morocco B	—	—	—	—	—	—	—	—	—
+188=	José Francisco Vergara Muñoz	ESL	PUCP A	—	—	—	—	—	—	—	—	—
+188=	Maple	Novice	Windsor A	—	—	—	—	—	—	—	—	—
+188=	Sefat	Novice	Windsor A	—	—	—	—	—	—	—	—	—
+188=	Israa Hasan	ESL	Independent H	—	—	—	—	—	—	—	—	—
+188=	Shehab		Independent H	—	—	—	—	—	—	—	—	—
+188=	Soumitra Tonapi		Hybrid I	—	—	—	—	—	—	—	—	—
+188=	Narayan Sharma		Hybrid I	—	—	—	—	—	—	—	—	—
+
+
+team	result	side	adjudicators
+Swing 5	1st	Closing Opposition	Anna ShrederⒸ , Arup Paul , Jack Morgenstein
+Bangladesh A	3rd	Opening Opposition	Anna ShrederⒸ , Arup Paul , Jack Morgenstein
+Swarthmore B	2nd	Opening Government	Anna ShrederⒸ , Arup Paul , Jack Morgenstein
+Manchester A	4th	Closing Government	Anna ShrederⒸ , Arup Paul , Jack Morgenstein
+BUET A	4th	Opening Opposition	Kayla PowersⒸ , Ken Tieu , Nitiksha Tyagi
+Middlebury A	2nd	Opening Government	Kayla PowersⒸ , Ken Tieu , Nitiksha Tyagi
+Leiden A	1st	Closing Government	Kayla PowersⒸ , Ken Tieu , Nitiksha Tyagi
+KNUST B	3rd	Closing Opposition	Kayla PowersⒸ , Ken Tieu , Nitiksha Tyagi
+Independent I	3rd	Closing Government	Sébastien Dunne FulmerⒸ , Joanne An , Manan
+Independent D	2nd	Opening Government	Sébastien Dunne FulmerⒸ , Joanne An , Manan
+Hybrid O	4th	Closing Opposition	Sébastien Dunne FulmerⒸ , Joanne An , Manan
+Duke A	1st	Opening Opposition	Sébastien Dunne FulmerⒸ , Joanne An , Manan
+Hybrid B	1st	Closing Government	Hishah KhalishahⒸ , Sharun Nikesh G
+Swing 4	4th	Opening Opposition	Hishah KhalishahⒸ , Sharun Nikesh G
+UWODS A	2nd	Opening Government	Hishah KhalishahⒸ , Sharun Nikesh G
+HWS A	3rd	Closing Opposition	Hishah KhalishahⒸ , Sharun Nikesh G
+Duke C	4th	Closing Government	Devesh KodnaniⒸ , Akinkunmi Bamigboye , Mariam Afolabi
+UADS A	1st	Opening Opposition	Devesh KodnaniⒸ , Akinkunmi Bamigboye , Mariam Afolabi
+KNUST D	3rd	Opening Government	Devesh KodnaniⒸ , Akinkunmi Bamigboye , Mariam Afolabi
+Claremont A	2nd	Closing Opposition	Devesh KodnaniⒸ , Akinkunmi Bamigboye , Mariam Afolabi
+Independent E	3rd	Closing Government	Theo DorfnerⒸ , Nirali Rout , Vani Bhardwaj
+Hybrid P	4th	Opening Opposition	Theo DorfnerⒸ , Nirali Rout , Vani Bhardwaj
+Queens B	1st	Opening Government	Theo DorfnerⒸ , Nirali Rout , Vani Bhardwaj
+SODALES A	2nd	Closing Opposition	Theo DorfnerⒸ , Nirali Rout , Vani Bhardwaj
+Swing 2	2nd	Opening Opposition	Dominic Stanley-MarcusⒸ , Francis Revilla
+Swarthmore A	1st	Closing Government	Dominic Stanley-MarcusⒸ , Francis Revilla
+HWS B	4th	Closing Opposition	Dominic Stanley-MarcusⒸ , Francis Revilla
+ASDV A	3rd	Opening Government	Dominic Stanley-MarcusⒸ , Francis Revilla
+Independent C	4th	Opening Government	Matt CaitoⒸ , Olayinka Olamide Esther
+UCLA C	2nd	Closing Government	Matt CaitoⒸ , Olayinka Olamide Esther
+Queens A	1st	Closing Opposition	Matt CaitoⒸ , Olayinka Olamide Esther
+KNUST C	3rd	Opening Opposition	Matt CaitoⒸ , Olayinka Olamide Esther
+Hybrid M	1st	Opening Government	Baby LovroⒸ , Ruby Sullivan
+NNU	3rd	Closing Government	Baby LovroⒸ , Ruby Sullivan
+Loyola A	2nd	Opening Opposition	Baby LovroⒸ , Ruby Sullivan
+CUDS A	4th	Closing Opposition	Baby LovroⒸ , Ruby Sullivan
+Independent G	1st	Opening Government	Rhys SteeleⒸ , Elita Uch , Himan Nayak
+Hybrid H	2nd	Closing Government	Rhys SteeleⒸ , Elita Uch , Himan Nayak
+DDU B	3rd	Opening Opposition	Rhys SteeleⒸ , Elita Uch , Himan Nayak
+NLIU B	4th	Closing Opposition	Rhys SteeleⒸ , Elita Uch , Himan Nayak
+Hybrid C	1st	Closing Government	Ogundare TayeⒸ , Sudiksha Aggarwal
+Manoa A	4th	Closing Opposition	Ogundare TayeⒸ , Sudiksha Aggarwal
+Chile A	2nd	Opening Opposition	Ogundare TayeⒸ , Sudiksha Aggarwal
+SciencesPo A	3rd	Opening Government	Ogundare TayeⒸ , Sudiksha Aggarwal
+Sydney A	1st	Opening Government	Lior SokolⒸ , Badshah Akbar Rafi , Esther Baker Aidoo
+UCDS A	2nd	Closing Government	Lior SokolⒸ , Badshah Akbar Rafi , Esther Baker Aidoo
+UADS B	3rd	Closing Opposition	Lior SokolⒸ , Badshah Akbar Rafi , Esther Baker Aidoo
+HWS D	4th	Opening Opposition	Lior SokolⒸ , Badshah Akbar Rafi , Esther Baker Aidoo
+Duke B	3rd	Opening Government	Erasmus Mawuli SegbefiaⒸ , Sriya Donepudi
+Victoria B	4th	Closing Opposition	Erasmus Mawuli SegbefiaⒸ , Sriya Donepudi
+TEC CEM A	1st	Closing Government	Erasmus Mawuli SegbefiaⒸ , Sriya Donepudi
+Swarthmore C	2nd	Opening Opposition	Erasmus Mawuli SegbefiaⒸ , Sriya Donepudi
+Macau A	3rd	Closing Government	Noluthando HononoⒸ , Osama Zubair
+UCLA A	1st	Opening Opposition	Noluthando HononoⒸ , Osama Zubair
+UADS C	2nd	Opening Government	Noluthando HononoⒸ , Osama Zubair
+CUDS B	4th	Closing Opposition	Noluthando HononoⒸ , Osama Zubair
+DDU A	1st	Opening Government	Daniel SvirskyⒸ , Opoola Opeyemi
+Delhi A	4th	Closing Opposition	Daniel SvirskyⒸ , Opoola Opeyemi
+Williams A	2nd	Opening Opposition	Daniel SvirskyⒸ , Opoola Opeyemi
+Technion A	3rd	Closing Government	Daniel SvirskyⒸ , Opoola Opeyemi
+Hybrid N	2nd	Opening Opposition	Anna SawickaⒸ , Derrick Abnoos
+Swing 3	4th	Closing Opposition	Anna SawickaⒸ , Derrick Abnoos
+Tsinghua A	1st	Opening Government	Anna SawickaⒸ , Derrick Abnoos
+SODALES B	3rd	Closing Government	Anna SawickaⒸ , Derrick Abnoos
+Hybrid J	3rd	Closing Government	Dennis SuⒸ , Advaith Sai Nair
+Hybrid Q	1st	Closing Opposition	Dennis SuⒸ , Advaith Sai Nair
+Duke D	2nd	Opening Government	Dennis SuⒸ , Advaith Sai Nair
+Waterloo A	4th	Opening Opposition	Dennis SuⒸ , Advaith Sai Nair
+Hybrid A	2nd	Opening Opposition	Alexander FraserⒸ , Michelle Xu , Rohan Goda
+Reichman A	1st	Closing Government	Alexander FraserⒸ , Michelle Xu , Rohan Goda
+NLIU A	4th	Opening Government	Alexander FraserⒸ , Michelle Xu , Rohan Goda
+MSU A	3rd	Closing Opposition	Alexander FraserⒸ , Michelle Xu , Rohan Goda
+Independent J	4th	Opening Government	Klaudia MaciejewskaⒸ , Utkarsh Mishra
+TCD Hist/Sofia A	2nd	Closing Opposition	Klaudia MaciejewskaⒸ , Utkarsh Mishra
+Zagreb B	1st	Opening Opposition	Klaudia MaciejewskaⒸ , Utkarsh Mishra
+Victoria A	3rd	Closing Government	Klaudia MaciejewskaⒸ , Utkarsh Mishra
+JHU A	2nd	Opening Government	Tyler LiⒸ , Tousif Tanvir Alam
+Zagreb A	1st	Closing Government	Tyler LiⒸ , Tousif Tanvir Alam
+Carroll A	4th	Opening Opposition	Tyler LiⒸ , Tousif Tanvir Alam
+Cambridge A	3rd	Closing Opposition	Tyler LiⒸ , Tousif Tanvir Alam
+Hybrid L	4th	Opening Opposition	Shaurya ChandravanshiⒸ , Sam Unabia
+Hybrid G	1st	Opening Government	Shaurya ChandravanshiⒸ , Sam Unabia
+Independent F	3rd	Closing Opposition	Shaurya ChandravanshiⒸ , Sam Unabia
+Loyola B	2nd	Closing Government	Shaurya ChandravanshiⒸ , Sam Unabia
+Hybrid K	3rd	Opening Opposition	Shudipto R. AhmedⒸ , Mansa Fuah , Sherry Shu
+Swing 1	4th	Closing Opposition	Shudipto R. AhmedⒸ , Mansa Fuah , Sherry Shu
+Ottawa A	1st	Closing Government	Shudipto R. AhmedⒸ , Mansa Fuah , Sherry Shu
+McGill A	2nd	Opening Government	Shudipto R. AhmedⒸ , Mansa Fuah , Sherry Shu
+Independent A	2nd	Opening Government	Geneva RoyⒸ , Tyler Whitney
+UCLA B	1st	Closing Opposition	Geneva RoyⒸ , Tyler Whitney
+HWS C	3rd	Closing Government	Geneva RoyⒸ , Tyler Whitney
+Hasanuddin A	4th	Opening Opposition	Geneva RoyⒸ , Tyler Whitney
+
+
+team	result	side	adjudicators
+Swing 3	4th	Opening Opposition	Utkarsh MishraⒸ , Nirali Rout
+Waterloo A	2nd	Closing Government	Utkarsh MishraⒸ , Nirali Rout
+NLIU A	3rd	Closing Opposition	Utkarsh MishraⒸ , Nirali Rout
+Manchester A	1st	Opening Government	Utkarsh MishraⒸ , Nirali Rout
+Independent G	3rd	Opening Opposition	Dominic Stanley-MarcusⒸ , Klaudia Maciejewska , Sam Unabia
+Hybrid M	2nd	Closing Government	Dominic Stanley-MarcusⒸ , Klaudia Maciejewska , Sam Unabia
+Hybrid Q	1st	Opening Government	Dominic Stanley-MarcusⒸ , Klaudia Maciejewska , Sam Unabia
+DDU A	4th	Closing Opposition	Dominic Stanley-MarcusⒸ , Klaudia Maciejewska , Sam Unabia
+Independent J	2nd	Opening Opposition	Jack MorgensteinⒸ , Erasmus Mawuli Segbefia , Sharun Nikesh G
+Independent C	3rd	Closing Opposition	Jack MorgensteinⒸ , Erasmus Mawuli Segbefia , Sharun Nikesh G
+Swing 5	1st	Opening Government	Jack MorgensteinⒸ , Erasmus Mawuli Segbefia , Sharun Nikesh G
+HWS D	4th	Closing Government	Jack MorgensteinⒸ , Erasmus Mawuli Segbefia , Sharun Nikesh G
+Hybrid L	1st	Closing Government	Theo DorfnerⒸ , Akinkunmi Bamigboye , Ruby Sullivan
+Manoa A	3rd	Opening Government	Theo DorfnerⒸ , Akinkunmi Bamigboye , Ruby Sullivan
+Delhi A	2nd	Opening Opposition	Theo DorfnerⒸ , Akinkunmi Bamigboye , Ruby Sullivan
+Hasanuddin A	4th	Closing Opposition	Theo DorfnerⒸ , Akinkunmi Bamigboye , Ruby Sullivan
+Hybrid A	2nd	Closing Opposition	Lior SokolⒸ
+Williams A	1st	Opening Government	Lior SokolⒸ
+Middlebury A	3rd	Closing Government	Lior SokolⒸ
+Claremont A	4th	Opening Opposition	Lior SokolⒸ
+Independent A	3rd	Closing Government	Tyler LiⒸ , Hishah Khalishah , Reymund Santander
+Ottawa A	4th	Opening Opposition	Tyler LiⒸ , Hishah Khalishah , Reymund Santander
+Zagreb B	2nd	Opening Government	Tyler LiⒸ , Hishah Khalishah , Reymund Santander
+Sydney A	1st	Closing Opposition	Tyler LiⒸ , Hishah Khalishah , Reymund Santander
+Duke D	2nd	Opening Opposition	Olayinka Olamide EstherⒸ , Devesh Kodnani , Osama Zubair
+UCDS A	3rd	Closing Opposition	Olayinka Olamide EstherⒸ , Devesh Kodnani , Osama Zubair
+Loyola A	1st	Closing Government	Olayinka Olamide EstherⒸ , Devesh Kodnani , Osama Zubair
+Loyola B	4th	Opening Government	Olayinka Olamide EstherⒸ , Devesh Kodnani , Osama Zubair
+Duke A	3rd	Opening Government	Shudipto R. AhmedⒸ , Himan Nayak , Michelle Xu
+Zagreb A	1st	Opening Opposition	Shudipto R. AhmedⒸ , Himan Nayak , Michelle Xu
+UCLA A	4th	Closing Opposition	Shudipto R. AhmedⒸ , Himan Nayak , Michelle Xu
+Queens A	2nd	Closing Government	Shudipto R. AhmedⒸ , Himan Nayak , Michelle Xu
+Swing 2	4th	Opening Government	Dennis SuⒸ , Manan
+UWODS A	3rd	Closing Government	Dennis SuⒸ , Manan
+Swarthmore B	1st	Opening Opposition	Dennis SuⒸ , Manan
+McGill A	2nd	Closing Opposition	Dennis SuⒸ , Manan
+Hybrid F	2nd	Closing Opposition	Lior FinkelmanⒸ , Sriya Donepudi
+Hybrid O	1st	Opening Government	Lior FinkelmanⒸ , Sriya Donepudi
+HWS B	3rd	Opening Opposition	Lior FinkelmanⒸ , Sriya Donepudi
+CUDS A	4th	Closing Government	Lior FinkelmanⒸ , Sriya Donepudi
+UCLA C	1st	Opening Opposition	Kayla PowersⒸ , Opoola Opeyemi
+SciencesPo A	4th	Closing Opposition	Kayla PowersⒸ , Opoola Opeyemi
+KNUST D	2nd	Closing Government	Kayla PowersⒸ , Opoola Opeyemi
+SODALES A	3rd	Opening Government	Kayla PowersⒸ , Opoola Opeyemi
+Hybrid B	1st	Opening Opposition	Rhys SteeleⒸ , Esther Baker Aidoo
+Independent D	4th	Closing Government	Rhys SteeleⒸ , Esther Baker Aidoo
+Tsinghua A	3rd	Closing Opposition	Rhys SteeleⒸ , Esther Baker Aidoo
+Reichman A	2nd	Opening Government	Rhys SteeleⒸ , Esther Baker Aidoo
+Hybrid K	3rd	Closing Opposition	Noluthando HononoⒸ , Ken Tieu
+Independent E	2nd	Opening Government	Noluthando HononoⒸ , Ken Tieu
+DDU B	1st	Closing Government	Noluthando HononoⒸ , Ken Tieu
+MSU A	4th	Opening Opposition	Noluthando HononoⒸ , Ken Tieu
+Independent I	4th	Opening Government	Ogundare TayeⒸ , Advaith Sai Nair
+Victoria A	1st	Closing Opposition	Ogundare TayeⒸ , Advaith Sai Nair
+KNUST B	2nd	Closing Government	Ogundare TayeⒸ , Advaith Sai Nair
+HWS C	3rd	Opening Opposition	Ogundare TayeⒸ , Advaith Sai Nair
+Duke C	1st	Opening Opposition	Tousif Tanvir AlamⒸ , Vani Bhardwaj
+NLIU B	2nd	Opening Government	Tousif Tanvir AlamⒸ , Vani Bhardwaj
+CUDS B	4th	Closing Government	Tousif Tanvir AlamⒸ , Vani Bhardwaj
+Carroll A	3rd	Closing Opposition	Tousif Tanvir AlamⒸ , Vani Bhardwaj
+Hybrid G	2nd	Closing Government	Jessica MusulinⒸ , Francis Revilla , Tyler Whitney
+TEC CEM A	4th	Opening Government	Jessica MusulinⒸ , Francis Revilla , Tyler Whitney
+Swarthmore A	3rd	Opening Opposition	Jessica MusulinⒸ , Francis Revilla , Tyler Whitney
+Queens B	1st	Closing Opposition	Jessica MusulinⒸ , Francis Revilla , Tyler Whitney
+Hybrid C	2nd	Closing Opposition	Nitiksha TyagiⒸ , Joanne An , Matt Caito
+UCLA B	4th	Opening Government	Nitiksha TyagiⒸ , Joanne An , Matt Caito
+UADS A	1st	Closing Government	Nitiksha TyagiⒸ , Joanne An , Matt Caito
+Leiden A	3rd	Opening Opposition	Nitiksha TyagiⒸ , Joanne An , Matt Caito
+Swing 1	1st	Opening Opposition	Anna ShrederⒸ , Mansa Fuah , Rohan Goda
+Swing 4	2nd	Opening Government	Anna ShrederⒸ , Mansa Fuah , Rohan Goda
+BUET A	3rd	Closing Opposition	Anna ShrederⒸ , Mansa Fuah , Rohan Goda
+PUCP A	4th	Closing Government	Anna ShrederⒸ , Mansa Fuah , Rohan Goda
+Hybrid H	1st	Opening Government	Baby LovroⒸ , Geneva Roy , Or Toledano
+JHU A	2nd	Opening Opposition	Baby LovroⒸ , Geneva Roy , Or Toledano
+Swarthmore C	3rd	Closing Government	Baby LovroⒸ , Geneva Roy , Or Toledano
+ASDV A	4th	Closing Opposition	Baby LovroⒸ , Geneva Roy , Or Toledano
+NNU	4th	Closing Opposition	Anna SawickaⒸ , Sudiksha Aggarwal
+Bangladesh A	3rd	Opening Government	Anna SawickaⒸ , Sudiksha Aggarwal
+Macau A	2nd	Opening Opposition	Anna SawickaⒸ , Sudiksha Aggarwal
+HWS A	1st	Closing Government	Anna SawickaⒸ , Sudiksha Aggarwal
+Hybrid J	4th	Closing Opposition	Shaurya ChandravanshiⒸ , Mariam Afolabi
+UADS B	3rd	Opening Opposition	Shaurya ChandravanshiⒸ , Mariam Afolabi
+KNUST C	1st	Closing Government	Shaurya ChandravanshiⒸ , Mariam Afolabi
+SODALES B	2nd	Opening Government	Shaurya ChandravanshiⒸ , Mariam Afolabi
+TCD Hist/Sofia A	1st	Opening Opposition	Sébastien Dunne FulmerⒸ , Badshah Akbar Rafi
+Hybrid N	2nd	Closing Government	Sébastien Dunne FulmerⒸ , Badshah Akbar Rafi
+UADS C	4th	Closing Opposition	Sébastien Dunne FulmerⒸ , Badshah Akbar Rafi
+Chile A	3rd	Opening Government	Sébastien Dunne FulmerⒸ , Badshah Akbar Rafi
+Independent F	1st	Opening Government	Alexander FraserⒸ , Derrick Abnoos , Elita Uch
+Duke B	4th	Opening Opposition	Alexander FraserⒸ , Derrick Abnoos , Elita Uch
+Technion A	3rd	Closing Opposition	Alexander FraserⒸ , Derrick Abnoos , Elita Uch
+Cambridge A	2nd	Closing Government	Alexander FraserⒸ , Derrick Abnoos , Elita Uch
+
+
+team	result	side	adjudicators
+Hybrid B	4th	Opening Government	Tyler LiⒸ , Himan Nayak , Rohan Goda
+Hybrid Q	1st	Opening Opposition	Tyler LiⒸ , Himan Nayak , Rohan Goda
+Reichman A	3rd	Closing Opposition	Tyler LiⒸ , Himan Nayak , Rohan Goda
+Queens B	2nd	Closing Government	Tyler LiⒸ , Himan Nayak , Rohan Goda
+Bangladesh A	3rd	Closing Government	Owen GoodacreⒸ , Mariam Afolabi
+Waterloo A	2nd	Closing Opposition	Owen GoodacreⒸ , Mariam Afolabi
+Technion A	1st	Opening Opposition	Owen GoodacreⒸ , Mariam Afolabi
+HWS C	4th	Opening Government	Owen GoodacreⒸ , Mariam Afolabi
+Independent C	2nd	Closing Government	Utkarsh MishraⒸ , Opoola Opeyemi
+Duke B	1st	Closing Opposition	Utkarsh MishraⒸ , Opoola Opeyemi
+HWS B	4th	Opening Government	Utkarsh MishraⒸ , Opoola Opeyemi
+ASDV A	3rd	Opening Opposition	Utkarsh MishraⒸ , Opoola Opeyemi
+Independent J	4th	Closing Opposition	Kayla PowersⒸ , Mansa Fuah , Tyler Whitney
+Independent D	2nd	Opening Opposition	Kayla PowersⒸ , Mansa Fuah , Tyler Whitney
+Delhi A	3rd	Opening Government	Kayla PowersⒸ , Mansa Fuah , Tyler Whitney
+Claremont A	1st	Closing Government	Kayla PowersⒸ , Mansa Fuah , Tyler Whitney
+Independent G	1st	Closing Government	Lior SokolⒸ , Olayinka Olamide Esther
+Independent A	2nd	Opening Opposition	Lior SokolⒸ , Olayinka Olamide Esther
+Chile A	4th	Closing Opposition	Lior SokolⒸ , Olayinka Olamide Esther
+KNUST C	3rd	Opening Government	Lior SokolⒸ , Olayinka Olamide Esther
+NNU	4th	Opening Opposition	Tousif Tanvir AlamⒸ , Ken Tieu
+Manoa A	1st	Closing Government	Tousif Tanvir AlamⒸ , Ken Tieu
+NLIU A	3rd	Closing Opposition	Tousif Tanvir AlamⒸ , Ken Tieu
+Hasanuddin A	2nd	Opening Government	Tousif Tanvir AlamⒸ , Ken Tieu
+Hybrid O	1st	Closing Government	Shudipto R. AhmedⒸ
+Duke C	4th	Opening Government	Shudipto R. AhmedⒸ
+UWODS A	3rd	Closing Opposition	Shudipto R. AhmedⒸ
+Manchester A	2nd	Opening Opposition	Shudipto R. AhmedⒸ
+DDU A	4th	Closing Government	Shaurya ChandravanshiⒸ , Adam Ursenbach
+Middlebury A	1st	Closing Opposition	Shaurya ChandravanshiⒸ , Adam Ursenbach
+KNUST B	2nd	Opening Government	Shaurya ChandravanshiⒸ , Adam Ursenbach
+KNUST D	3rd	Opening Opposition	Shaurya ChandravanshiⒸ , Adam Ursenbach
+HWS D	3rd	Closing Opposition	Anna SawickaⒸ , Sriya Donepudi
+MSU A	2nd	Closing Government	Anna SawickaⒸ , Sriya Donepudi
+CUDS B	1st	Opening Opposition	Anna SawickaⒸ , Sriya Donepudi
+Carroll A	4th	Opening Government	Anna SawickaⒸ , Sriya Donepudi
+Hybrid K	3rd	Opening Government	Theo DorfnerⒸ , Michelle Xu
+Hybrid F	4th	Closing Government	Theo DorfnerⒸ , Michelle Xu
+Swing 2	1st	Closing Opposition	Theo DorfnerⒸ , Michelle Xu
+UADS C	2nd	Opening Opposition	Theo DorfnerⒸ , Michelle Xu
+Hybrid H	2nd	Opening Opposition	Noluthando HononoⒸ , Jack Morgenstein
+Hybrid C	4th	Opening Government	Noluthando HononoⒸ , Jack Morgenstein
+Independent F	1st	Closing Government	Noluthando HononoⒸ , Jack Morgenstein
+Swarthmore B	3rd	Closing Opposition	Noluthando HononoⒸ , Jack Morgenstein
+JHU A	3rd	Closing Opposition	Alexander FraserⒸ , Esther Baker Aidoo , Nirali Rout
+Duke D	4th	Closing Government	Alexander FraserⒸ , Esther Baker Aidoo , Nirali Rout
+Leiden A	1st	Opening Government	Alexander FraserⒸ , Esther Baker Aidoo , Nirali Rout
+HWS A	2nd	Opening Opposition	Alexander FraserⒸ , Esther Baker Aidoo , Nirali Rout
+Hybrid L	1st	Closing Opposition	ParthⒸ , Sam Unabia
+Macau A	2nd	Opening Government	ParthⒸ , Sam Unabia
+UCLA A	4th	Closing Government	ParthⒸ , Sam Unabia
+TEC CEM A	3rd	Opening Opposition	ParthⒸ , Sam Unabia
+Williams A	4th	Closing Government	Anna ShrederⒸ , Dominic Stanley-Marcus , Sharun Nikesh G
+Zagreb A	1st	Closing Opposition	Anna ShrederⒸ , Dominic Stanley-Marcus , Sharun Nikesh G
+Sydney A	3rd	Opening Opposition	Anna ShrederⒸ , Dominic Stanley-Marcus , Sharun Nikesh G
+UADS A	2nd	Opening Government	Anna ShrederⒸ , Dominic Stanley-Marcus , Sharun Nikesh G
+Hybrid J	4th	Opening Government	Ogundare TayeⒸ , Akinkunmi Bamigboye
+UADS B	3rd	Closing Government	Ogundare TayeⒸ , Akinkunmi Bamigboye
+NLIU B	1st	Opening Opposition	Ogundare TayeⒸ , Akinkunmi Bamigboye
+Loyola B	2nd	Closing Opposition	Ogundare TayeⒸ , Akinkunmi Bamigboye
+Ottawa A	1st	Closing Opposition	Rhys SteeleⒸ , Badshah Akbar Rafi
+UCLA B	4th	Opening Opposition	Rhys SteeleⒸ , Badshah Akbar Rafi
+Swarthmore C	3rd	Opening Government	Rhys SteeleⒸ , Badshah Akbar Rafi
+SODALES A	2nd	Closing Government	Rhys SteeleⒸ , Badshah Akbar Rafi
+Hybrid A	4th	Closing Government	Lior FinkelmanⒸ , Derrick Abnoos
+Victoria A	1st	Opening Government	Lior FinkelmanⒸ , Derrick Abnoos
+UCDS A	3rd	Opening Opposition	Lior FinkelmanⒸ , Derrick Abnoos
+Swarthmore A	2nd	Closing Opposition	Lior FinkelmanⒸ , Derrick Abnoos
+Hybrid N	2nd	Closing Opposition	Jessica MusulinⒸ , Reymund Santander
+DDU B	3rd	Opening Government	Jessica MusulinⒸ , Reymund Santander
+Duke A	4th	Closing Government	Jessica MusulinⒸ , Reymund Santander
+Tsinghua A	1st	Opening Opposition	Jessica MusulinⒸ , Reymund Santander
+Independent E	2nd	Closing Opposition	Sébastien Dunne FulmerⒸ , Sudiksha Aggarwal
+Swing 1	4th	Closing Government	Sébastien Dunne FulmerⒸ , Sudiksha Aggarwal
+SODALES B	3rd	Opening Opposition	Sébastien Dunne FulmerⒸ , Sudiksha Aggarwal
+Cambridge A	1st	Opening Government	Sébastien Dunne FulmerⒸ , Sudiksha Aggarwal
+Hybrid G	1st	Closing Opposition	Matt CaitoⒸ , Or Toledano , Vani Bhardwaj
+Queens A	2nd	Opening Opposition	Matt CaitoⒸ , Or Toledano , Vani Bhardwaj
+McGill A	3rd	Closing Government	Matt CaitoⒸ , Or Toledano , Vani Bhardwaj
+Loyola A	4th	Opening Government	Matt CaitoⒸ , Or Toledano , Vani Bhardwaj
+TCD Hist/Sofia A	1st	Closing Government	Erasmus Mawuli SegbefiaⒸ , Francis Revilla , Osama Zubair
+Hybrid M	3rd	Opening Opposition	Erasmus Mawuli SegbefiaⒸ , Francis Revilla , Osama Zubair
+Zagreb B	4th	Closing Opposition	Erasmus Mawuli SegbefiaⒸ , Francis Revilla , Osama Zubair
+UCLA C	2nd	Opening Government	Erasmus Mawuli SegbefiaⒸ , Francis Revilla , Osama Zubair
+
+
+team	result	side	adjudicators
+Independent J	1st	Closing Government	Dominic Stanley-MarcusⒸ , Esther Baker Aidoo
+Hybrid J	3rd	Opening Opposition	Dominic Stanley-MarcusⒸ , Esther Baker Aidoo
+Swing 4	4th	Closing Opposition	Dominic Stanley-MarcusⒸ , Esther Baker Aidoo
+HWS D	2nd	Opening Government	Dominic Stanley-MarcusⒸ , Esther Baker Aidoo
+Hybrid G	1st	Opening Opposition	Shudipto R. AhmedⒸ
+Hybrid Q	3rd	Closing Government	Shudipto R. AhmedⒸ
+Zagreb A	2nd	Opening Government	Shudipto R. AhmedⒸ
+UADS A	4th	Closing Opposition	Shudipto R. AhmedⒸ
+UWODS A	3rd	Opening Opposition	Kayla PowersⒸ , Mariam Afolabi
+UCLA B	1st	Closing Government	Kayla PowersⒸ , Mariam Afolabi
+TEC CEM A	2nd	Opening Government	Kayla PowersⒸ , Mariam Afolabi
+SODALES B	4th	Closing Opposition	Kayla PowersⒸ , Mariam Afolabi
+Independent F	1st	Closing Government	Alexander FraserⒸ , Olayinka Olamide Esther
+Victoria A	4th	Opening Opposition	Alexander FraserⒸ , Olayinka Olamide Esther
+Leiden A	2nd	Closing Opposition	Alexander FraserⒸ , Olayinka Olamide Esther
+HWS A	3rd	Opening Government	Alexander FraserⒸ , Olayinka Olamide Esther
+Swing 3	4th	Opening Government	Ken TieuⒸ , Jack Morgenstein
+HWS B	1st	Closing Government	Ken TieuⒸ , Jack Morgenstein
+CUDS A	3rd	Opening Opposition	Ken TieuⒸ , Jack Morgenstein
+Carroll A	2nd	Closing Opposition	Ken TieuⒸ , Jack Morgenstein
+Independent A	1st	Closing Government	Matt CaitoⒸ
+DDU B	3rd	Opening Government	Matt CaitoⒸ
+KNUST C	2nd	Closing Opposition	Matt CaitoⒸ
+SODALES A	4th	Opening Opposition	Matt CaitoⒸ
+Hybrid A	3rd	Opening Government	Daniel SvirskyⒸ , Rohan Goda
+Hybrid C	2nd	Opening Opposition	Daniel SvirskyⒸ , Rohan Goda
+JHU A	1st	Closing Government	Daniel SvirskyⒸ , Rohan Goda
+Duke A	4th	Closing Opposition	Daniel SvirskyⒸ , Rohan Goda
+Independent D	2nd	Opening Opposition	Tousif Tanvir AlamⒸ , Michelle Xu
+Chile A	1st	Closing Government	Tousif Tanvir AlamⒸ , Michelle Xu
+Swarthmore C	3rd	Closing Opposition	Tousif Tanvir AlamⒸ , Michelle Xu
+CUDS B	4th	Opening Government	Tousif Tanvir AlamⒸ , Michelle Xu
+Independent C	2nd	Opening Opposition	Or ToledanoⒸ , Himan Nayak
+Delhi A	4th	Closing Government	Or ToledanoⒸ , Himan Nayak
+Duke C	1st	Closing Opposition	Or ToledanoⒸ , Himan Nayak
+UADS B	3rd	Opening Government	Or ToledanoⒸ , Himan Nayak
+Hybrid B	2nd	Closing Opposition	Tyler LiⒸ , Akinkunmi Bamigboye
+Hybrid L	1st	Opening Government	Tyler LiⒸ , Akinkunmi Bamigboye
+Hybrid O	4th	Opening Opposition	Tyler LiⒸ , Akinkunmi Bamigboye
+Middlebury A	3rd	Closing Government	Tyler LiⒸ , Akinkunmi Bamigboye
+Hybrid N	2nd	Closing Government	Francis RevillaⒸ , Noluthando Honono
+Swarthmore A	4th	Opening Government	Francis RevillaⒸ , Noluthando Honono
+Reichman A	1st	Opening Opposition	Francis RevillaⒸ , Noluthando Honono
+Loyola A	3rd	Closing Opposition	Francis RevillaⒸ , Noluthando Honono
+Independent G	2nd	Closing Opposition	Lior FinkelmanⒸ , Reymund Santander
+UCLA C	4th	Closing Government	Lior FinkelmanⒸ , Reymund Santander
+Queens A	3rd	Opening Government	Lior FinkelmanⒸ , Reymund Santander
+Cambridge A	1st	Opening Opposition	Lior FinkelmanⒸ , Reymund Santander
+Swing 2	4th	Closing Opposition	ParthⒸ , Vani Bhardwaj
+Ottawa A	1st	Opening Government	ParthⒸ , Vani Bhardwaj
+Swarthmore B	2nd	Closing Government	ParthⒸ , Vani Bhardwaj
+KNUST B	3rd	Opening Opposition	ParthⒸ , Vani Bhardwaj
+Manoa A	2nd	Opening Opposition	Owen GoodacreⒸ , Sriya Donepudi
+Duke D	1st	Closing Opposition	Owen GoodacreⒸ , Sriya Donepudi
+UCDS A	3rd	Opening Government	Owen GoodacreⒸ , Sriya Donepudi
+UADS C	4th	Closing Government	Owen GoodacreⒸ , Sriya Donepudi
+Hybrid K	1st	Closing Government	Badshah Akbar RafiⒸ , Derrick Abnoos
+Bangladesh A	4th	Closing Opposition	Badshah Akbar RafiⒸ , Derrick Abnoos
+UCLA A	3rd	Opening Opposition	Badshah Akbar RafiⒸ , Derrick Abnoos
+MSU A	2nd	Opening Government	Badshah Akbar RafiⒸ , Derrick Abnoos
+Swing 1	3rd	Opening Government	Adam UrsenbachⒸ
+NLIU A	4th	Opening Opposition	Adam UrsenbachⒸ
+HWS C	1st	Closing Opposition	Adam UrsenbachⒸ
+ASDV A	2nd	Closing Government	Adam UrsenbachⒸ
+Independent E	4th	Opening Opposition	Ogundare TayeⒸ , Mansa Fuah , Opoola Opeyemi
+Zagreb B	2nd	Closing Government	Ogundare TayeⒸ , Mansa Fuah , Opoola Opeyemi
+Manchester A	3rd	Closing Opposition	Ogundare TayeⒸ , Mansa Fuah , Opoola Opeyemi
+Claremont A	1st	Opening Government	Ogundare TayeⒸ , Mansa Fuah , Opoola Opeyemi
+Duke B	2nd	Closing Government	Theo DorfnerⒸ , Sam Unabia
+Waterloo A	3rd	Opening Government	Theo DorfnerⒸ , Sam Unabia
+Loyola B	4th	Opening Opposition	Theo DorfnerⒸ , Sam Unabia
+KNUST D	1st	Closing Opposition	Theo DorfnerⒸ , Sam Unabia
+Williams A	2nd	Closing Opposition	Lior SokolⒸ , Sudiksha Aggarwal
+Technion A	1st	Opening Government	Lior SokolⒸ , Sudiksha Aggarwal
+NLIU B	4th	Closing Government	Lior SokolⒸ , Sudiksha Aggarwal
+McGill A	3rd	Opening Opposition	Lior SokolⒸ , Sudiksha Aggarwal
+Hybrid H	2nd	Closing Opposition	Jessica MusulinⒸ
+TCD Hist/Sofia A	1st	Opening Government	Jessica MusulinⒸ
+Sydney A	4th	Closing Government	Jessica MusulinⒸ
+Queens B	3rd	Opening Opposition	Jessica MusulinⒸ
+
+
+team	result	side	adjudicators
+Independent A	2nd	Closing Opposition	Alexander FraserⒸ , Kayla Powers
+JHU A	3rd	Closing Government	Alexander FraserⒸ , Kayla Powers
+Technion A	1st	Opening Opposition	Alexander FraserⒸ , Kayla Powers
+Claremont A	4th	Opening Government	Alexander FraserⒸ , Kayla Powers
+Swing 5	2nd	Closing Opposition	Sudiksha AggarwalⒸ , Francis Revilla
+SciencesPo A	1st	Opening Opposition	Sudiksha AggarwalⒸ , Francis Revilla
+NLIU A	4th	Closing Government	Sudiksha AggarwalⒸ , Francis Revilla
+CUDS A	3rd	Opening Government	Sudiksha AggarwalⒸ , Francis Revilla
+Hybrid H	1st	Opening Opposition	Rhys SteeleⒸ , Anna Sawicka , Tyler Whitney
+Hybrid B	3rd	Opening Government	Rhys SteeleⒸ , Anna Sawicka , Tyler Whitney
+Reichman A	4th	Closing Government	Rhys SteeleⒸ , Anna Sawicka , Tyler Whitney
+Cambridge A	2nd	Closing Opposition	Rhys SteeleⒸ , Anna Sawicka , Tyler Whitney
+UCLA A	1st	Opening Government	Utkarsh MishraⒸ , Himan Nayak
+UADS B	3rd	Closing Opposition	Utkarsh MishraⒸ , Himan Nayak
+CUDS B	4th	Opening Opposition	Utkarsh MishraⒸ , Himan Nayak
+Carroll A	2nd	Closing Government	Utkarsh MishraⒸ , Himan Nayak
+Independent G	2nd	Closing Government	Devesh KodnaniⒸ , Theo Dorfner
+Independent F	3rd	Opening Opposition	Devesh KodnaniⒸ , Theo Dorfner
+Queens B	4th	Opening Government	Devesh KodnaniⒸ , Theo Dorfner
+Leiden A	1st	Closing Opposition	Devesh KodnaniⒸ , Theo Dorfner
+UADS C	2nd	Opening Opposition	Olayinka Olamide EstherⒸ
+Loyola B	4th	Opening Government	Olayinka Olamide EstherⒸ
+SODALES B	3rd	Closing Opposition	Olayinka Olamide EstherⒸ
+ASDV A	1st	Closing Government	Olayinka Olamide EstherⒸ
+UWODS A	3rd	Opening Government	Lior FinkelmanⒸ , Derrick Abnoos , Mansa Fuah
+Waterloo A	4th	Closing Opposition	Lior FinkelmanⒸ , Derrick Abnoos , Mansa Fuah
+Swarthmore C	2nd	Opening Opposition	Lior FinkelmanⒸ , Derrick Abnoos , Mansa Fuah
+SODALES A	1st	Closing Government	Lior FinkelmanⒸ , Derrick Abnoos , Mansa Fuah
+Hybrid N	2nd	Opening Government	Anna ShrederⒸ , Baby Lovro
+Williams A	1st	Closing Government	Anna ShrederⒸ , Baby Lovro
+Swarthmore B	3rd	Opening Opposition	Anna ShrederⒸ , Baby Lovro
+KNUST C	4th	Closing Opposition	Anna ShrederⒸ , Baby Lovro
+Duke D	1st	Opening Government	Tyler LiⒸ , Owen Goodacre , Sam Unabia
+Victoria A	2nd	Opening Opposition	Tyler LiⒸ , Owen Goodacre , Sam Unabia
+Sydney A	3rd	Closing Government	Tyler LiⒸ , Owen Goodacre , Sam Unabia
+UCLA C	4th	Closing Opposition	Tyler LiⒸ , Owen Goodacre , Sam Unabia
+Independent D	4th	Closing Opposition	Shudipto R. AhmedⒸ , Vani Bhardwaj
+Manoa A	2nd	Opening Opposition	Shudipto R. AhmedⒸ , Vani Bhardwaj
+Duke C	3rd	Opening Government	Shudipto R. AhmedⒸ , Vani Bhardwaj
+UCLA B	1st	Closing Government	Shudipto R. AhmedⒸ , Vani Bhardwaj
+Chile A	3rd	Opening Government	Erasmus Mawuli SegbefiaⒸ , Dominic Stanley-Marcus , Ken Tieu
+TEC CEM A	1st	Closing Opposition	Erasmus Mawuli SegbefiaⒸ , Dominic Stanley-Marcus , Ken Tieu
+McGill A	2nd	Closing Government	Erasmus Mawuli SegbefiaⒸ , Dominic Stanley-Marcus , Ken Tieu
+HWS C	4th	Opening Opposition	Erasmus Mawuli SegbefiaⒸ , Dominic Stanley-Marcus , Ken Tieu
+Hybrid A	1st	Opening Government	Ogundare TayeⒸ , Esther Baker Aidoo
+Independent C	2nd	Closing Opposition	Ogundare TayeⒸ , Esther Baker Aidoo
+Swing 2	3rd	Closing Government	Ogundare TayeⒸ , Esther Baker Aidoo
+NLIU B	4th	Opening Opposition	Ogundare TayeⒸ , Esther Baker Aidoo
+Swing 1	2nd	Opening Opposition	Hishah KhalishahⒸ , Akinkunmi Bamigboye , Nitiksha Tyagi
+Duke A	1st	Closing Government	Hishah KhalishahⒸ , Akinkunmi Bamigboye , Nitiksha Tyagi
+HWS B	4th	Closing Opposition	Hishah KhalishahⒸ , Akinkunmi Bamigboye , Nitiksha Tyagi
+HWS D	3rd	Opening Government	Hishah KhalishahⒸ , Akinkunmi Bamigboye , Nitiksha Tyagi
+Hybrid J	2nd	Opening Government	Adam UrsenbachⒸ
+Bangladesh A	3rd	Closing Opposition	Adam UrsenbachⒸ
+Delhi A	1st	Opening Opposition	Adam UrsenbachⒸ
+Hasanuddin A	4th	Closing Government	Adam UrsenbachⒸ
+Hybrid C	1st	Opening Government	ParthⒸ , Or Toledano
+Duke B	3rd	Closing Opposition	ParthⒸ , Or Toledano
+Middlebury A	2nd	Opening Opposition	ParthⒸ , Or Toledano
+Manchester A	4th	Closing Government	ParthⒸ , Or Toledano
+Hybrid L	3rd	Opening Opposition	Lior SokolⒸ
+Ottawa A	4th	Closing Government	Lior SokolⒸ
+UADS A	2nd	Opening Government	Lior SokolⒸ
+Queens A	1st	Closing Opposition	Lior SokolⒸ
+Hybrid K	2nd	Opening Government	Shaurya ChandravanshiⒸ , Michelle Xu
+DDU B	1st	Closing Opposition	Shaurya ChandravanshiⒸ , Michelle Xu
+Loyola A	4th	Closing Government	Shaurya ChandravanshiⒸ , Michelle Xu
+KNUST B	3rd	Opening Opposition	Shaurya ChandravanshiⒸ , Michelle Xu
+Independent J	2nd	Opening Opposition	Sébastien Dunne FulmerⒸ , Opoola Opeyemi , Sriya Donepudi
+Independent E	4th	Closing Government	Sébastien Dunne FulmerⒸ , Opoola Opeyemi , Sriya Donepudi
+UCDS A	1st	Closing Opposition	Sébastien Dunne FulmerⒸ , Opoola Opeyemi , Sriya Donepudi
+MSU A	3rd	Opening Government	Sébastien Dunne FulmerⒸ , Opoola Opeyemi , Sriya Donepudi
+Hybrid G	1st	Closing Opposition	Noluthando HononoⒸ , Tousif Tanvir Alam
+TCD Hist/Sofia A	4th	Closing Government	Noluthando HononoⒸ , Tousif Tanvir Alam
+Hybrid Q	3rd	Opening Government	Noluthando HononoⒸ , Tousif Tanvir Alam
+Zagreb A	2nd	Opening Opposition	Noluthando HononoⒸ , Tousif Tanvir Alam
+Hybrid O	3rd	Opening Government	Jack MorgensteinⒸ , Jessica Musulin , Nirali Rout
+Zagreb B	1st	Closing Opposition	Jack MorgensteinⒸ , Jessica Musulin , Nirali Rout
+KNUST D	4th	Closing Government	Jack MorgensteinⒸ , Jessica Musulin , Nirali Rout
+HWS A	2nd	Opening Opposition	Jack MorgensteinⒸ , Jessica Musulin , Nirali Rout
+
+
+team	result	side	adjudicators
+Hybrid Q	advancing	Opening Opposition	Alexander FraserⒸ , Anna Sawicka , Lior Sokol
+Zagreb B	eliminated	Closing Government	Alexander FraserⒸ , Anna Sawicka , Lior Sokol
+UADS A	advancing	Opening Government	Alexander FraserⒸ , Anna Sawicka , Lior Sokol
+Leiden A	eliminated	Closing Opposition	Alexander FraserⒸ , Anna Sawicka , Lior Sokol
+Independent G	eliminated	Opening Opposition	Lior FinkelmanⒸ , Jack Morgenstein , Kayla Powers
+Hybrid G	advancing	Closing Government	Lior FinkelmanⒸ , Jack Morgenstein , Kayla Powers
+Williams A	eliminated	Opening Government	Lior FinkelmanⒸ , Jack Morgenstein , Kayla Powers
+Queens A	advancing	Closing Opposition	Lior FinkelmanⒸ , Jack Morgenstein , Kayla Powers
+Duke D	advancing	Closing Opposition	Sébastien Dunne FulmerⒸ , Rhys Steele , Theo Dorfner
+Zagreb A	advancing	Opening Government	Sébastien Dunne FulmerⒸ , Rhys Steele , Theo Dorfner
+Technion A	eliminated	Closing Government	Sébastien Dunne FulmerⒸ , Rhys Steele , Theo Dorfner
+Cambridge A	eliminated	Opening Opposition	Sébastien Dunne FulmerⒸ , Rhys Steele , Theo Dorfner
+Hybrid H	advancing	Closing Opposition	Baby LovroⒸ , Matt Caito , Sudiksha Aggarwal
+Hybrid L	eliminated	Opening Government	Baby LovroⒸ , Matt Caito , Sudiksha Aggarwal
+Independent A	eliminated	Closing Government	Baby LovroⒸ , Matt Caito , Sudiksha Aggarwal
+TCD Hist/Sofia A	advancing	Opening Opposition	Baby LovroⒸ , Matt Caito , Sudiksha Aggarwal
+
+
+team	result	side	adjudicators
+Hybrid H	advancing	Opening Opposition	Rhys SteeleⒸ , Geneva Roy , Utkarsh Mishra
+TCD Hist/Sofia A	advancing	Closing Government	Rhys SteeleⒸ , Geneva Roy , Utkarsh Mishra
+Duke D	eliminated	Opening Government	Rhys SteeleⒸ , Geneva Roy , Utkarsh Mishra
+Zagreb A	eliminated	Closing Opposition	Rhys SteeleⒸ , Geneva Roy , Utkarsh Mishra
+Hybrid G	advancing	Opening Government	Anna ShrederⒸ , Alexander Fraser , Ogundare Taye
+Hybrid Q	advancing	Opening Opposition	Anna ShrederⒸ , Alexander Fraser , Ogundare Taye
+UADS A	eliminated	Closing Opposition	Anna ShrederⒸ , Alexander Fraser , Ogundare Taye
+Queens A	eliminated	Closing Government	Anna ShrederⒸ , Alexander Fraser , Ogundare Taye
+
+
+team	result	side	adjudicators
+Hybrid H	advancing	Opening Opposition	Lior SokolⒸ , Kayla Powers , Ogundare Taye , Shudipto R. Ahmed , Tyler Li
+Hybrid G	eliminated	Opening Government	Lior SokolⒸ , Kayla Powers , Ogundare Taye , Shudipto R. Ahmed , Tyler Li
+TCD Hist/Sofia A	eliminated	Closing Government	Lior SokolⒸ , Kayla Powers , Ogundare Taye , Shudipto R. Ahmed , Tyler Li
+Hybrid Q	eliminated	Closing Opposition	Lior SokolⒸ , Kayla Powers , Ogundare Taye , Shudipto R. Ahmed , Tyler Li
+
+
+team	result	side	adjudicators
+Hybrid A	eliminated	Closing Government	Jessica MusulinⒸ , Adam Ursenbach , Anna Sawicka , Dominic Stanley-Marcus , Himan Nayak
+JHU A	eliminated	Closing Opposition	Jessica MusulinⒸ , Adam Ursenbach , Anna Sawicka , Dominic Stanley-Marcus , Himan Nayak
+Sydney A	eliminated	Opening Government	Jessica MusulinⒸ , Adam Ursenbach , Anna Sawicka , Dominic Stanley-Marcus , Himan Nayak
+McGill A	advancing	Opening Opposition	Jessica MusulinⒸ , Adam Ursenbach , Anna Sawicka , Dominic Stanley-Marcus , Himan Nayak
+
+
+team	result	side	adjudicators
+Hybrid C	eliminated	Closing Government	Shudipto R. AhmedⒸ , Baby Lovro , Ken Tieu , Shaurya Chandravanshi , Sudiksha Aggarwal
+DDU B	eliminated	Opening Government	Shudipto R. AhmedⒸ , Baby Lovro , Ken Tieu , Shaurya Chandravanshi , Sudiksha Aggarwal
+TEC CEM A	eliminated	Closing Opposition	Shudipto R. AhmedⒸ , Baby Lovro , Ken Tieu , Shaurya Chandravanshi , Sudiksha Aggarwal
+Reichman A	advancing	Opening Opposition	Shudipto R. AhmedⒸ , Baby Lovro , Ken Tieu , Shaurya Chandravanshi , Sudiksha Aggarwal
+

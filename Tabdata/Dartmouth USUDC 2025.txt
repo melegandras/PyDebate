@@ -1,0 +1,716 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Stanford 2		1st	1st	1st	2nd	1st	20	828	4	1
+2	Columbia 1		1st	1st	2nd	1st	3rd	18	818	3	1
+3	Harvard 5		2nd	1st	2nd	1st	1st	18	805	3	2
+4	Princeton 1		2nd	1st	2nd	1st	2nd	17	815	2	3
+5	Berkeley 3		2nd	1st	1st	3rd	1st	17	814	3	1
+6	Harvard 6		1st	1st	2nd	3rd	2nd	17	801	2	2
+7	Harvard 1		1st	1st	3rd	2nd	3rd	16	808	2	1
+8	Princeton 4		1st	1st	1st	4th	4th	15	808	3	0
+9	Stanford 3		2nd	1st	1st	4th	2nd	15	795	2	2
+10	UCLA 1		1st	2nd	3rd	3rd	1st	15	794	2	1
+11	Rochester 1		2nd	2nd	2nd	2nd	1st	15	788	1	4
+12	Bates 1		1st	2nd	3rd	1st	4th	14	804	2	1
+13	Columbia 2		2nd	2nd	1st	3rd	2nd	14	799	1	3
+14	Harvard 3		1st	2nd	4th	1st	3rd	14	798	2	1
+15	Harvard 8		1st	2nd	4th	3rd	1st	14	797	2	1
+16	Williams 1		1st	2nd	3rd	2nd	3rd	14	785	1	2
+17	Claremont 1		3rd	2nd	1st	2nd	1st	14	776	2	2
+18	Stanford 1		4th	1st	1st	1st	2nd	14	772	3	1
+19	Harvard 2		2nd	3rd	2nd	2nd	1st	13	798	1	3
+20	USC 1		1st	3rd	1st	2nd	4th	13	794	2	1
+21	Harvard 7		1st	3rd	1st	4th	2nd	13	787	2	1
+22	UPenn 1	Novice	4th	1st	1st	1st	3rd	13	786	3	0
+23	Princeton 2		4th	2nd	1st	1st	1st	13	780	3	1
+24	UW-Madison 1		1st	3rd	3rd	2nd	2nd	13	778	1	2
+25	Amherst 1	Novice	2nd	2nd	3rd	1st	4th	12	789	1	2
+26	Berkeley 1		3rd	1st	2nd	4th	2nd	12	784	1	2
+27	UCLA 2		1st	3rd	2nd	3rd	3rd	12	783	1	1
+28	Berkeley 2		2nd	2nd	4th	2nd	2nd	12	779	0	4
+29	Drexel 1		2nd	2nd	2nd	2nd	4th	12	777	0	4
+30	Boston 1		3rd	1st	4th	3rd	1st	12	775	2	0
+31	Cornell 2		3rd	1st	4th	1st	3rd	12	774	2	0
+32	Princeton 7		1st	4th	1st	4th	1st	12	769	3	0
+33	Harvard 4		1st	3rd	4th	4th	1st	11	782	2	0
+34	Brown 2		2nd	1st	4th	4th	3rd	11	780	1	1
+35	UCLA 3		2nd	4th	2nd	1st	2nd	11	777	1	3
+36	Swing 1		2nd	3rd	1st	3rd	3rd	11	772	1	1
+37	Cornell 1	Novice	3rd	1st	1st	4th	4th	11	768	2	0
+38	Swing 2		4th	1st	2nd	1st	4th	11	758	2	1
+39	Colby 2		3rd	3rd	2nd	2nd	1st	11	755	1	2
+40	Bard 1		4th	2nd	3rd	1st	2nd	10	778	1	2
+41	USC 2	Novice	3rd	2nd	2nd	3rd	3rd	10	773	0	2
+42	Middlebury 1		3rd	1st	3rd	3rd	4th	10	771	1	0
+43	Princeton 3		1st	4th	2nd	4th	2nd	10	765	1	2
+44	HWS 3		1st	4th	4th	1st	3rd	10	764	2	0
+45	Rochester 2		3rd	2nd	2nd	4th	2nd	10	757	0	3
+46	Columbia 3		3rd	3rd	4th	1st	1st	10	754	2	0
+47	Davidson 1		3rd	2nd	3rd	1st	4th	10	751	1	1
+48	Vermont 9	Novice	3rd	4th	1st	2nd	1st	10	729	2	1
+49	Princeton 5	Novice	2nd	3rd	4th	2nd	3rd	9	764	0	2
+50	Bates 2	Novice	4th	3rd	1st	3rd	1st	9	757	2	0
+51	Brown 1		3rd	3rd	1st	2nd	4th	9	757	1	1
+52	Vermont 12		3rd	2nd	3rd	4th	2nd	9	754	0	2
+53	Davidson 2	Novice	4th	2nd	1st	2nd	4th	9	752	1	2
+54	Vermont 5		2nd	3rd	3rd	4th	2nd	9	747	0	2
+55	UT Jamaica 1	Novice	1st	4th	3rd	3rd	3rd	9	736	1	0
+56	Vermont 2		1st	4th	4th	4th	2nd	8	752	1	1
+57	Princeton 6		2nd	4th	2nd	3rd	3rd	8	750	0	2
+58	Morehouse 2	Novice	4th	1st	3rd	3rd	4th	8	748	1	0
+59	Bard 3		4th	3rd	3rd	2nd	1st	8	734	1	1
+60	Middlebury 2		4th	2nd	3rd	2nd	3rd	8	727	0	2
+61	Morehouse 1		2nd	4th	3rd	1st	4th	8	723	1	1
+62	Williams 3	Novice	4th	3rd	1st	4th	1st	8	718	2	0
+63	Colby 1		4th	4th	2nd	2nd	1st	7	754	1	2
+64	Swing 3		2nd	4th	2nd	3rd	4th	7	754	0	2
+65=	HWS 4	Novice	3rd	4th	3rd	2nd	2nd	7	749	0	2
+65=	Vermont 4		3rd	4th	3rd	2nd	2nd	7	749	0	2
+67	Vermont 10		4th	1st	4th	4th	3rd	7	746	1	0
+68	UWI Mona 1	Novice	4th	2nd	4th	1st	4th	7	744	1	1
+69	HWS 2		2nd	3rd	4th	4th	4th	6	756	0	1
+70	Vermont 3	Novice	3rd	3rd	4th	4th	2nd	6	748	0	1
+71	HWS 6		4th	4th	1st	3rd	2nd	6	745	1	1
+72	HWS 5		3rd	4th	4th	1st	3rd	6	717	1	0
+73	Vermont 8		2nd	4th	4th	3rd	3rd	6	714	0	1
+74	Vermont 13		4th	4th	2nd	1st	4th	5	745	1	1
+75	Williams 2	Novice	4th	3rd	2nd	3rd	4th	5	727	0	1
+76	HWS 1	Novice	3rd	3rd	4th	4th	3rd	5	723	0	0
+77	Vermont 1	Novice	3rd	4th	3rd	3rd	4th	4	732	0	0
+78	Vermont 11	Novice	4th	4th	3rd	4th	1st	4	725	1	0
+79	Vermont 7	Novice	4th	4th	4th	3rd	3rd	2	713	0	0
+80	Bard 2	Novice	4th	3rd	4th	4th	4th	2	701	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Tejas Subramaniam		Stanford 2	85	82	81	82	85	415	83.00	1.67
+2	Elizabeth Li		Stanford 2	83	82	82	82	84	413	82.60	0.80
+3	Mukudzeiishe Madzivire		Columbia 1	81	83	81	84	82	411	82.20	1.17
+4=	Jacquelynn Lin		Princeton 1	81	84	79	81	84	409	81.80	1.94
+4=	Edward Xu		Berkeley 3	79	84	84	79	83	409	81.80	2.32
+6	Afzal Hussain		Princeton 4	83	80	85	79	81	408	81.60	2.15
+7	Victor Tong		Columbia 1	80	82	82	81	82	407	81.40	0.80
+8=	Stephanie Chen		Harvard 1	81	82	80	81	82	406	81.20	0.75
+8=	Tarun Ruschmeier	ESL	Princeton 1	81	83	78	81	83	406	81.20	1.83
+10=	Humaid Saleem		Harvard 5	77	79	83	81	85	405	81.00	2.83
+10=	Shayor Ahmad Khan		Berkeley 3	78	83	84	79	81	405	81.00	2.28
+12	Manuel Machorro		Bates 1	80	80	82	82	80	404	80.80	0.98
+13	Ambika Grover		Harvard 1	80	80	81	79	82	402	80.40	1.02
+14=	Alex Lee 🍚	Novice	Harvard 6	80	78	80	80	83	401	80.20	1.60
+14=	Nir Amin		Harvard 8	82	81	77	81	80	401	80.20	1.72
+16=	Will Ryan		UCLA 1	80	81	81	78	80	400	80.00	1.10
+16=	Ananya Ganesh		Harvard 5	76	80	81	80	83	400	80.00	2.28
+16=	Ted Chang		Harvard 6	78	79	81	80	82	400	80.00	1.41
+16=	Tanya Chatterjee		Columbia 2	80	80	83	78	79	400	80.00	1.67
+16=	Aashna Parikh	Novice	Princeton 4	80	80	79	79	82	400	80.00	1.10
+16=	Manav Mittal		Bates 1	78	81	80	81	80	400	80.00	1.10
+16=	Veer Juneja		USC 1	81	80	81	79	79	400	80.00	0.89
+23=	Zach Berg	Novice	Harvard 2	80	79	78	80	82	399	79.80	1.33
+23=	Daniel Sheremeta		Harvard 2	80	80	78	78	83	399	79.80	1.83
+23=	Molly Callaghan		Harvard 3	81	78	80	81	79	399	79.80	1.17
+23=	Catherine Liu		Harvard 3	80	79	79	81	80	399	79.80	0.75
+23=	Rohan Sundaram		Columbia 2	81	79	82	78	79	399	79.80	1.47
+28	Seamus Allen		Stanford 3	79	80	80	77	82	398	79.60	1.62
+29	Emma Blemaster		Stanford 3	80	80	80	78	79	397	79.40	0.80
+30=	Annushka Agarwal		Harvard 7	81	77	80	78	80	396	79.20	1.47
+30=	Robiah Arefin Ibn Mahmud	Novice, ESL	Amherst 1	80	78	79	82	77	396	79.20	1.72
+30=	Clement Tsao	Novice	UPenn 1	77	79	82	79	79	396	79.20	1.60
+30=	Darshanik Aryal	Novice	Harvard 8	81	79	77	80	79	396	79.20	1.33
+34	Faith Liu		Rochester 1	76	78	78	82	81	395	79.00	2.19
+35=	Martin Huang	Novice	UCLA 1	80	77	79	79	79	394	78.80	0.98
+35=	William Hallward-Driemeier		Williams 1	80	77	78	80	79	394	78.80	1.17
+35=	Sherissa Wu		USC 1	79	77	80	79	79	394	78.80	0.98
+38=	Talia Ehrenberg	Novice	Amherst 1	77	79	79	81	77	393	78.60	1.50
+38=	Omesh Dhar Dwivedi		Drexel 1	80	79	77	80	77	393	78.60	1.36
+38=	Charles Ndlovu	ESL	Rochester 1	77	78	78	80	80	393	78.60	1.20
+41=	Alba Borrego		UCLA 2	79	75	82	78	78	392	78.40	2.24
+41=	Sophia Zuo		Princeton 2	77	78	77	80	80	392	78.40	1.36
+41=	Dheeraj Pasikanti		UW-Madison 1	78	79	77	79	79	392	78.40	0.80
+41=	Ryan Ham		Berkeley 1	76	81	77	78	80	392	78.40	1.85
+41=	Justin Zhou		Berkeley 1	76	81	78	78	79	392	78.40	1.62
+41=	Annaliese Simons		Bard 1	79	78	79	79	77	392	78.40	0.80
+47=	Michael Goldberg		UCLA 2	80	74	82	79	76	391	78.20	2.86
+47=	Shashwat Rai		Harvard 4	83	79	77	75	77	391	78.20	2.71
+47=	Zyna Dhillon	Novice, ESL	Harvard 4	83	78	77	77	76	391	78.20	2.48
+47=	Iman Onbargi	Novice	Harvard 7	80	76	79	77	79	391	78.20	1.47
+47=	Jason Shan		Brown 2	76	80	79	77	79	391	78.20	1.47
+47=	Maya Sachs		Williams 1	78	77	78	80	78	391	78.20	0.98
+47=	Divit Chopra	ESL	Berkeley 2	78	81	77	77	78	391	78.20	1.47
+54=	Cayden Pocrass		UCLA 3	78	76	76	81	79	390	78.00	1.90
+54=	John Wu	Novice	UPenn 1	77	78	80	79	76	390	78.00	1.41
+54=	Benjamin Vigueras	ESL	Cornell 2	77	79	74	82	78	390	78.00	2.61
+57=	Diego Castillo		Brown 2	77	80	79	76	77	389	77.80	1.47
+57=	Audrey Strevey		Claremont 1	76	77	79	76	81	389	77.80	1.94
+57=	Srishti Nautiyal	ESL	Boston 1	80	77	77	77	78	389	77.80	1.17
+60=	Soren Jensen	Novice	Cornell 1	78	78	79	76	77	388	77.60	1.02
+60=	Fatima Haider		Princeton 2	76	77	77	78	80	388	77.60	1.36
+60=	Derek Chang		Berkeley 2	78	79	77	77	77	388	77.60	0.80
+63=	Rachel Nam		UCLA 3	78	75	76	79	79	387	77.40	1.62
+63=	Amy Chang		Stanford 1	78	70	80	79	80	387	77.40	3.77
+63=	Bilal Najaf	ESL	Claremont 1	79	76	78	75	79	387	77.40	1.62
+63=	James Camp		Middlebury 1	76	80	78	76	77	387	77.40	1.50
+63=	Sabrina Fox	Novice	USC 2	77	78	78	76	78	387	77.40	0.80
+68=	Zahi Wali Aadit	ESL	Boston 1	80	75	77	76	78	386	77.20	1.72
+68=	Mya Koffie		Princeton 7	77	76	78	74	81	386	77.20	2.32
+68=	Heba Haq		UW-Madison 1	78	77	76	77	78	386	77.20	0.75
+68=	Carissa Mahoney		Bard 1	77	77	78	77	77	386	77.20	0.40
+68=	Ryan Buckner	Novice	USC 2	78	77	77	77	77	386	77.20	0.40
+68=	Orateur 1		Swing 1	78	79	78	74	77	386	77.20	1.72
+68=	Orateur 2		Swing 1	77	79	78	75	77	386	77.20	1.33
+75=	Benjamin Thomas		Stanford 1	77	70	80	79	79	385	77.00	3.63
+75=	Hudson Chou		HWS 3	79	77	75	77	77	385	77.00	1.26
+77=	Alexander Cutting	Novice	Drexel 1	78	77	75	78	76	384	76.80	1.17
+77=	Alice He	Novice	Cornell 2	76	77	75	80	76	384	76.80	1.72
+77=	Parth Jain	Novice	Princeton 5	76	78	75	80	75	384	76.80	1.94
+77=	Zuzanna Godzinska	ESL	Middlebury 1	75	79	77	76	77	384	76.80	1.33
+81=	Alexander Margulis	Novice	Princeton 3	78	77	77	75	76	383	76.60	1.02
+81=	Nathan Spencer	Novice	Princeton 7	77	75	78	73	80	383	76.60	2.42
+83	Emily Paulin		Princeton 3	77	77	78	76	74	382	76.40	1.36
+84=	James Afford		Brown 1	78	75	78	76	74	381	76.20	1.60
+84=	Noku Zuze	Novice	Bates 2	75	76	77	74	79	381	76.20	1.72
+86=	Eamin Ahmed	Novice	Cornell 1	77	78	74	76	75	380	76.00	1.41
+86=	Elaine Gao	Novice	Princeton 5	77	77	74	79	73	380	76.00	2.19
+88=	Will Raihall		Vermont 2	78	74	72	77	78	379	75.80	2.40
+88=	Ariel Schuck		Vermont 12	76	79	76	72	76	379	75.80	2.23
+88=	Gianluca LoPorto		HWS 2	76	76	74	77	76	379	75.80	0.98
+88=	Leo Bonacci		HWS 3	78	76	73	77	75	379	75.80	1.72
+88=	Salma Alhsni	Novice	Princeton 6	77	77	75	78	72	379	75.80	2.14
+88=	Felix Huang	ESL	Rochester 2	75	77	80	75	72	379	75.80	2.64
+88=	Orateur 1		Swing 2	74	74	76	78	77	379	75.80	1.60
+88=	Orateur 2		Swing 2	74	73	78	78	76	379	75.80	2.04
+96=	Victoria Bubina	Novice	Rochester 2	74	77	79	74	74	378	75.60	2.06
+96=	Alizey Warraich	ESL	Colby 2	77	75	75	78	73	378	75.60	1.74
+98=	Jacob Franchi		HWS 2	77	75	74	76	75	377	75.40	1.02
+98=	Grace Flynn		Columbia 3	74	77	75	73	78	377	75.40	1.85
+98=	Jamie Kim	Novice	Columbia 3	74	77	75	73	78	377	75.40	1.85
+98=	Yurdanur Yolcu	Novice, ESL	Davidson 2	74	73	77	77	76	377	75.40	1.62
+98=	Muhammad Saif	ESL	Colby 1	77	75	75	72	78	377	75.40	2.06
+98=	John Hanson		Colby 1	76	75	75	72	79	377	75.40	2.24
+98=	Oskar Lieberman		Colby 2	74	75	77	77	74	377	75.40	1.36
+98=	Orateur 1		Swing 3	76	76	75	77	73	377	75.40	1.36
+106=	Sam Farley		Vermont 4	78	74	76	72	76	376	75.20	2.04
+106=	Viraj Nautiyal	Novice	Brown 1	78	75	76	73	74	376	75.20	1.72
+106=	Auden White		Davidson 1	74	75	76	76	75	376	75.20	0.75
+106=	Quentin Davis	Novice	Morehouse 2	74	78	76	75	73	376	75.20	1.72
+106=	James Foleno	Novice	Bates 2	75	75	76	73	77	376	75.20	1.33
+111=	Lily Wycoff		Vermont 5	77	78	74	72	74	375	75.00	2.19
+111=	Eleanor Greco	Novice	Vermont 10	72	78	75	73	77	375	75.00	2.28
+111=	Emily Sakash		Vermont 12	74	77	75	73	76	375	75.00	1.41
+111=	Dylan Ballard	Novice	HWS 4	78	74	72	76	75	375	75.00	2.00
+111=	Santosh Gontla	Novice	Davidson 1	74	75	76	74	76	375	75.00	0.89
+111=	Rajeev Krishnamurthy	Novice, ESL	Davidson 2	73	73	77	77	75	375	75.00	1.79
+117=	Grace O&#x27;Bryan	Novice	Vermont 3	75	76	74	73	76	374	74.80	1.17
+117=	Colin Mellen	Novice	Vermont 3	74	77	75	72	76	374	74.80	1.72
+117=	Neil Rohan		Vermont 13	73	75	77	76	73	374	74.80	1.60
+117=	Briana Reyes	Novice	HWS 4	77	74	73	76	74	374	74.80	1.47
+121=	Kat Rutkowski		Vermont 2	76	74	70	76	77	373	74.60	2.50
+121=	Gavin Alberts		Vermont 4	78	73	75	72	75	373	74.60	2.06
+121=	Joshua Atkins	Novice	UWI Mona 1	75	77	72	77	72	373	74.60	2.24
+121=	Jaden Haywood	Novice	HWS 6	73	73	77	74	76	373	74.60	1.62
+125=	Agnes Shales		Vermont 5	77	76	72	72	75	372	74.40	2.06
+125=	Johnny Bewley		HWS 6	73	73	77	74	75	372	74.40	1.50
+125=	Martin Seals	Novice	Morehouse 2	74	78	75	74	71	372	74.40	2.24
+128=	Tomek Botwicz		Vermont 13	73	75	76	74	73	371	74.20	1.17
+128=	Calicia Vassell	Novice	UWI Mona 1	75	75	71	77	73	371	74.20	2.04
+128=	David Beloglazov		Princeton 6	74	74	73	76	74	371	74.20	0.98
+131=	Matthew Douglas	Novice	UT Jamaica 1	77	69	76	74	73	369	73.80	2.79
+131=	Yale Coopersmith		Bard 3	74	74	74	71	76	369	73.80	1.60
+131=	Fenya Lyn Walter	ESL	Middlebury 2	76	69	74	76	74	369	73.80	2.56
+134=	Josie Haley	Novice	Vermont 1	78	76	70	70	73	367	73.40	3.20
+134=	Javen Sears 🍔	Novice	Vermont 11	76	72	74	68	77	367	73.40	3.20
+134=	Nogomo-Nantambu Johnson	Novice	UT Jamaica 1	77	69	76	73	72	367	73.40	2.87
+137	Eliot Barrengos	Novice	Vermont 9	77	75	77	60	77	366	73.20	6.65
+138=	Zahra Boussaid	Novice	Vermont 1	77	74	70	71	73	365	73.00	2.45
+138=	Lesedi Chirikuutsi	Novice, ESL	Williams 2	74	73	72	73	73	365	73.00	0.63
+138=	Dmitriy Churin	Novice, ESL	Bard 3	71	74	72	72	76	365	73.00	1.79
+141	Sarah Volpitta	Novice	Vermont 9	75	76	76	61	75	363	72.60	5.82
+142=	Sasha Zory	Novice	HWS 1	77	71	72	68	74	362	72.40	3.01
+142=	Stan Vasileiadis	Novice, ESL	Williams 2	74	72	72	70	74	362	72.40	1.50
+142=	Nathaniel Cange	Novice	Morehouse 1	78	77	74	61	72	362	72.40	6.09
+145=	Angelica Carnevale	Novice	HWS 1	76	72	72	68	73	361	72.20	2.56
+145=	Owen Burstein		HWS 5	74	70	68	74	75	361	72.20	2.71
+145=	Justin Clopton		Morehouse 1	77	76	75	62	71	361	72.20	5.49
+148=	Alvaro Marin Garcia	Novice	Williams 3	73	76	74	59	77	359	71.80	6.55
+148=	Lily Fox	Novice	Williams 3	73	76	74	59	77	359	71.80	6.55
+150=	Kaitlyn O&#x27;Connor	Novice	Vermont 7	74	65	74	71	74	358	71.60	3.50
+150=	Marianna Fabre	Novice	Vermont 8	76	75	73	60	74	358	71.60	5.89
+150=	Gradie Billiter🍑	Novice	Vermont 11	76	72	74	60	76	358	71.60	5.99
+150=	Cassidy Holt		Middlebury 2	72	67	72	74	73	358	71.60	2.42
+154	Jack Badeer		Vermont 8	76	74	72	60	74	356	71.20	5.74
+155	Kaelyn Parks	Novice	Vermont 7	73	65	73	70	74	355	71.00	3.29
+156	Panhavotey Chea	Novice	Bard 2	73	65	70	70	73	351	70.20	2.93
+157	Alina Sharaban	Novice	Bard 2	73	67	71	68	71	350	70.00	2.19
+158	Orateur 2		Swing 3	76	76	75	77	—	304	76.00	0.71
+159	Bree Schrodt		Vermont 10	70	78	—	73	76	297	74.25	3.03
+160	Kiera Toussaint		HWS 5	72	—	69	73	74	288	72.00	1.87
+
+
+team	result	side	ballot	adjudicators
+Harvard 5	2nd	Opening Government	View Ballot	Helen WuⒸ , Caitlin Hodge
+Columbia 3	3rd	Opening Opposition	View Ballot	Helen WuⒸ , Caitlin Hodge
+Vermont 13	4th	Closing Government	View Ballot	Helen WuⒸ , Caitlin Hodge
+Stanford 2	1st	Closing Opposition	View Ballot	Helen WuⒸ , Caitlin Hodge
+Davidson 2	4th	Opening Government	View Ballot	Matt MaurielloⒸ , Basil Bob , Journey HoreisⓉ
+Bates 1	1st	Opening Opposition	View Ballot	Matt MaurielloⒸ , Basil Bob , Journey HoreisⓉ
+Swing 3	2nd	Closing Government	View Ballot	Matt MaurielloⒸ , Basil Bob , Journey HoreisⓉ
+Davidson 1	3rd	Closing Opposition	View Ballot	Matt MaurielloⒸ , Basil Bob , Journey HoreisⓉ
+Princeton 1	2nd	Opening Government	View Ballot	Tanay PatriⒸ , Devan Tatlow , Marriana MaloneyⓉ
+Cornell 1	3rd	Opening Opposition	View Ballot	Tanay PatriⒸ , Devan Tatlow , Marriana MaloneyⓉ
+Williams 3	4th	Closing Government	View Ballot	Tanay PatriⒸ , Devan Tatlow , Marriana MaloneyⓉ
+Princeton 4	1st	Closing Opposition	View Ballot	Tanay PatriⒸ , Devan Tatlow , Marriana MaloneyⓉ
+Middlebury 2	4th	Opening Government	View Ballot	Alexandra Uy-TiocoⒸ , Merrick ModunⓉ
+UW-Madison 1	1st	Opening Opposition	View Ballot	Alexandra Uy-TiocoⒸ , Merrick ModunⓉ
+Colby 2	3rd	Closing Government	View Ballot	Alexandra Uy-TiocoⒸ , Merrick ModunⓉ
+Princeton 5	2nd	Closing Opposition	View Ballot	Alexandra Uy-TiocoⒸ , Merrick ModunⓉ
+Vermont 2	1st	Opening Government	View Ballot	Belle HoⒸ , Japneet Singh , Aadarsh S AdivishnuⓉ
+Princeton 6	2nd	Opening Opposition	View Ballot	Belle HoⒸ , Japneet Singh , Aadarsh S AdivishnuⓉ
+Vermont 7	4th	Closing Government	View Ballot	Belle HoⒸ , Japneet Singh , Aadarsh S AdivishnuⓉ
+Vermont 12	3rd	Closing Opposition	View Ballot	Belle HoⒸ , Japneet Singh , Aadarsh S AdivishnuⓉ
+Princeton 7	1st	Opening Government	View Ballot	Justin WuⒸ , Gavin A. Sicard , Emma ListgartenⓉ
+HWS 2	2nd	Opening Opposition	View Ballot	Justin WuⒸ , Gavin A. Sicard , Emma ListgartenⓉ
+Williams 2	4th	Closing Government	View Ballot	Justin WuⒸ , Gavin A. Sicard , Emma ListgartenⓉ
+Middlebury 1	3rd	Closing Opposition	View Ballot	Justin WuⒸ , Gavin A. Sicard , Emma ListgartenⓉ
+Berkeley 3	2nd	Opening Government	View Ballot	Ollie BradenⒸ , André Brown
+Williams 1	1st	Opening Opposition	View Ballot	Ollie BradenⒸ , André Brown
+Berkeley 1	3rd	Closing Government	View Ballot	Ollie BradenⒸ , André Brown
+Bates 2	4th	Closing Opposition	View Ballot	Ollie BradenⒸ , André Brown
+UT Jamaica 1	1st	Opening Government	View Ballot	Brian ChiangⒸ , Julian Henry , Michelle MangioneⓉ
+Rochester 1	2nd	Opening Opposition	View Ballot	Brian ChiangⒸ , Julian Henry , Michelle MangioneⓉ
+Bard 2	4th	Closing Government	View Ballot	Brian ChiangⒸ , Julian Henry , Michelle MangioneⓉ
+Rochester 2	3rd	Closing Opposition	View Ballot	Brian ChiangⒸ , Julian Henry , Michelle MangioneⓉ
+Stanford 3	2nd	Opening Government	View Ballot	Barron RenⒸ , Abdullah ShahzadⓉ
+Harvard 7	1st	Opening Opposition	View Ballot	Barron RenⒸ , Abdullah ShahzadⓉ
+Stanford 1	4th	Closing Government	View Ballot	Barron RenⒸ , Abdullah ShahzadⓉ
+Vermont 4	3rd	Closing Opposition	View Ballot	Barron RenⒸ , Abdullah ShahzadⓉ
+HWS 3	1st	Opening Government	View Ballot	Oyuka LyndonⒸ , Addison Baker , Jonathan DolseyⓉ
+Vermont 11	4th	Opening Opposition	View Ballot	Oyuka LyndonⒸ , Addison Baker , Jonathan DolseyⓉ
+Berkeley 2	2nd	Closing Government	View Ballot	Oyuka LyndonⒸ , Addison Baker , Jonathan DolseyⓉ
+Vermont 1	3rd	Closing Opposition	View Ballot	Oyuka LyndonⒸ , Addison Baker , Jonathan DolseyⓉ
+UPenn 1	4th	Opening Government	View Ballot	Xiao-ke LuⒸ , Jasmine Goncalves
+Drexel 1	2nd	Opening Opposition	View Ballot	Xiao-ke LuⒸ , Jasmine Goncalves
+Harvard 8	1st	Closing Government	View Ballot	Xiao-ke LuⒸ , Jasmine Goncalves
+Brown 1	3rd	Closing Opposition	View Ballot	Xiao-ke LuⒸ , Jasmine Goncalves
+Princeton 2	4th	Opening Government	View Ballot	Rhys NickersonⒸ , Shrey VoraⓉ
+Harvard 3	1st	Opening Opposition	View Ballot	Rhys NickersonⒸ , Shrey VoraⓉ
+USC 2	3rd	Closing Government	View Ballot	Rhys NickersonⒸ , Shrey VoraⓉ
+Harvard 2	2nd	Closing Opposition	View Ballot	Rhys NickersonⒸ , Shrey VoraⓉ
+UCLA 3	2nd	Opening Government	View Ballot	Rahul KalavaguntaⒸ , Jacob Molina , Isabel BirneyⓉ
+HWS 4	3rd	Opening Opposition	View Ballot	Rahul KalavaguntaⒸ , Jacob Molina , Isabel BirneyⓉ
+Colby 1	4th	Closing Government	View Ballot	Rahul KalavaguntaⒸ , Jacob Molina , Isabel BirneyⓉ
+USC 1	1st	Closing Opposition	View Ballot	Rahul KalavaguntaⒸ , Jacob Molina , Isabel BirneyⓉ
+Boston 1	3rd	Opening Government	View Ballot	Dennis SuⒸ , Rachel KussickⓉ
+Columbia 2	2nd	Opening Opposition	View Ballot	Dennis SuⒸ , Rachel KussickⓉ
+Harvard 4	1st	Closing Government	View Ballot	Dennis SuⒸ , Rachel KussickⓉ
+Bard 1	4th	Closing Opposition	View Ballot	Dennis SuⒸ , Rachel KussickⓉ
+Vermont 10	4th	Opening Government	View Ballot	Germaine BarrettⒸ , Roger BentⓉ
+HWS 1	3rd	Opening Opposition	View Ballot	Germaine BarrettⒸ , Roger BentⓉ
+Harvard 6	1st	Closing Government	View Ballot	Germaine BarrettⒸ , Roger BentⓉ
+Morehouse 1	2nd	Closing Opposition	View Ballot	Germaine BarrettⒸ , Roger BentⓉ
+UCLA 2	1st	Opening Government	View Ballot	Rohan KapoorⒸ , Mikayla McDonaldⓉ
+Brown 2	2nd	Opening Opposition	View Ballot	Rohan KapoorⒸ , Mikayla McDonaldⓉ
+Vermont 3	3rd	Closing Government	View Ballot	Rohan KapoorⒸ , Mikayla McDonaldⓉ
+Morehouse 2	4th	Closing Opposition	View Ballot	Rohan KapoorⒸ , Mikayla McDonaldⓉ
+UWI Mona 1	4th	Opening Government	View Ballot	Gwen StearnsⒸ , Luis Gontes , Miles BrethertonⓉ
+Swing 1	2nd	Opening Opposition	View Ballot	Gwen StearnsⒸ , Luis Gontes , Miles BrethertonⓉ
+UCLA 1	1st	Closing Government	View Ballot	Gwen StearnsⒸ , Luis Gontes , Miles BrethertonⓉ
+Cornell 2	3rd	Closing Opposition	View Ballot	Gwen StearnsⒸ , Luis Gontes , Miles BrethertonⓉ
+Bard 3	4th	Opening Government	View Ballot	Pranav AnandⒸ , Duncan ProfetaⓉ
+Vermont 8	2nd	Opening Opposition	View Ballot	Pranav AnandⒸ , Duncan ProfetaⓉ
+Harvard 1	1st	Closing Government	View Ballot	Pranav AnandⒸ , Duncan ProfetaⓉ
+HWS 5	3rd	Closing Opposition	View Ballot	Pranav AnandⒸ , Duncan ProfetaⓉ
+Princeton 3	1st	Opening Government	View Ballot	Lamia Nur RahmanⒸ , Bill ChenⓉ
+Vermont 9	3rd	Opening Opposition	View Ballot	Lamia Nur RahmanⒸ , Bill ChenⓉ
+Swing 2	4th	Closing Government	View Ballot	Lamia Nur RahmanⒸ , Bill ChenⓉ
+Vermont 5	2nd	Closing Opposition	View Ballot	Lamia Nur RahmanⒸ , Bill ChenⓉ
+Amherst 1	2nd	Opening Government	View Ballot	Jae ParkⒸ , Gage Geren , Ari HahnⓉ
+Columbia 1	1st	Opening Opposition	View Ballot	Jae ParkⒸ , Gage Geren , Ari HahnⓉ
+Claremont 1	3rd	Closing Government	View Ballot	Jae ParkⒸ , Gage Geren , Ari HahnⓉ
+HWS 6	4th	Closing Opposition	View Ballot	Jae ParkⒸ , Gage Geren , Ari HahnⓉ
+
+
+team	result	side	ballot	adjudicators
+Harvard 6	1st	Opening Government	View Ballot	Helen WuⒸ , Gage Geren , Ari HahnⓉ
+Princeton 7	4th	Opening Opposition	View Ballot	Helen WuⒸ , Gage Geren , Ari HahnⓉ
+Harvard 7	3rd	Closing Government	View Ballot	Helen WuⒸ , Gage Geren , Ari HahnⓉ
+Williams 1	2nd	Closing Opposition	View Ballot	Helen WuⒸ , Gage Geren , Ari HahnⓉ
+USC 1	3rd	Opening Government	View Ballot	Matt MaurielloⒸ , Oyuka Lyndon , Merrick ModunⓉ
+UCLA 1	2nd	Opening Opposition	View Ballot	Matt MaurielloⒸ , Oyuka Lyndon , Merrick ModunⓉ
+Princeton 4	1st	Closing Government	View Ballot	Matt MaurielloⒸ , Oyuka Lyndon , Merrick ModunⓉ
+UT Jamaica 1	4th	Closing Opposition	View Ballot	Matt MaurielloⒸ , Oyuka Lyndon , Merrick ModunⓉ
+Swing 1	3rd	Opening Government	View Ballot	Alexandra Uy-TiocoⒸ , Gavin A. Sicard
+Stanford 3	1st	Opening Opposition	View Ballot	Alexandra Uy-TiocoⒸ , Gavin A. Sicard
+Princeton 6	4th	Closing Government	View Ballot	Alexandra Uy-TiocoⒸ , Gavin A. Sicard
+Columbia 2	2nd	Closing Opposition	View Ballot	Alexandra Uy-TiocoⒸ , Gavin A. Sicard
+Vermont 1	4th	Opening Government	View Ballot	Lamia Nur RahmanⒸ , Marriana MaloneyⓉ
+Cornell 2	1st	Opening Opposition	View Ballot	Lamia Nur RahmanⒸ , Marriana MaloneyⓉ
+Columbia 3	3rd	Closing Government	View Ballot	Lamia Nur RahmanⒸ , Marriana MaloneyⓉ
+USC 2	2nd	Closing Opposition	View Ballot	Lamia Nur RahmanⒸ , Marriana MaloneyⓉ
+Harvard 2	3rd	Opening Government	View Ballot	Dennis SuⒸ , Luis Gontes , Izayah ThomasⓉ
+Berkeley 2	2nd	Opening Opposition	View Ballot	Dennis SuⒸ , Luis Gontes , Izayah ThomasⓉ
+Morehouse 1	4th	Closing Government	View Ballot	Dennis SuⒸ , Luis Gontes , Izayah ThomasⓉ
+Princeton 1	1st	Closing Opposition	View Ballot	Dennis SuⒸ , Luis Gontes , Izayah ThomasⓉ
+HWS 2	3rd	Opening Government	View Ballot	Xiao-ke LuⒸ , Brian Chiang , Shrey VoraⓉ
+Berkeley 3	1st	Opening Opposition	View Ballot	Xiao-ke LuⒸ , Brian Chiang , Shrey VoraⓉ
+Amherst 1	2nd	Closing Government	View Ballot	Xiao-ke LuⒸ , Brian Chiang , Shrey VoraⓉ
+Vermont 8	4th	Closing Opposition	View Ballot	Xiao-ke LuⒸ , Brian Chiang , Shrey VoraⓉ
+Bates 2	3rd	Opening Government	View Ballot	Jae ParkⒸ , Basil Bob , Bill ChenⓉ
+Vermont 10	1st	Opening Opposition	View Ballot	Jae ParkⒸ , Basil Bob , Bill ChenⓉ
+UWI Mona 1	2nd	Closing Government	View Ballot	Jae ParkⒸ , Basil Bob , Bill ChenⓉ
+Colby 1	4th	Closing Opposition	View Ballot	Jae ParkⒸ , Basil Bob , Bill ChenⓉ
+Davidson 1	2nd	Opening Government	View Ballot	Rhys NickersonⒸ , Miles BrethertonⓉ
+HWS 5	4th	Opening Opposition	View Ballot	Rhys NickersonⒸ , Miles BrethertonⓉ
+Boston 1	1st	Closing Government	View Ballot	Rhys NickersonⒸ , Miles BrethertonⓉ
+HWS 1	3rd	Closing Opposition	View Ballot	Rhys NickersonⒸ , Miles BrethertonⓉ
+Vermont 4	4th	Opening Government	View Ballot	Gwen StearnsⒸ , Jasmine Goncalves
+Claremont 1	2nd	Opening Opposition	View Ballot	Gwen StearnsⒸ , Jasmine Goncalves
+Brown 1	3rd	Closing Government	View Ballot	Gwen StearnsⒸ , Jasmine Goncalves
+Cornell 1	1st	Closing Opposition	View Ballot	Gwen StearnsⒸ , Jasmine Goncalves
+Vermont 11	4th	Opening Government	View Ballot	Ollie BradenⒸ , Jacob Molina
+Williams 2	3rd	Opening Opposition	View Ballot	Ollie BradenⒸ , Jacob Molina
+Davidson 2	2nd	Closing Government	View Ballot	Ollie BradenⒸ , Jacob Molina
+Swing 2	1st	Closing Opposition	View Ballot	Ollie BradenⒸ , Jacob Molina
+Stanford 2	1st	Opening Government	View Ballot	Pranav AnandⒸ , Addison Baker , Mikayla McDonaldⓉ
+Vermont 2	4th	Opening Opposition	View Ballot	Pranav AnandⒸ , Addison Baker , Mikayla McDonaldⓉ
+Bates 1	2nd	Closing Government	View Ballot	Pranav AnandⒸ , Addison Baker , Mikayla McDonaldⓉ
+UCLA 2	3rd	Closing Opposition	View Ballot	Pranav AnandⒸ , Addison Baker , Mikayla McDonaldⓉ
+Harvard 3	2nd	Opening Government	View Ballot	Rahul KalavaguntaⒸ , Julian Henry , Abdullah ShahzadⓉ
+HWS 3	4th	Opening Opposition	View Ballot	Rahul KalavaguntaⒸ , Julian Henry , Abdullah ShahzadⓉ
+UW-Madison 1	3rd	Closing Government	View Ballot	Rahul KalavaguntaⒸ , Julian Henry , Abdullah ShahzadⓉ
+Columbia 1	1st	Closing Opposition	View Ballot	Rahul KalavaguntaⒸ , Julian Henry , Abdullah ShahzadⓉ
+Williams 3	3rd	Opening Government	View Ballot	Barron RenⒸ , Aadarsh S AdivishnuⓉ
+UPenn 1	1st	Opening Opposition	View Ballot	Barron RenⒸ , Aadarsh S AdivishnuⓉ
+Bard 1	2nd	Closing Government	View Ballot	Barron RenⒸ , Aadarsh S AdivishnuⓉ
+Vermont 13	4th	Closing Opposition	View Ballot	Barron RenⒸ , Aadarsh S AdivishnuⓉ
+Colby 2	3rd	Opening Government	View Ballot	Justin WuⒸ , André Brown , Duncan ProfetaⓉ
+Berkeley 1	1st	Opening Opposition	View Ballot	Justin WuⒸ , André Brown , Duncan ProfetaⓉ
+Rochester 2	2nd	Closing Government	View Ballot	Justin WuⒸ , André Brown , Duncan ProfetaⓉ
+HWS 4	4th	Closing Opposition	View Ballot	Justin WuⒸ , André Brown , Duncan ProfetaⓉ
+Stanford 1	1st	Opening Government	View Ballot	Devan TatlowⒸ , Caitlin Hodge , Journey HoreisⓉ
+Vermont 7	4th	Opening Opposition	View Ballot	Devan TatlowⒸ , Caitlin Hodge , Journey HoreisⓉ
+Middlebury 2	2nd	Closing Government	View Ballot	Devan TatlowⒸ , Caitlin Hodge , Journey HoreisⓉ
+Bard 2	3rd	Closing Opposition	View Ballot	Devan TatlowⒸ , Caitlin Hodge , Journey HoreisⓉ
+Morehouse 2	1st	Opening Government	View Ballot	Ryan LaffertyⒸ , Isabel BirneyⓉ
+Bard 3	3rd	Opening Opposition	View Ballot	Ryan LaffertyⒸ , Isabel BirneyⓉ
+HWS 6	4th	Closing Government	View Ballot	Ryan LaffertyⒸ , Isabel BirneyⓉ
+Princeton 2	2nd	Closing Opposition	View Ballot	Ryan LaffertyⒸ , Isabel BirneyⓉ
+Rochester 1	2nd	Opening Government	View Ballot	Rohan KapoorⒸ , Emma Listgarten , Rachel KussickⓉ
+Princeton 5	3rd	Opening Opposition	View Ballot	Rohan KapoorⒸ , Emma Listgarten , Rachel KussickⓉ
+UCLA 3	4th	Closing Government	View Ballot	Rohan KapoorⒸ , Emma Listgarten , Rachel KussickⓉ
+Brown 2	1st	Closing Opposition	View Ballot	Rohan KapoorⒸ , Emma Listgarten , Rachel KussickⓉ
+Vermont 9	4th	Opening Government	View Ballot	Germaine BarrettⒸ , Roger BentⓉ
+Middlebury 1	1st	Opening Opposition	View Ballot	Germaine BarrettⒸ , Roger BentⓉ
+Vermont 12	2nd	Closing Government	View Ballot	Germaine BarrettⒸ , Roger BentⓉ
+Vermont 3	3rd	Closing Opposition	View Ballot	Germaine BarrettⒸ , Roger BentⓉ
+Vermont 5	3rd	Opening Government	View Ballot	Belle HoⒸ , Michelle MangioneⓉ
+Harvard 5	1st	Opening Opposition	View Ballot	Belle HoⒸ , Michelle MangioneⓉ
+Drexel 1	2nd	Closing Government	View Ballot	Belle HoⒸ , Michelle MangioneⓉ
+Swing 3	4th	Closing Opposition	View Ballot	Belle HoⒸ , Michelle MangioneⓉ
+Harvard 1	1st	Opening Government	View Ballot	Tanay PatriⒸ , Japneet Singh , Edwin OwusuⓉ
+Harvard 8	2nd	Opening Opposition	View Ballot	Tanay PatriⒸ , Japneet Singh , Edwin OwusuⓉ
+Princeton 3	4th	Closing Government	View Ballot	Tanay PatriⒸ , Japneet Singh , Edwin OwusuⓉ
+Harvard 4	3rd	Closing Opposition	View Ballot	Tanay PatriⒸ , Japneet Singh , Edwin OwusuⓉ
+
+
+team	result	side	ballot	adjudicators
+Berkeley 1	2nd	Opening Government	View Ballot	Pranav AnandⒸ , Emma Listgarten , Miles BrethertonⓉ
+USC 1	1st	Opening Opposition	View Ballot	Pranav AnandⒸ , Emma Listgarten , Miles BrethertonⓉ
+Cornell 2	4th	Closing Government	View Ballot	Pranav AnandⒸ , Emma Listgarten , Miles BrethertonⓉ
+UW-Madison 1	3rd	Closing Opposition	View Ballot	Pranav AnandⒸ , Emma Listgarten , Miles BrethertonⓉ
+Morehouse 1	3rd	Opening Government	View Ballot	Barron RenⒸ , Abdullah ShahzadⓉ
+Davidson 2	1st	Opening Opposition	View Ballot	Barron RenⒸ , Abdullah ShahzadⓉ
+HWS 1	4th	Closing Government	View Ballot	Barron RenⒸ , Abdullah ShahzadⓉ
+UCLA 3	2nd	Closing Opposition	View Ballot	Barron RenⒸ , Abdullah ShahzadⓉ
+Middlebury 1	3rd	Opening Government	View Ballot	Rahul KalavaguntaⒸ , André Brown , Izayah ThomasⓉ
+Harvard 4	4th	Opening Opposition	View Ballot	Rahul KalavaguntaⒸ , André Brown , Izayah ThomasⓉ
+Rochester 1	2nd	Closing Government	View Ballot	Rahul KalavaguntaⒸ , André Brown , Izayah ThomasⓉ
+Harvard 7	1st	Closing Opposition	View Ballot	Rahul KalavaguntaⒸ , André Brown , Izayah ThomasⓉ
+Colby 1	2nd	Opening Government	View Ballot	Oyuka LyndonⒸ , Luis Gontes
+Bard 2	4th	Opening Opposition	View Ballot	Oyuka LyndonⒸ , Luis Gontes
+Bard 3	3rd	Closing Government	View Ballot	Oyuka LyndonⒸ , Luis Gontes
+Vermont 9	1st	Closing Opposition	View Ballot	Oyuka LyndonⒸ , Luis Gontes
+Vermont 12	3rd	Opening Government	View Ballot	Alexandra Uy-TiocoⒸ , Ahmed ChaudhryⓉ , Bill ChenⓉ
+USC 2	2nd	Opening Opposition	View Ballot	Alexandra Uy-TiocoⒸ , Ahmed ChaudhryⓉ , Bill ChenⓉ
+Swing 1	1st	Closing Government	View Ballot	Alexandra Uy-TiocoⒸ , Ahmed ChaudhryⓉ , Bill ChenⓉ
+HWS 2	4th	Closing Opposition	View Ballot	Alexandra Uy-TiocoⒸ , Ahmed ChaudhryⓉ , Bill ChenⓉ
+Princeton 5	4th	Opening Government	View Ballot	Rhys NickersonⒸ , Angela Zhang
+Stanford 1	1st	Opening Opposition	View Ballot	Rhys NickersonⒸ , Angela Zhang
+Morehouse 2	3rd	Closing Government	View Ballot	Rhys NickersonⒸ , Angela Zhang
+Princeton 3	2nd	Closing Opposition	View Ballot	Rhys NickersonⒸ , Angela Zhang
+Columbia 2	1st	Opening Government	View Ballot	Ryan LaffertyⒸ , Roger Bent , Journey HoreisⓉ
+Amherst 1	3rd	Opening Opposition	View Ballot	Ryan LaffertyⒸ , Roger Bent , Journey HoreisⓉ
+UCLA 2	2nd	Closing Government	View Ballot	Ryan LaffertyⒸ , Roger Bent , Journey HoreisⓉ
+Berkeley 2	4th	Closing Opposition	View Ballot	Ryan LaffertyⒸ , Roger Bent , Journey HoreisⓉ
+UCLA 1	3rd	Opening Government	View Ballot	Xiao-ke LuⒸ , Julian Henry , Ari HahnⓉ
+Stanford 2	1st	Opening Opposition	View Ballot	Xiao-ke LuⒸ , Julian Henry , Ari HahnⓉ
+Brown 2	4th	Closing Government	View Ballot	Xiao-ke LuⒸ , Julian Henry , Ari HahnⓉ
+Harvard 6	2nd	Closing Opposition	View Ballot	Xiao-ke LuⒸ , Julian Henry , Ari HahnⓉ
+Princeton 4	1st	Opening Government	View Ballot	Dennis SuⒸ , Peyton JacksonⓉ
+Harvard 1	3rd	Opening Opposition	View Ballot	Dennis SuⒸ , Peyton JacksonⓉ
+Columbia 1	2nd	Closing Government	View Ballot	Dennis SuⒸ , Peyton JacksonⓉ
+Harvard 3	4th	Closing Opposition	View Ballot	Dennis SuⒸ , Peyton JacksonⓉ
+Bard 1	3rd	Opening Government	View Ballot	Rohan KapoorⒸ , Michelle Mangione
+Rochester 2	2nd	Opening Opposition	View Ballot	Rohan KapoorⒸ , Michelle Mangione
+UPenn 1	1st	Closing Government	View Ballot	Rohan KapoorⒸ , Michelle Mangione
+Vermont 10	4th	Closing Opposition	View Ballot	Rohan KapoorⒸ , Michelle Mangione
+HWS 4	3rd	Opening Government	View Ballot	Devan TatlowⒸ , Caitlin Hodge
+Swing 3	2nd	Opening Opposition	View Ballot	Devan TatlowⒸ , Caitlin Hodge
+Bates 2	1st	Closing Government	View Ballot	Devan TatlowⒸ , Caitlin Hodge
+UWI Mona 1	4th	Closing Opposition	View Ballot	Devan TatlowⒸ , Caitlin Hodge
+Harvard 8	4th	Opening Government	View Ballot	Belle HoⒸ , Gavin A. Sicard , Duncan ProfetaⓉ
+Princeton 1	2nd	Opening Opposition	View Ballot	Belle HoⒸ , Gavin A. Sicard , Duncan ProfetaⓉ
+Williams 1	3rd	Closing Government	View Ballot	Belle HoⒸ , Gavin A. Sicard , Duncan ProfetaⓉ
+Stanford 3	1st	Closing Opposition	View Ballot	Belle HoⒸ , Gavin A. Sicard , Duncan ProfetaⓉ
+HWS 5	4th	Opening Government	View Ballot	Ollie BradenⒸ , Basil Bob , Shrey VoraⓉ
+Williams 3	1st	Opening Opposition	View Ballot	Ollie BradenⒸ , Basil Bob , Shrey VoraⓉ
+Vermont 1	3rd	Closing Government	View Ballot	Ollie BradenⒸ , Basil Bob , Shrey VoraⓉ
+Williams 2	2nd	Closing Opposition	View Ballot	Ollie BradenⒸ , Basil Bob , Shrey VoraⓉ
+Vermont 13	2nd	Opening Government	View Ballot	Brian ChiangⒸ , Jonathan Dolsey , Marriana MaloneyⓉ
+HWS 6	1st	Opening Opposition	View Ballot	Brian ChiangⒸ , Jonathan Dolsey , Marriana MaloneyⓉ
+Vermont 11	3rd	Closing Government	View Ballot	Brian ChiangⒸ , Jonathan Dolsey , Marriana MaloneyⓉ
+Vermont 7	4th	Closing Opposition	View Ballot	Brian ChiangⒸ , Jonathan Dolsey , Marriana MaloneyⓉ
+Swing 2	2nd	Opening Government	View Ballot	Gwen StearnsⒸ , Jacob Molina , Merrick ModunⓉ
+Davidson 1	3rd	Opening Opposition	View Ballot	Gwen StearnsⒸ , Jacob Molina , Merrick ModunⓉ
+HWS 3	4th	Closing Government	View Ballot	Gwen StearnsⒸ , Jacob Molina , Merrick ModunⓉ
+Princeton 7	1st	Closing Opposition	View Ballot	Gwen StearnsⒸ , Jacob Molina , Merrick ModunⓉ
+Brown 1	1st	Opening Government	View Ballot	Germaine BarrettⒸ , Jasmine Goncalves
+Vermont 3	4th	Opening Opposition	View Ballot	Germaine BarrettⒸ , Jasmine Goncalves
+Vermont 4	3rd	Closing Government	View Ballot	Germaine BarrettⒸ , Jasmine Goncalves
+Colby 2	2nd	Closing Opposition	View Ballot	Germaine BarrettⒸ , Jasmine Goncalves
+Princeton 6	2nd	Opening Government	View Ballot	Lamia Nur RahmanⒸ , Japneet SinghⓉ
+Princeton 2	1st	Opening Opposition	View Ballot	Lamia Nur RahmanⒸ , Japneet SinghⓉ
+Vermont 8	4th	Closing Government	View Ballot	Lamia Nur RahmanⒸ , Japneet SinghⓉ
+Middlebury 2	3rd	Closing Opposition	View Ballot	Lamia Nur RahmanⒸ , Japneet SinghⓉ
+Drexel 1	2nd	Opening Government	View Ballot	Matt MaurielloⒸ , Jae Park , Mikayla McDonaldⓉ
+Vermont 5	3rd	Opening Opposition	View Ballot	Matt MaurielloⒸ , Jae Park , Mikayla McDonaldⓉ
+Cornell 1	1st	Closing Government	View Ballot	Matt MaurielloⒸ , Jae Park , Mikayla McDonaldⓉ
+Vermont 2	4th	Closing Opposition	View Ballot	Matt MaurielloⒸ , Jae Park , Mikayla McDonaldⓉ
+Bates 1	3rd	Opening Government	View Ballot	Tanay PatriⒸ , Addison Baker , Gage GerenⓉ
+Boston 1	4th	Opening Opposition	View Ballot	Tanay PatriⒸ , Addison Baker , Gage GerenⓉ
+Berkeley 3	1st	Closing Government	View Ballot	Tanay PatriⒸ , Addison Baker , Gage GerenⓉ
+Harvard 5	2nd	Closing Opposition	View Ballot	Tanay PatriⒸ , Addison Baker , Gage GerenⓉ
+Columbia 3	4th	Opening Government	View Ballot	Justin WuⒸ , Rachel Kussick , Aadarsh S AdivishnuⓉ
+UT Jamaica 1	3rd	Opening Opposition	View Ballot	Justin WuⒸ , Rachel Kussick , Aadarsh S AdivishnuⓉ
+Harvard 2	2nd	Closing Government	View Ballot	Justin WuⒸ , Rachel Kussick , Aadarsh S AdivishnuⓉ
+Claremont 1	1st	Closing Opposition	View Ballot	Justin WuⒸ , Rachel Kussick , Aadarsh S AdivishnuⓉ
+
+
+team	result	side	ballot	adjudicators
+Morehouse 2	3rd	Opening Government	View Ballot	Rhys NickersonⒸ , Luis Gontes , Jason ZhuⓉ
+Vermont 12	4th	Opening Opposition	View Ballot	Rhys NickersonⒸ , Luis Gontes , Jason ZhuⓉ
+Princeton 2	1st	Closing Government	View Ballot	Rhys NickersonⒸ , Luis Gontes , Jason ZhuⓉ
+Davidson 2	2nd	Closing Opposition	View Ballot	Rhys NickersonⒸ , Luis Gontes , Jason ZhuⓉ
+UW-Madison 1	2nd	Opening Government	View Ballot	Belle HoⒸ , Rachel Kussick , Sanaya MasurkarⓉ
+Princeton 3	4th	Opening Opposition	View Ballot	Belle HoⒸ , Rachel Kussick , Sanaya MasurkarⓉ
+Middlebury 1	3rd	Closing Government	View Ballot	Belle HoⒸ , Rachel Kussick , Sanaya MasurkarⓉ
+Stanford 1	1st	Closing Opposition	View Ballot	Belle HoⒸ , Rachel Kussick , Sanaya MasurkarⓉ
+Princeton 5	2nd	Opening Government	View Ballot	Rohan KapoorⒸ , Ari Hahn , Miles BrethertonⓉ
+UCLA 3	1st	Opening Opposition	View Ballot	Rohan KapoorⒸ , Ari Hahn , Miles BrethertonⓉ
+HWS 2	4th	Closing Government	View Ballot	Rohan KapoorⒸ , Ari Hahn , Miles BrethertonⓉ
+Princeton 6	3rd	Closing Opposition	View Ballot	Rohan KapoorⒸ , Ari Hahn , Miles BrethertonⓉ
+Vermont 8	3rd	Opening Government	View Ballot	Gwen StearnsⒸ , Basil Bob , Journey HoreisⓉ
+Morehouse 1	1st	Opening Opposition	View Ballot	Gwen StearnsⒸ , Basil Bob , Journey HoreisⓉ
+Vermont 9	2nd	Closing Government	View Ballot	Gwen StearnsⒸ , Basil Bob , Journey HoreisⓉ
+Williams 3	4th	Closing Opposition	View Ballot	Gwen StearnsⒸ , Basil Bob , Journey HoreisⓉ
+Swing 3	3rd	Opening Government	View Ballot	Lamia Nur RahmanⒸ , Jacob Molina
+Colby 2	2nd	Opening Opposition	View Ballot	Lamia Nur RahmanⒸ , Jacob Molina
+Vermont 2	4th	Closing Government	View Ballot	Lamia Nur RahmanⒸ , Jacob Molina
+Bard 1	1st	Closing Opposition	View Ballot	Lamia Nur RahmanⒸ , Jacob Molina
+Bates 2	3rd	Opening Government	View Ballot	Barron RenⒸ , Japneet SinghⓉ
+Middlebury 2	2nd	Opening Opposition	View Ballot	Barron RenⒸ , Japneet SinghⓉ
+Vermont 10	4th	Closing Government	View Ballot	Barron RenⒸ , Japneet SinghⓉ
+HWS 3	1st	Closing Opposition	View Ballot	Barron RenⒸ , Japneet SinghⓉ
+Columbia 1	1st	Opening Government	View Ballot	Ryan LaffertyⒸ , Duncan ProfetaⓉ , Merrick ModunⓉ
+Princeton 4	4th	Opening Opposition	View Ballot	Ryan LaffertyⒸ , Duncan ProfetaⓉ , Merrick ModunⓉ
+Stanford 2	2nd	Closing Government	View Ballot	Ryan LaffertyⒸ , Duncan ProfetaⓉ , Merrick ModunⓉ
+Harvard 6	3rd	Closing Opposition	View Ballot	Ryan LaffertyⒸ , Duncan ProfetaⓉ , Merrick ModunⓉ
+Vermont 7	3rd	Opening Government	View Ballot	Oyuka LyndonⒸ , Addison BakerⓉ
+Colby 1	2nd	Opening Opposition	View Ballot	Oyuka LyndonⒸ , Addison BakerⓉ
+HWS 5	1st	Closing Government	View Ballot	Oyuka LyndonⒸ , Addison BakerⓉ
+Vermont 11	4th	Closing Opposition	View Ballot	Oyuka LyndonⒸ , Addison BakerⓉ
+Stanford 3	4th	Opening Government	View Ballot	Helen WuⒸ , André Brown , Abdullah ShahzadⓉ
+Harvard 1	2nd	Opening Opposition	View Ballot	Helen WuⒸ , André Brown , Abdullah ShahzadⓉ
+Princeton 1	1st	Closing Government	View Ballot	Helen WuⒸ , André Brown , Abdullah ShahzadⓉ
+Berkeley 3	3rd	Closing Opposition	View Ballot	Helen WuⒸ , André Brown , Abdullah ShahzadⓉ
+Brown 2	4th	Opening Government	View Ballot	Alexandra Uy-TiocoⒸ , Brian Chiang , Gage GerenⓉ
+UCLA 2	3rd	Opening Opposition	View Ballot	Alexandra Uy-TiocoⒸ , Brian Chiang , Gage GerenⓉ
+Harvard 3	1st	Closing Government	View Ballot	Alexandra Uy-TiocoⒸ , Brian Chiang , Gage GerenⓉ
+Drexel 1	2nd	Closing Opposition	View Ballot	Alexandra Uy-TiocoⒸ , Brian Chiang , Gage GerenⓉ
+Cornell 1	4th	Opening Government	View Ballot	Tanay PatriⒸ , Michelle Mangione , Mikayla McDonaldⓉ
+Harvard 5	1st	Opening Opposition	View Ballot	Tanay PatriⒸ , Michelle Mangione , Mikayla McDonaldⓉ
+USC 1	2nd	Closing Government	View Ballot	Tanay PatriⒸ , Michelle Mangione , Mikayla McDonaldⓉ
+UCLA 1	3rd	Closing Opposition	View Ballot	Tanay PatriⒸ , Michelle Mangione , Mikayla McDonaldⓉ
+Claremont 1	2nd	Opening Government	View Ballot	Matt MaurielloⒸ , Marriana MaloneyⓉ
+UPenn 1	1st	Opening Opposition	View Ballot	Matt MaurielloⒸ , Marriana MaloneyⓉ
+Princeton 7	4th	Closing Government	View Ballot	Matt MaurielloⒸ , Marriana MaloneyⓉ
+Swing 1	3rd	Closing Opposition	View Ballot	Matt MaurielloⒸ , Marriana MaloneyⓉ
+HWS 1	4th	Opening Government	View Ballot	Ollie BradenⒸ , Bill ChenⓉ
+Vermont 4	2nd	Opening Opposition	View Ballot	Ollie BradenⒸ , Bill ChenⓉ
+Williams 2	3rd	Closing Government	View Ballot	Ollie BradenⒸ , Bill ChenⓉ
+Columbia 3	1st	Closing Opposition	View Ballot	Ollie BradenⒸ , Bill ChenⓉ
+Bard 2	4th	Opening Government	View Ballot	Jae ParkⒸ , Jonathan Dolsey
+Vermont 1	3rd	Opening Opposition	View Ballot	Jae ParkⒸ , Jonathan Dolsey
+Vermont 13	1st	Closing Government	View Ballot	Jae ParkⒸ , Jonathan Dolsey
+Bard 3	2nd	Closing Opposition	View Ballot	Jae ParkⒸ , Jonathan Dolsey
+Vermont 5	4th	Opening Government	View Ballot	Justin WuⒸ , Emma Listgarten , Aadarsh S AdivishnuⓉ
+Brown 1	2nd	Opening Opposition	View Ballot	Justin WuⒸ , Emma Listgarten , Aadarsh S AdivishnuⓉ
+Davidson 1	1st	Closing Government	View Ballot	Justin WuⒸ , Emma Listgarten , Aadarsh S AdivishnuⓉ
+UT Jamaica 1	3rd	Closing Opposition	View Ballot	Justin WuⒸ , Emma Listgarten , Aadarsh S AdivishnuⓉ
+Harvard 7	4th	Opening Government	View Ballot	Rahul KalavaguntaⒸ , Gavin A. Sicard
+Williams 1	2nd	Opening Opposition	View Ballot	Rahul KalavaguntaⒸ , Gavin A. Sicard
+Columbia 2	3rd	Closing Government	View Ballot	Rahul KalavaguntaⒸ , Gavin A. Sicard
+Bates 1	1st	Closing Opposition	View Ballot	Rahul KalavaguntaⒸ , Gavin A. Sicard
+Berkeley 1	4th	Opening Government	View Ballot	Pranav AnandⒸ
+Harvard 8	3rd	Opening Opposition	View Ballot	Pranav AnandⒸ
+Amherst 1	1st	Closing Government	View Ballot	Pranav AnandⒸ
+Rochester 1	2nd	Closing Opposition	View Ballot	Pranav AnandⒸ
+HWS 6	3rd	Opening Government	View Ballot	Caitlin HodgeⒸ , Shrey VoraⓉ
+UWI Mona 1	1st	Opening Opposition	View Ballot	Caitlin HodgeⒸ , Shrey VoraⓉ
+HWS 4	2nd	Closing Government	View Ballot	Caitlin HodgeⒸ , Shrey VoraⓉ
+Vermont 3	4th	Closing Opposition	View Ballot	Caitlin HodgeⒸ , Shrey VoraⓉ
+Cornell 2	1st	Opening Government	View Ballot	Germaine BarrettⒸ , Julian Henry , Roger BentⓉ
+Harvard 2	2nd	Opening Opposition	View Ballot	Germaine BarrettⒸ , Julian Henry , Roger BentⓉ
+Harvard 4	4th	Closing Government	View Ballot	Germaine BarrettⒸ , Julian Henry , Roger BentⓉ
+Boston 1	3rd	Closing Opposition	View Ballot	Germaine BarrettⒸ , Julian Henry , Roger BentⓉ
+Berkeley 2	2nd	Opening Government	View Ballot	Dennis SuⒸ , Devan Tatlow , Izayah ThomasⓉ
+Swing 2	1st	Opening Opposition	View Ballot	Dennis SuⒸ , Devan Tatlow , Izayah ThomasⓉ
+USC 2	3rd	Closing Government	View Ballot	Dennis SuⒸ , Devan Tatlow , Izayah ThomasⓉ
+Rochester 2	4th	Closing Opposition	View Ballot	Dennis SuⒸ , Devan Tatlow , Izayah ThomasⓉ
+
+
+team	result	side	ballot	adjudicators
+Harvard 3	3rd	Opening Government	View Ballot	Rohan KapoorⒸ , Julian Henry
+Berkeley 3	1st	Opening Opposition	View Ballot	Rohan KapoorⒸ , Julian Henry
+Stanford 3	2nd	Closing Government	View Ballot	Rohan KapoorⒸ , Julian Henry
+USC 1	4th	Closing Opposition	View Ballot	Rohan KapoorⒸ , Julian Henry
+Swing 1	3rd	Opening Government	View Ballot	Rahul KalavaguntaⒸ , Basil Bob
+Berkeley 2	2nd	Opening Opposition	View Ballot	Rahul KalavaguntaⒸ , Basil Bob
+Davidson 1	4th	Closing Government	View Ballot	Rahul KalavaguntaⒸ , Basil Bob
+Harvard 2	1st	Closing Opposition	View Ballot	Rahul KalavaguntaⒸ , Basil Bob
+Columbia 2	2nd	Opening Government	View Ballot	Matt MaurielloⒸ , Jacob Molina , Luis Gontes
+UCLA 1	1st	Opening Opposition	View Ballot	Matt MaurielloⒸ , Jacob Molina , Luis Gontes
+Drexel 1	4th	Closing Government	View Ballot	Matt MaurielloⒸ , Jacob Molina , Luis Gontes
+UPenn 1	3rd	Closing Opposition	View Ballot	Matt MaurielloⒸ , Jacob Molina , Luis Gontes
+Harvard 4	1st	Opening Government	View Ballot	Jae ParkⒸ , Isabel Birney , Mikayla McDonaldⓉ
+Princeton 3	2nd	Opening Opposition	View Ballot	Jae ParkⒸ , Isabel Birney , Mikayla McDonaldⓉ
+Princeton 5	3rd	Closing Government	View Ballot	Jae ParkⒸ , Isabel Birney , Mikayla McDonaldⓉ
+Morehouse 1	4th	Closing Opposition	View Ballot	Jae ParkⒸ , Isabel Birney , Mikayla McDonaldⓉ
+Bates 1	4th	Opening Government	View Ballot	Xiao-ke LuⒸ , Michelle Mangione , Rachel Kussick
+Harvard 6	2nd	Opening Opposition	View Ballot	Xiao-ke LuⒸ , Michelle Mangione , Rachel Kussick
+Harvard 5	1st	Closing Government	View Ballot	Xiao-ke LuⒸ , Michelle Mangione , Rachel Kussick
+Harvard 1	3rd	Closing Opposition	View Ballot	Xiao-ke LuⒸ , Michelle Mangione , Rachel Kussick
+Vermont 9	1st	Opening Government	View Ballot	Oyuka LyndonⒸ , Jasmine Goncalves
+Princeton 6	3rd	Opening Opposition	View Ballot	Oyuka LyndonⒸ , Jasmine Goncalves
+Vermont 5	2nd	Closing Government	View Ballot	Oyuka LyndonⒸ , Jasmine Goncalves
+UWI Mona 1	4th	Closing Opposition	View Ballot	Oyuka LyndonⒸ , Jasmine Goncalves
+Vermont 3	2nd	Opening Government	View Ballot	Caitlin HodgeⒸ , Abdullah Shahzad
+Vermont 1	4th	Opening Opposition	View Ballot	Caitlin HodgeⒸ , Abdullah Shahzad
+Vermont 11	1st	Closing Government	View Ballot	Caitlin HodgeⒸ , Abdullah Shahzad
+HWS 1	3rd	Closing Opposition	View Ballot	Caitlin HodgeⒸ , Abdullah Shahzad
+Bard 3	1st	Opening Government	View Ballot	Brian ChiangⒸ , Addison Baker
+Vermont 13	4th	Opening Opposition	View Ballot	Brian ChiangⒸ , Addison Baker
+HWS 4	2nd	Closing Government	View Ballot	Brian ChiangⒸ , Addison Baker
+Vermont 8	3rd	Closing Opposition	View Ballot	Brian ChiangⒸ , Addison Baker
+Vermont 10	3rd	Opening Government	View Ballot	Germaine BarrettⒸ , Izayah Thomas , Roger Bent
+Bates 2	1st	Opening Opposition	View Ballot	Germaine BarrettⒸ , Izayah Thomas , Roger Bent
+HWS 2	4th	Closing Government	View Ballot	Germaine BarrettⒸ , Izayah Thomas , Roger Bent
+Vermont 2	2nd	Closing Opposition	View Ballot	Germaine BarrettⒸ , Izayah Thomas , Roger Bent
+USC 2	3rd	Opening Government	View Ballot	Pranav AnandⒸ , Gage Geren , Sanaya MasurkarⓉ
+UCLA 3	2nd	Opening Opposition	View Ballot	Pranav AnandⒸ , Gage Geren , Sanaya MasurkarⓉ
+Princeton 7	1st	Closing Government	View Ballot	Pranav AnandⒸ , Gage Geren , Sanaya MasurkarⓉ
+Brown 1	4th	Closing Opposition	View Ballot	Pranav AnandⒸ , Gage Geren , Sanaya MasurkarⓉ
+Vermont 12	2nd	Opening Government	View Ballot	Lamia Nur RahmanⒸ , Japneet Singh
+Middlebury 2	3rd	Opening Opposition	View Ballot	Lamia Nur RahmanⒸ , Japneet Singh
+Columbia 3	1st	Closing Government	View Ballot	Lamia Nur RahmanⒸ , Japneet Singh
+Swing 3	4th	Closing Opposition	View Ballot	Lamia Nur RahmanⒸ , Japneet Singh
+Middlebury 1	4th	Opening Government	View Ballot	Alexandra Uy-TiocoⒸ , Marriana Maloney , Aadarsh S AdivishnuⓉ
+Princeton 2	1st	Opening Opposition	View Ballot	Alexandra Uy-TiocoⒸ , Marriana Maloney , Aadarsh S AdivishnuⓉ
+Brown 2	3rd	Closing Government	View Ballot	Alexandra Uy-TiocoⒸ , Marriana Maloney , Aadarsh S AdivishnuⓉ
+Berkeley 1	2nd	Closing Opposition	View Ballot	Alexandra Uy-TiocoⒸ , Marriana Maloney , Aadarsh S AdivishnuⓉ
+Cornell 2	3rd	Opening Government	View Ballot	Belle HoⒸ , Jonathan Dolsey
+UW-Madison 1	2nd	Opening Opposition	View Ballot	Belle HoⒸ , Jonathan Dolsey
+Cornell 1	4th	Closing Government	View Ballot	Belle HoⒸ , Jonathan Dolsey
+Harvard 8	1st	Closing Opposition	View Ballot	Belle HoⒸ , Jonathan Dolsey
+Williams 2	4th	Opening Government	View Ballot	Barron RenⒸ , Emma Listgarten , Shrey VoraⓉ
+Vermont 4	2nd	Opening Opposition	View Ballot	Barron RenⒸ , Emma Listgarten , Shrey VoraⓉ
+Williams 3	1st	Closing Government	View Ballot	Barron RenⒸ , Emma Listgarten , Shrey VoraⓉ
+HWS 5	3rd	Closing Opposition	View Ballot	Barron RenⒸ , Emma Listgarten , Shrey VoraⓉ
+Vermont 7	3rd	Opening Government	View Ballot	Tamhid IslamⒸ , Duncan ProfetaⓉ
+HWS 6	2nd	Opening Opposition	View Ballot	Tamhid IslamⒸ , Duncan ProfetaⓉ
+Bard 2	4th	Closing Government	View Ballot	Tamhid IslamⒸ , Duncan ProfetaⓉ
+Colby 1	1st	Closing Opposition	View Ballot	Tamhid IslamⒸ , Duncan ProfetaⓉ
+Rochester 2	2nd	Opening Government	View Ballot	Ollie BradenⒸ , Ari Hahn , Bill ChenⓉ
+Morehouse 2	4th	Opening Opposition	View Ballot	Ollie BradenⒸ , Ari Hahn , Bill ChenⓉ
+UT Jamaica 1	3rd	Closing Government	View Ballot	Ollie BradenⒸ , Ari Hahn , Bill ChenⓉ
+Colby 2	1st	Closing Opposition	View Ballot	Ollie BradenⒸ , Ari Hahn , Bill ChenⓉ
+Williams 1	3rd	Opening Government	View Ballot	Rhys NickersonⒸ , Miles Bretherton
+Stanford 1	2nd	Opening Opposition	View Ballot	Rhys NickersonⒸ , Miles Bretherton
+Rochester 1	1st	Closing Government	View Ballot	Rhys NickersonⒸ , Miles Bretherton
+Amherst 1	4th	Closing Opposition	View Ballot	Rhys NickersonⒸ , Miles Bretherton
+Claremont 1	1st	Opening Government	View Ballot	Dennis SuⒸ , Journey Horeis , Merrick ModunⓉ
+Harvard 7	2nd	Opening Opposition	View Ballot	Dennis SuⒸ , Journey Horeis , Merrick ModunⓉ
+Swing 2	4th	Closing Government	View Ballot	Dennis SuⒸ , Journey Horeis , Merrick ModunⓉ
+UCLA 2	3rd	Closing Opposition	View Ballot	Dennis SuⒸ , Journey Horeis , Merrick ModunⓉ
+Princeton 1	2nd	Opening Government	View Ballot	Helen WuⒸ , Devan Tatlow , Gavin A. Sicard
+Stanford 2	1st	Opening Opposition	View Ballot	Helen WuⒸ , Devan Tatlow , Gavin A. Sicard
+Columbia 1	3rd	Closing Government	View Ballot	Helen WuⒸ , Devan Tatlow , Gavin A. Sicard
+Princeton 4	4th	Closing Opposition	View Ballot	Helen WuⒸ , Devan Tatlow , Gavin A. Sicard
+Boston 1	1st	Opening Government	View Ballot	Justin WuⒸ , André Brown
+Bard 1	2nd	Opening Opposition	View Ballot	Justin WuⒸ , André Brown
+Davidson 2	4th	Closing Government	View Ballot	Justin WuⒸ , André Brown
+HWS 3	3rd	Closing Opposition	View Ballot	Justin WuⒸ , André Brown
+
+
+team	result	side	adjudicators
+Columbia 2	eliminated	Opening Government	Germaine BarrettⒸ , Matt Mauriello , Rachel Kussick
+Bates 1	advancing	Opening Opposition	Germaine BarrettⒸ , Matt Mauriello , Rachel Kussick
+Princeton 1	eliminated	Closing Government	Germaine BarrettⒸ , Matt Mauriello , Rachel Kussick
+Berkeley 3	advancing	Closing Opposition	Germaine BarrettⒸ , Matt Mauriello , Rachel Kussick
+Harvard 6	eliminated	Opening Government	Barron RenⒸ , Ari Hahn , Rahul Kalavagunta
+Harvard 5	advancing	Opening Opposition	Barron RenⒸ , Ari Hahn , Rahul Kalavagunta
+Rochester 1	eliminated	Closing Government	Barron RenⒸ , Ari Hahn , Rahul Kalavagunta
+Harvard 3	advancing	Closing Opposition	Barron RenⒸ , Ari Hahn , Rahul Kalavagunta
+Stanford 2	advancing	Opening Government	Justin WuⒸ , Emma Listgarten , Helen Wu
+Princeton 4	advancing	Opening Opposition	Justin WuⒸ , Emma Listgarten , Helen Wu
+Stanford 3	eliminated	Closing Government	Justin WuⒸ , Emma Listgarten , Helen Wu
+Williams 1	eliminated	Closing Opposition	Justin WuⒸ , Emma Listgarten , Helen Wu
+Columbia 1	eliminated	Opening Government	Oyuka LyndonⒸ , Caitlin Hodge , Dennis Su
+Harvard 1	advancing	Opening Opposition	Oyuka LyndonⒸ , Caitlin Hodge , Dennis Su
+UCLA 1	eliminated	Closing Government	Oyuka LyndonⒸ , Caitlin Hodge , Dennis Su
+Harvard 8	advancing	Closing Opposition	Oyuka LyndonⒸ , Caitlin Hodge , Dennis Su
+
+
+team	result	side	adjudicators
+Harvard 8	eliminated	Opening Government	Rhys NickersonⒸ , Basil Bob , Belle Ho , Oyuka Lyndon , Rohan Kapoor
+Harvard 5	eliminated	Opening Opposition	Rhys NickersonⒸ , Basil Bob , Belle Ho , Oyuka Lyndon , Rohan Kapoor
+Harvard 1	advancing	Closing Government	Rhys NickersonⒸ , Basil Bob , Belle Ho , Oyuka Lyndon , Rohan Kapoor
+Harvard 3	advancing	Closing Opposition	Rhys NickersonⒸ , Basil Bob , Belle Ho , Oyuka Lyndon , Rohan Kapoor
+Berkeley 3	eliminated	Opening Government	Alexandra Uy-TiocoⒸ , Barron Ren , Devan Tatlow , Helen Wu , Tanay Patri
+Princeton 4	eliminated	Opening Opposition	Alexandra Uy-TiocoⒸ , Barron Ren , Devan Tatlow , Helen Wu , Tanay Patri
+Bates 1	advancing	Closing Government	Alexandra Uy-TiocoⒸ , Barron Ren , Devan Tatlow , Helen Wu , Tanay Patri
+Stanford 2	advancing	Closing Opposition	Alexandra Uy-TiocoⒸ , Barron Ren , Devan Tatlow , Helen Wu , Tanay Patri
+
+
+team	result	side	adjudicators
+Harvard 3	eliminated	Opening Government	Rhys NickersonⒸ , Brian Chiang , Helen Wu , Justin Wu , Pranav Anand
+Stanford 2	advancing	Opening Opposition	Rhys NickersonⒸ , Brian Chiang , Helen Wu , Justin Wu , Pranav Anand
+Bates 1	eliminated	Closing Government	Rhys NickersonⒸ , Brian Chiang , Helen Wu , Justin Wu , Pranav Anand
+Harvard 1	eliminated	Closing Opposition	Rhys NickersonⒸ , Brian Chiang , Helen Wu , Justin Wu , Pranav Anand
+
+
+team	result	side	adjudicators
+Vermont 9	eliminated	Opening Government	Ollie BradenⒸ , Basil Bob , Pranav Anand
+UPenn 1	advancing	Opening Opposition	Ollie BradenⒸ , Basil Bob , Pranav Anand
+USC 2	advancing	Closing Government	Ollie BradenⒸ , Basil Bob , Pranav Anand
+Davidson 2	eliminated	Closing Opposition	Ollie BradenⒸ , Basil Bob , Pranav Anand
+Bates 2	eliminated	Opening Government	Alexandra Uy-TiocoⒸ , Jonathan Dolsey , Julian Henry
+Amherst 1	advancing	Opening Opposition	Alexandra Uy-TiocoⒸ , Jonathan Dolsey , Julian Henry
+Princeton 5	eliminated	Closing Government	Alexandra Uy-TiocoⒸ , Jonathan Dolsey , Julian Henry
+Cornell 1	advancing	Closing Opposition	Alexandra Uy-TiocoⒸ , Jonathan Dolsey , Julian Henry
+
+
+team	result	side	adjudicators
+Amherst 1	eliminated	Opening Government	Germaine BarrettⒸ , Ari Hahn , Brian Chiang , Caitlin Hodge , Pranav Anand
+UPenn 1	advancing	Opening Opposition	Germaine BarrettⒸ , Ari Hahn , Brian Chiang , Caitlin Hodge , Pranav Anand
+USC 2	eliminated	Closing Government	Germaine BarrettⒸ , Ari Hahn , Brian Chiang , Caitlin Hodge , Pranav Anand
+Cornell 1	eliminated	Closing Opposition	Germaine BarrettⒸ , Ari Hahn , Brian Chiang , Caitlin Hodge , Pranav Anand
+

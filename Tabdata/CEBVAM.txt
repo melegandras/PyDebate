@@ -1,0 +1,825 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	brace yourselves, we too developed		2nd	1st	2nd	1st	1st	13	822	3	2
+2	TAU A	ESL	1st	1st	1st	3rd	1st	13	818	4	0
+3	Belgrade A	ESL	2nd	1st	1st	2nd	2nd	12	812	2	3
+4	Sydney B		1st	1st	3rd	1st	2nd	12	811	3	1
+5	ANU Hariharan &amp; Druce		2nd	1st	1st	1st	3rd	12	809	3	1
+6	UCLA tourney starts at 11pm		2nd	1st	3rd	1st	1st	12	798	3	1
+7	Sydney (F)ellas		1st	2nd	2nd	2nd	2nd	11	813	1	4
+8	throwing a whole bluefin tuna at m		1st	1st	4th	2nd	1st	11	808	3	1
+9	Cambridge AM		2nd	2nd	1st	1st	3rd	11	806	2	2
+10	Sydney Brayan and Chaffey		1st	1st	2nd	4th	1st	11	805	3	1
+11	Oxford B		2nd	1st	3rd	1st	2nd	11	801	2	2
+12	NUS Naomi and Cavan		1st	4th	2nd	1st	1st	11	799	3	1
+13	Sydney Pyrrhic Punters		1st	2nd	1st	2nd	4th	10	812	2	2
+14	Sydney Kuo and Price		1st	2nd	3rd	3rd	1st	10	797	2	1
+15	Sunway had one too many drinks in KLCC	ESL	2nd	2nd	1st	2nd	3rd	10	797	1	3
+16	Tokyo A	ESL	1st	3rd	4th	1st	1st	10	792	3	0
+17	Melbourne B		2nd	2nd	2nd	2nd	2nd	10	790	0	5
+18	Dartmouth daddy press		4th	2nd	1st	1st	2nd	10	789	2	2
+19	Ř		2nd	3rd	2nd	2nd	1st	10	786	1	3
+20	Sydney A		1st	2nd	3rd	1st	4th	9	807	2	1
+21	i am bob (intuition pumped)		3rd	3rd	1st	2nd	2nd	9	805	1	2
+22	I am happy I got the underrated In		1st	3rd	3rd	1st	3rd	9	798	2	0
+23	Sydney Freeland &amp; Bakker		1st	4th	4th	1st	1st	9	792	3	0
+24=	Stanford Sajid &amp; Sourodip		4th	1st	1st	3rd	2nd	9	792	2	1
+24=	Stanford Ben Porat &amp; Li		2nd	3rd	1st	1st	4th	9	792	2	1
+26	Subway &amp; Domino	ESL	1st	2nd	4th	3rd	1st	9	791	2	1
+27	Stanford bunties		2nd	2nd	1st	3rd	3rd	9	784	1	2
+28	shut up		3rd	1st	1st	3rd	3rd	9	783	2	0
+29	Cambridge MS		2nd	2nd	2nd	4th	1st	9	783	1	3
+30	a lawyer and engineer? the collect		2nd	1st	4th	2nd	2nd	9	781	1	3
+31	Sydney Ryan and Stone	Novice	1st	3rd	3rd	3rd	1st	9	780	2	0
+32	Belgrade TS(C) Bačka Topola	ESL	1st	2nd	2nd	4th	2nd	9	777	1	3
+33	NTU Bobina		1st	4th	4th	1st	1st	9	767	3	0
+34	Sydney (C)hen &amp; Walsh		2nd	1st	2nd	4th	3rd	8	792	1	2
+35	HUFS Cheongju boiz	ESL	2nd	3rd	1st	2nd	4th	8	790	1	2
+36	Melbourne C		3rd	4th	2nd	2nd	1st	8	787	1	2
+37	Weizmann Dror &amp; Roi	ESL	4th	1st	3rd	2nd	2nd	8	783	1	2
+38	HSESP OSCA A	ESL	1st	4th	2nd	4th	1st	8	782	2	1
+39	UPLB test run pt. 3	ESL	4th	4th	1st	1st	2nd	8	775	2	1
+40	TCD Phil twintAstic		3rd	2nd	2nd	2nd	3rd	8	773	0	3
+41	Drexel EA Games		4th	3rd	2nd	2nd	1st	8	772	1	2
+42	Harvard m&amp;m	Novice	3rd	1st	1st	3rd	4th	8	768	2	0
+43	Ateneo GB		3rd	3rd	2nd	2nd	2nd	8	768	0	3
+44	Belgrade E(vo zore evo zore)	ESL	1st	4th	1st	2nd	4th	8	766	2	1
+45	tab pleb meets his maker		1st	3rd	3rd	3rd	2nd	8	766	1	1
+46	Debate of Thrones	Novice	3rd	1st	4th	1st	3rd	8	743	2	0
+47	Duke BC		3rd	1st	4th	1st	4th	7	790	2	0
+48	IIT Bombay mahoraga couldn&#x27;t adapt to deez nu	ESL	3rd	2nd	3rd	2nd	3rd	7	786	0	2
+49	Ateneo LN		2nd	3rd	2nd	3rd	3rd	7	783	0	2
+50	SLS Pune Achilles come down		3rd	1st	4th	4th	1st	7	782	2	0
+51	Cambridge ZJ		1st	3rd	2nd	4th	3rd	7	780	1	1
+52	VIT CD	ESL	1st	3rd	3rd	3rd	3rd	7	780	1	0
+53	Queensland Alex Paterson	Novice	3rd	3rd	2nd	3rd	2nd	7	776	0	2
+54	UNSW Bardsley and Singh	Novice	2nd	2nd	2nd	3rd	4th	7	772	0	3
+55	DLSU EJ	ESL	4th	2nd	3rd	1st	3rd	7	767	1	1
+56	IGNOU Chadha and Mitra	ESL	4th	1st	3rd	4th	1st	7	764	2	0
+57	Melbourne C&amp;T		2nd	4th	2nd	3rd	2nd	7	762	0	3
+58	The Arab Wagner Group	ESL	4th	3rd	1st	1st	4th	7	761	2	0
+59	Keio YF	ESL	4th	2nd	4th	1st	2nd	7	753	1	2
+60	NUS Clairene and Rdu		4th	1st	1st	4th	4th	6	782	2	0
+61	TCD Phil B		4th	1st	2nd	4th	3rd	6	774	1	1
+62	Queensland Big fans of swaggy lee miller	Novice	3rd	4th	3rd	3rd	1st	6	770	1	0
+63	Pavlovian responses	ESL	2nd	4th	1st	4th	3rd	6	766	1	1
+64	HWS Throw a brick at me	ESL	3rd	4th	1st	2nd	4th	6	764	1	1
+65	Tokyo B	ESL	3rd	3rd	4th	3rd	1st	6	762	1	0
+66	Indonesia 1	ESL	3rd	2nd	3rd	3rd	3rd	6	757	0	1
+67	KCL racially diversifying the cast of	ESL, Novice	3rd	2nd	4th	1st	4th	6	751	1	1
+68	Sunway passed out at Changkat	ESL	3rd	4th	4th	1st	2nd	6	741	1	1
+69	Oxford two bozos		1st	1st	4th	4th	—	6	643	2	0
+70	NUS Ashley and Justin		4th	4th	1st	2nd	4th	5	762	1	1
+71	SNUDA 1	ESL	4th	3rd	1st	3rd	4th	5	762	1	0
+72	UST B words	ESL	4th	2nd	3rd	4th	2nd	5	762	0	2
+73	UGM B	ESL	3rd	3rd	2nd	4th	3rd	5	762	0	1
+74	USP Lightning McQueen and Tow Mater	ESL	2nd	3rd	4th	3rd	3rd	5	761	0	1
+75	UAB Nayib Bukile	ESL	2nd	4th	4th	3rd	2nd	5	759	0	2
+76	Bucharest B	ESL	1st	4th	4th	2nd	4th	5	757	1	1
+77	Cambridge HL	Novice	2nd	4th	4th	3rd	2nd	5	755	0	2
+78	STBA PIA RW	ESL	4th	2nd	1st	4th	4th	5	740	1	1
+79	Rosario Le voy a dar en la cara marica	ESL	3rd	2nd	3rd	4th	4th	4	768	0	1
+80	VIT loves Bengali women	ESL	3rd	3rd	3rd	4th	3rd	4	763	0	0
+81	Swing 1		2nd	4th	3rd	4th	3rd	4	749	0	1
+82	Imperial India &amp; Pakistan reunified	Novice	3rd	1st	4th	4th	4th	4	744	1	0
+83	Sciences Po SPU	ESL, Novice	3rd	3rd	4th	2nd	4th	4	731	0	1
+84	UGM A	ESL	4th	4th	3rd	4th	1st	4	716	1	0
+85	HWS A		4th	4th	2nd	2nd	—	4	600	0	2
+86	Swing 2		—	—	3rd	1st	—	4	306	1	0
+87	Turan	ESL	4th	4th	4th	3rd	2nd	3	754	0	1
+88	Tokyo C	Novice	4th	3rd	2nd	4th	4th	3	741	0	1
+89	IIT Bombay IITB SN	ESL	4th	3rd	3rd	3rd	—	3	614	0	0
+90	MUST We both abandoned by our worlds pa	ESL	3rd	4th	4th	4th	3rd	2	753	0	0
+91	KMC2	ESL, Novice	4th	4th	4th	2nd	4th	2	742	0	1
+92	Woke Westerners		4th	2nd	—	—	—	2	304	0	1
+93	Imperial one of us is hungover	Novice	4th	4th	3rd	—	4th	1	573	0	0
+94	Swing 3		—	—	—	4th	—	0	140	0	0
+95=	Belgrade (B)osnu furamo uvek		—	—	—	—	—	—	—	0	0
+95=	Ahmed Hussain		—	—	—	—	—	—	—	0	0
+95=	Dania Khan		—	—	—	—	—	—	—	0	0
+95=	Shahriar Mahmud		—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1=	Lucie Slamova		brace yourselves, we too developed	82	83	80	83	83	411	82.20	1.17
+1=	Jason Xiao		brace yourselves, we too developed	81	83	80	83	84	411	82.20	1.47
+1=	Hadar Goldberg	ESL	TAU A	81	82	83	81	84	411	82.20	1.17
+4	Elinor Stephenson		Sydney Pyrrhic Punters	83	81	83	83	80	410	82.00	1.26
+5	Benjamin Diskin		Sydney (F)ellas	82	83	81	82	81	409	81.80	0.75
+6	Ilija Ivanišević	ESL	Belgrade A	78	83	82	83	82	408	81.60	1.85
+7	Tamar Ben Meir	ESL	TAU A	80	81	82	81	83	407	81.40	1.02
+8=	Charlie Ryan		Sydney B	80	82	78	83	83	406	81.20	1.94
+8=	Sam Druce		ANU Hariharan &amp; Druce	80	81	81	83	81	406	81.20	0.98
+10=	Sophie Shead		Sydney A	83	78	81	84	79	405	81.00	2.28
+10=	Eli Pallrand		throwing a whole bluefin tuna at m	82	82	78	82	81	405	81.00	1.55
+10=	Matthew Toomey		Sydney B	80	79	79	84	83	405	81.00	2.10
+13=	Đorđe Radosavljević	ESL	Belgrade A	79	82	80	82	81	404	80.80	1.17
+13=	Luke		Cambridge AM	81	80	81	83	79	404	80.80	1.33
+13=	Oscar Chaffey		Sydney Brayan and Chaffey	79	82	82	80	81	404	80.80	1.17
+13=	Sam Trotter		Sydney (F)ellas	82	82	79	81	80	404	80.80	1.17
+17=	Matt Mauriello		throwing a whole bluefin tuna at m	83	81	78	81	80	403	80.60	1.62
+17=	Shireen Ali	ESL	Sunway had one too many drinks in KLCC	79	82	82	80	80	403	80.60	1.20
+17=	Dhruv Hariharan		ANU Hariharan &amp; Druce	80	82	80	82	79	403	80.60	1.20
+17=	William Smith		i am bob (intuition pumped)	81	82	81	79	80	403	80.60	1.02
+21=	Fraser McConachie		Cambridge AM	80	80	81	82	79	402	80.40	1.02
+21=	Daniel Yim		Sydney A	81	80	80	83	78	402	80.40	1.62
+21=	Archie Wolifson	Novice	Sydney Pyrrhic Punters	81	81	80	81	79	402	80.40	0.80
+21=	Cavan Tay		NUS Naomi and Cavan	80	76	81	82	83	402	80.40	2.42
+21=	Nav &quot;Bob&quot; Mohanty		i am bob (intuition pumped)	81	82	80	80	79	402	80.40	1.02
+26=	Pranav Baskar		Oxford B	79	81	79	82	80	401	80.20	1.17
+26=	Aniket Chakravorty		I am happy I got the underrated In	81	82	76	81	81	401	80.20	2.14
+26=	Nicola Brayan		Sydney Brayan and Chaffey	79	81	81	80	80	401	80.20	0.75
+26=	Tejas Subramaniam		Stanford Sajid &amp; Sourodip	79	80	81	81	80	401	80.20	0.75
+30=	Ahmed Hussain		Oxford B	77	82	79	82	80	400	80.00	1.90
+30=	Belle Ho		UCLA tourney starts at 11pm	81	80	77	81	81	400	80.00	1.55
+32=	Ricky Jin	ESL	Subway &amp; Domino	80	80	79	79	81	399	79.80	0.75
+32=	Katarina Kuo		Sydney Kuo and Price	81	81	80	78	79	399	79.80	1.17
+34=	Millie Caughey		Duke BC	77	85	77	82	77	398	79.60	3.32
+34=	Amitai Ben Porat	ESL	Stanford Ben Porat &amp; Li	79	80	82	80	77	398	79.60	1.62
+34=	William Price		Sydney Kuo and Price	80	80	80	78	80	398	79.60	0.80
+34=	Kotaro Yoshida	ESL	Tokyo A	81	79	76	80	82	398	79.60	2.06
+34=	Brendon Chen		Sydney (C)hen &amp; Walsh	81	81	81	78	77	398	79.60	1.74
+39	Lois Naomi Ang		NUS Naomi and Cavan	80	75	79	81	82	397	79.40	2.42
+40=	Olivia Whyte		Melbourne B	78	80	78	80	80	396	79.20	0.98
+40=	Eugene Bakker		Sydney Freeland &amp; Bakker	80	79	76	80	81	396	79.20	1.72
+42=	Guy Williams		Melbourne C	77	83	78	80	77	395	79.00	2.28
+42=	Isabelle Sim Yun Yi		Cambridge MS	77	80	77	79	82	395	79.00	1.90
+42=	Sunghyun Park	ESL	HUFS Cheongju boiz	82	77	77	80	79	395	79.00	1.90
+42=	Youngwoo Park	ESL	HUFS Cheongju boiz	82	77	77	81	78	395	79.00	2.10
+42=	Ryan Laffety		Dartmouth daddy press	76	77	81	81	80	395	79.00	2.10
+47=	Madeleine Wu		Dartmouth daddy press	76	78	80	81	79	394	78.80	1.72
+47=	Raymond Kimura	ESL	Sunway had one too many drinks in KLCC	77	81	79	79	78	394	78.80	1.33
+47=	Elizabeth Li		Stanford Ben Porat &amp; Li	79	79	81	78	77	394	78.80	1.33
+47=	Elanor Parkinson		Melbourne B	78	80	78	81	77	394	78.80	1.47
+47=	Yuichi Masaoka	ESL	Tokyo A	82	78	76	78	80	394	78.80	2.04
+47=	Dan Walsh		Sydney (C)hen &amp; Walsh	80	80	80	77	77	394	78.80	1.47
+47=	Alexandr Sušić		Ř	79	79	77	79	80	394	78.80	0.98
+54=	Raunak Mukherjee	ESL	IIT Bombay mahoraga couldn&#x27;t adapt to deez nu	79	82	78	77	77	393	78.60	1.85
+54=	Vijay Awatade	ESL	IIT Bombay mahoraga couldn&#x27;t adapt to deez nu	78	83	78	77	77	393	78.60	2.24
+54=	Roi Makov	ESL	Weizmann Dror &amp; Roi	80	79	75	80	79	393	78.60	1.85
+54=	Tori Qiu		Stanford bunties	77	79	78	80	79	393	78.60	1.02
+54=	Jez Edagbami		shut up	76	82	79	79	77	393	78.60	2.06
+59=	Joshua Low		Cambridge ZJ	79	78	80	77	78	392	78.40	1.02
+59=	Djordje Mirkovic	ESL	Belgrade TS(C) Bačka Topola	80	76	81	75	80	392	78.40	2.42
+59=	Dhruv Bindra		Duke BC	76	82	77	81	76	392	78.40	2.58
+59=	Gaurangi Pande		SLS Pune Achilles come down	80	83	79	72	78	392	78.40	3.61
+59=	Daisy Jin	ESL	Subway &amp; Domino	77	79	78	78	80	392	78.40	1.02
+59=	Arwyn Stone	Novice	Sydney Ryan and Stone	79	77	76	80	80	392	78.40	1.62
+59=	Ines Neri		Ateneo LN	81	80	78	76	77	392	78.40	1.85
+59=	James Alexandr Carr		Ř	78	78	76	80	80	392	78.40	1.50
+67=	Evgenii Akulov	ESL	HSESP OSCA A	78	80	78	78	77	391	78.20	0.98
+67=	Evgenia Zubko	ESL	HSESP OSCA A	79	80	78	77	77	391	78.20	1.17
+67=	Clairene Tan		NUS Clairene and Rdu	76	79	81	79	76	391	78.20	1.94
+67=	Rdu Dillon		NUS Clairene and Rdu	76	78	81	79	77	391	78.20	1.72
+67=	Alishba Irfan		a lawyer and engineer? the collect	76	81	75	80	79	391	78.20	2.32
+67=	Rogelio Largo		Ateneo LN	80	79	79	77	76	391	78.20	1.47
+67=	Manasija Das	ESL	VIT CD	81	80	78	76	76	391	78.20	2.04
+67=	Sajid Farook		Stanford bunties	79	77	78	79	78	391	78.20	0.75
+67=	Jubayer Ibn Hamid		Stanford Sajid &amp; Sourodip	77	78	78	79	79	391	78.20	0.75
+76=	Aradom Belai		SLS Pune Achilles come down	79	83	79	71	78	390	78.00	3.90
+76=	Dominic Westwood		a lawyer and engineer? the collect	77	80	75	80	78	390	78.00	1.90
+76=	Dror Brook	ESL	Weizmann Dror &amp; Roi	80	77	75	80	78	390	78.00	1.90
+76=	Alexis Baraka Mcharo		shut up	76	81	77	79	77	390	78.00	1.79
+80=	Zoe Fraser	Novice	Queensland Alex Paterson	78	77	77	79	78	389	77.80	0.75
+80=	Avyay C	ESL	VIT CD	80	79	79	76	75	389	77.80	1.94
+82=	Srishti Nautiyal	ESL	TCD Phil B	76	80	79	77	76	388	77.60	1.62
+82=	Taran Molloy		Cambridge MS	75	79	76	78	80	388	77.60	1.85
+82=	Muhammad Zufar Farhan Zuhdi	ESL	Cambridge ZJ	78	78	79	76	77	388	77.60	1.02
+82=	Will Ryan	Novice	Sydney Ryan and Stone	80	73	76	78	81	388	77.60	2.87
+82=	Oliver Bardsley	Novice	UNSW Bardsley and Singh	75	77	78	81	77	388	77.60	1.96
+82=	Omesh Dhar Dwivedi		Drexel EA Games	79	76	78	76	79	388	77.60	1.36
+88=	hilary igbinomwanhia		TCD Phil twintAstic	79	78	76	77	77	387	77.40	1.02
+88=	Harry Rae	Novice	Queensland Alex Paterson	77	77	77	78	78	387	77.40	0.49
+88=	Lia Denise Tan	ESL	UPLB test run pt. 3	74	76	78	83	76	387	77.40	3.07
+91=	Henrietta Vanni		TCD Phil twintAstic	79	76	77	76	78	386	77.20	1.17
+91=	Oisín Browne		TCD Phil B	75	79	79	76	77	386	77.20	1.60
+91=	Tom Nunn-Rutledge	Novice	Queensland Big fans of swaggy lee miller	78	77	76	77	78	386	77.20	0.75
+94=	Miloš Prokić	ESL	Belgrade TS(C) Bačka Topola	79	77	78	75	76	385	77.00	1.41
+94=	Molly Callaghan	Novice	Harvard m&amp;m	78	77	78	77	75	385	77.00	1.10
+94=	Kyle Go		Ateneo GB	75	76	77	78	79	385	77.00	1.41
+94=	Haruka Sawazaki	ESL	Tokyo B	77	80	76	75	77	385	77.00	1.67
+98=	Obrad Kostic	ESL	Belgrade E(vo zore evo zore)	80	72	77	79	76	384	76.80	2.79
+98=	Hoyeon Shim	Novice	Queensland Big fans of swaggy lee miller	78	76	76	76	78	384	76.80	0.98
+98=	Dani Jacinto	ESL	DLSU EJ	76	78	75	77	78	384	76.80	1.17
+98=	Pavle Antonijević	ESL	Pavlovian responses	78	77	78	77	74	384	76.80	1.47
+98=	Andres Revelo	ESL	Rosario Le voy a dar en la cara marica	77	84	74	75	74	384	76.80	3.76
+98=	Jessica Zapata	ESL	Rosario Le voy a dar en la cara marica	78	82	75	75	74	384	76.80	2.93
+98=	Wayne Lim		NTU Bobina	76	76	76	78	78	384	76.80	0.98
+98=	Ansh Deo Singh	Novice	UNSW Bardsley and Singh	75	78	76	78	77	384	76.80	1.17
+106=	Lamia Nur	ESL	HWS Throw a brick at me	77	74	78	77	77	383	76.60	1.36
+106=	Brian Hose Antonio Hambur	ESL	UGM B	77	78	78	75	75	383	76.60	1.36
+106=	Edgar Empeño	ESL	DLSU EJ	76	77	74	79	77	383	76.60	1.62
+106=	David Bejarin		Ateneo GB	75	76	76	78	78	383	76.60	1.20
+106=	Sierra Turay		Melbourne C&amp;T	78	76	76	76	77	383	76.60	0.80
+106=	Ha Duy Thanh		NTU Bobina	77	76	77	77	76	383	76.60	0.49
+106=	Nora Flynn-McIver		tab pleb meets his maker	76	76	77	79	75	383	76.60	1.36
+106=	Tom Milling		tab pleb meets his maker	76	76	76	78	77	383	76.60	0.80
+106=	Vansh Chadha	ESL	IGNOU Chadha and Mitra	75	79	75	75	79	383	76.60	1.96
+115=	Strahinja Batanjski	ESL	Belgrade E(vo zore evo zore)	80	71	78	78	75	382	76.40	3.14
+115=	Namay Modi	ESL	VIT loves Bengali women	78	75	77	76	76	382	76.40	1.02
+115=	Stefan Josipović	ESL	UAB Nayib Bukile	78	79	75	73	77	382	76.40	2.15
+115=	Pavle Mackic	ESL	Pavlovian responses	76	77	78	76	75	382	76.40	1.02
+115=	Justin Tay		NUS Ashley and Justin	75	76	78	79	74	382	76.40	1.85
+115=	Hyojin Kim	ESL	SNUDA 1	75	77	78	78	74	382	76.40	1.62
+121=	Fonzy Racelis	ESL	UST B words	76	77	76	75	77	381	76.20	0.75
+121=	Lia Snyder	ESL	UST B words	74	77	77	75	78	381	76.20	1.47
+121=	Archit Lahiri	ESL	VIT loves Bengali women	78	75	78	75	75	381	76.20	1.47
+121=	Ramy Masalha	ESL	The Arab Wagner Group	75	75	77	79	75	381	76.20	1.60
+121=	Sandeep Tissaaratchy	ESL	HWS Throw a brick at me	75	72	78	78	78	381	76.20	2.40
+121=	Samuel Knijnik Werneck Martins	ESL, Novice	USP Lightning McQueen and Tow Mater	76	78	74	77	76	381	76.20	1.33
+127=	Justin Gabriel Wibisono	ESL	Indonesia 1	74	78	77	76	75	380	76.00	1.41
+127=	Amitai Wagner	ESL	The Arab Wagner Group	74	75	77	77	77	380	76.00	1.26
+127=	Fernando Meylan	ESL	USP Lightning McQueen and Tow Mater	77	77	74	76	76	380	76.00	1.10
+127=	Ashley Wee		NUS Ashley and Justin	76	74	77	78	75	380	76.00	1.41
+127=	Jiwoo Kim	ESL	SNUDA 1	74	77	78	77	74	380	76.00	1.67
+132=	Taichi Fukami	ESL	Keio YF	76	77	73	77	76	379	75.80	1.47
+132=	Aliyka Gewang	ESL, Novice	UGM B	75	77	77	74	76	379	75.80	1.17
+132=	Amanda Ching	Novice	Melbourne C&amp;T	76	75	75	77	76	379	75.80	0.75
+132=	Alex-Gao	ESL	MUST We both abandoned by our worlds pa	77	77	75	73	77	379	75.80	1.60
+132=	Theo Simion	ESL	Bucharest B	77	76	75	77	74	379	75.80	1.17
+137=	Arni Sredni	ESL	Turan	74	76	74	75	78	377	75.40	1.50
+137=	Nurtas Kuzdeubayev	ESL	Turan	73	77	74	76	77	377	75.40	1.62
+137=	Hezron Kowardi	ESL	Indonesia 1	74	76	78	75	74	377	75.40	1.50
+137=	Konstantin Popović	ESL	UAB Nayib Bukile	77	78	74	71	77	377	75.40	2.58
+137=	Taiki Tsuchiya	ESL	Tokyo B	76	79	72	74	76	377	75.40	2.33
+142=	Patrik		Swing 1	79	76	73	73	75	376	75.20	2.23
+142=	Aisha Ahmer	ESL, Novice	KCL racially diversifying the cast of	76	75	73	78	74	376	75.20	1.72
+142=	Chloe Lam	Novice	Cambridge HL	75	77	75	73	76	376	75.20	1.33
+142=	Mustafaa Khan	Novice	Imperial India &amp; Pakistan reunified	75	79	75	72	75	376	75.20	2.23
+146	Usama Ghanem	ESL, Novice	KCL racially diversifying the cast of	75	76	73	77	74	375	75.00	1.41
+147=	Keisui Yamagiwa	ESL	Keio YF	75	77	72	75	75	374	74.80	1.60
+147=	Eyedi Runze Wen	ESL	MUST We both abandoned by our worlds pa	76	75	74	73	76	374	74.80	1.17
+149	William	ESL	STBA PIA RW	73	76	77	74	73	373	74.60	1.62
+150=	Joshua Stone	Novice	Debate of Thrones	63	80	74	77	78	372	74.40	6.02
+150=	Redacted	ESL, Novice	—	75	72	74	76	75	372	74.40	1.36
+152=	Aurora Zhang	Novice	Debate of Thrones	62	80	73	78	78	371	74.20	6.52
+152=	Tanish Rajah	ESL	Sunway passed out at Changkat	75	71	72	76	77	371	74.20	2.32
+152=	Tomoaki Sano	Novice	Tokyo C	75	75	75	72	74	371	74.20	1.17
+155=	Kelley Choo Yean Nee	ESL	Sunway passed out at Changkat	76	70	72	74	78	370	74.00	2.83
+155=	Riko Mimura	Novice	Tokyo C	75	75	75	71	74	370	74.00	1.55
+157	Sahil Khandelwal	Novice	Imperial India &amp; Pakistan reunified	74	77	73	71	73	368	73.60	1.96
+158	Fiqi Ilham	ESL	STBA PIA RW	72	75	75	73	72	367	73.40	1.36
+159	SPU - Antonio Vrabec	ESL, Novice	Sciences Po SPU	75	71	74	74	72	366	73.20	1.47
+160	Nikita Belavin	ESL, Novice	Sciences Po SPU	75	71	74	73	72	365	73.00	1.41
+161	Yehezkiel Vito	ESL, Novice	UGM A	60	71	75	74	79	359	71.80	6.43
+162	Nahdatu Rosyada	ESL	UGM A	59	72	74	73	79	357	71.40	6.65
+163	Elena Radulescu	ESL	Oxford two bozos	83	81	79	79	—	322	80.50	1.66
+164=	Aidan Woo		Oxford two bozos	82	81	78	80	—	321	80.25	1.48
+164=	Thej Mallu		UCLA tourney starts at 11pm	80	78	—	82	81	321	80.25	1.48
+166	Xavier Konynenburg		Melbourne C	—	80	77	81	78	316	79.00	1.58
+167	Ben Nadzmier Bensali	ESL	UPLB test run pt. 3	—	76	78	82	78	314	78.50	2.18
+168	Nayantara	ESL	IIT Bombay IITB SN	78	77	77	76	—	308	77.00	0.71
+169	Maria Xu	Novice	Harvard m&amp;m	77	—	79	76	75	307	76.75	1.48
+170=	Sharun Nikesh G	ESL	IIT Bombay IITB SN	78	76	75	77	—	306	76.50	1.12
+170=	Jasmine Leung		Drexel EA Games	76	76	77	77	—	306	76.50	0.50
+172=	Nicole Hua	Novice	Cambridge HL	76	77	77	74	—	304	76.00	1.22
+172=	Alicia Wang	ESL	Bucharest B	76	76	75	77	—	304	76.00	0.71
+174	Ritabrata Mitra	ESL	IGNOU Chadha and Mitra	74	79	75	74	—	302	75.50	2.06
+175	Kayla Powers		HWS A	73	76	76	76	—	301	75.25	1.30
+176	Ema		Swing 1	78	76	73	71	—	298	74.50	2.69
+177	Nishant Kidangan Mathew	Novice	Imperial one of us is hungover	68	73	73	—	74	288	72.00	2.35
+178	Alek Selveliev	ESL	I am happy I got the underrated In	80	82	77	—	—	239	79.67	2.05
+179	Redacted		—	81	79	77	—	—	237	79.00	1.63
+180	Redacted	ESL, Novice	—	74	71	74	—	—	219	73.00	1.41
+181	Pratik Ramkumar	Novice	Imperial one of us is hungover	67	71	72	—	—	210	70.00	2.16
+182	Redacted		—	75	79	—	—	—	154	77.00	2.00
+183=	Jagoda		Swing 2	—	—	75	78	—	153	76.50	1.50
+183=	Dominik		Swing 2	—	—	75	78	—	153	76.50	1.50
+185	Yazan Moalla	ESL, Novice	Woke Westerners	73	77	—	—	—	150	75.00	2.00
+186	Fairooj Rushmila Suhita	ESL	HWS A	73	75	—	—	—	148	74.00	1.00
+187	Rubaiyat		Swing 3	—	—	—	70	—	70	70.00	0.00
+188	Mihailo Babić		Belgrade (B)osnu furamo uvek	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+Sciences Po SPU	3rd	Opening Opposition	View Ballot	Ana ComanⒸ , Mia freeland , WernⓉ
+Cambridge HL	2nd	Closing Opposition	View Ballot	Ana ComanⒸ , Mia freeland , WernⓉ
+STBA PIA RW	4th	Closing Government	View Ballot	Ana ComanⒸ , Mia freeland , WernⓉ
+NTU Bobina	1st	Opening Government	View Ballot	Ana ComanⒸ , Mia freeland , WernⓉ
+HUFS Cheongju boiz	2nd	Closing Opposition	View Ballot	Petar ZecⒸ , Adya Mishra , Tran Huu NghiaⓉ
+Oxford two bozos	1st	Closing Government	View Ballot	Petar ZecⒸ , Adya Mishra , Tran Huu NghiaⓉ
+Weizmann Dror &amp; Roi	4th	Opening Opposition	View Ballot	Petar ZecⒸ , Adya Mishra , Tran Huu NghiaⓉ
+i am bob (intuition pumped)	3rd	Opening Government	View Ballot	Petar ZecⒸ , Adya Mishra , Tran Huu NghiaⓉ
+Belgrade E(vo zore evo zore)	1st	Opening Government	View Ballot	Jack SynnottⒸ , Atyia Al-Hammud , Maria Paula SantosⓉ
+Dartmouth daddy press	4th	Closing Government	View Ballot	Jack SynnottⒸ , Atyia Al-Hammud , Maria Paula SantosⓉ
+Duke BC	3rd	Closing Opposition	View Ballot	Jack SynnottⒸ , Atyia Al-Hammud , Maria Paula SantosⓉ
+Sunway had one too many drinks in KLCC	2nd	Opening Opposition	View Ballot	Jack SynnottⒸ , Atyia Al-Hammud , Maria Paula SantosⓉ
+IIT Bombay mahoraga couldn&#x27;t adapt to deez nu	3rd	Closing Government	View Ballot	Miriam KalmanⒸ , Jo Watanabe , rishabh guptaⓉ
+brace yourselves, we too developed	2nd	Opening Opposition	View Ballot	Miriam KalmanⒸ , Jo Watanabe , rishabh guptaⓉ
+Sydney (F)ellas	1st	Opening Government	View Ballot	Miriam KalmanⒸ , Jo Watanabe , rishabh guptaⓉ
+Stanford Sajid &amp; Sourodip	4th	Closing Opposition	View Ballot	Miriam KalmanⒸ , Jo Watanabe , rishabh guptaⓉ
+Debate of Thrones	3rd	Closing Government	View Ballot	Ryosei KobayashiⒸ , Naomi Panovka , Oliver Chow
+UGM A	4th	Closing Opposition	View Ballot	Ryosei KobayashiⒸ , Naomi Panovka , Oliver Chow
+Subway &amp; Domino	1st	Opening Government	View Ballot	Ryosei KobayashiⒸ , Naomi Panovka , Oliver Chow
+Melbourne C&amp;T	2nd	Opening Opposition	View Ballot	Ryosei KobayashiⒸ , Naomi Panovka , Oliver Chow
+UAB Nayib Bukile	2nd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Tin Puljić
+UGM B	3rd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Tin Puljić
+Tokyo C	4th	Closing Government	View Ballot	Rushdoon AhmedⒸ , Tin Puljić
+Sydney Kuo and Price	1st	Opening Government	View Ballot	Rushdoon AhmedⒸ , Tin Puljić
+Turan	4th	Opening Government	View Ballot	Kevin LeeⒸ , Kaushiki Ishwar , M.NavakanthⓉ
+Imperial India &amp; Pakistan reunified	3rd	Opening Opposition	View Ballot	Kevin LeeⒸ , Kaushiki Ishwar , M.NavakanthⓉ
+Pavlovian responses	2nd	Closing Government	View Ballot	Kevin LeeⒸ , Kaushiki Ishwar , M.NavakanthⓉ
+I am happy I got the underrated In	1st	Closing Opposition	View Ballot	Kevin LeeⒸ , Kaushiki Ishwar , M.NavakanthⓉ
+VIT loves Bengali women	3rd	Opening Government	View Ballot	Nikola MichaylovⒸ , Isabella Rocha , Toby Mayhew
+Tokyo A	1st	Closing Government	View Ballot	Nikola MichaylovⒸ , Isabella Rocha , Toby Mayhew
+Sydney (C)hen &amp; Walsh	2nd	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Isabella Rocha , Toby Mayhew
+Drexel EA Games	4th	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Isabella Rocha , Toby Mayhew
+KCL racially diversifying the cast of	3rd	Closing Opposition	View Ballot	Ethan Goh Kean YiⒸ , Umar Fazlan , Weronika HupertⓉ
+USP Lightning McQueen and Tow Mater	2nd	Opening Opposition	View Ballot	Ethan Goh Kean YiⒸ , Umar Fazlan , Weronika HupertⓉ
+Sydney B	1st	Opening Government	View Ballot	Ethan Goh Kean YiⒸ , Umar Fazlan , Weronika HupertⓉ
+Woke Westerners	4th	Closing Government	View Ballot	Ethan Goh Kean YiⒸ , Umar Fazlan , Weronika HupertⓉ
+Melbourne C	3rd	Opening Government	View Ballot	Anna ShrederⒸ , Imran Ilmam , Guilherme Pereira RodriguesⓉ
+HSESP OSCA A	1st	Closing Government	View Ballot	Anna ShrederⒸ , Imran Ilmam , Guilherme Pereira RodriguesⓉ
+KMC2	4th	Opening Opposition	View Ballot	Anna ShrederⒸ , Imran Ilmam , Guilherme Pereira RodriguesⓉ
+Melbourne B	2nd	Closing Opposition	View Ballot	Anna ShrederⒸ , Imran Ilmam , Guilherme Pereira RodriguesⓉ
+TCD Phil twintAstic	3rd	Opening Government	View Ballot	Diego DuarteⒸ , Ayushi Nasa
+Cambridge AM	2nd	Closing Opposition	View Ballot	Diego DuarteⒸ , Ayushi Nasa
+IIT Bombay IITB SN	4th	Closing Government	View Ballot	Diego DuarteⒸ , Ayushi Nasa
+throwing a whole bluefin tuna at m	1st	Opening Opposition	View Ballot	Diego DuarteⒸ , Ayushi Nasa
+Imperial one of us is hungover	4th	Closing Opposition	View Ballot	Josef MoscoviciⒸ , Mayta Ciara Salsabila , Luka GojkovićⓉ
+MUST We both abandoned by our worlds pa	3rd	Opening Government	View Ballot	Josef MoscoviciⒸ , Mayta Ciara Salsabila , Luka GojkovićⓉ
+VIT CD	1st	Opening Opposition	View Ballot	Josef MoscoviciⒸ , Mayta Ciara Salsabila , Luka GojkovićⓉ
+ANU Hariharan &amp; Druce	2nd	Closing Government	View Ballot	Josef MoscoviciⒸ , Mayta Ciara Salsabila , Luka GojkovićⓉ
+Belgrade A	2nd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , CHENG ZI YI , Mostafizur Rahman Fahim
+Queensland Big fans of swaggy lee miller	3rd	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , CHENG ZI YI , Mostafizur Rahman Fahim
+NUS Clairene and Rdu	4th	Closing Government	View Ballot	Nasa TsuchiyaⒸ , CHENG ZI YI , Mostafizur Rahman Fahim
+NUS Naomi and Cavan	1st	Opening Government	View Ballot	Nasa TsuchiyaⒸ , CHENG ZI YI , Mostafizur Rahman Fahim
+Sunway passed out at Changkat	3rd	Closing Government	View Ballot	Diggory WaddleⒸ , Esther Ayodele , Mikko Vitug
+Sydney Brayan and Chaffey	1st	Opening Opposition	View Ballot	Diggory WaddleⒸ , Esther Ayodele , Mikko Vitug
+SNUDA 1	4th	Closing Opposition	View Ballot	Diggory WaddleⒸ , Esther Ayodele , Mikko Vitug
+Ř	2nd	Opening Government	View Ballot	Diggory WaddleⒸ , Esther Ayodele , Mikko Vitug
+Cambridge MS	2nd	Closing Opposition	View Ballot	Abishek AcharyaⒸ , Eleanor Douglas , Matt Caito
+UPLB test run pt. 3	4th	Opening Government	View Ballot	Abishek AcharyaⒸ , Eleanor Douglas , Matt Caito
+Ateneo GB	3rd	Closing Government	View Ballot	Abishek AcharyaⒸ , Eleanor Douglas , Matt Caito
+Bucharest B	1st	Opening Opposition	View Ballot	Abishek AcharyaⒸ , Eleanor Douglas , Matt Caito
+Cambridge ZJ	1st	Closing Government	View Ballot	Petar ZnidarⒸ , Altynay Zamanbekova , Timothy Hanna
+The Arab Wagner Group	4th	Opening Opposition	View Ballot	Petar ZnidarⒸ , Altynay Zamanbekova , Timothy Hanna
+a lawyer and engineer? the collect	2nd	Opening Government	View Ballot	Petar ZnidarⒸ , Altynay Zamanbekova , Timothy Hanna
+shut up	3rd	Closing Opposition	View Ballot	Petar ZnidarⒸ , Altynay Zamanbekova , Timothy Hanna
+DLSU EJ	4th	Opening Opposition	View Ballot	David AfricaⒸ , Carmel Kenneth , Emmanuel Akuetteh Ayite-AtiapaⓉ
+TAU A	1st	Closing Government	View Ballot	David AfricaⒸ , Carmel Kenneth , Emmanuel Akuetteh Ayite-AtiapaⓉ
+Harvard m&amp;m	3rd	Closing Opposition	View Ballot	David AfricaⒸ , Carmel Kenneth , Emmanuel Akuetteh Ayite-AtiapaⓉ
+Stanford bunties	2nd	Opening Government	View Ballot	David AfricaⒸ , Carmel Kenneth , Emmanuel Akuetteh Ayite-AtiapaⓉ
+Keio YF	4th	Opening Opposition	View Ballot	Alex McCreadieⒸ , Yashovardhan Balakrishnan , Pranjal ChakrabortyⓉ
+HWS Throw a brick at me	3rd	Opening Government	View Ballot	Alex McCreadieⒸ , Yashovardhan Balakrishnan , Pranjal ChakrabortyⓉ
+Sydney Pyrrhic Punters	1st	Closing Government	View Ballot	Alex McCreadieⒸ , Yashovardhan Balakrishnan , Pranjal ChakrabortyⓉ
+Ateneo LN	2nd	Closing Opposition	View Ballot	Alex McCreadieⒸ , Yashovardhan Balakrishnan , Pranjal ChakrabortyⓉ
+Indonesia 1	3rd	Closing Opposition	View Ballot	Lara DragojevicⒸ , Ibrahim Ejaz , Calvin Ng Kah WengⓉ
+HWS A	4th	Opening Opposition	View Ballot	Lara DragojevicⒸ , Ibrahim Ejaz , Calvin Ng Kah WengⓉ
+tab pleb meets his maker	1st	Closing Government	View Ballot	Lara DragojevicⒸ , Ibrahim Ejaz , Calvin Ng Kah WengⓉ
+UNSW Bardsley and Singh	2nd	Opening Government	View Ballot	Lara DragojevicⒸ , Ibrahim Ejaz , Calvin Ng Kah WengⓉ
+TCD Phil B	4th	Opening Government	View Ballot	Velina AndonovaⒸ , Arjun Raman , Aymaan Sheikh
+Stanford Ben Porat &amp; Li	2nd	Closing Opposition	View Ballot	Velina AndonovaⒸ , Arjun Raman , Aymaan Sheikh
+Tokyo B	3rd	Closing Government	View Ballot	Velina AndonovaⒸ , Arjun Raman , Aymaan Sheikh
+Sydney Freeland &amp; Bakker	1st	Opening Opposition	View Ballot	Velina AndonovaⒸ , Arjun Raman , Aymaan Sheikh
+Swing 1	2nd	Opening Opposition	View Ballot	Enting LeeⒸ , Vasilije Milačić
+Queensland Alex Paterson	3rd	Closing Government	View Ballot	Enting LeeⒸ , Vasilije Milačić
+Sydney Ryan and Stone	1st	Closing Opposition	View Ballot	Enting LeeⒸ , Vasilije Milačić
+IGNOU Chadha and Mitra	4th	Opening Government	View Ballot	Enting LeeⒸ , Vasilije Milačić
+UST B words	4th	Opening Government	View Ballot	Vladimira SuflajⒸ , Bonfilio Dazzle , Parul KhichaⓉ
+Sydney A	1st	Opening Opposition	View Ballot	Vladimira SuflajⒸ , Bonfilio Dazzle , Parul KhichaⓉ
+SLS Pune Achilles come down	3rd	Closing Opposition	View Ballot	Vladimira SuflajⒸ , Bonfilio Dazzle , Parul KhichaⓉ
+UCLA tourney starts at 11pm	2nd	Closing Government	View Ballot	Vladimira SuflajⒸ , Bonfilio Dazzle , Parul KhichaⓉ
+Oxford B	2nd	Closing Opposition	View Ballot	Jack PalmerⒸ , Yang Ming Sim , Jasmine GoncalvesⓉ
+Belgrade TS(C) Bačka Topola	1st	Opening Opposition	View Ballot	Jack PalmerⒸ , Yang Ming Sim , Jasmine GoncalvesⓉ
+Rosario Le voy a dar en la cara marica	3rd	Opening Government	View Ballot	Jack PalmerⒸ , Yang Ming Sim , Jasmine GoncalvesⓉ
+NUS Ashley and Justin	4th	Closing Government	View Ballot	Jack PalmerⒸ , Yang Ming Sim , Jasmine GoncalvesⓉ
+
+
+team	result	side	ballot	adjudicators
+TCD Phil B	1st	Closing Opposition	View Ballot	Lara DragojevicⒸ , Timothy Hanna
+UST B words	2nd	Opening Opposition	View Ballot	Lara DragojevicⒸ , Timothy Hanna
+Tokyo C	3rd	Opening Government	View Ballot	Lara DragojevicⒸ , Timothy Hanna
+KMC2	4th	Closing Government	View Ballot	Lara DragojevicⒸ , Timothy Hanna
+The Arab Wagner Group	3rd	Closing Opposition	View Ballot	Ana ComanⒸ , Abishek Acharya , Umar Fazlan
+Imperial one of us is hungover	4th	Closing Government	View Ballot	Ana ComanⒸ , Abishek Acharya , Umar Fazlan
+STBA PIA RW	2nd	Opening Government	View Ballot	Ana ComanⒸ , Abishek Acharya , Umar Fazlan
+Stanford Sajid &amp; Sourodip	1st	Opening Opposition	View Ballot	Ana ComanⒸ , Abishek Acharya , Umar Fazlan
+Swing 1	4th	Opening Government	View Ballot	Rushdoon AhmedⒸ , Arjun Raman , Pranjal ChakrabortyⓉ
+Cambridge AM	2nd	Closing Government	View Ballot	Rushdoon AhmedⒸ , Arjun Raman , Pranjal ChakrabortyⓉ
+Ateneo LN	3rd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Arjun Raman , Pranjal ChakrabortyⓉ
+ANU Hariharan &amp; Druce	1st	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Arjun Raman , Pranjal ChakrabortyⓉ
+Belgrade E(vo zore evo zore)	4th	Closing Opposition	View Ballot	Robert RaosⒸ , Imran Ilmam , Weronika Hupert , Guilherme Pereira RodriguesⓉ
+Belgrade TS(C) Bačka Topola	2nd	Opening Government	View Ballot	Robert RaosⒸ , Imran Ilmam , Weronika Hupert , Guilherme Pereira RodriguesⓉ
+Sydney Ryan and Stone	3rd	Closing Government	View Ballot	Robert RaosⒸ , Imran Ilmam , Weronika Hupert , Guilherme Pereira RodriguesⓉ
+Sydney B	1st	Opening Opposition	View Ballot	Robert RaosⒸ , Imran Ilmam , Weronika Hupert , Guilherme Pereira RodriguesⓉ
+Belgrade A	1st	Closing Opposition	View Ballot	Diego DuarteⒸ , Mikko Vitug , M.NavakanthⓉ
+UAB Nayib Bukile	4th	Opening Government	View Ballot	Diego DuarteⒸ , Mikko Vitug , M.NavakanthⓉ
+Sunway had one too many drinks in KLCC	2nd	Closing Government	View Ballot	Diego DuarteⒸ , Mikko Vitug , M.NavakanthⓉ
+Stanford Ben Porat &amp; Li	3rd	Opening Opposition	View Ballot	Diego DuarteⒸ , Mikko Vitug , M.NavakanthⓉ
+KCL racially diversifying the cast of	2nd	Opening Government	View Ballot	Miriam KalmanⒸ , Carmel Kenneth , Emmanuel Akuetteh Ayite-AtiapaⓉ
+VIT loves Bengali women	3rd	Closing Opposition	View Ballot	Miriam KalmanⒸ , Carmel Kenneth , Emmanuel Akuetteh Ayite-AtiapaⓉ
+UGM A	4th	Closing Government	View Ballot	Miriam KalmanⒸ , Carmel Kenneth , Emmanuel Akuetteh Ayite-AtiapaⓉ
+Harvard m&amp;m	1st	Opening Opposition	View Ballot	Miriam KalmanⒸ , Carmel Kenneth , Emmanuel Akuetteh Ayite-AtiapaⓉ
+USP Lightning McQueen and Tow Mater	3rd	Opening Government	View Ballot	Vladimira SuflajⒸ , Mostafizur Rahman Fahim , Parul KhichaⓉ
+a lawyer and engineer? the collect	1st	Closing Government	View Ballot	Vladimira SuflajⒸ , Mostafizur Rahman Fahim , Parul KhichaⓉ
+Pavlovian responses	4th	Closing Opposition	View Ballot	Vladimira SuflajⒸ , Mostafizur Rahman Fahim , Parul KhichaⓉ
+Melbourne B	2nd	Opening Opposition	View Ballot	Vladimira SuflajⒸ , Mostafizur Rahman Fahim , Parul KhichaⓉ
+Melbourne C	4th	Closing Opposition	View Ballot	Josef MoscoviciⒸ , Yang Ming Sim
+Duke BC	1st	Opening Government	View Ballot	Josef MoscoviciⒸ , Yang Ming Sim
+Rosario Le voy a dar en la cara marica	2nd	Opening Opposition	View Ballot	Josef MoscoviciⒸ , Yang Ming Sim
+i am bob (intuition pumped)	3rd	Closing Government	View Ballot	Josef MoscoviciⒸ , Yang Ming Sim
+throwing a whole bluefin tuna at m	1st	Closing Government	View Ballot	Harish NatarajanⒸ , Bonfilio Dazzle , Vasilije Milačić , rishabh guptaⓉ
+Sydney Kuo and Price	2nd	Opening Opposition	View Ballot	Harish NatarajanⒸ , Bonfilio Dazzle , Vasilije Milačić , rishabh guptaⓉ
+Tokyo A	3rd	Opening Government	View Ballot	Harish NatarajanⒸ , Bonfilio Dazzle , Vasilije Milačić , rishabh guptaⓉ
+Bucharest B	4th	Closing Opposition	View Ballot	Harish NatarajanⒸ , Bonfilio Dazzle , Vasilije Milačić , rishabh guptaⓉ
+HWS A	4th	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Danh Thai Duong Nguyen (Darwin)
+DLSU EJ	2nd	Opening Government	View Ballot	Jonathan TuliaoⒸ , Danh Thai Duong Nguyen (Darwin)
+SNUDA 1	3rd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Danh Thai Duong Nguyen (Darwin)
+IGNOU Chadha and Mitra	1st	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Danh Thai Duong Nguyen (Darwin)
+Cambridge MS	2nd	Opening Government	View Ballot	Kevin LeeⒸ , Matt Caito , Isabella RochaⓉ
+Oxford B	1st	Closing Government	View Ballot	Kevin LeeⒸ , Matt Caito , Isabella RochaⓉ
+Cambridge HL	4th	Opening Opposition	View Ballot	Kevin LeeⒸ , Matt Caito , Isabella RochaⓉ
+Ř	3rd	Closing Opposition	View Ballot	Kevin LeeⒸ , Matt Caito , Isabella RochaⓉ
+TCD Phil twintAstic	2nd	Closing Government	View Ballot	Nikola MichaylovⒸ , Mia freeland
+HWS Throw a brick at me	4th	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Mia freeland
+Imperial India &amp; Pakistan reunified	1st	Opening Government	View Ballot	Nikola MichaylovⒸ , Mia freeland
+Ateneo GB	3rd	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Mia freeland
+Indonesia 1	2nd	Opening Opposition	View Ballot	Petar ZecⒸ , Aymaan Sheikh , Oliver Chow , Maria Paula SantosⓉ
+Sciences Po SPU	3rd	Closing Government	View Ballot	Petar ZecⒸ , Aymaan Sheikh , Oliver Chow , Maria Paula SantosⓉ
+Sunway passed out at Changkat	4th	Closing Opposition	View Ballot	Petar ZecⒸ , Aymaan Sheikh , Oliver Chow , Maria Paula SantosⓉ
+shut up	1st	Opening Government	View Ballot	Petar ZecⒸ , Aymaan Sheikh , Oliver Chow , Maria Paula SantosⓉ
+Dartmouth daddy press	2nd	Opening Opposition	View Ballot	AmichayⒸ , Adya Mishra , WernⓉ
+NUS Ashley and Justin	4th	Closing Opposition	View Ballot	AmichayⒸ , Adya Mishra , WernⓉ
+Weizmann Dror &amp; Roi	1st	Closing Government	View Ballot	AmichayⒸ , Adya Mishra , WernⓉ
+Drexel EA Games	3rd	Opening Government	View Ballot	AmichayⒸ , Adya Mishra , WernⓉ
+Turan	4th	Closing Government	View Ballot	Velina AndonovaⒸ , Ryosei Kobayashi , Calvin Ng Kah WengⓉ
+Debate of Thrones	1st	Opening Government	View Ballot	Velina AndonovaⒸ , Ryosei Kobayashi , Calvin Ng Kah WengⓉ
+UGM B	3rd	Closing Opposition	View Ballot	Velina AndonovaⒸ , Ryosei Kobayashi , Calvin Ng Kah WengⓉ
+Woke Westerners	2nd	Opening Opposition	View Ballot	Velina AndonovaⒸ , Ryosei Kobayashi , Calvin Ng Kah WengⓉ
+Queensland Alex Paterson	3rd	Opening Opposition	View Ballot	Jack PalmerⒸ , Altynay Zamanbekova , Jo Watanabe
+Melbourne C&amp;T	4th	Closing Government	View Ballot	Jack PalmerⒸ , Altynay Zamanbekova , Jo Watanabe
+UNSW Bardsley and Singh	2nd	Closing Opposition	View Ballot	Jack PalmerⒸ , Altynay Zamanbekova , Jo Watanabe
+Sydney (C)hen &amp; Walsh	1st	Opening Government	View Ballot	Jack PalmerⒸ , Altynay Zamanbekova , Jo Watanabe
+Queensland Big fans of swaggy lee miller	4th	Closing Government	View Ballot	Alex McCreadieⒸ , Annabelle Mentzines , CHENG ZI YI
+HUFS Cheongju boiz	3rd	Opening Government	View Ballot	Alex McCreadieⒸ , Annabelle Mentzines , CHENG ZI YI
+UCLA tourney starts at 11pm	1st	Opening Opposition	View Ballot	Alex McCreadieⒸ , Annabelle Mentzines , CHENG ZI YI
+Stanford bunties	2nd	Closing Opposition	View Ballot	Alex McCreadieⒸ , Annabelle Mentzines , CHENG ZI YI
+Sydney A	2nd	Opening Government	View Ballot	Anna ShrederⒸ , Toby Mayhew
+Oxford two bozos	1st	Opening Opposition	View Ballot	Anna ShrederⒸ , Toby Mayhew
+NUS Naomi and Cavan	4th	Closing Government	View Ballot	Anna ShrederⒸ , Toby Mayhew
+tab pleb meets his maker	3rd	Closing Opposition	View Ballot	Anna ShrederⒸ , Toby Mayhew
+Keio YF	2nd	Opening Government	View Ballot	Ayal MorⒸ , Mayta Ciara Salsabila , Yashovardhan Balakrishnan
+NUS Clairene and Rdu	1st	Opening Opposition	View Ballot	Ayal MorⒸ , Mayta Ciara Salsabila , Yashovardhan Balakrishnan
+IIT Bombay IITB SN	3rd	Closing Opposition	View Ballot	Ayal MorⒸ , Mayta Ciara Salsabila , Yashovardhan Balakrishnan
+UPLB test run pt. 3	4th	Closing Government	View Ballot	Ayal MorⒸ , Mayta Ciara Salsabila , Yashovardhan Balakrishnan
+TAU A	1st	Closing Opposition	View Ballot	Kaushiki IshwarⒸ , Ayushi Nasa , Naomi Panovka
+Sydney Pyrrhic Punters	2nd	Opening Opposition	View Ballot	Kaushiki IshwarⒸ , Ayushi Nasa , Naomi Panovka
+Sydney Freeland &amp; Bakker	4th	Opening Government	View Ballot	Kaushiki IshwarⒸ , Ayushi Nasa , Naomi Panovka
+VIT CD	3rd	Closing Government	View Ballot	Kaushiki IshwarⒸ , Ayushi Nasa , Naomi Panovka
+SLS Pune Achilles come down	1st	Opening Government	View Ballot	Petar ZnidarⒸ , Atyia Al-Hammud
+IIT Bombay mahoraga couldn&#x27;t adapt to deez nu	2nd	Closing Opposition	View Ballot	Petar ZnidarⒸ , Atyia Al-Hammud
+MUST We both abandoned by our worlds pa	4th	Closing Government	View Ballot	Petar ZnidarⒸ , Atyia Al-Hammud
+Tokyo B	3rd	Opening Opposition	View Ballot	Petar ZnidarⒸ , Atyia Al-Hammud
+Cambridge ZJ	3rd	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Tin Puljić , Luka GojkovićⓉ
+Subway &amp; Domino	2nd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Tin Puljić , Luka GojkovićⓉ
+Sydney Brayan and Chaffey	1st	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Tin Puljić , Luka GojkovićⓉ
+NTU Bobina	4th	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Tin Puljić , Luka GojkovićⓉ
+HSESP OSCA A	4th	Opening Opposition	View Ballot	David AfricaⒸ , Esther Ayodele , Ethan Goh Kean Yi
+brace yourselves, we too developed	1st	Opening Government	View Ballot	David AfricaⒸ , Esther Ayodele , Ethan Goh Kean Yi
+I am happy I got the underrated In	3rd	Closing Government	View Ballot	David AfricaⒸ , Esther Ayodele , Ethan Goh Kean Yi
+Sydney (F)ellas	2nd	Closing Opposition	View Ballot	David AfricaⒸ , Esther Ayodele , Ethan Goh Kean Yi
+
+
+team	result	side	ballot	adjudicators
+Melbourne C	2nd	Closing Government	View Ballot	Jo WatanabeⒸ , Danh Thai Duong Nguyen (Darwin) , Jasmine GoncalvesⓉ
+Queensland Big fans of swaggy lee miller	3rd	Opening Government	View Ballot	Jo WatanabeⒸ , Danh Thai Duong Nguyen (Darwin) , Jasmine GoncalvesⓉ
+UPLB test run pt. 3	1st	Opening Opposition	View Ballot	Jo WatanabeⒸ , Danh Thai Duong Nguyen (Darwin) , Jasmine GoncalvesⓉ
+KMC2	4th	Closing Opposition	View Ballot	Jo WatanabeⒸ , Danh Thai Duong Nguyen (Darwin) , Jasmine GoncalvesⓉ
+IIT Bombay IITB SN	3rd	Opening Government	View Ballot	Bonfilio DazzleⒸ , Ayushi Nasa , Parul KhichaⓉ
+HWS Throw a brick at me	1st	Closing Government	View Ballot	Bonfilio DazzleⒸ , Ayushi Nasa , Parul KhichaⓉ
+MUST We both abandoned by our worlds pa	4th	Closing Opposition	View Ballot	Bonfilio DazzleⒸ , Ayushi Nasa , Parul KhichaⓉ
+Drexel EA Games	2nd	Opening Opposition	View Ballot	Bonfilio DazzleⒸ , Ayushi Nasa , Parul KhichaⓉ
+Oxford B	3rd	Opening Opposition	View Ballot	Dylan McCarthyⒸ , Oliver Chow , Vasilije Milačić
+Sunway had one too many drinks in KLCC	1st	Opening Government	View Ballot	Dylan McCarthyⒸ , Oliver Chow , Vasilije Milačić
+Subway &amp; Domino	4th	Closing Opposition	View Ballot	Dylan McCarthyⒸ , Oliver Chow , Vasilije Milačić
+brace yourselves, we too developed	2nd	Closing Government	View Ballot	Dylan McCarthyⒸ , Oliver Chow , Vasilije Milačić
+Debate of Thrones	4th	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Adya Mishra , Annabelle Mentzines
+I am happy I got the underrated In	3rd	Opening Government	View Ballot	Nikola MichaylovⒸ , Adya Mishra , Annabelle Mentzines
+UNSW Bardsley and Singh	2nd	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Adya Mishra , Annabelle Mentzines
+shut up	1st	Closing Government	View Ballot	Nikola MichaylovⒸ , Adya Mishra , Annabelle Mentzines
+Belgrade TS(C) Bačka Topola	2nd	Closing Government	View Ballot	Juanita RestrepoⒸ , Shaurya Chandravanshi , Toby Mayhew
+UCLA tourney starts at 11pm	3rd	Opening Government	View Ballot	Juanita RestrepoⒸ , Shaurya Chandravanshi , Toby Mayhew
+a lawyer and engineer? the collect	4th	Closing Opposition	View Ballot	Juanita RestrepoⒸ , Shaurya Chandravanshi , Toby Mayhew
+ANU Hariharan &amp; Druce	1st	Opening Opposition	View Ballot	Juanita RestrepoⒸ , Shaurya Chandravanshi , Toby Mayhew
+UST B words	3rd	Closing Opposition	View Ballot	Diego DuarteⒸ , Emmanuel Akuetteh Ayite-Atiapa , Guilherme Pereira RodriguesⓉ
+Cambridge HL	4th	Closing Government	View Ballot	Diego DuarteⒸ , Emmanuel Akuetteh Ayite-Atiapa , Guilherme Pereira RodriguesⓉ
+UGM B	2nd	Opening Government	View Ballot	Diego DuarteⒸ , Emmanuel Akuetteh Ayite-Atiapa , Guilherme Pereira RodriguesⓉ
+Pavlovian responses	1st	Opening Opposition	View Ballot	Diego DuarteⒸ , Emmanuel Akuetteh Ayite-Atiapa , Guilherme Pereira RodriguesⓉ
+Cambridge MS	2nd	Opening Opposition	View Ballot	Anna ShrederⒸ , Umar Fazlan
+Imperial India &amp; Pakistan reunified	4th	Closing Opposition	View Ballot	Anna ShrederⒸ , Umar Fazlan
+Sydney Ryan and Stone	3rd	Opening Government	View Ballot	Anna ShrederⒸ , Umar Fazlan
+Stanford bunties	1st	Closing Government	View Ballot	Anna ShrederⒸ , Umar Fazlan
+HUFS Cheongju boiz	1st	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Lara Dragojevic , M.NavakanthⓉ
+USP Lightning McQueen and Tow Mater	4th	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Lara Dragojevic , M.NavakanthⓉ
+Weizmann Dror &amp; Roi	3rd	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Lara Dragojevic , M.NavakanthⓉ
+Ř	2nd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Lara Dragojevic , M.NavakanthⓉ
+HSESP OSCA A	2nd	Closing Opposition	View Ballot	Jack PalmerⒸ , Mia freeland
+VIT loves Bengali women	3rd	Opening Opposition	View Ballot	Jack PalmerⒸ , Mia freeland
+Stanford Sajid &amp; Sourodip	1st	Opening Government	View Ballot	Jack PalmerⒸ , Mia freeland
+Bucharest B	4th	Closing Government	View Ballot	Jack PalmerⒸ , Mia freeland
+Sydney A	3rd	Closing Government	View Ballot	Jonathan TuliaoⒸ , Altynay Zamanbekova , Tin Puljić
+Oxford two bozos	4th	Closing Opposition	View Ballot	Jonathan TuliaoⒸ , Altynay Zamanbekova , Tin Puljić
+TAU A	1st	Opening Opposition	View Ballot	Jonathan TuliaoⒸ , Altynay Zamanbekova , Tin Puljić
+Sydney Brayan and Chaffey	2nd	Opening Government	View Ballot	Jonathan TuliaoⒸ , Altynay Zamanbekova , Tin Puljić
+Harvard m&amp;m	1st	Opening Government	View Ballot	Miriam KalmanⒸ , Timothy Hanna , Calvin Ng Kah WengⓉ
+Melbourne B	2nd	Closing Government	View Ballot	Miriam KalmanⒸ , Timothy Hanna , Calvin Ng Kah WengⓉ
+tab pleb meets his maker	3rd	Opening Opposition	View Ballot	Miriam KalmanⒸ , Timothy Hanna , Calvin Ng Kah WengⓉ
+Tokyo A	4th	Closing Opposition	View Ballot	Miriam KalmanⒸ , Timothy Hanna , Calvin Ng Kah WengⓉ
+Swing 1	3rd	Closing Government	View Ballot	Rushdoon AhmedⒸ , WernⓉ
+Keio YF	4th	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , WernⓉ
+STBA PIA RW	1st	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , WernⓉ
+Melbourne C&amp;T	2nd	Opening Government	View Ballot	Rushdoon AhmedⒸ , WernⓉ
+UAB Nayib Bukile	4th	Closing Government	View Ballot	Ryosei KobayashiⒸ , Weronika HupertⓉ
+Swing 2	3rd	Closing Opposition	View Ballot	Ryosei KobayashiⒸ , Weronika HupertⓉ
+Ateneo GB	2nd	Opening Government	View Ballot	Ryosei KobayashiⒸ , Weronika HupertⓉ
+i am bob (intuition pumped)	1st	Opening Opposition	View Ballot	Ryosei KobayashiⒸ , Weronika HupertⓉ
+The Arab Wagner Group	1st	Closing Government	View Ballot	Abishek AcharyaⒸ
+Sunway passed out at Changkat	4th	Opening Opposition	View Ballot	Abishek AcharyaⒸ
+Tokyo C	2nd	Closing Opposition	View Ballot	Abishek AcharyaⒸ
+Imperial one of us is hungover	3rd	Opening Government	View Ballot	Abishek AcharyaⒸ
+Belgrade A	1st	Opening Government	View Ballot	Lucia ArceⒸ , Aymaan Sheikh , Petar Znidar
+throwing a whole bluefin tuna at m	4th	Closing Opposition	View Ballot	Lucia ArceⒸ , Aymaan Sheikh , Petar Znidar
+Sydney B	3rd	Closing Government	View Ballot	Lucia ArceⒸ , Aymaan Sheikh , Petar Znidar
+Sydney (F)ellas	2nd	Opening Opposition	View Ballot	Lucia ArceⒸ , Aymaan Sheikh , Petar Znidar
+Indonesia 1	3rd	Opening Government	View Ballot	Ayal MorⒸ , Mikko Vitug
+TCD Phil B	2nd	Opening Opposition	View Ballot	Ayal MorⒸ , Mikko Vitug
+Stanford Ben Porat &amp; Li	1st	Closing Government	View Ballot	Ayal MorⒸ , Mikko Vitug
+NTU Bobina	4th	Closing Opposition	View Ballot	Ayal MorⒸ , Mikko Vitug
+SLS Pune Achilles come down	4th	Opening Opposition	View Ballot	David AfricaⒸ , Yang Ming Sim , Yashovardhan Balakrishnan
+Sydney Pyrrhic Punters	1st	Opening Government	View Ballot	David AfricaⒸ , Yang Ming Sim , Yashovardhan Balakrishnan
+Sydney Kuo and Price	3rd	Closing Opposition	View Ballot	David AfricaⒸ , Yang Ming Sim , Yashovardhan Balakrishnan
+Sydney (C)hen &amp; Walsh	2nd	Closing Government	View Ballot	David AfricaⒸ , Yang Ming Sim , Yashovardhan Balakrishnan
+KCL racially diversifying the cast of	4th	Closing Government	View Ballot	Alex McCreadieⒸ , Carmel Kenneth
+Dartmouth daddy press	1st	Opening Government	View Ballot	Alex McCreadieⒸ , Carmel Kenneth
+Rosario Le voy a dar en la cara marica	3rd	Closing Opposition	View Ballot	Alex McCreadieⒸ , Carmel Kenneth
+NUS Naomi and Cavan	2nd	Opening Opposition	View Ballot	Alex McCreadieⒸ , Carmel Kenneth
+Cambridge AM	1st	Opening Government	View Ballot	Njuguna MachariaⒸ , Arjun Raman , Kevin Lee
+Cambridge ZJ	2nd	Opening Opposition	View Ballot	Njuguna MachariaⒸ , Arjun Raman , Kevin Lee
+Duke BC	4th	Closing Government	View Ballot	Njuguna MachariaⒸ , Arjun Raman , Kevin Lee
+VIT CD	3rd	Closing Opposition	View Ballot	Njuguna MachariaⒸ , Arjun Raman , Kevin Lee
+Queensland Alex Paterson	2nd	Closing Opposition	View Ballot	Imran IlmamⒸ , Naomi Panovka , Luka GojkovićⓉ
+DLSU EJ	3rd	Closing Government	View Ballot	Imran IlmamⒸ , Naomi Panovka , Luka GojkovićⓉ
+Tokyo B	4th	Opening Government	View Ballot	Imran IlmamⒸ , Naomi Panovka , Luka GojkovićⓉ
+SNUDA 1	1st	Opening Opposition	View Ballot	Imran IlmamⒸ , Naomi Panovka , Luka GojkovićⓉ
+NUS Clairene and Rdu	1st	Closing Opposition	View Ballot	Shudipto AhmedⒸ , CHENG ZI YI , rishabh guptaⓉ
+IIT Bombay mahoraga couldn&#x27;t adapt to deez nu	3rd	Opening Opposition	View Ballot	Shudipto AhmedⒸ , CHENG ZI YI , rishabh guptaⓉ
+Ateneo LN	2nd	Opening Government	View Ballot	Shudipto AhmedⒸ , CHENG ZI YI , rishabh guptaⓉ
+Sydney Freeland &amp; Bakker	4th	Closing Government	View Ballot	Shudipto AhmedⒸ , CHENG ZI YI , rishabh guptaⓉ
+TCD Phil twintAstic	2nd	Opening Opposition	View Ballot	Ethan Goh Kean YiⒸ , Matt Caito , Luca VidmanⓉ
+Belgrade E(vo zore evo zore)	1st	Closing Government	View Ballot	Ethan Goh Kean YiⒸ , Matt Caito , Luca VidmanⓉ
+Sciences Po SPU	4th	Opening Government	View Ballot	Ethan Goh Kean YiⒸ , Matt Caito , Luca VidmanⓉ
+IGNOU Chadha and Mitra	3rd	Closing Opposition	View Ballot	Ethan Goh Kean YiⒸ , Matt Caito , Luca VidmanⓉ
+Turan	4th	Closing Opposition	View Ballot	Kaushiki IshwarⒸ , Mostafizur Rahman Fahim
+HWS A	2nd	Closing Government	View Ballot	Kaushiki IshwarⒸ , Mostafizur Rahman Fahim
+UGM A	3rd	Opening Government	View Ballot	Kaushiki IshwarⒸ , Mostafizur Rahman Fahim
+NUS Ashley and Justin	1st	Opening Opposition	View Ballot	Kaushiki IshwarⒸ , Mostafizur Rahman Fahim
+
+
+team	result	side	ballot	adjudicators
+Queensland Alex Paterson	3rd	Opening Government	View Ballot	Wajeeh MaazⒸ , Emmanuel Akuetteh Ayite-Atiapa , M.Navakanth
+Duke BC	1st	Opening Opposition	View Ballot	Wajeeh MaazⒸ , Emmanuel Akuetteh Ayite-Atiapa , M.Navakanth
+Imperial India &amp; Pakistan reunified	4th	Closing Government	View Ballot	Wajeeh MaazⒸ , Emmanuel Akuetteh Ayite-Atiapa , M.Navakanth
+Weizmann Dror &amp; Roi	2nd	Closing Opposition	View Ballot	Wajeeh MaazⒸ , Emmanuel Akuetteh Ayite-Atiapa , M.Navakanth
+Belgrade A	2nd	Closing Government	View Ballot	Sebastian DassoⒸ , Ayal Mor , Lara Dragojevic
+brace yourselves, we too developed	1st	Opening Government	View Ballot	Sebastian DassoⒸ , Ayal Mor , Lara Dragojevic
+Sydney (C)hen &amp; Walsh	4th	Closing Opposition	View Ballot	Sebastian DassoⒸ , Ayal Mor , Lara Dragojevic
+shut up	3rd	Opening Opposition	View Ballot	Sebastian DassoⒸ , Ayal Mor , Lara Dragojevic
+KCL racially diversifying the cast of	1st	Opening Opposition	View Ballot	Shudipto AhmedⒸ , Calvin Ng Kah Weng , Carmel Kenneth
+SLS Pune Achilles come down	4th	Closing Government	View Ballot	Shudipto AhmedⒸ , Calvin Ng Kah Weng , Carmel Kenneth
+IIT Bombay mahoraga couldn&#x27;t adapt to deez nu	2nd	Opening Government	View Ballot	Shudipto AhmedⒸ , Calvin Ng Kah Weng , Carmel Kenneth
+Melbourne C&amp;T	3rd	Closing Opposition	View Ballot	Shudipto AhmedⒸ , Calvin Ng Kah Weng , Carmel Kenneth
+Debate of Thrones	1st	Opening Opposition	View Ballot	David AfricaⒸ , Danh Thai Duong Nguyen (Darwin) , Toby Mayhew
+TCD Phil twintAstic	2nd	Closing Opposition	View Ballot	David AfricaⒸ , Danh Thai Duong Nguyen (Darwin) , Toby Mayhew
+UGM B	4th	Closing Government	View Ballot	David AfricaⒸ , Danh Thai Duong Nguyen (Darwin) , Toby Mayhew
+VIT CD	3rd	Opening Government	View Ballot	David AfricaⒸ , Danh Thai Duong Nguyen (Darwin) , Toby Mayhew
+Cambridge AM	1st	Opening Opposition	View Ballot	Njuguna MachariaⒸ , Mia freeland , Petar Znidar
+Belgrade TS(C) Bačka Topola	4th	Closing Opposition	View Ballot	Njuguna MachariaⒸ , Mia freeland , Petar Znidar
+Sunway had one too many drinks in KLCC	2nd	Opening Government	View Ballot	Njuguna MachariaⒸ , Mia freeland , Petar Znidar
+Harvard m&amp;m	3rd	Closing Government	View Ballot	Njuguna MachariaⒸ , Mia freeland , Petar Znidar
+Keio YF	1st	Closing Government	View Ballot	Meg KandarpaⒸ , Ethan Goh Kean Yi
+HWS A	2nd	Opening Government	View Ballot	Meg KandarpaⒸ , Ethan Goh Kean Yi
+UGM A	4th	Opening Opposition	View Ballot	Meg KandarpaⒸ , Ethan Goh Kean Yi
+Tokyo B	3rd	Closing Opposition	View Ballot	Meg KandarpaⒸ , Ethan Goh Kean Yi
+UST B words	4th	Closing Government	View Ballot	Diggory WaddleⒸ , Vasilije Milačić
+Queensland Big fans of swaggy lee miller	3rd	Opening Opposition	View Ballot	Diggory WaddleⒸ , Vasilije Milačić
+DLSU EJ	1st	Closing Opposition	View Ballot	Diggory WaddleⒸ , Vasilije Milačić
+Bucharest B	2nd	Opening Government	View Ballot	Diggory WaddleⒸ , Vasilije Milačić
+Indonesia 1	3rd	Closing Opposition	View Ballot	Juanita RestrepoⒸ , Adya Mishra , Yang Ming Sim
+The Arab Wagner Group	1st	Opening Government	View Ballot	Juanita RestrepoⒸ , Adya Mishra , Yang Ming Sim
+HWS Throw a brick at me	2nd	Opening Opposition	View Ballot	Juanita RestrepoⒸ , Adya Mishra , Yang Ming Sim
+IGNOU Chadha and Mitra	4th	Closing Government	View Ballot	Juanita RestrepoⒸ , Adya Mishra , Yang Ming Sim
+TCD Phil B	4th	Closing Government	View Ballot	Diego DuarteⒸ , Annabelle Mentzines , Tin Puljić
+I am happy I got the underrated In	1st	Opening Opposition	View Ballot	Diego DuarteⒸ , Annabelle Mentzines , Tin Puljić
+tab pleb meets his maker	3rd	Opening Government	View Ballot	Diego DuarteⒸ , Annabelle Mentzines , Tin Puljić
+i am bob (intuition pumped)	2nd	Closing Opposition	View Ballot	Diego DuarteⒸ , Annabelle Mentzines , Tin Puljić
+NUS Clairene and Rdu	4th	Opening Government	View Ballot	Matt CaitoⒸ , Jonathan Tuliao , Luka Gojković
+Sydney B	1st	Closing Opposition	View Ballot	Matt CaitoⒸ , Jonathan Tuliao , Luka Gojković
+Sydney (F)ellas	2nd	Closing Government	View Ballot	Matt CaitoⒸ , Jonathan Tuliao , Luka Gojković
+Stanford bunties	3rd	Opening Opposition	View Ballot	Matt CaitoⒸ , Jonathan Tuliao , Luka Gojković
+HSESP OSCA A	4th	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Bonfilio Dazzle
+a lawyer and engineer? the collect	2nd	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Bonfilio Dazzle
+Subway &amp; Domino	3rd	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Bonfilio Dazzle
+NUS Naomi and Cavan	1st	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Bonfilio Dazzle
+USP Lightning McQueen and Tow Mater	3rd	Closing Government	View Ballot	Shaurya ChandravanshiⒸ , Ayushi Nasa , rishabh guptaⓉ
+Tokyo C	4th	Opening Opposition	View Ballot	Shaurya ChandravanshiⒸ , Ayushi Nasa , rishabh guptaⓉ
+Sydney Freeland &amp; Bakker	1st	Closing Opposition	View Ballot	Shaurya ChandravanshiⒸ , Ayushi Nasa , rishabh guptaⓉ
+NUS Ashley and Justin	2nd	Opening Government	View Ballot	Shaurya ChandravanshiⒸ , Ayushi Nasa , rishabh guptaⓉ
+Melbourne C	2nd	Opening Government	View Ballot	Nikola MichaylovⒸ , Timothy Hanna , Parul KhichaⓉ
+VIT loves Bengali women	4th	Closing Government	View Ballot	Nikola MichaylovⒸ , Timothy Hanna , Parul KhichaⓉ
+IIT Bombay IITB SN	3rd	Opening Opposition	View Ballot	Nikola MichaylovⒸ , Timothy Hanna , Parul KhichaⓉ
+UPLB test run pt. 3	1st	Closing Opposition	View Ballot	Nikola MichaylovⒸ , Timothy Hanna , Parul KhichaⓉ
+Belgrade E(vo zore evo zore)	2nd	Opening Opposition	View Ballot	Naomi PanovkaⒸ , Abishek Acharya , Aymaan Sheikh
+Cambridge ZJ	4th	Closing Opposition	View Ballot	Naomi PanovkaⒸ , Abishek Acharya , Aymaan Sheikh
+Stanford Ben Porat &amp; Li	1st	Opening Government	View Ballot	Naomi PanovkaⒸ , Abishek Acharya , Aymaan Sheikh
+Sydney Kuo and Price	3rd	Closing Government	View Ballot	Naomi PanovkaⒸ , Abishek Acharya , Aymaan Sheikh
+Turan	3rd	Closing Opposition	View Ballot	Imran IlmamⒸ , Kaushiki Ishwar
+Swing 2	1st	Closing Government	View Ballot	Imran IlmamⒸ , Kaushiki Ishwar
+KMC2	2nd	Opening Government	View Ballot	Imran IlmamⒸ , Kaushiki Ishwar
+MUST We both abandoned by our worlds pa	4th	Opening Opposition	View Ballot	Imran IlmamⒸ , Kaushiki Ishwar
+HUFS Cheongju boiz	2nd	Opening Opposition	View Ballot	Mikko VitugⒸ , Wern , Yashovardhan Balakrishnan
+Oxford two bozos	4th	Opening Government	View Ballot	Mikko VitugⒸ , Wern , Yashovardhan Balakrishnan
+UCLA tourney starts at 11pm	1st	Closing Opposition	View Ballot	Mikko VitugⒸ , Wern , Yashovardhan Balakrishnan
+Stanford Sajid &amp; Sourodip	3rd	Closing Government	View Ballot	Mikko VitugⒸ , Wern , Yashovardhan Balakrishnan
+Dartmouth daddy press	1st	Closing Opposition	View Ballot	Alex McCreadieⒸ , Arjun Raman , Rushdoon Ahmed
+Pavlovian responses	4th	Opening Government	View Ballot	Alex McCreadieⒸ , Arjun Raman , Rushdoon Ahmed
+Sydney Ryan and Stone	3rd	Opening Opposition	View Ballot	Alex McCreadieⒸ , Arjun Raman , Rushdoon Ahmed
+Ř	2nd	Closing Government	View Ballot	Alex McCreadieⒸ , Arjun Raman , Rushdoon Ahmed
+Cambridge MS	4th	Closing Government	View Ballot	Jack StanleyⒸ , CHENG ZI YI , Weronika Hupert
+Sydney A	1st	Closing Opposition	View Ballot	Jack StanleyⒸ , CHENG ZI YI , Weronika Hupert
+Melbourne B	2nd	Opening Government	View Ballot	Jack StanleyⒸ , CHENG ZI YI , Weronika Hupert
+UNSW Bardsley and Singh	3rd	Opening Opposition	View Ballot	Jack StanleyⒸ , CHENG ZI YI , Weronika Hupert
+Oxford B	1st	Opening Opposition	View Ballot	Dylan McCarthyⒸ , Esther Ayodele , Kevin Lee
+throwing a whole bluefin tuna at m	2nd	Opening Government	View Ballot	Dylan McCarthyⒸ , Esther Ayodele , Kevin Lee
+STBA PIA RW	4th	Closing Opposition	View Ballot	Dylan McCarthyⒸ , Esther Ayodele , Kevin Lee
+Ateneo LN	3rd	Closing Government	View Ballot	Dylan McCarthyⒸ , Esther Ayodele , Kevin Lee
+Swing 1	4th	Closing Opposition	View Ballot	Erasmus Mawuli SegbefiaⒸ , Jo Watanabe , Jasmine GoncalvesⓉ
+Cambridge HL	3rd	Opening Government	View Ballot	Erasmus Mawuli SegbefiaⒸ , Jo Watanabe , Jasmine GoncalvesⓉ
+NTU Bobina	1st	Opening Opposition	View Ballot	Erasmus Mawuli SegbefiaⒸ , Jo Watanabe , Jasmine GoncalvesⓉ
+Drexel EA Games	2nd	Closing Government	View Ballot	Erasmus Mawuli SegbefiaⒸ , Jo Watanabe , Jasmine GoncalvesⓉ
+Rosario Le voy a dar en la cara marica	4th	Closing Government	View Ballot	Anna ShrederⒸ , Altynay Zamanbekova , Pranjal ChakrabortyⓉ
+Ateneo GB	2nd	Closing Opposition	View Ballot	Anna ShrederⒸ , Altynay Zamanbekova , Pranjal ChakrabortyⓉ
+Tokyo A	1st	Opening Opposition	View Ballot	Anna ShrederⒸ , Altynay Zamanbekova , Pranjal ChakrabortyⓉ
+SNUDA 1	3rd	Opening Government	View Ballot	Anna ShrederⒸ , Altynay Zamanbekova , Pranjal ChakrabortyⓉ
+TAU A	3rd	Opening Government	View Ballot	Lucia ArceⒸ , Ryosei Kobayashi , Vladimira Suflaj
+Sydney Brayan and Chaffey	4th	Closing Government	View Ballot	Lucia ArceⒸ , Ryosei Kobayashi , Vladimira Suflaj
+Sydney Pyrrhic Punters	2nd	Closing Opposition	View Ballot	Lucia ArceⒸ , Ryosei Kobayashi , Vladimira Suflaj
+ANU Hariharan &amp; Druce	1st	Opening Opposition	View Ballot	Lucia ArceⒸ , Ryosei Kobayashi , Vladimira Suflaj
+Sciences Po SPU	2nd	Closing Opposition	View Ballot	Umar FazlanⒸ , Oliver Chow , Guilherme Pereira RodriguesⓉ
+UAB Nayib Bukile	3rd	Closing Government	View Ballot	Umar FazlanⒸ , Oliver Chow , Guilherme Pereira RodriguesⓉ
+Sunway passed out at Changkat	1st	Opening Government	View Ballot	Umar FazlanⒸ , Oliver Chow , Guilherme Pereira RodriguesⓉ
+Swing 3	4th	Opening Opposition	View Ballot	Umar FazlanⒸ , Oliver Chow , Guilherme Pereira RodriguesⓉ
+
+
+team	result	side	ballot	adjudicators
+Cambridge MS	1st	Closing Government	View Ballot	Wajeeh MaazⒸ , rishabh gupta
+NUS Clairene and Rdu	4th	Opening Opposition	View Ballot	Wajeeh MaazⒸ , rishabh gupta
+IIT Bombay mahoraga couldn&#x27;t adapt to deez nu	3rd	Closing Opposition	View Ballot	Wajeeh MaazⒸ , rishabh gupta
+Ateneo GB	2nd	Opening Government	View Ballot	Wajeeh MaazⒸ , rishabh gupta
+Belgrade A	2nd	Opening Opposition	View Ballot	Shaurya ChandravanshiⒸ , Imran Ilmam , Tin Puljić
+Cambridge AM	3rd	Closing Government	View Ballot	Shaurya ChandravanshiⒸ , Imran Ilmam , Tin Puljić
+Sydney A	4th	Opening Government	View Ballot	Shaurya ChandravanshiⒸ , Imran Ilmam , Tin Puljić
+brace yourselves, we too developed	1st	Closing Opposition	View Ballot	Shaurya ChandravanshiⒸ , Imran Ilmam , Tin Puljić
+KCL racially diversifying the cast of	4th	Closing Government	View Ballot	Craig McDonaldⒸ , Aymaan Sheikh , Ayushi Nasa
+Cambridge ZJ	3rd	Opening Opposition	View Ballot	Craig McDonaldⒸ , Aymaan Sheikh , Ayushi Nasa
+Sydney Ryan and Stone	1st	Closing Opposition	View Ballot	Craig McDonaldⒸ , Aymaan Sheikh , Ayushi Nasa
+Weizmann Dror &amp; Roi	2nd	Opening Government	View Ballot	Craig McDonaldⒸ , Aymaan Sheikh , Ayushi Nasa
+Swing 1	3rd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Calvin Ng Kah Weng
+Cambridge HL	2nd	Closing Government	View Ballot	Rushdoon AhmedⒸ , Calvin Ng Kah Weng
+Tokyo C	4th	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Calvin Ng Kah Weng
+Tokyo B	1st	Opening Government	View Ballot	Rushdoon AhmedⒸ , Calvin Ng Kah Weng
+TCD Phil B	3rd	Opening Opposition	View Ballot	Daniela WilliamsⒸ , Ethan Goh Kean Yi
+Queensland Alex Paterson	2nd	Opening Government	View Ballot	Daniela WilliamsⒸ , Ethan Goh Kean Yi
+NUS Ashley and Justin	4th	Closing Opposition	View Ballot	Daniela WilliamsⒸ , Ethan Goh Kean Yi
+Drexel EA Games	1st	Closing Government	View Ballot	Daniela WilliamsⒸ , Ethan Goh Kean Yi
+UCLA tourney starts at 11pm	1st	Opening Government	View Ballot	Lucia ArceⒸ , Mostafizur Rahman Fahim , Nikola Michaylov
+I am happy I got the underrated In	3rd	Closing Government	View Ballot	Lucia ArceⒸ , Mostafizur Rahman Fahim , Nikola Michaylov
+Stanford Ben Porat &amp; Li	4th	Closing Opposition	View Ballot	Lucia ArceⒸ , Mostafizur Rahman Fahim , Nikola Michaylov
+Sydney (F)ellas	2nd	Opening Opposition	View Ballot	Lucia ArceⒸ , Mostafizur Rahman Fahim , Nikola Michaylov
+Indonesia 1	3rd	Closing Government	View Ballot	Ryosei KobayashiⒸ , Carmel Kenneth , Wern
+Melbourne C	1st	Opening Opposition	View Ballot	Ryosei KobayashiⒸ , Carmel Kenneth , Wern
+Sciences Po SPU	4th	Closing Opposition	View Ballot	Ryosei KobayashiⒸ , Carmel Kenneth , Wern
+Melbourne C&amp;T	2nd	Opening Government	View Ballot	Ryosei KobayashiⒸ , Carmel Kenneth , Wern
+UAB Nayib Bukile	2nd	Opening Opposition	View Ballot	Umar FazlanⒸ , Esther Ayodele , M.Navakanth
+USP Lightning McQueen and Tow Mater	3rd	Opening Government	View Ballot	Umar FazlanⒸ , Esther Ayodele , M.Navakanth
+Imperial India &amp; Pakistan reunified	4th	Closing Opposition	View Ballot	Umar FazlanⒸ , Esther Ayodele , M.Navakanth
+IGNOU Chadha and Mitra	1st	Closing Government	View Ballot	Umar FazlanⒸ , Esther Ayodele , M.Navakanth
+UST B words	2nd	Closing Government	View Ballot	Adya MishraⒸ , Jo Watanabe
+Queensland Big fans of swaggy lee miller	1st	Opening Government	View Ballot	Adya MishraⒸ , Jo Watanabe
+VIT loves Bengali women	3rd	Opening Opposition	View Ballot	Adya MishraⒸ , Jo Watanabe
+KMC2	4th	Closing Opposition	View Ballot	Adya MishraⒸ , Jo Watanabe
+TAU A	1st	Closing Government	View Ballot	Enting LeeⒸ , Diego Duarte , Petar Zec
+Sydney Pyrrhic Punters	4th	Closing Opposition	View Ballot	Enting LeeⒸ , Diego Duarte , Petar Zec
+Sydney B	2nd	Opening Opposition	View Ballot	Enting LeeⒸ , Diego Duarte , Petar Zec
+ANU Hariharan &amp; Druce	3rd	Opening Government	View Ballot	Enting LeeⒸ , Diego Duarte , Petar Zec
+Debate of Thrones	3rd	Closing Opposition	View Ballot	Rok HafnerⒸ , Jonathan Tuliao , Vasilije Milačić
+HWS Throw a brick at me	4th	Closing Government	View Ballot	Rok HafnerⒸ , Jonathan Tuliao , Vasilije Milačić
+a lawyer and engineer? the collect	2nd	Opening Government	View Ballot	Rok HafnerⒸ , Jonathan Tuliao , Vasilije Milačić
+Sydney Kuo and Price	1st	Opening Opposition	View Ballot	Rok HafnerⒸ , Jonathan Tuliao , Vasilije Milačić
+UPLB test run pt. 3	2nd	Opening Government	View Ballot	Alex McCreadieⒸ , Arjun Raman , Yashovardhan Balakrishnan
+Ateneo LN	3rd	Closing Government	View Ballot	Alex McCreadieⒸ , Arjun Raman , Yashovardhan Balakrishnan
+Sydney Freeland &amp; Bakker	1st	Opening Opposition	View Ballot	Alex McCreadieⒸ , Arjun Raman , Yashovardhan Balakrishnan
+SNUDA 1	4th	Closing Opposition	View Ballot	Alex McCreadieⒸ , Arjun Raman , Yashovardhan Balakrishnan
+TCD Phil twintAstic	3rd	Closing Opposition	View Ballot	Njuguna MachariaⒸ , Altynay Zamanbekova , Timothy Hanna
+Subway &amp; Domino	1st	Opening Government	View Ballot	Njuguna MachariaⒸ , Altynay Zamanbekova , Timothy Hanna
+UNSW Bardsley and Singh	4th	Closing Government	View Ballot	Njuguna MachariaⒸ , Altynay Zamanbekova , Timothy Hanna
+i am bob (intuition pumped)	2nd	Opening Opposition	View Ballot	Njuguna MachariaⒸ , Altynay Zamanbekova , Timothy Hanna
+Belgrade TS(C) Bačka Topola	2nd	Closing Opposition	View Ballot	Jack StanleyⒸ , Kevin Lee , Mayta Ciara Salsabila
+The Arab Wagner Group	4th	Opening Government	View Ballot	Jack StanleyⒸ , Kevin Lee , Mayta Ciara Salsabila
+DLSU EJ	3rd	Closing Government	View Ballot	Jack StanleyⒸ , Kevin Lee , Mayta Ciara Salsabila
+Tokyo A	1st	Opening Opposition	View Ballot	Jack StanleyⒸ , Kevin Lee , Mayta Ciara Salsabila
+STBA PIA RW	4th	Closing Government	View Ballot	Shudipto AhmedⒸ , Maria Paula Santos , Mia freeland
+NTU Bobina	1st	Opening Opposition	View Ballot	Shudipto AhmedⒸ , Maria Paula Santos , Mia freeland
+tab pleb meets his maker	2nd	Closing Opposition	View Ballot	Shudipto AhmedⒸ , Maria Paula Santos , Mia freeland
+VIT CD	3rd	Opening Government	View Ballot	Shudipto AhmedⒸ , Maria Paula Santos , Mia freeland
+Sunway passed out at Changkat	2nd	Closing Opposition	View Ballot	Abishek AcharyaⒸ , Danh Thai Duong Nguyen (Darwin)
+SLS Pune Achilles come down	1st	Opening Opposition	View Ballot	Abishek AcharyaⒸ , Danh Thai Duong Nguyen (Darwin)
+UGM B	3rd	Opening Government	View Ballot	Abishek AcharyaⒸ , Danh Thai Duong Nguyen (Darwin)
+Rosario Le voy a dar en la cara marica	4th	Closing Government	View Ballot	Abishek AcharyaⒸ , Danh Thai Duong Nguyen (Darwin)
+throwing a whole bluefin tuna at m	1st	Opening Government	View Ballot	Naomi PanovkaⒸ , Annabelle Mentzines , Bonfilio Dazzle
+Harvard m&amp;m	4th	Closing Government	View Ballot	Naomi PanovkaⒸ , Annabelle Mentzines , Bonfilio Dazzle
+Melbourne B	2nd	Opening Opposition	View Ballot	Naomi PanovkaⒸ , Annabelle Mentzines , Bonfilio Dazzle
+shut up	3rd	Closing Opposition	View Ballot	Naomi PanovkaⒸ , Annabelle Mentzines , Bonfilio Dazzle
+Duke BC	4th	Opening Government	View Ballot	David AfricaⒸ , Vladimira Suflaj , Weronika Hupert
+Sydney (C)hen &amp; Walsh	3rd	Closing Opposition	View Ballot	David AfricaⒸ , Vladimira Suflaj , Weronika Hupert
+Stanford Sajid &amp; Sourodip	2nd	Opening Opposition	View Ballot	David AfricaⒸ , Vladimira Suflaj , Weronika Hupert
+Ř	1st	Closing Government	View Ballot	David AfricaⒸ , Vladimira Suflaj , Weronika Hupert
+Keio YF	2nd	Opening Government	View Ballot	Ahmed El SammakⒸ , Oliver Chow
+HSESP OSCA A	1st	Closing Government	View Ballot	Ahmed El SammakⒸ , Oliver Chow
+Pavlovian responses	3rd	Closing Opposition	View Ballot	Ahmed El SammakⒸ , Oliver Chow
+Bucharest B	4th	Opening Opposition	View Ballot	Ahmed El SammakⒸ , Oliver Chow
+HUFS Cheongju boiz	4th	Closing Government	View Ballot	Nasa TsuchiyaⒸ , Ayal Mor , Matt Caito
+Oxford B	2nd	Opening Government	View Ballot	Nasa TsuchiyaⒸ , Ayal Mor , Matt Caito
+Sunway had one too many drinks in KLCC	3rd	Closing Opposition	View Ballot	Nasa TsuchiyaⒸ , Ayal Mor , Matt Caito
+Sydney Brayan and Chaffey	1st	Opening Opposition	View Ballot	Nasa TsuchiyaⒸ , Ayal Mor , Matt Caito
+Turan	2nd	Opening Opposition	View Ballot	Kaushiki IshwarⒸ , CHENG ZI YI
+UGM A	1st	Opening Government	View Ballot	Kaushiki IshwarⒸ , CHENG ZI YI
+Imperial one of us is hungover	4th	Closing Government	View Ballot	Kaushiki IshwarⒸ , CHENG ZI YI
+MUST We both abandoned by our worlds pa	3rd	Closing Opposition	View Ballot	Kaushiki IshwarⒸ , CHENG ZI YI
+Belgrade E(vo zore evo zore)	4th	Closing Opposition	View Ballot	Geneva RoyⒸ , Toby Mayhew , Yang Ming Sim
+Dartmouth daddy press	2nd	Opening Opposition	View Ballot	Geneva RoyⒸ , Toby Mayhew , Yang Ming Sim
+NUS Naomi and Cavan	1st	Closing Government	View Ballot	Geneva RoyⒸ , Toby Mayhew , Yang Ming Sim
+Stanford bunties	3rd	Opening Government	View Ballot	Geneva RoyⒸ , Toby Mayhew , Yang Ming Sim
+
+
+team	result	side	adjudicators
+UCLA tourney starts at 11pm	eliminated	Closing Government	Shaurya ChandravanshiⒸ , David Africa , Umar Fazlan
+Sydney Pyrrhic Punters	advancing	Closing Opposition	Shaurya ChandravanshiⒸ , David Africa , Umar Fazlan
+Sydney Kuo and Price	eliminated	Opening Government	Shaurya ChandravanshiⒸ , David Africa , Umar Fazlan
+ANU Hariharan &amp; Druce	advancing	Opening Opposition	Shaurya ChandravanshiⒸ , David Africa , Umar Fazlan
+Cambridge AM	advancing	Opening Opposition	Nasa TsuchiyaⒸ , Imran Ilmam , Petar Zec
+brace yourselves, we too developed	advancing	Opening Government	Nasa TsuchiyaⒸ , Imran Ilmam , Petar Zec
+Sydney Brayan and Chaffey	eliminated	Closing Government	Nasa TsuchiyaⒸ , Imran Ilmam , Petar Zec
+Melbourne B	eliminated	Closing Opposition	Nasa TsuchiyaⒸ , Imran Ilmam , Petar Zec
+Belgrade A	advancing	Closing Opposition	Shudipto AhmedⒸ , Jonathan Tuliao , Oliver Chow
+Oxford B	advancing	Opening Opposition	Shudipto AhmedⒸ , Jonathan Tuliao , Oliver Chow
+throwing a whole bluefin tuna at m	eliminated	Opening Government	Shudipto AhmedⒸ , Jonathan Tuliao , Oliver Chow
+Tokyo A	eliminated	Closing Government	Shudipto AhmedⒸ , Jonathan Tuliao , Oliver Chow
+Sunway had one too many drinks in KLCC	eliminated	Closing Government	Lucia ArceⒸ , Bonfilio Dazzle , Vladimira Suflaj
+NUS Naomi and Cavan	advancing	Opening Opposition	Lucia ArceⒸ , Bonfilio Dazzle , Vladimira Suflaj
+Sydney B	advancing	Opening Government	Lucia ArceⒸ , Bonfilio Dazzle , Vladimira Suflaj
+Sydney (F)ellas	eliminated	Closing Opposition	Lucia ArceⒸ , Bonfilio Dazzle , Vladimira Suflaj
+
+
+team	result	side	adjudicators
+Belgrade A	eliminated	Closing Opposition	Njuguna MachariaⒸ , Ayal Mor , Jack Palmer , Nasa Tsuchiya , Umar Fazlan
+Oxford B	advancing	Opening Opposition	Njuguna MachariaⒸ , Ayal Mor , Jack Palmer , Nasa Tsuchiya , Umar Fazlan
+NUS Naomi and Cavan	eliminated	Closing Government	Njuguna MachariaⒸ , Ayal Mor , Jack Palmer , Nasa Tsuchiya , Umar Fazlan
+Sydney B	advancing	Opening Government	Njuguna MachariaⒸ , Ayal Mor , Jack Palmer , Nasa Tsuchiya , Umar Fazlan
+Cambridge AM	eliminated	Opening Government	Alex McCreadieⒸ , Diego Duarte , Jonathan Tuliao , Ryosei Kobayashi , Shudipto Ahmed
+Sydney Pyrrhic Punters	advancing	Opening Opposition	Alex McCreadieⒸ , Diego Duarte , Jonathan Tuliao , Ryosei Kobayashi , Shudipto Ahmed
+Melbourne B	eliminated	Closing Opposition	Alex McCreadieⒸ , Diego Duarte , Jonathan Tuliao , Ryosei Kobayashi , Shudipto Ahmed
+ANU Hariharan &amp; Druce	advancing	Closing Government	Alex McCreadieⒸ , Diego Duarte , Jonathan Tuliao , Ryosei Kobayashi , Shudipto Ahmed
+
+
+team	result	side	adjudicators
+Oxford B	eliminated	Closing Opposition	David AfricaⒸ , Alex McCreadie , Anna Shreder , Jack Palmer , Nasa Tsuchiya , Njuguna Macharia , Shaurya Chandravanshi
+Sydney Pyrrhic Punters	eliminated	Closing Government	David AfricaⒸ , Alex McCreadie , Anna Shreder , Jack Palmer , Nasa Tsuchiya , Njuguna Macharia , Shaurya Chandravanshi
+Sydney B	advancing	Opening Government	David AfricaⒸ , Alex McCreadie , Anna Shreder , Jack Palmer , Nasa Tsuchiya , Njuguna Macharia , Shaurya Chandravanshi
+ANU Hariharan &amp; Druce	eliminated	Opening Opposition	David AfricaⒸ , Alex McCreadie , Anna Shreder , Jack Palmer , Nasa Tsuchiya , Njuguna Macharia , Shaurya Chandravanshi
+
+
+team	result	side	adjudicators
+Belgrade E(vo zore evo zore)	eliminated	Opening Government	Nikola MichaylovⒸ , Altynay Zamanbekova , Kevin Lee
+HUFS Cheongju boiz	advancing	Closing Government	Nikola MichaylovⒸ , Altynay Zamanbekova , Kevin Lee
+Belgrade TS(C) Bačka Topola	advancing	Opening Opposition	Nikola MichaylovⒸ , Altynay Zamanbekova , Kevin Lee
+UPLB test run pt. 3	eliminated	Closing Opposition	Nikola MichaylovⒸ , Altynay Zamanbekova , Kevin Lee
+HSESP OSCA A	advancing	Opening Opposition	Ayal MorⒸ , Annabelle Mentzines , Vasilije Milačić
+IIT Bombay mahoraga couldn&#x27;t adapt to deez nu	eliminated	Opening Government	Ayal MorⒸ , Annabelle Mentzines , Vasilije Milačić
+Subway &amp; Domino	advancing	Closing Government	Ayal MorⒸ , Annabelle Mentzines , Vasilije Milačić
+Weizmann Dror &amp; Roi	eliminated	Closing Opposition	Ayal MorⒸ , Annabelle Mentzines , Vasilije Milačić
+
+
+team	result	side	adjudicators
+HUFS Cheongju boiz	eliminated	Opening Opposition	Lucia ArceⒸ , David Africa , Kevin Lee , Mia freeland , Oliver Chow
+HSESP OSCA A	advancing	Closing Opposition	Lucia ArceⒸ , David Africa , Kevin Lee , Mia freeland , Oliver Chow
+Belgrade TS(C) Bačka Topola	eliminated	Opening Government	Lucia ArceⒸ , David Africa , Kevin Lee , Mia freeland , Oliver Chow
+Subway &amp; Domino	eliminated	Closing Government	Lucia ArceⒸ , David Africa , Kevin Lee , Mia freeland , Oliver Chow
+
+
+team	result	side	adjudicators
+Debate of Thrones	eliminated	Closing Opposition	Vladimira SuflajⒸ , Abishek Acharya , Arjun Raman , Aymaan Sheikh , Rushdoon Ahmed
+Queensland Big fans of swaggy lee miller	advancing	Opening Opposition	Vladimira SuflajⒸ , Abishek Acharya , Arjun Raman , Aymaan Sheikh , Rushdoon Ahmed
+Harvard m&amp;m	eliminated	Opening Government	Vladimira SuflajⒸ , Abishek Acharya , Arjun Raman , Aymaan Sheikh , Rushdoon Ahmed
+Sydney Ryan and Stone	eliminated	Closing Government	Vladimira SuflajⒸ , Abishek Acharya , Arjun Raman , Aymaan Sheikh , Rushdoon Ahmed
+

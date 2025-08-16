@@ -1,0 +1,1005 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	R6	R7	R8	R9	Pts	Spk	1sts	2nds
+1	Kalavagunta and Lu		1st	1st	1st	1st	2nd	1st	2nd	3rd	1st	23	1489	6	2
+2	Dartmouth A		2nd	1st	1st	2nd	3rd	1st	1st	1st	3rd	21	1473	5	2
+3	McGill RM		1st	2nd	1st	2nd	2nd	2nd	3rd	1st	2nd	20	1468	3	5
+4	Harvard GM		1st	2nd	4th	1st	1st	3rd	1st	2nd	1st	20	1459	5	2
+5	Stanford LS		2nd	1st	2nd	1st	1st	3rd	1st	2nd	4th	19	1472	4	3
+6	Yale NS		1st	1st	2nd	3rd	1st	2nd	4th	1st	2nd	19	1467	4	3
+7	Queen&#x27;s Nimai Abernethy		2nd	2nd	1st	3rd	2nd	1st	3rd	3rd	1st	18	1441	3	3
+8	California girls, we&#x27;re unforgetta		2nd	2nd	3rd	1st	2nd	2nd	1st	4th	1st	18	1434	3	4
+9	Stanford BD		4th	2nd	1st	1st	2nd	2nd	2nd	1st	3rd	18	1415	3	4
+10	Yale ST		2nd	3rd	1st	3rd	1st	1st	2nd	4th	2nd	17	1456	3	3
+11	HH The Last Dance		1st	1st	4th	1st	3rd	3rd	1st	3rd	2nd	17	1448	4	1
+12	Harvard AL		3rd	1st	2nd	3rd	1st	4th	1st	3rd	1st	17	1433	4	1
+13	HH Xi Simping		2nd	2nd	4th	2nd	2nd	3rd	1st	2nd	1st	17	1429	2	5
+14	UBC TB		1st	1st	3rd	2nd	1st	4th	3rd	4th	1st	16	1441	4	1
+15	Columbia C	Novice	3rd	1st	1st	1st	4th	3rd	2nd	2nd	3rd	16	1424	3	2
+16	HWS A	ESL	1st	3rd	2nd	1st	4th	1st	2nd	4th	2nd	16	1419	3	3
+17	MLE Choppa		3rd	1st	3rd	2nd	1st	4th	2nd	1st	3rd	16	1418	3	2
+18	Columbia A		2nd	4th	3rd	1st	2nd	1st	2nd	1st	4th	16	1417	3	3
+19	HH Whose gonna carry the boat?!		1st	2nd	3rd	3rd	3rd	2nd	4th	1st	1st	16	1416	3	2
+20	Paradise City	Novice	1st	3rd	3rd	2nd	4th	2nd	2nd	1st	2nd	16	1407	2	4
+21	Last Hurrah		1st	4th	1st	4th	3rd	3rd	1st	2nd	1st	16	1402	4	1
+22	UWODS A		1st	2nd	1st	4th	1st	4th	1st	4th	3rd	15	1435	4	1
+23	Yale DG		2nd	1st	2nd	4th	2nd	2nd	3rd	3rd	2nd	15	1426	1	5
+24	Stanford QF		1st	3rd	1st	1st	4th	1st	4th	2nd	4th	15	1425	4	1
+25	Harvard HS		1st	3rd	1st	3rd	2nd	2nd	4th	4th	1st	15	1425	3	2
+26	Stanford CT		1st	3rd	2nd	2nd	3rd	3rd	4th	2nd	1st	15	1417	2	3
+27	UCBerkeley HE		2nd	4th	2nd	3rd	1st	2nd	3rd	2nd	2nd	15	1417	1	5
+28	Queen&#x27;s Lily Larkins		3rd	3rd	1st	3rd	1st	4th	1st	1st	4th	15	1397	4	0
+29=	HWS B	Novice	2nd	3rd	3rd	2nd	2nd	1st	4th	2nd	2nd	15	1394	1	5
+29=	Swarthmore A		2nd	3rd	2nd	2nd	2nd	1st	3rd	2nd	4th	15	1394	1	5
+31	TEC CEM Torta de Chilaquil	ESL	3rd	2nd	2nd	3rd	1st	4th	2nd	1st	3rd	15	1389	2	3
+32	UCBerkeley XK	Novice	1st	1st	4th	2nd	3rd	4th	1st	3rd	3rd	14	1425	3	1
+33	Welcome to the Hotel California		2nd	1st	2nd	4th	3rd	1st	4th	4th	1st	14	1404	3	2
+34	EDS A		2nd	2nd	2nd	2nd	4th	2nd	3rd	1st	4th	14	1401	1	5
+35	HH VAMOSSSSSS		2nd	1st	3rd	4th	1st	2nd	4th	2nd	3rd	14	1395	2	3
+36	USC BK		3rd	3rd	3rd	2nd	2nd	1st	3rd	3rd	2nd	14	1393	1	3
+37	USC LD		4th	3rd	2nd	3rd	2nd	1st	1st	4th	2nd	14	1387	2	3
+38	Rochester IN		3rd	2nd	2nd	4th	3rd	3rd	1st	1st	3rd	14	1386	2	2
+39	McGill WA		1st	2nd	3rd	2nd	3rd	3rd	2nd	3rd	4th	13	1414	1	3
+40	McGill LT	Novice	1st	4th	4th	3rd	3rd	3rd	1st	3rd	1st	13	1384	3	0
+41	USC SW	Novice	4th	2nd	4th	1st	1st	4th	2nd	2nd	3rd	13	1375	2	3
+42	Stanford KR		4th	3rd	2nd	1st	4th	2nd	1st	4th	2nd	13	1373	2	3
+43	Stanford AG	Novice	3rd	3rd	3rd	1st	3rd	2nd	3rd	4th	1st	13	1370	2	1
+44	Stanford TY	Novice	1st	4th	3rd	4th	1st	4th	2nd	1st	3rd	13	1366	3	1
+45	UCBerkeley Blue		4th	4th	1st	2nd	3rd	3rd	3rd	1st	2nd	13	1363	2	2
+46	HH $2.4 Million Settlement		2nd	3rd	3rd	1st	4th	4th	4th	1st	2nd	12	1388	2	2
+47	Duke SZ	Novice	3rd	1st	3rd	3rd	4th	4th	2nd	2nd	2nd	12	1378	1	3
+48	Alberta A		3rd	2nd	1st	3rd	3rd	3rd	3rd	3rd	3rd	12	1373	1	1
+49	TMX Azulitos	ESL, Novice	3rd	2nd	4th	2nd	2nd	3rd	3rd	1st	4th	12	1372	1	3
+50	Dartmouth B	Novice	4th	4th	3rd	3rd	1st	1st	3rd	1st	4th	12	1368	3	0
+51	UCBerkeley AD		2nd	4th	1st	1st	4th	3rd	4th	2nd	3rd	12	1368	2	2
+52	Californication	Novice	3rd	2nd	1st	4th	3rd	3rd	4th	3rd	1st	12	1365	2	1
+53	Middlebury SW	ESL, Novice	4th	1st	3rd	4th	4th	4th	2nd	1st	1st	12	1361	3	1
+54	maybe I&#x27;m delusional ☝️ debate is 		3rd	2nd	4th	4th	1st	1st	2nd	3rd	4th	12	1356	2	2
+55	Dartmouth C	Novice	3rd	4th	4th	1st	3rd	2nd	2nd	4th	1st	12	1340	2	2
+56	Yale LM	Novice	3rd	1st	4th	3rd	1st	4th	4th	2nd	3rd	11	1367	2	1
+57	UWODS CL		4th	2nd	2nd	1st	4th	4th	1st	3rd	4th	11	1365	2	2
+58	Middlebury SG	ESL	4th	4th	1st	4th	1st	1st	4th	2nd	4th	11	1361	3	1
+59	Columbia B		4th	4th	2nd	2nd	2nd	1st	4th	3rd	3rd	11	1361	1	3
+60	TEC CEM Quesadillas &lt;3	ESL	2nd	3rd	2nd	4th	4th	2nd	4th	2nd	2nd	11	1354	0	5
+61	TEC CEM Chile Relleno	ESL	4th	1st	4th	1st	4th	4th	4th	2nd	1st	11	1352	3	1
+62	Queen&#x27;s Annika Tucker	Novice	4th	1st	4th	3rd	4th	2nd	1st	4th	2nd	11	1343	2	2
+63	Middlebury SM		3rd	4th	3rd	2nd	1st	2nd	3rd	3rd	4th	11	1342	1	2
+64	/the/ mini eggs !		1st	4th	4th	3rd	3rd	1st	2nd	4th	4th	10	1376	2	1
+65	2 of Amerikaz Most Wanted		2nd	4th	1st	4th	2nd	3rd	2nd	4th	4th	10	1363	1	3
+66	Technocratic communism	ESL	3rd	4th	4th	2nd	2nd	4th	3rd	1st	3rd	10	1350	1	2
+67	SCREEE		4th	1st	4th	4th	4th	1st	3rd	3rd	3rd	9	1349	2	0
+68	PandITAM	ESL, Novice	4th	4th	2nd	1st	3rd	4th	4th	2nd	3rd	9	1331	1	2
+69	TMX Jose y Luis	ESL, Novice	4th	3rd	1st	4th	4th	4th	3rd	3rd	1st	9	1323	2	0
+70	María y Brisa	ESL, Novice	4th	2nd	4th	4th	3rd	2nd	2nd	4th	2nd	9	1317	0	4
+71	Stanford BZ	Novice	4th	3rd	3rd	3rd	2nd	3rd	3rd	3rd	4th	8	1329	0	1
+72	ITESM TOLUCA SS	ESL	4th	3rd	2nd	2nd	4th	2nd	3rd	4th	4th	8	1326	0	3
+73	Red Raider Debaters	Novice	2nd	4th	4th	4th	4th	3rd	1st	4th	3rd	7	1313	1	1
+74	HWS C	Novice	3rd	3rd	3rd	4th	4th	3rd	1st	4th	4th	7	1309	1	0
+75	TEC CEM Tacos de mixiote	ESL, Novice	4th	4th	4th	4th	2nd	1st	4th	3rd	4th	6	1326	1	1
+76	TECTOL-UAEMEX	ESL	3rd	4th	4th	3rd	3rd	4th	4th	4th	2nd	5	1325	0	1
+77=	Swing 1		—	—	—	—	—	—	—	—	—	—	—	0	0
+77=	Swing 2		—	—	—	—	—	—	—	—	—	—	—	0	0
+77=	Swing 3		—	—	—	—	—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	R6	R7	R8	R9	Total	Avg	Stdev
+1	Xiao-ke Lu		Kalavagunta and Lu	84	83	83	82	81	84	84	82	85	748	83.11	1.20
+2	Tejas Subramaniam		Stanford LS	84	81	82	84	82	81	85	83	80	742	82.44	1.57
+3	Rahul Kalavagunta		Kalavagunta and Lu	84	81	83	81	80	83	84	81	84	741	82.33	1.49
+4	Max Rosen		McGill RM	82	82	82	81	81	83	84	82	82	739	82.11	0.87
+5	Ryan Lafferty		Dartmouth A	77	82	84	83	80	83	84	84	81	738	82.00	2.21
+6	Matt Song		Yale NS	85	83	81	80	82	82	82	82	80	737	81.89	1.45
+7	Madeleine Wu		Dartmouth A	78	83	82	82	79	83	84	83	81	735	81.67	1.89
+8=	Maddie Nagle		Yale NS	84	82	80	80	80	82	81	82	79	730	81.11	1.45
+8=	Matt Mauriello		Harvard GM	81	79	78	82	81	82	85	81	81	730	81.11	1.85
+8=	Elizabeth Li	Novice	Stanford LS	83	79	81	82	80	80	84	82	79	730	81.11	1.66
+11=	Naz Soysal	Novice	Yale ST	81	79	80	82	81	83	83	81	79	729	81.00	1.41
+11=	Ananya Ganesh		Harvard GM	80	80	80	81	80	81	85	81	81	729	81.00	1.49
+11=	Sarenna McKellar		McGill RM	81	80	82	80	80	82	82	81	81	729	81.00	0.82
+14=	Teddy Tawil		Yale ST	79	80	80	82	80	83	83	81	79	727	80.78	1.47
+14=	Max Williams		HH The Last Dance	81	83	78	82	80	81	80	81	81	727	80.78	1.31
+16	Nicholas Abernethy		Queen&#x27;s Nimai Abernethy	78	79	81	81	81	80	81	82	83	726	80.67	1.41
+17=	Daniel Svirsky		UWODS A	81	82	82	79	81	79	81	78	78	721	80.11	1.52
+17=	Vidit Desai		HH The Last Dance	80	82	78	81	80	79	81	80	80	721	80.11	1.10
+17=	Catherine Liu		Harvard AL	78	83	82	78	78	81	79	79	83	721	80.11	2.02
+17=	Tina Yong		UBC TB	79	81	79	84	82	78	78	78	82	721	80.11	2.08
+21	Bobo Wong		UBC TB	79	81	78	83	81	79	79	78	82	720	80.00	1.70
+22	Belle Ho		California girls, we&#x27;re unforgetta	80	80	82	78	80	81	79	78	81	719	79.89	1.29
+23	Tanya Chatterjee	Novice	Columbia C	78	79	78	84	79	78	80	82	79	717	79.67	1.94
+24=	Adam Banihani		HH Xi Simping	79	80	77	79	79	81	80	80	80	715	79.44	1.07
+24=	Edward Xu	Novice	UCBerkeley XK	81	79	79	82	76	77	81	80	80	715	79.44	1.83
+24=	Thej Mallu		California girls, we&#x27;re unforgetta	80	81	80	77	80	81	79	76	81	715	79.44	1.71
+24=	Nimai Koneru		Queen&#x27;s Nimai Abernethy	78	77	80	80	79	80	80	80	81	715	79.44	1.17
+28=	Sherry Shu		UWODS A	80	81	81	78	80	79	80	77	78	714	79.33	1.33
+28=	Arpi Yang		HH Xi Simping	80	80	75	79	80	82	79	79	80	714	79.33	1.76
+30=	Maia Decker		Yale DG	77	82	81	81	80	80	78	77	77	713	79.22	1.87
+30=	Ryan Gumlia	Novice	Yale DG	77	82	81	80	80	80	78	77	78	713	79.22	1.69
+30=	Daniel Sheremeta		Harvard HS	78	78	82	81	79	82	77	76	80	713	79.22	2.04
+30=	Tori Qiu		Stanford QF	81	80	77	82	77	81	78	81	76	713	79.22	2.10
+34=	Nir Amin		Harvard AL	77	83	81	79	77	78	78	77	82	712	79.11	2.18
+34=	Jenna Hong		Harvard HS	78	79	82	81	78	82	76	77	79	712	79.11	2.02
+34=	Sajid Farook		Stanford QF	80	79	77	82	77	83	77	81	76	712	79.11	2.38
+37=	Mukudzeiishe Madzivire	Novice	Columbia A	80	77	76	78	79	79	80	83	79	711	79.00	1.89
+37=	Nilabh Agrawal		MLE Choppa	80	80	79	77	80	77	78	81	79	711	79.00	1.33
+37=	Ryan Ham		UCBerkeley HE	82	77	77	79	79	76	79	81	81	711	79.00	1.94
+40=	Emily Shi		HH Whose gonna carry the boat?!	77	82	81	77	80	78	77	79	79	710	78.89	1.73
+40=	Lamia Nur Rahman	ESL	HWS A	81	78	77	78	77	82	78	81	78	710	78.89	1.79
+40=	Shayor Khan	Novice	UCBerkeley XK	80	78	79	79	76	78	82	79	79	710	78.89	1.52
+43=	Sandeep Tissaaratchy	ESL	HWS A	80	77	76	79	78	81	79	80	79	709	78.78	1.47
+43=	Amy Chang		Stanford CT	80	81	80	76	78	81	76	79	78	709	78.78	1.81
+45=	Claire Beamer		Stanford BD	75	77	78	79	77	79	80	84	79	708	78.67	2.36
+45=	Benjamin Thomas		Stanford CT	80	80	79	78	78	80	76	79	78	708	78.67	1.25
+47=	Rohan Sundaram	Novice	Columbia C	76	77	77	84	78	78	78	81	78	707	78.56	2.31
+47=	Anders Cairns Woodruff		McGill WA	76	78	80	80	78	79	81	79	76	707	78.56	1.64
+47=	Humam Aziz		McGill WA	78	78	79	80	78	80	81	78	75	707	78.56	1.64
+47=	Muhammad Dhafer		Stanford BD	77	77	77	80	76	80	78	83	79	707	78.56	2.06
+47=	Emily Chen		MLE Choppa	79	81	79	77	79	76	78	80	78	707	78.56	1.42
+47=	Will Ryan	Novice	Paradise City	82	78	76	79	77	79	78	78	80	707	78.56	1.64
+47=	Anais Kneppers		EDS A	78	79	78	81	77	83	77	77	77	707	78.56	2.01
+54=	Benjamin Scherzer		Columbia A	79	75	77	77	80	78	80	82	78	706	78.44	1.95
+54=	Crystal Zhang	Novice	HH Whose gonna carry the boat?!	78	81	80	76	79	78	77	80	77	706	78.44	1.57
+54=	David Eick		UCBerkeley HE	81	76	77	78	79	76	78	81	80	706	78.44	1.83
+57	Lily Mckay		Queen&#x27;s Lily Larkins	79	76	73	79	81	78	79	83	77	705	78.33	2.71
+58	Ellena Kim		Welcome to the Hotel California	77	79	78	79	76	84	78	74	78	703	78.11	2.56
+59	Dilys Wang		Last Hurrah	79	78	79	79	79	77	77	76	78	702	78.00	1.05
+60	Mert Turna	Novice, ESL	Welcome to the Hotel California	76	81	79	78	76	83	77	74	77	701	77.89	2.60
+61=	Manon Fuchs		Last Hurrah	78	78	79	80	77	76	77	76	79	700	77.78	1.31
+61=	Richard Colgrove	Novice	Paradise City	79	76	76	78	76	78	80	77	80	700	77.78	1.55
+63	Marilyn Ben		USC BK	78	79	75	77	79	78	79	76	78	699	77.67	1.33
+64=	Cam Miranda-Radbord		HH VAMOSSSSSS	80	80	77	76	81	77	76	76	75	698	77.56	2.06
+64=	Fairooj Suhita	Novice, ESL	HWS B	78	76	77	78	78	77	75	81	78	698	77.56	1.57
+64=	Adithi Attada		Swarthmore A	78	78	75	76	79	78	77	80	77	698	77.56	1.42
+67=	Brandon Zi Mo Zhang		HH VAMOSSSSSS	79	78	77	76	81	76	77	76	77	697	77.44	1.57
+67=	Manolo Vázquez	ESL	TEC CEM Torta de Chilaquil	75	81	75	76	79	74	78	81	78	697	77.44	2.45
+69=	Hudson Chou	Novice	HWS B	77	77	77	79	78	77	74	79	78	696	77.33	1.41
+69=	Bohou Zhang	Novice	Swarthmore A	78	77	76	75	79	78	76	80	77	696	77.33	1.49
+71=	Harshitha Dasari		USC LD	77	77	77	76	74	79	80	78	77	695	77.22	1.62
+71=	Simon Yu		HH $2.4 Million Settlement	80	77	74	82	75	77	75	77	78	695	77.22	2.39
+71=	Stine Isak		Rochester IN	77	78	80	75	77	73	79	79	77	695	77.22	2.04
+74=	Hugo Kittell		USC BK	77	78	74	78	78	76	80	75	78	694	77.11	1.73
+74=	Fiona Gervin		/the/ mini eggs !	79	79	80	76	74	78	76	78	74	694	77.11	2.08
+74=	Pedro Proano	ESL	EDS A	76	75	75	81	77	82	76	76	76	694	77.11	2.42
+77=	Anna Liu		USC LD	77	76	76	76	75	79	79	77	77	692	76.89	1.29
+77=	Bridget Li	Novice	McGill LT	82	78	72	74	76	77	77	76	80	692	76.89	2.81
+77=	Vijay Tupper	Novice	McGill LT	80	78	73	73	75	77	78	77	81	692	76.89	2.64
+77=	James Larkins		Queen&#x27;s Lily Larkins	76	76	73	76	80	78	78	80	75	692	76.89	2.18
+77=	Lino Mialma	ESL	TEC CEM Torta de Chilaquil	74	79	75	75	79	75	78	80	77	692	76.89	2.08
+82	Charles Ndlovu	ESL	Rochester IN	76	78	79	75	77	72	79	78	77	691	76.78	2.10
+83=	Emily Zou	Novice	Duke SZ	79	79	75	73	76	75	76	79	78	690	76.67	2.05
+83=	Ayuki Ichikawa		UCBerkeley AD	80	74	77	78	78	75	76	77	75	690	76.67	1.76
+85=	Abhimanyu Wadhwa	Novice	USC SW	76	78	73	77	77	81	75	77	75	689	76.56	2.11
+85=	Joseph Kim		Stanford KR	77	73	77	79	77	76	77	76	77	689	76.56	1.50
+87	Will Schmeltz	Novice	Duke SZ	78	78	74	75	76	75	75	79	78	688	76.44	1.71
+88=	Adrian Wattamaniuk		Alberta A	76	78	76	79	78	76	75	74	75	687	76.33	1.56
+88=	Isabel Padrón	Novice, ESL	TMX Azulitos	75	74	78	77	76	75	74	80	78	687	76.33	1.94
+90=	Tommy Shu	Novice	USC SW	75	77	74	77	77	81	75	75	75	686	76.22	1.99
+90=	Natalie Keim	Novice	Dartmouth B	74	76	75	73	81	79	74	78	76	686	76.22	2.48
+90=	Annmaria Antony	Novice	Stanford AG	78	71	75	78	76	79	77	75	77	686	76.22	2.25
+90=	Ivan Toh	Novice	Stanford TY	79	74	73	77	76	76	77	80	74	686	76.22	2.20
+90=	Eyasu Yakob		Alberta A	76	78	75	78	78	76	75	74	76	686	76.22	1.40
+90=	Hunter Valencia		UCBerkeley Blue	75	75	77	77	76	76	75	78	77	686	76.22	1.03
+90=	Alba Borrego Pablos	Novice	Californication	75	74	77	78	78	79	71	77	77	686	76.22	2.35
+97=	Andrew Liu	Novice	UWODS CL	72	78	76	80	75	75	77	79	73	685	76.11	2.51
+97=	Jonathan Lim	Novice	Yale LM	76	79	74	79	79	73	75	75	75	685	76.11	2.18
+97=	Pablo Pérez	Novice, ESL	TMX Azulitos	73	75	78	76	76	75	75	80	77	685	76.11	1.91
+100=	Sehrish Gohar	Novice	Stanford AG	77	71	75	78	76	79	77	74	77	684	76.00	2.26
+100=	Ricky Rojas		Stanford KR	76	73	75	78	77	76	77	76	76	684	76.00	1.33
+102	Shayiq Shah	ESL	Middlebury SG	72	74	78	75	78	78	76	78	74	683	75.89	2.13
+103=	Aaron Mesa	Novice	Yale LM	76	79	74	77	79	72	73	76	76	682	75.78	2.30
+103=	Ayush Ajmani	Novice	Dartmouth B	74	75	75	72	81	79	74	78	74	682	75.78	2.74
+103=	Kyla Silva	Novice	/the/ mini eggs !	78	77	78	76	75	75	76	76	71	682	75.78	1.99
+103=	Jack Thompson		2 of Amerikaz Most Wanted	75	79	79	72	78	77	76	73	73	682	75.78	2.53
+103=	Jasmine Leung		maybe I&#x27;m delusional ☝️ debate is 	76	78	75	73	78	75	78	75	74	682	75.78	1.75
+108=	Brock Walker	Novice	Columbia B	74	75	76	75	77	79	76	74	75	681	75.67	1.49
+108=	Tajvir Singh		2 of Amerikaz Most Wanted	75	79	78	73	77	76	76	74	73	681	75.67	2.00
+108=	Aria Saines	Novice, ESL	Middlebury SW	75	78	71	76	73	75	75	78	80	681	75.67	2.58
+111=	Kyla Coutts		UWODS CL	72	78	75	80	75	74	76	77	73	680	75.56	2.36
+111=	Varun Mandgi		Columbia B	74	75	75	75	77	80	77	73	74	680	75.56	2.01
+111=	Hong Meng Yam	Novice	Stanford TY	78	73	73	75	76	74	77	80	74	680	75.56	2.27
+111=	Fenya Walter	Novice, ESL	Middlebury SW	74	79	73	76	73	76	74	76	79	680	75.56	2.17
+115	Clarissa Zuo	Novice	Californication	74	74	76	77	78	78	70	76	76	679	75.44	2.36
+116=	Divit Chopra	Novice	UCBerkeley AD	78	74	76	76	78	74	73	74	75	678	75.33	1.70
+116=	Zuzanna Godzinska	Novice, ESL	Middlebury SG	73	75	76	74	77	76	76	78	73	678	75.33	1.63
+118=	Kember Feuerzeig		UCBerkeley Blue	72	74	76	76	76	75	74	78	76	677	75.22	1.62
+118=	Annika Frankiss	Novice	Queen&#x27;s Annika Tucker	75	78	68	77	75	75	78	76	75	677	75.22	2.82
+118=	Mauricio San Román	ESL	TEC CEM Quesadillas &lt;3	78	77	74	75	74	75	73	74	77	677	75.22	1.62
+118=	Aranza Jazmin Valadez Garcia	ESL	TEC CEM Quesadillas &lt;3	79	78	75	74	73	73	74	73	78	677	75.22	2.30
+122=	Khylan Stubblefield		SCREEE	77	78	75	73	74	76	76	73	74	676	75.11	1.66
+122=	Daniel Mimila	ESL	Technocratic communism	77	74	74	76	74	74	75	76	76	676	75.11	1.10
+124=	Danté Fosterdelmundo		maybe I&#x27;m delusional ☝️ debate is 	74	77	74	73	78	75	76	75	72	674	74.89	1.79
+124=	Isaac Palatto	Novice, ESL	Technocratic communism	78	73	73	75	75	75	75	75	75	674	74.89	1.37
+126=	Rose West	Novice	SCREEE	77	77	74	73	72	76	77	73	74	673	74.78	1.87
+126=	Aidan Scible		Middlebury SM	78	69	74	72	77	76	77	77	73	673	74.78	2.82
+126=	Esteban Valle	ESL	TEC CEM Chile Relleno	77	80	71	79	72	70	76	73	75	673	74.78	3.33
+129	Aryanna Ram	Novice	Dartmouth C	74	69	73	76	74	78	78	72	78	672	74.67	2.94
+130	Germán Soto Camacho	ESL	ITESM TOLUCA SS	75	76	70	77	71	76	76	75	74	670	74.44	2.27
+131=	Cano Rivera	Novice, ESL	PandITAM	76	74	76	74	74	74	74	76	71	669	74.33	1.49
+131=	Isaac Mays-Smith		Middlebury SM	77	68	74	72	76	75	77	76	74	669	74.33	2.71
+133	Nushba Tajreen	Novice, ESL	Dartmouth C	72	67	74	76	74	77	78	72	78	668	74.22	3.36
+134	Daniela Ilean Recendiz	Novice, ESL	TEC CEM Tacos de mixiote	71	74	72	74	78	78	74	76	70	667	74.11	2.69
+135	Olivia Tucker	Novice	Queen&#x27;s Annika Tucker	74	76	67	75	74	76	76	73	75	666	74.00	2.67
+136	Joshua Bahk	Novice	Stanford BZ	73	78	73	72	75	76	75	74	69	665	73.89	2.42
+137=	Alina Zhang	Novice	Stanford BZ	74	77	75	71	75	75	75	73	69	664	73.78	2.30
+137=	Leonardo Jared Pichardo Monroy	ESL	TECTOL-UAEMEX	75	76	73	74	75	75	73	72	71	664	73.78	1.55
+139	Nadia Paola Caldiño García	Novice, ESL	PandITAM	74	72	77	72	72	73	73	77	72	662	73.56	1.95
+140=	Brisa	Novice, ESL	María y Brisa	76	76	67	71	74	77	76	72	72	661	73.44	3.06
+140=	Jose Luis Ortega Castro	Novice, ESL	TMX Jose y Luis	73	74	79	73	72	71	74	73	72	661	73.44	2.17
+142	Gabriel Rodriguez	Novice, ESL	TEC CEM Tacos de mixiote	70	70	71	74	77	77	74	76	70	659	73.22	2.86
+143	Simarjot Singh	Novice	Red Raider Debaters	76	75	69	70	71	77	74	74	71	657	73.00	2.67
+144=	María Covian Sabaté	Novice, ESL	María y Brisa	74	76	66	72	74	76	75	71	72	656	72.89	2.96
+144=	Christian Burgos	Novice	Red Raider Debaters	77	75	69	68	72	75	76	73	71	656	72.89	2.96
+146	Leo Bonacci	Novice	HWS C	74	74	67	73	74	72	76	71	71	652	72.44	2.45
+147	Luis Marcos Villareal	ESL	TEC CEM Chile Relleno	76	82	73	78	72	72	76	75	—	604	75.50	3.16
+148	David Zu		HH $2.4 Million Settlement	—	—	75	81	76	78	75	76	77	538	76.86	1.96
+149	Taco	Novice, ESL	TMX Jose y Luis	72	75	79	—	—	70	74	74	74	518	74.00	2.56
+150	Jacob Franchi	Novice	HWS C	76	74	67	74	75	73	77	—	—	516	73.71	3.01
+151	Pamela Sánchez Fernández	ESL	ITESM TOLUCA SS	73	75	66	75	69	—	—	73	73	504	72.00	3.07
+152	Victor Patricio Martínez Salgado	Novice, ESL	TECTOL-UAEMEX	—	—	—	75	75	75	—	72	72	369	73.80	1.47
+153=	Speaker 1		Swing 1	—	—	—	—	—	—	—	—	—	—	—	—
+153=	Speaker 2		Swing 1	—	—	—	—	—	—	—	—	—	—	—	—
+153=	Speaker 1		Swing 2	—	—	—	—	—	—	—	—	—	—	—	—
+153=	Speaker 2		Swing 2	—	—	—	—	—	—	—	—	—	—	—	—
+153=	Speaker 1		Swing 3	—	—	—	—	—	—	—	—	—	—	—	—
+153=	Speaker 2		Swing 3	—	—	—	—	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+2 of Amerikaz Most Wanted	2nd	Opening Government	View Ballot	Anette XiaⒸ , Kira Waldhalm
+Dartmouth C	3rd	Opening Opposition	View Ballot	Anette XiaⒸ , Kira Waldhalm
+McGill WA	1st	Closing Government	View Ballot	Anette XiaⒸ , Kira Waldhalm
+TEC CEM Tacos de mixiote	4th	Closing Opposition	View Ballot	Anette XiaⒸ , Kira Waldhalm
+Harvard GM	1st	Opening Government	View Ballot	Elgin LinⒸ , Sabás Alejandro Colmenares Lasnibat
+Duke SZ	3rd	Opening Opposition	View Ballot	Elgin LinⒸ , Sabás Alejandro Colmenares Lasnibat
+California girls, we&#x27;re unforgetta	2nd	Closing Government	View Ballot	Elgin LinⒸ , Sabás Alejandro Colmenares Lasnibat
+USC LD	4th	Closing Opposition	View Ballot	Elgin LinⒸ , Sabás Alejandro Colmenares Lasnibat
+TEC CEM Quesadillas &lt;3	2nd	Opening Government	View Ballot	Lelan HuⒸ , Pranav Anand , Nathaniel TesfayeⓉ
+McGill LT	1st	Opening Opposition	View Ballot	Lelan HuⒸ , Pranav Anand , Nathaniel TesfayeⓉ
+UCBerkeley Blue	4th	Closing Government	View Ballot	Lelan HuⒸ , Pranav Anand , Nathaniel TesfayeⓉ
+Middlebury SM	3rd	Closing Opposition	View Ballot	Lelan HuⒸ , Pranav Anand , Nathaniel TesfayeⓉ
+Swarthmore A	2nd	Opening Government	View Ballot	Greg KwokⒸ , Stephanie Chen , William Chen
+Technocratic communism	3rd	Opening Opposition	View Ballot	Greg KwokⒸ , Stephanie Chen , William Chen
+María y Brisa	4th	Closing Government	View Ballot	Greg KwokⒸ , Stephanie Chen , William Chen
+UWODS A	1st	Closing Opposition	View Ballot	Greg KwokⒸ , Stephanie Chen , William Chen
+HWS B	2nd	Opening Government	View Ballot	Serena YuanⒸ , Ann Tran , Brian Conde MartinezⓉ
+Columbia C	3rd	Opening Opposition	View Ballot	Serena YuanⒸ , Ann Tran , Brian Conde MartinezⓉ
+Stanford CT	1st	Closing Government	View Ballot	Serena YuanⒸ , Ann Tran , Brian Conde MartinezⓉ
+USC SW	4th	Closing Opposition	View Ballot	Serena YuanⒸ , Ann Tran , Brian Conde MartinezⓉ
+Yale DG	2nd	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Jasmine Goncalves Piment , Kenn Jiang
+HH Whose gonna carry the boat?!	1st	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Jasmine Goncalves Piment , Kenn Jiang
+Stanford BZ	4th	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Jasmine Goncalves Piment , Kenn Jiang
+Rochester IN	3rd	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Jasmine Goncalves Piment , Kenn Jiang
+TMX Azulitos	3rd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Molly Callaghan , Muhammad Asfandyar
+UBC TB	1st	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Molly Callaghan , Muhammad Asfandyar
+TMX Jose y Luis	4th	Closing Government	View Ballot	Tanvir ShahriarⒸ , Molly Callaghan , Muhammad Asfandyar
+Welcome to the Hotel California	2nd	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Molly Callaghan , Muhammad Asfandyar
+Yale ST	2nd	Opening Government	View Ballot	Arturo Serrano BorreroⒸ , Manuel Machorro
+HH The Last Dance	1st	Opening Opposition	View Ballot	Arturo Serrano BorreroⒸ , Manuel Machorro
+Stanford KR	4th	Closing Government	View Ballot	Arturo Serrano BorreroⒸ , Manuel Machorro
+Queen&#x27;s Lily Larkins	3rd	Closing Opposition	View Ballot	Arturo Serrano BorreroⒸ , Manuel Machorro
+Stanford QF	1st	Opening Government	View Ballot	Audrey MelodyⒸ , Hayley Cheung , James LewisⓉ
+maybe I&#x27;m delusional ☝️ debate is 	3rd	Opening Opposition	View Ballot	Audrey MelodyⒸ , Hayley Cheung , James LewisⓉ
+HH Xi Simping	2nd	Closing Government	View Ballot	Audrey MelodyⒸ , Hayley Cheung , James LewisⓉ
+ITESM TOLUCA SS	4th	Closing Opposition	View Ballot	Audrey MelodyⒸ , Hayley Cheung , James LewisⓉ
+HWS C	3rd	Opening Government	View Ballot	Isolda VelaⒸ , Casey Powell
+Queen&#x27;s Annika Tucker	4th	Opening Opposition	View Ballot	Isolda VelaⒸ , Casey Powell
+Paradise City	1st	Closing Government	View Ballot	Isolda VelaⒸ , Casey Powell
+HH VAMOSSSSSS	2nd	Closing Opposition	View Ballot	Isolda VelaⒸ , Casey Powell
+Stanford BD	4th	Opening Government	View Ballot	Ken TieuⒸ , Jorge Alberto Galindo Jasso , Preethi Mohan
+HH $2.4 Million Settlement	2nd	Opening Opposition	View Ballot	Ken TieuⒸ , Jorge Alberto Galindo Jasso , Preethi Mohan
+Harvard AL	3rd	Closing Government	View Ballot	Ken TieuⒸ , Jorge Alberto Galindo Jasso , Preethi Mohan
+HWS A	1st	Closing Opposition	View Ballot	Ken TieuⒸ , Jorge Alberto Galindo Jasso , Preethi Mohan
+Alberta A	3rd	Opening Government	View Ballot	Fernanda Crousillat RayterⒸ , Nitin Alagu , Eric Guadarrama CruzⓉ
+UCBerkeley AD	2nd	Opening Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Nitin Alagu , Eric Guadarrama CruzⓉ
+PandITAM	4th	Closing Government	View Ballot	Fernanda Crousillat RayterⒸ , Nitin Alagu , Eric Guadarrama CruzⓉ
+McGill RM	1st	Closing Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Nitin Alagu , Eric Guadarrama CruzⓉ
+USC BK	3rd	Opening Government	View Ballot	Felix LeonhardtⒸ , Arturo Aubry , Gianluca Lo Porto
+UCBerkeley XK	1st	Opening Opposition	View Ballot	Felix LeonhardtⒸ , Arturo Aubry , Gianluca Lo Porto
+Columbia A	2nd	Closing Government	View Ballot	Felix LeonhardtⒸ , Arturo Aubry , Gianluca Lo Porto
+TEC CEM Chile Relleno	4th	Closing Opposition	View Ballot	Felix LeonhardtⒸ , Arturo Aubry , Gianluca Lo Porto
+Yale LM	3rd	Opening Government	View Ballot	Juanita Hincapié RestrepoⒸ , Emily Zhang , Regina Delgado AcevedoⓉ
+Last Hurrah	1st	Opening Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Emily Zhang , Regina Delgado AcevedoⓉ
+Middlebury SW	4th	Closing Government	View Ballot	Juanita Hincapié RestrepoⒸ , Emily Zhang , Regina Delgado AcevedoⓉ
+EDS A	2nd	Closing Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Emily Zhang , Regina Delgado AcevedoⓉ
+Californication	3rd	Opening Government	View Ballot	Daksha PillaiⒸ , Meg Kandarpa , Jack MorgensteinⓉ
+Dartmouth A	2nd	Opening Opposition	View Ballot	Daksha PillaiⒸ , Meg Kandarpa , Jack MorgensteinⓉ
+Dartmouth B	4th	Closing Government	View Ballot	Daksha PillaiⒸ , Meg Kandarpa , Jack MorgensteinⓉ
+Harvard HS	1st	Closing Opposition	View Ballot	Daksha PillaiⒸ , Meg Kandarpa , Jack MorgensteinⓉ
+Queen&#x27;s Nimai Abernethy	2nd	Opening Government	View Ballot	Rohan GodaⒸ , Silin Wei , Vallerya Acuna
+Stanford TY	1st	Opening Opposition	View Ballot	Rohan GodaⒸ , Silin Wei , Vallerya Acuna
+SCREEE	4th	Closing Government	View Ballot	Rohan GodaⒸ , Silin Wei , Vallerya Acuna
+Stanford AG	3rd	Closing Opposition	View Ballot	Rohan GodaⒸ , Silin Wei , Vallerya Acuna
+TEC CEM Torta de Chilaquil	3rd	Opening Government	View Ballot	Varun LodayaⒸ , Justin Wu
+UWODS CL	4th	Opening Opposition	View Ballot	Varun LodayaⒸ , Justin Wu
+Stanford LS	2nd	Closing Government	View Ballot	Varun LodayaⒸ , Justin Wu
+Kalavagunta and Lu	1st	Closing Opposition	View Ballot	Varun LodayaⒸ , Justin Wu
+TECTOL-UAEMEX	3rd	Opening Government	View Ballot	Eric TuⒸ , Celine Nghiem , Vanessa Arroyo
+Red Raider Debaters	2nd	Opening Opposition	View Ballot	Eric TuⒸ , Celine Nghiem , Vanessa Arroyo
+Columbia B	4th	Closing Government	View Ballot	Eric TuⒸ , Celine Nghiem , Vanessa Arroyo
+/the/ mini eggs !	1st	Closing Opposition	View Ballot	Eric TuⒸ , Celine Nghiem , Vanessa Arroyo
+Yale NS	1st	Opening Government	View Ballot	William ZhangⒸ , Andy Yescas , Cayden Pocrass
+Middlebury SG	4th	Opening Opposition	View Ballot	William ZhangⒸ , Andy Yescas , Cayden Pocrass
+MLE Choppa	3rd	Closing Government	View Ballot	William ZhangⒸ , Andy Yescas , Cayden Pocrass
+UCBerkeley HE	2nd	Closing Opposition	View Ballot	William ZhangⒸ , Andy Yescas , Cayden Pocrass
+
+
+team	result	side	ballot	adjudicators
+Red Raider Debaters	4th	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Preethi Mohan , Eric Guadarrama CruzⓉ
+HH VAMOSSSSSS	1st	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Preethi Mohan , Eric Guadarrama CruzⓉ
+Alberta A	2nd	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Preethi Mohan , Eric Guadarrama CruzⓉ
+TEC CEM Quesadillas &lt;3	3rd	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Preethi Mohan , Eric Guadarrama CruzⓉ
+Rochester IN	2nd	Opening Government	View Ballot	Eric TuⒸ , Arturo Aubry , Vanessa Arroyo
+UCBerkeley Blue	4th	Opening Opposition	View Ballot	Eric TuⒸ , Arturo Aubry , Vanessa Arroyo
+Queen&#x27;s Lily Larkins	3rd	Closing Government	View Ballot	Eric TuⒸ , Arturo Aubry , Vanessa Arroyo
+Harvard AL	1st	Closing Opposition	View Ballot	Eric TuⒸ , Arturo Aubry , Vanessa Arroyo
+McGill RM	2nd	Opening Government	View Ballot	Juanita Hincapié RestrepoⒸ , Casey Powell , Emily Zhang
+/the/ mini eggs !	4th	Opening Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Casey Powell , Emily Zhang
+Stanford QF	3rd	Closing Government	View Ballot	Juanita Hincapié RestrepoⒸ , Casey Powell , Emily Zhang
+HH The Last Dance	1st	Closing Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Casey Powell , Emily Zhang
+Stanford AG	3rd	Opening Government	View Ballot	Varun LodayaⒸ , Celine Nghiem , Kenn JiangⓉ
+Californication	2nd	Opening Opposition	View Ballot	Varun LodayaⒸ , Celine Nghiem , Kenn JiangⓉ
+Yale LM	1st	Closing Government	View Ballot	Varun LodayaⒸ , Celine Nghiem , Kenn JiangⓉ
+Dartmouth C	4th	Closing Opposition	View Ballot	Varun LodayaⒸ , Celine Nghiem , Kenn JiangⓉ
+EDS A	2nd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Ann Tran , Silin Wei , Nathaniel TesfayeⓉ
+HWS B	3rd	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Ann Tran , Silin Wei , Nathaniel TesfayeⓉ
+Welcome to the Hotel California	1st	Closing Government	View Ballot	Tanvir ShahriarⒸ , Ann Tran , Silin Wei , Nathaniel TesfayeⓉ
+UCBerkeley AD	4th	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Ann Tran , Silin Wei , Nathaniel TesfayeⓉ
+maybe I&#x27;m delusional ☝️ debate is 	2nd	Opening Government	View Ballot	Lelan HuⒸ , Kira Waldhalm , Sabás Alejandro Colmenares Lasnibat
+HWS C	3rd	Opening Opposition	View Ballot	Lelan HuⒸ , Kira Waldhalm , Sabás Alejandro Colmenares Lasnibat
+Technocratic communism	4th	Closing Government	View Ballot	Lelan HuⒸ , Kira Waldhalm , Sabás Alejandro Colmenares Lasnibat
+Duke SZ	1st	Closing Opposition	View Ballot	Lelan HuⒸ , Kira Waldhalm , Sabás Alejandro Colmenares Lasnibat
+TMX Jose y Luis	3rd	Opening Government	View Ballot	Molly CallaghanⒸ , Jorge Alberto Galindo Jasso , Jasmine Goncalves PimentⓉ
+USC SW	2nd	Opening Opposition	View Ballot	Molly CallaghanⒸ , Jorge Alberto Galindo Jasso , Jasmine Goncalves PimentⓉ
+TEC CEM Tacos de mixiote	4th	Closing Government	View Ballot	Molly CallaghanⒸ , Jorge Alberto Galindo Jasso , Jasmine Goncalves PimentⓉ
+Middlebury SW	1st	Closing Opposition	View Ballot	Molly CallaghanⒸ , Jorge Alberto Galindo Jasso , Jasmine Goncalves PimentⓉ
+McGill WA	2nd	Opening Government	View Ballot	Meg KandarpaⒸ , Natalia García , Brian Conde MartinezⓉ
+Paradise City	3rd	Opening Opposition	View Ballot	Meg KandarpaⒸ , Natalia García , Brian Conde MartinezⓉ
+UCBerkeley XK	1st	Closing Government	View Ballot	Meg KandarpaⒸ , Natalia García , Brian Conde MartinezⓉ
+Columbia A	4th	Closing Opposition	View Ballot	Meg KandarpaⒸ , Natalia García , Brian Conde MartinezⓉ
+HH $2.4 Million Settlement	3rd	Opening Government	View Ballot	Manuel MachorroⒸ , Audrey Melody , Muhammad AsfandyarⓉ
+Stanford LS	1st	Opening Opposition	View Ballot	Manuel MachorroⒸ , Audrey Melody , Muhammad AsfandyarⓉ
+TECTOL-UAEMEX	4th	Closing Government	View Ballot	Manuel MachorroⒸ , Audrey Melody , Muhammad AsfandyarⓉ
+Queen&#x27;s Nimai Abernethy	2nd	Closing Opposition	View Ballot	Manuel MachorroⒸ , Audrey Melody , Muhammad AsfandyarⓉ
+Last Hurrah	4th	Opening Government	View Ballot	Serena YuanⒸ , Hayley Cheung , Regina Delgado AcevedoⓉ
+Harvard HS	3rd	Opening Opposition	View Ballot	Serena YuanⒸ , Hayley Cheung , Regina Delgado AcevedoⓉ
+UBC TB	1st	Closing Government	View Ballot	Serena YuanⒸ , Hayley Cheung , Regina Delgado AcevedoⓉ
+Harvard GM	2nd	Closing Opposition	View Ballot	Serena YuanⒸ , Hayley Cheung , Regina Delgado AcevedoⓉ
+PandITAM	4th	Opening Government	View Ballot	Justin WuⒸ , Andy Yescas , Vallerya Acuna
+María y Brisa	2nd	Opening Opposition	View Ballot	Justin WuⒸ , Andy Yescas , Vallerya Acuna
+ITESM TOLUCA SS	3rd	Closing Government	View Ballot	Justin WuⒸ , Andy Yescas , Vallerya Acuna
+Queen&#x27;s Annika Tucker	1st	Closing Opposition	View Ballot	Justin WuⒸ , Andy Yescas , Vallerya Acuna
+UWODS CL	2nd	Opening Government	View Ballot	Arturo Serrano BorreroⒸ , Felix Leonhardt
+TEC CEM Chile Relleno	1st	Opening Opposition	View Ballot	Arturo Serrano BorreroⒸ , Felix Leonhardt
+Middlebury SG	4th	Closing Government	View Ballot	Arturo Serrano BorreroⒸ , Felix Leonhardt
+Stanford BZ	3rd	Closing Opposition	View Ballot	Arturo Serrano BorreroⒸ , Felix Leonhardt
+California girls, we&#x27;re unforgetta	2nd	Opening Government	View Ballot	Isolda VelaⒸ , Daksha Pillai
+Yale ST	3rd	Opening Opposition	View Ballot	Isolda VelaⒸ , Daksha Pillai
+Yale DG	1st	Closing Government	View Ballot	Isolda VelaⒸ , Daksha Pillai
+2 of Amerikaz Most Wanted	4th	Closing Opposition	View Ballot	Isolda VelaⒸ , Daksha Pillai
+UCBerkeley HE	4th	Opening Government	View Ballot	Fernanda Crousillat RayterⒸ , Greg Kwok
+HH Xi Simping	2nd	Opening Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Greg Kwok
+Swarthmore A	3rd	Closing Government	View Ballot	Fernanda Crousillat RayterⒸ , Greg Kwok
+Dartmouth A	1st	Closing Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Greg Kwok
+Columbia B	4th	Opening Government	View Ballot	William ZhangⒸ , William Chen
+Stanford BD	2nd	Opening Opposition	View Ballot	William ZhangⒸ , William Chen
+USC LD	3rd	Closing Government	View Ballot	William ZhangⒸ , William Chen
+SCREEE	1st	Closing Opposition	View Ballot	William ZhangⒸ , William Chen
+UWODS A	2nd	Opening Government	View Ballot	Elgin LinⒸ , Jack Morgenstein , Nitin Alagu
+Yale NS	1st	Opening Opposition	View Ballot	Elgin LinⒸ , Jack Morgenstein , Nitin Alagu
+HWS A	3rd	Closing Government	View Ballot	Elgin LinⒸ , Jack Morgenstein , Nitin Alagu
+Stanford TY	4th	Closing Opposition	View Ballot	Elgin LinⒸ , Jack Morgenstein , Nitin Alagu
+HH Whose gonna carry the boat?!	2nd	Opening Government	View Ballot	Pranav AnandⒸ , Ken Tieu , Stephanie Chen
+Stanford CT	3rd	Opening Opposition	View Ballot	Pranav AnandⒸ , Ken Tieu , Stephanie Chen
+Kalavagunta and Lu	1st	Closing Government	View Ballot	Pranav AnandⒸ , Ken Tieu , Stephanie Chen
+McGill LT	4th	Closing Opposition	View Ballot	Pranav AnandⒸ , Ken Tieu , Stephanie Chen
+Dartmouth B	4th	Opening Government	View Ballot	Rohan GodaⒸ , Gianluca Lo Porto
+TEC CEM Torta de Chilaquil	2nd	Opening Opposition	View Ballot	Rohan GodaⒸ , Gianluca Lo Porto
+USC BK	3rd	Closing Government	View Ballot	Rohan GodaⒸ , Gianluca Lo Porto
+MLE Choppa	1st	Closing Opposition	View Ballot	Rohan GodaⒸ , Gianluca Lo Porto
+Stanford KR	3rd	Opening Government	View Ballot	Anette XiaⒸ , James Lewis
+TMX Azulitos	2nd	Opening Opposition	View Ballot	Anette XiaⒸ , James Lewis
+Middlebury SM	4th	Closing Government	View Ballot	Anette XiaⒸ , James Lewis
+Columbia C	1st	Closing Opposition	View Ballot	Anette XiaⒸ , James Lewis
+
+
+team	result	side	ballot	adjudicators
+UBC TB	3rd	Opening Government	View Ballot	Manuel MachorroⒸ , Molly Callaghan
+UWODS A	1st	Opening Opposition	View Ballot	Manuel MachorroⒸ , Molly Callaghan
+HH The Last Dance	4th	Closing Government	View Ballot	Manuel MachorroⒸ , Molly Callaghan
+Yale NS	2nd	Closing Opposition	View Ballot	Manuel MachorroⒸ , Molly Callaghan
+UCBerkeley XK	4th	Opening Government	View Ballot	Juanita Hincapié RestrepoⒸ , Greg Kwok , Sabás Alejandro Colmenares Lasnibat
+Kalavagunta and Lu	1st	Opening Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Greg Kwok , Sabás Alejandro Colmenares Lasnibat
+HH Whose gonna carry the boat?!	3rd	Closing Government	View Ballot	Juanita Hincapié RestrepoⒸ , Greg Kwok , Sabás Alejandro Colmenares Lasnibat
+Yale DG	2nd	Closing Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Greg Kwok , Sabás Alejandro Colmenares Lasnibat
+SCREEE	4th	Opening Government	View Ballot	Justin WuⒸ , Ann Tran , Jorge Alberto Galindo JassoⓉ
+Rochester IN	2nd	Opening Opposition	View Ballot	Justin WuⒸ , Ann Tran , Jorge Alberto Galindo JassoⓉ
+Yale ST	1st	Closing Government	View Ballot	Justin WuⒸ , Ann Tran , Jorge Alberto Galindo JassoⓉ
+HWS B	3rd	Closing Opposition	View Ballot	Justin WuⒸ , Ann Tran , Jorge Alberto Galindo JassoⓉ
+Harvard HS	1st	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Casey Powell , Vanessa Arroyo
+Harvard AL	2nd	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Casey Powell , Vanessa Arroyo
+/the/ mini eggs !	4th	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Casey Powell , Vanessa Arroyo
+California girls, we&#x27;re unforgetta	3rd	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Casey Powell , Vanessa Arroyo
+Columbia C	1st	Opening Government	View Ballot	Serena YuanⒸ , Gianluca Lo Porto
+EDS A	2nd	Opening Opposition	View Ballot	Serena YuanⒸ , Gianluca Lo Porto
+maybe I&#x27;m delusional ☝️ debate is 	4th	Closing Government	View Ballot	Serena YuanⒸ , Gianluca Lo Porto
+Paradise City	3rd	Closing Opposition	View Ballot	Serena YuanⒸ , Gianluca Lo Porto
+USC SW	4th	Opening Government	View Ballot	Audrey MelodyⒸ , Cayden Pocrass , Jack Morgenstein
+Stanford KR	2nd	Opening Opposition	View Ballot	Audrey MelodyⒸ , Cayden Pocrass , Jack Morgenstein
+Stanford BD	1st	Closing Government	View Ballot	Audrey MelodyⒸ , Cayden Pocrass , Jack Morgenstein
+USC BK	3rd	Closing Opposition	View Ballot	Audrey MelodyⒸ , Cayden Pocrass , Jack Morgenstein
+Columbia A	3rd	Opening Government	View Ballot	Eric TuⒸ , Nathaniel Tesfaye , Muhammad AsfandyarⓉ
+UCBerkeley HE	2nd	Opening Opposition	View Ballot	Eric TuⒸ , Nathaniel Tesfaye , Muhammad AsfandyarⓉ
+2 of Amerikaz Most Wanted	1st	Closing Government	View Ballot	Eric TuⒸ , Nathaniel Tesfaye , Muhammad AsfandyarⓉ
+Red Raider Debaters	4th	Closing Opposition	View Ballot	Eric TuⒸ , Nathaniel Tesfaye , Muhammad AsfandyarⓉ
+TEC CEM Tacos de mixiote	4th	Opening Government	View Ballot	Valerie PangⒸ , William Chen , Eric Guadarrama CruzⓉ
+Dartmouth B	3rd	Opening Opposition	View Ballot	Valerie PangⒸ , William Chen , Eric Guadarrama CruzⓉ
+UCBerkeley Blue	1st	Closing Government	View Ballot	Valerie PangⒸ , William Chen , Eric Guadarrama CruzⓉ
+Columbia B	2nd	Closing Opposition	View Ballot	Valerie PangⒸ , William Chen , Eric Guadarrama CruzⓉ
+Stanford LS	2nd	Opening Government	View Ballot	Fernanda Crousillat RayterⒸ , Celine Nghiem , James LewisⓉ
+McGill RM	1st	Opening Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Celine Nghiem , James LewisⓉ
+Harvard GM	4th	Closing Government	View Ballot	Fernanda Crousillat RayterⒸ , Celine Nghiem , James LewisⓉ
+McGill WA	3rd	Closing Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Celine Nghiem , James LewisⓉ
+HWS A	2nd	Opening Government	View Ballot	Isolda VelaⒸ , Silin Wei , Brian Conde MartinezⓉ
+Stanford QF	1st	Opening Opposition	View Ballot	Isolda VelaⒸ , Silin Wei , Brian Conde MartinezⓉ
+Duke SZ	3rd	Closing Government	View Ballot	Isolda VelaⒸ , Silin Wei , Brian Conde MartinezⓉ
+Yale LM	4th	Closing Opposition	View Ballot	Isolda VelaⒸ , Silin Wei , Brian Conde MartinezⓉ
+Stanford TY	3rd	Opening Government	View Ballot	Elgin LinⒸ , Ken Tieu , Vallerya AcunaⓉ
+TEC CEM Quesadillas &lt;3	2nd	Opening Opposition	View Ballot	Elgin LinⒸ , Ken Tieu , Vallerya AcunaⓉ
+TEC CEM Chile Relleno	4th	Closing Government	View Ballot	Elgin LinⒸ , Ken Tieu , Vallerya AcunaⓉ
+Californication	1st	Closing Opposition	View Ballot	Elgin LinⒸ , Ken Tieu , Vallerya AcunaⓉ
+USC LD	2nd	Opening Government	View Ballot	William ZhangⒸ , Andy Yescas , Arturo AubryⓉ
+Middlebury SM	3rd	Opening Opposition	View Ballot	William ZhangⒸ , Andy Yescas , Arturo AubryⓉ
+Dartmouth C	4th	Closing Government	View Ballot	William ZhangⒸ , Andy Yescas , Arturo AubryⓉ
+Middlebury SG	1st	Closing Opposition	View Ballot	William ZhangⒸ , Andy Yescas , Arturo AubryⓉ
+Stanford BZ	3rd	Opening Government	View Ballot	Arturo Serrano BorreroⒸ , Emily Zhang , Regina Delgado AcevedoⓉ
+TMX Jose y Luis	1st	Opening Opposition	View Ballot	Arturo Serrano BorreroⒸ , Emily Zhang , Regina Delgado AcevedoⓉ
+TECTOL-UAEMEX	4th	Closing Government	View Ballot	Arturo Serrano BorreroⒸ , Emily Zhang , Regina Delgado AcevedoⓉ
+PandITAM	2nd	Closing Opposition	View Ballot	Arturo Serrano BorreroⒸ , Emily Zhang , Regina Delgado AcevedoⓉ
+UCBerkeley AD	1st	Opening Government	View Ballot	Lelan HuⒸ , Jasmine Goncalves Piment , Stephanie Chen
+Stanford AG	3rd	Opening Opposition	View Ballot	Lelan HuⒸ , Jasmine Goncalves Piment , Stephanie Chen
+UWODS CL	2nd	Closing Government	View Ballot	Lelan HuⒸ , Jasmine Goncalves Piment , Stephanie Chen
+Technocratic communism	4th	Closing Opposition	View Ballot	Lelan HuⒸ , Jasmine Goncalves Piment , Stephanie Chen
+Middlebury SW	3rd	Opening Government	View Ballot	Varun LodayaⒸ , Nitin Alagu
+Swarthmore A	2nd	Opening Opposition	View Ballot	Varun LodayaⒸ , Nitin Alagu
+Queen&#x27;s Annika Tucker	4th	Closing Government	View Ballot	Varun LodayaⒸ , Nitin Alagu
+Last Hurrah	1st	Closing Opposition	View Ballot	Varun LodayaⒸ , Nitin Alagu
+Stanford CT	2nd	Opening Government	View Ballot	Rohan GodaⒸ , Felix Leonhardt , Hayley Cheung
+MLE Choppa	3rd	Opening Opposition	View Ballot	Rohan GodaⒸ , Felix Leonhardt , Hayley Cheung
+Queen&#x27;s Nimai Abernethy	1st	Closing Government	View Ballot	Rohan GodaⒸ , Felix Leonhardt , Hayley Cheung
+TMX Azulitos	4th	Closing Opposition	View Ballot	Rohan GodaⒸ , Felix Leonhardt , Hayley Cheung
+McGill LT	4th	Opening Government	View Ballot	Daksha PillaiⒸ , Preethi Mohan , Kenn JiangⓉ
+Alberta A	1st	Opening Opposition	View Ballot	Daksha PillaiⒸ , Preethi Mohan , Kenn JiangⓉ
+HH $2.4 Million Settlement	3rd	Closing Government	View Ballot	Daksha PillaiⒸ , Preethi Mohan , Kenn JiangⓉ
+TEC CEM Torta de Chilaquil	2nd	Closing Opposition	View Ballot	Daksha PillaiⒸ , Preethi Mohan , Kenn JiangⓉ
+HH VAMOSSSSSS	3rd	Opening Government	View Ballot	Pranav AnandⒸ , Natalia García
+Welcome to the Hotel California	2nd	Opening Opposition	View Ballot	Pranav AnandⒸ , Natalia García
+Dartmouth A	1st	Closing Government	View Ballot	Pranav AnandⒸ , Natalia García
+HH Xi Simping	4th	Closing Opposition	View Ballot	Pranav AnandⒸ , Natalia García
+Queen&#x27;s Lily Larkins	1st	Opening Government	View Ballot	Anette XiaⒸ , Kira Waldhalm
+ITESM TOLUCA SS	2nd	Opening Opposition	View Ballot	Anette XiaⒸ , Kira Waldhalm
+HWS C	3rd	Closing Government	View Ballot	Anette XiaⒸ , Kira Waldhalm
+María y Brisa	4th	Closing Opposition	View Ballot	Anette XiaⒸ , Kira Waldhalm
+
+
+team	result	side	ballot	adjudicators
+Welcome to the Hotel California	4th	Opening Government	View Ballot	Lelan HuⒸ , Jorge Alberto Galindo Jasso , Varun Lodaya
+Queen&#x27;s Nimai Abernethy	3rd	Opening Opposition	View Ballot	Lelan HuⒸ , Jorge Alberto Galindo Jasso , Varun Lodaya
+EDS A	2nd	Closing Government	View Ballot	Lelan HuⒸ , Jorge Alberto Galindo Jasso , Varun Lodaya
+Stanford QF	1st	Closing Opposition	View Ballot	Lelan HuⒸ , Jorge Alberto Galindo Jasso , Varun Lodaya
+TEC CEM Chile Relleno	1st	Opening Government	View Ballot	Valerie PangⒸ , Arturo Aubry , Jasmine Goncalves Piment
+USC BK	2nd	Opening Opposition	View Ballot	Valerie PangⒸ , Arturo Aubry , Jasmine Goncalves Piment
+Queen&#x27;s Annika Tucker	3rd	Closing Government	View Ballot	Valerie PangⒸ , Arturo Aubry , Jasmine Goncalves Piment
+maybe I&#x27;m delusional ☝️ debate is 	4th	Closing Opposition	View Ballot	Valerie PangⒸ , Arturo Aubry , Jasmine Goncalves Piment
+HWS B	2nd	Opening Government	View Ballot	Casey PowellⒸ , Eric Guadarrama Cruz , Preethi Mohan
+Yale LM	3rd	Opening Opposition	View Ballot	Casey PowellⒸ , Eric Guadarrama Cruz , Preethi Mohan
+Stanford TY	4th	Closing Government	View Ballot	Casey PowellⒸ , Eric Guadarrama Cruz , Preethi Mohan
+HH $2.4 Million Settlement	1st	Closing Opposition	View Ballot	Casey PowellⒸ , Eric Guadarrama Cruz , Preethi Mohan
+Dartmouth A	2nd	Opening Government	View Ballot	Fernanda Crousillat RayterⒸ , Vallerya Acuna , William Zhang
+Yale DG	4th	Opening Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Vallerya Acuna , William Zhang
+Harvard HS	3rd	Closing Government	View Ballot	Fernanda Crousillat RayterⒸ , Vallerya Acuna , William Zhang
+Stanford LS	1st	Closing Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Vallerya Acuna , William Zhang
+Paradise City	2nd	Opening Government	View Ballot	Juanita Hincapié RestrepoⒸ , Muhammad Asfandyar , Silin Wei
+Queen&#x27;s Lily Larkins	3rd	Opening Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Muhammad Asfandyar , Silin Wei
+TEC CEM Quesadillas &lt;3	4th	Closing Government	View Ballot	Juanita Hincapié RestrepoⒸ , Muhammad Asfandyar , Silin Wei
+Stanford BD	1st	Closing Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Muhammad Asfandyar , Silin Wei
+HH Whose gonna carry the boat?!	3rd	Opening Government	View Ballot	Meg KandarpaⒸ , Regina Delgado Acevedo , Rohan Goda
+HWS A	1st	Opening Opposition	View Ballot	Meg KandarpaⒸ , Regina Delgado Acevedo , Rohan Goda
+HH VAMOSSSSSS	4th	Closing Government	View Ballot	Meg KandarpaⒸ , Regina Delgado Acevedo , Rohan Goda
+Stanford CT	2nd	Closing Opposition	View Ballot	Meg KandarpaⒸ , Regina Delgado Acevedo , Rohan Goda
+ITESM TOLUCA SS	2nd	Opening Government	View Ballot	Felix LeonhardtⒸ , Jack Morgenstein
+SCREEE	4th	Opening Opposition	View Ballot	Felix LeonhardtⒸ , Jack Morgenstein
+McGill LT	3rd	Closing Government	View Ballot	Felix LeonhardtⒸ , Jack Morgenstein
+Stanford KR	1st	Closing Opposition	View Ballot	Felix LeonhardtⒸ , Jack Morgenstein
+Duke SZ	3rd	Opening Government	View Ballot	Molly CallaghanⒸ , Ann Tran , Vanessa Arroyo
+2 of Amerikaz Most Wanted	4th	Opening Opposition	View Ballot	Molly CallaghanⒸ , Ann Tran , Vanessa Arroyo
+UCBerkeley AD	1st	Closing Government	View Ballot	Molly CallaghanⒸ , Ann Tran , Vanessa Arroyo
+Swarthmore A	2nd	Closing Opposition	View Ballot	Molly CallaghanⒸ , Ann Tran , Vanessa Arroyo
+Middlebury SM	2nd	Opening Government	View Ballot	Natalia GarcíaⒸ , Cayden Pocrass , Hayley Cheung
+Stanford BZ	3rd	Opening Opposition	View Ballot	Natalia GarcíaⒸ , Cayden Pocrass , Hayley Cheung
+Red Raider Debaters	4th	Closing Government	View Ballot	Natalia GarcíaⒸ , Cayden Pocrass , Hayley Cheung
+PandITAM	1st	Closing Opposition	View Ballot	Natalia GarcíaⒸ , Cayden Pocrass , Hayley Cheung
+HH Xi Simping	2nd	Opening Government	View Ballot	Greg KwokⒸ , Eric Tu , Ken Tieu
+Middlebury SW	4th	Opening Opposition	View Ballot	Greg KwokⒸ , Eric Tu , Ken Tieu
+UCBerkeley HE	3rd	Closing Government	View Ballot	Greg KwokⒸ , Eric Tu , Ken Tieu
+UWODS CL	1st	Closing Opposition	View Ballot	Greg KwokⒸ , Eric Tu , Ken Tieu
+Harvard AL	3rd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Arturo Serrano Borrero , Brian Conde Martinez
+Harvard GM	1st	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Arturo Serrano Borrero , Brian Conde Martinez
+Rochester IN	4th	Closing Government	View Ballot	Tanvir ShahriarⒸ , Arturo Serrano Borrero , Brian Conde Martinez
+UCBerkeley XK	2nd	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Arturo Serrano Borrero , Brian Conde Martinez
+HH The Last Dance	1st	Opening Government	View Ballot	Manuel MachorroⒸ , Andy Yescas , Justin Wu
+McGill WA	2nd	Opening Opposition	View Ballot	Manuel MachorroⒸ , Andy Yescas , Justin Wu
+Californication	4th	Closing Government	View Ballot	Manuel MachorroⒸ , Andy Yescas , Justin Wu
+Alberta A	3rd	Closing Opposition	View Ballot	Manuel MachorroⒸ , Andy Yescas , Justin Wu
+MLE Choppa	2nd	Opening Government	View Ballot	Stephanie ChenⒸ , Anette Xia , James Lewis
+California girls, we&#x27;re unforgetta	1st	Opening Opposition	View Ballot	Stephanie ChenⒸ , Anette Xia , James Lewis
+TEC CEM Torta de Chilaquil	3rd	Closing Government	View Ballot	Stephanie ChenⒸ , Anette Xia , James Lewis
+TMX Jose y Luis	4th	Closing Opposition	View Ballot	Stephanie ChenⒸ , Anette Xia , James Lewis
+Yale ST	3rd	Opening Government	View Ballot	Isolda VelaⒸ , Kira Waldhalm , Pranav Anand
+Last Hurrah	4th	Opening Opposition	View Ballot	Isolda VelaⒸ , Kira Waldhalm , Pranav Anand
+Columbia C	1st	Closing Government	View Ballot	Isolda VelaⒸ , Kira Waldhalm , Pranav Anand
+UBC TB	2nd	Closing Opposition	View Ballot	Isolda VelaⒸ , Kira Waldhalm , Pranav Anand
+/the/ mini eggs !	3rd	Opening Government	View Ballot	Elgin LinⒸ , Sabás Alejandro Colmenares Lasnibat
+Columbia A	1st	Opening Opposition	View Ballot	Elgin LinⒸ , Sabás Alejandro Colmenares Lasnibat
+TMX Azulitos	2nd	Closing Government	View Ballot	Elgin LinⒸ , Sabás Alejandro Colmenares Lasnibat
+HWS C	4th	Closing Opposition	View Ballot	Elgin LinⒸ , Sabás Alejandro Colmenares Lasnibat
+Dartmouth C	1st	Opening Government	View Ballot	Daksha PillaiⒸ , Celine Nghiem
+TEC CEM Tacos de mixiote	4th	Opening Opposition	View Ballot	Daksha PillaiⒸ , Celine Nghiem
+Technocratic communism	2nd	Closing Government	View Ballot	Daksha PillaiⒸ , Celine Nghiem
+TECTOL-UAEMEX	3rd	Closing Opposition	View Ballot	Daksha PillaiⒸ , Celine Nghiem
+María y Brisa	4th	Opening Government	View Ballot	Madeleine FordhamⒸ , Gianluca Lo Porto , Nathaniel Tesfaye
+Columbia B	2nd	Opening Opposition	View Ballot	Madeleine FordhamⒸ , Gianluca Lo Porto , Nathaniel Tesfaye
+USC SW	1st	Closing Government	View Ballot	Madeleine FordhamⒸ , Gianluca Lo Porto , Nathaniel Tesfaye
+Dartmouth B	3rd	Closing Opposition	View Ballot	Madeleine FordhamⒸ , Gianluca Lo Porto , Nathaniel Tesfaye
+Middlebury SG	4th	Opening Government	View Ballot	Audrey MelodyⒸ , Emily Zhang , Nitin Alagu
+USC LD	3rd	Opening Opposition	View Ballot	Audrey MelodyⒸ , Emily Zhang , Nitin Alagu
+Stanford AG	1st	Closing Government	View Ballot	Audrey MelodyⒸ , Emily Zhang , Nitin Alagu
+UCBerkeley Blue	2nd	Closing Opposition	View Ballot	Audrey MelodyⒸ , Emily Zhang , Nitin Alagu
+Kalavagunta and Lu	1st	Opening Government	View Ballot	Serena YuanⒸ , Kenn Jiang , Mauricio Jarufe Caballero
+Yale NS	3rd	Opening Opposition	View Ballot	Serena YuanⒸ , Kenn Jiang , Mauricio Jarufe Caballero
+McGill RM	2nd	Closing Government	View Ballot	Serena YuanⒸ , Kenn Jiang , Mauricio Jarufe Caballero
+UWODS A	4th	Closing Opposition	View Ballot	Serena YuanⒸ , Kenn Jiang , Mauricio Jarufe Caballero
+
+
+team	result	side	ballot	adjudicators
+UCBerkeley AD	4th	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Felix Leonhardt , Jorge Alberto Galindo Jasso
+California girls, we&#x27;re unforgetta	2nd	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Felix Leonhardt , Jorge Alberto Galindo Jasso
+UWODS A	1st	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Felix Leonhardt , Jorge Alberto Galindo Jasso
+HH Whose gonna carry the boat?!	3rd	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Felix Leonhardt , Jorge Alberto Galindo Jasso
+Stanford TY	1st	Opening Government	View Ballot	Daksha PillaiⒸ , Valerie Pang , William Chen
+Middlebury SW	4th	Opening Opposition	View Ballot	Daksha PillaiⒸ , Valerie Pang , William Chen
+/the/ mini eggs !	3rd	Closing Government	View Ballot	Daksha PillaiⒸ , Valerie Pang , William Chen
+Stanford BZ	2nd	Closing Opposition	View Ballot	Daksha PillaiⒸ , Valerie Pang , William Chen
+Dartmouth C	3rd	Opening Government	View Ballot	Eric TuⒸ , Molly Callaghan , William Zhang
+USC LD	2nd	Opening Opposition	View Ballot	Eric TuⒸ , Molly Callaghan , William Zhang
+TMX Jose y Luis	4th	Closing Government	View Ballot	Eric TuⒸ , Molly Callaghan , William Zhang
+Middlebury SM	1st	Closing Opposition	View Ballot	Eric TuⒸ , Molly Callaghan , William Zhang
+HH The Last Dance	3rd	Opening Government	View Ballot	Pranav AnandⒸ , Jasmine Goncalves Piment , Ken Tieu
+McGill RM	2nd	Opening Opposition	View Ballot	Pranav AnandⒸ , Jasmine Goncalves Piment , Ken Tieu
+Yale NS	1st	Closing Government	View Ballot	Pranav AnandⒸ , Jasmine Goncalves Piment , Ken Tieu
+Stanford QF	4th	Closing Opposition	View Ballot	Pranav AnandⒸ , Jasmine Goncalves Piment , Ken Tieu
+Stanford AG	3rd	Opening Government	View Ballot	Elgin LinⒸ , Justin Wu , Regina Delgado AcevedoⓉ
+TEC CEM Chile Relleno	4th	Opening Opposition	View Ballot	Elgin LinⒸ , Justin Wu , Regina Delgado AcevedoⓉ
+HWS B	2nd	Closing Government	View Ballot	Elgin LinⒸ , Justin Wu , Regina Delgado AcevedoⓉ
+TEC CEM Torta de Chilaquil	1st	Closing Opposition	View Ballot	Elgin LinⒸ , Justin Wu , Regina Delgado AcevedoⓉ
+Kalavagunta and Lu	2nd	Opening Government	View Ballot	Meg KandarpaⒸ , Cayden Pocrass , Nathaniel Tesfaye
+Stanford LS	1st	Opening Opposition	View Ballot	Meg KandarpaⒸ , Cayden Pocrass , Nathaniel Tesfaye
+Dartmouth A	3rd	Closing Government	View Ballot	Meg KandarpaⒸ , Cayden Pocrass , Nathaniel Tesfaye
+Columbia C	4th	Closing Opposition	View Ballot	Meg KandarpaⒸ , Cayden Pocrass , Nathaniel Tesfaye
+Welcome to the Hotel California	3rd	Opening Government	View Ballot	Lelan HuⒸ , Ann Tran , Vallerya Acuna
+HH $2.4 Million Settlement	4th	Opening Opposition	View Ballot	Lelan HuⒸ , Ann Tran , Vallerya Acuna
+MLE Choppa	1st	Closing Government	View Ballot	Lelan HuⒸ , Ann Tran , Vallerya Acuna
+Swarthmore A	2nd	Closing Opposition	View Ballot	Lelan HuⒸ , Ann Tran , Vallerya Acuna
+Queen&#x27;s Annika Tucker	4th	Opening Government	View Ballot	Serena YuanⒸ , Hayley Cheung , Sabás Alejandro Colmenares Lasnibat
+Rochester IN	3rd	Opening Opposition	View Ballot	Serena YuanⒸ , Hayley Cheung , Sabás Alejandro Colmenares Lasnibat
+2 of Amerikaz Most Wanted	2nd	Closing Government	View Ballot	Serena YuanⒸ , Hayley Cheung , Sabás Alejandro Colmenares Lasnibat
+Yale LM	1st	Closing Opposition	View Ballot	Serena YuanⒸ , Hayley Cheung , Sabás Alejandro Colmenares Lasnibat
+HH Xi Simping	2nd	Opening Government	View Ballot	Stephanie ChenⒸ , Audrey Melody , Kenn JiangⓉ
+Duke SZ	4th	Opening Opposition	View Ballot	Stephanie ChenⒸ , Audrey Melody , Kenn JiangⓉ
+Last Hurrah	3rd	Closing Government	View Ballot	Stephanie ChenⒸ , Audrey Melody , Kenn JiangⓉ
+HH VAMOSSSSSS	1st	Closing Opposition	View Ballot	Stephanie ChenⒸ , Audrey Melody , Kenn JiangⓉ
+Paradise City	4th	Opening Government	View Ballot	Tanvir ShahriarⒸ , Celine Nghiem , James Lewis
+Alberta A	3rd	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Celine Nghiem , James Lewis
+Yale DG	2nd	Closing Government	View Ballot	Tanvir ShahriarⒸ , Celine Nghiem , James Lewis
+Yale ST	1st	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Celine Nghiem , James Lewis
+TEC CEM Tacos de mixiote	2nd	Opening Government	View Ballot	Greg KwokⒸ , Preethi Mohan
+TECTOL-UAEMEX	3rd	Opening Opposition	View Ballot	Greg KwokⒸ , Preethi Mohan
+Dartmouth B	1st	Closing Government	View Ballot	Greg KwokⒸ , Preethi Mohan
+Red Raider Debaters	4th	Closing Opposition	View Ballot	Greg KwokⒸ , Preethi Mohan
+Harvard AL	1st	Opening Government	View Ballot	Fernanda Crousillat RayterⒸ , Eric Guadarrama Cruz , Vanessa Arroyo
+UCBerkeley XK	3rd	Opening Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Eric Guadarrama Cruz , Vanessa Arroyo
+Stanford BD	2nd	Closing Government	View Ballot	Fernanda Crousillat RayterⒸ , Eric Guadarrama Cruz , Vanessa Arroyo
+UWODS CL	4th	Closing Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Eric Guadarrama Cruz , Vanessa Arroyo
+Stanford KR	4th	Opening Government	View Ballot	Isolda VelaⒸ , Kira Waldhalm , Silin Wei
+Californication	3rd	Opening Opposition	View Ballot	Isolda VelaⒸ , Kira Waldhalm , Silin Wei
+Columbia A	2nd	Closing Government	View Ballot	Isolda VelaⒸ , Kira Waldhalm , Silin Wei
+Queen&#x27;s Lily Larkins	1st	Closing Opposition	View Ballot	Isolda VelaⒸ , Kira Waldhalm , Silin Wei
+Technocratic communism	2nd	Opening Government	View Ballot	Arturo Serrano BorreroⒸ , Rohan Goda
+SCREEE	4th	Opening Opposition	View Ballot	Arturo Serrano BorreroⒸ , Rohan Goda
+Middlebury SG	1st	Closing Government	View Ballot	Arturo Serrano BorreroⒸ , Rohan Goda
+María y Brisa	3rd	Closing Opposition	View Ballot	Arturo Serrano BorreroⒸ , Rohan Goda
+UCBerkeley Blue	3rd	Opening Government	View Ballot	Anette XiaⒸ , Emily Zhang , Gianluca Lo Porto
+UCBerkeley HE	1st	Opening Opposition	View Ballot	Anette XiaⒸ , Emily Zhang , Gianluca Lo Porto
+USC BK	2nd	Closing Government	View Ballot	Anette XiaⒸ , Emily Zhang , Gianluca Lo Porto
+TEC CEM Quesadillas &lt;3	4th	Closing Opposition	View Ballot	Anette XiaⒸ , Emily Zhang , Gianluca Lo Porto
+ITESM TOLUCA SS	4th	Opening Government	View Ballot	Madeleine FordhamⒸ , Jack Morgenstein , Natalia García
+PandITAM	3rd	Opening Opposition	View Ballot	Madeleine FordhamⒸ , Jack Morgenstein , Natalia García
+TMX Azulitos	2nd	Closing Government	View Ballot	Madeleine FordhamⒸ , Jack Morgenstein , Natalia García
+USC SW	1st	Closing Opposition	View Ballot	Madeleine FordhamⒸ , Jack Morgenstein , Natalia García
+Harvard HS	2nd	Opening Government	View Ballot	Manuel MachorroⒸ , Casey Powell , Muhammad Asfandyar
+Harvard GM	1st	Opening Opposition	View Ballot	Manuel MachorroⒸ , Casey Powell , Muhammad Asfandyar
+McGill WA	3rd	Closing Government	View Ballot	Manuel MachorroⒸ , Casey Powell , Muhammad Asfandyar
+EDS A	4th	Closing Opposition	View Ballot	Manuel MachorroⒸ , Casey Powell , Muhammad Asfandyar
+McGill LT	3rd	Opening Government	View Ballot	Varun LodayaⒸ , Brian Conde Martinez , Andy YescasⓉ
+Columbia B	2nd	Opening Opposition	View Ballot	Varun LodayaⒸ , Brian Conde Martinez , Andy YescasⓉ
+maybe I&#x27;m delusional ☝️ debate is 	1st	Closing Government	View Ballot	Varun LodayaⒸ , Brian Conde Martinez , Andy YescasⓉ
+HWS C	4th	Closing Opposition	View Ballot	Varun LodayaⒸ , Brian Conde Martinez , Andy YescasⓉ
+Queen&#x27;s Nimai Abernethy	2nd	Opening Government	View Ballot	Juanita Hincapié RestrepoⒸ , Arturo Aubry , Nitin Alagu
+Stanford CT	3rd	Opening Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Arturo Aubry , Nitin Alagu
+UBC TB	1st	Closing Government	View Ballot	Juanita Hincapié RestrepoⒸ , Arturo Aubry , Nitin Alagu
+HWS A	4th	Closing Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Arturo Aubry , Nitin Alagu
+
+
+team	result	side	ballot	adjudicators
+María y Brisa	2nd	Opening Government	View Ballot	Casey PowellⒸ , James Lewis
+TEC CEM Tacos de mixiote	1st	Opening Opposition	View Ballot	Casey PowellⒸ , James Lewis
+Red Raider Debaters	3rd	Closing Government	View Ballot	Casey PowellⒸ , James Lewis
+TECTOL-UAEMEX	4th	Closing Opposition	View Ballot	Casey PowellⒸ , James Lewis
+SCREEE	1st	Opening Government	View Ballot	Natalia GarcíaⒸ , Ann Tran , Brian Conde Martinez
+TMX Jose y Luis	4th	Opening Opposition	View Ballot	Natalia GarcíaⒸ , Ann Tran , Brian Conde Martinez
+HWS C	3rd	Closing Government	View Ballot	Natalia GarcíaⒸ , Ann Tran , Brian Conde Martinez
+Queen&#x27;s Annika Tucker	2nd	Closing Opposition	View Ballot	Natalia GarcíaⒸ , Ann Tran , Brian Conde Martinez
+Queen&#x27;s Lily Larkins	4th	Opening Government	View Ballot	Valerie PangⒸ , Arturo Serrano Borrero , Sabás Alejandro Colmenares Lasnibat
+Yale DG	2nd	Opening Opposition	View Ballot	Valerie PangⒸ , Arturo Serrano Borrero , Sabás Alejandro Colmenares Lasnibat
+HWS A	1st	Closing Government	View Ballot	Valerie PangⒸ , Arturo Serrano Borrero , Sabás Alejandro Colmenares Lasnibat
+McGill WA	3rd	Closing Opposition	View Ballot	Valerie PangⒸ , Arturo Serrano Borrero , Sabás Alejandro Colmenares Lasnibat
+MLE Choppa	4th	Opening Government	View Ballot	Eric TuⒸ , Gianluca Lo Porto , Serena Yuan
+Columbia C	3rd	Opening Opposition	View Ballot	Eric TuⒸ , Gianluca Lo Porto , Serena Yuan
+Queen&#x27;s Nimai Abernethy	1st	Closing Government	View Ballot	Eric TuⒸ , Gianluca Lo Porto , Serena Yuan
+Stanford BD	2nd	Closing Opposition	View Ballot	Eric TuⒸ , Gianluca Lo Porto , Serena Yuan
+UCBerkeley HE	2nd	Opening Government	View Ballot	Ken TieuⒸ , Kira Waldhalm , Tanvir Shahriar
+HWS B	1st	Opening Opposition	View Ballot	Ken TieuⒸ , Kira Waldhalm , Tanvir Shahriar
+Yale LM	4th	Closing Government	View Ballot	Ken TieuⒸ , Kira Waldhalm , Tanvir Shahriar
+UCBerkeley AD	3rd	Closing Opposition	View Ballot	Ken TieuⒸ , Kira Waldhalm , Tanvir Shahriar
+maybe I&#x27;m delusional ☝️ debate is 	1st	Opening Government	View Ballot	Molly CallaghanⒸ , Jack Morgenstein , Varun Lodaya
+TEC CEM Quesadillas &lt;3	2nd	Opening Opposition	View Ballot	Molly CallaghanⒸ , Jack Morgenstein , Varun Lodaya
+TEC CEM Chile Relleno	4th	Closing Government	View Ballot	Molly CallaghanⒸ , Jack Morgenstein , Varun Lodaya
+Rochester IN	3rd	Closing Opposition	View Ballot	Molly CallaghanⒸ , Jack Morgenstein , Varun Lodaya
+Harvard GM	3rd	Opening Government	View Ballot	Daksha PillaiⒸ , Elgin Lin , William Chen
+Dartmouth A	1st	Opening Opposition	View Ballot	Daksha PillaiⒸ , Elgin Lin , William Chen
+UWODS A	4th	Closing Government	View Ballot	Daksha PillaiⒸ , Elgin Lin , William Chen
+Yale NS	2nd	Closing Opposition	View Ballot	Daksha PillaiⒸ , Elgin Lin , William Chen
+TEC CEM Torta de Chilaquil	4th	Opening Government	View Ballot	Madeleine FordhamⒸ , Emily Zhang , Juanita Hincapié Restrepo
+HH VAMOSSSSSS	2nd	Opening Opposition	View Ballot	Madeleine FordhamⒸ , Emily Zhang , Juanita Hincapié Restrepo
+Swarthmore A	1st	Closing Government	View Ballot	Madeleine FordhamⒸ , Emily Zhang , Juanita Hincapié Restrepo
+Alberta A	3rd	Closing Opposition	View Ballot	Madeleine FordhamⒸ , Emily Zhang , Juanita Hincapié Restrepo
+McGill RM	2nd	Opening Government	View Ballot	Pranav AnandⒸ , Vallerya Acuna , Vanessa Arroyo
+Kalavagunta and Lu	1st	Opening Opposition	View Ballot	Pranav AnandⒸ , Vallerya Acuna , Vanessa Arroyo
+Stanford LS	3rd	Closing Government	View Ballot	Pranav AnandⒸ , Vallerya Acuna , Vanessa Arroyo
+UBC TB	4th	Closing Opposition	View Ballot	Pranav AnandⒸ , Vallerya Acuna , Vanessa Arroyo
+Middlebury SW	4th	Opening Government	View Ballot	Rohan GodaⒸ , Nathaniel Tesfaye
+McGill LT	3rd	Opening Opposition	View Ballot	Rohan GodaⒸ , Nathaniel Tesfaye
+Dartmouth C	2nd	Closing Government	View Ballot	Rohan GodaⒸ , Nathaniel Tesfaye
+Dartmouth B	1st	Closing Opposition	View Ballot	Rohan GodaⒸ , Nathaniel Tesfaye
+Last Hurrah	3rd	Opening Government	View Ballot	Meg KandarpaⒸ , Stephanie Chen
+HH Whose gonna carry the boat?!	2nd	Opening Opposition	View Ballot	Meg KandarpaⒸ , Stephanie Chen
+Stanford TY	4th	Closing Government	View Ballot	Meg KandarpaⒸ , Stephanie Chen
+Columbia A	1st	Closing Opposition	View Ballot	Meg KandarpaⒸ , Stephanie Chen
+Duke SZ	4th	Opening Government	View Ballot	Felix LeonhardtⒸ , Fernanda Crousillat Rayter , Regina Delgado Acevedo
+Paradise City	2nd	Opening Opposition	View Ballot	Felix LeonhardtⒸ , Fernanda Crousillat Rayter , Regina Delgado Acevedo
+USC LD	1st	Closing Government	View Ballot	Felix LeonhardtⒸ , Fernanda Crousillat Rayter , Regina Delgado Acevedo
+2 of Amerikaz Most Wanted	3rd	Closing Opposition	View Ballot	Felix LeonhardtⒸ , Fernanda Crousillat Rayter , Regina Delgado Acevedo
+Stanford CT	3rd	Opening Government	View Ballot	Manuel MachorroⒸ , Jorge Alberto Galindo Jasso , Muhammad Asfandyar
+Stanford QF	1st	Opening Opposition	View Ballot	Manuel MachorroⒸ , Jorge Alberto Galindo Jasso , Muhammad Asfandyar
+California girls, we&#x27;re unforgetta	2nd	Closing Government	View Ballot	Manuel MachorroⒸ , Jorge Alberto Galindo Jasso , Muhammad Asfandyar
+Harvard AL	4th	Closing Opposition	View Ballot	Manuel MachorroⒸ , Jorge Alberto Galindo Jasso , Muhammad Asfandyar
+UWODS CL	4th	Opening Government	View Ballot	William ZhangⒸ , Cayden Pocrass , Lelan Hu
+TMX Azulitos	3rd	Opening Opposition	View Ballot	William ZhangⒸ , Cayden Pocrass , Lelan Hu
+Middlebury SM	2nd	Closing Government	View Ballot	William ZhangⒸ , Cayden Pocrass , Lelan Hu
+USC BK	1st	Closing Opposition	View Ballot	William ZhangⒸ , Cayden Pocrass , Lelan Hu
+UCBerkeley XK	4th	Opening Government	View Ballot	Audrey MelodyⒸ , Jasmine Goncalves Piment , Nitin Alagu
+Harvard HS	2nd	Opening Opposition	View Ballot	Audrey MelodyⒸ , Jasmine Goncalves Piment , Nitin Alagu
+HH The Last Dance	3rd	Closing Government	View Ballot	Audrey MelodyⒸ , Jasmine Goncalves Piment , Nitin Alagu
+Yale ST	1st	Closing Opposition	View Ballot	Audrey MelodyⒸ , Jasmine Goncalves Piment , Nitin Alagu
+Stanford BZ	3rd	Opening Government	View Ballot	Anette XiaⒸ , Arturo Aubry , Justin Wu
+/the/ mini eggs !	1st	Opening Opposition	View Ballot	Anette XiaⒸ , Arturo Aubry , Justin Wu
+ITESM TOLUCA SS	2nd	Closing Government	View Ballot	Anette XiaⒸ , Arturo Aubry , Justin Wu
+Technocratic communism	4th	Closing Opposition	View Ballot	Anette XiaⒸ , Arturo Aubry , Justin Wu
+UCBerkeley Blue	3rd	Opening Government	View Ballot	Silin WeiⒸ , Hayley Cheung , Kenn Jiang
+Stanford KR	2nd	Opening Opposition	View Ballot	Silin WeiⒸ , Hayley Cheung , Kenn Jiang
+PandITAM	4th	Closing Government	View Ballot	Silin WeiⒸ , Hayley Cheung , Kenn Jiang
+Middlebury SG	1st	Closing Opposition	View Ballot	Silin WeiⒸ , Hayley Cheung , Kenn Jiang
+HH $2.4 Million Settlement	4th	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Celine Nghiem , Greg Kwok
+Stanford AG	2nd	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Celine Nghiem , Greg Kwok
+Columbia B	1st	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Celine Nghiem , Greg Kwok
+Californication	3rd	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Celine Nghiem , Greg Kwok
+USC SW	4th	Opening Government	View Ballot	Preethi MohanⒸ , Andy Yescas
+EDS A	2nd	Opening Opposition	View Ballot	Preethi MohanⒸ , Andy Yescas
+HH Xi Simping	3rd	Closing Government	View Ballot	Preethi MohanⒸ , Andy Yescas
+Welcome to the Hotel California	1st	Closing Opposition	View Ballot	Preethi MohanⒸ , Andy Yescas
+
+
+team	result	side	ballot	adjudicators
+McGill WA	2nd	Opening Government	View Ballot	Pranav AnandⒸ , Ann Tran , William Chen
+USC BK	3rd	Opening Opposition	View Ballot	Pranav AnandⒸ , Ann Tran , William Chen
+HH Whose gonna carry the boat?!	4th	Closing Government	View Ballot	Pranav AnandⒸ , Ann Tran , William Chen
+UCBerkeley XK	1st	Closing Opposition	View Ballot	Pranav AnandⒸ , Ann Tran , William Chen
+Yale NS	4th	Opening Government	View Ballot	Isolda VelaⒸ , Casey Powell , Hayley Cheung
+McGill RM	3rd	Opening Opposition	View Ballot	Isolda VelaⒸ , Casey Powell , Hayley Cheung
+Kalavagunta and Lu	2nd	Closing Government	View Ballot	Isolda VelaⒸ , Casey Powell , Hayley Cheung
+Stanford LS	1st	Closing Opposition	View Ballot	Isolda VelaⒸ , Casey Powell , Hayley Cheung
+Alberta A	3rd	Opening Government	View Ballot	Audrey MelodyⒸ , Stephanie Chen
+maybe I&#x27;m delusional ☝️ debate is 	2nd	Opening Opposition	View Ballot	Audrey MelodyⒸ , Stephanie Chen
+UCBerkeley AD	4th	Closing Government	View Ballot	Audrey MelodyⒸ , Stephanie Chen
+HH Xi Simping	1st	Closing Opposition	View Ballot	Audrey MelodyⒸ , Stephanie Chen
+TMX Azulitos	3rd	Opening Government	View Ballot	Varun LodayaⒸ , Brian Conde Martinez , Nitin Alagu
+USC SW	2nd	Opening Opposition	View Ballot	Varun LodayaⒸ , Brian Conde Martinez , Nitin Alagu
+Californication	4th	Closing Government	View Ballot	Varun LodayaⒸ , Brian Conde Martinez , Nitin Alagu
+Last Hurrah	1st	Closing Opposition	View Ballot	Varun LodayaⒸ , Brian Conde Martinez , Nitin Alagu
+Swarthmore A	3rd	Opening Government	View Ballot	Meg KandarpaⒸ , Anette Xia , Molly Callaghan
+HWS A	2nd	Opening Opposition	View Ballot	Meg KandarpaⒸ , Anette Xia , Molly Callaghan
+HWS B	4th	Closing Government	View Ballot	Meg KandarpaⒸ , Anette Xia , Molly Callaghan
+California girls, we&#x27;re unforgetta	1st	Closing Opposition	View Ballot	Meg KandarpaⒸ , Anette Xia , Molly Callaghan
+EDS A	3rd	Opening Government	View Ballot	Fernanda Crousillat RayterⒸ , Felix Leonhardt , Sabás Alejandro Colmenares Lasnibat
+MLE Choppa	2nd	Opening Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Felix Leonhardt , Sabás Alejandro Colmenares Lasnibat
+Harvard AL	1st	Closing Government	View Ballot	Fernanda Crousillat RayterⒸ , Felix Leonhardt , Sabás Alejandro Colmenares Lasnibat
+Stanford CT	4th	Closing Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Felix Leonhardt , Sabás Alejandro Colmenares Lasnibat
+Columbia B	4th	Opening Government	View Ballot	Manuel MachorroⒸ , Kira Waldhalm , Valerie Pang
+TEC CEM Torta de Chilaquil	2nd	Opening Opposition	View Ballot	Manuel MachorroⒸ , Kira Waldhalm , Valerie Pang
+Queen&#x27;s Lily Larkins	1st	Closing Government	View Ballot	Manuel MachorroⒸ , Kira Waldhalm , Valerie Pang
+Stanford AG	3rd	Closing Opposition	View Ballot	Manuel MachorroⒸ , Kira Waldhalm , Valerie Pang
+Columbia C	2nd	Opening Government	View Ballot	Natalia GarcíaⒸ , Justin Wu , Regina Delgado Acevedo
+UWODS A	1st	Opening Opposition	View Ballot	Natalia GarcíaⒸ , Justin Wu , Regina Delgado Acevedo
+HH VAMOSSSSSS	4th	Closing Government	View Ballot	Natalia GarcíaⒸ , Justin Wu , Regina Delgado Acevedo
+Yale DG	3rd	Closing Opposition	View Ballot	Natalia GarcíaⒸ , Justin Wu , Regina Delgado Acevedo
+Middlebury SG	4th	Opening Government	View Ballot	Serena YuanⒸ , Emily Zhang , Vallerya Acuna
+Middlebury SM	3rd	Opening Opposition	View Ballot	Serena YuanⒸ , Emily Zhang , Vallerya Acuna
+Paradise City	2nd	Closing Government	View Ballot	Serena YuanⒸ , Emily Zhang , Vallerya Acuna
+USC LD	1st	Closing Opposition	View Ballot	Serena YuanⒸ , Emily Zhang , Vallerya Acuna
+Columbia A	2nd	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Arturo Serrano Borrero , Jasmine Goncalves Piment
+Welcome to the Hotel California	4th	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Arturo Serrano Borrero , Jasmine Goncalves Piment
+UCBerkeley HE	3rd	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Arturo Serrano Borrero , Jasmine Goncalves Piment
+HH The Last Dance	1st	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Arturo Serrano Borrero , Jasmine Goncalves Piment
+Dartmouth B	3rd	Opening Government	View Ballot	Lelan HuⒸ , Celine Nghiem , Eric Guadarrama Cruz
+2 of Amerikaz Most Wanted	2nd	Opening Opposition	View Ballot	Lelan HuⒸ , Celine Nghiem , Eric Guadarrama Cruz
+TEC CEM Quesadillas &lt;3	4th	Closing Government	View Ballot	Lelan HuⒸ , Celine Nghiem , Eric Guadarrama Cruz
+Stanford KR	1st	Closing Opposition	View Ballot	Lelan HuⒸ , Celine Nghiem , Eric Guadarrama Cruz
+Stanford QF	4th	Opening Government	View Ballot	Elgin LinⒸ , Rohan Goda
+Queen&#x27;s Nimai Abernethy	3rd	Opening Opposition	View Ballot	Elgin LinⒸ , Rohan Goda
+Yale ST	2nd	Closing Government	View Ballot	Elgin LinⒸ , Rohan Goda
+Dartmouth A	1st	Closing Opposition	View Ballot	Elgin LinⒸ , Rohan Goda
+TEC CEM Chile Relleno	4th	Opening Government	View Ballot	Daksha PillaiⒸ , Cayden Pocrass , Greg Kwok
+Stanford TY	2nd	Opening Opposition	View Ballot	Daksha PillaiⒸ , Cayden Pocrass , Greg Kwok
+McGill LT	1st	Closing Government	View Ballot	Daksha PillaiⒸ , Cayden Pocrass , Greg Kwok
+SCREEE	3rd	Closing Opposition	View Ballot	Daksha PillaiⒸ , Cayden Pocrass , Greg Kwok
+HWS C	1st	Opening Government	View Ballot	Jack MorgensteinⒸ , Jorge Alberto Galindo Jasso
+Technocratic communism	3rd	Opening Opposition	View Ballot	Jack MorgensteinⒸ , Jorge Alberto Galindo Jasso
+María y Brisa	2nd	Closing Government	View Ballot	Jack MorgensteinⒸ , Jorge Alberto Galindo Jasso
+TEC CEM Tacos de mixiote	4th	Closing Opposition	View Ballot	Jack MorgensteinⒸ , Jorge Alberto Galindo Jasso
+Yale LM	4th	Opening Government	View Ballot	Juanita Hincapié RestrepoⒸ , Andy Yescas , Silin Wei
+UCBerkeley Blue	3rd	Opening Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Andy Yescas , Silin Wei
+UWODS CL	1st	Closing Government	View Ballot	Juanita Hincapié RestrepoⒸ , Andy Yescas , Silin Wei
+/the/ mini eggs !	2nd	Closing Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Andy Yescas , Silin Wei
+Queen&#x27;s Annika Tucker	1st	Opening Government	View Ballot	William ZhangⒸ , James Lewis
+PandITAM	4th	Opening Opposition	View Ballot	William ZhangⒸ , James Lewis
+Stanford BZ	3rd	Closing Government	View Ballot	William ZhangⒸ , James Lewis
+Duke SZ	2nd	Closing Opposition	View Ballot	William ZhangⒸ , James Lewis
+Rochester IN	1st	Opening Government	View Ballot	Eric TuⒸ , Gianluca Lo Porto , Vanessa Arroyo
+Dartmouth C	2nd	Opening Opposition	View Ballot	Eric TuⒸ , Gianluca Lo Porto , Vanessa Arroyo
+HH $2.4 Million Settlement	4th	Closing Government	View Ballot	Eric TuⒸ , Gianluca Lo Porto , Vanessa Arroyo
+ITESM TOLUCA SS	3rd	Closing Opposition	View Ballot	Eric TuⒸ , Gianluca Lo Porto , Vanessa Arroyo
+Stanford BD	2nd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Nathaniel Tesfaye , Preethi Mohan
+UBC TB	3rd	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Nathaniel Tesfaye , Preethi Mohan
+Harvard GM	1st	Closing Government	View Ballot	Tanvir ShahriarⒸ , Nathaniel Tesfaye , Preethi Mohan
+Harvard HS	4th	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Nathaniel Tesfaye , Preethi Mohan
+Red Raider Debaters	1st	Opening Government	View Ballot	Arturo AubryⒸ , Kenn Jiang
+TECTOL-UAEMEX	4th	Opening Opposition	View Ballot	Arturo AubryⒸ , Kenn Jiang
+Middlebury SW	2nd	Closing Government	View Ballot	Arturo AubryⒸ , Kenn Jiang
+TMX Jose y Luis	3rd	Closing Opposition	View Ballot	Arturo AubryⒸ , Kenn Jiang
+
+
+team	result	side	ballot	adjudicators
+Dartmouth B	1st	Opening Government	View Ballot	Natalia GarcíaⒸ , Sabás Alejandro Colmenares Lasnibat
+UCBerkeley AD	2nd	Opening Opposition	View Ballot	Natalia GarcíaⒸ , Sabás Alejandro Colmenares Lasnibat
+Dartmouth C	4th	Closing Government	View Ballot	Natalia GarcíaⒸ , Sabás Alejandro Colmenares Lasnibat
+Columbia B	3rd	Closing Opposition	View Ballot	Natalia GarcíaⒸ , Sabás Alejandro Colmenares Lasnibat
+Middlebury SM	3rd	Opening Government	View Ballot	Isolda VelaⒸ , Arturo Aubry , Eric Tu
+TEC CEM Torta de Chilaquil	1st	Opening Opposition	View Ballot	Isolda VelaⒸ , Arturo Aubry , Eric Tu
+Stanford KR	4th	Closing Government	View Ballot	Isolda VelaⒸ , Arturo Aubry , Eric Tu
+HWS B	2nd	Closing Opposition	View Ballot	Isolda VelaⒸ , Arturo Aubry , Eric Tu
+Yale DG	3rd	Opening Government	View Ballot	Meg KandarpaⒸ , Arturo Serrano Borrero , Celine Nghiem
+HH Xi Simping	2nd	Opening Opposition	View Ballot	Meg KandarpaⒸ , Arturo Serrano Borrero , Celine Nghiem
+Harvard HS	4th	Closing Government	View Ballot	Meg KandarpaⒸ , Arturo Serrano Borrero , Celine Nghiem
+MLE Choppa	1st	Closing Opposition	View Ballot	Meg KandarpaⒸ , Arturo Serrano Borrero , Celine Nghiem
+Stanford TY	1st	Opening Government	View Ballot	Stephanie ChenⒸ , Brian Conde Martinez , Jasmine Goncalves Piment
+ITESM TOLUCA SS	4th	Opening Opposition	View Ballot	Stephanie ChenⒸ , Brian Conde Martinez , Jasmine Goncalves Piment
+Duke SZ	2nd	Closing Government	View Ballot	Stephanie ChenⒸ , Brian Conde Martinez , Jasmine Goncalves Piment
+McGill LT	3rd	Closing Opposition	View Ballot	Stephanie ChenⒸ , Brian Conde Martinez , Jasmine Goncalves Piment
+HH VAMOSSSSSS	2nd	Opening Government	View Ballot	Fernanda Crousillat RayterⒸ , Kira Waldhalm , Vanessa Arroyo
+EDS A	1st	Opening Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Kira Waldhalm , Vanessa Arroyo
+Stanford AG	4th	Closing Government	View Ballot	Fernanda Crousillat RayterⒸ , Kira Waldhalm , Vanessa Arroyo
+maybe I&#x27;m delusional ☝️ debate is 	3rd	Closing Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Kira Waldhalm , Vanessa Arroyo
+Californication	3rd	Opening Government	View Ballot	Felix LeonhardtⒸ , Gianluca Lo Porto
+Middlebury SG	2nd	Opening Opposition	View Ballot	Felix LeonhardtⒸ , Gianluca Lo Porto
+Queen&#x27;s Annika Tucker	4th	Closing Government	View Ballot	Felix LeonhardtⒸ , Gianluca Lo Porto
+TMX Azulitos	1st	Closing Opposition	View Ballot	Felix LeonhardtⒸ , Gianluca Lo Porto
+2 of Amerikaz Most Wanted	4th	Opening Government	View Ballot	Audrey MelodyⒸ , Anette Xia
+USC SW	2nd	Opening Opposition	View Ballot	Audrey MelodyⒸ , Anette Xia
+Alberta A	3rd	Closing Government	View Ballot	Audrey MelodyⒸ , Anette Xia
+Rochester IN	1st	Closing Opposition	View Ballot	Audrey MelodyⒸ , Anette Xia
+Stanford BZ	3rd	Opening Government	View Ballot	Ann TranⒸ , Vallerya Acuna
+Yale LM	2nd	Opening Opposition	View Ballot	Ann TranⒸ , Vallerya Acuna
+María y Brisa	4th	Closing Government	View Ballot	Ann TranⒸ , Vallerya Acuna
+UCBerkeley Blue	1st	Closing Opposition	View Ballot	Ann TranⒸ , Vallerya Acuna
+Dartmouth A	1st	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ , William Chen
+Yale ST	4th	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , William Chen
+Stanford LS	2nd	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ , William Chen
+Kalavagunta and Lu	3rd	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , William Chen
+TEC CEM Quesadillas &lt;3	2nd	Opening Government	View Ballot	Preethi MohanⒸ , Hayley Cheung
+HWS C	4th	Opening Opposition	View Ballot	Preethi MohanⒸ , Hayley Cheung
+SCREEE	3rd	Closing Government	View Ballot	Preethi MohanⒸ , Hayley Cheung
+HH $2.4 Million Settlement	1st	Closing Opposition	View Ballot	Preethi MohanⒸ , Hayley Cheung
+TMX Jose y Luis	3rd	Opening Government	View Ballot	Silin WeiⒸ , James Lewis , Nitin Alagu
+TECTOL-UAEMEX	4th	Opening Opposition	View Ballot	Silin WeiⒸ , James Lewis , Nitin Alagu
+Technocratic communism	1st	Closing Government	View Ballot	Silin WeiⒸ , James Lewis , Nitin Alagu
+TEC CEM Chile Relleno	2nd	Closing Opposition	View Ballot	Silin WeiⒸ , James Lewis , Nitin Alagu
+USC LD	4th	Opening Government	View Ballot	Tanvir ShahriarⒸ , Cayden Pocrass , Jack Morgenstein
+Queen&#x27;s Lily Larkins	1st	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Cayden Pocrass , Jack Morgenstein
+UCBerkeley XK	3rd	Closing Government	View Ballot	Tanvir ShahriarⒸ , Cayden Pocrass , Jack Morgenstein
+UCBerkeley HE	2nd	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Cayden Pocrass , Jack Morgenstein
+USC BK	3rd	Opening Government	View Ballot	Elgin LinⒸ , Greg Kwok , Nathaniel Tesfaye
+Last Hurrah	2nd	Opening Opposition	View Ballot	Elgin LinⒸ , Greg Kwok , Nathaniel Tesfaye
+Welcome to the Hotel California	4th	Closing Government	View Ballot	Elgin LinⒸ , Greg Kwok , Nathaniel Tesfaye
+Paradise City	1st	Closing Opposition	View Ballot	Elgin LinⒸ , Greg Kwok , Nathaniel Tesfaye
+UWODS A	4th	Opening Government	View Ballot	Juanita Hincapié RestrepoⒸ , Eric Guadarrama Cruz , William Zhang
+Harvard AL	3rd	Opening Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Eric Guadarrama Cruz , William Zhang
+Yale NS	1st	Closing Government	View Ballot	Juanita Hincapié RestrepoⒸ , Eric Guadarrama Cruz , William Zhang
+Swarthmore A	2nd	Closing Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Eric Guadarrama Cruz , William Zhang
+PandITAM	2nd	Opening Government	View Ballot	Justin WuⒸ , Jorge Alberto Galindo Jasso , Kenn Jiang
+Red Raider Debaters	4th	Opening Opposition	View Ballot	Justin WuⒸ , Jorge Alberto Galindo Jasso , Kenn Jiang
+TEC CEM Tacos de mixiote	3rd	Closing Government	View Ballot	Justin WuⒸ , Jorge Alberto Galindo Jasso , Kenn Jiang
+Middlebury SW	1st	Closing Opposition	View Ballot	Justin WuⒸ , Jorge Alberto Galindo Jasso , Kenn Jiang
+/the/ mini eggs !	4th	Opening Government	View Ballot	Rohan GodaⒸ , Casey Powell
+UWODS CL	3rd	Opening Opposition	View Ballot	Rohan GodaⒸ , Casey Powell
+Stanford CT	2nd	Closing Government	View Ballot	Rohan GodaⒸ , Casey Powell
+HH Whose gonna carry the boat?!	1st	Closing Opposition	View Ballot	Rohan GodaⒸ , Casey Powell
+UBC TB	4th	Opening Government	View Ballot	Serena YuanⒸ , Lelan Hu , Regina Delgado Acevedo
+McGill WA	3rd	Opening Opposition	View Ballot	Serena YuanⒸ , Lelan Hu , Regina Delgado Acevedo
+Stanford QF	2nd	Closing Government	View Ballot	Serena YuanⒸ , Lelan Hu , Regina Delgado Acevedo
+Columbia A	1st	Closing Opposition	View Ballot	Serena YuanⒸ , Lelan Hu , Regina Delgado Acevedo
+HWS A	4th	Opening Government	View Ballot	Manuel MachorroⒸ , Andy Yescas , Varun Lodaya
+Stanford BD	1st	Opening Opposition	View Ballot	Manuel MachorroⒸ , Andy Yescas , Varun Lodaya
+Columbia C	2nd	Closing Government	View Ballot	Manuel MachorroⒸ , Andy Yescas , Varun Lodaya
+Queen&#x27;s Nimai Abernethy	3rd	Closing Opposition	View Ballot	Manuel MachorroⒸ , Andy Yescas , Varun Lodaya
+California girls, we&#x27;re unforgetta	4th	Opening Government	View Ballot	Pranav AnandⒸ , Daksha Pillai , Emily Zhang
+HH The Last Dance	3rd	Opening Opposition	View Ballot	Pranav AnandⒸ , Daksha Pillai , Emily Zhang
+McGill RM	1st	Closing Government	View Ballot	Pranav AnandⒸ , Daksha Pillai , Emily Zhang
+Harvard GM	2nd	Closing Opposition	View Ballot	Pranav AnandⒸ , Daksha Pillai , Emily Zhang
+
+
+team	result	side	ballot	adjudicators
+PandITAM	3rd	Opening Government	View Ballot	Celine NghiemⒸ , Eric Guadarrama Cruz
+María y Brisa	2nd	Opening Opposition	View Ballot	Celine NghiemⒸ , Eric Guadarrama Cruz
+HWS C	4th	Closing Government	View Ballot	Celine NghiemⒸ , Eric Guadarrama Cruz
+TEC CEM Chile Relleno	1st	Closing Opposition	View Ballot	Celine NghiemⒸ , Eric Guadarrama Cruz
+Queen&#x27;s Lily Larkins	4th	Opening Government	View Ballot	Serena YuanⒸ , Daksha Pillai , Isolda Vela
+MLE Choppa	3rd	Opening Opposition	View Ballot	Serena YuanⒸ , Daksha Pillai , Isolda Vela
+Paradise City	2nd	Closing Government	View Ballot	Serena YuanⒸ , Daksha Pillai , Isolda Vela
+California girls, we&#x27;re unforgetta	1st	Closing Opposition	View Ballot	Serena YuanⒸ , Daksha Pillai , Isolda Vela
+Middlebury SG	4th	Opening Government	View Ballot	Natalia GarcíaⒸ , Felix Leonhardt , Preethi Mohan
+Alberta A	3rd	Opening Opposition	View Ballot	Natalia GarcíaⒸ , Felix Leonhardt , Preethi Mohan
+Stanford KR	2nd	Closing Government	View Ballot	Natalia GarcíaⒸ , Felix Leonhardt , Preethi Mohan
+Stanford AG	1st	Closing Opposition	View Ballot	Natalia GarcíaⒸ , Felix Leonhardt , Preethi Mohan
+Middlebury SM	4th	Opening Government	View Ballot	Jack MorgensteinⒸ , Arturo Aubry , James Lewis
+UCBerkeley Blue	2nd	Opening Opposition	View Ballot	Jack MorgensteinⒸ , Arturo Aubry , James Lewis
+UCBerkeley AD	3rd	Closing Government	View Ballot	Jack MorgensteinⒸ , Arturo Aubry , James Lewis
+Welcome to the Hotel California	1st	Closing Opposition	View Ballot	Jack MorgensteinⒸ , Arturo Aubry , James Lewis
+Californication	1st	Opening Government	View Ballot	Emily ZhangⒸ , Brian Conde Martinez
+Queen&#x27;s Annika Tucker	2nd	Opening Opposition	View Ballot	Emily ZhangⒸ , Brian Conde Martinez
+SCREEE	3rd	Closing Government	View Ballot	Emily ZhangⒸ , Brian Conde Martinez
+ITESM TOLUCA SS	4th	Closing Opposition	View Ballot	Emily ZhangⒸ , Brian Conde Martinez
+HWS B	2nd	Opening Government	View Ballot	Manuel MachorroⒸ , Eric Tu
+Dartmouth B	4th	Opening Opposition	View Ballot	Manuel MachorroⒸ , Eric Tu
+Last Hurrah	1st	Closing Government	View Ballot	Manuel MachorroⒸ , Eric Tu
+HH VAMOSSSSSS	3rd	Closing Opposition	View Ballot	Manuel MachorroⒸ , Eric Tu
+HH The Last Dance	2nd	Opening Government	View Ballot	Pranav AnandⒸ , Arturo Serrano Borrero , Cayden Pocrass
+Swarthmore A	4th	Opening Opposition	View Ballot	Pranav AnandⒸ , Arturo Serrano Borrero , Cayden Pocrass
+TEC CEM Torta de Chilaquil	3rd	Closing Government	View Ballot	Pranav AnandⒸ , Arturo Serrano Borrero , Cayden Pocrass
+Harvard AL	1st	Closing Opposition	View Ballot	Pranav AnandⒸ , Arturo Serrano Borrero , Cayden Pocrass
+Duke SZ	2nd	Opening Government	View Ballot	Elgin LinⒸ , Silin Wei , Vanessa Arroyo
+2 of Amerikaz Most Wanted	4th	Opening Opposition	View Ballot	Elgin LinⒸ , Silin Wei , Vanessa Arroyo
+McGill LT	1st	Closing Government	View Ballot	Elgin LinⒸ , Silin Wei , Vanessa Arroyo
+Yale LM	3rd	Closing Opposition	View Ballot	Elgin LinⒸ , Silin Wei , Vanessa Arroyo
+TECTOL-UAEMEX	2nd	Opening Government	View Ballot	Nitin AlaguⒸ , Hayley Cheung
+TMX Jose y Luis	1st	Opening Opposition	View Ballot	Nitin AlaguⒸ , Hayley Cheung
+Red Raider Debaters	3rd	Closing Government	View Ballot	Nitin AlaguⒸ , Hayley Cheung
+TEC CEM Tacos de mixiote	4th	Closing Opposition	View Ballot	Nitin AlaguⒸ , Hayley Cheung
+Yale ST	2nd	Opening Government	View Ballot	Tanvir ShahriarⒸ , Stephanie Chen
+Queen&#x27;s Nimai Abernethy	1st	Opening Opposition	View Ballot	Tanvir ShahriarⒸ , Stephanie Chen
+Stanford QF	4th	Closing Government	View Ballot	Tanvir ShahriarⒸ , Stephanie Chen
+Columbia C	3rd	Closing Opposition	View Ballot	Tanvir ShahriarⒸ , Stephanie Chen
+McGill WA	4th	Opening Government	View Ballot	Fernanda Crousillat RayterⒸ , Audrey Melody
+Yale DG	2nd	Opening Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Audrey Melody
+Rochester IN	3rd	Closing Government	View Ballot	Fernanda Crousillat RayterⒸ , Audrey Melody
+HH Whose gonna carry the boat?!	1st	Closing Opposition	View Ballot	Fernanda Crousillat RayterⒸ , Audrey Melody
+Harvard HS	1st	Opening Government	View Ballot	Kira WaldhalmⒸ , Sabás Alejandro Colmenares Lasnibat , Vallerya Acuna
+UWODS CL	4th	Opening Opposition	View Ballot	Kira WaldhalmⒸ , Sabás Alejandro Colmenares Lasnibat , Vallerya Acuna
+USC SW	3rd	Closing Government	View Ballot	Kira WaldhalmⒸ , Sabás Alejandro Colmenares Lasnibat , Vallerya Acuna
+USC BK	2nd	Closing Opposition	View Ballot	Kira WaldhalmⒸ , Sabás Alejandro Colmenares Lasnibat , Vallerya Acuna
+USC LD	2nd	Opening Government	View Ballot	Justin WuⒸ , Kenn Jiang , Nathaniel Tesfaye
+Stanford CT	1st	Opening Opposition	View Ballot	Justin WuⒸ , Kenn Jiang , Nathaniel Tesfaye
+maybe I&#x27;m delusional ☝️ debate is 	4th	Closing Government	View Ballot	Justin WuⒸ , Kenn Jiang , Nathaniel Tesfaye
+Stanford TY	3rd	Closing Opposition	View Ballot	Justin WuⒸ , Kenn Jiang , Nathaniel Tesfaye
+Stanford LS	4th	Opening Government	View Ballot	Lelan HuⒸ , Molly Callaghan , Valerie Pang
+Kalavagunta and Lu	1st	Opening Opposition	View Ballot	Lelan HuⒸ , Molly Callaghan , Valerie Pang
+Dartmouth A	3rd	Closing Government	View Ballot	Lelan HuⒸ , Molly Callaghan , Valerie Pang
+McGill RM	2nd	Closing Opposition	View Ballot	Lelan HuⒸ , Molly Callaghan , Valerie Pang
+UWODS A	3rd	Opening Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Jorge Alberto Galindo Jasso , Rohan Goda
+HH Xi Simping	1st	Opening Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Jorge Alberto Galindo Jasso , Rohan Goda
+EDS A	4th	Closing Government	View Ballot	Mauricio Jarufe CaballeroⒸ , Jorge Alberto Galindo Jasso , Rohan Goda
+HWS A	2nd	Closing Opposition	View Ballot	Mauricio Jarufe CaballeroⒸ , Jorge Alberto Galindo Jasso , Rohan Goda
+Technocratic communism	3rd	Opening Government	View Ballot	William ZhangⒸ , Casey Powell , William Chen
+Stanford BZ	4th	Opening Opposition	View Ballot	William ZhangⒸ , Casey Powell , William Chen
+TEC CEM Quesadillas &lt;3	2nd	Closing Government	View Ballot	William ZhangⒸ , Casey Powell , William Chen
+Dartmouth C	1st	Closing Opposition	View Ballot	William ZhangⒸ , Casey Powell , William Chen
+UBC TB	1st	Opening Government	View Ballot	Juanita Hincapié RestrepoⒸ , Gianluca Lo Porto , Varun Lodaya
+UCBerkeley XK	3rd	Opening Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Gianluca Lo Porto , Varun Lodaya
+UCBerkeley HE	2nd	Closing Government	View Ballot	Juanita Hincapié RestrepoⒸ , Gianluca Lo Porto , Varun Lodaya
+TMX Azulitos	4th	Closing Opposition	View Ballot	Juanita Hincapié RestrepoⒸ , Gianluca Lo Porto , Varun Lodaya
+HH $2.4 Million Settlement	2nd	Opening Government	View Ballot	Ann TranⒸ , Andy Yescas , Jasmine Goncalves Piment
+Columbia B	3rd	Opening Opposition	View Ballot	Ann TranⒸ , Andy Yescas , Jasmine Goncalves Piment
+Middlebury SW	1st	Closing Government	View Ballot	Ann TranⒸ , Andy Yescas , Jasmine Goncalves Piment
+/the/ mini eggs !	4th	Closing Opposition	View Ballot	Ann TranⒸ , Andy Yescas , Jasmine Goncalves Piment
+Yale NS	2nd	Opening Government	View Ballot	Meg KandarpaⒸ , Greg Kwok
+Columbia A	4th	Opening Opposition	View Ballot	Meg KandarpaⒸ , Greg Kwok
+Harvard GM	1st	Closing Government	View Ballot	Meg KandarpaⒸ , Greg Kwok
+Stanford BD	3rd	Closing Opposition	View Ballot	Meg KandarpaⒸ , Greg Kwok
+
+
+team	result	side	adjudicators
+Kalavagunta and Lu	advancing	Opening Government	Lelan HuⒸ , Stephanie Chen , Varun Lodaya
+California girls, we&#x27;re unforgetta	eliminated	Opening Opposition	Lelan HuⒸ , Stephanie Chen , Varun Lodaya
+HWS A	advancing	Closing Government	Lelan HuⒸ , Stephanie Chen , Varun Lodaya
+Stanford BD	eliminated	Closing Opposition	Lelan HuⒸ , Stephanie Chen , Varun Lodaya
+HH The Last Dance	advancing	Opening Government	Daksha PillaiⒸ , Fernanda Crousillat Rayter , Natalia García
+UBC TB	eliminated	Opening Opposition	Daksha PillaiⒸ , Fernanda Crousillat Rayter , Natalia García
+Yale NS	eliminated	Closing Government	Daksha PillaiⒸ , Fernanda Crousillat Rayter , Natalia García
+McGill RM	advancing	Closing Opposition	Daksha PillaiⒸ , Fernanda Crousillat Rayter , Natalia García
+Stanford LS	advancing	Opening Government	Rohan GodaⒸ , Arturo Serrano Borrero , Meg Kandarpa
+HH Xi Simping	eliminated	Opening Opposition	Rohan GodaⒸ , Arturo Serrano Borrero , Meg Kandarpa
+Harvard AL	eliminated	Closing Government	Rohan GodaⒸ , Arturo Serrano Borrero , Meg Kandarpa
+Harvard GM	advancing	Closing Opposition	Rohan GodaⒸ , Arturo Serrano Borrero , Meg Kandarpa
+Yale ST	advancing	Opening Government	Anette XiaⒸ , Greg Kwok , Juanita Hincapié Restrepo
+Dartmouth A	advancing	Opening Opposition	Anette XiaⒸ , Greg Kwok , Juanita Hincapié Restrepo
+Queen&#x27;s Nimai Abernethy	eliminated	Closing Government	Anette XiaⒸ , Greg Kwok , Juanita Hincapié Restrepo
+Columbia C	eliminated	Closing Opposition	Anette XiaⒸ , Greg Kwok , Juanita Hincapié Restrepo
+
+
+team	result	side	adjudicators
+Yale ST	eliminated	Opening Government	Juanita Hincapié RestrepoⒸ , Daksha Pillai , Meg Kandarpa , Pranav Anand , Stephanie Chen
+McGill RM	advancing	Opening Opposition	Juanita Hincapié RestrepoⒸ , Daksha Pillai , Meg Kandarpa , Pranav Anand , Stephanie Chen
+HH The Last Dance	eliminated	Closing Government	Juanita Hincapié RestrepoⒸ , Daksha Pillai , Meg Kandarpa , Pranav Anand , Stephanie Chen
+Dartmouth A	advancing	Closing Opposition	Juanita Hincapié RestrepoⒸ , Daksha Pillai , Meg Kandarpa , Pranav Anand , Stephanie Chen
+Stanford LS	advancing	Opening Government	Elgin LinⒸ , Isolda Vela , Manuel Machorro , Natalia García , Tanvir Shahriar
+HWS A	eliminated	Opening Opposition	Elgin LinⒸ , Isolda Vela , Manuel Machorro , Natalia García , Tanvir Shahriar
+Harvard GM	eliminated	Closing Government	Elgin LinⒸ , Isolda Vela , Manuel Machorro , Natalia García , Tanvir Shahriar
+Kalavagunta and Lu	advancing	Closing Opposition	Elgin LinⒸ , Isolda Vela , Manuel Machorro , Natalia García , Tanvir Shahriar
+
+
+team	result	side	adjudicators
+Kalavagunta and Lu	eliminated	Opening Government	Juanita Hincapié RestrepoⒸ , Elgin Lin , Fernanda Crousillat Rayter , Lelan Hu , Natalia García , Pranav Anand , Serena Yuan
+Stanford LS	eliminated	Opening Opposition	Juanita Hincapié RestrepoⒸ , Elgin Lin , Fernanda Crousillat Rayter , Lelan Hu , Natalia García , Pranav Anand , Serena Yuan
+Dartmouth A	advancing	Closing Government	Juanita Hincapié RestrepoⒸ , Elgin Lin , Fernanda Crousillat Rayter , Lelan Hu , Natalia García , Pranav Anand , Serena Yuan
+McGill RM	eliminated	Closing Opposition	Juanita Hincapié RestrepoⒸ , Elgin Lin , Fernanda Crousillat Rayter , Lelan Hu , Natalia García , Pranav Anand , Serena Yuan
+
+
+team	result	side	adjudicators
+Middlebury SG	eliminated	Opening Government	Serena YuanⒸ , Fernanda Crousillat Rayter , Lelan Hu , Preethi Mohan , Varun Lodaya
+Middlebury SW	eliminated	Opening Opposition	Serena YuanⒸ , Fernanda Crousillat Rayter , Lelan Hu , Preethi Mohan , Varun Lodaya
+TEC CEM Quesadillas &lt;3	eliminated	Closing Government	Serena YuanⒸ , Fernanda Crousillat Rayter , Lelan Hu , Preethi Mohan , Varun Lodaya
+TEC CEM Torta de Chilaquil	advancing	Closing Opposition	Serena YuanⒸ , Fernanda Crousillat Rayter , Lelan Hu , Preethi Mohan , Varun Lodaya
+
+
+team	result	side	adjudicators
+HWS B	eliminated	Opening Government	Isolda VelaⒸ , Jack Morgenstein , Mauricio Jarufe Caballero , Molly Callaghan , Silin Wei
+Paradise City	eliminated	Opening Opposition	Isolda VelaⒸ , Jack Morgenstein , Mauricio Jarufe Caballero , Molly Callaghan , Silin Wei
+UCBerkeley XK	advancing	Closing Government	Isolda VelaⒸ , Jack Morgenstein , Mauricio Jarufe Caballero , Molly Callaghan , Silin Wei
+McGill LT	eliminated	Closing Opposition	Isolda VelaⒸ , Jack Morgenstein , Mauricio Jarufe Caballero , Molly Callaghan , Silin Wei
+

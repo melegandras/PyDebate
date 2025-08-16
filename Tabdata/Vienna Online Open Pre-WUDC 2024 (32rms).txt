@@ -1,0 +1,1125 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	DS	1sts	2nds	Irons
+1	Oxford This is not a game of cards		1st	1st	1st	1st	1st	15	820	140	5	0	0
+2	Kamath &amp; Story		1st	2nd	1st	2nd	1st	13	815	137	3	2	0
+3	UPD Alcañeses &amp; Legaspi		1st	2nd	1st	1st	2nd	13	813	148	3	2	0
+4	OUI A	ESL	1st	1st	2nd	3rd	1st	12	809	144	3	1	0
+5	Mohanty and Anderson		1st	2nd	3rd	1st	1st	12	804	130	3	1	1
+6	Manchester A		3rd	1st	1st	2nd	1st	12	803	125	3	1	0
+7	Harvard A(lcoholism is a social construct)		1st	1st	1st	4th	2nd	11	808	145	3	1	0
+8	Edinburgh A(nd Team Scotland D)		1st	2nd	1st	4th	1st	11	804	147	3	1	0
+9	Team Scotland C		1st	1st	3rd	2nd	2nd	11	801	145	2	2	0
+10	USU Sydney Douglas and Freeland		1st	3rd	1st	1st	3rd	11	798	139	3	0	1
+11	Princeton LH		1st	2nd	2nd	2nd	2nd	11	797	142	1	4	1
+12	Cornell A		1st	1st	2nd	2nd	3rd	11	794	150	2	2	0
+13	Oxford C		1st	1st	3rd	3rd	1st	11	793	124	3	0	0
+14	Technion Wolf&amp;Wolff	ESL	1st	1st	4th	1st	2nd	11	792	135	3	1	0
+15	Joe Biden Yaoi		1st	3rd	2nd	2nd	1st	11	791	129	2	2	0
+16	KCL A		2nd	1st	1st	3rd	3rd	10	804	143	2	1	0
+17	Columbia A		2nd	1st	2nd	1st	4th	10	804	135	2	2	3
+18	Harvard JL		1st	2nd	2nd	1st	4th	10	795	137	2	2	0
+19	two debaters eating Christmas dinn	ESL	1st	3rd	3rd	1st	2nd	10	792	127	2	1	0
+20	LSE Locked Out		2nd	3rd	3rd	1st	1st	10	789	110	2	1	0
+21	University of Chicago Z		2nd	2nd	1st	4th	1st	10	788	110	2	2	0
+22	UCL CD		3rd	1st	2nd	3rd	1st	10	786	122	2	1	2
+23	TCD Phil B		3rd	2nd	1st	2nd	2nd	10	784	124	1	3	0
+24	Oxford A		4th	1st	2nd	1st	2nd	10	783	109	2	2	0
+25	Team Scotland A(ctually neither of		3rd	1st	2nd	2nd	2nd	10	780	109	1	3	0
+26	Princeton Inshallah boyz played well		2nd	2nd	1st	4th	1st	10	779	129	2	2	0
+27	Cambridge A		1st	2nd	3rd	2nd	3rd	9	797	128	1	2	0
+28	Berkeley XK		1st	4th	1st	1st	4th	9	794	135	3	0	0
+29	Oxford D		3rd	1st	3rd	1st	3rd	9	793	121	2	0	0
+30	one of us has brain damage, the ot		1st	3rd	1st	3rd	3rd	9	792	139	2	0	0
+31	Belgrade The late bird gets the worm as wel	ESL	2nd	2nd	2nd	2nd	3rd	9	792	121	0	4	0
+32	TCD Hist A		1st	4th	2nd	1st	3rd	9	786	125	2	1	0
+33	Tokyo A	ESL	2nd	1st	2nd	4th	2nd	9	785	127	1	3	0
+34	Cambridge C		1st	2nd	4th	3rd	1st	9	784	127	2	1	0
+35	IITB Sharun &amp; Nayantara	ESL	2nd	1st	4th	2nd	2nd	9	783	132	1	3	0
+36	Li &amp; Mcharo		1st	1st	4th	4th	1st	9	780	139	3	0	0
+37	PS bro		4th	1st	1st	1st	4th	9	780	129	3	0	0
+38	Eversince A	ESL	4th	1st	1st	3rd	2nd	9	779	119	2	1	0
+39	DTU আমার লিংগ চুষুন	ESL	2nd	3rd	2nd	2nd	2nd	9	778	112	0	4	0
+40	Belgrade BK	ESL	2nd	1st	3rd	1st	4th	9	777	123	2	1	0
+41	AUBG A	ESL, Novice	2nd	4th	1st	1st	3rd	9	772	106	2	1	0
+42	BDU π	ESL	3rd	2nd	1st	4th	1st	9	771	116	2	1	0
+43	CALedEOGHANia🏴󠁧󠁢󠁳󠁣󠁴󠁿		3rd	3rd	3rd	1st	1st	9	761	88	2	0	0
+44	IGNOU Nagda and Sayiram	ESL	3rd	2nd	1st	4th	1st	9	759	116	2	1	0
+45	TCD Phil A		1st	3rd	1st	3rd	4th	8	797	143	2	0	0
+46	Team Scotland B		1st	3rd	2nd	3rd	3rd	8	784	117	1	1	0
+47	KCL MH		4th	1st	4th	2nd	1st	8	776	106	2	1	0
+48	Sofyan Sultan	Novice	1st	4th	2nd	3rd	2nd	8	775	113	1	2	0
+49	We miss xiaolongbao	ESL	3rd	2nd	2nd	2nd	3rd	8	772	108	0	3	0
+50	Antidisestablishmentarian Hippopot	ESL, Novice	3rd	4th	1st	3rd	1st	8	769	95	2	0	0
+51	Tsukukoma X	ESL	3rd	1st	4th	1st	3rd	8	767	110	2	0	0
+52	Trincoll BR	ESL	3rd	2nd	2nd	4th	1st	8	766	116	1	2	0
+53	Imperial AM		1st	3rd	3rd	4th	1st	8	765	123	2	0	0
+54	Bitorko Onushilon	ESL	2nd	4th	1st	2nd	3rd	8	761	103	1	2	2
+55	UKI	ESL, Novice	4th	1st	2nd	3rd	2nd	8	761	100	1	2	0
+56	404: brains not found	Novice	2nd	3rd	3rd	3rd	1st	8	758	103	1	1	0
+57	Tokyo		4th	3rd	1st	2nd	2nd	8	758	94	1	2	0
+58	We KHAN see ourselves losing round	Novice	3rd	1st	3rd	3rd	2nd	8	756	123	1	1	0
+59	UCL JZ	Novice	4th	3rd	1st	2nd	2nd	8	741	87	1	2	0
+60	PUCP A	ESL	4th	2nd	1st	1st	—	8	605	78	2	1	0
+61	Cambridge B	Novice	1st	4th	4th	2nd	2nd	7	776	111	1	2	1
+62	KIMEP A	ESL	2nd	1st	4th	4th	2nd	7	769	124	1	2	0
+63	rayray &amp; jayjay		4th	1st	3rd	1st	4th	7	768	106	2	0	1
+64	USP A	ESL	2nd	2nd	4th	1st	4th	7	767	114	1	2	0
+65	LSE mihika’s pulling an all nighter fo		4th	1st	1st	3rd	4th	7	767	103	2	0	0
+66	Cambridge D	Novice	3rd	2nd	3rd	4th	1st	7	765	105	1	1	0
+67	daddy vipul goes international	ESL	3rd	3rd	1st	3rd	3rd	7	765	91	1	0	0
+68	√Yang	Novice	2nd	4th	3rd	1st	3rd	7	764	101	1	1	0
+69	registered the night before	ESL	2nd	2nd	4th	3rd	2nd	7	763	122	0	3	0
+70	That feeling	ESL	1st	4th	3rd	4th	1st	7	763	104	2	0	0
+71	Willamette Debate Union B		3rd	4th	1st	2nd	3rd	7	760	101	1	1	0
+72	Amherst BG		2nd	3rd	3rd	1st	4th	7	759	124	1	1	0
+73	Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaahh		3rd	1st	3rd	2nd	4th	7	758	110	1	1	0
+74	Perverse Incentive Structures	ESL	2nd	4th	1st	4th	2nd	7	757	92	1	2	0
+75	pachetelul lui David	ESL, Novice	2nd	3rd	2nd	3rd	3rd	7	754	106	0	2	0
+76	Willamette Debate Union		2nd	2nd	4th	1st	4th	7	753	119	1	2	0
+77	we&#x27;re not gay (i swear)	ESL, Novice	4th	1st	4th	1st	3rd	7	744	95	2	0	0
+78	Open MS	Novice	4th	4th	2nd	2nd	1st	7	732	70	1	2	0
+79	Swing A		3rd	3rd	2nd	—	1st	7	606	72	1	1	4
+80	ADUB A	ESL	—	2nd	4th	2nd	1st	7	595	57	1	2	0
+81	Carelle is here to do some last-mi	ESL	3rd	2nd	2nd	4th	3rd	6	777	118	0	2	0
+82	University of Chicago Y	ESL	2nd	1st	3rd	4th	4th	6	775	125	1	1	1
+83	Case? What Case?	ESL	2nd	2nd	4th	3rd	3rd	6	770	104	0	2	0
+84	two trainees		1st	4th	4th	3rd	2nd	6	769	108	1	1	0
+85	Panna Cotta	ESL	2nd	3rd	4th	2nd	3rd	6	759	114	0	2	0
+86	Copenhagen Sigma Schoolies	ESL, Novice	1st	4th	3rd	4th	2nd	6	757	127	1	1	1
+87	The devils	ESL, Novice	2nd	4th	2nd	2nd	4th	6	756	121	0	3	0
+88	Galnor session	ESL	3rd	4th	1st	2nd	4th	6	755	98	1	1	0
+89	Squirtle Squad	Novice	3rd	4th	2nd	2nd	3rd	6	755	88	0	2	0
+90	NU DM	ESL	3rd	3rd	3rd	3rd	2nd	6	753	93	0	1	0
+91	Princeton BH		1st	4th	4th	4th	1st	6	750	100	2	0	0
+92	The closest our treasurer will let		3rd	3rd	4th	3rd	1st	6	745	90	1	0	0
+93	Only Allah can save us now		4th	2nd	2nd	2nd	4th	6	744	107	0	3	0
+94	“It is not for glory, nor riches,	Novice	4th	3rd	3rd	2nd	2nd	6	742	82	0	2	0
+95	BG- U Cant c me		3rd	2nd	4th	1st	—	6	610	80	1	1	4
+96	Amherst X	ESL	—	—	1st	3rd	2nd	6	450	46	1	1	0
+97	Jungle diff	ESL	4th	2nd	2nd	4th	3rd	5	759	85	0	2	0
+98	BINUS	ESL, Novice	4th	2nd	3rd	3rd	3rd	5	753	101	0	1	0
+99	MUST A	ESL	2nd	1st	4th	4th	4th	5	751	119	1	1	0
+100	Stan Kiss of Life	ESL, Novice	3rd	3rd	3rd	2nd	4th	5	749	97	0	1	0
+101	Athens KM	ESL	4th	1st	4th	4th	2nd	5	746	97	1	1	0
+102	USP C	ESL, Novice	3rd	4th	1st	4th	3rd	5	746	97	1	0	1
+103	can they do it in a cold, lonely r	ESL	4th	4th	1st	2nd	4th	5	746	90	1	1	0
+104	Short prep, short debaters		4th	3rd	3rd	1st	4th	5	740	90	1	0	0
+105	University of Chicago X	Novice	3rd	4th	4th	1st	3rd	5	740	88	1	0	1
+106	Waxed Lightly Weathered Cut Copper	ESL, Novice	4th	3rd	2nd	3rd	3rd	5	732	97	0	1	1
+107	DGS - Round trip to the southpole	ESL	—	2nd	2nd	3rd	4th	5	598	75	0	2	1
+108	no thoughts, just meow meow	ESL	4th	2nd	4th	1st	—	5	588	70	1	1	0
+109	Argument Aquamarine	ESL	2nd	3rd	3rd	4th	4th	4	759	107	0	1	0
+110	NU MA	ESL	4th	3rd	2nd	3rd	4th	4	752	93	0	1	1
+111	Schnitzel A	Novice	2nd	4th	4th	4th	2nd	4	742	98	0	2	0
+112	MUST B	ESL	4th	4th	3rd	3rd	2nd	4	733	66	0	1	1
+113	Waltz Mischiefs	ESL	3rd	4th	4th	1st	4th	4	730	94	1	0	0
+114	CityUHK EDT		3rd	4th	4th	1st	4th	4	730	92	1	0	5
+115	Turn of your TV	ESL	4th	3rd	2nd	3rd	4th	4	715	94	0	1	0
+116	the student&#x27;s become the master an	ESL	2nd	3rd	3rd	4th	—	4	608	101	0	1	0
+117	Columbia B		2nd	2nd	—	—	—	4	316	43	0	2	0
+118	Latymer Ice Ice Babies	Novice	4th	3rd	2nd	4th	4th	3	747	90	0	1	0
+119	USP B	ESL	4th	3rd	3rd	4th	3rd	3	744	93	0	0	0
+120	reaalkooli esindus bridži maailmak	ESL, Novice	4th	4th	2nd	3rd	4th	3	734	76	0	1	0
+121	Imperial audio visual club	Novice	4th	4th	4th	4th	1st	3	731	72	1	0	0
+122	Wisconsin B		4th	3rd	3rd	4th	3rd	3	729	86	0	0	0
+123	Raven Hedgehog	ESL	3rd	4th	4th	3rd	3rd	3	717	86	0	0	0
+124	AAAAaaaa	Novice	3rd	3rd	3rd	4th	—	3	599	83	0	0	1
+125	Rosario he comprado tres garrafas D las gr	ESL	2nd	4th	4th	4th	4th	2	724	84	0	1	0
+126	Just4test	ESL	—	4th	4th	2nd	—	2	431	48	0	1	0
+127	Swing C		—	2nd	4th	—	—	2	296	37	0	1	1
+128	N and E	Novice	4th	4th	3rd	—	—	1	436	63	0	0	0
+129	Swing B		4th	4th	4th	—	4th	0	586	100	0	0	3
+130=	UCL A	Novice	—	—	—	—	—	—	—	0	0	0	0
+130=	Jai and Veer		—	—	—	—	—	—	—	0	0	0	0
+130=	IITB none of us is a first speaker	ESL	—	—	—	—	—	—	—	0	0	0	0
+130=	Yale BE		—	—	—	—	—	—	—	0	0	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Chris Mentis Cravaris		Oxford This is not a game of cards	81	83	83	83	81	411	82.20	0.98
+2	Tajei Puthucheary		Oxford This is not a game of cards	81	83	82	82	81	409	81.80	0.75
+3	Udai Kamath		Kamath &amp; Story	80	80	83	84	81	408	81.60	1.62
+4=	Jack Story		Kamath &amp; Story	79	81	85	83	79	407	81.40	2.33
+4=	Luigi Alcaneses		UPD Alcañeses &amp; Legaspi	79	80	84	84	80	407	81.40	2.15
+6=	Ayal Mor	ESL	OUI A	82	81	80	80	83	406	81.20	1.17
+6=	Bea Legaspi	ESL	UPD Alcañeses &amp; Legaspi	79	81	83	84	79	406	81.20	2.04
+8	Matt Mauriello		Harvard A(lcoholism is a social construct)	82	82	81	78	82	405	81.00	1.55
+9	Arjun Raman		KCL A	78	82	81	82	81	404	80.80	1.47
+10=	Mukudzeiishe Madzivire		Columbia A	79	82	80	84	78	403	80.60	2.15
+10=	Eli Ferrell		Edinburgh A(nd Team Scotland D)	80	80	82	80	81	403	80.60	0.80
+10=	Amitai Ben Porat	ESL	OUI A	82	81	79	78	83	403	80.60	1.85
+10=	Ted Chang		Harvard A(lcoholism is a social construct)	82	82	80	78	81	403	80.60	1.50
+14=	Abhinav Mohanty		Mohanty and Anderson	81	80	80	82	79	402	80.40	1.02
+14=	Wajeeh Maaz		Manchester A	77	81	80	81	83	402	80.40	1.96
+16=	Lucie Slamova		Manchester A	76	81	81	81	82	401	80.20	2.14
+16=	Cyrus Braden		Edinburgh A(nd Team Scotland D)	80	79	81	81	80	401	80.20	0.75
+16=	Miya Turner	Novice	Team Scotland C	80	84	77	80	80	401	80.20	2.23
+16=	Joshua Low		Cambridge A	80	82	80	80	79	401	80.20	0.98
+16=	Pavle Antonijević	ESL	Belgrade The late bird gets the worm as wel	80	80	82	80	79	401	80.20	0.98
+21=	Jacquelynn Ye Lin		Princeton LH	80	80	81	78	81	400	80.00	1.10
+21=	Freddy Simonnet-Lefevre		Team Scotland C	81	84	75	82	78	400	80.00	3.16
+21=	Henrietta Vanni		TCD Phil A	80	80	81	81	78	400	80.00	1.10
+21=	Robert Armstrong		KCL A	77	81	82	80	80	400	80.00	1.67
+25=	Shayor Ahmad Khan		Berkeley XK	78	80	84	80	77	399	79.80	2.40
+25=	Stefan Milicescu	ESL	LSE Locked Out	81	78	82	80	78	399	79.80	1.60
+25=	Mia Freeland		USU Sydney Douglas and Freeland	80	79	82	79	79	399	79.80	1.17
+28=	Barron Ren	Novice	Cornell A	78	80	81	81	78	398	79.60	1.36
+28=	Fraser McConachie		one of us has brain damage, the ot	82	82	78	78	78	398	79.60	1.96
+28=	David Safro	ESL	two debaters eating Christmas dinn	78	79	79	80	82	398	79.60	1.36
+28=	Bharath Anantham		Oxford C	78	82	77	80	81	398	79.60	1.85
+28=	Ethan Jiang		University of Chicago Z	79	79	81	79	80	398	79.60	0.80
+28=	Ricky Jin	ESL	Harvard JL	80	79	80	82	77	398	79.60	1.62
+34=	Will Ryan		Joe Biden Yaoi	82	76	79	77	83	397	79.40	2.73
+34=	Guy Wolf	ESL	Technion Wolf&amp;Wolff	81	81	75	81	79	397	79.40	2.33
+34=	Hilary Vanni		TCD Phil A	79	79	81	80	78	397	79.40	1.02
+34=	Marceli Potocki		Oxford D	77	80	80	81	79	397	79.40	1.36
+34=	Alex Lee	Novice	Harvard JL	79	79	80	81	78	397	79.40	1.02
+39=	Ram Orfanel		Cornell A	77	81	80	80	78	396	79.20	1.47
+39=	Olivia Arbour	Novice	Cambridge A	79	81	80	80	76	396	79.20	1.72
+39=	Lwandle Ntshangase		Oxford D	75	82	80	80	79	396	79.20	2.32
+42=	Edward Xu		Berkeley XK	78	81	79	80	77	395	79.00	1.41
+42=	Yael Wolff	ESL	Technion Wolf&amp;Wolff	81	80	75	79	80	395	79.00	2.10
+42=	Jess Williamson		Oxford C	78	82	76	79	80	395	79.00	2.00
+42=	Nasa Tsuchiya	ESL	Tokyo A	77	81	83	77	77	395	79.00	2.53
+46=	Belle Ho		Joe Biden Yaoi	80	77	78	76	83	394	78.80	2.48
+46=	Wurdaan Kashif		one of us has brain damage, the ot	81	81	78	76	78	394	78.80	1.94
+46=	Maj Hrovatin	ESL	two debaters eating Christmas dinn	77	78	78	80	81	394	78.80	1.47
+46=	Zainab Sardar		Team Scotland B	80	81	79	79	75	394	78.80	2.04
+46=	Adrianna Mazur	ESL	TCD Phil B	77	79	78	81	79	394	78.80	1.33
+51=	Tanush Agarwal		Oxford A	77	78	81	78	79	393	78.60	1.36
+51=	Rehan Haneef		TCD Hist A	80	75	77	82	79	393	78.60	2.42
+51=	Ziyad Anwer		TCD Hist A	80	75	79	80	79	393	78.60	1.85
+54=	Nayantara R	ESL	IITB Sharun &amp; Nayantara	78	79	76	80	79	392	78.40	1.36
+54=	Carol Xu	ESL	Carelle is here to do some last-mi	78	80	82	74	78	392	78.40	2.65
+54=	James Cater		Cambridge C	77	84	78	76	77	392	78.40	2.87
+54=	James Tam	Novice	Cambridge C	78	83	77	77	77	392	78.40	2.33
+58=	Sharun	ESL	IITB Sharun &amp; Nayantara	77	79	76	79	80	391	78.20	1.47
+58=	Kristjan Suuder	ESL	Eversince A	75	80	80	78	78	391	78.20	1.83
+58=	Jenny Li		Li &amp; Mcharo	80	81	75	76	79	391	78.20	2.32
+58=	Himan Nayak	ESL	DTU আমার লিংগ চুষুন	78	78	78	79	78	391	78.20	0.40
+58=	Kaustubh Jain		Princeton Inshallah boyz played well	79	76	79	78	79	391	78.20	1.17
+58=	Luka Maksić	ESL	Belgrade The late bird gets the worm as wel	78	78	80	78	77	391	78.20	0.98
+64=	Strahinja Batanjski	ESL	Belgrade BK	75	79	77	83	76	390	78.00	2.83
+64=	Henry Clement-Jones		KCL MH	77	79	76	78	80	390	78.00	1.41
+64=	Michele Liu	Novice	LSE Locked Out	79	77	79	78	77	390	78.00	0.89
+64=	Deon Kiew		PS bro	76	78	79	78	79	390	78.00	1.10
+64=	Lee Wei Le		PS bro	76	77	79	79	79	390	78.00	1.26
+64=	Bonfilio Dazzle Valeriano Gyula		Oxford A	75	76	80	79	80	390	78.00	2.10
+64=	Joshua Stone		Team Scotland A(ctually neither of	75	80	77	80	78	390	78.00	1.90
+64=	Tom Milling		Team Scotland A(ctually neither of	75	81	78	79	77	390	78.00	2.00
+64=	Callum Hendry	Novice	Team Scotland B	80	77	79	79	75	390	78.00	1.79
+64=	Jesenia Parthasarathy		University of Chicago Z	78	78	79	76	79	390	78.00	1.10
+64=	Kotaro Yoshida	ESL	Tokyo A	76	80	81	76	77	390	78.00	2.10
+64=	Mark Heanue		TCD Phil B	76	77	76	81	80	390	78.00	2.10
+76=	Alexis Baraka Mcharo		Li &amp; Mcharo	78	79	76	76	80	389	77.80	1.60
+76=	Nicole Cheng	ESL	We miss xiaolongbao	77	78	78	80	76	389	77.80	1.33
+78=	Ramon Gelkov	ESL	Eversince A	74	79	79	78	78	388	77.60	1.85
+78=	Bilal Ikram	Novice	Sofyan Sultan	80	77	76	78	77	388	77.60	1.36
+78=	Sheryar Ahmad Fazal		Princeton Inshallah boyz played well	78	75	78	78	79	388	77.60	1.36
+81=	Obrad Kostić	ESL	Belgrade BK	74	77	77	82	77	387	77.40	2.58
+81=	Inga Peters	ESL	BDU π	77	77	78	78	77	387	77.40	0.49
+81=	Daniyar Baimagambetov	ESL	KIMEP A	77	78	78	77	77	387	77.40	0.49
+81=	Rayaan Aly Khan	Novice	Sofyan Sultan	80	77	77	77	76	387	77.40	1.36
+81=	Rishabh Gupta	ESL	DTU আমার লিংগ চুষুন	76	77	78	79	77	387	77.40	1.02
+81=	Tania Acsinte	ESL	University of Chicago Y	78	79	78	76	76	387	77.40	1.20
+81=	David Zu		two trainees	80	77	75	78	77	387	77.40	1.62
+81=	Imran Ilmam	ESL	Case? What Case?	79	77	78	79	74	387	77.40	1.85
+89=	Michael O’Shaughnessy	Novice	KCL MH	76	79	76	76	79	386	77.20	1.47
+89=	Presian Mihaylov	ESL, Novice	AUBG A	78	71	80	80	77	386	77.20	3.31
+89=	Mihaela Peeva	ESL, Novice	AUBG A	78	73	79	80	76	386	77.20	2.48
+89=	Adam Dhilshan	ESL, Novice	Antidisestablishmentarian Hippopot	75	78	78	75	80	386	77.20	1.94
+93=	Elle Tang	ESL	Carelle is here to do some last-mi	77	78	80	74	76	385	77.00	2.00
+93=	Anthony Gong	Novice	Cambridge B	77	76	79	75	78	385	77.00	1.41
+93=	Clarissa Dias	ESL	Trincoll BR	78	76	77	77	77	385	77.00	0.63
+93=	Mustafaa Khan		Imperial AM	78	77	78	75	77	385	77.00	1.10
+97=	Pavel Kalinnikov	ESL	BDU π	76	76	77	77	78	384	76.80	0.75
+97=	Meagan Tam	Novice	LSE mihika’s pulling an all nighter fo	75	78	77	78	76	384	76.80	1.17
+97=	Guilherme Pereira Rodrigues	ESL	USP A	76	77	76	79	76	384	76.80	1.17
+97=	Seiichiro Tsutagawa	ESL	Tsukukoma X	76	79	73	79	77	384	76.80	2.23
+101=	Abhiraj Saxena	Novice	404: brains not found	78	74	77	77	77	383	76.60	1.36
+101=	Aniq Jiwani	ESL	daddy vipul goes international	77	77	77	77	75	383	76.60	0.80
+101=	Mihika Chechi		LSE mihika’s pulling an all nighter fo	74	78	78	77	76	383	76.60	1.50
+101=	Fernando Meylan	ESL	USP A	77	75	76	79	76	383	76.60	1.36
+101=	Raymond Qiu		rayray &amp; jayjay	74	78	76	80	75	383	76.60	2.15
+101=	Tomoya Mizutani	ESL	Tsukukoma X	75	79	74	79	76	383	76.60	2.06
+101=	Jim Yueh	ESL	We miss xiaolongbao	75	77	76	79	76	383	76.60	1.36
+101=	Zihan Tian	Novice	Cambridge D	77	77	77	75	77	383	76.60	0.80
+101=	T. Tharaniharan	ESL, Novice	Antidisestablishmentarian Hippopot	75	77	77	75	79	383	76.60	1.50
+101=	Abdullah Khan	Novice	We KHAN see ourselves losing round	76	78	72	77	80	383	76.60	2.65
+101=	Valentin Katzarov	ESL	That feeling	78	75	76	76	78	383	76.60	1.20
+101=	Natalie Roots-Nowakowski	Novice	√Yang	78	75	75	78	77	383	76.60	1.36
+101=	Mahor Nagda	ESL	IGNOU Nagda and Sayiram	73	76	79	74	81	383	76.60	3.01
+101=	Arnav Agarwal	ESL	Case? What Case?	79	76	78	76	74	383	76.60	1.74
+115=	Bekzhan Kairzhanov	ESL	KIMEP A	76	78	77	76	75	382	76.40	1.02
+115=	Chinmay Hegde	ESL	daddy vipul goes international	76	77	78	77	74	382	76.40	1.36
+115=	Simon Yu		two trainees	79	76	74	77	76	382	76.40	1.62
+115=	Thomas Potter	Novice	Cambridge D	77	76	78	73	78	382	76.40	1.85
+115=	Josiah Butler		Willamette Debate Union	77	80	72	80	73	382	76.40	3.38
+115=	Francis Revilla	ESL	registered the night before	76	76	77	78	75	382	76.40	1.02
+121=	Tanzim Hossain	ESL	Bitorko Onushilon	75	73	78	77	78	381	76.20	1.94
+121=	Alen Aussenov	ESL, Novice	Argument Aquamarine	80	75	78	76	72	381	76.20	2.71
+121=	Jakub Hlavacek	ESL	Jungle diff	77	77	76	76	75	381	76.20	0.75
+121=	Samuel Knijnik	ESL	Trincoll BR	76	76	76	76	77	381	76.20	0.40
+121=	Adam Černička	ESL	Panna Cotta	77	75	73	78	78	381	76.20	1.94
+121=	cal birtley		CALedEOGHANia🏴󠁧󠁢󠁳󠁣󠁴󠁿	77	75	75	80	74	381	76.20	2.14
+121=	Yamato Obinata	ESL	Tokyo	73	76	76	79	77	381	76.20	1.94
+121=	Ramazan Bayram Sofiano	ESL, Novice	UKI	76	76	78	75	76	381	76.20	0.98
+121=	Lucas Yang	Novice	√Yang	77	76	75	77	76	381	76.20	0.75
+121=	Aiden Dopson		Willamette Debate Union B	74	73	78	79	77	381	76.20	2.32
+121=	Darin Mansurbeg	ESL, Novice	Copenhagen Sigma Schoolies	77	77	77	74	76	381	76.20	1.17
+121=	Andreas Punzalan	ESL	registered the night before	78	75	75	77	76	381	76.20	1.17
+133=	Cecilia Granda-Scott		Amherst BG	74	77	76	78	75	380	76.00	1.41
+133=	eoghan connolly		CALedEOGHANia🏴󠁧󠁢󠁳󠁣󠁴󠁿	76	75	75	80	74	380	76.00	2.10
+133=	Ilina Pashkunova	ESL, Novice	That feeling	77	74	76	76	77	380	76.00	1.10
+133=	Fransiska Anastasia Hutabarat	ESL, Novice	UKI	75	77	77	75	76	380	76.00	0.89
+133=	Aral Majid	Novice	Imperial AM	77	74	78	75	76	380	76.00	1.41
+138=	Raina Batra	Novice	Amherst BG	75	76	75	78	75	379	75.80	1.17
+138=	Irina Modoi	ESL, Novice	pachetelul lui David	76	76	78	74	75	379	75.80	1.33
+138=	Hubert Lee	Novice	Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaahh	74	77	76	76	76	379	75.80	0.98
+138=	Alastor Perng		Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaahh	75	77	76	76	75	379	75.80	0.75
+138=	Josef Singson	ESL	Perverse Incentive Structures	77	74	77	72	79	379	75.80	2.48
+138=	Zander Huston		Willamette Debate Union B	74	74	78	77	76	379	75.80	1.60
+144=	Madina Railova	ESL	Argument Aquamarine	80	73	76	77	72	378	75.60	2.87
+144=	Kryštof Olša	ESL, Novice	Jungle diff	77	77	75	75	74	378	75.60	1.20
+144=	Fatima Haider		Princeton BH	79	76	76	72	75	378	75.60	2.24
+144=	Natalie Ang	Novice	Squirtle Squad	76	72	76	79	75	378	75.60	2.24
+144=	Marie Heidrová	ESL, Novice	Galnor session	78	74	75	76	75	378	75.60	1.36
+144=	Petr Kosička	ESL, Novice	Panna Cotta	76	74	73	78	77	378	75.60	1.85
+144=	Jaron Pomer	ESL	Perverse Incentive Structures	76	74	76	73	79	378	75.60	2.06
+144=	Alena Tichá	ESL, Novice	The devils	77	74	76	77	74	378	75.60	1.36
+144=	Jan Jaroslav Pozdník	ESL, Novice	The devils	78	74	75	77	74	378	75.60	1.62
+153=	Jennifer Marcellyn Cen	ESL, Novice	BINUS	74	77	73	77	76	377	75.40	1.62
+153=	Meiirzhan Yerulan	ESL	NU DM	74	75	76	76	76	377	75.40	0.80
+153=	Altynay Zamanbekova	ESL	NU MA	76	77	75	75	74	377	75.40	1.02
+153=	Chong Ming Shan	Novice	Squirtle Squad	76	73	76	77	75	377	75.40	1.36
+153=	Tomáš Galnor	ESL	Galnor session	77	74	76	75	75	377	75.40	1.02
+153=	Tomoaki Sano		Tokyo	72	75	75	78	77	377	75.40	2.06
+159=	Rachel Chen	ESL, Novice	BINUS	73	76	74	77	76	376	75.20	1.47
+159=	Dina Aidyn	ESL	NU DM	74	75	76	75	76	376	75.20	0.75
+159=	Alex Gao	ESL	MUST A	76	76	75	75	74	376	75.20	0.75
+159=	V Sayiram	ESL	IGNOU Nagda and Sayiram	70	75	78	74	79	376	75.20	3.19
+163=	Andrii Kostiuk	ESL	can they do it in a cold, lonely r	76	72	77	78	72	375	75.00	2.53
+163=	Ethan Loh	Novice	404: brains not found	76	72	75	76	76	375	75.00	1.55
+163=	Iarin Pralea	ESL, Novice	pachetelul lui David	74	75	78	73	75	375	75.00	1.67
+163=	Deo Rusev	ESL, Novice	Stan Kiss of Life	75	75	74	76	75	375	75.00	0.63
+163=	Musky Shen	ESL	MUST A	77	76	74	74	74	375	75.00	1.26
+168=	Joseph Laurencin	Novice	Latymer Ice Ice Babies	75	74	77	75	73	374	74.80	1.33
+168=	Kathy Nankova	ESL, Novice	Stan Kiss of Life	75	75	74	76	74	374	74.80	0.75
+168=	Yehezkiel Moranello	ESL, Novice	we&#x27;re not gay (i swear)	76	79	74	76	69	374	74.80	3.31
+171=	Katerina Armata	ESL	Athens KM	75	76	76	72	74	373	74.60	1.50
+171=	Maro Samara	ESL	Athens KM	74	77	76	72	74	373	74.60	1.74
+171=	Sam Jakobi	Novice	Latymer Ice Ice Babies	74	75	77	74	73	373	74.60	1.36
+171=	Yonatan Etzion-Rosenberg	ESL, Novice	Schnitzel A	76	72	75	74	76	373	74.60	1.50
+171=	Josh Slocombe		The closest our treasurer will let	77	76	69	75	76	373	74.60	2.87
+171=	Yueqian Wang	ESL	Only Allah can save us now	74	77	76	78	68	373	74.60	3.56
+171=	Ferrari Zhang	Novice	We KHAN see ourselves losing round	75	75	71	75	77	373	74.60	1.96
+171=	Theo Cunningham	Novice	“It is not for glory, nor riches,	75	76	72	75	75	373	74.60	1.36
+179=	Mya Koffie		Princeton BH	76	76	74	71	75	372	74.40	1.85
+179=	Asher Jayson	Novice	The closest our treasurer will let	76	76	69	75	76	372	74.40	2.73
+179=	Zachary Cheung	Novice	UCL JZ	73	76	78	76	69	372	74.40	3.14
+179=	Caio Castro	ESL	USP B	76	74	75	74	73	372	74.40	1.02
+179=	Júlia Wong	ESL	USP B	75	73	76	74	74	372	74.40	1.02
+179=	Giovanni Zimmer	ESL, Novice	USP C	76	73	74	76	73	372	74.40	1.36
+185=	Ann Stepaniuk	ESL	can they do it in a cold, lonely r	76	70	76	77	72	371	74.20	2.71
+185=	Hamza Aziz		Only Allah can save us now	74	76	77	78	66	371	74.20	4.31
+185=	Viktorie Petráčková		Short prep, short debaters	74	72	75	78	72	371	74.20	2.23
+185=	Mitch Septoff		Willamette Debate Union	76	77	70	77	71	371	74.20	3.06
+189=	Gavin An	Novice	University of Chicago X	73	76	72	74	75	370	74.00	1.41
+189=	Theresa Angelica Hartono	ESL, Novice	we&#x27;re not gay (i swear)	75	77	74	77	67	370	74.00	3.69
+191=	Tumen-Amgalan Tumentsogt	ESL, Novice	CityUHK EDT	76	71	75	75	72	369	73.80	1.94
+191=	Daniel Geffen	Novice	Schnitzel A	73	72	75	74	75	369	73.80	1.17
+191=	Jay Ooi	Novice	UCL JZ	73	74	76	77	69	369	73.80	2.79
+191=	Kristián Čech	ESL	Short prep, short debaters	73	72	75	77	72	369	73.80	1.94
+191=	Luyanda Madliwa	Novice	“It is not for glory, nor riches,	75	75	72	73	74	369	73.80	1.17
+196=	Anya Chaudhary	Novice	Imperial audio visual club	73	73	75	72	75	368	73.60	1.20
+196=	Olivia Kurrel	ESL, Novice	reaalkooli esindus bridži maailmak	73	74	76	72	73	368	73.60	1.36
+196=	Soumyajit Saha	Novice	Open MS	73	71	71	76	77	368	73.60	2.50
+199	Oliver Zhou	ESL	MUST B	74	74	75	73	71	367	73.40	1.36
+200=	Emil Kerik	ESL, Novice	reaalkooli esindus bridži maailmak	74	72	76	72	72	366	73.20	1.60
+200=	Joi Chen	ESL	Waltz Mischiefs	74	74	73	74	71	366	73.20	1.17
+200=	Raashid Cassim	ESL, Novice	Waxed Lightly Weathered Cut Copper	71	74	73	74	74	366	73.20	1.17
+200=	Joseph Panzer		Wisconsin B	75	74	73	71	73	366	73.20	1.33
+204=	Devy Han	ESL	Waltz Mischiefs	73	73	72	75	71	364	72.80	1.33
+204=	Vera Wesselkamp	ESL	Turn of your TV	69	74	77	72	72	364	72.80	2.64
+204=	Manon Memmi	Novice	Open MS	73	69	71	75	76	364	72.80	2.56
+207=	Venus	ESL, Novice	Imperial audio visual club	72	73	74	72	72	363	72.60	0.80
+207=	Juan Esteban Triviño	ESL	Rosario he comprado tres garrafas D las gr	77	76	73	67	70	363	72.60	3.72
+207=	Patrick DeCabooter	Novice	Wisconsin B	73	73	73	70	74	363	72.60	1.36
+210=	Ilya Lapatin	ESL	Raven Hedgehog	75	73	71	72	70	361	72.20	1.72
+210=	Daniela Leyton Giraldo	ESL	Rosario he comprado tres garrafas D las gr	77	74	73	67	70	361	72.20	3.43
+212	Artem Voronov	ESL	Raven Hedgehog	75	72	69	69	71	356	71.20	2.23
+213	Takeshi Himeno	ESL	Turn of your TV	69	75	75	72	60	351	70.20	5.56
+214	Maya Anderson		Mohanty and Anderson	80	—	80	81	81	322	80.50	0.50
+215	Eleanor Douglas		USU Sydney Douglas and Freeland	79	78	83	81	—	321	80.25	1.92
+216	Md Afzal Hussain		Princeton LH	—	78	80	78	82	318	79.50	1.66
+217=	Manav Dhaliwal		UCL CD	76	79	78	—	81	314	78.50	1.80
+217=	Rohan Campion		UCL CD	78	80	78	78	—	314	78.50	0.87
+219	Redacted	Novice	—	79	76	81	77	—	313	78.25	1.92
+220	Alicja Wolinska	ESL	University of Chicago Y	—	78	80	77	76	311	77.75	1.48
+221	Jacqueline Huang	Novice	rayray &amp; jayjay	76	78	76	80	—	310	77.50	1.66
+222	Victor Awerianow	ESL	BG- U Cant c me	76	79	74	78	—	307	76.75	1.92
+223=	Richard Käsper	ESL	the student&#x27;s become the master an	79	75	76	75	—	305	76.25	1.64
+223=	Speaker 1A		Swing A	76	76	75	—	78	305	76.25	1.09
+225=	Diego Nunez del Prado	ESL	PUCP A	74	76	77	76	—	303	75.75	1.09
+225=	Tommi Valgma	ESL	the student&#x27;s become the master an	78	75	76	74	—	303	75.75	1.48
+227=	Sebastian Ezeta	ESL	PUCP A	73	76	76	77	—	302	75.50	1.50
+227=	Maria	ESL, Novice	Copenhagen Sigma Schoolies	75	77	76	74	—	302	75.50	1.12
+229=	Alisa Popova	Novice	AAAAaaaa	75	79	74	73	—	301	75.25	2.28
+229=	Merey Balgabayeva	ESL	NU MA	75	76	—	76	74	301	75.25	0.83
+231	Luis Felipe Garcia	ESL	ADUB A	—	77	73	73	77	300	75.00	2.00
+232=	Redacted	Novice	—	73	76	—	75	75	299	74.75	1.09
+232=	Gabriela Rocha	ESL, Novice	USP C	—	73	76	77	73	299	74.75	1.79
+234=	Angela Buquet	ESL	ADUB A	—	76	73	72	74	295	73.75	1.48
+234=	Patryk Biernat	ESL	no thoughts, just meow meow	69	77	72	77	—	295	73.75	3.42
+234=	Trường Giang Nguyễn	ESL, Novice	DGS - Round trip to the southpole	—	76	74	72	73	295	73.75	1.48
+237=	Senuka Seneviratne	ESL, Novice	Waxed Lightly Weathered Cut Copper	71	75	73	75	—	294	73.50	1.66
+237=	Erin Xu	ESL	MUST B	74	74	75	—	71	294	73.50	1.50
+239=	Nadia Mayer	ESL	no thoughts, just meow meow	68	76	74	75	—	293	73.25	3.11
+239=	Speaker 1B		Swing B	73	73	73	—	74	293	73.25	0.43
+241	Đỗ Thư Mai	ESL	DGS - Round trip to the southpole	—	—	76	77	75	228	76.00	0.82
+242=	Monmoy Maahdie	ESL	Bitorko Onushilon	76	73	—	—	77	226	75.33	1.70
+242=	Kamil Mahmood	ESL	Amherst X	—	—	72	77	77	226	75.33	2.36
+244	Raffay Tabassum	ESL	Amherst X	—	—	72	75	77	224	74.67	2.05
+245	Amalie Bøgh-Sørensen	ESL, Novice	AAAAaaaa	73	—	74	73	—	220	73.33	0.47
+246	Ethan Lo	Novice	N and E	76	73	70	—	—	219	73.00	2.45
+247=	Nathan Wong	Novice	N and E	76	73	68	—	—	217	72.33	3.30
+247=	Redacted	ESL	—	—	75	69	73	—	217	72.33	2.49
+249	Redacted	ESL	—	—	72	68	74	—	214	71.33	2.49
+250	Victor Tong		Columbia A	—	—	—	83	78	161	80.50	2.50
+251	Tanya Chatterjee		Columbia B	78	82	—	—	—	160	80.00	2.00
+252	Rohan Sundaram		Columbia B	77	79	—	—	—	156	78.00	1.00
+253	Speaker 1C		Swing C	—	76	73	—	—	149	74.50	1.50
+254	Speaker 2C		Swing C	—	75	—	—	—	75	75.00	0.00
+255	Speaker 2B		Swing B	—	—	73	—	—	73	73.00	0.00
+256=	Yuval Lurie	ESL	BG- U Cant c me	—	—	—	—	—	—	—	—
+256=	Jai Midha	Novice	Jai and Veer	—	—	—	—	—	—	—	—
+256=	Veer Juneja		Jai and Veer	—	—	—	—	—	—	—	—
+256=	Hana Regan	ESL, Novice	CityUHK EDT	—	—	—	—	—	—	—	—
+256=	Maya Huang	Novice	UCL A	—	—	—	—	—	—	—	—
+256=	Esther Luscher	Novice	UCL A	—	—	—	—	—	—	—	—
+256=	Manan	ESL	IITB none of us is a first speaker	—	—	—	—	—	—	—	—
+256=	Stithadhi	ESL	IITB none of us is a first speaker	—	—	—	—	—	—	—	—
+256=	Netra Easwaran		Yale BE	—	—	—	—	—	—	—	—
+256=	William Berry		Yale BE	—	—	—	—	—	—	—	—
+256=	Speaker 2A		Swing A	—	—	—	—	—	—	—	—
+
+
+team	result	side	ballot	adjudicators
+Eversince A	4th	Closing Government	View Ballot	Saleem SalisuⒸ , Samuel Summer
+two debaters eating Christmas dinn	1st	Closing Opposition	View Ballot	Saleem SalisuⒸ , Samuel Summer
+Team Scotland A(ctually neither of	3rd	Opening Government	View Ballot	Saleem SalisuⒸ , Samuel Summer
+Panna Cotta	2nd	Opening Opposition	View Ballot	Saleem SalisuⒸ , Samuel Summer
+Joe Biden Yaoi	1st	Opening Opposition	View Ballot	Boaz KatzirⒸ , Oren Shacham
+BINUS	4th	Opening Government	View Ballot	Boaz KatzirⒸ , Oren Shacham
+Oxford D	3rd	Closing Government	View Ballot	Boaz KatzirⒸ , Oren Shacham
+registered the night before	2nd	Closing Opposition	View Ballot	Boaz KatzirⒸ , Oren Shacham
+UPD Alcañeses &amp; Legaspi	1st	Closing Opposition	View Ballot	Dominic FerrisⒸ , Minh-Nhat Le TranⓉ
+Waxed Lightly Weathered Cut Copper	4th	Opening Opposition	View Ballot	Dominic FerrisⒸ , Minh-Nhat Le TranⓉ
+IGNOU Nagda and Sayiram	3rd	Closing Government	View Ballot	Dominic FerrisⒸ , Minh-Nhat Le TranⓉ
+Tokyo A	2nd	Opening Government	View Ballot	Dominic FerrisⒸ , Minh-Nhat Le TranⓉ
+KIMEP A	2nd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Tejas
+Swing A	3rd	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Tejas
+Swing B	4th	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Tejas
+USU Sydney Douglas and Freeland	1st	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Tejas
+Jungle diff	4th	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ , Eoin Connolly , Max Gasslitter StroblⓉ
+two trainees	1st	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ , Eoin Connolly , Max Gasslitter StroblⓉ
+Galnor session	3rd	Opening Government	View Ballot	Klaudia MaciejewskaⒸ , Eoin Connolly , Max Gasslitter StroblⓉ
+Case? What Case?	2nd	Closing Government	View Ballot	Klaudia MaciejewskaⒸ , Eoin Connolly , Max Gasslitter StroblⓉ
+Stan Kiss of Life	3rd	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Rick Tan
+Oxford C	1st	Closing Government	View Ballot	Ananya KrishnaⒸ , Rick Tan
+Wisconsin B	4th	Opening Government	View Ballot	Ananya KrishnaⒸ , Rick Tan
+MUST A	2nd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Rick Tan
+N and E	4th	Opening Government	View Ballot	Theo DorfnerⒸ
+TCD Hist A	1st	Closing Government	View Ballot	Theo DorfnerⒸ
+AUBG A	2nd	Opening Opposition	View Ballot	Theo DorfnerⒸ
+CALedEOGHANia🏴󠁧󠁢󠁳󠁣󠁴󠁿	3rd	Closing Opposition	View Ballot	Theo DorfnerⒸ
+Belgrade BK	2nd	Closing Opposition	View Ballot	William SmithⒸ , Auguste McNally
+no thoughts, just meow meow	4th	Opening Government	View Ballot	William SmithⒸ , Auguste McNally
+NU DM	3rd	Closing Government	View Ballot	William SmithⒸ , Auguste McNally
+Imperial AM	1st	Opening Opposition	View Ballot	William SmithⒸ , Auguste McNally
+Latymer Ice Ice Babies	4th	Opening Opposition	View Ballot	Liam UrbanⒸ , Ana Nari Carrillo
+USP A	2nd	Closing Opposition	View Ballot	Liam UrbanⒸ , Ana Nari Carrillo
+USP C	3rd	Opening Government	View Ballot	Liam UrbanⒸ , Ana Nari Carrillo
+Harvard JL	1st	Closing Government	View Ballot	Liam UrbanⒸ , Ana Nari Carrillo
+daddy vipul goes international	3rd	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Aryan Khokher
+reaalkooli esindus bridži maailmak	4th	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Aryan Khokher
+Rosario he comprado tres garrafas D las gr	2nd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Aryan Khokher
+That feeling	1st	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Aryan Khokher
+CityUHK EDT	3rd	Opening Government	View Ballot	Narayan SharmaⒸ , Sasha Khovrak
+Sofyan Sultan	1st	Closing Opposition	View Ballot	Narayan SharmaⒸ , Sasha Khovrak
+University of Chicago Z	2nd	Opening Opposition	View Ballot	Narayan SharmaⒸ , Sasha Khovrak
+Short prep, short debaters	4th	Closing Government	View Ballot	Narayan SharmaⒸ , Sasha Khovrak
+Princeton BH	1st	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Jodel Avenis
+Squirtle Squad	3rd	Opening Government	View Ballot	Rushdoon AhmedⒸ , Jodel Avenis
+Perverse Incentive Structures	2nd	Closing Government	View Ballot	Rushdoon AhmedⒸ , Jodel Avenis
+USP B	4th	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Jodel Avenis
+Imperial audio visual club	4th	Opening Opposition	View Ballot	Victor BervoetsⒸ
+LSE Locked Out	2nd	Closing Government	View Ballot	Victor BervoetsⒸ
+OUI A	1st	Opening Government	View Ballot	Victor BervoetsⒸ
+Waltz Mischiefs	3rd	Closing Opposition	View Ballot	Victor BervoetsⒸ
+Bitorko Onushilon	2nd	Opening Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Teymour Aldridge
+Berkeley XK	1st	Opening Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Teymour Aldridge
+PUCP A	4th	Closing Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Teymour Aldridge
+Antidisestablishmentarian Hippopot	3rd	Closing Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Teymour Aldridge
+Columbia A	2nd	Opening Opposition	View Ballot	Sachin TisseraⒸ
+Athens KM	4th	Opening Government	View Ballot	Sachin TisseraⒸ
+Princeton LH	1st	Closing Government	View Ballot	Sachin TisseraⒸ
+Trincoll BR	3rd	Closing Opposition	View Ballot	Sachin TisseraⒸ
+Amherst BG	2nd	Opening Government	View Ballot	Abrar AhmedⒸ , Jehiel Pather
+Cornell A	1st	Opening Opposition	View Ballot	Abrar AhmedⒸ , Jehiel Pather
+University of Chicago X	3rd	Closing Government	View Ballot	Abrar AhmedⒸ , Jehiel Pather
+Turn of your TV	4th	Closing Opposition	View Ballot	Abrar AhmedⒸ , Jehiel Pather
+BDU π	3rd	Closing Opposition	View Ballot	Prosper MichaelⒸ , Ashlyn LuⓉ
+PS bro	4th	Closing Government	View Ballot	Prosper MichaelⒸ , Ashlyn LuⓉ
+Edinburgh A(nd Team Scotland D)	1st	Opening Opposition	View Ballot	Prosper MichaelⒸ , Ashlyn LuⓉ
+Princeton Inshallah boyz played well	2nd	Opening Government	View Ballot	Prosper MichaelⒸ , Ashlyn LuⓉ
+Argument Aquamarine	2nd	Closing Government	View Ballot	Jeremiah EdagbamiⒸ , Aleksandra Durbazeva
+Raven Hedgehog	3rd	Opening Government	View Ballot	Jeremiah EdagbamiⒸ , Aleksandra Durbazeva
+Oxford This is not a game of cards	1st	Closing Opposition	View Ballot	Jeremiah EdagbamiⒸ , Aleksandra Durbazeva
+MUST B	4th	Opening Opposition	View Ballot	Jeremiah EdagbamiⒸ , Aleksandra Durbazeva
+rayray &amp; jayjay	4th	Opening Opposition	View Ballot	Amanda ChingⒸ
+We KHAN see ourselves losing round	3rd	Closing Government	View Ballot	Amanda ChingⒸ
+Cambridge C	1st	Closing Opposition	View Ballot	Amanda ChingⒸ
+Willamette Debate Union	2nd	Opening Government	View Ballot	Amanda ChingⒸ
+can they do it in a cold, lonely r	4th	Opening Opposition	View Ballot	Marina KojićⒸ , Hinano Haraguchi
+Carelle is here to do some last-mi	3rd	Closing Government	View Ballot	Marina KojićⒸ , Hinano Haraguchi
+Technion Wolf&amp;Wolff	1st	Closing Opposition	View Ballot	Marina KojićⒸ , Hinano Haraguchi
+Belgrade The late bird gets the worm as wel	2nd	Opening Government	View Ballot	Marina KojićⒸ , Hinano Haraguchi
+IITB Sharun &amp; Nayantara	2nd	Opening Government	View Ballot	Annie SchwartzⒸ , Felix Baldauf , Panagis Gouvelis
+one of us has brain damage, the ot	1st	Opening Opposition	View Ballot	Annie SchwartzⒸ , Felix Baldauf , Panagis Gouvelis
+Oxford A	4th	Closing Government	View Ballot	Annie SchwartzⒸ , Felix Baldauf , Panagis Gouvelis
+TCD Phil B	3rd	Closing Opposition	View Ballot	Annie SchwartzⒸ , Felix Baldauf , Panagis Gouvelis
+BG- U Cant c me	3rd	Opening Opposition	View Ballot	Diego DuarteⒸ , MukhammedaliⓉ
+University of Chicago Y	2nd	Closing Government	View Ballot	Diego DuarteⒸ , MukhammedaliⓉ
+“It is not for glory, nor riches,	4th	Closing Opposition	View Ballot	Diego DuarteⒸ , MukhammedaliⓉ
+Harvard A(lcoholism is a social construct)	1st	Opening Government	View Ballot	Diego DuarteⒸ , MukhammedaliⓉ
+Mohanty and Anderson	1st	Closing Opposition	View Ballot	Oisín BrowneⒸ , Hania Szczerbińskx
+Schnitzel A	2nd	Opening Opposition	View Ballot	Oisín BrowneⒸ , Hania Szczerbińskx
+Tokyo	4th	Closing Government	View Ballot	Oisín BrowneⒸ , Hania Szczerbińskx
+Willamette Debate Union B	3rd	Opening Government	View Ballot	Oisín BrowneⒸ , Hania Szczerbińskx
+Li &amp; Mcharo	1st	Closing Opposition	View Ballot	Raymond ChumaⒸ , Jack Stanley , Arsha RashidⓉ
+DTU আমার লিংগ চুষুন	2nd	Closing Government	View Ballot	Raymond ChumaⒸ , Jack Stanley , Arsha RashidⓉ
+Tsukukoma X	3rd	Opening Opposition	View Ballot	Raymond ChumaⒸ , Jack Stanley , Arsha RashidⓉ
+Only Allah can save us now	4th	Opening Government	View Ballot	Raymond ChumaⒸ , Jack Stanley , Arsha RashidⓉ
+AAAAaaaa	3rd	Opening Government	View Ballot	Uphie AbdurrahmanⒸ , Mikołaj Jabłoński
+404: brains not found	2nd	Opening Opposition	View Ballot	Uphie AbdurrahmanⒸ , Mikołaj Jabłoński
+Team Scotland B	1st	Closing Government	View Ballot	Uphie AbdurrahmanⒸ , Mikołaj Jabłoński
+Open MS	4th	Closing Opposition	View Ballot	Uphie AbdurrahmanⒸ , Mikołaj Jabłoński
+Kamath &amp; Story	1st	Closing Government	View Ballot	Pjotr KosterⒸ , Tavish Joshi , Leander MathissenⓉ
+Manchester A	3rd	Closing Opposition	View Ballot	Pjotr KosterⒸ , Tavish Joshi , Leander MathissenⓉ
+NU MA	4th	Opening Government	View Ballot	Pjotr KosterⒸ , Tavish Joshi , Leander MathissenⓉ
+the student&#x27;s become the master an	2nd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Tavish Joshi , Leander MathissenⓉ
+Columbia B	2nd	Opening Government	View Ballot	Jack PalmerⒸ , Martijn Logtenberg , Cayden PocrassⓉ
+LSE mihika’s pulling an all nighter fo	4th	Closing Opposition	View Ballot	Jack PalmerⒸ , Martijn Logtenberg , Cayden PocrassⓉ
+Cambridge B	1st	Opening Opposition	View Ballot	Jack PalmerⒸ , Martijn Logtenberg , Cayden PocrassⓉ
+We miss xiaolongbao	3rd	Closing Government	View Ballot	Jack PalmerⒸ , Martijn Logtenberg , Cayden PocrassⓉ
+KCL MH	4th	Opening Opposition	View Ballot	Meg KandarpaⒸ , Emilia ProszkiewiczⓉ
+UCL CD	3rd	Opening Government	View Ballot	Meg KandarpaⒸ , Emilia ProszkiewiczⓉ
+TCD Phil A	1st	Closing Government	View Ballot	Meg KandarpaⒸ , Emilia ProszkiewiczⓉ
+KCL A	2nd	Closing Opposition	View Ballot	Meg KandarpaⒸ , Emilia ProszkiewiczⓉ
+The closest our treasurer will let	3rd	Opening Government	View Ballot	Valeriu CaraselⒸ , Ritabrata Mitra , Julien BenchekⓉ
+Cambridge A	1st	Closing Opposition	View Ballot	Valeriu CaraselⒸ , Ritabrata Mitra , Julien BenchekⓉ
+we&#x27;re not gay (i swear)	4th	Closing Government	View Ballot	Valeriu CaraselⒸ , Ritabrata Mitra , Julien BenchekⓉ
+√Yang	2nd	Opening Opposition	View Ballot	Valeriu CaraselⒸ , Ritabrata Mitra , Julien BenchekⓉ
+pachetelul lui David	2nd	Closing Opposition	View Ballot	Ana ComanⒸ , Justin Wu
+UCL JZ	4th	Closing Government	View Ballot	Ana ComanⒸ , Justin Wu
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaahh	3rd	Opening Government	View Ballot	Ana ComanⒸ , Justin Wu
+Copenhagen Sigma Schoolies	1st	Opening Opposition	View Ballot	Ana ComanⒸ , Justin Wu
+Team Scotland C	1st	Closing Opposition	View Ballot	Theo SimionⒸ , Marushka Kenia
+Cambridge D	3rd	Opening Government	View Ballot	Theo SimionⒸ , Marushka Kenia
+The devils	2nd	Closing Government	View Ballot	Theo SimionⒸ , Marushka Kenia
+UKI	4th	Opening Opposition	View Ballot	Theo SimionⒸ , Marushka Kenia
+
+
+team	result	side	ballot	adjudicators
+Argument Aquamarine	3rd	Opening Opposition	View Ballot	Oisín BrowneⒸ , Ana Nari Carrillo
+Schnitzel A	4th	Opening Government	View Ballot	Oisín BrowneⒸ , Ana Nari Carrillo
+Tokyo A	1st	Closing Opposition	View Ballot	Oisín BrowneⒸ , Ana Nari Carrillo
+Belgrade The late bird gets the worm as wel	2nd	Closing Government	View Ballot	Oisín BrowneⒸ , Ana Nari Carrillo
+Mohanty and Anderson	2nd	Opening Government	View Ballot	Jack PalmerⒸ , Hania Szczerbińskx
+two trainees	4th	Closing Government	View Ballot	Jack PalmerⒸ , Hania Szczerbińskx
+Team Scotland B	3rd	Closing Opposition	View Ballot	Jack PalmerⒸ , Hania Szczerbińskx
+Oxford C	1st	Opening Opposition	View Ballot	Jack PalmerⒸ , Hania Szczerbińskx
+Trincoll BR	2nd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Leander MathissenⓉ
+We KHAN see ourselves losing round	1st	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Leander MathissenⓉ
+Swing A	3rd	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Leander MathissenⓉ
+Willamette Debate Union B	4th	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Leander MathissenⓉ
+Belgrade BK	1st	Opening Government	View Ballot	Jack StanleyⒸ , Auguste McNally
+CityUHK EDT	4th	Closing Government	View Ballot	Jack StanleyⒸ , Auguste McNally
+pachetelul lui David	3rd	Opening Opposition	View Ballot	Jack StanleyⒸ , Auguste McNally
+Case? What Case?	2nd	Closing Opposition	View Ballot	Jack StanleyⒸ , Auguste McNally
+Jungle diff	2nd	Opening Opposition	View Ballot	Raymond ChumaⒸ , Minh-Nhat Le TranⓉ
+NU MA	3rd	Closing Government	View Ballot	Raymond ChumaⒸ , Minh-Nhat Le TranⓉ
+rayray &amp; jayjay	1st	Closing Opposition	View Ballot	Raymond ChumaⒸ , Minh-Nhat Le TranⓉ
+MUST B	4th	Opening Government	View Ballot	Raymond ChumaⒸ , Minh-Nhat Le TranⓉ
+Joe Biden Yaoi	3rd	Opening Government	View Ballot	Narayan SharmaⒸ , Mikołaj Jabłoński
+Princeton LH	2nd	Closing Opposition	View Ballot	Narayan SharmaⒸ , Mikołaj Jabłoński
+Cambridge B	4th	Closing Government	View Ballot	Narayan SharmaⒸ , Mikołaj Jabłoński
+Technion Wolf&amp;Wolff	1st	Opening Opposition	View Ballot	Narayan SharmaⒸ , Mikołaj Jabłoński
+BDU π	2nd	Opening Opposition	View Ballot	Dominic FerrisⒸ , MukhammedaliⓉ
+KCL MH	1st	Closing Opposition	View Ballot	Dominic FerrisⒸ , MukhammedaliⓉ
+Raven Hedgehog	4th	Closing Government	View Ballot	Dominic FerrisⒸ , MukhammedaliⓉ
+NU DM	3rd	Opening Government	View Ballot	Dominic FerrisⒸ , MukhammedaliⓉ
+USP B	3rd	Opening Government	View Ballot	Pranav AnandⒸ , Justin Wu
+USP C	4th	Closing Government	View Ballot	Pranav AnandⒸ , Justin Wu
+UCL CD	1st	Closing Opposition	View Ballot	Pranav AnandⒸ , Justin Wu
+TCD Phil B	2nd	Opening Opposition	View Ballot	Pranav AnandⒸ , Justin Wu
+IITB Sharun &amp; Nayantara	1st	Opening Opposition	View Ballot	Valeriu CaraselⒸ
+LSE Locked Out	3rd	Opening Government	View Ballot	Valeriu CaraselⒸ
+University of Chicago Z	2nd	Closing Government	View Ballot	Valeriu CaraselⒸ
+The devils	4th	Closing Opposition	View Ballot	Valeriu CaraselⒸ
+AAAAaaaa	3rd	Closing Government	View Ballot	Victor BervoetsⒸ , Teymour Aldridge
+Carelle is here to do some last-mi	2nd	Opening Opposition	View Ballot	Victor BervoetsⒸ , Teymour Aldridge
+Team Scotland A(ctually neither of	1st	Closing Opposition	View Ballot	Victor BervoetsⒸ , Teymour Aldridge
+Antidisestablishmentarian Hippopot	4th	Opening Government	View Ballot	Victor BervoetsⒸ , Teymour Aldridge
+Athens KM	1st	Opening Opposition	View Ballot	Amanda ChingⒸ , Jodel Avenis
+Open MS	4th	Closing Government	View Ballot	Amanda ChingⒸ , Jodel Avenis
+Short prep, short debaters	3rd	Opening Government	View Ballot	Amanda ChingⒸ , Jodel Avenis
+Swing C	2nd	Closing Opposition	View Ballot	Amanda ChingⒸ , Jodel Avenis
+can they do it in a cold, lonely r	4th	Closing Opposition	View Ballot	Panagis GouvelisⒸ , Aleksandra Durbazeva
+BINUS	2nd	Closing Government	View Ballot	Panagis GouvelisⒸ , Aleksandra Durbazeva
+PS bro	1st	Opening Opposition	View Ballot	Panagis GouvelisⒸ , Aleksandra Durbazeva
+“It is not for glory, nor riches,	3rd	Opening Government	View Ballot	Panagis GouvelisⒸ , Aleksandra Durbazeva
+Li &amp; Mcharo	1st	Closing Government	View Ballot	William SmithⒸ , Aryan Khokher
+TCD Hist A	4th	Opening Government	View Ballot	William SmithⒸ , Aryan Khokher
+Imperial AM	3rd	Closing Opposition	View Ballot	William SmithⒸ , Aryan Khokher
+Harvard JL	2nd	Opening Opposition	View Ballot	William SmithⒸ , Aryan Khokher
+Princeton Inshallah boyz played well	2nd	Closing Opposition	View Ballot	Pjotr KosterⒸ
+Panna Cotta	3rd	Closing Government	View Ballot	Pjotr KosterⒸ
+Perverse Incentive Structures	4th	Opening Opposition	View Ballot	Pjotr KosterⒸ
+MUST A	1st	Opening Government	View Ballot	Pjotr KosterⒸ
+KIMEP A	1st	Opening Opposition	View Ballot	Abrar AhmedⒸ , Jeremiah Edagbami
+404: brains not found	3rd	Closing Opposition	View Ballot	Abrar AhmedⒸ , Jeremiah Edagbami
+AUBG A	4th	Closing Government	View Ballot	Abrar AhmedⒸ , Jeremiah Edagbami
+registered the night before	2nd	Opening Government	View Ballot	Abrar AhmedⒸ , Jeremiah Edagbami
+Sofyan Sultan	4th	Opening Government	View Ballot	Klaudia MaciejewskaⒸ , Hinano Haraguchi
+Cambridge A	2nd	Closing Government	View Ballot	Klaudia MaciejewskaⒸ , Hinano Haraguchi
+TCD Phil A	3rd	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ , Hinano Haraguchi
+Harvard A(lcoholism is a social construct)	1st	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ , Hinano Haraguchi
+UCL JZ	3rd	Closing Opposition	View Ballot	Theo SimionⒸ , Samuel Summer , Emilia ProszkiewiczⓉ
+we&#x27;re not gay (i swear)	1st	Opening Government	View Ballot	Theo SimionⒸ , Samuel Summer , Emilia ProszkiewiczⓉ
+Swing B	4th	Closing Government	View Ballot	Theo SimionⒸ , Samuel Summer , Emilia ProszkiewiczⓉ
+DGS - Round trip to the southpole	2nd	Opening Opposition	View Ballot	Theo SimionⒸ , Samuel Summer , Emilia ProszkiewiczⓉ
+UPD Alcañeses &amp; Legaspi	2nd	Opening Opposition	View Ballot	Xiao Ke LuⒸ , Marushka Kenia
+Oxford This is not a game of cards	1st	Closing Government	View Ballot	Xiao Ke LuⒸ , Marushka Kenia
+USU Sydney Douglas and Freeland	3rd	Opening Government	View Ballot	Xiao Ke LuⒸ , Marushka Kenia
+Copenhagen Sigma Schoolies	4th	Closing Opposition	View Ballot	Xiao Ke LuⒸ , Marushka Kenia
+Waltz Mischiefs	4th	Closing Government	View Ballot	Aliya FairuzⒸ , Martijn Logtenberg
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaahh	1st	Closing Opposition	View Ballot	Aliya FairuzⒸ , Martijn Logtenberg
+CALedEOGHANia🏴󠁧󠁢󠁳󠁣󠁴󠁿	3rd	Opening Opposition	View Ballot	Aliya FairuzⒸ , Martijn Logtenberg
+IGNOU Nagda and Sayiram	2nd	Opening Government	View Ballot	Aliya FairuzⒸ , Martijn Logtenberg
+Cornell A	1st	Closing Opposition	View Ballot	Prosper MichaelⒸ , Oren Shacham
+Princeton BH	4th	Opening Government	View Ballot	Prosper MichaelⒸ , Oren Shacham
+Edinburgh A(nd Team Scotland D)	2nd	Closing Government	View Ballot	Prosper MichaelⒸ , Oren Shacham
+two debaters eating Christmas dinn	3rd	Opening Opposition	View Ballot	Prosper MichaelⒸ , Oren Shacham
+Columbia A	1st	Opening Government	View Ballot	Uphie AbdurrahmanⒸ , Tavish Joshi
+Columbia B	2nd	Closing Government	View Ballot	Uphie AbdurrahmanⒸ , Tavish Joshi
+DTU আমার লিংগ চুষুন	3rd	Opening Opposition	View Ballot	Uphie AbdurrahmanⒸ , Tavish Joshi
+Rosario he comprado tres garrafas D las gr	4th	Closing Opposition	View Ballot	Uphie AbdurrahmanⒸ , Tavish Joshi
+Squirtle Squad	4th	Closing Government	View Ballot	Sachin TisseraⒸ , Jehiel Pather
+Tsukukoma X	1st	Opening Government	View Ballot	Sachin TisseraⒸ , Jehiel Pather
+We miss xiaolongbao	2nd	Closing Opposition	View Ballot	Sachin TisseraⒸ , Jehiel Pather
+Wisconsin B	3rd	Opening Opposition	View Ballot	Sachin TisseraⒸ , Jehiel Pather
+ADUB A	2nd	Closing Government	View Ballot	Meg KandarpaⒸ , Max Gasslitter StroblⓉ
+N and E	4th	Opening Opposition	View Ballot	Meg KandarpaⒸ , Max Gasslitter StroblⓉ
+Oxford A	1st	Closing Opposition	View Ballot	Meg KandarpaⒸ , Max Gasslitter StroblⓉ
+Turn of your TV	3rd	Opening Government	View Ballot	Meg KandarpaⒸ , Max Gasslitter StroblⓉ
+Amherst BG	3rd	Opening Opposition	View Ballot	Ana ComanⒸ , Tejas
+Kamath &amp; Story	2nd	Opening Government	View Ballot	Ana ComanⒸ , Tejas
+OUI A	1st	Closing Opposition	View Ballot	Ana ComanⒸ , Tejas
+That feeling	4th	Closing Government	View Ballot	Ana ComanⒸ , Tejas
+Eversince A	1st	Opening Government	View Ballot	Diego DuarteⒸ , Felix Baldauf
+Only Allah can save us now	2nd	Closing Government	View Ballot	Diego DuarteⒸ , Felix Baldauf
+Tokyo	3rd	Closing Opposition	View Ballot	Diego DuarteⒸ , Felix Baldauf
+Just4test	4th	Opening Opposition	View Ballot	Diego DuarteⒸ , Felix Baldauf
+The closest our treasurer will let	3rd	Closing Opposition	View Ballot	Tanay PatriⒸ , Marina Kojić
+√Yang	4th	Opening Government	View Ballot	Tanay PatriⒸ , Marina Kojić
+KCL A	1st	Closing Government	View Ballot	Tanay PatriⒸ , Marina Kojić
+Willamette Debate Union	2nd	Opening Opposition	View Ballot	Tanay PatriⒸ , Marina Kojić
+PUCP A	2nd	Opening Opposition	View Ballot	Saleem SalisuⒸ , Cayden PocrassⓉ
+reaalkooli esindus bridži maailmak	4th	Closing Opposition	View Ballot	Saleem SalisuⒸ , Cayden PocrassⓉ
+Waxed Lightly Weathered Cut Copper	3rd	Closing Government	View Ballot	Saleem SalisuⒸ , Cayden PocrassⓉ
+UKI	1st	Opening Government	View Ballot	Saleem SalisuⒸ , Cayden PocrassⓉ
+Imperial audio visual club	4th	Opening Government	View Ballot	Rushdoon AhmedⒸ , Ashlyn LuⓉ
+no thoughts, just meow meow	2nd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Ashlyn LuⓉ
+Latymer Ice Ice Babies	3rd	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Ashlyn LuⓉ
+LSE mihika’s pulling an all nighter fo	1st	Closing Government	View Ballot	Rushdoon AhmedⒸ , Ashlyn LuⓉ
+Manchester A	1st	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Sasha Khovrak
+Stan Kiss of Life	3rd	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Sasha Khovrak
+Cambridge D	2nd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Sasha Khovrak
+Galnor session	4th	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Sasha Khovrak
+Berkeley XK	4th	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Eoin Connolly
+one of us has brain damage, the ot	3rd	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Eoin Connolly
+Team Scotland C	1st	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Eoin Connolly
+Cambridge C	2nd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Eoin Connolly
+Bitorko Onushilon	4th	Closing Government	View Ballot	Annie SchwartzⒸ , Rick Tan
+the student&#x27;s become the master an	3rd	Closing Opposition	View Ballot	Annie SchwartzⒸ , Rick Tan
+USP A	2nd	Opening Government	View Ballot	Annie SchwartzⒸ , Rick Tan
+University of Chicago Y	1st	Opening Opposition	View Ballot	Annie SchwartzⒸ , Rick Tan
+BG- U Cant c me	2nd	Closing Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ
+daddy vipul goes international	3rd	Opening Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ
+University of Chicago X	4th	Opening Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ
+Oxford D	1st	Closing Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ
+
+
+team	result	side	ballot	adjudicators
+Princeton Inshallah boyz played well	1st	Opening Opposition	View Ballot	Victor BervoetsⒸ , Annie Schwartz
+UCL CD	2nd	Closing Government	View Ballot	Victor BervoetsⒸ , Annie Schwartz
+We KHAN see ourselves losing round	3rd	Opening Government	View Ballot	Victor BervoetsⒸ , Annie Schwartz
+Willamette Debate Union	4th	Closing Opposition	View Ballot	Victor BervoetsⒸ , Annie Schwartz
+KIMEP A	4th	Closing Government	View Ballot	Klaudia MaciejewskaⒸ , Julien BenchekⓉ
+Mohanty and Anderson	3rd	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ , Julien BenchekⓉ
+Princeton LH	2nd	Opening Government	View Ballot	Klaudia MaciejewskaⒸ , Julien BenchekⓉ
+Edinburgh A(nd Team Scotland D)	1st	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ , Julien BenchekⓉ
+OUI A	2nd	Closing Government	View Ballot	Valeriu CaraselⒸ , Eoin Connolly , Arsha RashidⓉ
+Technion Wolf&amp;Wolff	4th	Opening Government	View Ballot	Valeriu CaraselⒸ , Eoin Connolly , Arsha RashidⓉ
+Oxford C	3rd	Closing Opposition	View Ballot	Valeriu CaraselⒸ , Eoin Connolly , Arsha RashidⓉ
+Harvard A(lcoholism is a social construct)	1st	Opening Opposition	View Ballot	Valeriu CaraselⒸ , Eoin Connolly , Arsha RashidⓉ
+AAAAaaaa	3rd	Opening Opposition	View Ballot	Rick TanⒸ , Aryan Khokher
+ADUB A	4th	Closing Opposition	View Ballot	Rick TanⒸ , Aryan Khokher
+PUCP A	1st	Closing Government	View Ballot	Rick TanⒸ , Aryan Khokher
+The devils	2nd	Opening Government	View Ballot	Rick TanⒸ , Aryan Khokher
+Squirtle Squad	2nd	Closing Opposition	View Ballot	Abrar AhmedⒸ , Tejas
+Waltz Mischiefs	4th	Opening Government	View Ballot	Abrar AhmedⒸ , Tejas
+USP B	3rd	Closing Government	View Ballot	Abrar AhmedⒸ , Tejas
+Antidisestablishmentarian Hippopot	1st	Opening Opposition	View Ballot	Abrar AhmedⒸ , Tejas
+Bitorko Onushilon	1st	Closing Opposition	View Ballot	Theo SimionⒸ , Max Gasslitter Strobl
+Latymer Ice Ice Babies	2nd	Closing Government	View Ballot	Theo SimionⒸ , Max Gasslitter Strobl
+CALedEOGHANia🏴󠁧󠁢󠁳󠁣󠁴󠁿	3rd	Opening Government	View Ballot	Theo SimionⒸ , Max Gasslitter Strobl
+Swing C	4th	Opening Opposition	View Ballot	Theo SimionⒸ , Max Gasslitter Strobl
+can they do it in a cold, lonely r	1st	Opening Government	View Ballot	Sasha KhovrakⒸ , Leander Mathissen
+Imperial audio visual club	4th	Closing Government	View Ballot	Sasha KhovrakⒸ , Leander Mathissen
+reaalkooli esindus bridži maailmak	2nd	Opening Opposition	View Ballot	Sasha KhovrakⒸ , Leander Mathissen
+MUST B	3rd	Closing Opposition	View Ballot	Sasha KhovrakⒸ , Leander Mathissen
+Sofyan Sultan	2nd	Closing Government	View Ballot	Narayan SharmaⒸ , Marushka Kenia
+LSE mihika’s pulling an all nighter fo	1st	Opening Opposition	View Ballot	Narayan SharmaⒸ , Marushka Kenia
+rayray &amp; jayjay	3rd	Opening Government	View Ballot	Narayan SharmaⒸ , Marushka Kenia
+two trainees	4th	Closing Opposition	View Ballot	Narayan SharmaⒸ , Marushka Kenia
+no thoughts, just meow meow	4th	Closing Opposition	View Ballot	Saleem SalisuⒸ , Meg Kandarpa
+Stan Kiss of Life	3rd	Opening Opposition	View Ballot	Saleem SalisuⒸ , Meg Kandarpa
+Perverse Incentive Structures	1st	Opening Government	View Ballot	Saleem SalisuⒸ , Meg Kandarpa
+DGS - Round trip to the southpole	2nd	Closing Government	View Ballot	Saleem SalisuⒸ , Meg Kandarpa
+Belgrade BK	3rd	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Ashlyn LuⓉ
+IITB Sharun &amp; Nayantara	4th	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Ashlyn LuⓉ
+KCL A	1st	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Ashlyn LuⓉ
+Harvard JL	2nd	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Ashlyn LuⓉ
+CityUHK EDT	4th	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Ana Nari Carrillo
+Turn of your TV	2nd	Closing Government	View Ballot	Rushdoon AhmedⒸ , Ana Nari Carrillo
+UCL JZ	1st	Opening Government	View Ballot	Rushdoon AhmedⒸ , Ana Nari Carrillo
+Short prep, short debaters	3rd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Ana Nari Carrillo
+Cornell A	2nd	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Cayden PocrassⓉ
+Li &amp; Mcharo	4th	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Cayden PocrassⓉ
+Team Scotland C	3rd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Cayden PocrassⓉ
+Oxford This is not a game of cards	1st	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Cayden PocrassⓉ
+daddy vipul goes international	1st	Opening Government	View Ballot	Prosper MichaelⒸ , Amanda Ching
+NU DM	3rd	Opening Opposition	View Ballot	Prosper MichaelⒸ , Amanda Ching
+Schnitzel A	4th	Closing Government	View Ballot	Prosper MichaelⒸ , Amanda Ching
+Only Allah can save us now	2nd	Closing Opposition	View Ballot	Prosper MichaelⒸ , Amanda Ching
+KCL MH	4th	Closing Government	View Ballot	Anum NaseerⒸ , Felix Baldauf
+TCD Hist A	2nd	Opening Opposition	View Ballot	Anum NaseerⒸ , Felix Baldauf
+AUBG A	1st	Closing Opposition	View Ballot	Anum NaseerⒸ , Felix Baldauf
+Copenhagen Sigma Schoolies	3rd	Opening Government	View Ballot	Anum NaseerⒸ , Felix Baldauf
+Jungle diff	2nd	Opening Government	View Ballot	Panagis GouvelisⒸ , Samuel Summer
+Rosario he comprado tres garrafas D las gr	4th	Opening Opposition	View Ballot	Panagis GouvelisⒸ , Samuel Summer
+√Yang	3rd	Closing Government	View Ballot	Panagis GouvelisⒸ , Samuel Summer
+Willamette Debate Union B	1st	Closing Opposition	View Ballot	Panagis GouvelisⒸ , Samuel Summer
+Amherst BG	3rd	Closing Opposition	View Ballot	Sachin TisseraⒸ
+Trincoll BR	2nd	Opening Opposition	View Ballot	Sachin TisseraⒸ
+Panna Cotta	4th	Opening Government	View Ballot	Sachin TisseraⒸ
+TCD Phil B	1st	Closing Government	View Ballot	Sachin TisseraⒸ
+Raven Hedgehog	4th	Closing Opposition	View Ballot	Raymond ChumaⒸ , Jodel Avenis
+Galnor session	1st	Closing Government	View Ballot	Raymond ChumaⒸ , Jodel Avenis
+Waxed Lightly Weathered Cut Copper	2nd	Opening Government	View Ballot	Raymond ChumaⒸ , Jodel Avenis
+“It is not for glory, nor riches,	3rd	Opening Opposition	View Ballot	Raymond ChumaⒸ , Jodel Avenis
+NU MA	2nd	Closing Opposition	View Ballot	Auguste McNallyⒸ
+University of Chicago X	4th	Opening Opposition	View Ballot	Auguste McNallyⒸ
+Wisconsin B	3rd	Closing Government	View Ballot	Auguste McNallyⒸ
+Tokyo	1st	Opening Government	View Ballot	Auguste McNallyⒸ
+Oxford D	3rd	Opening Government	View Ballot	Jack PalmerⒸ , Mukhammedali
+USU Sydney Douglas and Freeland	1st	Closing Government	View Ballot	Jack PalmerⒸ , Mukhammedali
+Case? What Case?	4th	Opening Opposition	View Ballot	Jack PalmerⒸ , Mukhammedali
+Belgrade The late bird gets the worm as wel	2nd	Closing Opposition	View Ballot	Jack PalmerⒸ , Mukhammedali
+N and E	3rd	Closing Government	View Ballot	Hania SzczerbińskxⒸ
+Open MS	2nd	Opening Opposition	View Ballot	Hania SzczerbińskxⒸ
+Amherst X	1st	Opening Government	View Ballot	Hania SzczerbińskxⒸ
+Just4test	4th	Closing Opposition	View Ballot	Hania SzczerbińskxⒸ
+Berkeley XK	1st	Closing Government	View Ballot	Uphie AbdurrahmanⒸ
+Carelle is here to do some last-mi	2nd	Opening Government	View Ballot	Uphie AbdurrahmanⒸ
+LSE Locked Out	3rd	Opening Opposition	View Ballot	Uphie AbdurrahmanⒸ
+Cambridge B	4th	Closing Opposition	View Ballot	Uphie AbdurrahmanⒸ
+Oxford A	2nd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Minh-Nhat Le TranⓉ
+two debaters eating Christmas dinn	3rd	Opening Government	View Ballot	Pjotr KosterⒸ , Minh-Nhat Le TranⓉ
+TCD Phil A	1st	Closing Opposition	View Ballot	Pjotr KosterⒸ , Minh-Nhat Le TranⓉ
+registered the night before	4th	Closing Government	View Ballot	Pjotr KosterⒸ , Minh-Nhat Le TranⓉ
+one of us has brain damage, the ot	1st	Closing Opposition	View Ballot	William SmithⒸ
+the student&#x27;s become the master an	3rd	Opening Government	View Ballot	William SmithⒸ
+Tsukukoma X	4th	Closing Government	View Ballot	William SmithⒸ
+Team Scotland A(ctually neither of	2nd	Opening Opposition	View Ballot	William SmithⒸ
+Columbia A	2nd	Closing Opposition	View Ballot	Andrew ChenⒸ
+Kamath &amp; Story	1st	Opening Opposition	View Ballot	Andrew ChenⒸ
+University of Chicago Y	3rd	Opening Government	View Ballot	Andrew ChenⒸ
+Cambridge C	4th	Closing Government	View Ballot	Andrew ChenⒸ
+UPD Alcañeses &amp; Legaspi	1st	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Martijn Logtenberg
+Cambridge A	3rd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Martijn Logtenberg
+MUST A	4th	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Martijn Logtenberg
+Tokyo A	2nd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Martijn Logtenberg
+BINUS	3rd	Opening Opposition	View Ballot	Tanay PatriⒸ , Aleksandra Durbazeva
+The closest our treasurer will let	4th	Closing Government	View Ballot	Tanay PatriⒸ , Aleksandra Durbazeva
+USP C	1st	Closing Opposition	View Ballot	Tanay PatriⒸ , Aleksandra Durbazeva
+Swing A	2nd	Opening Government	View Ballot	Tanay PatriⒸ , Aleksandra Durbazeva
+Team Scotland B	2nd	Opening Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Jeremiah Edagbami
+University of Chicago Z	1st	Opening Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Jeremiah Edagbami
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaahh	3rd	Closing Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Jeremiah Edagbami
+Swing B	4th	Closing Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Jeremiah Edagbami
+Princeton BH	4th	Opening Opposition	View Ballot	Dennis SuⒸ , Emilia Proszkiewicz
+PS bro	1st	Closing Opposition	View Ballot	Dennis SuⒸ , Emilia Proszkiewicz
+DTU আমার লিংগ চুষুন	2nd	Opening Government	View Ballot	Dennis SuⒸ , Emilia Proszkiewicz
+Cambridge D	3rd	Closing Government	View Ballot	Dennis SuⒸ , Emilia Proszkiewicz
+Athens KM	4th	Closing Opposition	View Ballot	Diego DuarteⒸ , Hinano Haraguchi
+Argument Aquamarine	3rd	Opening Government	View Ballot	Diego DuarteⒸ , Hinano Haraguchi
+UKI	2nd	Closing Government	View Ballot	Diego DuarteⒸ , Hinano Haraguchi
+IGNOU Nagda and Sayiram	1st	Opening Opposition	View Ballot	Diego DuarteⒸ , Hinano Haraguchi
+BDU π	1st	Closing Government	View Ballot	Youngwoo ParkⒸ , Oren Shacham
+We miss xiaolongbao	2nd	Opening Opposition	View Ballot	Youngwoo ParkⒸ , Oren Shacham
+That feeling	3rd	Opening Government	View Ballot	Youngwoo ParkⒸ , Oren Shacham
+we&#x27;re not gay (i swear)	4th	Closing Opposition	View Ballot	Youngwoo ParkⒸ , Oren Shacham
+BG- U Cant c me	4th	Closing Opposition	View Ballot	Mikołaj JabłońskiⒸ , Jack Stanley
+404: brains not found	3rd	Closing Government	View Ballot	Mikołaj JabłońskiⒸ , Jack Stanley
+Eversince A	1st	Opening Opposition	View Ballot	Mikołaj JabłońskiⒸ , Jack Stanley
+pachetelul lui David	2nd	Opening Government	View Ballot	Mikołaj JabłońskiⒸ , Jack Stanley
+Joe Biden Yaoi	2nd	Closing Opposition	View Ballot	Aliya FairuzⒸ , Pranav Anand
+Manchester A	1st	Opening Opposition	View Ballot	Aliya FairuzⒸ , Pranav Anand
+USP A	4th	Closing Government	View Ballot	Aliya FairuzⒸ , Pranav Anand
+Imperial AM	3rd	Opening Government	View Ballot	Aliya FairuzⒸ , Pranav Anand
+
+
+team	result	side	ballot	adjudicators
+LSE mihika’s pulling an all nighter fo	3rd	Opening Government	View Ballot	Oisín BrowneⒸ , Amanda Ching
+University of Chicago Y	4th	Closing Opposition	View Ballot	Oisín BrowneⒸ , Amanda Ching
+Technion Wolf&amp;Wolff	1st	Closing Government	View Ballot	Oisín BrowneⒸ , Amanda Ching
+Belgrade The late bird gets the worm as wel	2nd	Opening Opposition	View Ballot	Oisín BrowneⒸ , Amanda Ching
+Princeton BH	4th	Closing Government	View Ballot	Aleksandra DurbazevaⒸ , Emilia Proszkiewicz
+Cambridge B	2nd	Opening Government	View Ballot	Aleksandra DurbazevaⒸ , Emilia Proszkiewicz
+Turn of your TV	3rd	Opening Opposition	View Ballot	Aleksandra DurbazevaⒸ , Emilia Proszkiewicz
+Short prep, short debaters	1st	Closing Opposition	View Ballot	Aleksandra DurbazevaⒸ , Emilia Proszkiewicz
+Joe Biden Yaoi	2nd	Closing Government	View Ballot	Abrar AhmedⒸ , Pranav Anand
+PS bro	1st	Opening Government	View Ballot	Abrar AhmedⒸ , Pranav Anand
+We KHAN see ourselves losing round	3rd	Opening Opposition	View Ballot	Abrar AhmedⒸ , Pranav Anand
+IGNOU Nagda and Sayiram	4th	Closing Opposition	View Ballot	Abrar AhmedⒸ , Pranav Anand
+KIMEP A	4th	Closing Opposition	View Ballot	Prosper MichaelⒸ , Annie Schwartz
+Berkeley XK	1st	Opening Government	View Ballot	Prosper MichaelⒸ , Annie Schwartz
+Team Scotland A(ctually neither of	2nd	Closing Government	View Ballot	Prosper MichaelⒸ , Annie Schwartz
+UCL CD	3rd	Opening Opposition	View Ballot	Prosper MichaelⒸ , Annie Schwartz
+Columbia A	1st	Closing Government	View Ballot	Sachin TisseraⒸ , Theo Simion
+Team Scotland C	2nd	Opening Opposition	View Ballot	Sachin TisseraⒸ , Theo Simion
+University of Chicago Z	4th	Closing Opposition	View Ballot	Sachin TisseraⒸ , Theo Simion
+TCD Phil A	3rd	Opening Government	View Ballot	Sachin TisseraⒸ , Theo Simion
+CityUHK EDT	1st	Opening Opposition	View Ballot	Hania SzczerbińskxⒸ , Nitin Alagu
+reaalkooli esindus bridži maailmak	3rd	Opening Government	View Ballot	Hania SzczerbińskxⒸ , Nitin Alagu
+Wisconsin B	4th	Closing Opposition	View Ballot	Hania SzczerbińskxⒸ , Nitin Alagu
+“It is not for glory, nor riches,	2nd	Closing Government	View Ballot	Hania SzczerbińskxⒸ , Nitin Alagu
+DTU আমার লিংগ চুষুন	2nd	Closing Opposition	View Ballot	Narayan SharmaⒸ , Mukhammedali
+Cambridge C	3rd	Opening Government	View Ballot	Narayan SharmaⒸ , Mukhammedali
+Oxford D	1st	Opening Opposition	View Ballot	Narayan SharmaⒸ , Mukhammedali
+Imperial AM	4th	Closing Government	View Ballot	Narayan SharmaⒸ , Mukhammedali
+Panna Cotta	2nd	Closing Opposition	View Ballot	Uphie AbdurrahmanⒸ , Ana Nari Carrillo
+USP C	4th	Opening Opposition	View Ballot	Uphie AbdurrahmanⒸ , Ana Nari Carrillo
+Willamette Debate Union	1st	Closing Government	View Ballot	Uphie AbdurrahmanⒸ , Ana Nari Carrillo
+Case? What Case?	3rd	Opening Government	View Ballot	Uphie AbdurrahmanⒸ , Ana Nari Carrillo
+404: brains not found	3rd	Opening Government	View Ballot	Pjotr KosterⒸ , Jodel Avenis
+LSE Locked Out	1st	Closing Opposition	View Ballot	Pjotr KosterⒸ , Jodel Avenis
+The devils	2nd	Opening Opposition	View Ballot	Pjotr KosterⒸ , Jodel Avenis
+Copenhagen Sigma Schoolies	4th	Closing Government	View Ballot	Pjotr KosterⒸ , Jodel Avenis
+Eversince A	3rd	Closing Opposition	View Ballot	Victor BervoetsⒸ , Saleem Salisu
+Mohanty and Anderson	1st	Closing Government	View Ballot	Victor BervoetsⒸ , Saleem Salisu
+Li &amp; Mcharo	4th	Opening Opposition	View Ballot	Victor BervoetsⒸ , Saleem Salisu
+TCD Phil B	2nd	Opening Government	View Ballot	Victor BervoetsⒸ , Saleem Salisu
+Jungle diff	4th	Closing Government	View Ballot	Anum NaseerⒸ
+BINUS	3rd	Closing Opposition	View Ballot	Anum NaseerⒸ
+USP A	1st	Opening Opposition	View Ballot	Anum NaseerⒸ
+Willamette Debate Union B	2nd	Opening Government	View Ballot	Anum NaseerⒸ
+rayray &amp; jayjay	1st	Closing Government	View Ballot	Diego DuarteⒸ , Samuel Summer
+two trainees	3rd	Opening Government	View Ballot	Diego DuarteⒸ , Samuel Summer
+That feeling	4th	Closing Opposition	View Ballot	Diego DuarteⒸ , Samuel Summer
+Tokyo	2nd	Opening Opposition	View Ballot	Diego DuarteⒸ , Samuel Summer
+Kamath &amp; Story	2nd	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ , Tejas
+Edinburgh A(nd Team Scotland D)	4th	Opening Government	View Ballot	Klaudia MaciejewskaⒸ , Tejas
+UPD Alcañeses &amp; Legaspi	1st	Closing Government	View Ballot	Klaudia MaciejewskaⒸ , Tejas
+KCL A	3rd	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ , Tejas
+one of us has brain damage, the ot	3rd	Opening Government	View Ballot	Jack PalmerⒸ , Marushka Kenia
+Princeton LH	2nd	Opening Opposition	View Ballot	Jack PalmerⒸ , Marushka Kenia
+Tokyo A	4th	Closing Government	View Ballot	Jack PalmerⒸ , Marushka Kenia
+USU Sydney Douglas and Freeland	1st	Closing Opposition	View Ballot	Jack PalmerⒸ , Marushka Kenia
+the student&#x27;s become the master an	4th	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Hinano Haraguchi
+Tsukukoma X	1st	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Hinano Haraguchi
+UCL JZ	2nd	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Hinano Haraguchi
+Antidisestablishmentarian Hippopot	3rd	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Hinano Haraguchi
+KCL MH	2nd	Opening Government	View Ballot	Tanay PatriⒸ , Ashlyn Lu
+Athens KM	4th	Closing Government	View Ballot	Tanay PatriⒸ , Ashlyn Lu
+Amherst X	3rd	Opening Opposition	View Ballot	Tanay PatriⒸ , Ashlyn Lu
+√Yang	1st	Closing Opposition	View Ballot	Tanay PatriⒸ , Ashlyn Lu
+Latymer Ice Ice Babies	4th	Opening Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Felix Baldauf
+NU DM	3rd	Closing Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Felix Baldauf
+Squirtle Squad	2nd	Opening Opposition	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Felix Baldauf
+CALedEOGHANia🏴󠁧󠁢󠁳󠁣󠁴󠁿	1st	Closing Government	View Ballot	Kelvin Kwabena Asamoah DampteyⒸ , Felix Baldauf
+no thoughts, just meow meow	1st	Closing Government	View Ballot	Tavish JoshiⒸ , Julien Benchek
+Schnitzel A	4th	Closing Opposition	View Ballot	Tavish JoshiⒸ , Julien Benchek
+The closest our treasurer will let	3rd	Opening Opposition	View Ballot	Tavish JoshiⒸ , Julien Benchek
+Open MS	2nd	Opening Government	View Ballot	Tavish JoshiⒸ , Julien Benchek
+ADUB A	2nd	Opening Government	View Ballot	Martijn LogtenbergⒸ
+Raven Hedgehog	3rd	Opening Opposition	View Ballot	Martijn LogtenbergⒸ
+University of Chicago X	1st	Closing Opposition	View Ballot	Martijn LogtenbergⒸ
+Rosario he comprado tres garrafas D las gr	4th	Closing Government	View Ballot	Martijn LogtenbergⒸ
+Carelle is here to do some last-mi	4th	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Rushdoon Ahmed
+Sofyan Sultan	3rd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Rushdoon Ahmed
+two debaters eating Christmas dinn	1st	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Rushdoon Ahmed
+We miss xiaolongbao	2nd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Rushdoon Ahmed
+pachetelul lui David	3rd	Closing Government	View Ballot	Valeriu CaraselⒸ
+PUCP A	1st	Opening Government	View Ballot	Valeriu CaraselⒸ
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaahh	2nd	Opening Opposition	View Ballot	Valeriu CaraselⒸ
+Perverse Incentive Structures	4th	Closing Opposition	View Ballot	Valeriu CaraselⒸ
+Amherst BG	1st	Closing Government	View Ballot	Dennis SuⒸ
+Cambridge D	4th	Closing Opposition	View Ballot	Dennis SuⒸ
+Galnor session	2nd	Opening Opposition	View Ballot	Dennis SuⒸ
+DGS - Round trip to the southpole	3rd	Opening Government	View Ballot	Dennis SuⒸ
+Imperial audio visual club	4th	Closing Opposition	View Ballot	Eoin ConnollyⒸ
+Waltz Mischiefs	1st	Opening Opposition	View Ballot	Eoin ConnollyⒸ
+MUST B	3rd	Closing Government	View Ballot	Eoin ConnollyⒸ
+Just4test	2nd	Opening Government	View Ballot	Eoin ConnollyⒸ
+can they do it in a cold, lonely r	2nd	Closing Government	View Ballot	Ananya KrishnaⒸ , Arsha Rashid
+AAAAaaaa	4th	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Arsha Rashid
+BG- U Cant c me	1st	Opening Government	View Ballot	Ananya KrishnaⒸ , Arsha Rashid
+NU MA	3rd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Arsha Rashid
+Belgrade BK	1st	Closing Government	View Ballot	Panagis GouvelisⒸ , Oren Shacham
+BDU π	4th	Closing Opposition	View Ballot	Panagis GouvelisⒸ , Oren Shacham
+Team Scotland B	3rd	Opening Government	View Ballot	Panagis GouvelisⒸ , Oren Shacham
+Cambridge A	2nd	Opening Opposition	View Ballot	Panagis GouvelisⒸ , Oren Shacham
+Manchester A	2nd	Opening Government	View Ballot	Anna ShrederⒸ , Max Gasslitter Strobl
+Princeton Inshallah boyz played well	4th	Closing Government	View Ballot	Anna ShrederⒸ , Max Gasslitter Strobl
+Oxford C	3rd	Opening Opposition	View Ballot	Anna ShrederⒸ , Max Gasslitter Strobl
+Harvard JL	1st	Closing Opposition	View Ballot	Anna ShrederⒸ , Max Gasslitter Strobl
+Cornell A	2nd	Opening Government	View Ballot	William SmithⒸ , Aryan Khokher
+OUI A	3rd	Opening Opposition	View Ballot	William SmithⒸ , Aryan Khokher
+Oxford This is not a game of cards	1st	Closing Opposition	View Ballot	William SmithⒸ , Aryan Khokher
+Harvard A(lcoholism is a social construct)	4th	Closing Government	View Ballot	William SmithⒸ , Aryan Khokher
+Stan Kiss of Life	2nd	Closing Government	View Ballot	Aliya FairuzⒸ , Cayden Pocrass
+USP B	4th	Closing Opposition	View Ballot	Aliya FairuzⒸ , Cayden Pocrass
+Waxed Lightly Weathered Cut Copper	3rd	Opening Government	View Ballot	Aliya FairuzⒸ , Cayden Pocrass
+we&#x27;re not gay (i swear)	1st	Opening Opposition	View Ballot	Aliya FairuzⒸ , Cayden Pocrass
+Argument Aquamarine	4th	Closing Opposition	View Ballot	Youngwoo ParkⒸ
+daddy vipul goes international	3rd	Closing Government	View Ballot	Youngwoo ParkⒸ
+Oxford A	1st	Opening Government	View Ballot	Youngwoo ParkⒸ
+Only Allah can save us now	2nd	Opening Opposition	View Ballot	Youngwoo ParkⒸ
+Bitorko Onushilon	2nd	Opening Opposition	View Ballot	Martha McKinney-PerryⒸ , Raymond Chuma
+AUBG A	1st	Opening Government	View Ballot	Martha McKinney-PerryⒸ , Raymond Chuma
+MUST A	4th	Closing Government	View Ballot	Martha McKinney-PerryⒸ , Raymond Chuma
+UKI	3rd	Closing Opposition	View Ballot	Martha McKinney-PerryⒸ , Raymond Chuma
+IITB Sharun &amp; Nayantara	2nd	Opening Government	View Ballot	Jack StanleyⒸ , Leander Mathissen
+Trincoll BR	4th	Closing Government	View Ballot	Jack StanleyⒸ , Leander Mathissen
+TCD Hist A	1st	Closing Opposition	View Ballot	Jack StanleyⒸ , Leander Mathissen
+registered the night before	3rd	Opening Opposition	View Ballot	Jack StanleyⒸ , Leander Mathissen
+
+
+team	result	side	ballot	adjudicators
+404: brains not found	1st	Opening Government	View Ballot	Rushdoon AhmedⒸ , Marushka Kenia
+Short prep, short debaters	4th	Closing Opposition	View Ballot	Rushdoon AhmedⒸ , Marushka Kenia
+Case? What Case?	3rd	Opening Opposition	View Ballot	Rushdoon AhmedⒸ , Marushka Kenia
+registered the night before	2nd	Closing Government	View Ballot	Rushdoon AhmedⒸ , Marushka Kenia
+Amherst BG	4th	Opening Government	View Ballot	Theo SimionⒸ , Jeremiah Edagbami
+Joe Biden Yaoi	1st	Closing Government	View Ballot	Theo SimionⒸ , Jeremiah Edagbami
+one of us has brain damage, the ot	3rd	Closing Opposition	View Ballot	Theo SimionⒸ , Jeremiah Edagbami
+two debaters eating Christmas dinn	2nd	Opening Opposition	View Ballot	Theo SimionⒸ , Jeremiah Edagbami
+IITB Sharun &amp; Nayantara	2nd	Closing Opposition	View Ballot	Narayan SharmaⒸ , Pranav Anand
+Bitorko Onushilon	3rd	Opening Government	View Ballot	Narayan SharmaⒸ , Pranav Anand
+LSE mihika’s pulling an all nighter fo	4th	Closing Government	View Ballot	Narayan SharmaⒸ , Pranav Anand
+IGNOU Nagda and Sayiram	1st	Opening Opposition	View Ballot	Narayan SharmaⒸ , Pranav Anand
+Edinburgh A(nd Team Scotland D)	1st	Closing Government	View Ballot	Youngwoo ParkⒸ , Oisín Browne
+USP A	4th	Opening Opposition	View Ballot	Youngwoo ParkⒸ , Oisín Browne
+Oxford A	2nd	Opening Government	View Ballot	Youngwoo ParkⒸ , Oisín Browne
+Cambridge A	3rd	Closing Opposition	View Ballot	Youngwoo ParkⒸ , Oisín Browne
+UCL JZ	2nd	Closing Opposition	View Ballot	William SmithⒸ , Hania Szczerbińskx
+CALedEOGHANia🏴󠁧󠁢󠁳󠁣󠁴󠁿	1st	Opening Opposition	View Ballot	William SmithⒸ , Hania Szczerbińskx
+Only Allah can save us now	4th	Opening Government	View Ballot	William SmithⒸ , Hania Szczerbińskx
+we&#x27;re not gay (i swear)	3rd	Closing Government	View Ballot	William SmithⒸ , Hania Szczerbińskx
+CityUHK EDT	4th	Opening Government	View Ballot	Auguste McNallyⒸ , Mukhammedali
+USP C	3rd	Opening Opposition	View Ballot	Auguste McNallyⒸ , Mukhammedali
+Swing A	1st	Closing Opposition	View Ballot	Auguste McNallyⒸ , Mukhammedali
+Copenhagen Sigma Schoolies	2nd	Closing Government	View Ballot	Auguste McNallyⒸ , Mukhammedali
+LSE Locked Out	1st	Closing Opposition	View Ballot	Victor BervoetsⒸ , Oren Shacham
+Team Scotland B	3rd	Closing Government	View Ballot	Victor BervoetsⒸ , Oren Shacham
+Tokyo A	2nd	Opening Opposition	View Ballot	Victor BervoetsⒸ , Oren Shacham
+Willamette Debate Union	4th	Opening Government	View Ballot	Victor BervoetsⒸ , Oren Shacham
+pachetelul lui David	3rd	Opening Opposition	View Ballot	Saleem SalisuⒸ , Minh-Nhat Le Tran
+Trincoll BR	1st	Closing Government	View Ballot	Saleem SalisuⒸ , Minh-Nhat Le Tran
+UKI	2nd	Opening Government	View Ballot	Saleem SalisuⒸ , Minh-Nhat Le Tran
+DGS - Round trip to the southpole	4th	Closing Opposition	View Ballot	Saleem SalisuⒸ , Minh-Nhat Le Tran
+PS bro	4th	Closing Opposition	View Ballot	Vladimira ŠuflajⒸ , Samuel Summer
+Princeton LH	2nd	Opening Opposition	View Ballot	Vladimira ŠuflajⒸ , Samuel Summer
+OUI A	1st	Closing Government	View Ballot	Vladimira ŠuflajⒸ , Samuel Summer
+KCL A	3rd	Opening Government	View Ballot	Vladimira ŠuflajⒸ , Samuel Summer
+can they do it in a cold, lonely r	4th	Closing Government	View Ballot	Amanda ChingⒸ , Martijn Logtenberg
+Carelle is here to do some last-mi	3rd	Opening Opposition	View Ballot	Amanda ChingⒸ , Martijn Logtenberg
+Cambridge B	2nd	Closing Opposition	View Ballot	Amanda ChingⒸ , Martijn Logtenberg
+Antidisestablishmentarian Hippopot	1st	Opening Government	View Ballot	Amanda ChingⒸ , Martijn Logtenberg
+Team Scotland A(ctually neither of	2nd	Closing Opposition	View Ballot	Sachin TisseraⒸ , Marina Kojić
+Oxford C	1st	Opening Government	View Ballot	Sachin TisseraⒸ , Marina Kojić
+AUBG A	3rd	Closing Government	View Ballot	Sachin TisseraⒸ , Marina Kojić
+Swing B	4th	Opening Opposition	View Ballot	Sachin TisseraⒸ , Marina Kojić
+KCL MH	1st	Closing Government	View Ballot	Mikołaj JabłońskiⒸ , Raymond Chuma
+Stan Kiss of Life	4th	Opening Opposition	View Ballot	Mikołaj JabłońskiⒸ , Raymond Chuma
+Panna Cotta	3rd	Opening Government	View Ballot	Mikołaj JabłońskiⒸ , Raymond Chuma
+Perverse Incentive Structures	2nd	Closing Opposition	View Ballot	Mikołaj JabłońskiⒸ , Raymond Chuma
+Berkeley XK	4th	Closing Opposition	View Ballot	Zach Godley-McAvoyⒸ , Julien Benchek
+Manchester A	1st	Closing Government	View Ballot	Zach Godley-McAvoyⒸ , Julien Benchek
+TCD Hist A	3rd	Opening Government	View Ballot	Zach Godley-McAvoyⒸ , Julien Benchek
+Harvard A(lcoholism is a social construct)	2nd	Opening Opposition	View Ballot	Zach Godley-McAvoyⒸ , Julien Benchek
+BINUS	3rd	Opening Government	View Ballot	Justin WuⒸ , Max Gasslitter Strobl
+Waltz Mischiefs	4th	Closing Opposition	View Ballot	Justin WuⒸ , Max Gasslitter Strobl
+That feeling	1st	Opening Opposition	View Ballot	Justin WuⒸ , Max Gasslitter Strobl
+Amherst X	2nd	Closing Government	View Ballot	Justin WuⒸ , Max Gasslitter Strobl
+Columbia A	4th	Closing Opposition	View Ballot	Valeriu CaraselⒸ
+UPD Alcañeses &amp; Legaspi	2nd	Opening Government	View Ballot	Valeriu CaraselⒸ
+Oxford This is not a game of cards	1st	Closing Government	View Ballot	Valeriu CaraselⒸ
+USU Sydney Douglas and Freeland	3rd	Opening Opposition	View Ballot	Valeriu CaraselⒸ
+Li &amp; Mcharo	1st	Closing Government	View Ballot	Panagis GouvelisⒸ , Emilia Proszkiewicz
+Galnor session	4th	Closing Opposition	View Ballot	Panagis GouvelisⒸ , Emilia Proszkiewicz
+We KHAN see ourselves losing round	2nd	Opening Government	View Ballot	Panagis GouvelisⒸ , Emilia Proszkiewicz
+Willamette Debate Union B	3rd	Opening Opposition	View Ballot	Panagis GouvelisⒸ , Emilia Proszkiewicz
+Belgrade BK	4th	Opening Government	View Ballot	Uphie AbdurrahmanⒸ , Sasha Khovrak
+Mohanty and Anderson	1st	Closing Opposition	View Ballot	Uphie AbdurrahmanⒸ , Sasha Khovrak
+Technion Wolf&amp;Wolff	2nd	Closing Government	View Ballot	Uphie AbdurrahmanⒸ , Sasha Khovrak
+Belgrade The late bird gets the worm as wel	3rd	Opening Opposition	View Ballot	Uphie AbdurrahmanⒸ , Sasha Khovrak
+Argument Aquamarine	4th	Closing Government	View Ballot	Aleksandra DurbazevaⒸ , Pjotr Koster
+ADUB A	1st	Opening Opposition	View Ballot	Aleksandra DurbazevaⒸ , Pjotr Koster
+Waxed Lightly Weathered Cut Copper	3rd	Closing Opposition	View Ballot	Aleksandra DurbazevaⒸ , Pjotr Koster
+“It is not for glory, nor riches,	2nd	Opening Government	View Ballot	Aleksandra DurbazevaⒸ , Pjotr Koster
+BDU π	1st	Opening Government	View Ballot	Prosper MichaelⒸ
+University of Chicago Y	4th	Closing Opposition	View Ballot	Prosper MichaelⒸ
+Tokyo	2nd	Closing Government	View Ballot	Prosper MichaelⒸ
+√Yang	3rd	Opening Opposition	View Ballot	Prosper MichaelⒸ
+Cornell A	3rd	Opening Opposition	View Ballot	Jack PalmerⒸ
+Kamath &amp; Story	1st	Closing Opposition	View Ballot	Jack PalmerⒸ
+Team Scotland C	2nd	Closing Government	View Ballot	Jack PalmerⒸ
+Harvard JL	4th	Opening Government	View Ballot	Jack PalmerⒸ
+Athens KM	2nd	Opening Opposition	View Ballot	Hinano HaraguchiⒸ
+Princeton BH	1st	Opening Government	View Ballot	Hinano HaraguchiⒸ
+reaalkooli esindus bridži maailmak	4th	Closing Government	View Ballot	Hinano HaraguchiⒸ
+USP B	3rd	Closing Opposition	View Ballot	Hinano HaraguchiⒸ
+Latymer Ice Ice Babies	4th	Closing Government	View Ballot	Tavish JoshiⒸ
+Schnitzel A	2nd	Closing Opposition	View Ballot	Tavish JoshiⒸ
+The closest our treasurer will let	1st	Opening Opposition	View Ballot	Tavish JoshiⒸ
+Wisconsin B	3rd	Opening Government	View Ballot	Tavish JoshiⒸ
+daddy vipul goes international	3rd	Opening Government	View Ballot	Meg KandarpaⒸ , Tejas
+Sofyan Sultan	2nd	Closing Opposition	View Ballot	Meg KandarpaⒸ , Tejas
+The devils	4th	Opening Opposition	View Ballot	Meg KandarpaⒸ , Tejas
+Cambridge C	1st	Closing Government	View Ballot	Meg KandarpaⒸ , Tejas
+NU MA	4th	Opening Government	View Ballot	Leander MathissenⒸ , Cayden Pocrass
+University of Chicago X	3rd	Closing Opposition	View Ballot	Leander MathissenⒸ , Cayden Pocrass
+two trainees	2nd	Opening Opposition	View Ballot	Leander MathissenⒸ , Cayden Pocrass
+Cambridge D	1st	Closing Government	View Ballot	Leander MathissenⒸ , Cayden Pocrass
+UCL CD	1st	Closing Opposition	View Ballot	Klaudia MaciejewskaⒸ , Jehiel Pather
+TCD Phil A	4th	Opening Opposition	View Ballot	Klaudia MaciejewskaⒸ , Jehiel Pather
+Oxford D	3rd	Closing Government	View Ballot	Klaudia MaciejewskaⒸ , Jehiel Pather
+TCD Phil B	2nd	Opening Government	View Ballot	Klaudia MaciejewskaⒸ , Jehiel Pather
+KIMEP A	2nd	Opening Opposition	View Ballot	Ananya KrishnaⒸ , Aryan Khokher
+Squirtle Squad	3rd	Opening Government	View Ballot	Ananya KrishnaⒸ , Aryan Khokher
+MUST A	4th	Closing Opposition	View Ballot	Ananya KrishnaⒸ , Aryan Khokher
+Imperial AM	1st	Closing Government	View Ballot	Ananya KrishnaⒸ , Aryan Khokher
+Eversince A	2nd	Opening Opposition	View Ballot	Dennis SuⒸ , Eoin Connolly
+rayray &amp; jayjay	4th	Opening Government	View Ballot	Dennis SuⒸ , Eoin Connolly
+Tsukukoma X	3rd	Closing Opposition	View Ballot	Dennis SuⒸ , Eoin Connolly
+University of Chicago Z	1st	Closing Government	View Ballot	Dennis SuⒸ , Eoin Connolly
+Jungle diff	3rd	Opening Government	View Ballot	Ana Nari CarrilloⒸ , Felix Baldauf
+NU DM	2nd	Closing Opposition	View Ballot	Ana Nari CarrilloⒸ , Felix Baldauf
+Turn of your TV	4th	Opening Opposition	View Ballot	Ana Nari CarrilloⒸ , Felix Baldauf
+Open MS	1st	Closing Government	View Ballot	Ana Nari CarrilloⒸ , Felix Baldauf
+Imperial audio visual club	1st	Closing Opposition	View Ballot	Jodel AvenisⒸ
+Raven Hedgehog	3rd	Opening Opposition	View Ballot	Jodel AvenisⒸ
+Rosario he comprado tres garrafas D las gr	4th	Closing Government	View Ballot	Jodel AvenisⒸ
+MUST B	2nd	Opening Government	View Ballot	Jodel AvenisⒸ
+DTU আমার লিংগ চুষুন	2nd	Opening Opposition	View Ballot	Diego DuarteⒸ , Ashlyn Lu
+Princeton Inshallah boyz played well	1st	Opening Government	View Ballot	Diego DuarteⒸ , Ashlyn Lu
+We miss xiaolongbao	3rd	Closing Government	View Ballot	Diego DuarteⒸ , Ashlyn Lu
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaahh	4th	Closing Opposition	View Ballot	Diego DuarteⒸ , Ashlyn Lu
+
+
+team	result	side	adjudicators
+Joe Biden Yaoi	advancing	Opening Government	Auguste McNallyⒸ , Hania Szczerbińskx , Zach Godley-McAvoy
+Oxford A	advancing	Opening Opposition	Auguste McNallyⒸ , Hania Szczerbińskx , Zach Godley-McAvoy
+two debaters eating Christmas dinn	eliminated	Closing Government	Auguste McNallyⒸ , Hania Szczerbińskx , Zach Godley-McAvoy
+USU Sydney Douglas and Freeland	eliminated	Closing Opposition	Auguste McNallyⒸ , Hania Szczerbińskx , Zach Godley-McAvoy
+Cornell A	advancing	Opening Opposition	Narayan SharmaⒸ , Aleksandra Durbazeva , Oisín Browne
+Oxford C	advancing	Closing Opposition	Narayan SharmaⒸ , Aleksandra Durbazeva , Oisín Browne
+University of Chicago Z	eliminated	Closing Government	Narayan SharmaⒸ , Aleksandra Durbazeva , Oisín Browne
+UCL CD	eliminated	Opening Government	Narayan SharmaⒸ , Aleksandra Durbazeva , Oisín Browne
+Team Scotland C	advancing	Opening Opposition	Amanda ChingⒸ , Jack Palmer , Jehiel Pather
+Team Scotland A(ctually neither of	eliminated	Closing Opposition	Amanda ChingⒸ , Jack Palmer , Jehiel Pather
+KCL A	advancing	Opening Government	Amanda ChingⒸ , Jack Palmer , Jehiel Pather
+Harvard JL	eliminated	Closing Government	Amanda ChingⒸ , Jack Palmer , Jehiel Pather
+LSE Locked Out	eliminated	Closing Opposition	Saleem SalisuⒸ , Ananya Krishna , Jeremiah Edagbami
+Princeton LH	advancing	Closing Government	Saleem SalisuⒸ , Ananya Krishna , Jeremiah Edagbami
+Technion Wolf&amp;Wolff	eliminated	Opening Government	Saleem SalisuⒸ , Ananya Krishna , Jeremiah Edagbami
+TCD Phil B	advancing	Opening Opposition	Saleem SalisuⒸ , Ananya Krishna , Jeremiah Edagbami
+
+
+team	result	side	adjudicators
+Joe Biden Yaoi	eliminated	Closing Government	Zach Godley-McAvoyⒸ , Jeremiah Edagbami , Kelvin Kwabena Asamoah Damptey , Martijn Logtenberg , Marushka Kenia
+Kamath &amp; Story	advancing	Opening Government	Zach Godley-McAvoyⒸ , Jeremiah Edagbami , Kelvin Kwabena Asamoah Damptey , Martijn Logtenberg , Marushka Kenia
+Oxford A	advancing	Opening Opposition	Zach Godley-McAvoyⒸ , Jeremiah Edagbami , Kelvin Kwabena Asamoah Damptey , Martijn Logtenberg , Marushka Kenia
+Harvard A(lcoholism is a social construct)	eliminated	Closing Opposition	Zach Godley-McAvoyⒸ , Jeremiah Edagbami , Kelvin Kwabena Asamoah Damptey , Martijn Logtenberg , Marushka Kenia
+Edinburgh A(nd Team Scotland D)	advancing	Opening Government	Victor BervoetsⒸ , Eoin Connolly , Oisín Browne , Tavish Joshi , Theo Simion
+Team Scotland C	eliminated	Closing Opposition	Victor BervoetsⒸ , Eoin Connolly , Oisín Browne , Tavish Joshi , Theo Simion
+Oxford This is not a game of cards	advancing	Closing Government	Victor BervoetsⒸ , Eoin Connolly , Oisín Browne , Tavish Joshi , Theo Simion
+KCL A	eliminated	Opening Opposition	Victor BervoetsⒸ , Eoin Connolly , Oisín Browne , Tavish Joshi , Theo Simion
+Cornell A	advancing	Opening Opposition	Sachin TisseraⒸ , Amanda Ching , Diego Duarte , Justin Wu , Mikołaj Jabłoński
+Mohanty and Anderson	eliminated	Closing Government	Sachin TisseraⒸ , Amanda Ching , Diego Duarte , Justin Wu , Mikołaj Jabłoński
+OUI A	advancing	Opening Government	Sachin TisseraⒸ , Amanda Ching , Diego Duarte , Justin Wu , Mikołaj Jabłoński
+Oxford C	eliminated	Closing Opposition	Sachin TisseraⒸ , Amanda Ching , Diego Duarte , Justin Wu , Mikołaj Jabłoński
+Manchester A	advancing	Closing Opposition	Vladimira ŠuflajⒸ , Jehiel Pather , Pranav Anand , Raymond Chuma , Youngwoo Park
+Princeton LH	advancing	Opening Opposition	Vladimira ŠuflajⒸ , Jehiel Pather , Pranav Anand , Raymond Chuma , Youngwoo Park
+UPD Alcañeses &amp; Legaspi	eliminated	Closing Government	Vladimira ŠuflajⒸ , Jehiel Pather , Pranav Anand , Raymond Chuma , Youngwoo Park
+TCD Phil B	eliminated	Opening Government	Vladimira ŠuflajⒸ , Jehiel Pather , Pranav Anand , Raymond Chuma , Youngwoo Park
+
+
+team	result	side	adjudicators
+Cornell A	eliminated	Opening Opposition	Theo SimionⒸ , Narayan Sharma , Prosper Michael , Rushdoon Ahmed , Tejas
+Edinburgh A(nd Team Scotland D)	eliminated	Closing Opposition	Theo SimionⒸ , Narayan Sharma , Prosper Michael , Rushdoon Ahmed , Tejas
+OUI A	advancing	Closing Government	Theo SimionⒸ , Narayan Sharma , Prosper Michael , Rushdoon Ahmed , Tejas
+Oxford This is not a game of cards	advancing	Opening Government	Theo SimionⒸ , Narayan Sharma , Prosper Michael , Rushdoon Ahmed , Tejas
+Kamath &amp; Story	advancing	Closing Opposition	Dennis SuⒸ , Amanda Ching , Diego Duarte , Sachin Tissera , Tanay Patri
+Manchester A	eliminated	Opening Government	Dennis SuⒸ , Amanda Ching , Diego Duarte , Sachin Tissera , Tanay Patri
+Princeton LH	advancing	Opening Opposition	Dennis SuⒸ , Amanda Ching , Diego Duarte , Sachin Tissera , Tanay Patri
+Oxford A	eliminated	Closing Government	Dennis SuⒸ , Amanda Ching , Diego Duarte , Sachin Tissera , Tanay Patri
+
+
+team	result	side	adjudicators
+Kamath &amp; Story	advancing	Opening Opposition	Victor BervoetsⒸ , Amanda Ching , Panagis Gouvelis , Sachin Tissera , Theo Simion , Vladimira Šuflaj , Zach Godley-McAvoy
+Princeton LH	eliminated	Opening Government	Victor BervoetsⒸ , Amanda Ching , Panagis Gouvelis , Sachin Tissera , Theo Simion , Vladimira Šuflaj , Zach Godley-McAvoy
+OUI A	eliminated	Closing Opposition	Victor BervoetsⒸ , Amanda Ching , Panagis Gouvelis , Sachin Tissera , Theo Simion , Vladimira Šuflaj , Zach Godley-McAvoy
+Oxford This is not a game of cards	eliminated	Closing Government	Victor BervoetsⒸ , Amanda Ching , Panagis Gouvelis , Sachin Tissera , Theo Simion , Vladimira Šuflaj , Zach Godley-McAvoy
+
+
+team	result	side	adjudicators
+Belgrade BK	advancing	Opening Government	Jack PalmerⒸ , Aliya Fairuz , Rick Tan
+DTU আমার লিংগ চুষুন	eliminated	Closing Government	Jack PalmerⒸ , Aliya Fairuz , Rick Tan
+IGNOU Nagda and Sayiram	eliminated	Closing Opposition	Jack PalmerⒸ , Aliya Fairuz , Rick Tan
+Belgrade The late bird gets the worm as wel	advancing	Opening Opposition	Jack PalmerⒸ , Aliya Fairuz , Rick Tan
+IITB Sharun &amp; Nayantara	eliminated	Closing Opposition	Uphie AbdurrahmanⒸ , Abrar Ahmed , Samuel Summer
+BDU π	advancing	Opening Government	Uphie AbdurrahmanⒸ , Abrar Ahmed , Samuel Summer
+Eversince A	advancing	Closing Government	Uphie AbdurrahmanⒸ , Abrar Ahmed , Samuel Summer
+AUBG A	eliminated	Opening Opposition	Uphie AbdurrahmanⒸ , Abrar Ahmed , Samuel Summer
+
+
+team	result	side	adjudicators
+Belgrade BK	eliminated	Opening Opposition	William SmithⒸ , Jehiel Pather , Marina Kojić , Mikołaj Jabłoński , Vladimira Šuflaj
+BDU π	eliminated	Closing Opposition	William SmithⒸ , Jehiel Pather , Marina Kojić , Mikołaj Jabłoński , Vladimira Šuflaj
+Eversince A	eliminated	Opening Government	William SmithⒸ , Jehiel Pather , Marina Kojić , Mikołaj Jabłoński , Vladimira Šuflaj
+Belgrade The late bird gets the worm as wel	advancing	Closing Government	William SmithⒸ , Jehiel Pather , Marina Kojić , Mikołaj Jabłoński , Vladimira Šuflaj
+
+
+team	result	side	adjudicators
+404: brains not found	eliminated	Opening Opposition	Panagis GouvelisⒸ , Aliya Fairuz , Leander Mathissen , Sasha Khovrak , William Smith
+Sofyan Sultan	advancing	Closing Government	Panagis GouvelisⒸ , Aliya Fairuz , Leander Mathissen , Sasha Khovrak , William Smith
+Antidisestablishmentarian Hippopot	eliminated	Closing Opposition	Panagis GouvelisⒸ , Aliya Fairuz , Leander Mathissen , Sasha Khovrak , William Smith
+UKI	eliminated	Opening Government	Panagis GouvelisⒸ , Aliya Fairuz , Leander Mathissen , Sasha Khovrak , William Smith
+

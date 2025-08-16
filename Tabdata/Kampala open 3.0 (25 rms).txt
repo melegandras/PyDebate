@@ -1,0 +1,1286 @@
+
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	Henry &amp; Wessy		1st	1st	1st	2nd	1st	14	809	4	1
+2	Zuki &amp; Teddy		1st	2nd	1st	1st	2nd	13	791	3	2
+3	Kwesi &amp; Kibirango		1st	2nd	2nd	1st	1st	13	785	3	2
+4	Daniel &amp; Ameer	Novice, Schools	2nd	1st	1st	1st	3rd	12	812	3	1
+5	Dela &amp; Matt		1st	4th	1st	1st	1st	12	786	4	0
+6	Ajake &amp; Pule		1st	1st	2nd	2nd	2nd	12	780	2	3
+7	Okello &amp; Okuku		1st	3rd	1st	2nd	1st	12	764	3	1
+8	Olamide &amp; Collins		3rd	1st	2nd	1st	2nd	11	793	2	2
+9	Synthia &amp; Adrian	Novice, Schools	1st	1st	2nd	3rd	2nd	11	792	2	2
+10	Ajok &amp; Kimani		1st	1st	1st	3rd	3rd	11	789	3	0
+11	Bukhosi &amp; Thala		1st	1st	2nd	4th	1st	11	787	3	1
+12	Brendan &amp; Laila	Schools	1st	2nd	3rd	2nd	1st	11	786	2	2
+13	Nix &amp; Cheyenne		2nd	1st	2nd	2nd	2nd	11	781	1	4
+14	Genesis &amp; Fleku		2nd	2nd	1st	3rd	1st	11	778	2	2
+15	Comfort &amp; Mahle		3rd	2nd	1st	2nd	1st	11	776	2	2
+16	Offiah &amp; Justice		3rd	1st	3rd	1st	1st	11	767	3	0
+17	Fumane &amp; George		1st	2nd	3rd	1st	2nd	11	765	2	2
+18	Naman &amp; Aneesh		1st	3rd	1st	3rd	1st	11	755	3	0
+19	Swing A		1st	3rd	2nd	2nd	1st	11	743	2	2
+20	Aristotle &amp; Miletus		1st	2nd	2nd	2nd	3rd	10	797	1	3
+21	Dennis &amp; Ngabirano		1st	1st	3rd	1st	4th	10	783	3	0
+22	Hassana &amp; Super		1st	2nd	1st	2nd	4th	10	782	2	2
+23	Michelle &amp; Nina		1st	1st	4th	2nd	2nd	10	781	2	2
+24	Kalyne &amp; Tinotenda	Novice, Schools	3rd	1st	1st	3rd	2nd	10	780	2	1
+25	Pinelle &amp; Matilda		1st	2nd	3rd	1st	3rd	10	779	2	1
+26	Grillo &amp; Gladstone		1st	1st	4th	1st	3rd	10	776	3	0
+27	Thandokuhle &amp; Haniel		2nd	1st	4th	1st	2nd	10	769	2	2
+28	BP &amp; Wandia		4th	1st	1st	3rd	1st	10	766	3	0
+29	O&#x27;Nana &amp; Helena		2nd	3rd	2nd	2nd	1st	10	761	1	3
+30	Sibusi &amp; Zion		1st	4th	1st	3rd	1st	10	757	3	0
+31	Desmark &amp; Immortal	Novice	2nd	3rd	3rd	1st	1st	10	754	2	1
+32	Ankunda &amp; Fred	Schools	2nd	2nd	3rd	1st	2nd	10	750	1	3
+33	Aayush &amp; Aayush		1st	2nd	3rd	4th	1st	9	780	2	1
+34	Samrawit &amp; Mukisa	Novice, Schools	2nd	2nd	2nd	2nd	3rd	9	775	0	4
+35=	Addo &amp; Nelson		2nd	1st	1st	4th	3rd	9	774	2	1
+35=	Chris &amp; Donkor		1st	4th	1st	2nd	3rd	9	774	2	1
+37	Denzel &amp; Bracey		1st	3rd	2nd	1st	4th	9	770	2	1
+38	Debrah &amp; Sharon		1st	1st	1st	4th	4th	9	768	3	0
+39	Maisoon &amp; Arnold	Novice	4th	1st	3rd	2nd	1st	9	766	2	1
+40	Blessing &amp; Dembe	Novice	2nd	3rd	4th	1st	1st	9	765	2	1
+41	Papa &amp; Felix		3rd	1st	2nd	1st	4th	9	764	2	1
+42	Molemo &amp; Anjeli		1st	3rd	1st	3rd	3rd	9	764	2	0
+43	Thor’s Simp  &amp; Thor		3rd	2nd	3rd	1st	2nd	9	763	1	2
+44	Matthew &amp; Kelvin		2nd	3rd	1st	1st	4th	9	761	2	1
+45	Anuo &amp; Komlam	Novice	3rd	1st	3rd	2nd	2nd	9	755	1	2
+46	Kamohelo &amp; Bandile		3rd	1st	2nd	4th	1st	9	752	2	1
+47	Yamikani &amp; Sia	Novice	3rd	2nd	2nd	2nd	2nd	9	751	0	4
+48	Ajisafe &amp; Ahmad	Novice	4th	1st	2nd	2nd	2nd	9	734	1	3
+49	Siphesihle &amp; Nompumelelo		2nd	1st	3rd	3rd	3rd	8	779	1	1
+50	Jeffrey &amp; Dennis		1st	3rd	3rd	4th	1st	8	776	2	0
+51	Elainu &amp; Raima		1st	4th	2nd	1st	4th	8	773	2	1
+52	Mpumi &amp; Onalenna		2nd	4th	1st	3rd	2nd	8	765	1	2
+53	Amiel &amp; Maxene	Novice, Schools	3rd	2nd	2nd	2nd	3rd	8	762	0	3
+54	Ssemakula &amp; Omara		4th	2nd	2nd	3rd	1st	8	761	1	2
+55	Abaala &amp; Kataike	Novice, Schools	3rd	1st	1st	4th	3rd	8	760	2	0
+56	Ganiyat &amp; Muideen		1st	3rd	2nd	4th	2nd	8	760	1	2
+57	Muwanguzi &amp; Nyombi	Novice	2nd	3rd	3rd	3rd	1st	8	760	1	1
+58	Jayson &amp; Jamillia	Schools	1st	2nd	4th	1st	4th	8	758	2	1
+59	Fahad &amp; Hussein	Novice, Schools	1st	4th	3rd	2nd	2nd	8	754	1	2
+60	Carel &amp; Aryan	Schools	3rd	1st	3rd	3rd	2nd	8	753	1	1
+61	Ahurira &amp; Kyeyune	Novice	2nd	2nd	4th	1st	3rd	8	752	1	2
+62	Farjin &amp; Sohag	Novice	2nd	2nd	1st	4th	3rd	8	750	1	2
+63=	Hashim &amp; Shammah	Novice, Schools	2nd	4th	1st	4th	1st	8	747	2	1
+63=	Sanskar &amp; Prabhjot	Novice	2nd	4th	4th	1st	1st	8	747	2	1
+65	Rameetse &amp; Kimberly		1st	4th	2nd	1st	4th	8	724	2	1
+66	Lowel &amp; Ryan		2nd	1st	3rd	3rd	4th	7	768	1	1
+67	Obinna &amp; Oluwatobi	Novice	3rd	4th	1st	3rd	2nd	7	761	1	1
+68	Di &amp; Da	Novice	2nd	1st	4th	2nd	4th	7	760	1	2
+69	Nakalanzi &amp; Musinguzi		3rd	2nd	2nd	4th	2nd	7	760	0	3
+70	Fadiran &amp; Tanimowo	Novice	2nd	4th	2nd	3rd	2nd	7	758	0	3
+71	Nimaro &amp; Natalie	Novice, Schools	2nd	4th	1st	4th	2nd	7	757	1	2
+72=	Nelson &amp; Raymond	Novice	4th	3rd	2nd	3rd	1st	7	757	1	1
+72=	Sujal &amp; Gargi	Novice	3rd	3rd	1st	2nd	4th	7	757	1	1
+74	Jan &amp; Christine		1st	4th	1st	3rd	4th	7	756	2	0
+75	Koross &amp; Danaro		4th	1st	3rd	2nd	3rd	7	751	1	1
+76	Mathew &amp; Vivian		3rd	3rd	1st	3rd	3rd	7	750	1	0
+77	Mpho &amp; Amo	Novice	1st	4th	1st	3rd	4th	7	749	2	0
+78	Ibrahim &amp; Hetvi	Novice	4th	1st	2nd	3rd	3rd	7	735	1	1
+79	Prince &amp; Russell		2nd	2nd	4th	2nd	3rd	7	728	0	3
+80	Mugerwa &amp; Bunyenyezi	Schools	2nd	1st	2nd	4th	—	7	612	1	2
+81	Donkor &amp; Hamza		1st	3rd	4th	1st	—	7	607	2	0
+82	John &amp; Moboluwarin	Novice	3rd	4th	1st	1st	—	7	605	2	0
+83	Oluwamayomikun &amp; Salamatu	Novice	2nd	2nd	4th	2nd	4th	6	761	0	3
+84	Ashley &amp; Bella	Novice, Schools	2nd	3rd	3rd	3rd	3rd	6	759	0	1
+85	Daniel &amp; Jethro	Novice, Schools	1st	4th	2nd	3rd	4th	6	758	1	1
+86	Patrick &amp; Matt	Novice	3rd	2nd	4th	3rd	2nd	6	758	0	2
+87	Babatunde &amp; Zalwango	Novice, Schools	2nd	1st	4th	4th	3rd	6	757	1	1
+88	Ziyaad &amp; Imaan		1st	3rd	4th	3rd	3rd	6	757	1	0
+89	Namata &amp; Bayiga	Schools	4th	2nd	1st	4th	3rd	6	754	1	1
+90	Moyinoluwa &amp; Mong	Novice	4th	2nd	2nd	4th	2nd	6	754	0	3
+91	Eric &amp; Siyabonga		3rd	1st	2nd	4th	4th	6	750	1	1
+92	Ndawula &amp; Mwigarire	Novice, Schools	3rd	3rd	2nd	2nd	4th	6	746	0	2
+93	Elizabeth &amp; Mboizi	Novice, Schools	4th	3rd	1st	2nd	4th	6	740	1	1
+94=	Stephanie &amp; Diljot	Novice	3rd	2nd	4th	1st	—	6	613	1	1
+94=	Usman &amp; Muhtasim	Novice, Schools	2nd	4th	3rd	1st	—	6	613	1	1
+96	Laurian &amp; Nantale	Novice, Schools	3rd	2nd	1st	4th	—	6	607	1	1
+97	H. M &amp; Soumitro	Novice	3rd	4th	2nd	2nd	4th	5	752	0	2
+98	Emmanuel &amp; Deborah	Novice	4th	2nd	4th	1st	4th	5	742	1	1
+99	Masiga &amp; Eronda	Novice	4th	1st	4th	3rd	3rd	5	742	1	0
+100	Harsh &amp; Kundan	Novice	4th	2nd	3rd	3rd	3rd	5	732	0	1
+101	Mercy &amp; Atuhairwe	Novice, Schools	4th	2nd	4th	1st	4th	5	715	1	1
+102	Clive &amp; Dorcas		2nd	2nd	4th	3rd	—	5	607	0	2
+103	Nathaniel &amp; Nomthandazo		3rd	3rd	3rd	2nd	—	5	600	0	1
+104	Theresa &amp; Yehezkiel	Novice	2nd	1st	4th	—	—	5	464	1	1
+105	Arnold &amp; Methylphenidate		—	—	2nd	1st	—	5	286	1	1
+106	Ojemuyiwa &amp; Owuna	Novice	4th	3rd	4th	1st	4th	4	753	1	0
+107	Samira &amp; Aizere	Novice, Schools	4th	3rd	3rd	4th	2nd	4	726	0	1
+108	Wandera &amp; Mugabe	Novice, Schools	3rd	2nd	3rd	4th	—	4	603	0	1
+109	Alimo &amp; Musiimenta	Novice, Schools	2nd	4th	4th	2nd	—	4	601	0	2
+110	Sujata &amp; Tihami	Novice	2nd	2nd	4th	4th	—	4	600	0	2
+111	Reatlehile &amp; Lentletse	Novice	2nd	3rd	3rd	4th	—	4	596	0	1
+112	Egbogu &amp; Adibo	Novice	3rd	3rd	4th	2nd	—	4	595	0	1
+113	Ezra &amp; Mercy	Novice, Schools	4th	3rd	1st	4th	—	4	591	1	0
+114	Njemanze &amp; Igwe	Novice	4th	2nd	2nd	—	4th	4	579	0	2
+115	Mugerwa &amp; 𝖱𝗐𝖺𝖻𝗎𝗀𝖺𝗁𝗒𝖺	Schools	2nd	4th	4th	2nd	—	4	574	0	2
+116	Swing B		1st	4th	3rd	4th	—	4	545	1	0
+117	Amogelang &amp; Motheo	Novice, Schools	2nd	3rd	3rd	—	—	4	451	0	1
+118	Stephanie &amp; Ruqayyah		—	2nd	2nd	4th	—	4	441	0	2
+119	Chukwuemeka &amp; Amajuoyi	Novice	—	1st	3rd	4th	—	4	437	1	0
+120	Swing C		—	2nd	3rd	3rd	—	4	420	0	1
+121	Bakulumpagi &amp; Mutebi		3rd	4th	4th	3rd	3rd	3	725	0	0
+122	Wampamba &amp; Namanya	Novice, Schools	3rd	4th	3rd	3rd	—	3	593	0	0
+123	Drohna &amp; Esther	Novice, Schools	4th	4th	1st	4th	—	3	586	1	0
+124	Tinashe &amp; Brandon	Novice	4th	3rd	3rd	3rd	—	3	560	0	0
+125	Raymond &amp; Allan		3rd	3rd	3rd	—	—	3	461	0	0
+126	Abah &amp; Uguru		4th	1st	4th	—	—	3	458	1	0
+127	Ahabyoona &amp; Atwine	Novice, Schools	2nd	4th	3rd	—	—	3	455	0	1
+128	Prakruti &amp; Ree	Novice	3rd	3rd	3rd	—	—	3	455	0	0
+129	Benjamin &amp; Chelsea	Novice	3rd	4th	2nd	—	—	3	448	0	1
+130	Henry &amp; Makokha	Novice, Schools	3rd	4th	2nd	—	—	3	445	0	1
+131	Lam &amp; Con	Novice, Schools	4th	1st	4th	—	—	3	434	1	0
+132	Bella &amp; Fred	Novice	4th	4th	1st	—	—	3	411	1	0
+133	Swing G		—	1st	4th	—	—	3	282	1	0
+134	Swing H		—	2nd	3rd	—	—	3	280	0	1
+135=	Aditya &amp; Aditya	Novice	—	—	1st	—	—	3	152	1	0
+135=	Swing Q		—	—	—	1st	—	3	152	1	0
+137	Swing M		—	—	—	1st	—	3	151	1	0
+138	Amutos &amp; Achom	Novice, Schools	—	—	1st	—	—	3	150	1	0
+139	Shanitah &amp; Gisan	Novice, Schools	3rd	3rd	4th	4th	—	2	571	0	0
+140	Freda &amp; Nwakanze	Novice	4th	—	2nd	4th	4th	2	545	0	1
+141	Tawiah &amp; Emmanuel		—	2nd	4th	4th	—	2	439	0	1
+142	Anthony &amp; Ryan	Novice	3rd	3rd	—	—	—	2	307	0	0
+143	Alpha &amp; Erick	Novice, Schools	3rd	3rd	—	—	—	2	269	0	0
+144	Swing O		—	—	—	2nd	—	2	154	0	1
+145=	Hussein &amp; Rahmah		2nd	—	—	—	—	2	151	0	1
+145=	Kay &amp; Omara		—	—	2nd	—	—	2	151	0	1
+147	Swing L		—	—	—	2nd	—	2	145	0	1
+148	Asiimwe &amp; Ndagire		4th	3rd	4th	—	—	1	433	0	0
+149	Swing E		—	4th	3rd	4th	—	1	419	0	0
+150	Nkonim &amp; Asare		4th	3rd	—	—	—	1	295	0	0
+151	Nabutto &amp; Twinomugisha	Novice, Schools	3rd	4th	—	—	—	1	287	0	0
+152	Swing D		—	3rd	4th	—	—	1	285	0	0
+153	Swing K		—	—	4th	3rd	—	1	273	0	0
+154	Swing J		—	—	3rd	4th	—	1	272	0	0
+155	Swing I		—	3rd	4th	—	—	1	270	0	0
+156	Chris &amp; Mark		—	3rd	—	—	—	1	153	0	0
+157	Joel &amp; Kayongo	Schools	3rd	—	—	—	—	1	152	0	0
+158	Sugam &amp; Abhinav	Novice	4th	4th	—	—	—	0	302	0	0
+159	Swing F		—	4th	4th	—	—	0	301	0	0
+160	Anshuman &amp; Eshaana	Novice	4th	4th	—	—	—	0	291	0	0
+161	Atukwasa &amp; Amaalu	Novice, Schools	4th	4th	—	—	—	0	290	0	0
+162	Marya &amp; Richa		4th	4th	—	—	—	0	289	0	0
+163	Chinecherem &amp; Chinechere	Novice	4th	4th	—	—	—	0	285	0	0
+164	Muoghalu &amp; Eze		4th	4th	—	—	—	0	277	0	0
+165	Nana &amp; Marvin	Novice	4th	4th	—	—	—	0	271	0	0
+166	Eudrine &amp; Edyegu	Schools	4th	—	—	—	—	0	147	0	0
+167	Aditya &amp; Aman		4th	—	—	—	—	0	142	0	0
+168	Swing P		—	—	—	4th	—	0	140	0	0
+169	Obajuwon &amp; Mubarak	Novice	4th	—	—	—	—	0	137	0	0
+170=	Prosper &amp; Joel	Novice, Schools	4th	—	—	—	—	0	130	0	0
+170=	Swing N		—	—	4th	—	—	0	130	0	0
+172=	Musinguzi &amp; Obihebwa	Novice, Schools	—	—	—	—	—	—	—	0	0
+172=	Sechaba &amp; Brian	Novice, Schools	—	—	—	—	—	—	—	0	0
+172=	Sharika &amp; Ariad	Novice, Schools	—	—	—	—	—	—	—	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	R5	Total	Avg	Stdev
+1	Ameer Loonat	Novice, School	Daniel &amp; Ameer	79	83	82	82	82	408	81.60	1.36
+2	Wessy		Henry &amp; Wessy	79	81	82	81	84	407	81.40	1.62
+3	Daniel du Plessis	Novice, School	Daniel &amp; Ameer	78	82	82	81	81	404	80.80	1.47
+4	Henry		Henry &amp; Wessy	78	81	80	80	83	402	80.40	1.62
+5	Aristotle		Aristotle &amp; Miletus	79	81	83	79	78	400	80.00	1.79
+6	Collins Unimke Undelikwo		Olamide &amp; Collins	78	80	80	81	79	398	79.60	1.02
+7=	Teddy Xuhe		Zuki &amp; Teddy	77	78	77	81	83	396	79.20	2.40
+7=	Kimani Kiragu		Ajok &amp; Kimani	77	79	82	79	79	396	79.20	1.60
+7=	Adrian Obwaka	Novice, School	Synthia &amp; Adrian	79	79	80	79	79	396	79.20	0.40
+7=	Synthia Lamaro	Novice, School	Synthia &amp; Adrian	79	80	80	79	78	396	79.20	0.75
+11=	Brendan Hope	School	Brendan &amp; Laila	77	77	76	82	83	395	79.00	2.90
+11=	Zuki Nameka		Zuki &amp; Teddy	78	77	77	80	83	395	79.00	2.28
+11=	Olamide Esther Olayinka		Olamide &amp; Collins	77	80	79	79	80	395	79.00	1.10
+14=	Kibirango Osama Rahim		Kwesi &amp; Kibirango	78	79	77	78	82	394	78.80	1.72
+14=	Bukhosi Mpofu		Bukhosi &amp; Thala	78	80	80	78	78	394	78.80	0.98
+16=	Dennis Amankwah Boateng		Dennis &amp; Ngabirano	78	77	80	78	80	393	78.60	1.20
+16=	Ajok Isaiah Manoon		Ajok &amp; Kimani	77	78	82	78	78	393	78.60	1.74
+16=	Matt Wakonda		Dela &amp; Matt	79	78	78	80	78	393	78.60	0.80
+16=	Dela		Dela &amp; Matt	78	79	77	80	79	393	78.60	1.02
+16=	Redacted		—	79	79	83	77	75	393	78.60	2.65
+16=	Thala Mayekiso		Bukhosi &amp; Thala	78	79	79	79	78	393	78.60	0.49
+22	Michelle Wangari		Michelle &amp; Nina	79	78	78	80	77	392	78.40	1.02
+23=	Fleku Nathaniel		Genesis &amp; Fleku	79	78	81	77	76	391	78.20	1.72
+23=	Laila Ahmed	Novice, School	Brendan &amp; Laila	79	76	76	79	81	391	78.20	1.94
+23=	Kwesi Broni Nyarko		Kwesi &amp; Kibirango	79	78	76	78	80	391	78.20	1.33
+23=	Aayushi Singh		Aayush &amp; Aayush	80	78	78	78	77	391	78.20	0.98
+23=	Nix		Nix &amp; Cheyenne	77	78	81	77	78	391	78.20	1.47
+28=	Siphesihle Sibeko		Siphesihle &amp; Nompumelelo	76	83	76	79	76	390	78.00	2.76
+28=	Gladstone Clement		Grillo &amp; Gladstone	76	79	79	79	77	390	78.00	1.26
+28=	Ajake.		Ajake &amp; Pule	76	74	81	79	80	390	78.00	2.61
+28=	Tinotenda Sapoti	Novice, School	Kalyne &amp; Tinotenda	78	78	79	78	77	390	78.00	0.63
+28=	Kalyne T Mlambo	Novice, School	Kalyne &amp; Tinotenda	77	78	79	78	78	390	78.00	0.63
+28=	Ngabirano Titus		Dennis &amp; Ngabirano	78	77	79	76	80	390	78.00	1.41
+28=	Cheyenne		Nix &amp; Cheyenne	76	79	80	78	77	390	78.00	1.41
+35=	Pinelle Bikouta		Pinelle &amp; Matilda	77	76	81	81	74	389	77.80	2.79
+35=	Mpumelelo Mathebula		Siphesihle &amp; Nompumelelo	75	85	75	79	75	389	77.80	3.92
+35=	Jeffrey Djiboe		Jeffrey &amp; Dennis	78	77	78	75	81	389	77.80	1.94
+35=	Aayush Wadhwa		Aayush &amp; Aayush	79	77	77	78	78	389	77.80	0.75
+35=	Nina Wairimu		Michelle &amp; Nina	78	77	79	79	76	389	77.80	1.17
+35=	Redacted		—	78	78	83	76	74	389	77.80	2.99
+41=	Samrawit Ghebrehiwot	Novice, School	Samrawit &amp; Mukisa	75	81	79	77	76	388	77.60	2.15
+41=	Mahle Qina		Comfort &amp; Mahle	76	79	76	78	79	388	77.60	1.36
+41=	Comfort Topia		Comfort &amp; Mahle	77	78	76	78	79	388	77.60	1.02
+41=	Raima Muhammad	School	Elainu &amp; Raima	78	76	80	78	76	388	77.60	1.50
+41=	Nelson &#x27;HILLARY&#x27; Nwadike		Addo &amp; Nelson	78	80	77	76	77	388	77.60	1.36
+46=	Genesis O. Ben		Genesis &amp; Fleku	78	77	80	77	75	387	77.40	1.62
+46=	Maisoon Nagginda	Novice, School	Maisoon &amp; Arnold	75	80	77	78	77	387	77.40	1.62
+46=	Mukisa Glen Jereny	Novice, School	Samrawit &amp; Mukisa	75	80	78	78	76	387	77.40	1.74
+46=	Dennis Arhinful		Jeffrey &amp; Dennis	77	77	78	75	80	387	77.40	1.62
+46=	Wandia DM		BP &amp; Wandia	75	79	79	78	76	387	77.40	1.62
+51=	Bracey Ndlovu		Denzel &amp; Bracey	76	79	76	80	75	386	77.20	1.94
+51=	Dembe Mutshinyalo	Novice	Blessing &amp; Dembe	78	77	74	79	78	386	77.20	1.72
+51=	Grillo Adedolapo		Grillo &amp; Gladstone	75	78	77	79	77	386	77.20	1.33
+51=	Haniel Nyauta		Thandokuhle &amp; Haniel	77	76	74	77	82	386	77.20	2.64
+51=	Addo Desmond		Addo &amp; Nelson	79	79	77	75	76	386	77.20	1.60
+56=	Ryan		Lowel &amp; Ryan	78	78	79	78	72	385	77.00	2.53
+56=	Chris Foli		Chris &amp; Donkor	78	75	75	79	78	385	77.00	1.67
+56=	Elainu Peter		Elainu &amp; Raima	79	77	78	77	74	385	77.00	1.67
+56=	Kahinju Debrah Yeson		Debrah &amp; Sharon	76	74	81	77	77	385	77.00	2.28
+60	Justice Thinker		Offiah &amp; Justice	73	79	75	79	78	384	76.80	2.40
+61=	Muwanguzi Shadrach		Muwanguzi &amp; Nyombi	78	79	71	78	77	383	76.60	2.87
+61=	Soumitro Kumar Das	Novice	H. M &amp; Soumitro	76	75	78	79	75	383	76.60	1.62
+61=	George Panashe		Fumane &amp; George	76	73	80	80	74	383	76.60	2.94
+61=	Lowel	Novice	Lowel &amp; Ryan	76	77	80	77	73	383	76.60	2.24
+61=	Onalenna Ralepeli	Novice	Mpumi &amp; Onalenna	77	78	81	75	72	383	76.60	3.01
+61=	Okuku James Junior		Okello &amp; Okuku	78	71	75	78	81	383	76.60	3.38
+61=	Thandokuhle Sibanda		Thandokuhle &amp; Haniel	78	74	73	78	80	383	76.60	2.65
+61=	Felix Kakanda		Papa &amp; Felix	71	78	78	79	77	383	76.60	2.87
+61=	Redacted		—	74	79	75	78	77	383	76.60	1.85
+61=	Karungi Mary Sharon		Debrah &amp; Sharon	74	75	80	78	76	383	76.60	2.15
+71=	Ashley Zoe Letasi	Novice, School	Ashley &amp; Bella	78	77	75	76	76	382	76.40	1.02
+71=	Fumane		Fumane &amp; George	76	72	79	81	74	382	76.40	3.26
+71=	Mpumi Mashatola		Mpumi &amp; Onalenna	77	76	82	74	73	382	76.40	3.14
+71=	Thor’s Simp		Thor’s Simp  &amp; Thor	77	79	76	77	73	382	76.40	1.96
+71=	Anjeli Ramatsui	School	Molemo &amp; Anjeli	79	77	79	75	72	382	76.40	2.65
+71=	Molemo Maleaka		Molemo &amp; Anjeli	80	77	78	76	71	382	76.40	3.01
+71=	Muideen Popoola		Ganiyat &amp; Muideen	77	77	78	72	78	382	76.40	2.24
+71=	Omara Brian David		Ssemakula &amp; Omara	75	75	78	76	78	382	76.40	1.36
+71=	Amiel	Novice, School	Amiel &amp; Maxene	75	76	80	75	76	382	76.40	1.85
+71=	Obinna Praise	Novice	Obinna &amp; Oluwatobi	78	74	76	76	78	382	76.40	1.50
+81=	Da.	Novice	Di &amp; Da	76	76	78	76	75	381	76.20	0.98
+81=	Okello Fortunate Samuel		Okello &amp; Okuku	79	72	73	77	80	381	76.20	3.19
+81=	Kataike Racheal	Novice, School	Abaala &amp; Kataike	77	79	77	76	72	381	76.20	2.32
+81=	Sibusi		Sibusi &amp; Zion	75	74	76	77	79	381	76.20	1.72
+81=	Helena Namutebi Kizito	Novice, School	O&#x27;Nana &amp; Helena	77	74	75	79	76	381	76.20	1.72
+81=	Papa Levi	Novice	Papa &amp; Felix	72	77	78	78	76	381	76.20	2.23
+87=	Fadiran Eniola	Novice	Fadiran &amp; Tanimowo	76	75	80	73	76	380	76.00	2.28
+87=	Musinguzi Nicholas		Nakalanzi &amp; Musinguzi	78	77	77	73	75	380	76.00	1.79
+87=	Nakalanzi Melody		Nakalanzi &amp; Musinguzi	77	78	76	73	76	380	76.00	1.67
+87=	Daniel Emmanuel Otim	Novice, School	Daniel &amp; Jethro	77	77	75	76	75	380	76.00	0.89
+87=	Nelson Buyinza	Novice, School	Nelson &amp; Raymond	75	77	74	77	77	380	76.00	1.26
+87=	Gargi	Novice	Sujal &amp; Gargi	76	78	78	76	72	380	76.00	2.19
+87=	Maxene Gail	Novice, School	Amiel &amp; Maxene	74	75	80	74	77	380	76.00	2.28
+94=	Jamillia Lei-V Mabini	School	Jayson &amp; Jamillia	79	72	75	77	76	379	75.80	2.32
+94=	Jayson S. Perez	Novice, School	Jayson &amp; Jamillia	79	73	75	76	76	379	75.80	1.94
+94=	Arnold Mwebaze	Novice	Maisoon &amp; Arnold	74	75	76	77	77	379	75.80	1.17
+94=	Di.	Novice	Di &amp; Da	75	76	76	77	75	379	75.80	0.75
+94=	Blessing Nkosi	Novice	Blessing &amp; Dembe	78	76	73	78	74	379	75.80	2.04
+94=	Babatunde Tobi Faith	Novice, School	Babatunde &amp; Zalwango	75	80	74	74	76	379	75.80	2.23
+94=	Hussein the Neural Surgeon	Novice, School	Fahad &amp; Hussein	79	71	76	77	76	379	75.80	2.64
+94=	Abaala Micah	Novice, School	Abaala &amp; Kataike	76	79	75	77	72	379	75.80	2.32
+94=	Desmark	Novice	Desmark &amp; Immortal	77	78	72	78	74	379	75.80	2.40
+94=	Natalie Ddungu Anitah	Novice, School	Nimaro &amp; Natalie	77	73	77	76	76	379	75.80	1.47
+94=	Matt Agao	Novice	Patrick &amp; Matt	78	77	71	76	77	379	75.80	2.48
+94=	Patrick Muiruri	Novice	Patrick &amp; Matt	78	77	71	76	77	379	75.80	2.48
+94=	BP Ndolo		BP &amp; Wandia	72	76	80	76	75	379	75.80	2.56
+94=	Anuo Doreen	Novice, School	Anuo &amp; Komlam	75	78	73	76	77	379	75.80	1.72
+94=	Jan Endrina		Jan &amp; Christine	74	74	81	80	70	379	75.80	4.12
+94=	Ssemakula Joshua Davis		Ssemakula &amp; Omara	75	76	76	75	77	379	75.80	0.75
+110=	Aryan Naidoo	School	Carel &amp; Aryan	77	79	70	75	77	378	75.60	3.07
+110=	Zalwango Denise Ssebuwufu	Novice, School	Babatunde &amp; Zalwango	75	78	75	75	75	378	75.60	1.20
+110=	Bayiga Fatuma	School	Namata &amp; Bayiga	69	80	78	75	76	378	75.60	3.72
+110=	Nimaro Daniela	Novice, School	Nimaro &amp; Natalie	77	73	76	75	77	378	75.60	1.50
+110=	Farjin Anyar Rahman	Novice	Farjin &amp; Sohag	78	79	79	70	72	378	75.60	3.83
+110=	Naman (Namnas) Ganguli		Naman &amp; Aneesh	79	70	75	76	78	378	75.60	3.14
+110=	Salamatu Umar	Novice	Oluwamayomikun &amp; Salamatu	78	77	75	73	75	378	75.60	1.74
+110=	Ganiyat Olowookere		Ganiyat &amp; Muideen	78	78	76	70	76	378	75.60	2.94
+118=	Koross Meshewa		Koross &amp; Danaro	77	73	74	76	77	377	75.40	1.62
+118=	Bandile Makoka	Novice, School	Kamohelo &amp; Bandile	77	76	72	75	77	377	75.40	1.85
+118=	Ojemuyiwa Joshua	Novice	Ojemuyiwa &amp; Owuna	76	77	73	77	74	377	75.40	1.62
+118=	Aneesh (IEM) Bhattacharjee		Naman &amp; Aneesh	79	70	74	76	78	377	75.40	3.20
+118=	Christine Bagazin		Jan &amp; Christine	73	74	80	80	70	377	75.40	3.98
+118=	Raymond Magomu	Novice	Nelson &amp; Raymond	76	76	73	77	75	377	75.40	1.36
+118=	Sujal	Novice	Sujal &amp; Gargi	77	76	77	76	71	377	75.40	2.24
+118=	Ahurira Arnold	Novice	Ahurira &amp; Kyeyune	78	75	73	76	75	377	75.40	1.62
+126=	Mong Victor	Novice	Moyinoluwa &amp; Mong	73	77	76	75	75	376	75.20	1.33
+126=	Namata Aisha	School	Namata &amp; Bayiga	69	79	77	75	76	376	75.20	3.37
+126=	Amo	Novice	Mpho &amp; Amo	78	74	74	76	74	376	75.20	1.60
+126=	Zion		Sibusi &amp; Zion	75	71	76	76	78	376	75.20	2.32
+126=	Owuna Favour	Novice, School	Ojemuyiwa &amp; Owuna	75	76	74	78	73	376	75.20	1.72
+126=	Komlam Abraham	Novice	Anuo &amp; Komlam	74	78	72	77	75	376	75.20	2.14
+126=	Imaan Davids		Ziyaad &amp; Imaan	75	75	76	73	77	376	75.20	1.33
+126=	Yamikani	Novice	Yamikani &amp; Sia	75	77	75	76	73	376	75.20	1.33
+126=	Ankunda Elijah	Novice, School	Ankunda &amp; Fred	75	76	76	74	75	376	75.20	0.75
+135=	Carel Hauptfleisch		Carel &amp; Aryan	77	78	70	74	76	375	75.00	2.83
+135=	Fahad the Cardiologist	Novice	Fahad &amp; Hussein	79	70	75	77	74	375	75.00	3.03
+135=	Kamohelo Kolanchu		Kamohelo &amp; Bandile	75	76	72	76	76	375	75.00	1.55
+135=	Sanskar Dhyani	Novice	Sanskar &amp; Prabhjot	74	76	73	74	78	375	75.00	1.79
+135=	Mwigarire Rashmi	Novice, School	Ndawula &amp; Mwigarire	76	75	76	76	72	375	75.00	1.55
+140=	Speaker 2		Swing A	79	75	74	71	75	374	74.80	2.56
+140=	Danaro M.	School	Koross &amp; Danaro	75	72	75	76	76	374	74.80	1.47
+140=	Masiga Victor Enoch Wanyama	Novice	Masiga &amp; Eronda	75	77	73	74	75	374	74.80	1.33
+140=	Mathew Ekelot		Mathew &amp; Vivian	74	74	77	76	73	374	74.80	1.47
+140=	Fred Senyondwa	School	Ankunda &amp; Fred	70	76	77	76	75	374	74.80	2.48
+145	Prabhjot Kaur	Novice	Sanskar &amp; Prabhjot	73	75	73	74	77	372	74.40	1.50
+146=	Emmanuel Adebayo Abimbola	Novice	Emmanuel &amp; Deborah	67	76	74	79	75	371	74.20	3.97
+146=	Ndawula Jordan Xavier	Novice, School	Ndawula &amp; Mwigarire	72	75	76	77	71	371	74.20	2.32
+146=	Mboizi Jessy	Novice, School	Elizabeth &amp; Mboizi	74	75	78	75	69	371	74.20	2.93
+149	Speaker 1		Swing A	79	76	74	65	75	369	73.80	4.71
+150=	Ibrahim Auma	Novice	Ibrahim &amp; Hetvi	69	78	76	72	73	368	73.60	3.14
+150=	Ahmad Buhari	Novice	Ajisafe &amp; Ahmad	65	75	74	77	77	368	73.60	4.45
+152=	Harsh Goyal	Novice	Harsh &amp; Kundan	72	73	75	75	72	367	73.40	1.36
+152=	Rameetse Nathaniel		Rameetse &amp; Kimberly	76	68	74	79	70	367	73.40	3.98
+154=	Prince K Njekeya		Prince &amp; Russell	72	77	70	76	71	366	73.20	2.79
+154=	Ajisafe Damilola Ifeoluwa	Novice	Ajisafe &amp; Ahmad	66	74	73	77	76	366	73.20	3.87
+156	Aizire Rodric	Novice, School	Samira &amp; Aizere	75	72	72	69	75	363	72.60	2.24
+157	Atuhairwe Aldrine	Novice, School	Mercy &amp; Atuhairwe	67	74	72	73	75	361	72.20	2.79
+158	Mutebi Abdul Rahman		Bakulumpagi &amp; Mutebi	72	74	74	65	74	359	71.80	3.49
+159	Mercy Florence	Novice, School	Mercy &amp; Atuhairwe	66	72	71	70	75	354	70.80	2.93
+160	Pule Mmula.		Ajake &amp; Pule	75	—	80	80	81	316	79.00	2.35
+161=	Miletus		Aristotle &amp; Miletus	80	80	—	78	77	315	78.75	1.30
+161=	Donkor Archimedes		Chris &amp; Donkor	80	75	—	80	80	315	78.75	2.17
+163=	Matilda Kutama		Pinelle &amp; Matilda	77	76	—	83	73	309	77.25	3.63
+163=	Thor	Novice, School	Thor’s Simp  &amp; Thor	76	80	75	78	—	309	77.25	1.92
+165	Ziyaad Shaboodien		Ziyaad &amp; Imaan	80	76	76	—	76	308	77.00	1.73
+166=	Stephanie Nekoye	Novice	Stephanie &amp; Diljot	76	76	78	77	—	307	76.75	0.83
+166=	O&#x27;Nana Brian		O&#x27;Nana &amp; Helena	78	—	75	77	77	307	76.75	1.09
+166=	Bunyenyezi Hannibal	School	Mugerwa &amp; Bunyenyezi	75	77	77	78	—	307	76.75	1.09
+169=	Matthew Ace Angelo Tinamisan - LM		Matthew &amp; Kelvin	76	75	—	82	73	306	76.50	3.35
+169=	Diljot Kaur	Novice	Stephanie &amp; Diljot	75	77	76	78	—	306	76.50	1.12
+171=	Donkor Victory Yaw &quot;dadaba&quot;		Donkor &amp; Hamza	78	76	76	75	—	305	76.25	1.09
+171=	Denzel Mathe		Denzel &amp; Bracey	77	—	75	79	74	305	76.25	1.92
+171=	Tanimowo Sururah	Novice	Fadiran &amp; Tanimowo	77	74	79	—	75	305	76.25	1.92
+171=	Mugerwa Ronald	School	Mugerwa &amp; Bunyenyezi	76	76	76	77	—	305	76.25	0.43
+171=	Laurian Everett	Novice, School	Laurian &amp; Nantale	74	76	79	76	—	305	76.25	1.79
+176=	Moboluwarin Ogunleye	Novice	John &amp; Moboluwarin	76	76	75	77	—	304	76.00	0.71
+176=	Kelvin Dwayne &quot;Twink&quot; Lampon		Matthew &amp; Kelvin	73	75	—	83	73	304	76.00	4.12
+176=	Clive Mbudaya		Clive &amp; Dorcas	76	79	72	77	—	304	76.00	2.55
+176=	Oluwatobi Emmanuel Oyewumi	Novice	Obinna &amp; Oluwatobi	77	74	—	76	77	304	76.00	1.22
+180	Moyinoluwa Ogunleye	Novice	Moyinoluwa &amp; Mong	74	77	77	75	—	303	75.75	1.30
+181=	Bella Atulinda	Novice, School	Ashley &amp; Bella	78	76	73	75	—	302	75.50	1.80
+181=	Siyabonga Moyo		Eric &amp; Siyabonga	74	78	—	78	72	302	75.50	2.60
+181=	Tihami Ahmed	Novice	Sujata &amp; Tihami	76	80	70	76	—	302	75.50	3.57
+181=	Nathaniel Dube		Nathaniel &amp; Nomthandazo	74	79	74	75	—	302	75.50	2.06
+181=	Nantale Phoebe Patience	Novice, School	Laurian &amp; Nantale	72	76	78	76	—	302	75.50	2.18
+186=	Nyombi Shivan	Novice	Muwanguzi &amp; Nyombi	77	77	73	74	—	301	75.25	1.79
+186=	Wandera James	Novice, School	Wandera &amp; Mugabe	73	77	76	75	—	301	75.25	1.48
+186=	Gukunda Mercy Mugisha	Novice, School	Ezra &amp; Mercy	74	72	79	76	—	301	75.25	2.59
+186=	Eric Molapo		Eric &amp; Siyabonga	75	79	74	—	73	301	75.25	2.28
+186=	Kyeyune Jabulani Calvin	Novice, School	Ahurira &amp; Kyeyune	76	75	73	77	—	301	75.25	1.48
+191=	Adibo Tiffany	Novice	Egbogu &amp; Adibo	75	76	74	75	—	300	75.00	0.71
+191=	Shammah Byaruhanga	Novice, School	Hashim &amp; Shammah	74	76	—	73	77	300	75.00	1.58
+191=	Hashim Muwonge	Novice, School	Hashim &amp; Shammah	—	74	76	72	78	300	75.00	2.24
+194	Immortal	Novice	Desmark &amp; Immortal	—	76	72	77	74	299	74.75	1.92
+195=	Namanya Solomon Jeremiah	Novice, School	Wampamba &amp; Namanya	72	76	75	75	—	298	74.50	1.50
+195=	Sujata Amin Eipa	Novice	Sujata &amp; Tihami	75	78	70	75	—	298	74.50	2.87
+195=	Nomthandazo Ncube		Nathaniel &amp; Nomthandazo	73	77	74	74	—	298	74.50	1.50
+198	Reatlehile James	Novice	Reatlehile &amp; Lentletse	76	77	74	70	—	297	74.25	2.68
+199	Sohag Mia Antor	Novice	Farjin &amp; Sohag	77	76	—	71	72	296	74.00	2.55
+200=	Wampamba Jordan Lukanga	Novice, School	Wampamba &amp; Namanya	72	75	75	73	—	295	73.75	1.30
+200=	Elizabeth Sasha	Novice, School	Elizabeth &amp; Mboizi	75	75	77	—	68	295	73.75	3.42
+202=	H. M Calvin	Novice, School	H. M &amp; Soumitro	65	75	76	78	—	294	73.50	5.02
+202=	Drohna Mathiang	Novice, School	Drohna &amp; Esther	73	71	75	75	—	294	73.50	1.66
+204=	Russell Manhivi		Prince &amp; Russell	70	77	—	76	70	293	73.25	3.27
+204=	Eronda George William W	Novice	Masiga &amp; Eronda	73	75	72	73	—	293	73.25	1.09
+206	Bakulumpagi Joram	School	Bakulumpagi &amp; Mutebi	73	75	74	70	—	292	73.00	1.87
+207=	Redacted	Novice	—	70	71	76	—	74	291	72.75	2.38
+207=	Samira Zain	Novice, School	Samira &amp; Aizere	75	72	—	70	74	291	72.75	1.92
+209	Musasizi Ezra Anthony	Novice, School	Ezra &amp; Mercy	65	71	78	76	—	290	72.50	5.02
+210=	Shanitah	Novice, School	Shanitah &amp; Gisan	71	75	76	65	—	287	71.75	4.32
+210=	𝖱𝗐𝖺𝖻𝗎𝗀𝖺𝗁𝗒𝖺 𝖭𝗈𝗌𝗂𝖺𝗍𝖺 𝖲𝗒𝖽𝗇𝖾𝗒	School	Mugerwa &amp; 𝖱𝗐𝖺𝖻𝗎𝗀𝖺𝗁𝗒𝖺	75	72	70	70	—	287	71.75	2.05
+210=	Mugerwa Hindu Natasha	Novice, School	Mugerwa &amp; 𝖱𝗐𝖺𝖻𝗎𝗀𝖺𝗁𝗒𝖺	76	73	70	68	—	287	71.75	3.03
+213	Tinashe	Novice	Tinashe &amp; Brandon	69	65	75	70	—	279	69.75	3.56
+214	Freda Uchechukuwu Onyia	Novice	Freda &amp; Nwakanze	68	—	70	68	71	277	69.25	1.30
+215	Speaker 1		Swing B	74	68	66	65	—	273	68.25	3.49
+216	Speaker 2		Swing B	74	68	65	65	—	272	68.00	3.67
+217	Nwakanze Chimdindu Miracle	Novice	Freda &amp; Nwakanze	68	—	65	65	70	268	67.00	2.12
+218	Redacted	Novice	—	75	79	79	—	—	233	77.67	1.89
+219=	Redacted	Novice	—	74	78	79	—	—	231	77.00	2.16
+219=	Redacted	Novice, School	—	77	75	—	79	—	231	77.00	1.63
+219=	Redacted	Novice, School	—	77	—	75	79	—	231	77.00	1.63
+219=	Abah Divine		Abah &amp; Uguru	77	82	72	—	—	231	77.00	4.08
+223=	Deborah Isu	Novice	Emmanuel &amp; Deborah	—	76	76	78	—	230	76.67	0.94
+223=	Oluwamayomikun Timothy Adediran	Novice	Oluwamayomikun &amp; Salamatu	—	79	—	75	76	230	76.67	1.70
+223=	Raymond Nyasha Moyo		Raymond &amp; Allan	76	77	77	—	—	230	76.67	0.47
+226=	Lentletse Khutswane	Novice	Reatlehile &amp; Lentletse	77	78	74	—	—	229	76.33	1.70
+226=	Musiimenta Keron	Novice, School	Alimo &amp; Musiimenta	76	—	75	78	—	229	76.33	1.25
+228=	Redacted	Novice	—	77	76	75	—	—	228	76.00	0.82
+228=	Redacted	Novice, School	—	77	73	78	—	—	228	76.00	2.16
+228=	Vivian Dora Chelimo		Mathew &amp; Vivian	76	75	77	—	—	228	76.00	0.82
+231=	Mugabe Brian	Novice, School	Wandera &amp; Mugabe	74	76	77	—	—	227	75.67	1.25
+231=	Redacted	Novice, School	—	75	76	76	—	—	227	75.67	0.47
+231=	Redacted	Novice, School	—	76	74	77	—	—	227	75.67	1.25
+231=	Jethro E	Novice, School	Daniel &amp; Jethro	77	—	75	75	—	227	75.67	0.94
+231=	Sia	Novice	Yamikani &amp; Sia	75	77	75	—	—	227	75.67	0.94
+231=	Uguru Grace Igelle		Abah &amp; Uguru	75	80	72	—	—	227	75.67	3.30
+237=	Motheo Maluleke	Novice, School	Amogelang &amp; Motheo	72	74	80	—	—	226	75.33	3.40
+237=	Dorcas Makanganise	Novice	Clive &amp; Dorcas	77	78	71	—	—	226	75.33	3.09
+239	Amogelang  Itibare	Novice, School	Amogelang &amp; Motheo	72	74	79	—	—	225	75.00	2.94
+240	Ruqayyah Abbas-Yusuf		Stephanie &amp; Ruqayyah	—	75	75	74	—	224	74.67	0.47
+241=	Hetvi Meisuria	Novice	Ibrahim &amp; Hetvi	69	77	76	—	—	222	74.00	3.56
+241=	Henry Onen Anywar	Novice, School	Henry &amp; Makokha	69	77	76	—	—	222	74.00	3.56
+241=	Redacted	Novice	—	75	72	75	—	—	222	74.00	1.41
+244	Redacted	Novice, School	—	75	72	73	—	—	220	73.33	1.25
+245=	Tawiah Torgbor		Tawiah &amp; Emmanuel	—	74	75	70	—	219	73.00	2.16
+245=	Chukwuemeka Victor Anaje	Novice	Chukwuemeka &amp; Amajuoyi	—	73	74	72	—	219	73.00	0.82
+245=	Egbogu Favour Ogechukwu	Novice	Egbogu &amp; Adibo	70	—	75	74	—	219	73.00	2.16
+248=	Amajuoyi Ugochi Benita	Novice	Chukwuemeka &amp; Amajuoyi	—	74	73	71	—	218	72.67	1.25
+248=	Kundan	Novice	Harsh &amp; Kundan	71	72	—	75	—	218	72.67	1.70
+250=	Redacted		—	77	69	71	—	—	217	72.33	3.40
+250=	Stephanie Bekom	Novice	Stephanie &amp; Ruqayyah	—	70	74	73	—	217	72.33	1.70
+250=	Esther Ayak	Novice, School	Drohna &amp; Esther	72	71	74	—	—	217	72.33	1.25
+253	Redacted	Novice, School	—	74	70	70	—	—	214	71.33	1.89
+254	Speaker 1		Swing C	—	70	73	70	—	213	71.00	1.41
+255	Speaker 1		Swing E	—	70	75	65	—	210	70.00	4.08
+256	Speaker 2		Swing E	—	70	74	65	—	209	69.67	3.68
+257	Redacted	Novice	—	69	71	68	—	—	208	69.33	1.25
+258	Speaker 2		Swing C	—	69	73	65	—	207	69.00	3.27
+259	Allan Taonga Muchembere	Novice	Raymond &amp; Allan	77	78	—	—	—	155	77.50	0.50
+260	Anthony Chiezie	Novice	Anthony &amp; Ryan	77	77	—	—	—	154	77.00	0.00
+261=	Mpho	Novice	Mpho &amp; Amo	77	—	—	76	—	153	76.50	0.50
+261=	Masiga Ryan	Novice, School	Anthony &amp; Ryan	76	77	—	—	—	153	76.50	0.50
+263=	Speaker 1		Swing F	—	77	74	—	—	151	75.50	1.50
+263=	Redacted	Novice	—	76	75	—	—	—	151	75.50	0.50
+263=	Redacted	Novice	—	75	76	—	—	—	151	75.50	0.50
+263=	Redacted	Novice	—	75	76	—	—	—	151	75.50	0.50
+267	John Eriomala	Novice	John &amp; Moboluwarin	76	74	—	—	—	150	75.00	1.00
+268	Godwill	Novice, School	Alimo &amp; Musiimenta	—	75	—	74	—	149	74.50	0.50
+269=	Redacted	Novice	—	75	73	—	—	—	148	74.00	1.00
+269=	Redacted	Novice	—	77	—	71	—	—	148	74.00	3.00
+271=	Makokha Vivienne Elisha	Novice, School	Henry &amp; Makokha	70	—	77	—	—	147	73.50	3.50
+271=	Redacted	Novice	—	72	75	—	—	—	147	73.50	1.50
+271=	Nkonim Ofori-Gyebi		Nkonim &amp; Asare	76	71	—	—	—	147	73.50	2.50
+274	Redacted	Novice, School	—	71	75	—	—	—	146	73.00	2.00
+275	Redacted	Novice	—	75	70	—	—	—	145	72.50	2.50
+276=	Redacted	Novice	—	69	75	—	—	—	144	72.00	3.00
+276=	Redacted	Novice, School	—	70	74	—	—	—	144	72.00	2.00
+276=	Redacted	Novice, School	—	70	74	—	—	—	144	72.00	2.00
+279=	Speaker 2		Swing D	—	71	72	—	—	143	71.50	0.50
+279=	Arnold Musiime	Novice, School	Arnold &amp; Methylphenidate	—	—	67	76	—	143	71.50	4.50
+281	Speaker 1		Swing D	—	70	72	—	—	142	71.00	1.00
+282=	Speaker 1		Swing H	—	75	66	—	—	141	70.50	4.50
+282=	Speaker 2		Swing G	—	75	66	—	—	141	70.50	4.50
+282=	Speaker 1		Swing G	—	76	65	—	—	141	70.50	5.50
+282=	Redacted		—	73	68	—	—	—	141	70.50	2.50
+282=	Gisan	Novice, School	Shanitah &amp; Gisan	—	—	76	65	—	141	70.50	5.50
+287=	Speaker 2		Swing H	—	73	66	—	—	139	69.50	3.50
+287=	Redacted		—	74	65	—	—	—	139	69.50	4.50
+289=	Brandon	Novice	Tinashe &amp; Brandon	—	67	—	71	—	138	69.00	2.00
+289=	Redacted	Novice, School	—	65	73	—	—	—	138	69.00	4.00
+291	Speaker 1		Swing K	—	—	65	72	—	137	68.50	3.50
+292=	Speaker 2		Swing K	—	—	65	71	—	136	68.00	3.00
+292=	Speaker 2		Swing J	—	—	66	70	—	136	68.00	2.00
+292=	Speaker 1		Swing J	—	—	65	71	—	136	68.00	3.00
+292=	Speaker 1		Swing I	—	68	68	—	—	136	68.00	0.00
+292=	Redacted	Novice	—	71	65	—	—	—	136	68.00	3.00
+297	Speaker 2		Swing I	—	69	65	—	—	134	67.00	2.00
+298	Methylphenidate		Arnold &amp; Methylphenidate	—	—	—	78	—	78	78.00	0.00
+299=	Speaker 2		Swing O	—	—	—	77	—	77	77.00	0.00
+299=	Speaker 1		Swing O	—	—	—	77	—	77	77.00	0.00
+299=	Asare Tei Kelvin		Nkonim &amp; Asare	77	—	—	—	—	77	77.00	0.00
+299=	Redacted		—	—	77	—	—	—	77	77.00	0.00
+303=	Speaker 1		Swing Q	—	—	—	76	—	76	76.00	0.00
+303=	Syed Hamza		Donkor &amp; Hamza	—	—	76	—	—	76	76.00	0.00
+303=	Redacted		—	76	—	—	—	—	76	76.00	0.00
+303=	Speaker 1		Swing M	—	—	—	76	—	76	76.00	0.00
+303=	Mubiru John Bosco	Novice, School	Henry &amp; Makokha	—	76	—	—	—	76	76.00	0.00
+303=	Redacted		—	—	76	—	—	—	76	76.00	0.00
+303=	Redacted	School	—	76	—	—	—	—	76	76.00	0.00
+303=	Redacted	School	—	76	—	—	—	—	76	76.00	0.00
+311=	Redacted	Novice, School	—	—	—	75	—	—	75	75.00	0.00
+311=	Redacted	Novice, School	—	—	—	75	—	—	75	75.00	0.00
+311=	Redacted	Novice, School	—	75	—	—	—	—	75	75.00	0.00
+311=	Speaker 2		Swing M	—	—	—	75	—	75	75.00	0.00
+311=	Redacted	School	—	75	—	—	—	—	75	75.00	0.00
+316=	Speaker 2		Swing F	—	—	74	—	—	74	74.00	0.00
+316=	Redacted	Novice	—	—	—	—	—	74	74	74.00	0.00
+318=	Speaker 2		Swing L	—	—	—	73	—	73	73.00	0.00
+318=	Emmanuel Wood		Tawiah &amp; Emmanuel	—	—	—	73	—	73	73.00	0.00
+320=	Speaker 1		Swing L	—	—	—	72	—	72	72.00	0.00
+320=	Redacted	School	—	72	—	—	—	—	72	72.00	0.00
+320=	Redacted	Novice	—	72	—	—	—	—	72	72.00	0.00
+323=	Speaker 1		Swing P	—	—	—	70	—	70	70.00	0.00
+323=	Redacted	Novice	—	70	—	—	—	—	70	70.00	0.00
+323=	Nabutto Clarion Phillip	Novice, School	Nabutto &amp; Twinomugisha	70	—	—	—	—	70	70.00	0.00
+323=	Redacted		—	70	—	—	—	—	70	70.00	0.00
+327	Redacted	Novice	—	69	—	—	—	—	69	69.00	0.00
+328	Redacted	Novice	—	68	—	—	—	—	68	68.00	0.00
+329	Redacted	Novice, School	—	66	—	—	—	—	66	66.00	0.00
+330=	Speaker 2		Swing N	—	—	65	—	—	65	65.00	0.00
+330=	Speaker 1		Swing N	—	—	65	—	—	65	65.00	0.00
+330=	Redacted	Novice, School	—	65	—	—	—	—	65	65.00	0.00
+330=	Redacted	Novice, School	—	65	—	—	—	—	65	65.00	0.00
+330=	Redacted		—	—	65	—	—	—	65	65.00	0.00
+335=	Speaker 2		Swing Q	—	—	—	—	—	—	—	—
+335=	Brian Nyamenda	Novice, School	Sechaba &amp; Brian	—	—	—	—	—	—	—	—
+335=	Sechaba Moeti	Novice, School	Sechaba &amp; Brian	—	—	—	—	—	—	—	—
+335=	Obihebwa Kelvin	Novice, School	Musinguzi &amp; Obihebwa	—	—	—	—	—	—	—	—
+335=	Musinguzi Keron	Novice, School	Musinguzi &amp; Obihebwa	—	—	—	—	—	—	—	—
+335=	Speaker 2		Swing P	—	—	—	—	—	—	—	—
+335=	Redacted	Novice	—	—	—	—	—	—	—	—	—
+335=	Redacted	Novice, School	—	—	—	—	—	—	—	—	—
+335=	Kimberly Thobela	Novice	Rameetse &amp; Kimberly	—	—	—	—	—	—	—	—
+335=	Ariad	Novice, School	Sharika &amp; Ariad	—	—	—	—	—	—	—	—
+335=	Sharika	Novice, School	Sharika &amp; Ariad	—	—	—	—	—	—	—	—
+335=	Redacted		—	—	—	—	—	—	—	—	—
+335=	Redacted		—	—	—	—	—	—	—	—	—
+335=	Redacted	Novice	—	—	—	—	—	—	—	—	—
+335=	Redacted	Novice	—	—	—	—	—	—	—	—	—
+
+
+team	result	side	adjudicators
+Muwanguzi &amp; Nyombi	2nd	Opening Government	Brannel BondoⒸ , Bohlatse Chiloane
+Ajisafe &amp; Ahmad	4th	Closing Government	Brannel BondoⒸ , Bohlatse Chiloane
+Naman &amp; Aneesh	1st	Closing Opposition	Brannel BondoⒸ , Bohlatse Chiloane
+Anthony &amp; Ryan	3rd	Opening Opposition	Brannel BondoⒸ , Bohlatse Chiloane
+Kamohelo &amp; Bandile	3rd	Closing Opposition	ReyaⒸ
+Nix &amp; Cheyenne	2nd	Opening Government	ReyaⒸ
+Michelle &amp; Nina	1st	Closing Government	ReyaⒸ
+Mercy &amp; Atuhairwe	4th	Opening Opposition	ReyaⒸ
+Wampamba &amp; Namanya	3rd	Closing Government	Ruqayyah BelloⒸ
+Babatunde &amp; Zalwango	2nd	Opening Opposition	Ruqayyah BelloⒸ
+Atukwasa &amp; Amaalu	4th	Opening Government	Ruqayyah BelloⒸ
+Ajake &amp; Pule	1st	Closing Opposition	Ruqayyah BelloⒸ
+Swing B	1st	Closing Opposition	DonⒸ
+Prince &amp; Russell	2nd	Closing Government	DonⒸ
+Henry &amp; Makokha	3rd	Opening Opposition	DonⒸ
+Namata &amp; Bayiga	4th	Opening Government	DonⒸ
+Tinashe &amp; Brandon	4th	Closing Government	VictorⒸ
+Egbogu &amp; Adibo	3rd	Opening Government	VictorⒸ
+Dela &amp; Matt	1st	Closing Opposition	VictorⒸ
+Alimo &amp; Musiimenta	2nd	Opening Opposition	VictorⒸ
+Okello &amp; Okuku	1st	Closing Government	AshabaⒸ
+Desmark &amp; Immortal	2nd	Opening Opposition	AshabaⒸ
+Stephanie &amp; Diljot	3rd	Opening Government	AshabaⒸ
+Ssemakula &amp; Omara	4th	Closing Opposition	AshabaⒸ
+Wandera &amp; Mugabe	3rd	Opening Opposition	Jyotika BhattⒸ
+Anshuman &amp; Eshaana	4th	Closing Government	Jyotika BhattⒸ
+Pinelle &amp; Matilda	1st	Closing Opposition	Jyotika BhattⒸ
+Siphesihle &amp; Nompumelelo	2nd	Opening Government	Jyotika BhattⒸ
+Asiimwe &amp; Ndagire	4th	Closing Government	Michelle AdikaⒸ
+Blessing &amp; Dembe	2nd	Opening Government	Michelle AdikaⒸ
+Fahad &amp; Hussein	1st	Closing Opposition	Michelle AdikaⒸ
+Obinna &amp; Oluwatobi	3rd	Opening Opposition	Michelle AdikaⒸ
+Genesis &amp; Fleku	2nd	Closing Government	Joel AgyepongⒸ
+Jayson &amp; Jamillia	1st	Opening Opposition	Joel AgyepongⒸ
+Patrick &amp; Matt	3rd	Closing Opposition	Joel AgyepongⒸ
+Eudrine &amp; Edyegu	4th	Opening Government	Joel AgyepongⒸ
+H. M &amp; Soumitro	3rd	Closing Government	Yashika GoyalⒸ
+Amogelang &amp; Motheo	2nd	Opening Government	Yashika GoyalⒸ
+Ezra &amp; Mercy	4th	Closing Opposition	Yashika GoyalⒸ
+Jan &amp; Christine	1st	Opening Opposition	Yashika GoyalⒸ
+Koross &amp; Danaro	4th	Opening Government	Francis MwangiⒸ
+Thor’s Simp  &amp; Thor	3rd	Closing Government	Francis MwangiⒸ
+Nimaro &amp; Natalie	2nd	Opening Opposition	Francis MwangiⒸ
+Hassana &amp; Super	1st	Closing Opposition	Francis MwangiⒸ
+Fumane &amp; George	1st	Opening Opposition	RiyahⒸ
+Prosper &amp; Joel	4th	Closing Opposition	RiyahⒸ
+Samrawit &amp; Mukisa	2nd	Opening Government	RiyahⒸ
+Alpha &amp; Erick	3rd	Closing Government	RiyahⒸ
+Denzel &amp; Bracey	1st	Opening Opposition	Cecilia A. HatsuⒸ
+Mugerwa &amp; 𝖱𝗐𝖺𝖻𝗎𝗀𝖺𝗁𝗒𝖺	2nd	Closing Opposition	Cecilia A. HatsuⒸ
+Bella &amp; Fred	4th	Closing Government	Cecilia A. HatsuⒸ
+Laurian &amp; Nantale	3rd	Opening Government	Cecilia A. HatsuⒸ
+Ibrahim &amp; Hetvi	4th	Closing Opposition	Eze Chinenye SoniaⒸ
+Ziyaad &amp; Imaan	1st	Closing Government	Eze Chinenye SoniaⒸ
+Ankunda &amp; Fred	2nd	Opening Opposition	Eze Chinenye SoniaⒸ
+Nabutto &amp; Twinomugisha	3rd	Opening Government	Eze Chinenye SoniaⒸ
+John &amp; Moboluwarin	3rd	Opening Opposition	Alexandra AdoteyⒸ
+Fadiran &amp; Tanimowo	2nd	Opening Government	Alexandra AdoteyⒸ
+Daniel &amp; Jethro	1st	Closing Government	Alexandra AdoteyⒸ
+Samira &amp; Aizere	4th	Closing Opposition	Alexandra AdoteyⒸ
+Daniel &amp; Ameer	2nd	Closing Government	Ted IhaⒸ
+Chris &amp; Donkor	1st	Opening Opposition	Ted IhaⒸ
+Lam &amp; Con	4th	Opening Government	Ted IhaⒸ
+Olamide &amp; Collins	3rd	Closing Opposition	Ted IhaⒸ
+Emmanuel &amp; Deborah	4th	Closing Government	Zephyr KabakamaⒸ
+Mugerwa &amp; Bunyenyezi	2nd	Opening Government	Zephyr KabakamaⒸ
+Anuo &amp; Komlam	3rd	Opening Opposition	Zephyr KabakamaⒸ
+Bukhosi &amp; Thala	1st	Closing Opposition	Zephyr KabakamaⒸ
+Aristotle &amp; Miletus	1st	Opening Opposition	Kaka Andy AngelⒸ
+Comfort &amp; Mahle	3rd	Opening Government	Kaka Andy AngelⒸ
+Oluwamayomikun &amp; Salamatu	2nd	Closing Opposition	Kaka Andy AngelⒸ
+Sugam &amp; Abhinav	4th	Closing Government	Kaka Andy AngelⒸ
+Kwesi &amp; Kibirango	1st	Opening Government	Luswata SimonⒸ
+Reatlehile &amp; Lentletse	2nd	Closing Opposition	Luswata SimonⒸ
+Nathaniel &amp; Nomthandazo	3rd	Opening Opposition	Luswata SimonⒸ
+Aditya &amp; Aman	4th	Closing Government	Luswata SimonⒸ
+Abaala &amp; Kataike	3rd	Closing Opposition	Eric KazadiⒸ
+Zuki &amp; Teddy	1st	Opening Government	Eric KazadiⒸ
+Elizabeth &amp; Mboizi	4th	Opening Opposition	Eric KazadiⒸ
+Ahurira &amp; Kyeyune	2nd	Closing Government	Eric KazadiⒸ
+Shanitah &amp; Gisan	3rd	Opening Opposition	Vanshika SinglaⒸ
+Obajuwon &amp; Mubarak	4th	Opening Government	Vanshika SinglaⒸ
+Rameetse &amp; Kimberly	1st	Closing Opposition	Vanshika SinglaⒸ
+Hashim &amp; Shammah	2nd	Closing Government	Vanshika SinglaⒸ
+Theresa &amp; Yehezkiel	2nd	Opening Opposition	Prince-Daniel TeyeⒸ
+Sibusi &amp; Zion	1st	Opening Government	Prince-Daniel TeyeⒸ
+Drohna &amp; Esther	4th	Closing Government	Prince-Daniel TeyeⒸ
+Offiah &amp; Justice	3rd	Closing Opposition	Prince-Daniel TeyeⒸ
+Swing A	1st	Closing Opposition	Dominic Stanley MarcusⒸ
+Thandokuhle &amp; Haniel	2nd	Opening Opposition	Dominic Stanley MarcusⒸ
+Sujal &amp; Gargi	3rd	Opening Government	Dominic Stanley MarcusⒸ
+Abah &amp; Uguru	4th	Closing Government	Dominic Stanley MarcusⒸ
+Moyinoluwa &amp; Mong	4th	Opening Opposition	Joseph MangeniⒸ
+Jeffrey &amp; Dennis	1st	Closing Government	Joseph MangeniⒸ
+Clive &amp; Dorcas	2nd	Opening Government	Joseph MangeniⒸ
+Amiel &amp; Maxene	3rd	Closing Opposition	Joseph MangeniⒸ
+Matthew &amp; Kelvin	2nd	Closing Opposition	Vivian OnwukaⒸ
+BP &amp; Wandia	4th	Opening Government	Vivian OnwukaⒸ
+Ndawula &amp; Mwigarire	3rd	Opening Opposition	Vivian OnwukaⒸ
+Debrah &amp; Sharon	1st	Closing Government	Vivian OnwukaⒸ
+Mpumi &amp; Onalenna	2nd	Closing Government	Theo Phi LusⒸ
+Chinecherem &amp; Chinechere	4th	Closing Opposition	Theo Phi LusⒸ
+Ganiyat &amp; Muideen	1st	Opening Government	Theo Phi LusⒸ
+Raymond &amp; Allan	3rd	Opening Opposition	Theo Phi LusⒸ
+Muoghalu &amp; Eze	4th	Closing Government	Zulu Susanna LⒸ
+Usman &amp; Muhtasim	2nd	Opening Opposition	Zulu Susanna LⒸ
+Benjamin &amp; Chelsea	3rd	Opening Government	Zulu Susanna LⒸ
+Molemo &amp; Anjeli	1st	Closing Opposition	Zulu Susanna LⒸ
+Donkor &amp; Hamza	1st	Closing Government	Salic SaudⒸ
+Masiga &amp; Eronda	4th	Opening Opposition	Salic SaudⒸ
+Sujata &amp; Tihami	2nd	Opening Government	Salic SaudⒸ
+Yamikani &amp; Sia	3rd	Closing Opposition	Salic SaudⒸ
+Marya &amp; Richa	4th	Closing Government	Temiloluwa JaiyeolaⒸ
+O&#x27;Nana &amp; Helena	2nd	Opening Opposition	Temiloluwa JaiyeolaⒸ
+Joel &amp; Kayongo	3rd	Closing Opposition	Temiloluwa JaiyeolaⒸ
+Dennis &amp; Ngabirano	1st	Opening Government	Temiloluwa JaiyeolaⒸ
+Henry &amp; Wessy	1st	Opening Government	Grace NzeakoⒸ
+Lowel &amp; Ryan	2nd	Closing Opposition	Grace NzeakoⒸ
+Prakruti &amp; Ree	3rd	Opening Opposition	Grace NzeakoⒸ
+Harsh &amp; Kundan	4th	Closing Government	Grace NzeakoⒸ
+Maisoon &amp; Arnold	4th	Closing Opposition	Khothatso SejakeⒸ
+Ahabyoona &amp; Atwine	2nd	Opening Opposition	Khothatso SejakeⒸ
+Ajok &amp; Kimani	1st	Closing Government	Khothatso SejakeⒸ
+Mathew &amp; Vivian	3rd	Opening Government	Khothatso SejakeⒸ
+Sanskar &amp; Prabhjot	2nd	Opening Opposition	Kwesi ManfordⒸ , Muduku Anthony
+Grillo &amp; Gladstone	1st	Closing Opposition	Kwesi ManfordⒸ , Muduku Anthony
+Njemanze &amp; Igwe	4th	Opening Government	Kwesi ManfordⒸ , Muduku Anthony
+Papa &amp; Felix	3rd	Closing Government	Kwesi ManfordⒸ , Muduku Anthony
+Nkonim &amp; Asare	4th	Opening Opposition	Amrit Singh SalujaⒸ
+Nakalanzi &amp; Musinguzi	3rd	Closing Government	Amrit Singh SalujaⒸ
+Aayush &amp; Aayush	1st	Closing Opposition	Amrit Singh SalujaⒸ
+Addo &amp; Nelson	2nd	Opening Government	Amrit Singh SalujaⒸ
+Di &amp; Da	2nd	Closing Government	Katonya Kisakye EthanⒸ
+Brendan &amp; Laila	1st	Closing Opposition	Katonya Kisakye EthanⒸ
+Eric &amp; Siyabonga	3rd	Opening Opposition	Katonya Kisakye EthanⒸ
+Nana &amp; Marvin	4th	Opening Government	Katonya Kisakye EthanⒸ
+Ashley &amp; Bella	2nd	Closing Opposition	Uche PaulⒸ
+Kalyne &amp; Tinotenda	3rd	Opening Government	Uche PaulⒸ
+Elainu &amp; Raima	1st	Opening Opposition	Uche PaulⒸ
+Nelson &amp; Raymond	4th	Closing Government	Uche PaulⒸ
+Carel &amp; Aryan	3rd	Opening Government	Michael A.Ⓒ
+Ojemuyiwa &amp; Owuna	4th	Closing Government	Michael A.Ⓒ
+Farjin &amp; Sohag	2nd	Closing Opposition	Michael A.Ⓒ
+Synthia &amp; Adrian	1st	Opening Opposition	Michael A.Ⓒ
+Hussein &amp; Rahmah	2nd	Opening Government	Freeman MurenziⒸ
+Mpho &amp; Amo	1st	Opening Opposition	Freeman MurenziⒸ
+Bakulumpagi &amp; Mutebi	3rd	Closing Opposition	Freeman MurenziⒸ
+Freda &amp; Nwakanze	4th	Closing Government	Freeman MurenziⒸ
+
+
+team	result	side	adjudicators
+Swing E	4th	Closing Government	Kaka Andy AngelⒸ
+Swing D	3rd	Closing Opposition	Kaka Andy AngelⒸ
+Emmanuel &amp; Deborah	2nd	Opening Opposition	Kaka Andy AngelⒸ
+BP &amp; Wandia	1st	Opening Government	Kaka Andy AngelⒸ
+Genesis &amp; Fleku	2nd	Opening Opposition	Temiloluwa JaiyeolaⒸ
+Carel &amp; Aryan	1st	Closing Opposition	Temiloluwa JaiyeolaⒸ
+Henry &amp; Makokha	4th	Closing Government	Temiloluwa JaiyeolaⒸ
+Anthony &amp; Ryan	3rd	Opening Government	Temiloluwa JaiyeolaⒸ
+Muwanguzi &amp; Nyombi	3rd	Closing Government	AnthonyⒸ
+Samrawit &amp; Mukisa	2nd	Closing Opposition	AnthonyⒸ
+Siphesihle &amp; Nompumelelo	1st	Opening Opposition	AnthonyⒸ
+Usman &amp; Muhtasim	4th	Opening Government	AnthonyⒸ
+H. M &amp; Soumitro	4th	Opening Government	Uche PaulⒸ
+Abaala &amp; Kataike	1st	Opening Opposition	Uche PaulⒸ
+Comfort &amp; Mahle	2nd	Closing Opposition	Uche PaulⒸ
+Raymond &amp; Allan	3rd	Closing Government	Uche PaulⒸ
+Babatunde &amp; Zalwango	1st	Opening Government	Eric KazadiⒸ
+Clive &amp; Dorcas	2nd	Opening Opposition	Eric KazadiⒸ
+Sujal &amp; Gargi	3rd	Closing Government	Eric KazadiⒸ
+Hashim &amp; Shammah	4th	Closing Opposition	Eric KazadiⒸ
+Ibrahim &amp; Hetvi	1st	Opening Government	Siam HasanⒸ
+Moyinoluwa &amp; Mong	2nd	Closing Government	Siam HasanⒸ
+Chris &amp; Mark	3rd	Closing Opposition	Siam HasanⒸ
+Sugam &amp; Abhinav	4th	Opening Opposition	Siam HasanⒸ
+Masiga &amp; Eronda	1st	Closing Government	Cecilia A. HatsuⒸ
+Atukwasa &amp; Amaalu	4th	Opening Opposition	Cecilia A. HatsuⒸ
+Elizabeth &amp; Mboizi	3rd	Closing Opposition	Cecilia A. HatsuⒸ
+Ssemakula &amp; Omara	2nd	Opening Government	Cecilia A. HatsuⒸ
+Swing H	2nd	Closing Government	Vanshika SinglaⒸ
+Mugerwa &amp; 𝖱𝗐𝖺𝖻𝗎𝗀𝖺𝗁𝗒𝖺	4th	Opening Opposition	Vanshika SinglaⒸ
+O&#x27;Nana &amp; Helena	3rd	Opening Government	Vanshika SinglaⒸ
+Thandokuhle &amp; Haniel	1st	Closing Opposition	Vanshika SinglaⒸ
+Chukwuemeka &amp; Amajuoyi	1st	Closing Government	Ajayi Divine-TreasureⒸ
+Bella &amp; Fred	4th	Opening Opposition	Ajayi Divine-TreasureⒸ
+Harsh &amp; Kundan	2nd	Closing Opposition	Ajayi Divine-TreasureⒸ
+Samira &amp; Aizere	3rd	Opening Government	Ajayi Divine-TreasureⒸ
+Swing F	4th	Closing Government	Amrit Singh SalujaⒸ
+Thor’s Simp  &amp; Thor	2nd	Opening Opposition	Amrit Singh SalujaⒸ
+Nathaniel &amp; Nomthandazo	3rd	Closing Opposition	Amrit Singh SalujaⒸ
+Olamide &amp; Collins	1st	Opening Government	Amrit Singh SalujaⒸ
+Mpumi &amp; Onalenna	4th	Opening Opposition	Michelle AdikaⒸ , Luswata Simon
+Daniel &amp; Ameer	1st	Closing Opposition	Michelle AdikaⒸ , Luswata Simon
+Sujata &amp; Tihami	2nd	Closing Government	Michelle AdikaⒸ , Luswata Simon
+Reatlehile &amp; Lentletse	3rd	Opening Government	Michelle AdikaⒸ , Luswata Simon
+Swing I	3rd	Closing Opposition	Vivian OnwukaⒸ
+Swing C	2nd	Opening Government	Vivian OnwukaⒸ
+Swing B	4th	Opening Opposition	Vivian OnwukaⒸ
+Lam &amp; Con	1st	Closing Government	Vivian OnwukaⒸ
+Fumane &amp; George	2nd	Closing Opposition	Ruqayyah BelloⒸ
+Naman &amp; Aneesh	3rd	Closing Government	Ruqayyah BelloⒸ
+Rameetse &amp; Kimberly	4th	Opening Government	Ruqayyah BelloⒸ
+Debrah &amp; Sharon	1st	Opening Opposition	Ruqayyah BelloⒸ
+Di &amp; Da	1st	Opening Opposition	Jyotika BhattⒸ , Dominic Stanley Marcus
+Amogelang &amp; Motheo	3rd	Closing Government	Jyotika BhattⒸ , Dominic Stanley Marcus
+Nimaro &amp; Natalie	4th	Closing Opposition	Jyotika BhattⒸ , Dominic Stanley Marcus
+Ahurira &amp; Kyeyune	2nd	Opening Government	Jyotika BhattⒸ , Dominic Stanley Marcus
+Koross &amp; Danaro	1st	Closing Government	Phalanndwa Ntsikele CharityⒸ
+Asiimwe &amp; Ndagire	3rd	Opening Government	Phalanndwa Ntsikele CharityⒸ
+Njemanze &amp; Igwe	2nd	Opening Opposition	Phalanndwa Ntsikele CharityⒸ
+Nana &amp; Marvin	4th	Closing Opposition	Phalanndwa Ntsikele CharityⒸ
+Matthew &amp; Kelvin	3rd	Opening Government	Khothatso SejakeⒸ
+Fadiran &amp; Tanimowo	4th	Closing Government	Khothatso SejakeⒸ
+Mugerwa &amp; Bunyenyezi	1st	Opening Opposition	Khothatso SejakeⒸ
+Ankunda &amp; Fred	2nd	Closing Opposition	Khothatso SejakeⒸ
+Alpha &amp; Erick	3rd	Closing Opposition	Zulu Susanna LⒸ
+Stephanie &amp; Diljot	2nd	Closing Government	Zulu Susanna LⒸ
+Chinecherem &amp; Chinechere	4th	Opening Government	Zulu Susanna LⒸ
+Papa &amp; Felix	1st	Opening Opposition	Zulu Susanna LⒸ
+Benjamin &amp; Chelsea	4th	Opening Opposition	AbizunⒸ
+Anuo &amp; Komlam	1st	Closing Government	AbizunⒸ
+Nelson &amp; Raymond	3rd	Closing Opposition	AbizunⒸ
+Yamikani &amp; Sia	2nd	Opening Government	AbizunⒸ
+Ashley &amp; Bella	3rd	Opening Opposition	VictorⒸ
+Sanskar &amp; Prabhjot	4th	Closing Government	VictorⒸ
+Patrick &amp; Matt	2nd	Opening Government	VictorⒸ
+Addo &amp; Nelson	1st	Closing Opposition	VictorⒸ
+Swing G	1st	Closing Government	Martin AvorgahⒸ
+Ezra &amp; Mercy	3rd	Opening Opposition	Martin AvorgahⒸ
+Tawiah &amp; Emmanuel	2nd	Opening Government	Martin AvorgahⒸ
+Drohna &amp; Esther	4th	Closing Opposition	Martin AvorgahⒸ
+Anshuman &amp; Eshaana	4th	Opening Government	Joel AgyepongⒸ
+Namata &amp; Bayiga	2nd	Closing Government	Joel AgyepongⒸ
+Ojemuyiwa &amp; Owuna	3rd	Opening Opposition	Joel AgyepongⒸ
+Abah &amp; Uguru	1st	Closing Opposition	Joel AgyepongⒸ
+Jayson &amp; Jamillia	2nd	Opening Government	Kwesi ManfordⒸ , Katonya Kisakye Ethan
+Fahad &amp; Hussein	4th	Opening Opposition	Kwesi ManfordⒸ , Katonya Kisakye Ethan
+Okello &amp; Okuku	3rd	Closing Opposition	Kwesi ManfordⒸ , Katonya Kisakye Ethan
+Ajake &amp; Pule	1st	Closing Government	Kwesi ManfordⒸ , Katonya Kisakye Ethan
+Bakulumpagi &amp; Mutebi	4th	Opening Government	Theo Phi LusⒸ
+Kamohelo &amp; Bandile	1st	Closing Government	Theo Phi LusⒸ
+Ndawula &amp; Mwigarire	3rd	Closing Opposition	Theo Phi LusⒸ
+Amiel &amp; Maxene	2nd	Opening Opposition	Theo Phi LusⒸ
+Eric &amp; Siyabonga	1st	Closing Government	ReyaⒸ
+Mathew &amp; Vivian	3rd	Closing Opposition	ReyaⒸ
+Laurian &amp; Nantale	2nd	Opening Opposition	ReyaⒸ
+Obinna &amp; Oluwatobi	4th	Opening Government	ReyaⒸ
+Kwesi &amp; Kibirango	2nd	Opening Opposition	Ted IhaⒸ , Shuvajyoti Kar
+Daniel &amp; Jethro	4th	Opening Government	Ted IhaⒸ , Shuvajyoti Kar
+Ganiyat &amp; Muideen	3rd	Closing Opposition	Ted IhaⒸ , Shuvajyoti Kar
+Bukhosi &amp; Thala	1st	Closing Government	Ted IhaⒸ , Shuvajyoti Kar
+Marya &amp; Richa	4th	Opening Government	Coach MaceⒸ
+Ajisafe &amp; Ahmad	1st	Opening Opposition	Coach MaceⒸ
+Nkonim &amp; Asare	3rd	Closing Government	Coach MaceⒸ
+Mercy &amp; Atuhairwe	2nd	Closing Opposition	Coach MaceⒸ
+Jeffrey &amp; Dennis	3rd	Opening Opposition	AshabaⒸ
+Elainu &amp; Raima	4th	Opening Government	AshabaⒸ
+Zuki &amp; Teddy	2nd	Closing Government	AshabaⒸ
+Ajok &amp; Kimani	1st	Closing Opposition	AshabaⒸ
+Maisoon &amp; Arnold	1st	Opening Government	Eze Chinenye SoniaⒸ
+Tinashe &amp; Brandon	3rd	Opening Opposition	Eze Chinenye SoniaⒸ
+Stephanie &amp; Ruqayyah	2nd	Closing Government	Eze Chinenye SoniaⒸ
+Muoghalu &amp; Eze	4th	Closing Opposition	Eze Chinenye SoniaⒸ
+Blessing &amp; Dembe	3rd	Closing Opposition	Prince-Daniel TeyeⒸ , Freeman MurenziⓉ
+Oluwamayomikun &amp; Salamatu	2nd	Opening Opposition	Prince-Daniel TeyeⒸ , Freeman MurenziⓉ
+Nix &amp; Cheyenne	1st	Closing Government	Prince-Daniel TeyeⒸ , Freeman MurenziⓉ
+Alimo &amp; Musiimenta	4th	Opening Government	Prince-Daniel TeyeⒸ , Freeman MurenziⓉ
+Theresa &amp; Yehezkiel	1st	Opening Government	Odong VincentⒸ
+Desmark &amp; Immortal	3rd	Closing Government	Odong VincentⒸ
+Farjin &amp; Sohag	2nd	Opening Opposition	Odong VincentⒸ
+Ahabyoona &amp; Atwine	4th	Closing Opposition	Odong VincentⒸ
+Wandera &amp; Mugabe	2nd	Closing Opposition	Salic SaudⒸ , Don
+John &amp; Moboluwarin	4th	Closing Government	Salic SaudⒸ , Don
+Prakruti &amp; Ree	3rd	Opening Government	Salic SaudⒸ , Don
+Kalyne &amp; Tinotenda	1st	Opening Opposition	Salic SaudⒸ , Don
+Donkor &amp; Hamza	3rd	Opening Government	AyodeleⒸ
+Mpho &amp; Amo	4th	Closing Opposition	AyodeleⒸ
+Grillo &amp; Gladstone	1st	Opening Opposition	AyodeleⒸ
+Aayush &amp; Aayush	2nd	Closing Government	AyodeleⒸ
+Sibusi &amp; Zion	4th	Closing Opposition	Brannel BondoⒸ
+Molemo &amp; Anjeli	3rd	Opening Opposition	Brannel BondoⒸ
+Hassana &amp; Super	2nd	Closing Government	Brannel BondoⒸ
+Synthia &amp; Adrian	1st	Opening Government	Brannel BondoⒸ
+Prince &amp; Russell	2nd	Opening Opposition	Sino MoloseⒸ
+Shanitah &amp; Gisan	3rd	Closing Government	Sino MoloseⒸ
+Lowel &amp; Ryan	1st	Opening Government	Sino MoloseⒸ
+Nabutto &amp; Twinomugisha	4th	Closing Opposition	Sino MoloseⒸ
+Aristotle &amp; Miletus	2nd	Opening Government	Michael A.Ⓒ
+Henry &amp; Wessy	1st	Closing Government	Michael A.Ⓒ
+Denzel &amp; Bracey	3rd	Closing Opposition	Michael A.Ⓒ
+Dela &amp; Matt	4th	Opening Opposition	Michael A.Ⓒ
+Wampamba &amp; Namanya	4th	Closing Opposition	Grace NzeakoⒸ
+Nakalanzi &amp; Musinguzi	2nd	Opening Government	Grace NzeakoⒸ
+Egbogu &amp; Adibo	3rd	Opening Opposition	Grace NzeakoⒸ
+Offiah &amp; Justice	1st	Closing Government	Grace NzeakoⒸ
+Pinelle &amp; Matilda	2nd	Opening Government	Joseph MangeniⒸ
+Jan &amp; Christine	4th	Closing Government	Joseph MangeniⒸ
+Ziyaad &amp; Imaan	3rd	Closing Opposition	Joseph MangeniⒸ
+Michelle &amp; Nina	1st	Opening Opposition	Joseph MangeniⒸ
+Swing A	3rd	Opening Government	RiyahⒸ
+Brendan &amp; Laila	2nd	Closing Government	RiyahⒸ
+Chris &amp; Donkor	4th	Closing Opposition	RiyahⒸ
+Dennis &amp; Ngabirano	1st	Opening Opposition	RiyahⒸ
+
+
+team	result	side	adjudicators
+Sanskar &amp; Prabhjot	4th	Closing Opposition	Ajayi Divine-TreasureⒸ
+Stephanie &amp; Ruqayyah	2nd	Opening Government	Ajayi Divine-TreasureⒸ
+Nathaniel &amp; Nomthandazo	3rd	Closing Government	Ajayi Divine-TreasureⒸ
+Hashim &amp; Shammah	1st	Opening Opposition	Ajayi Divine-TreasureⒸ
+Swing H	3rd	Closing Opposition	Uche PaulⒸ
+Swing G	4th	Closing Government	Uche PaulⒸ
+Henry &amp; Makokha	2nd	Opening Opposition	Uche PaulⒸ
+Elizabeth &amp; Mboizi	1st	Opening Government	Uche PaulⒸ
+Fahad &amp; Hussein	3rd	Opening Government	Cecilia A. HatsuⒸ
+Nakalanzi &amp; Musinguzi	2nd	Opening Opposition	Cecilia A. HatsuⒸ
+Lam &amp; Con	4th	Closing Opposition	Cecilia A. HatsuⒸ
+Dela &amp; Matt	1st	Closing Government	Cecilia A. HatsuⒸ
+Swing I	4th	Opening Government	Vanshika SinglaⒸ
+Muwanguzi &amp; Nyombi	3rd	Opening Opposition	Vanshika SinglaⒸ
+Ajisafe &amp; Ahmad	2nd	Closing Opposition	Vanshika SinglaⒸ
+Chris &amp; Donkor	1st	Closing Government	Vanshika SinglaⒸ
+Moyinoluwa &amp; Mong	2nd	Opening Government	Shuvajyoti KarⒸ
+Emmanuel &amp; Deborah	4th	Closing Opposition	Shuvajyoti KarⒸ
+Prakruti &amp; Ree	3rd	Closing Government	Shuvajyoti KarⒸ
+Mathew &amp; Vivian	1st	Opening Opposition	Shuvajyoti KarⒸ
+Eric &amp; Siyabonga	2nd	Closing Opposition	Kwesi ManfordⒸ
+Naman &amp; Aneesh	1st	Opening Opposition	Kwesi ManfordⒸ
+Clive &amp; Dorcas	4th	Closing Government	Kwesi ManfordⒸ
+Anuo &amp; Komlam	3rd	Opening Government	Kwesi ManfordⒸ
+Jayson &amp; Jamillia	4th	Closing Opposition	Theo Phi LusⒸ
+Brendan &amp; Laila	3rd	Opening Government	Theo Phi LusⒸ
+Kwesi &amp; Kibirango	2nd	Closing Government	Theo Phi LusⒸ
+Addo &amp; Nelson	1st	Opening Opposition	Theo Phi LusⒸ
+Swing F	4th	Opening Opposition	Shafayatur RahmanⒸ
+Swing E	3rd	Opening Government	Shafayatur RahmanⒸ
+Kay &amp; Omara	2nd	Closing Government	Shafayatur RahmanⒸ
+Aditya &amp; Aditya	1st	Closing Opposition	Shafayatur RahmanⒸ
+Swing K	4th	Closing Opposition	RiyahⒸ
+Swing J	3rd	Closing Government	RiyahⒸ
+Freda &amp; Nwakanze	2nd	Opening Government	RiyahⒸ
+Drohna &amp; Esther	1st	Opening Opposition	RiyahⒸ
+Namata &amp; Bayiga	1st	Opening Opposition	Khothatso SejakeⒸ
+Usman &amp; Muhtasim	3rd	Closing Government	Khothatso SejakeⒸ
+Tawiah &amp; Emmanuel	4th	Closing Opposition	Khothatso SejakeⒸ
+Ndawula &amp; Mwigarire	2nd	Opening Government	Khothatso SejakeⒸ
+Swing B	3rd	Closing Opposition	Luswata SimonⒸ
+Swing N	4th	Closing Government	Luswata SimonⒸ
+Arnold &amp; Methylphenidate	2nd	Opening Opposition	Luswata SimonⒸ
+Bella &amp; Fred	1st	Opening Government	Luswata SimonⒸ
+Masiga &amp; Eronda	4th	Opening Government	ReyaⒸ
+Sibusi &amp; Zion	1st	Opening Opposition	ReyaⒸ
+Chukwuemeka &amp; Amajuoyi	3rd	Closing Opposition	ReyaⒸ
+Yamikani &amp; Sia	2nd	Closing Government	ReyaⒸ
+Shanitah &amp; Gisan	4th	Opening Government	Joel AgyepongⒸ
+Mpumi &amp; Onalenna	1st	Closing Opposition	Joel AgyepongⒸ
+Fadiran &amp; Tanimowo	2nd	Opening Opposition	Joel AgyepongⒸ
+Ahabyoona &amp; Atwine	3rd	Closing Government	Joel AgyepongⒸ
+Nimaro &amp; Natalie	1st	Opening Government	Arsha RashidⒸ
+Harsh &amp; Kundan	3rd	Opening Opposition	Arsha RashidⒸ
+Egbogu &amp; Adibo	4th	Closing Opposition	Arsha RashidⒸ
+Njemanze &amp; Igwe	2nd	Closing Government	Arsha RashidⒸ
+Amogelang &amp; Motheo	3rd	Opening Opposition	VictorⒸ
+Stephanie &amp; Diljot	4th	Closing Opposition	VictorⒸ
+Jan &amp; Christine	1st	Opening Government	VictorⒸ
+Amiel &amp; Maxene	2nd	Closing Government	VictorⒸ
+Genesis &amp; Fleku	1st	Closing Opposition	Xçott.Ⓒ
+Jeffrey &amp; Dennis	3rd	Opening Government	Xçott.Ⓒ
+Oluwamayomikun &amp; Salamatu	4th	Closing Government	Xçott.Ⓒ
+Olamide &amp; Collins	2nd	Opening Opposition	Xçott.Ⓒ
+Amutos &amp; Achom	1st	Opening Government	Eze Chinenye SoniaⒸ
+Swing D	4th	Closing Opposition	Eze Chinenye SoniaⒸ
+Swing C	3rd	Closing Government	Eze Chinenye SoniaⒸ
+Swing A	2nd	Opening Opposition	Eze Chinenye SoniaⒸ
+Mpho &amp; Amo	1st	Opening Government	Phalanndwa Ntsikele CharityⒸ
+Desmark &amp; Immortal	3rd	Closing Opposition	Phalanndwa Ntsikele CharityⒸ
+Patrick &amp; Matt	4th	Opening Opposition	Phalanndwa Ntsikele CharityⒸ
+Rameetse &amp; Kimberly	2nd	Closing Government	Phalanndwa Ntsikele CharityⒸ
+Ashley &amp; Bella	3rd	Opening Government	Ruqayyah BelloⒸ
+Matthew &amp; Kelvin	1st	Opening Opposition	Ruqayyah BelloⒸ
+Daniel &amp; Jethro	2nd	Closing Opposition	Ruqayyah BelloⒸ
+Mercy &amp; Atuhairwe	4th	Closing Government	Ruqayyah BelloⒸ
+Samrawit &amp; Mukisa	2nd	Closing Government	Zulu Susanna LⒸ
+Kalyne &amp; Tinotenda	1st	Closing Opposition	Zulu Susanna LⒸ
+Ziyaad &amp; Imaan	4th	Opening Opposition	Zulu Susanna LⒸ
+Ankunda &amp; Fred	3rd	Opening Government	Zulu Susanna LⒸ
+Denzel &amp; Bracey	2nd	Closing Government	Gerson Oviedo SotoⒸ
+Abaala &amp; Kataike	1st	Opening Government	Gerson Oviedo SotoⒸ
+Offiah &amp; Justice	3rd	Opening Opposition	Gerson Oviedo SotoⒸ
+Ahurira &amp; Kyeyune	4th	Closing Opposition	Gerson Oviedo SotoⒸ
+Ssemakula &amp; Omara	2nd	Opening Opposition	Temiloluwa JaiyeolaⒸ
+Sujal &amp; Gargi	1st	Closing Opposition	Temiloluwa JaiyeolaⒸ
+Alimo &amp; Musiimenta	4th	Closing Government	Temiloluwa JaiyeolaⒸ
+Raymond &amp; Allan	3rd	Opening Government	Temiloluwa JaiyeolaⒸ
+Tinashe &amp; Brandon	3rd	Opening Government	Amrit Singh SalujaⒸ
+Bakulumpagi &amp; Mutebi	4th	Opening Opposition	Amrit Singh SalujaⒸ
+Benjamin &amp; Chelsea	2nd	Closing Opposition	Amrit Singh SalujaⒸ
+Obinna &amp; Oluwatobi	1st	Closing Government	Amrit Singh SalujaⒸ
+Asiimwe &amp; Ndagire	4th	Closing Opposition	Martin AvorgahⒸ
+John &amp; Moboluwarin	1st	Opening Government	Martin AvorgahⒸ
+Nelson &amp; Raymond	2nd	Opening Opposition	Martin AvorgahⒸ
+Samira &amp; Aizere	3rd	Closing Government	Martin AvorgahⒸ
+Grillo &amp; Gladstone	4th	Opening Government	BeckyⒸ , Freeman MurenziⓉ
+Dennis &amp; Ngabirano	3rd	Closing Government	BeckyⒸ , Freeman MurenziⓉ
+Ajok &amp; Kimani	1st	Opening Opposition	BeckyⒸ , Freeman MurenziⓉ
+Synthia &amp; Adrian	2nd	Closing Opposition	BeckyⒸ , Freeman MurenziⓉ
+Siphesihle &amp; Nompumelelo	3rd	Closing Opposition	Lyra MaiⒸ
+Thandokuhle &amp; Haniel	4th	Opening Government	Lyra MaiⒸ
+Mugerwa &amp; Bunyenyezi	2nd	Closing Government	Lyra MaiⒸ
+Zuki &amp; Teddy	1st	Opening Opposition	Lyra MaiⒸ
+Blessing &amp; Dembe	4th	Closing Government	Adungo Oniogo DavidⒸ
+Thor’s Simp  &amp; Thor	3rd	Opening Government	Adungo Oniogo DavidⒸ
+BP &amp; Wandia	1st	Opening Opposition	Adungo Oniogo DavidⒸ
+Elainu &amp; Raima	2nd	Closing Opposition	Adungo Oniogo DavidⒸ
+Comfort &amp; Mahle	1st	Opening Opposition	Jyotika BhattⒸ
+O&#x27;Nana &amp; Helena	2nd	Closing Opposition	Jyotika BhattⒸ
+Reatlehile &amp; Lentletse	3rd	Closing Government	Jyotika BhattⒸ
+Abah &amp; Uguru	4th	Opening Government	Jyotika BhattⒸ
+Aristotle &amp; Miletus	2nd	Closing Government	Michelle AdikaⒸ
+Theresa &amp; Yehezkiel	4th	Closing Opposition	Michelle AdikaⒸ
+Pinelle &amp; Matilda	3rd	Opening Opposition	Michelle AdikaⒸ
+Hassana &amp; Super	1st	Opening Government	Michelle AdikaⒸ
+Fumane &amp; George	3rd	Closing Government	Eric KazadiⒸ
+Di &amp; Da	4th	Closing Opposition	Eric KazadiⒸ
+Daniel &amp; Ameer	1st	Opening Government	Eric KazadiⒸ
+Nix &amp; Cheyenne	2nd	Opening Opposition	Eric KazadiⒸ
+Prince &amp; Russell	4th	Closing Opposition	Vivian OnwukaⒸ
+Carel &amp; Aryan	3rd	Closing Government	Vivian OnwukaⒸ
+Kamohelo &amp; Bandile	2nd	Opening Opposition	Vivian OnwukaⒸ
+Okello &amp; Okuku	1st	Opening Government	Vivian OnwukaⒸ
+Maisoon &amp; Arnold	3rd	Opening Opposition	Coach MaceⒸ
+Sujata &amp; Tihami	4th	Closing Opposition	Coach MaceⒸ
+Farjin &amp; Sohag	1st	Opening Government	Coach MaceⒸ
+Ganiyat &amp; Muideen	2nd	Closing Government	Coach MaceⒸ
+Donkor &amp; Hamza	4th	Opening Opposition	Michael A.Ⓒ
+Wandera &amp; Mugabe	3rd	Closing Government	Michael A.Ⓒ
+Molemo &amp; Anjeli	1st	Opening Government	Michael A.Ⓒ
+Papa &amp; Felix	2nd	Closing Opposition	Michael A.Ⓒ
+Babatunde &amp; Zalwango	4th	Closing Government	Odong VincentⒸ
+Aayush &amp; Aayush	3rd	Opening Government	Odong VincentⒸ
+Debrah &amp; Sharon	1st	Closing Opposition	Odong VincentⒸ
+Bukhosi &amp; Thala	2nd	Opening Opposition	Odong VincentⒸ
+Henry &amp; Wessy	1st	Opening Opposition	Rean Joash MabongaⒸ
+Lowel &amp; Ryan	3rd	Closing Government	Rean Joash MabongaⒸ
+Ajake &amp; Pule	2nd	Opening Government	Rean Joash MabongaⒸ
+Michelle &amp; Nina	4th	Closing Opposition	Rean Joash MabongaⒸ
+Wampamba &amp; Namanya	3rd	Opening Government	Kaka Andy AngelⒸ
+H. M &amp; Soumitro	2nd	Opening Opposition	Kaka Andy AngelⒸ
+Ezra &amp; Mercy	1st	Closing Government	Kaka Andy AngelⒸ
+Ojemuyiwa &amp; Owuna	4th	Closing Opposition	Kaka Andy AngelⒸ
+Ibrahim &amp; Hetvi	2nd	Opening Opposition	Joseph MangeniⒸ
+Koross &amp; Danaro	3rd	Closing Opposition	Joseph MangeniⒸ
+Mugerwa &amp; 𝖱𝗐𝖺𝖻𝗎𝗀𝖺𝗁𝗒𝖺	4th	Opening Government	Joseph MangeniⒸ
+Laurian &amp; Nantale	1st	Closing Government	Joseph MangeniⒸ
+
+
+team	result	side	adjudicators
+Pinelle &amp; Matilda	1st	Closing Government	Eric KazadiⒸ
+Brendan &amp; Laila	2nd	Opening Opposition	Eric KazadiⒸ
+Eric &amp; Siyabonga	4th	Opening Government	Eric KazadiⒸ
+Jan &amp; Christine	3rd	Closing Opposition	Eric KazadiⒸ
+Donkor &amp; Hamza	1st	Closing Opposition	Kwesi ManfordⒸ
+Reatlehile &amp; Lentletse	4th	Opening Opposition	Kwesi ManfordⒸ
+Ziyaad &amp; Imaan	3rd	Opening Government	Kwesi ManfordⒸ
+Elizabeth &amp; Mboizi	2nd	Closing Government	Kwesi ManfordⒸ
+Swing Q	1st	Closing Government	Ruqayyah BelloⒸ
+Swing P	4th	Opening Opposition	Ruqayyah BelloⒸ
+Masiga &amp; Eronda	3rd	Closing Opposition	Ruqayyah BelloⒸ
+Nathaniel &amp; Nomthandazo	2nd	Opening Government	Ruqayyah BelloⒸ
+Fahad &amp; Hussein	2nd	Closing Government	Temiloluwa JaiyeolaⒸ
+Desmark &amp; Immortal	1st	Opening Government	Temiloluwa JaiyeolaⒸ
+Sujata &amp; Tihami	4th	Opening Opposition	Temiloluwa JaiyeolaⒸ
+Obinna &amp; Oluwatobi	3rd	Closing Opposition	Temiloluwa JaiyeolaⒸ
+Ashley &amp; Bella	3rd	Closing Government	Theo Phi LusⒸ
+Koross &amp; Danaro	2nd	Opening Opposition	Theo Phi LusⒸ
+Wandera &amp; Mugabe	4th	Opening Government	Theo Phi LusⒸ
+John &amp; Moboluwarin	1st	Closing Opposition	Theo Phi LusⒸ
+Farjin &amp; Sohag	4th	Opening Opposition	Zephyr KabakamaⒸ
+Molemo &amp; Anjeli	3rd	Closing Government	Zephyr KabakamaⒸ
+Nix &amp; Cheyenne	2nd	Closing Opposition	Zephyr KabakamaⒸ
+Dela &amp; Matt	1st	Opening Government	Zephyr KabakamaⒸ
+Samrawit &amp; Mukisa	2nd	Opening Opposition	Ted IhaⒸ
+Kamohelo &amp; Bandile	4th	Opening Government	Ted IhaⒸ
+Grillo &amp; Gladstone	1st	Closing Opposition	Ted IhaⒸ
+Sibusi &amp; Zion	3rd	Closing Government	Ted IhaⒸ
+Maisoon &amp; Arnold	2nd	Closing Government	Amrit Singh SalujaⒸ
+Blessing &amp; Dembe	1st	Opening Opposition	Amrit Singh SalujaⒸ
+Ezra &amp; Mercy	4th	Opening Government	Amrit Singh SalujaⒸ
+Clive &amp; Dorcas	3rd	Closing Opposition	Amrit Singh SalujaⒸ
+Henry &amp; Wessy	2nd	Closing Opposition	Prince-Daniel TeyeⒸ
+Daniel &amp; Ameer	1st	Opening Opposition	Prince-Daniel TeyeⒸ
+Ajok &amp; Kimani	3rd	Opening Government	Prince-Daniel TeyeⒸ
+Debrah &amp; Sharon	4th	Closing Government	Prince-Daniel TeyeⒸ
+Genesis &amp; Fleku	3rd	Opening Government	Michael A.Ⓒ
+Kwesi &amp; Kibirango	1st	Closing Opposition	Michael A.Ⓒ
+Okello &amp; Okuku	2nd	Opening Opposition	Michael A.Ⓒ
+Abaala &amp; Kataike	4th	Closing Government	Michael A.Ⓒ
+Swing O	2nd	Closing Opposition	ReyaⒸ
+Stephanie &amp; Diljot	1st	Opening Opposition	ReyaⒸ
+Patrick &amp; Matt	3rd	Closing Government	ReyaⒸ
+Drohna &amp; Esther	4th	Opening Government	ReyaⒸ
+Thor’s Simp  &amp; Thor	1st	Closing Opposition	Uche PaulⒸ
+Stephanie &amp; Ruqayyah	4th	Opening Opposition	Uche PaulⒸ
+Harsh &amp; Kundan	3rd	Opening Government	Uche PaulⒸ
+Ndawula &amp; Mwigarire	2nd	Closing Government	Uche PaulⒸ
+Siphesihle &amp; Nompumelelo	3rd	Closing Opposition	Ogundare Taye TobiⒸ
+Chris &amp; Donkor	2nd	Opening Government	Ogundare Taye TobiⒸ
+Aayush &amp; Aayush	4th	Opening Opposition	Ogundare Taye TobiⒸ
+Olamide &amp; Collins	1st	Closing Government	Ogundare Taye TobiⒸ
+Swing M	1st	Closing Government	Martin AvorgahⒸ
+Fadiran &amp; Tanimowo	3rd	Closing Opposition	Martin AvorgahⒸ
+Chukwuemeka &amp; Amajuoyi	4th	Opening Opposition	Martin AvorgahⒸ
+Oluwamayomikun &amp; Salamatu	2nd	Opening Government	Martin AvorgahⒸ
+Jayson &amp; Jamillia	1st	Closing Government	Jyotika BhattⒸ
+Mpumi &amp; Onalenna	3rd	Opening Government	Jyotika BhattⒸ
+Nakalanzi &amp; Musinguzi	4th	Closing Opposition	Jyotika BhattⒸ
+Sujal &amp; Gargi	2nd	Opening Opposition	Jyotika BhattⒸ
+Babatunde &amp; Zalwango	4th	Closing Opposition	Joel AgyepongⒸ
+Mpho &amp; Amo	3rd	Opening Opposition	Joel AgyepongⒸ
+Matthew &amp; Kelvin	1st	Closing Government	Joel AgyepongⒸ
+Michelle &amp; Nina	2nd	Opening Government	Joel AgyepongⒸ
+Tinashe &amp; Brandon	3rd	Closing Opposition	Team LeadⒸ
+Emmanuel &amp; Deborah	1st	Opening Government	Team LeadⒸ
+Egbogu &amp; Adibo	2nd	Closing Government	Team LeadⒸ
+Samira &amp; Aizere	4th	Opening Opposition	Team LeadⒸ
+Lowel &amp; Ryan	3rd	Opening Opposition	Seneliso DlomoⒸ
+Comfort &amp; Mahle	2nd	Closing Government	Seneliso DlomoⒸ
+Papa &amp; Felix	1st	Opening Government	Seneliso DlomoⒸ
+Laurian &amp; Nantale	4th	Closing Opposition	Seneliso DlomoⒸ
+Swing L	2nd	Closing Government	Joseph MangeniⒸ
+Swing K	3rd	Opening Opposition	Joseph MangeniⒸ
+Swing J	4th	Closing Opposition	Joseph MangeniⒸ
+Ojemuyiwa &amp; Owuna	1st	Opening Government	Joseph MangeniⒸ
+Muwanguzi &amp; Nyombi	3rd	Closing Opposition	VictorⒸ
+Ajisafe &amp; Ahmad	2nd	Opening Government	VictorⒸ
+Nimaro &amp; Natalie	4th	Closing Government	VictorⒸ
+Rameetse &amp; Kimberly	1st	Opening Opposition	VictorⒸ
+Namata &amp; Bayiga	4th	Closing Opposition	Zulu Susanna LⒸ
+Mathew &amp; Vivian	3rd	Closing Government	Zulu Susanna LⒸ
+Yamikani &amp; Sia	2nd	Opening Opposition	Zulu Susanna LⒸ
+Offiah &amp; Justice	1st	Opening Government	Zulu Susanna LⒸ
+Fumane &amp; George	1st	Opening Government	AnthonyⒸ
+O&#x27;Nana &amp; Helena	2nd	Closing Government	AnthonyⒸ
+BP &amp; Wandia	3rd	Closing Opposition	AnthonyⒸ
+Ganiyat &amp; Muideen	4th	Opening Opposition	AnthonyⒸ
+Prince &amp; Russell	2nd	Opening Government	RiyahⒸ
+Moyinoluwa &amp; Mong	4th	Closing Opposition	RiyahⒸ
+Ssemakula &amp; Omara	3rd	Closing Government	RiyahⒸ
+Ahurira &amp; Kyeyune	1st	Opening Opposition	RiyahⒸ
+Naman &amp; Aneesh	3rd	Opening Government	Odong VincentⒸ
+Dennis &amp; Ngabirano	1st	Closing Opposition	Odong VincentⒸ
+Addo &amp; Nelson	4th	Closing Government	Odong VincentⒸ
+Hassana &amp; Super	2nd	Opening Opposition	Odong VincentⒸ
+Carel &amp; Aryan	3rd	Opening Opposition	Adungo Oniogo DavidⒸ
+Thandokuhle &amp; Haniel	1st	Closing Government	Adungo Oniogo DavidⒸ
+Anuo &amp; Komlam	2nd	Closing Opposition	Adungo Oniogo DavidⒸ
+Hashim &amp; Shammah	4th	Opening Government	Adungo Oniogo DavidⒸ
+Ajake &amp; Pule	2nd	Opening Opposition	Salic SaudⒸ
+Zuki &amp; Teddy	1st	Closing Opposition	Salic SaudⒸ
+Synthia &amp; Adrian	3rd	Closing Government	Salic SaudⒸ
+Bukhosi &amp; Thala	4th	Opening Government	Salic SaudⒸ
+Swing A	2nd	Opening Opposition	Phalanndwa Ntsikele CharityⒸ
+Shanitah &amp; Gisan	4th	Closing Opposition	Phalanndwa Ntsikele CharityⒸ
+Bakulumpagi &amp; Mutebi	3rd	Closing Government	Phalanndwa Ntsikele CharityⒸ
+Sanskar &amp; Prabhjot	1st	Opening Government	Phalanndwa Ntsikele CharityⒸ
+Swing B	4th	Opening Opposition	Vanshika SinglaⒸ
+Ibrahim &amp; Hetvi	3rd	Closing Government	Vanshika SinglaⒸ
+Ankunda &amp; Fred	1st	Closing Opposition	Vanshika SinglaⒸ
+Amiel &amp; Maxene	2nd	Opening Government	Vanshika SinglaⒸ
+Aristotle &amp; Miletus	2nd	Closing Opposition	Shuvajyoti KarⒸ
+Denzel &amp; Bracey	1st	Opening Government	Shuvajyoti KarⒸ
+Kalyne &amp; Tinotenda	3rd	Closing Government	Shuvajyoti KarⒸ
+Mugerwa &amp; Bunyenyezi	4th	Opening Opposition	Shuvajyoti KarⒸ
+Di &amp; Da	2nd	Opening Government	Cecilia A. HatsuⒸ
+Jeffrey &amp; Dennis	4th	Closing Opposition	Cecilia A. HatsuⒸ
+Elainu &amp; Raima	1st	Closing Government	Cecilia A. HatsuⒸ
+Daniel &amp; Jethro	3rd	Opening Opposition	Cecilia A. HatsuⒸ
+Swing E	4th	Opening Opposition	Amanda Michelle SetiawanⒸ
+H. M &amp; Soumitro	2nd	Closing Opposition	Amanda Michelle SetiawanⒸ
+Usman &amp; Muhtasim	1st	Closing Government	Amanda Michelle SetiawanⒸ
+Nelson &amp; Raymond	3rd	Opening Government	Amanda Michelle SetiawanⒸ
+Wampamba &amp; Namanya	3rd	Opening Opposition	Katonya Kisakye EthanⒸ
+Arnold &amp; Methylphenidate	1st	Opening Government	Katonya Kisakye EthanⒸ
+Tawiah &amp; Emmanuel	4th	Closing Government	Katonya Kisakye EthanⒸ
+Alimo &amp; Musiimenta	2nd	Closing Opposition	Katonya Kisakye EthanⒸ
+Swing C	3rd	Opening Opposition	Vivian OnwukaⒸ
+Mugerwa &amp; 𝖱𝗐𝖺𝖻𝗎𝗀𝖺𝗁𝗒𝖺	2nd	Closing Government	Vivian OnwukaⒸ
+Freda &amp; Nwakanze	4th	Closing Opposition	Vivian OnwukaⒸ
+Mercy &amp; Atuhairwe	1st	Opening Government	Vivian OnwukaⒸ
+
+
+team	result	side	adjudicators
+Mpho &amp; Amo	4th	Closing Government	Rean Joash MabongaⒸ
+Ajisafe &amp; Ahmad	2nd	Opening Government	Rean Joash MabongaⒸ
+Sibusi &amp; Zion	1st	Closing Opposition	Rean Joash MabongaⒸ
+Ahurira &amp; Kyeyune	3rd	Opening Opposition	Rean Joash MabongaⒸ
+Lowel &amp; Ryan	4th	Opening Government	Ruqayyah BelloⒸ
+Siphesihle &amp; Nompumelelo	3rd	Closing Government	Ruqayyah BelloⒸ
+O&#x27;Nana &amp; Helena	1st	Opening Opposition	Ruqayyah BelloⒸ
+Anuo &amp; Komlam	2nd	Closing Opposition	Ruqayyah BelloⒸ
+Babatunde &amp; Zalwango	3rd	Opening Government	Uche PaulⒸ , Anthony
+Nimaro &amp; Natalie	2nd	Closing Government	Uche PaulⒸ , Anthony
+Njemanze &amp; Igwe	4th	Closing Opposition	Uche PaulⒸ , Anthony
+Hashim &amp; Shammah	1st	Opening Opposition	Uche PaulⒸ , Anthony
+Blessing &amp; Dembe	1st	Opening Opposition	Vivian OnwukaⒸ
+Fahad &amp; Hussein	2nd	Opening Government	Vivian OnwukaⒸ
+Eric &amp; Siyabonga	4th	Closing Government	Vivian OnwukaⒸ
+Mathew &amp; Vivian	3rd	Closing Opposition	Vivian OnwukaⒸ
+Ibrahim &amp; Hetvi	3rd	Closing Government	Kaka Andy AngelⒸ
+Fadiran &amp; Tanimowo	2nd	Opening Opposition	Kaka Andy AngelⒸ
+Ndawula &amp; Mwigarire	4th	Opening Government	Kaka Andy AngelⒸ
+Ssemakula &amp; Omara	1st	Closing Opposition	Kaka Andy AngelⒸ
+Aristotle &amp; Miletus	3rd	Closing Opposition	Adungo Oniogo DavidⒸ
+Okello &amp; Okuku	1st	Closing Government	Adungo Oniogo DavidⒸ
+Olamide &amp; Collins	2nd	Opening Opposition	Adungo Oniogo DavidⒸ
+Debrah &amp; Sharon	4th	Opening Government	Adungo Oniogo DavidⒸ
+Di &amp; Da	4th	Closing Opposition	Odong VincentⒸ
+Samrawit &amp; Mukisa	3rd	Closing Government	Odong VincentⒸ
+Michelle &amp; Nina	2nd	Opening Government	Odong VincentⒸ
+Bukhosi &amp; Thala	1st	Opening Opposition	Odong VincentⒸ
+Moyinoluwa &amp; Mong	2nd	Closing Government	Freeman MurenziⒸ
+Freda &amp; Nwakanze	4th	Opening Opposition	Freeman MurenziⒸ
+Harsh &amp; Kundan	3rd	Opening Government	Freeman MurenziⒸ
+Nelson &amp; Raymond	1st	Closing Opposition	Freeman MurenziⒸ
+Molemo &amp; Anjeli	3rd	Opening Opposition	Eze Chinenye SoniaⒸ
+Rameetse &amp; Kimberly	4th	Closing Opposition	Eze Chinenye SoniaⒸ
+Offiah &amp; Justice	1st	Opening Government	Eze Chinenye SoniaⒸ
+Ankunda &amp; Fred	2nd	Closing Government	Eze Chinenye SoniaⒸ
+Kwesi &amp; Kibirango	1st	Closing Opposition	Zephyr KabakamaⒸ
+Ajake &amp; Pule	2nd	Opening Opposition	Zephyr KabakamaⒸ
+Ajok &amp; Kimani	3rd	Opening Government	Zephyr KabakamaⒸ
+Hassana &amp; Super	4th	Closing Government	Zephyr KabakamaⒸ
+Brendan &amp; Laila	1st	Closing Government	Eric KazadiⒸ
+Chris &amp; Donkor	3rd	Opening Government	Eric KazadiⒸ
+Thandokuhle &amp; Haniel	2nd	Opening Opposition	Eric KazadiⒸ
+Elainu &amp; Raima	4th	Closing Opposition	Eric KazadiⒸ
+Desmark &amp; Immortal	1st	Closing Opposition	Phalanndwa Ntsikele CharityⒸ
+Farjin &amp; Sohag	3rd	Closing Government	Phalanndwa Ntsikele CharityⒸ
+Jan &amp; Christine	4th	Opening Government	Phalanndwa Ntsikele CharityⒸ
+Yamikani &amp; Sia	2nd	Opening Opposition	Phalanndwa Ntsikele CharityⒸ
+Jayson &amp; Jamillia	4th	Closing Government	Michael A.Ⓒ
+Kalyne &amp; Tinotenda	2nd	Opening Government	Michael A.Ⓒ
+Naman &amp; Aneesh	1st	Opening Opposition	Michael A.Ⓒ
+Amiel &amp; Maxene	3rd	Closing Opposition	Michael A.Ⓒ
+Namata &amp; Bayiga	3rd	Opening Opposition	RiyahⒸ
+Sanskar &amp; Prabhjot	1st	Closing Opposition	RiyahⒸ
+Patrick &amp; Matt	2nd	Opening Government	RiyahⒸ
+Mercy &amp; Atuhairwe	4th	Closing Government	RiyahⒸ
+Thor’s Simp  &amp; Thor	2nd	Opening Opposition	Vanshika SinglaⒸ
+Abaala &amp; Kataike	3rd	Opening Government	Vanshika SinglaⒸ
+BP &amp; Wandia	1st	Closing Government	Vanshika SinglaⒸ
+Sujal &amp; Gargi	4th	Closing Opposition	Vanshika SinglaⒸ
+Genesis &amp; Fleku	1st	Opening Government	Kwesi ManfordⒸ
+Fumane &amp; George	2nd	Closing Government	Kwesi ManfordⒸ
+Matthew &amp; Kelvin	4th	Closing Opposition	Kwesi ManfordⒸ
+Pinelle &amp; Matilda	3rd	Opening Opposition	Kwesi ManfordⒸ
+Ashley &amp; Bella	3rd	Closing Opposition	Salic SaudⒸ
+Maisoon &amp; Arnold	1st	Closing Government	Salic SaudⒸ
+Carel &amp; Aryan	2nd	Opening Government	Salic SaudⒸ
+Daniel &amp; Jethro	4th	Opening Opposition	Salic SaudⒸ
+Henry &amp; Wessy	1st	Closing Government	BeckyⒸ
+Daniel &amp; Ameer	3rd	Closing Opposition	BeckyⒸ
+Dennis &amp; Ngabirano	4th	Opening Opposition	BeckyⒸ
+Zuki &amp; Teddy	2nd	Opening Government	BeckyⒸ
+Koross &amp; Danaro	3rd	Closing Government	Zulu Susanna LⒸ
+Aayush &amp; Aayush	1st	Closing Opposition	Zulu Susanna LⒸ
+Oluwamayomikun &amp; Salamatu	4th	Opening Opposition	Zulu Susanna LⒸ
+Ganiyat &amp; Muideen	2nd	Opening Government	Zulu Susanna LⒸ
+Prince &amp; Russell	3rd	Opening Government	Luswata SimonⒸ
+Mpumi &amp; Onalenna	2nd	Opening Opposition	Luswata SimonⒸ
+Kamohelo &amp; Bandile	1st	Closing Opposition	Luswata SimonⒸ
+Elizabeth &amp; Mboizi	4th	Closing Government	Luswata SimonⒸ
+Denzel &amp; Bracey	4th	Closing Opposition	Ayushi MⒸ
+Comfort &amp; Mahle	1st	Opening Opposition	Ayushi MⒸ
+Addo &amp; Nelson	3rd	Opening Government	Ayushi MⒸ
+Synthia &amp; Adrian	2nd	Closing Government	Ayushi MⒸ
+Grillo &amp; Gladstone	3rd	Closing Government	Prince-Daniel TeyeⒸ
+Nix &amp; Cheyenne	2nd	Closing Opposition	Prince-Daniel TeyeⒸ
+Dela &amp; Matt	1st	Opening Government	Prince-Daniel TeyeⒸ
+Papa &amp; Felix	4th	Opening Opposition	Prince-Daniel TeyeⒸ
+H. M &amp; Soumitro	4th	Closing Government	Joel AgyepongⒸ
+Jeffrey &amp; Dennis	1st	Opening Government	Joel AgyepongⒸ
+Ziyaad &amp; Imaan	3rd	Closing Opposition	Joel AgyepongⒸ
+Obinna &amp; Oluwatobi	2nd	Opening Opposition	Joel AgyepongⒸ
+Swing A	1st	Closing Government	Theo Phi LusⒸ
+Bakulumpagi &amp; Mutebi	3rd	Closing Opposition	Theo Phi LusⒸ
+Ojemuyiwa &amp; Owuna	4th	Opening Opposition	Theo Phi LusⒸ
+Samira &amp; Aizere	2nd	Opening Government	Theo Phi LusⒸ
+Muwanguzi &amp; Nyombi	1st	Closing Opposition	Khothatso SejakeⒸ
+Masiga &amp; Eronda	3rd	Opening Opposition	Khothatso SejakeⒸ
+Emmanuel &amp; Deborah	4th	Closing Government	Khothatso SejakeⒸ
+Nakalanzi &amp; Musinguzi	2nd	Opening Government	Khothatso SejakeⒸ
+
+
+team	result	side	adjudicators
+Daniel &amp; Ameer	advancing	Opening Government	Coach MaceⒸ , Luswata Simon , Zulu Susanna L
+Brendan &amp; Laila	eliminated	Closing Government	Coach MaceⒸ , Luswata Simon , Zulu Susanna L
+Nix &amp; Cheyenne	eliminated	Closing Opposition	Coach MaceⒸ , Luswata Simon , Zulu Susanna L
+Dela &amp; Matt	advancing	Opening Opposition	Coach MaceⒸ , Luswata Simon , Zulu Susanna L
+Okello &amp; Okuku	advancing	Closing Opposition	AyodeleⒸ , Kwesi Manford , Ted Iha
+Comfort &amp; Mahle	eliminated	Opening Government	AyodeleⒸ , Kwesi Manford , Ted Iha
+Zuki &amp; Teddy	advancing	Opening Opposition	AyodeleⒸ , Kwesi Manford , Ted Iha
+Ajok &amp; Kimani	eliminated	Closing Government	AyodeleⒸ , Kwesi Manford , Ted Iha
+Fumane &amp; George	eliminated	Closing Government	Amrit Singh SalujaⒸ , Odong Vincent , Temiloluwa Jaiyeola
+Henry &amp; Wessy	advancing	Closing Opposition	Amrit Singh SalujaⒸ , Odong Vincent , Temiloluwa Jaiyeola
+Olamide &amp; Collins	advancing	Opening Opposition	Amrit Singh SalujaⒸ , Odong Vincent , Temiloluwa Jaiyeola
+Synthia &amp; Adrian	eliminated	Opening Government	Amrit Singh SalujaⒸ , Odong Vincent , Temiloluwa Jaiyeola
+Genesis &amp; Fleku	eliminated	Closing Opposition	Eric KazadiⒸ , Theo Phi Lus , Vanshika Singla
+Kwesi &amp; Kibirango	eliminated	Closing Government	Eric KazadiⒸ , Theo Phi Lus , Vanshika Singla
+Ajake &amp; Pule	advancing	Opening Opposition	Eric KazadiⒸ , Theo Phi Lus , Vanshika Singla
+Bukhosi &amp; Thala	advancing	Opening Government	Eric KazadiⒸ , Theo Phi Lus , Vanshika Singla
+
+
+team	result	side	adjudicators
+Okello &amp; Okuku	eliminated	Closing Government	Kaka Andy AngelⒸ , Ayodele , Kwesi Manford , Prince-Daniel Teye , Shuvajyoti Kar
+Ajake &amp; Pule	advancing	Closing Opposition	Kaka Andy AngelⒸ , Ayodele , Kwesi Manford , Prince-Daniel Teye , Shuvajyoti Kar
+Zuki &amp; Teddy	advancing	Opening Government	Kaka Andy AngelⒸ , Ayodele , Kwesi Manford , Prince-Daniel Teye , Shuvajyoti Kar
+Bukhosi &amp; Thala	eliminated	Opening Opposition	Kaka Andy AngelⒸ , Ayodele , Kwesi Manford , Prince-Daniel Teye , Shuvajyoti Kar
+Henry &amp; Wessy	eliminated	Closing Opposition	ReyaⒸ , Amrit Singh Saluja , Becky , Eric Kazadi , Jyotika Bhatt
+Daniel &amp; Ameer	advancing	Closing Government	ReyaⒸ , Amrit Singh Saluja , Becky , Eric Kazadi , Jyotika Bhatt
+Dela &amp; Matt	eliminated	Opening Opposition	ReyaⒸ , Amrit Singh Saluja , Becky , Eric Kazadi , Jyotika Bhatt
+Olamide &amp; Collins	advancing	Opening Government	ReyaⒸ , Amrit Singh Saluja , Becky , Eric Kazadi , Jyotika Bhatt
+
+
+team	result	side	adjudicators
+Daniel &amp; Ameer	advancing	Opening Government	Ted IhaⒸ , Ayodele , Becky , Michael A. , Michelle Adika , Shuvajyoti Kar , Temiloluwa Jaiyeola
+Ajake &amp; Pule	eliminated	Closing Opposition	Ted IhaⒸ , Ayodele , Becky , Michael A. , Michelle Adika , Shuvajyoti Kar , Temiloluwa Jaiyeola
+Zuki &amp; Teddy	eliminated	Opening Opposition	Ted IhaⒸ , Ayodele , Becky , Michael A. , Michelle Adika , Shuvajyoti Kar , Temiloluwa Jaiyeola
+Olamide &amp; Collins	eliminated	Closing Government	Ted IhaⒸ , Ayodele , Becky , Michael A. , Michelle Adika , Shuvajyoti Kar , Temiloluwa Jaiyeola
+
+
+team	result	side	adjudicators
+Samrawit &amp; Mukisa	advancing	Opening Opposition	Adungo Oniogo DavidⒸ , Kaka Andy Angel , Ogundare Taye Tobi
+Desmark &amp; Immortal	advancing	Opening Government	Adungo Oniogo DavidⒸ , Kaka Andy Angel , Ogundare Taye Tobi
+Anuo &amp; Komlam	eliminated	Closing Government	Adungo Oniogo DavidⒸ , Kaka Andy Angel , Ogundare Taye Tobi
+Yamikani &amp; Sia	eliminated	Closing Opposition	Adungo Oniogo DavidⒸ , Kaka Andy Angel , Ogundare Taye Tobi
+Maisoon &amp; Arnold	eliminated	Closing Government	Michael A.Ⓒ , Martin Avorgah , Uche Paul
+Blessing &amp; Dembe	eliminated	Opening Government	Michael A.Ⓒ , Martin Avorgah , Uche Paul
+Ajisafe &amp; Ahmad	advancing	Closing Opposition	Michael A.Ⓒ , Martin Avorgah , Uche Paul
+Kalyne &amp; Tinotenda	advancing	Opening Opposition	Michael A.Ⓒ , Martin Avorgah , Uche Paul
+
+
+team	result	side	adjudicators
+Ajisafe &amp; Ahmad	eliminated	Closing Government	Temiloluwa JaiyeolaⒸ , Ted Iha , Theo Phi Lus , Zulu Susanna L
+Samrawit &amp; Mukisa	eliminated	Opening Opposition	Temiloluwa JaiyeolaⒸ , Ted Iha , Theo Phi Lus , Zulu Susanna L
+Desmark &amp; Immortal	eliminated	Opening Government	Temiloluwa JaiyeolaⒸ , Ted Iha , Theo Phi Lus , Zulu Susanna L
+Kalyne &amp; Tinotenda	advancing	Closing Opposition	Temiloluwa JaiyeolaⒸ , Ted Iha , Theo Phi Lus , Zulu Susanna L
+
+
+team	result	side	adjudicators
+Jayson &amp; Jamillia	advancing	Closing Opposition	Vanshika SinglaⒸ , Luswata Simon , Martin Avorgah
+Abaala &amp; Kataike	eliminated	Opening Opposition	Vanshika SinglaⒸ , Luswata Simon , Martin Avorgah
+Ankunda &amp; Fred	eliminated	Closing Government	Vanshika SinglaⒸ , Luswata Simon , Martin Avorgah
+Amiel &amp; Maxene	eliminated	Opening Government	Vanshika SinglaⒸ , Luswata Simon , Martin Avorgah
+

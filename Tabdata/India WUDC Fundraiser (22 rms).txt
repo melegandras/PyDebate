@@ -1,0 +1,695 @@
+
+Rk	team	categories	R1	R2	R3	R4	Pts	Spk	1sts	2nds	Irons
+1	Crazy and Overrated		1st	1st	1st	1st	12	666	4	0	1
+2	The Cleaners from Venus		1st	2nd	1st	1st	11	648	3	1	0
+3	Bucharest A	ESL	1st	1st	2nd	2nd	10	659	2	2	0
+4	LSE I sacrifice my life for Pakistan		2nd	2nd	1st	1st	10	646	2	2	0
+5	Dartmouth mitsubishi outlander		1st	1st	3rd	1st	10	645	3	0	0
+6	Indian + Jew = Goldberg		1st	2nd	1st	2nd	10	644	2	2	0
+7	Ateneo de Manila CF		1st	1st	2nd	3rd	9	645	2	1	0
+8	UoL Autistic? Yes.		1st	3rd	1st	2nd	9	639	2	1	0
+9	chicken talking to duck		1st	1st	4th	1st	9	636	3	0	1
+10	Chicago A		1st	3rd	2nd	1st	9	634	2	1	0
+11	Ateneo LN		1st	3rd	2nd	1st	9	626	2	1	0
+12	HWS Not another 3am	ESL	1st	3rd	1st	2nd	9	617	2	1	0
+13	If tiger sound like fren why it no		2nd	1st	1st	4th	8	655	2	1	3
+14	Columbia A		1st	3rd	2nd	2nd	8	640	1	2	0
+15	Athens A	ESL	1st	2nd	2nd	3rd	8	637	1	2	0
+16	Edinburgh A(lexes)		3rd	2nd	2nd	1st	8	635	1	2	0
+17	Ateneo de Manila SY		1st	1st	3rd	3rd	8	634	2	0	0
+18	UPLB final test run	ESL	1st	4th	1st	2nd	8	632	2	1	0
+19	NUS Ang and Tay		3rd	1st	1st	3rd	8	631	2	0	0
+20	IIT KGP C	ESL	2nd	3rd	1st	2nd	8	626	1	2	0
+21=	Cambridge Medium rare		1st	3rd	3rd	1st	8	625	2	0	0
+21=	NLIUB Legendary Pokémons	ESL	3rd	1st	3rd	1st	8	625	2	0	0
+23	The Magnolias	ESL	2nd	1st	4th	1st	8	623	2	1	0
+24	Chicago Wu-Jiang Clan		1st	4th	2nd	2nd	7	637	1	2	0
+25	Aberystwyth A		2nd	1st	4th	2nd	7	632	1	2	1
+26	IITB One Brain Cell	ESL	2nd	3rd	3rd	1st	7	630	1	1	1
+27	VIT monke and donki womp compilation	ESL	4th	1st	3rd	1st	7	627	2	0	0
+28	Drexel Last minute grind		1st	4th	1st	3rd	7	626	2	0	4
+29	UPD Bay Bay		3rd	2nd	1st	3rd	7	625	1	1	0
+30=	MUST A		1st	2nd	2nd	4th	7	624	1	2	0
+30=	UPenn chinese colonies		4th	1st	2nd	2nd	7	624	1	2	1
+32	Chicago LL		4th	1st	3rd	1st	7	623	2	0	0
+33	KCL Tuna Mayo Sandwiches and Spanking		3rd	2nd	2nd	2nd	7	618	0	3	1
+34	MDU Seventeenth		3rd	1st	1st	4th	7	608	2	0	0
+35	VIT Yeh saale dps ke bacche	ESL	2nd	3rd	1st	3rd	7	608	1	1	0
+36	Stanford BC		2nd	3rd	3rd	2nd	6	640	0	2	0
+37	USC BRICS		2nd	1st	3rd	4th	6	632	1	1	0
+38	UCL A (not to be confused with UCLA)		1st	2nd	4th	3rd	6	631	1	1	0
+39	OSCA A	ESL	3rd	3rd	1st	3rd	6	628	1	0	0
+40	Thej Pays Remittances		2nd	2nd	2nd	4th	6	625	0	3	0
+41	Edinburgh (not) A(damburgh and Alishburgh)		2nd	1st	3rd	4th	6	624	1	1	0
+42	VIT CD	ESL	3rd	1st	2nd	4th	6	623	1	1	0
+43	IITB SN	ESL	4th	1st	4th	1st	6	621	2	0	0
+44	Bucharest C	ESL	2nd	4th	1st	3rd	6	621	1	1	0
+45	Ateneo de Manila BG		3rd	3rd	3rd	1st	6	621	1	0	0
+46	Cambridge ZJ		4th	2nd	1st	3rd	6	615	1	1	0
+47	Naomi Stans	ESL	2nd	3rd	4th	1st	6	614	1	1	0
+48	SLS-P Nora Inu		3rd	3rd	2nd	2nd	6	612	0	2	1
+49	NTU Neo &amp; Soh		3rd	1st	4th	2nd	6	608	1	1	0
+50	Rosario Diego casi se desmaya en la montañ	ESL	3rd	3rd	1st	4th	5	632	1	0	0
+51	IITB JoGoat	ESL	2nd	2nd	4th	3rd	5	627	0	2	0
+52	Insti teammates ne mana karke auka	ESL	2nd	2nd	3rd	4th	5	626	0	2	0
+53	NUS DT		2nd	4th	3rd	2nd	5	621	0	2	0
+54	KNUST A - Dorvlo and Salisu	ESL	2nd	4th	2nd	3rd	5	618	0	2	1
+55	Berlin A	ESL	2nd	4th	4th	1st	5	615	1	1	0
+56	Dartmouth pumpkins		3rd	4th	1st	3rd	5	614	1	0	0
+57	Our analysis is complex; our argum		3rd	1st	3rd	4th	5	611	1	0	0
+58	IIT KGP A	ESL	4th	3rd	2nd	2nd	5	605	0	2	0
+59	VIT way to toilet 🔥	ESL	4th	3rd	2nd	2nd	5	603	0	2	1
+60	Keio YF		2nd	4th	4th	2nd	4	626	0	2	4
+61	VIT Happiness is Rs.140	ESL	4th	3rd	1st	4th	4	617	1	0	0
+62	KNUST Genesis &amp; Pascal	ESL	3rd	2nd	4th	3rd	4	616	0	1	0
+63	The Arab Wagner Group	ESL	4th	1st	3rd	4th	4	613	1	0	0
+64	Czech this out		3rd	3rd	3rd	3rd	4	610	0	0	0
+65	Chicago UChi-ldren		4th	2nd	2nd	4th	4	605	0	2	0
+66	Macau More welfare		4th	4th	2nd	2nd	4	588	0	2	0
+67	USC Maodi		2nd	2nd	4th	—	4	463	0	2	0
+68	NTU GK		2nd	2nd	4th	—	4	462	0	2	0
+69	NTU WB		4th	2nd	2nd	—	4	456	0	2	0
+70	Some mitochondria bro regen	ESL	4th	4th	2nd	3rd	3	612	0	1	0
+71	NTU Double Barrel		3rd	3rd	3rd	4th	3	610	0	0	0
+72	Ilorin Unilorin	ESL	4th	3rd	2nd	4th	3	609	0	1	1
+73	USFQ Egoists	ESL	3rd	2nd	4th	4th	3	608	0	1	0
+74	KNUST B	ESL	2nd	4th	3rd	4th	3	606	0	1	0
+75	MUST Ray’s Sophie	ESL	3rd	4th	3rd	3rd	3	590	0	0	0
+76	IIT KGP B	ESL	4th	4th	4th	1st	3	570	1	0	0
+77	Tokyo A	ESL	1st	4th	4th	—	3	464	1	0	0
+78	Bucharest B	ESL	1st	4th	—	—	3	307	1	0	1
+79	Swing 2		—	—	1st	—	3	154	1	0	0
+80	Swing 1		—	—	1st	—	3	150	1	0	1
+81	Tokyo D	ESL	3rd	4th	3rd	4th	2	598	0	0	1
+82	Osaka A		4th	2nd	4th	—	2	464	0	1	0
+83	NUS Ashley &amp; Vincent		4th	2nd	4th	—	2	458	0	1	0
+84	Tokyo B	ESL	4th	2nd	—	—	2	308	0	1	0
+85	IISERB Sunshine and Grumpus		4th	4th	4th	3rd	1	561	0	0	0
+86	SLSxDYP	ESL	3rd	4th	4th	4th	1	535	0	0	1
+87	Penn/Warsaw KW	ESL	3rd	4th	4th	—	1	457	0	0	0
+88	Turan A	ESL	4th	4th	3rd	—	1	451	0	0	0
+89	Ilorin Arigato		4th	3rd	4th	—	1	378	0	0	0
+90	Swing 3		—	—	3rd	—	1	140	0	0	1
+91	UPD New hair, new tee, new jeans, do y		4th	4th	—	—	0	305	0	0	0
+92=	Weizmann R&amp;D	ESL	—	—	—	—	—	—	0	0	0
+92=	LinkedIn Connections Made at a Bar		—	—	—	—	—	—	0	0	0
+92=	Tough Love	ESL	—	—	—	—	—	—	0	0	0
+
+
+Rk	name	category	team	R1	R2	R3	R4	Total	Avg	Stdev
+1	Naomi Panovka		Crazy and Overrated	84	82	81	87	334	83.50	2.29
+2	Ana Coman	ESL	Bucharest A	83	80	81	86	330	82.50	2.29
+3	Valeriu Carasel	ESL, EFL	Bucharest A	83	80	80	86	329	82.25	2.49
+4	X		If tiger sound like fren why it no	81	82	83	82	328	82.00	0.71
+5=	Beatrice Cuizon		Ateneo de Manila CF	81	80	80	84	325	81.25	1.64
+5=	Lucie Slamova		The Cleaners from Venus	82	80	82	81	325	81.25	0.83
+7	Shaurya Chandravanshi		Indian + Jew = Goldberg	81	81	83	79	324	81.00	1.41
+8=	Daniela Williams		LSE I sacrifice my life for Pakistan	79	80	82	82	323	80.75	1.30
+8=	Tanae Rao		LSE I sacrifice my life for Pakistan	78	80	83	82	323	80.75	1.92
+8=	Eli Pallrand		The Cleaners from Venus	81	79	81	82	323	80.75	1.09
+8=	Madeleine Wu		Dartmouth mitsubishi outlander	81	82	79	81	323	80.75	1.09
+12	Ryan Lafferty		Dartmouth mitsubishi outlander	82	80	81	79	322	80.50	1.12
+13	Mukudzeiishe Madzivire		Columbia A	83	78	80	80	321	80.25	1.79
+14=	Riva Fong		Ateneo de Manila CF	81	77	79	83	320	80.00	2.24
+14=	Claire Beamer		Stanford BC	80	79	80	81	320	80.00	0.71
+14=	Nadia Chung		Stanford BC	80	79	79	82	320	80.00	1.22
+14=	Amitai Ben Porat	ESL	Indian + Jew = Goldberg	82	79	78	81	320	80.00	1.58
+14=	Zaakir Zulfikar	Novice	UoL Autistic? Yes.	78	79	81	82	320	80.00	1.58
+19=	Benjamin Scherzer		Columbia A	83	77	80	79	319	79.75	2.17
+19=	Ted Chang		MUST A	83	78	80	78	319	79.75	2.05
+19=	George Fragkiadakis	ESL, EFL	Athens A	81	80	81	77	319	79.75	1.64
+19=	Helen Wu		Chicago Wu-Jiang Clan	80	78	81	80	319	79.75	1.09
+19=	Arjun Raman		UoL Autistic? Yes.	79	80	80	80	319	79.75	0.43
+24=	Reana Yan		chicken talking to duck	82	80	78	78	318	79.50	1.66
+24=	Panagis Gouvelis	ESL, EFL	Athens A	81	80	81	76	318	79.50	2.06
+24=	Ethan Jiang		Chicago Wu-Jiang Clan	80	78	80	80	318	79.50	0.87
+24=	Ale Perri		Chicago A	77	79	81	81	318	79.50	1.66
+24=	Veer Juneja		USC BRICS	80	82	79	77	318	79.50	1.80
+24=	Alexandr Sušić		Edinburgh A(lexes)	81	79	78	80	318	79.50	1.12
+30=	Lia Denise Tan	ESL	UPLB final test run	80	78	81	78	317	79.25	1.30
+30=	Cavan Tay		NUS Ang and Tay	78	81	80	78	317	79.25	1.30
+30=	Andres Felipe Juan Revelo Cuellar	ESL, EFL	Rosario Diego casi se desmaya en la montañ	81	79	80	77	317	79.25	1.48
+30=	Alyssa Salazar		Ateneo de Manila SY	80	81	79	77	317	79.25	1.48
+30=	Alexandra Ypil		Ateneo de Manila SY	79	81	79	78	317	79.25	1.09
+30=	Alexandr Carr		Edinburgh A(lexes)	80	79	78	80	317	79.25	0.83
+36=	Leauren S. Ji		UCL A (not to be confused with UCLA)	84	81	76	75	316	79.00	3.67
+36=	Ahmad Howard		Chicago A	76	78	81	81	316	79.00	2.12
+38=	Harsith R	ESL	IITB One Brain Cell	79	78	78	80	315	78.75	0.83
+38=	Evgenia Zubko	ESL, EFL	OSCA A	79	77	81	78	315	78.75	1.48
+38=	Thej Mallu		Thej Pays Remittances	78	81	80	76	315	78.75	1.92
+38=	Ben Nadzmier Bensali	ESL	UPLB final test run	80	77	82	76	315	78.75	2.38
+38=	Rick Tan		UCL A (not to be confused with UCLA)	82	80	77	76	315	78.75	2.38
+38=	Garvit Gosain	ESL	Insti teammates ne mana karke auka	80	78	79	78	315	78.75	0.83
+38=	Jessica Zapata	ESL, EFL	Rosario Diego casi se desmaya en la montañ	79	79	80	77	315	78.75	1.09
+38=	Omesh Dhar Dwivedi		Drexel Last minute grind	80	78	79	78	315	78.75	0.83
+46=	Yashovardhan Balakrishnan	ESL	VIT monke and donki womp compilation	76	78	77	83	314	78.50	2.69
+46=	Rdu Dillon		NUS DT	82	75	78	79	314	78.50	2.50
+46=	Zach Godley-McAvoy		Aberystwyth A	80	80	78	76	314	78.50	1.66
+46=	Sambhav Jain	ESL, Novice, Schools	The Magnolias	76	82	77	79	314	78.50	2.29
+46=	Ashley Placid	ESL	IIT KGP C	80	75	79	80	314	78.50	2.06
+46=	Lois Naomi Ang		NUS Ang and Tay	79	80	78	77	314	78.50	1.12
+46=	Adam Mallis		Edinburgh (not) A(damburgh and Alishburgh)	80	80	79	75	314	78.50	2.06
+46=	Siddharth Sisodia	ESL	NLIUB Legendary Pokémons	75	79	79	81	314	78.50	2.18
+46=	Vijay Awatade	ESL	IITB JoGoat	78	81	77	78	314	78.50	1.50
+46=	Taichi Fukami	ESL, EFL	Keio YF	82	78	76	78	314	78.50	2.18
+46=	David Mencias		UPD Bay Bay	78	78	79	79	314	78.50	0.50
+46=	Marilyn Ben		USC BRICS	79	80	78	77	314	78.50	1.12
+58=	Eugene Akulov	ESL, EFL	OSCA A	79	77	80	77	313	78.25	1.30
+58=	Archit Lahiri	ESL	VIT monke and donki womp compilation	76	78	77	82	313	78.25	2.28
+58=	Alldon Garren Tan	Novice	Cambridge Medium rare	79	78	78	78	313	78.25	0.43
+58=	Ines Neri		Ateneo LN	80	79	74	80	313	78.25	2.49
+58=	Rogelio Largo		Ateneo LN	81	79	73	80	313	78.25	3.11
+58=	Raunak Mukherjee	ESL	IITB JoGoat	79	82	75	77	313	78.25	2.59
+58=	Lamia Nur Rahman	ESL	HWS Not another 3am	77	75	82	79	313	78.25	2.59
+65=	Avyay M C	ESL	VIT CD	77	81	78	76	312	78.00	1.87
+65=	Anubhav Mitra	ESL	IIT KGP C	79	76	78	79	312	78.00	1.22
+65=	Jemimah Lee	Novice	Cambridge Medium rare	78	79	78	77	312	78.00	0.71
+65=	Brian Li		Chicago LL	78	79	76	79	312	78.00	1.22
+65=	Arina Dumitru	ESL, EFL, Novice	Bucharest C	79	75	79	79	312	78.00	1.73
+70=	Alexandra Uy-Tioco		UPenn chinese colonies	76	80	78	77	311	77.75	1.48
+70=	Manasija Das	ESL	VIT CD	75	80	78	78	311	77.75	1.79
+70=	Nayantara R	ESL	IITB SN	76	78	77	80	311	77.75	1.48
+70=	Shashwat Dash	ESL	Insti teammates ne mana karke auka	79	77	78	77	311	77.75	0.83
+70=	David Bejarin		Ateneo de Manila BG	79	75	76	81	311	77.75	2.38
+70=	Anshuman Mishra	ESL	NLIUB Legendary Pokémons	74	79	78	80	311	77.75	2.28
+70=	Matcha Cual		UPD Bay Bay	76	79	78	78	311	77.75	1.09
+70=	Bowser Liu		Chicago LL	78	79	76	78	311	77.75	1.09
+78=	Sharun Nikesh	ESL	IITB SN	75	78	76	81	310	77.50	2.29
+78=	Justin Wu		Thej Pays Remittances	78	78	78	76	310	77.50	0.87
+78=	Kyle Go		Ateneo de Manila BG	78	75	76	81	310	77.50	2.29
+78=	Alishba Irfan		Edinburgh (not) A(damburgh and Alishburgh)	78	80	77	75	310	77.50	1.80
+78=	Saleem Salisu	ESL	KNUST A - Dorvlo and Salisu	81	77	75	77	310	77.50	2.18
+83=	Apal Jain	ESL, Novice, Schools	The Magnolias	74	81	76	78	309	77.25	2.59
+83=	Jaypheth Balang Paul	ESL	KCL Tuna Mayo Sandwiches and Spanking	75	78	78	78	309	77.25	1.30
+83=	Amal Dhivyan Gregory	ESL, Novice	VIT Happiness is Rs.140	74	79	78	78	309	77.25	1.92
+83=	Felix Reischl	ESL	Berlin A	79	74	77	79	309	77.25	2.05
+83=	Genesis O. Ben	ESL	KNUST Genesis &amp; Pascal	76	77	77	79	309	77.25	1.09
+83=	Mihai Mihaiescu	ESL, EFL	Bucharest C	78	75	78	78	309	77.25	1.30
+89=	Namay Modi	ESL	Naomi Stans	77	77	76	78	308	77.00	0.71
+89=	Cyrus Braden	Novice	Czech this out	75	78	78	77	308	77.00	1.22
+89=	Tarun Adarsh RS	ESL, Novice	VIT Happiness is Rs.140	74	78	78	78	308	77.00	1.73
+89=	Joshua Low Zhongyu		Cambridge ZJ	75	80	76	77	308	77.00	1.87
+89=	Jerry Jose	ESL, Novice	Some mitochondria bro regen	80	77	73	78	308	77.00	2.55
+94=	Jack Jillings		Our analysis is complex; our argum	78	80	73	76	307	76.75	2.59
+94=	Amitai Wagner	ESL	The Arab Wagner Group	78	79	78	72	307	76.75	2.77
+94=	Clairene Tan		NUS DT	79	74	76	78	307	76.75	1.92
+94=	Muhammad Zufar Farhan Zuhdi	ESL, EFL	Cambridge ZJ	75	79	76	77	307	76.75	1.48
+94=	Pascal Blaise	ESL	KNUST Genesis &amp; Pascal	76	76	76	79	307	76.75	1.30
+94=	Mikayla Zedek	Novice	Dartmouth pumpkins	77	75	75	80	307	76.75	2.05
+94=	Nathan Tamkin	Novice	Dartmouth pumpkins	77	76	74	80	307	76.75	2.17
+101=	Ramy Maslha	ESL	The Arab Wagner Group	78	78	77	73	306	76.50	2.06
+101=	Sumedh Chatterjee	ESL, Novice	Naomi Stans	76	76	76	78	306	76.50	0.87
+101=	Emma Hansen	ESL	Berlin A	80	73	74	79	306	76.50	3.04
+104=	Snigdha Priyadarshini	ESL	VIT Yeh saale dps ke bacche	75	77	77	76	305	76.25	0.83
+104=	Adrian Duque	ESL, EFL	USFQ Egoists	74	79	77	75	305	76.25	1.92
+104=	Alex Gao	ESL, EFL	MUST A	79	72	78	76	305	76.25	2.68
+104=	Wayne Lim		NTU Double Barrel	76	78	77	74	305	76.25	1.48
+104=	Ha Duy Thanh		NTU Double Barrel	78	78	75	74	305	76.25	1.79
+104=	Soh Kay Boon		NTU Neo &amp; Soh	79	79	69	78	305	76.25	4.21
+110=	Owen Goodacre		Our analysis is complex; our argum	78	79	73	74	304	76.00	2.55
+110=	Humam Aziz		MDU Seventeenth	76	78	75	75	304	76.00	1.22
+110=	Halina Li		MDU Seventeenth	76	77	76	75	304	76.00	0.71
+110=	Ashish Srivastava	ESL, Novice	Some mitochondria bro regen	79	75	72	78	304	76.00	2.74
+110=	Sandeep Tissaaratchy	ESL	HWS Not another 3am	75	74	80	75	304	76.00	2.35
+110=	Kojo O. Acheampong	ESL	KNUST B	78	76	74	76	304	76.00	1.41
+116=	Arvind Kumar	ESL	VIT Yeh saale dps ke bacche	74	77	77	75	303	75.75	1.30
+116=	Akashneel Raychaudhuri	ESL, Novice	IIT KGP A	73	72	77	81	303	75.75	3.56
+116=	Angelo Saavedra	ESL, EFL	USFQ Egoists	73	78	77	75	303	75.75	1.92
+116=	Dinesh Bhandari	ESL, Novice	VIT way to toilet 🔥	75	76	74	78	303	75.75	1.48
+116=	Aradom Belai		SLS-P Nora Inu	72	77	76	78	303	75.75	2.28
+116=	Anika Khanna		Chicago UChi-ldren	73	79	76	75	303	75.75	2.17
+116=	Way De		NTU Neo &amp; Soh	77	80	69	77	303	75.75	4.09
+116=	Adetunji Tesleem Oluwakayode	ESL	Ilorin Unilorin	75	72	78	78	303	75.75	2.49
+124=	Harsh Singh	ESL, Novice	IIT KGP A	75	71	76	80	302	75.50	3.20
+124=	Adam Černička	ESL	Czech this out	72	77	76	77	302	75.50	2.06
+124=	Jesenia Parthasarathy		Chicago UChi-ldren	73	76	77	76	302	75.50	1.50
+124=	Kelvin Damptey	ESL	KNUST B	77	75	74	76	302	75.50	1.12
+128	Takeshi Matsuda	ESL	Tokyo D	75	74	72	76	297	74.25	1.48
+129	Donner Tang		Macau More welfare	73	71	76	76	296	74.00	2.12
+130=	Sophie Yuan	ESL, EFL	MUST Ray’s Sophie	75	75	74	71	295	73.75	1.64
+130=	Ray Yang	ESL, EFL	MUST Ray’s Sophie	76	75	74	70	295	73.75	2.28
+132	Lynnette Pang	ESL, EFL	Macau More welfare	73	72	75	72	292	73.00	1.22
+133	Vishnuvardhan Murali	ESL, Novice	IIT KGP B	73	70	69	76	288	72.00	2.74
+134	Adeeba Alam Ansari	ESL, Novice	IIT KGP B	73	68	68	73	282	70.50	2.50
+135	Yashika Sinha	Novice	IISERB Sunshine and Grumpus	74	59	71	77	281	70.25	6.83
+136	Ranjan Bassi	Novice	IISERB Sunshine and Grumpus	74	59	69	78	280	70.00	7.11
+137	Aditi Rai	ESL, Novice	SLSxDYP	74	73	50	68	265	66.25	9.65
+138	Matt Mauriello		Crazy and Overrated	83	82	80	—	245	81.67	1.25
+139	Shaun Lee		chicken talking to duck	81	81	—	79	241	80.33	0.94
+140	Alexandra McCreadie		Aberystwyth A	79	80	—	81	240	80.00	0.82
+141	Mahor Nagda	ESL	IITB One Brain Cell	80	78	—	80	238	79.33	0.94
+142	Ashwin Laksumanage		UPenn chinese colonies	77	81	78	—	236	78.67	1.70
+143	Kotaro Yoshida	ESL	Tokyo A	79	79	76	—	234	78.00	1.41
+144=	Minami Matsushima		Osaka A	78	80	75	—	233	77.67	2.05
+144=	Desmond Dorvlo	ESL	KNUST A - Dorvlo and Salisu	81	76	—	76	233	77.67	2.36
+146=	Joshua Stone	Novice	KCL Tuna Mayo Sandwiches and Spanking	75	79	—	78	232	77.33	1.70
+146=	Harshitha Dasari		USC Maodi	75	80	77	—	232	77.33	2.05
+146=	Hassana Abdullahi maimako	ESL	Ilorin Unilorin	—	76	77	79	232	77.33	1.25
+149=	Yuta Yamagishi	ESL, EFL	Osaka A	78	79	74	—	231	77.00	2.16
+149=	Gaurangi Pande		SLS-P Nora Inu	75	79	77	—	231	77.00	1.63
+149=	Anna Liu		USC Maodi	73	80	78	—	231	77.00	2.94
+149=	Kim Chaewon	Novice	NTU GK	76	79	76	—	231	77.00	1.41
+149=	Sharleen Goh		NTU GK	77	78	76	—	231	77.00	0.82
+154=	Ashley Wee		NUS Ashley &amp; Vincent	80	75	75	—	230	76.67	2.36
+154=	Yuichi Masaoka	ESL	Tokyo A	76	79	75	—	230	76.67	1.70
+156=	Redacted	ESL, EFL	—	79	76	74	—	229	76.33	2.05
+156=	Riho Takahashi	ESL	Tokyo D	77	75	—	77	229	76.33	0.94
+156=	Wong Lit Wen		NTU WB	73	77	79	—	229	76.33	2.49
+159=	Redacted	ESL, EFL	—	79	76	73	—	228	76.00	2.45
+159=	Vincent Chau		NUS Ashley &amp; Vincent	80	74	74	—	228	76.00	2.83
+161	Hana Bajrai		NTU WB	72	77	78	—	227	75.67	2.62
+162	Arnur Katayev	ESL, EFL	Turan A	77	75	74	—	226	75.33	1.25
+163	Nurtas Kuzdeubayev	ESL, EFL	Turan A	77	75	73	—	225	75.00	1.63
+164	Ritu Hiremath	ESL, Novice	VIT way to toilet 🔥	75	75	73	—	223	74.33	0.94
+165	Aman Goyal	ESL	SLSxDYP	75	77	50	—	202	67.33	12.28
+166=	Timothy Adediran	Novice	Ilorin Arigato	67	72	50	—	189	63.00	9.42
+166=	Anjorin Teminijesu	Novice	Ilorin Arigato	67	72	50	—	189	63.00	9.42
+168=	Theo Simion	ESL	Bucharest B	78	76	—	—	154	77.00	1.00
+168=	Haruka Sawazaki	ESL, EFL	Tokyo B	76	78	—	—	154	77.00	1.00
+168=	Taiki Tshuchiya	ESL, EFL	Tokyo B	75	79	—	—	154	77.00	2.00
+171	Jaime Castro		UPD New hair, new tee, new jeans, do y	76	77	—	—	153	76.50	0.50
+172	Luis Garcia		UPD New hair, new tee, new jeans, do y	76	76	—	—	152	76.00	0.00
+173	Emily Shi		If tiger sound like fren why it no	—	—	82	—	82	82.00	0.00
+174=	Dragoș Sassu	ESL	Bucharest B	77	—	—	—	77	77.00	0.00
+174=	Speaker 1		Swing 2	—	—	77	—	77	77.00	0.00
+174=	Speaker 2		Swing 2	—	—	77	—	77	77.00	0.00
+177	Speaker 1		Swing 1	—	—	75	—	75	75.00	0.00
+178	Speaker 1		Swing 3	—	—	70	—	70	70.00	0.00
+179=	Meredith Wang	ESL, EFL	Tough Love	—	—	—	—	—	—	—
+179=	Li Miao	ESL, EFL	Tough Love	—	—	—	—	—	—	—
+179=	Dror Brook	ESL	Weizmann R&amp;D	—	—	—	—	—	—	—
+179=	Roi&#x27; Makov	ESL	Weizmann R&amp;D	—	—	—	—	—	—	—
+179=	Meg Kandarpa		LinkedIn Connections Made at a Bar	—	—	—	—	—	—	—
+179=	Pranav Anand		LinkedIn Connections Made at a Bar	—	—	—	—	—	—	—
+179=	Ankur Gupta		Drexel Last minute grind	—	—	—	—	—	—	—
+179=	Keisui Yamagiwa	ESL, EFL	Keio YF	—	—	—	—	—	—	—
+179=	Speaker 2		Swing 1	—	—	—	—	—	—	—
+179=	Speaker 2		Swing 3	—	—	—	—	—	—	—
+
+
+team	result	side	adjudicators
+Drexel Last minute grind	1st	Opening Government	Anna ShrederⒸ , Garv ChawlaⓉ
+UPD Bay Bay	3rd	Closing Government	Anna ShrederⒸ , Garv ChawlaⓉ
+UPD New hair, new tee, new jeans, do y	4th	Closing Opposition	Anna ShrederⒸ , Garv ChawlaⓉ
+KNUST B	2nd	Opening Opposition	Anna ShrederⒸ , Garv ChawlaⓉ
+Rosario Diego casi se desmaya en la montañ	3rd	Opening Opposition	Uphie AbdurrahmanⒸ , Taera Singh , Allen Emmanuel BinnyⓉ
+Keio YF	2nd	Closing Government	Uphie AbdurrahmanⒸ , Taera Singh , Allen Emmanuel BinnyⓉ
+Some mitochondria bro regen	4th	Opening Government	Uphie AbdurrahmanⒸ , Taera Singh , Allen Emmanuel BinnyⓉ
+Bucharest A	1st	Closing Opposition	Uphie AbdurrahmanⒸ , Taera Singh , Allen Emmanuel BinnyⓉ
+IITB One Brain Cell	2nd	Opening Opposition	Ryosei KobayashiⒸ , Brian Kam , Dhruv Leekha
+Osaka A	4th	Opening Government	Ryosei KobayashiⒸ , Brian Kam , Dhruv Leekha
+MUST A	1st	Closing Opposition	Ryosei KobayashiⒸ , Brian Kam , Dhruv Leekha
+Ateneo de Manila BG	3rd	Closing Government	Ryosei KobayashiⒸ , Brian Kam , Dhruv Leekha
+VIT monke and donki womp compilation	4th	Closing Government	Tamar Ben MeirⒸ , Aliyah Herlihy
+Crazy and Overrated	1st	Closing Opposition	Tamar Ben MeirⒸ , Aliyah Herlihy
+LSE I sacrifice my life for Pakistan	2nd	Opening Government	Tamar Ben MeirⒸ , Aliyah Herlihy
+NTU Double Barrel	3rd	Opening Opposition	Tamar Ben MeirⒸ , Aliyah Herlihy
+UPLB final test run	1st	Closing Government	Rushdoon AhmedⒸ , Cici Liu
+IIT KGP B	4th	Closing Opposition	Rushdoon AhmedⒸ , Cici Liu
+IITB JoGoat	2nd	Opening Government	Rushdoon AhmedⒸ , Cici Liu
+KNUST Genesis &amp; Pascal	3rd	Opening Opposition	Rushdoon AhmedⒸ , Cici Liu
+Columbia A	1st	Closing Opposition	Jack PalmerⒸ , Pranjal Chakraborty , Won Chor Ning, NicoleⓉ
+OSCA A	3rd	Opening Opposition	Jack PalmerⒸ , Pranjal Chakraborty , Won Chor Ning, NicoleⓉ
+Cambridge ZJ	4th	Closing Government	Jack PalmerⒸ , Pranjal Chakraborty , Won Chor Ning, NicoleⓉ
+KNUST A - Dorvlo and Salisu	2nd	Opening Government	Jack PalmerⒸ , Pranjal Chakraborty , Won Chor Ning, NicoleⓉ
+VIT CD	3rd	Opening Government	Amelia PotockaⒸ , Harshvardhan jakher , Samuel Johnson
+Athens A	1st	Closing Opposition	Amelia PotockaⒸ , Harshvardhan jakher , Samuel Johnson
+Edinburgh (not) A(damburgh and Alishburgh)	2nd	Closing Government	Amelia PotockaⒸ , Harshvardhan jakher , Samuel Johnson
+Tokyo B	4th	Opening Opposition	Amelia PotockaⒸ , Harshvardhan jakher , Samuel Johnson
+NUS DT	2nd	Opening Opposition	Ashish KumarⒸ , Shivani Mishra
+IIT KGP A	4th	Closing Opposition	Ashish KumarⒸ , Shivani Mishra
+UCL A (not to be confused with UCLA)	1st	Closing Government	Ashish KumarⒸ , Shivani Mishra
+SLSxDYP	3rd	Opening Government	Ashish KumarⒸ , Shivani Mishra
+Macau More welfare	4th	Closing Opposition	Miriam KalmanⒸ , Zixuan YeoⓉ
+SLS-P Nora Inu	3rd	Opening Government	Miriam KalmanⒸ , Zixuan YeoⓉ
+Chicago A	1st	Opening Opposition	Miriam KalmanⒸ , Zixuan YeoⓉ
+USC Maodi	2nd	Closing Government	Miriam KalmanⒸ , Zixuan YeoⓉ
+Stanford BC	2nd	Opening Government	Fernanda Crousillat RayterⒸ , Pop VladⓉ
+The Cleaners from Venus	1st	Opening Opposition	Fernanda Crousillat RayterⒸ , Pop VladⓉ
+NUS Ang and Tay	3rd	Closing Government	Fernanda Crousillat RayterⒸ , Pop VladⓉ
+Chicago LL	4th	Closing Opposition	Fernanda Crousillat RayterⒸ , Pop VladⓉ
+Thej Pays Remittances	2nd	Opening Opposition	Paolo TainoⒸ , Keshav Rai BramhabhattⓉ
+VIT way to toilet 🔥	4th	Closing Government	Paolo TainoⒸ , Keshav Rai BramhabhattⓉ
+MUST Ray’s Sophie	3rd	Opening Government	Paolo TainoⒸ , Keshav Rai BramhabhattⓉ
+UoL Autistic? Yes.	1st	Closing Opposition	Paolo TainoⒸ , Keshav Rai BramhabhattⓉ
+Indian + Jew = Goldberg	1st	Opening Government	Josef MoscoviciⒸ , Tran Huu NghiaⓉ
+NUS Ashley &amp; Vincent	4th	Opening Opposition	Josef MoscoviciⒸ , Tran Huu NghiaⓉ
+If tiger sound like fren why it no	2nd	Closing Government	Josef MoscoviciⒸ , Tran Huu NghiaⓉ
+Edinburgh A(lexes)	3rd	Closing Opposition	Josef MoscoviciⒸ , Tran Huu NghiaⓉ
+IITB SN	4th	Closing Government	Klaudia MaciejewskaⒸ , Nga Ji YangⓉ
+chicken talking to duck	1st	Opening Opposition	Klaudia MaciejewskaⒸ , Nga Ji YangⓉ
+Tokyo D	3rd	Opening Government	Klaudia MaciejewskaⒸ , Nga Ji YangⓉ
+Berlin A	2nd	Closing Opposition	Klaudia MaciejewskaⒸ , Nga Ji YangⓉ
+IIT KGP C	2nd	Opening Opposition	Juanita Hincapié RestrepoⒸ , Rajyawardhan SinghⓉ
+Dartmouth mitsubishi outlander	1st	Closing Opposition	Juanita Hincapié RestrepoⒸ , Rajyawardhan SinghⓉ
+Dartmouth pumpkins	3rd	Closing Government	Juanita Hincapié RestrepoⒸ , Rajyawardhan SinghⓉ
+Ilorin Unilorin	4th	Opening Government	Juanita Hincapié RestrepoⒸ , Rajyawardhan SinghⓉ
+Penn/Warsaw KW	3rd	Closing Government	Ogundare Taye OluwatobilolaⒸ , Sree Varshini V PⓉ
+The Arab Wagner Group	4th	Opening Opposition	Ogundare Taye OluwatobilolaⒸ , Sree Varshini V PⓉ
+Ateneo de Manila CF	1st	Opening Government	Ogundare Taye OluwatobilolaⒸ , Sree Varshini V PⓉ
+USC BRICS	2nd	Closing Opposition	Ogundare Taye OluwatobilolaⒸ , Sree Varshini V PⓉ
+Naomi Stans	2nd	Opening Government	Abhishek AcharyaⒸ , James Mario FigoⓉ
+KCL Tuna Mayo Sandwiches and Spanking	3rd	Closing Government	Abhishek AcharyaⒸ , James Mario FigoⓉ
+Bucharest B	1st	Closing Opposition	Abhishek AcharyaⒸ , James Mario FigoⓉ
+Chicago UChi-ldren	4th	Opening Opposition	Abhishek AcharyaⒸ , James Mario FigoⓉ
+MDU Seventeenth	3rd	Closing Opposition	Martha McKinney-PerryⒸ , Swapnil AichbhaumikⓉ
+Ateneo de Manila SY	1st	Opening Opposition	Martha McKinney-PerryⒸ , Swapnil AichbhaumikⓉ
+IISERB Sunshine and Grumpus	4th	Opening Government	Martha McKinney-PerryⒸ , Swapnil AichbhaumikⓉ
+Bucharest C	2nd	Closing Government	Martha McKinney-PerryⒸ , Swapnil AichbhaumikⓉ
+Aberystwyth A	2nd	Opening Government	Velina AndonovaⒸ , Ojas Date
+Ateneo LN	1st	Closing Opposition	Velina AndonovaⒸ , Ojas Date
+Turan A	4th	Opening Opposition	Velina AndonovaⒸ , Ojas Date
+NTU Neo &amp; Soh	3rd	Closing Government	Velina AndonovaⒸ , Ojas Date
+VIT Happiness is Rs.140	4th	Closing Opposition	UzairⒸ , Joyce Delali KpegloⓉ
+Cambridge Medium rare	1st	Opening Government	UzairⒸ , Joyce Delali KpegloⓉ
+NLIUB Legendary Pokémons	3rd	Opening Opposition	UzairⒸ , Joyce Delali KpegloⓉ
+NTU GK	2nd	Closing Government	UzairⒸ , Joyce Delali KpegloⓉ
+USFQ Egoists	3rd	Closing Opposition	William SmithⒸ , Lim Cheng En, LesterⓉ
+The Magnolias	2nd	Opening Government	William SmithⒸ , Lim Cheng En, LesterⓉ
+HWS Not another 3am	1st	Opening Opposition	William SmithⒸ , Lim Cheng En, LesterⓉ
+Ilorin Arigato	4th	Closing Government	William SmithⒸ , Lim Cheng En, LesterⓉ
+UPenn chinese colonies	4th	Closing Government	Yael WolffⒸ , Ibrahim Qareebat AdedoyinⓉ
+Our analysis is complex; our argum	3rd	Opening Opposition	Yael WolffⒸ , Ibrahim Qareebat AdedoyinⓉ
+Insti teammates ne mana karke auka	2nd	Closing Opposition	Yael WolffⒸ , Ibrahim Qareebat AdedoyinⓉ
+Chicago Wu-Jiang Clan	1st	Opening Government	Yael WolffⒸ , Ibrahim Qareebat AdedoyinⓉ
+VIT Yeh saale dps ke bacche	2nd	Opening Government	Hadar GoldbergⒸ , Jim BalatosⓉ
+Czech this out	3rd	Closing Opposition	Hadar GoldbergⒸ , Jim BalatosⓉ
+Tokyo A	1st	Opening Opposition	Hadar GoldbergⒸ , Jim BalatosⓉ
+NTU WB	4th	Closing Government	Hadar GoldbergⒸ , Jim BalatosⓉ
+
+
+team	result	side	adjudicators
+Ateneo de Manila CF	1st	Closing Opposition	Hadar GoldbergⒸ , Joyce Delali KpegloⓉ
+MUST A	2nd	Opening Opposition	Hadar GoldbergⒸ , Joyce Delali KpegloⓉ
+Berlin A	4th	Opening Government	Hadar GoldbergⒸ , Joyce Delali KpegloⓉ
+HWS Not another 3am	3rd	Closing Government	Hadar GoldbergⒸ , Joyce Delali KpegloⓉ
+IIT KGP C	3rd	Opening Government	Ruth SilcoffⒸ , Aliyah Herlihy , Nga Ji YangⓉ
+Insti teammates ne mana karke auka	2nd	Closing Government	Ruth SilcoffⒸ , Aliyah Herlihy , Nga Ji YangⓉ
+Edinburgh (not) A(damburgh and Alishburgh)	1st	Closing Opposition	Ruth SilcoffⒸ , Aliyah Herlihy , Nga Ji YangⓉ
+Bucharest C	4th	Opening Opposition	Ruth SilcoffⒸ , Aliyah Herlihy , Nga Ji YangⓉ
+VIT Yeh saale dps ke bacche	3rd	Closing Opposition	Tamar Ben MeirⒸ , Pop VladⓉ
+LSE I sacrifice my life for Pakistan	2nd	Closing Government	Tamar Ben MeirⒸ , Pop VladⓉ
+KNUST A - Dorvlo and Salisu	4th	Opening Opposition	Tamar Ben MeirⒸ , Pop VladⓉ
+USC BRICS	1st	Opening Government	Tamar Ben MeirⒸ , Pop VladⓉ
+Naomi Stans	3rd	Closing Government	Josef MoscoviciⒸ , Swapnil AichbhaumikⓉ
+IITB JoGoat	2nd	Closing Opposition	Josef MoscoviciⒸ , Swapnil AichbhaumikⓉ
+KNUST B	4th	Opening Government	Josef MoscoviciⒸ , Swapnil AichbhaumikⓉ
+If tiger sound like fren why it no	1st	Opening Opposition	Josef MoscoviciⒸ , Swapnil AichbhaumikⓉ
+Macau More welfare	4th	Opening Government	Ryosei KobayashiⒸ , Samuel Johnson
+Tokyo B	2nd	Closing Opposition	Ryosei KobayashiⒸ , Samuel Johnson
+Ilorin Arigato	3rd	Opening Opposition	Ryosei KobayashiⒸ , Samuel Johnson
+Chicago LL	1st	Closing Government	Ryosei KobayashiⒸ , Samuel Johnson
+SLSxDYP	4th	Closing Government	Velina AndonovaⒸ , RedactedⓉ , Lim Cheng En, LesterⓉ
+NUS Ang and Tay	1st	Closing Opposition	Velina AndonovaⒸ , RedactedⓉ , Lim Cheng En, LesterⓉ
+Rosario Diego casi se desmaya en la montañ	3rd	Opening Government	Velina AndonovaⒸ , RedactedⓉ , Lim Cheng En, LesterⓉ
+Cambridge ZJ	2nd	Opening Opposition	Velina AndonovaⒸ , RedactedⓉ , Lim Cheng En, LesterⓉ
+USFQ Egoists	2nd	Opening Opposition	William SmithⒸ , Sree Varshini V PⓉ
+MUST Ray’s Sophie	4th	Closing Opposition	William SmithⒸ , Sree Varshini V PⓉ
+SLS-P Nora Inu	3rd	Closing Government	William SmithⒸ , Sree Varshini V PⓉ
+NLIUB Legendary Pokémons	1st	Opening Government	William SmithⒸ , Sree Varshini V PⓉ
+VIT monke and donki womp compilation	1st	Opening Government	Amelia PotockaⒸ
+Chicago UChi-ldren	2nd	Closing Opposition	Amelia PotockaⒸ
+IISERB Sunshine and Grumpus	4th	Closing Government	Amelia PotockaⒸ
+Ilorin Unilorin	3rd	Opening Opposition	Amelia PotockaⒸ
+Columbia A	3rd	Opening Government	Klaudia MaciejewskaⒸ , James Mario FigoⓉ
+Indian + Jew = Goldberg	2nd	Closing Opposition	Klaudia MaciejewskaⒸ , James Mario FigoⓉ
+Bucharest B	4th	Closing Government	Klaudia MaciejewskaⒸ , James Mario FigoⓉ
+Dartmouth mitsubishi outlander	1st	Opening Opposition	Klaudia MaciejewskaⒸ , James Mario FigoⓉ
+Our analysis is complex; our argum	1st	Opening Government	Martha McKinney-PerryⒸ , Garv ChawlaⓉ
+OSCA A	3rd	Closing Government	Martha McKinney-PerryⒸ , Garv ChawlaⓉ
+KCL Tuna Mayo Sandwiches and Spanking	2nd	Opening Opposition	Martha McKinney-PerryⒸ , Garv ChawlaⓉ
+Dartmouth pumpkins	4th	Closing Opposition	Martha McKinney-PerryⒸ , Garv ChawlaⓉ
+VIT CD	1st	Closing Government	Fernanda Crousillat RayterⒸ , Jim BalatosⓉ
+Penn/Warsaw KW	4th	Opening Government	Fernanda Crousillat RayterⒸ , Jim BalatosⓉ
+NTU Double Barrel	3rd	Closing Opposition	Fernanda Crousillat RayterⒸ , Jim BalatosⓉ
+UPD Bay Bay	2nd	Opening Opposition	Fernanda Crousillat RayterⒸ , Jim BalatosⓉ
+IITB One Brain Cell	3rd	Opening Government	Anna ShrederⒸ , Keshav Rai Bramhabhatt
+NUS DT	4th	Closing Government	Anna ShrederⒸ , Keshav Rai Bramhabhatt
+Aberystwyth A	1st	Closing Opposition	Anna ShrederⒸ , Keshav Rai Bramhabhatt
+NTU GK	2nd	Opening Opposition	Anna ShrederⒸ , Keshav Rai Bramhabhatt
+Czech this out	3rd	Closing Government	Yael WolffⒸ , Zixuan YeoⓉ
+UPD New hair, new tee, new jeans, do y	4th	Opening Government	Yael WolffⒸ , Zixuan YeoⓉ
+NTU Neo &amp; Soh	1st	Closing Opposition	Yael WolffⒸ , Zixuan YeoⓉ
+Edinburgh A(lexes)	2nd	Opening Opposition	Yael WolffⒸ , Zixuan YeoⓉ
+IITB SN	1st	Opening Opposition	Paolo TainoⒸ , Brian Kam , Ibrahim Qareebat AdedoyinⓉ
+VIT way to toilet 🔥	3rd	Opening Government	Paolo TainoⒸ , Brian Kam , Ibrahim Qareebat AdedoyinⓉ
+Turan A	4th	Closing Government	Paolo TainoⒸ , Brian Kam , Ibrahim Qareebat AdedoyinⓉ
+NTU WB	2nd	Closing Opposition	Paolo TainoⒸ , Brian Kam , Ibrahim Qareebat AdedoyinⓉ
+UPenn chinese colonies	1st	Closing Opposition	Rushdoon AhmedⒸ
+Osaka A	2nd	Opening Opposition	Rushdoon AhmedⒸ
+VIT Happiness is Rs.140	3rd	Opening Government	Rushdoon AhmedⒸ
+Some mitochondria bro regen	4th	Closing Government	Rushdoon AhmedⒸ
+The Arab Wagner Group	1st	Closing Opposition	Dhruv LeekhaⒸ , Harshvardhan jakher
+IIT KGP A	3rd	Opening Opposition	Dhruv LeekhaⒸ , Harshvardhan jakher
+NUS Ashley &amp; Vincent	2nd	Opening Government	Dhruv LeekhaⒸ , Harshvardhan jakher
+IIT KGP B	4th	Closing Government	Dhruv LeekhaⒸ , Harshvardhan jakher
+Crazy and Overrated	1st	Opening Opposition	Ogundare Taye OluwatobilolaⒸ , Taera Singh
+UCL A (not to be confused with UCLA)	2nd	Closing Opposition	Ogundare Taye OluwatobilolaⒸ , Taera Singh
+Tokyo A	4th	Closing Government	Ogundare Taye OluwatobilolaⒸ , Taera Singh
+UoL Autistic? Yes.	3rd	Opening Government	Ogundare Taye OluwatobilolaⒸ , Taera Singh
+MDU Seventeenth	1st	Closing Government	Abhishek AcharyaⒸ , Allen Emmanuel BinnyⓉ
+Ateneo de Manila BG	3rd	Opening Government	Abhishek AcharyaⒸ , Allen Emmanuel BinnyⓉ
+Tokyo D	4th	Opening Opposition	Abhishek AcharyaⒸ , Allen Emmanuel BinnyⓉ
+KNUST Genesis &amp; Pascal	2nd	Closing Opposition	Abhishek AcharyaⒸ , Allen Emmanuel BinnyⓉ
+The Cleaners from Venus	2nd	Opening Government	Simon LuoⒸ , Ojas Date
+Chicago Wu-Jiang Clan	4th	Closing Government	Simon LuoⒸ , Ojas Date
+Chicago A	3rd	Closing Opposition	Simon LuoⒸ , Ojas Date
+Bucharest A	1st	Opening Opposition	Simon LuoⒸ , Ojas Date
+UPLB final test run	4th	Opening Government	Juanita Hincapié RestrepoⒸ , Pranjal Chakraborty
+Cambridge Medium rare	3rd	Closing Government	Juanita Hincapié RestrepoⒸ , Pranjal Chakraborty
+Athens A	2nd	Opening Opposition	Juanita Hincapié RestrepoⒸ , Pranjal Chakraborty
+Ateneo de Manila SY	1st	Closing Opposition	Juanita Hincapié RestrepoⒸ , Pranjal Chakraborty
+Thej Pays Remittances	2nd	Opening Government	Jack PalmerⒸ , Olowookere Ganiyat
+The Magnolias	1st	Closing Government	Jack PalmerⒸ , Olowookere Ganiyat
+Stanford BC	3rd	Closing Opposition	Jack PalmerⒸ , Olowookere Ganiyat
+Keio YF	4th	Opening Opposition	Jack PalmerⒸ , Olowookere Ganiyat
+chicken talking to duck	1st	Closing Opposition	Miriam KalmanⒸ , Shivani Mishra
+Ateneo LN	3rd	Opening Government	Miriam KalmanⒸ , Shivani Mishra
+Drexel Last minute grind	4th	Closing Government	Miriam KalmanⒸ , Shivani Mishra
+USC Maodi	2nd	Opening Opposition	Miriam KalmanⒸ , Shivani Mishra
+
+
+team	result	side	adjudicators
+UCL A (not to be confused with UCLA)	4th	Opening Opposition	Jack PalmerⒸ , Garv Chawla
+Athens A	2nd	Opening Government	Jack PalmerⒸ , Garv Chawla
+USC BRICS	3rd	Closing Government	Jack PalmerⒸ , Garv Chawla
+If tiger sound like fren why it no	1st	Closing Opposition	Jack PalmerⒸ , Garv Chawla
+SLS-P Nora Inu	2nd	Opening Opposition	UzairⒸ
+NUS Ashley &amp; Vincent	4th	Closing Government	UzairⒸ
+NTU Double Barrel	3rd	Opening Government	UzairⒸ
+Bucharest C	1st	Closing Opposition	UzairⒸ
+VIT monke and donki womp compilation	3rd	Opening Opposition	Paolo TainoⒸ
+IIT KGP C	1st	Closing Opposition	Paolo TainoⒸ
+KCL Tuna Mayo Sandwiches and Spanking	2nd	Opening Government	Paolo TainoⒸ
+KNUST Genesis &amp; Pascal	4th	Closing Government	Paolo TainoⒸ
+Penn/Warsaw KW	4th	Closing Opposition	Rajyawardhan SinghⒸ
+IIT KGP A	2nd	Opening Government	Rajyawardhan SinghⒸ
+MUST Ray’s Sophie	3rd	Closing Government	Rajyawardhan SinghⒸ
+VIT Happiness is Rs.140	1st	Opening Opposition	Rajyawardhan SinghⒸ
+IITB One Brain Cell	3rd	Closing Government	Diego DuarteⒸ , Ibrahim Qareebat AdedoyinⓉ
+UPenn chinese colonies	2nd	Opening Government	Diego DuarteⒸ , Ibrahim Qareebat AdedoyinⓉ
+Naomi Stans	4th	Opening Opposition	Diego DuarteⒸ , Ibrahim Qareebat AdedoyinⓉ
+Drexel Last minute grind	1st	Closing Opposition	Diego DuarteⒸ , Ibrahim Qareebat AdedoyinⓉ
+VIT Yeh saale dps ke bacche	1st	Closing Government	William SmithⒸ , RedactedⓉ
+Tokyo A	4th	Closing Opposition	William SmithⒸ , RedactedⓉ
+Chicago UChi-ldren	2nd	Opening Government	William SmithⒸ , RedactedⓉ
+Chicago LL	3rd	Opening Opposition	William SmithⒸ , RedactedⓉ
+SLSxDYP	4th	Opening Opposition	Rushdoon AhmedⒸ
+Cambridge ZJ	1st	Opening Government	Rushdoon AhmedⒸ
+KNUST A - Dorvlo and Salisu	2nd	Closing Government	Rushdoon AhmedⒸ
+KNUST B	3rd	Closing Opposition	Rushdoon AhmedⒸ
+Crazy and Overrated	1st	Closing Government	Simon LuoⒸ , Nga Ji Yang
+chicken talking to duck	4th	Opening Government	Simon LuoⒸ , Nga Ji Yang
+Ateneo de Manila CF	2nd	Opening Opposition	Simon LuoⒸ , Nga Ji Yang
+Ateneo de Manila SY	3rd	Closing Opposition	Simon LuoⒸ , Nga Ji Yang
+VIT CD	2nd	Closing Opposition	Klaudia MaciejewskaⒸ , Keshav Rai Bramhabhatt
+The Arab Wagner Group	3rd	Opening Government	Klaudia MaciejewskaⒸ , Keshav Rai Bramhabhatt
+NUS Ang and Tay	1st	Opening Opposition	Klaudia MaciejewskaⒸ , Keshav Rai Bramhabhatt
+IITB JoGoat	4th	Closing Government	Klaudia MaciejewskaⒸ , Keshav Rai Bramhabhatt
+Our analysis is complex; our argum	3rd	Closing Opposition	Hadar GoldbergⒸ , Brian Kam
+MDU Seventeenth	1st	Opening Government	Hadar GoldbergⒸ , Brian Kam
+Ateneo LN	2nd	Closing Government	Hadar GoldbergⒸ , Brian Kam
+NTU Neo &amp; Soh	4th	Opening Opposition	Hadar GoldbergⒸ , Brian Kam
+Aberystwyth A	4th	Opening Opposition	Ruth SilcoffⒸ , Olowookere Ganiyat
+The Cleaners from Venus	1st	Closing Opposition	Ruth SilcoffⒸ , Olowookere Ganiyat
+Dartmouth mitsubishi outlander	3rd	Closing Government	Ruth SilcoffⒸ , Olowookere Ganiyat
+Bucharest A	2nd	Opening Government	Ruth SilcoffⒸ , Olowookere Ganiyat
+Czech this out	3rd	Opening Opposition	Aniket ChakravortyⒸ , Sree Varshini V PⓉ
+Keio YF	4th	Closing Opposition	Aniket ChakravortyⒸ , Sree Varshini V PⓉ
+UPD Bay Bay	1st	Opening Government	Aniket ChakravortyⒸ , Sree Varshini V PⓉ
+Edinburgh A(lexes)	2nd	Closing Government	Aniket ChakravortyⒸ , Sree Varshini V PⓉ
+NUS DT	3rd	Opening Government	Fernanda Crousillat RayterⒸ , Samuel Johnson
+Osaka A	4th	Closing Opposition	Fernanda Crousillat RayterⒸ , Samuel Johnson
+Rosario Diego casi se desmaya en la montañ	1st	Closing Government	Fernanda Crousillat RayterⒸ , Samuel Johnson
+NTU WB	2nd	Opening Opposition	Fernanda Crousillat RayterⒸ , Samuel Johnson
+OSCA A	1st	Opening Government	Amelia PotockaⒸ , Ryosei Kobayashi
+Ateneo de Manila BG	3rd	Opening Opposition	Amelia PotockaⒸ , Ryosei Kobayashi
+Berlin A	4th	Closing Government	Amelia PotockaⒸ , Ryosei Kobayashi
+Ilorin Unilorin	2nd	Closing Opposition	Amelia PotockaⒸ , Ryosei Kobayashi
+Columbia A	2nd	Closing Government	Ogundare Taye OluwatobilolaⒸ
+Insti teammates ne mana karke auka	3rd	Opening Government	Ogundare Taye OluwatobilolaⒸ
+USC Maodi	4th	Closing Opposition	Ogundare Taye OluwatobilolaⒸ
+UoL Autistic? Yes.	1st	Opening Opposition	Ogundare Taye OluwatobilolaⒸ
+IIT KGP B	4th	Opening Government	Aliyah HerlihyⒸ
+Some mitochondria bro regen	2nd	Closing Opposition	Aliyah HerlihyⒸ
+Swing 1	1st	Opening Opposition	Aliyah HerlihyⒸ
+Swing 3	3rd	Closing Government	Aliyah HerlihyⒸ
+IITB SN	4th	Closing Opposition	Martha McKinney-PerryⒸ
+Thej Pays Remittances	2nd	Closing Government	Martha McKinney-PerryⒸ
+Cambridge Medium rare	3rd	Opening Opposition	Martha McKinney-PerryⒸ
+HWS Not another 3am	1st	Opening Government	Martha McKinney-PerryⒸ
+LSE I sacrifice my life for Pakistan	1st	Opening Opposition	Juanita Hincapié RestrepoⒸ
+NLIUB Legendary Pokémons	3rd	Closing Government	Juanita Hincapié RestrepoⒸ
+Chicago A	2nd	Opening Government	Juanita Hincapié RestrepoⒸ
+NTU GK	4th	Closing Opposition	Juanita Hincapié RestrepoⒸ
+UPLB final test run	1st	Closing Opposition	Erasmus Mawuli SegbefiaⒸ , Jim BalatosⓉ
+USFQ Egoists	4th	Opening Government	Erasmus Mawuli SegbefiaⒸ , Jim BalatosⓉ
+Stanford BC	3rd	Closing Government	Erasmus Mawuli SegbefiaⒸ , Jim BalatosⓉ
+Chicago Wu-Jiang Clan	2nd	Opening Opposition	Erasmus Mawuli SegbefiaⒸ , Jim BalatosⓉ
+VIT way to toilet 🔥	2nd	Closing Opposition	Pranjal ChakrabortyⒸ , James Mario FigoⓉ
+Tokyo D	3rd	Closing Government	Pranjal ChakrabortyⒸ , James Mario FigoⓉ
+Ilorin Arigato	4th	Opening Government	Pranjal ChakrabortyⒸ , James Mario FigoⓉ
+Dartmouth pumpkins	1st	Opening Opposition	Pranjal ChakrabortyⒸ , James Mario FigoⓉ
+Macau More welfare	2nd	Opening Opposition	Harshvardhan jakherⒸ , Joyce Delali KpegloⓉ
+IISERB Sunshine and Grumpus	4th	Closing Opposition	Harshvardhan jakherⒸ , Joyce Delali KpegloⓉ
+Turan A	3rd	Opening Government	Harshvardhan jakherⒸ , Joyce Delali KpegloⓉ
+Swing 2	1st	Closing Government	Harshvardhan jakherⒸ , Joyce Delali KpegloⓉ
+The Magnolias	4th	Closing Opposition	Harish NatarajanⒸ , Zixuan Yeo
+Indian + Jew = Goldberg	1st	Opening Opposition	Harish NatarajanⒸ , Zixuan Yeo
+MUST A	2nd	Closing Government	Harish NatarajanⒸ , Zixuan Yeo
+Edinburgh (not) A(damburgh and Alishburgh)	3rd	Opening Government	Harish NatarajanⒸ , Zixuan Yeo
+
+
+team	result	side	adjudicators
+Insti teammates ne mana karke auka	4th	Opening Opposition	Rushdoon AhmedⒸ , Swapnil Aichbhaumik
+NLIUB Legendary Pokémons	1st	Closing Opposition	Rushdoon AhmedⒸ , Swapnil Aichbhaumik
+Chicago Wu-Jiang Clan	2nd	Closing Government	Rushdoon AhmedⒸ , Swapnil Aichbhaumik
+Bucharest C	3rd	Opening Government	Rushdoon AhmedⒸ , Swapnil Aichbhaumik
+UPenn chinese colonies	2nd	Opening Opposition	UzairⒸ , Pop Vlad
+The Arab Wagner Group	4th	Closing Government	UzairⒸ , Pop Vlad
+UCL A (not to be confused with UCLA)	3rd	Opening Government	UzairⒸ , Pop Vlad
+Cambridge Medium rare	1st	Closing Opposition	UzairⒸ , Pop Vlad
+Columbia A	2nd	Opening Opposition	Ogundare Taye OluwatobilolaⒸ , Harshvardhan jakher
+Chicago A	1st	Closing Government	Ogundare Taye OluwatobilolaⒸ , Harshvardhan jakher
+UPD Bay Bay	3rd	Closing Opposition	Ogundare Taye OluwatobilolaⒸ , Harshvardhan jakher
+USC BRICS	4th	Opening Government	Ogundare Taye OluwatobilolaⒸ , Harshvardhan jakher
+Our analysis is complex; our argum	4th	Closing Government	Olja BošnjakⒸ , Olowookere Ganiyat , Allen Emmanuel BinnyⓉ
+The Magnolias	1st	Opening Opposition	Olja BošnjakⒸ , Olowookere Ganiyat , Allen Emmanuel BinnyⓉ
+KCL Tuna Mayo Sandwiches and Spanking	2nd	Closing Opposition	Olja BošnjakⒸ , Olowookere Ganiyat , Allen Emmanuel BinnyⓉ
+Cambridge ZJ	3rd	Opening Government	Olja BošnjakⒸ , Olowookere Ganiyat , Allen Emmanuel BinnyⓉ
+Crazy and Overrated	1st	Opening Opposition	Ashish KumarⒸ , Taera Singh
+Ateneo de Manila CF	3rd	Closing Government	Ashish KumarⒸ , Taera Singh
+If tiger sound like fren why it no	4th	Opening Government	Ashish KumarⒸ , Taera Singh
+Bucharest A	2nd	Closing Opposition	Ashish KumarⒸ , Taera Singh
+IITB One Brain Cell	1st	Closing Opposition	Amelia PotockaⒸ , Won Chor Ning, Nicole
+Chicago UChi-ldren	4th	Closing Government	Amelia PotockaⒸ , Won Chor Ning, Nicole
+KNUST A - Dorvlo and Salisu	3rd	Opening Opposition	Amelia PotockaⒸ , Won Chor Ning, Nicole
+NTU Neo &amp; Soh	2nd	Opening Government	Amelia PotockaⒸ , Won Chor Ning, Nicole
+SLS-P Nora Inu	2nd	Closing Opposition	Paolo TainoⒸ , James Mario FigoⓉ
+IITB JoGoat	3rd	Opening Opposition	Paolo TainoⒸ , James Mario FigoⓉ
+KNUST B	4th	Closing Government	Paolo TainoⒸ , James Mario FigoⓉ
+Chicago LL	1st	Opening Government	Paolo TainoⒸ , James Mario FigoⓉ
+OSCA A	3rd	Closing Opposition	Josef MoscoviciⒸ , Aliyah Herlihy , Tran Huu NghiaⓉ
+Aberystwyth A	2nd	Closing Government	Josef MoscoviciⒸ , Aliyah Herlihy , Tran Huu NghiaⓉ
+Rosario Diego casi se desmaya en la montañ	4th	Opening Opposition	Josef MoscoviciⒸ , Aliyah Herlihy , Tran Huu NghiaⓉ
+Edinburgh A(lexes)	1st	Opening Government	Josef MoscoviciⒸ , Aliyah Herlihy , Tran Huu NghiaⓉ
+VIT Yeh saale dps ke bacche	3rd	Opening Government	Uphie AbdurrahmanⒸ , Rajyawardhan Singh
+chicken talking to duck	1st	Closing Government	Uphie AbdurrahmanⒸ , Rajyawardhan Singh
+UPLB final test run	2nd	Opening Opposition	Uphie AbdurrahmanⒸ , Rajyawardhan Singh
+Edinburgh (not) A(damburgh and Alishburgh)	4th	Closing Opposition	Uphie AbdurrahmanⒸ , Rajyawardhan Singh
+NUS DT	2nd	Closing Opposition	Shivani MishraⒸ
+IITB SN	1st	Opening Government	Shivani MishraⒸ
+NTU Double Barrel	4th	Closing Government	Shivani MishraⒸ
+Some mitochondria bro regen	3rd	Opening Opposition	Shivani MishraⒸ
+Naomi Stans	1st	Closing Opposition	RedactedⒸ
+USFQ Egoists	4th	Closing Government	RedactedⒸ
+VIT way to toilet 🔥	2nd	Opening Opposition	RedactedⒸ
+Czech this out	3rd	Opening Government	RedactedⒸ
+IIT KGP A	2nd	Opening Opposition	Sree Varshini V PⒸ
+Ateneo de Manila BG	1st	Closing Opposition	Sree Varshini V PⒸ
+KNUST Genesis &amp; Pascal	3rd	Opening Government	Sree Varshini V PⒸ
+Ilorin Unilorin	4th	Closing Government	Sree Varshini V PⒸ
+The Cleaners from Venus	1st	Closing Opposition	Velina AndonovaⒸ , Ryosei Kobayashi
+Indian + Jew = Goldberg	2nd	Closing Government	Velina AndonovaⒸ , Ryosei Kobayashi
+MUST A	4th	Opening Opposition	Velina AndonovaⒸ , Ryosei Kobayashi
+Ateneo de Manila SY	3rd	Opening Government	Velina AndonovaⒸ , Ryosei Kobayashi
+VIT CD	4th	Opening Opposition	Shudipto R. AhmedⒸ , Brian Kam , Ojas Date
+LSE I sacrifice my life for Pakistan	1st	Closing Opposition	Shudipto R. AhmedⒸ , Brian Kam , Ojas Date
+NUS Ang and Tay	3rd	Opening Government	Shudipto R. AhmedⒸ , Brian Kam , Ojas Date
+UoL Autistic? Yes.	2nd	Closing Government	Shudipto R. AhmedⒸ , Brian Kam , Ojas Date
+VIT monke and donki womp compilation	1st	Closing Opposition	William SmithⒸ , Garv Chawla
+Stanford BC	2nd	Opening Opposition	William SmithⒸ , Garv Chawla
+VIT Happiness is Rs.140	4th	Closing Government	William SmithⒸ , Garv Chawla
+Dartmouth pumpkins	3rd	Opening Government	William SmithⒸ , Garv Chawla
+Keio YF	2nd	Opening Government	Ibrahim Qareebat AdedoyinⒸ
+IISERB Sunshine and Grumpus	3rd	Opening Opposition	Ibrahim Qareebat AdedoyinⒸ
+Tokyo D	4th	Closing Opposition	Ibrahim Qareebat AdedoyinⒸ
+Berlin A	1st	Closing Government	Ibrahim Qareebat AdedoyinⒸ
+Macau More welfare	2nd	Closing Government	Joyce Delali KpegloⒸ
+MUST Ray’s Sophie	3rd	Opening Government	Joyce Delali KpegloⒸ
+SLSxDYP	4th	Closing Opposition	Joyce Delali KpegloⒸ
+IIT KGP B	1st	Opening Opposition	Joyce Delali KpegloⒸ
+MDU Seventeenth	4th	Opening Opposition	Hadar GoldbergⒸ , Samuel Johnson
+Athens A	3rd	Closing Government	Hadar GoldbergⒸ , Samuel Johnson
+HWS Not another 3am	2nd	Closing Opposition	Hadar GoldbergⒸ , Samuel Johnson
+Dartmouth mitsubishi outlander	1st	Opening Government	Hadar GoldbergⒸ , Samuel Johnson
+Thej Pays Remittances	4th	Closing Opposition	Jack PalmerⒸ
+IIT KGP C	2nd	Closing Government	Jack PalmerⒸ
+Ateneo LN	1st	Opening Government	Jack PalmerⒸ
+Drexel Last minute grind	3rd	Opening Opposition	Jack PalmerⒸ
+
+
+team	result	side	adjudicators
+Ateneo de Manila CF	eliminated	Opening Opposition	Jack PalmerⒸ , Ogundare Taye Oluwatobilola , Taera Singh
+The Cleaners from Venus	advancing	Closing Opposition	Jack PalmerⒸ , Ogundare Taye Oluwatobilola , Taera Singh
+Chicago A	eliminated	Closing Government	Jack PalmerⒸ , Ogundare Taye Oluwatobilola , Taera Singh
+Edinburgh A(lexes)	advancing	Opening Government	Jack PalmerⒸ , Ogundare Taye Oluwatobilola , Taera Singh
+Indian + Jew = Goldberg	eliminated	Opening Opposition	Uphie AbdurrahmanⒸ , Amelia Potocka , Harshvardhan jakher
+Athens A	advancing	Opening Government	Uphie AbdurrahmanⒸ , Amelia Potocka , Harshvardhan jakher
+Ateneo LN	eliminated	Closing Government	Uphie AbdurrahmanⒸ , Amelia Potocka , Harshvardhan jakher
+Bucharest A	advancing	Closing Opposition	Uphie AbdurrahmanⒸ , Amelia Potocka , Harshvardhan jakher
+Columbia A	advancing	Closing Government	Abhishek AcharyaⒸ , Fernanda Crousillat Rayter , Paolo Taino
+LSE I sacrifice my life for Pakistan	eliminated	Closing Opposition	Abhishek AcharyaⒸ , Fernanda Crousillat Rayter , Paolo Taino
+HWS Not another 3am	eliminated	Opening Opposition	Abhishek AcharyaⒸ , Fernanda Crousillat Rayter , Paolo Taino
+Dartmouth mitsubishi outlander	advancing	Opening Government	Abhishek AcharyaⒸ , Fernanda Crousillat Rayter , Paolo Taino
+Crazy and Overrated	advancing	Opening Opposition	Simon LuoⒸ , Rushdoon Ahmed , Samuel Johnson
+chicken talking to duck	eliminated	Closing Opposition	Simon LuoⒸ , Rushdoon Ahmed , Samuel Johnson
+Ateneo de Manila SY	advancing	Opening Government	Simon LuoⒸ , Rushdoon Ahmed , Samuel Johnson
+UoL Autistic? Yes.	eliminated	Closing Government	Simon LuoⒸ , Rushdoon Ahmed , Samuel Johnson
+
+
+team	result	side	adjudicators
+Columbia A	eliminated	Closing Opposition	Amelia PotockaⒸ , Abhishek Acharya , Juanita Hincapié Restrepo
+Crazy and Overrated	advancing	Opening Government	Amelia PotockaⒸ , Abhishek Acharya , Juanita Hincapié Restrepo
+Ateneo de Manila SY	eliminated	Closing Government	Amelia PotockaⒸ , Abhishek Acharya , Juanita Hincapié Restrepo
+Dartmouth mitsubishi outlander	advancing	Opening Opposition	Amelia PotockaⒸ , Abhishek Acharya , Juanita Hincapié Restrepo
+The Cleaners from Venus	advancing	Closing Government	Velina AndonovaⒸ , Samuel Johnson , Simon Luo
+Athens A	eliminated	Closing Opposition	Velina AndonovaⒸ , Samuel Johnson , Simon Luo
+Edinburgh A(lexes)	eliminated	Opening Opposition	Velina AndonovaⒸ , Samuel Johnson , Simon Luo
+Bucharest A	advancing	Opening Government	Velina AndonovaⒸ , Samuel Johnson , Simon Luo
+
+
+team	result	side	adjudicators
+Crazy and Overrated	eliminated	Closing Government	Velina AndonovaⒸ , Abhishek Acharya , Jack Palmer , Paolo Taino , Samuel Johnson
+The Cleaners from Venus	eliminated	Opening Opposition	Velina AndonovaⒸ , Abhishek Acharya , Jack Palmer , Paolo Taino , Samuel Johnson
+Dartmouth mitsubishi outlander	advancing	Opening Government	Velina AndonovaⒸ , Abhishek Acharya , Jack Palmer , Paolo Taino , Samuel Johnson
+Bucharest A	eliminated	Closing Opposition	Velina AndonovaⒸ , Abhishek Acharya , Jack Palmer , Paolo Taino , Samuel Johnson
+
+
+team	result	side	adjudicators
+VIT Yeh saale dps ke bacche	eliminated	Closing Government	Shudipto R. AhmedⒸ , Velina Andonova , William Smith
+VIT monke and donki womp compilation	advancing	Opening Government	Shudipto R. AhmedⒸ , Velina Andonova , William Smith
+IIT KGP C	eliminated	Opening Opposition	Shudipto R. AhmedⒸ , Velina Andonova , William Smith
+NLIUB Legendary Pokémons	advancing	Closing Opposition	Shudipto R. AhmedⒸ , Velina Andonova , William Smith
+IITB One Brain Cell	advancing	Opening Opposition	Josef MoscoviciⒸ , Erasmus Mawuli Segbefia , Juanita Hincapié Restrepo
+OSCA A	eliminated	Closing Government	Josef MoscoviciⒸ , Erasmus Mawuli Segbefia , Juanita Hincapié Restrepo
+UPLB final test run	eliminated	Opening Government	Josef MoscoviciⒸ , Erasmus Mawuli Segbefia , Juanita Hincapié Restrepo
+The Magnolias	advancing	Closing Opposition	Josef MoscoviciⒸ , Erasmus Mawuli Segbefia , Juanita Hincapié Restrepo
+
+
+team	result	side	adjudicators
+IITB One Brain Cell	eliminated	Opening Government	Jack PalmerⒸ , Erasmus Mawuli Segbefia , Paolo Taino , Shudipto R. Ahmed , William Smith
+VIT monke and donki womp compilation	eliminated	Closing Government	Jack PalmerⒸ , Erasmus Mawuli Segbefia , Paolo Taino , Shudipto R. Ahmed , William Smith
+The Magnolias	eliminated	Opening Opposition	Jack PalmerⒸ , Erasmus Mawuli Segbefia , Paolo Taino , Shudipto R. Ahmed , William Smith
+NLIUB Legendary Pokémons	advancing	Closing Opposition	Jack PalmerⒸ , Erasmus Mawuli Segbefia , Paolo Taino , Shudipto R. Ahmed , William Smith
+
